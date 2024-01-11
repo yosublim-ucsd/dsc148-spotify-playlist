@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,130 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,208 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 24 | [Molo \(feat\. Dadju\)](https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 2:56 |
 | 25 | [Parano](https://open.spotify.com/track/5Ts3gJAbMVewHiE5vrrPbb) | [MIYA](https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT) | [Coeur froid](https://open.spotify.com/album/56jucH9s6rmLITqM7N9Ejl) | 2:14 |
 | 26 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 |
-| 27 | [Japonais](https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Japonais](https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV) | 2:45 |
+| 27 | [Japonais](https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Japonais](https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV) | 2:45 |
 | 28 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 |
 | 29 | [Insomnie](https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Plus Comme Avant \(Réedition\)](https://open.spotify.com/album/1iMYREpP3YxR6ePZftIRpy) | 3:04 |
 | 30 | [Love de la mauvaise personne](https://open.spotify.com/track/25pkIqvn5WJFEPD84ab765) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Love de la mauvaise personne](https://open.spotify.com/album/3ybapyASfgy9qWd0rnYe1t) | 2:25 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 38 | [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 |
 | 39 | [Ta queen](https://open.spotify.com/track/0mc5DjPqI8lGnoybr4YU9L) | [Karabalik Beatz](https://open.spotify.com/artist/460I5w9PL2AG09pjwwY5D6), [Hayla Peter](https://open.spotify.com/artist/3UcE1V9cLBH9GtHamHjai1) | [Dans le coeur](https://open.spotify.com/album/3exmuax22PozgPSs7HPzLZ) | 2:55 |
 
-Snapshot ID: `MCwwMjlkYmRhZmNmZDY0ODBlNzM3MDVjNzM1MzM2ZDk5YmIyY2JiYmVl`
+Snapshot ID: `MCw4NjZhYTcxNGVkNzRiNzgyYzc4ZTdiMWVmMjNiMTYyZTViMjViZjRh`

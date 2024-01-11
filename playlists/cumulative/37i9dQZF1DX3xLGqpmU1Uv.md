@@ -4,7 +4,7 @@
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-50 songs - 2 hr 6 min
+51 songs - 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [El Juego De Simón](https://open.spotify.com/track/36mTmIiSJuC5eV9mFpjIn0) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs) | [El Juego De Simón](https://open.spotify.com/album/0ZpyMevXIgGuTIzGRUCFkr) | 1:48 | 2020-03-18 |  |
 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 | 2020-03-18 |  |
 | [El Rock De La Cárcel](https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 1:54 | 2020-03-18 |  |
-| [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 | 2023-03-25 |  |
+| [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 | 2023-03-25 | 2024-01-11 |
 | [Florida Twist](https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:13 | 2020-03-18 |  |
 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920) | 2:22 | 2020-03-18 |  |
 | [Historia de Tommy](https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Historia de un Amor](https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1) | 2:36 | 2020-03-18 |  |
@@ -54,6 +54,7 @@
 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 | 2022-05-04 |  |
 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 | 2020-03-18 |  |
 | [Significas Todo Para Mi](https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:41 | 2020-03-18 |  |
+| [Sospecha](https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 2:29 | 2020-03-18 |  |
 | [Te Seguiré \(I Will Follow You\)](https://open.spotify.com/track/4KnjB5h7F90s1yfk3U1RfQ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Enrique Guzmán \(El Llanto del Siglo\)](https://open.spotify.com/album/0cudjmyNmIaQYLbvPcp2bu) | 2:12 | 2020-03-18 |  |
 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:31 | 2020-03-18 |  |
 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 | 2020-03-18 |  |

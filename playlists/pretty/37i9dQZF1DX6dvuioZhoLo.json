@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 291860,
+  "num_followers": 291786,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjE4ODVmOTBlY2ZmMTg5YjQwMzhhNzcwNTU5NzFkMTJhZTMwMjk0",
+  "snapshot_id": "MCw0YTNhNWY5OTVhNjU4ZTUyZmQ0ZmEwMzAwYjZkNjFjNzIyYzNiOWFm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 213204,
       "name": "Love All Night (Work All Day)",
       "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 371976,
       "name": "Sold My Soul",
       "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Keep the Home Fires Burnin'",
+      "url": "https://open.spotify.com/track/7zOtgId0kQD0XPtablFROE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 183626,
-      "name": "Keep the Home Fires Burnin'",
-      "url": "https://open.spotify.com/track/7zOtgId0kQD0XPtablFROE"
+      "duration_ms": 189871,
+      "name": "Still Miss the Way",
+      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 189871,
-      "name": "Still Miss the Way",
-      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+      "duration_ms": 166231,
+      "name": "P-Town",
+      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 166231,
-      "name": "P-Town",
-      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
       },
@@ -1311,6 +1295,38 @@
       "duration_ms": 186866,
       "name": "No Name",
       "url": "https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Daddy's Country Gold",
+        "url": "https://open.spotify.com/album/0lr7pYLdjcI4MRXIW1ucfI"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Makin' Memories",
+      "url": "https://open.spotify.com/track/4uXHQUd3icGbwK7CLmIxXk"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 153466,
       "name": "Goodnight Rhonda Lee",
       "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Daddy's Country Gold",
-        "url": "https://open.spotify.com/album/0lr7pYLdjcI4MRXIW1ucfI"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Makin' Memories",
-      "url": "https://open.spotify.com/track/4uXHQUd3icGbwK7CLmIxXk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "My Piece of Land",
+        "url": "https://open.spotify.com/album/4xEbranbGAP1GfoRBsP4gV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 186160,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/5BdAnc2x9NaR7GS8iSO6gs"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Orphan Offering",
         "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "My Piece of Land",
-        "url": "https://open.spotify.com/album/4xEbranbGAP1GfoRBsP4gV"
-      },
-      "artists": [
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/5BdAnc2x9NaR7GS8iSO6gs"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I've Got a Way",
-        "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waldon",
-          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Dirty Old Town",
-      "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Faded Gloryville",
         "url": "https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 186773,
       "name": "Run-down Neighborhood",
       "url": "https://open.spotify.com/track/2GhbVqbaoB9GzLPuX7FHfD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "I've Got a Way",
+        "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Dirty Old Town",
+      "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
     }
   ],
   "unique_name": "Vintage Vibes",

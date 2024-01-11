@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Jammers",
-  "num_followers": 31616,
+  "num_followers": 31620,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODFkMTI2NjA3NDBlYmE5NDJjMjdjMTI2M2QwMDM5ODNiODJhOWQ2",
+  "snapshot_id": "MCxmN2U5OGUxYzE3YWE5YTY1ZDJkMTE1NDM0OTg3ODc3ODgxMGVkOGNh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:42:01",
@@ -59,6 +59,26 @@
       "duration_ms": 346983,
       "name": "Ee Reyi Paadindi",
       "url": "https://open.spotify.com/track/53draxwLuyB3NzfCDmIRBv"
+    },
+    {
+      "added_at": "2024-01-10 13:01:47",
+      "album": {
+        "name": "Neeli Aakasam",
+        "url": "https://open.spotify.com/album/5OWXAvlVHNtOBgu0tgy9Ro"
+      },
+      "artists": [
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        }
+      ],
+      "duration_ms": 211578,
+      "name": "Neeli Aakasam",
+      "url": "https://open.spotify.com/track/5NX12uXVaHHIu0gKzojX7g"
     },
     {
       "added_at": "2024-01-08 11:41:32",
@@ -1035,22 +1055,6 @@
       "duration_ms": 260812,
       "name": "Nee Mayalle",
       "url": "https://open.spotify.com/track/5TSYat36WSJnohMX2Vh9w4"
-    },
-    {
-      "added_at": "2023-05-22 14:21:23",
-      "album": {
-        "name": "Harini",
-        "url": "https://open.spotify.com/album/3SJtaDClZXTAX3teBnln3M"
-      },
-      "artists": [
-        {
-          "name": "Ram Mantha",
-          "url": "https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr"
-        }
-      ],
-      "duration_ms": 236064,
-      "name": "Harini",
-      "url": "https://open.spotify.com/track/0Ay0o0e6n75gg7GyvdmnBI"
     },
     {
       "added_at": "2023-05-26 10:11:44",

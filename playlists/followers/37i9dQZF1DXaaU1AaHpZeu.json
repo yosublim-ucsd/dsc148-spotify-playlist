@@ -1,7 +1,7 @@
 {
-  "2024-01-10": 295325,
+  "2024-01-11": 294825,
   "date_first_scraped": "2022-03-28",
-  "description": "Nuevos hallazgos de m\u00fasica indie latina. Mu\u00f1ecas en portada.",
+  "description": "Nuevos hallazgos de m\u00fasica indie latina. Mi Amigo Invencible en portada.",
   "name": "Novedades Indie",
   "tracks": [
     {
@@ -12393,7 +12393,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 170479,
       "name": "Como He Estado",
       "url": "https://open.spotify.com/track/4SByoX1BxM7x4O2L6AQccK"
@@ -13035,7 +13035,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 197975,
       "name": "Conjuro",
       "url": "https://open.spotify.com/track/7jbh4kzaWSCwMQCIQnSNzY"
@@ -16371,7 +16371,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 105685,
       "name": "Desde Que Te Fuiste - Remix",
       "url": "https://open.spotify.com/track/1C6T4iIfYIeOziorzoYkDx"
@@ -35780,6 +35780,24 @@
     },
     {
       "album": {
+        "name": "Manso visto",
+        "url": "https://open.spotify.com/album/5meY39uO4BMufhk0S3e9E9"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168725,
+      "name": "Manso visto",
+      "url": "https://open.spotify.com/track/5Te3UMQrCSS0WmvY9mzH0A"
+    },
+    {
+      "album": {
         "name": "Mantis",
         "url": "https://open.spotify.com/album/5faoXY65IPubWn4Xorn6CD"
       },
@@ -37473,6 +37491,24 @@
       "duration_ms": 206706,
       "name": "Me Vale",
       "url": "https://open.spotify.com/track/1hAi0LRAeAyKAL1Cpxri8g"
+    },
+    {
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4H2Rrez4mPIIekGSaW9VCX"
+      },
+      "artists": [
+        {
+          "name": "Alfonso El Pintor",
+          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354306,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/5QWs2amITZCNj81OYPBBIQ"
     },
     {
       "album": {
@@ -39958,6 +39994,28 @@
     },
     {
       "album": {
+        "name": "mutar la piel",
+        "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        },
+        {
+          "name": "Aluh\u00e9",
+          "url": "https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173875,
+      "name": "mutar la piel",
+      "url": "https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk"
+    },
+    {
+      "album": {
         "name": "Muteada",
         "url": "https://open.spotify.com/album/675MXkuWtLxb9mQ93YB260"
       },
@@ -40947,6 +41005,28 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "album": {
+        "name": "Nada Nada",
+        "url": "https://open.spotify.com/album/7exWNleqtgvGlqFz34Ra1R"
+      },
+      "artists": [
+        {
+          "name": "Hiperg\u00e9minis",
+          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
+        },
+        {
+          "name": "Sol Marianela",
+          "url": "https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185586,
+      "name": "Nada Nada",
+      "url": "https://open.spotify.com/track/2ToVWJJWgoV1skaR6JFadd"
     },
     {
       "album": {
@@ -51427,7 +51507,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 196098,
       "name": "Qu\u00e9 Desastre",
       "url": "https://open.spotify.com/track/6eMzIJR4Ep1MP4PL3p8jT4"
@@ -57575,7 +57655,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 169387,
       "name": "SUELO",
       "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
@@ -60885,6 +60965,24 @@
     {
       "album": {
         "name": "Todo Lo Que Tengo",
+        "url": "https://open.spotify.com/album/6TXs9sjN6P6EMF7d5MNFbn"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111534,
+      "name": "Todo Lo Que Tengo",
+      "url": "https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Que Tengo",
         "url": "https://open.spotify.com/album/2MyAbwcZoq0XyBUhKHrlvL"
       },
       "artists": [
@@ -63069,7 +63167,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 142080,
       "name": "Un plan perfecto",
       "url": "https://open.spotify.com/track/3RNHCmF6GIxHn3OJy7ItAh"
@@ -67497,6 +67595,24 @@
       "duration_ms": 218733,
       "name": "\u00bfQUI\u00c9N TE MANDA?",
       "url": "https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Normal De L... N... (67%)",
+        "url": "https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153904,
+      "name": "\u00bfQu\u00e9 Me Dices?",
+      "url": "https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X"
     },
     {
       "album": {

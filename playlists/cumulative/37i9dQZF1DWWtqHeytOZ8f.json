@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 277199,
       "name": "EveryWhen - Bonus Track",
       "url": "https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9"
@@ -6512,6 +6512,24 @@
       "duration_ms": 227714,
       "name": "Nadir",
       "url": "https://open.spotify.com/track/5BG58Mt1lR3vQfZhjNSsPl"
+    },
+    {
+      "album": {
+        "name": "Sprig Songs",
+        "url": "https://open.spotify.com/album/4ct3nDg9TPM4vURcOQ9hfd"
+      },
+      "artists": [
+        {
+          "name": "ddwy",
+          "url": "https://open.spotify.com/artist/2WrVgrATbqKvkO3VmPSiy9"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415615,
+      "name": "Naini's Call",
+      "url": "https://open.spotify.com/track/2KI2fI3aggHeBM4PGyWLvE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,472 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,470 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 7 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
 | 8 | [Pom Pom](https://open.spotify.com/track/0QvUIiUqzI0kcjMdbUhThY) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Pom Pom](https://open.spotify.com/album/47CMdZRR1r8LSnePdeKB8d) | 2:54 |
 | 9 | [Yaar Ki Shaadi](https://open.spotify.com/track/5JLeNYBwqJJAMrpn3KblTl) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Yaar Ki Shaadi](https://open.spotify.com/album/2RUKEhQZVl09sBtf6MdXXb) | 3:10 |
-| 10 | [No Love](https://open.spotify.com/track/1ejy8AVI7k1SAlWeeKaZ60) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [No Love](https://open.spotify.com/album/07SG5x4D5BLlrPcg0xBSZf) | 2:49 |
+| 10 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
 | 11 | [Not You](https://open.spotify.com/track/5m2NorFFdtQ2fJieypphTh) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr) | [Not You](https://open.spotify.com/album/09ezLt7cArrGiMNW5o2xsc) | 2:32 |
 | 12 | [Pardesi](https://open.spotify.com/track/0azDXr0cxe2lePuQgsSxRa) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Jay Psar](https://open.spotify.com/artist/2FXSYpIIZhJ260UvGZN8wr) | [Pardesi](https://open.spotify.com/album/0wCSc43ppzINWPUnJEyzsu) | 2:45 |
 | 13 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 49 | [47 \(feat\. Stefflon Don\)](https://open.spotify.com/track/15rEEVR9tYJS4hbubgS3u7) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [47 \(feat\. Stefflon Don\)](https://open.spotify.com/album/5pCqjR7JPOm2CLasRDtn1E) | 3:14 |
 | 50 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/3NyEl4VKqV7WL6PO5BYrb6) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6yGj6xifVKbJNfOwPiXmQY) | 2:24 |
 
-Snapshot ID: `MCxjMzk1ZjBmMTExNTA0MWJlZjk4ZjgyMWE1YjQ2NzA5YTkzNGYwZTQ2`
+Snapshot ID: `MCwxMWYzNzJlMDQ2MTI1OTdiYzljNzk4ZWViMjRjY2FkOTA3YTc4OGY0`

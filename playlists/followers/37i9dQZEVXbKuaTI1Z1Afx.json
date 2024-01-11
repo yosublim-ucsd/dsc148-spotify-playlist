@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 367550,
+  "2024-01-11": 367153,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7ztsvXsYxhTLGoUOUx9Yvv"
@@ -473,6 +473,32 @@
       "duration_ms": 210951,
       "name": "2024",
       "url": "https://open.spotify.com/track/1SWRLrHykgDsPtGtezEf2F"
+    },
+    {
+      "album": {
+        "name": "2024",
+        "url": "https://open.spotify.com/album/4kIGw7F9OTGxKojEM3THlt"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos"
+        },
+        {
+          "name": "Armut",
+          "url": "https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj"
+        },
+        {
+          "name": "Ratno",
+          "url": "https://open.spotify.com/artist/1oKl6VIOQMGsXfAUUlD2et"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "2024 - remix",
+      "url": "https://open.spotify.com/track/0eb2w2eIbnyu5YiPznfSD4"
     },
     {
       "album": {
@@ -1763,7 +1789,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 115295,
       "name": "Africa",
       "url": "https://open.spotify.com/track/4JuRS40lZe0yfSewmnR9mT"
@@ -2971,6 +2997,24 @@
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
+        "name": "Anyone But You",
+        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Anyone But You",
+      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
     },
     {
       "album": {
@@ -4451,7 +4495,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -5305,7 +5349,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 120149,
       "name": "Blue Devils",
       "url": "https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ"
@@ -12025,7 +12069,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 245987,
       "name": "Everleave",
       "url": "https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk"
@@ -12083,7 +12127,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
@@ -15502,6 +15546,24 @@
     },
     {
       "album": {
+        "name": "H00DBYAIR",
+        "url": "https://open.spotify.com/album/1OMnOFAcLBsdk9TcAunnIm"
+      },
+      "artists": [
+        {
+          "name": "wzzywrld",
+          "url": "https://open.spotify.com/artist/4tMG97uFOBETyazRgjEFac"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212718,
+      "name": "H00DBYAIR",
+      "url": "https://open.spotify.com/track/5EqYMOxwZyhneCfMU35pMQ"
+    },
+    {
+      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
@@ -16996,6 +17058,24 @@
     },
     {
       "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/4OAL0ZF8bxJ9wcIys3oEdU"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205194,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/60Zsmy6gLKf8Esy9GiW0Re"
+    },
+    {
+      "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
       },
@@ -18315,7 +18395,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 110133,
       "name": "I'm so crazy for youuu </3",
       "url": "https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg"
@@ -25475,7 +25555,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 177853,
       "name": "Mount Rageous",
       "url": "https://open.spotify.com/track/6CaimL6w9jlWB76SVMm0IX"
@@ -26641,7 +26721,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 235466,
       "name": "New Year\u2019s Day",
       "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
@@ -36585,7 +36665,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
@@ -36716,6 +36796,32 @@
     },
     {
       "album": {
+        "name": "Tacata (Remix)",
+        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
+      },
+      "artists": [
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156716,
+      "name": "Tacata (Remix)",
+      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "album": {
         "name": "Layin' Da Smack Down (Explicit Version)",
         "url": "https://open.spotify.com/album/2Qe9ZQZgDrXcGv1QuNUCkb"
       },
@@ -36731,6 +36837,24 @@
       "duration_ms": 186906,
       "name": "Take Da Charge",
       "url": "https://open.spotify.com/track/49WtpskFw9z1AsDPwf9knU"
+    },
+    {
+      "album": {
+        "name": "Take Forever",
+        "url": "https://open.spotify.com/album/0A9pp8RhqncFeWsS3XlYU8"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "Take Forever (Hally's Song)",
+      "url": "https://open.spotify.com/track/3pBYIDSYwHpGMjq0nss6KZ"
     },
     {
       "album": {

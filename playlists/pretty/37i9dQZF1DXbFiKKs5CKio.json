@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 54068,
+  "num_followers": 54090,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDZhNTAxMTNkNTQ0YWRmMzAxMjY1Yzk4ZGQ3MzY5MDUwYWYyYTY3",
+  "snapshot_id": "MCw5MzYzZmMxZTRkZDQ3MzA5ZmNlOGVhOWNhYzA5MzdiZWNlZWVmOTg3",
   "tracks": [
     {
       "added_at": "2023-12-22 11:58:21",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
+        "name": "Perfeita Demais",
+        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
+      },
+      "artists": [
+        {
+          "name": "R0DR1",
+          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Perfeita Demais",
+      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
         "name": "Vapor",
         "url": "https://open.spotify.com/album/5T3eWmdly9rieFxAy2ngho"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 230363,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/3KIOpE72nztAKIeIMgpccc"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Perfeita Demais",
-        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
-      },
-      "artists": [
-        {
-          "name": "R0DR1",
-          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Perfeita Demais",
-      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
     },
     {
       "added_at": "2023-12-22 11:58:21",

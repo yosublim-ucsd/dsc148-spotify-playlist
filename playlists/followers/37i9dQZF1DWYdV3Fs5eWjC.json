@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 75912,
+  "2024-01-11": 75904,
   "date_first_scraped": "2022-05-01",
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
   "name": "Black, Queer, & Proud",
@@ -191,10 +191,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/0BlMeDRvAOgRjUDDLamIaO"
+    },
+    {
+      "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
     },
     {
       "album": {

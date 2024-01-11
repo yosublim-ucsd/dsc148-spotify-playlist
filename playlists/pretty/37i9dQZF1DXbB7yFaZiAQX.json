@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1010238,
+  "num_followers": 1010405,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzlkZjZjODA1OTU2ZmRjMDNiZGJjZmQwNGNkYzNjZjMwNDdkMzg1",
+  "snapshot_id": "MCxhZGI1OTlhODg0YmY3NWUxYmIxNTk2YTIwYjdmMGE3MGRhODcwZjk5",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 285906,
-      "name": "West End Girls - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+        "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+      "duration_ms": 285906,
+      "name": "West End Girls - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "La Folie",
-        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Golden Brown",
-      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 215203,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "La Folie",
+        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Golden Brown",
+      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Freedom of Choice",
         "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Vision Thing",
-        "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 503109,
-      "name": "More",
-      "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Golden Age of Wireless",
         "url": "https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 221266,
       "name": "She Blinded Me With Science",
       "url": "https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Vision Thing",
+        "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 503109,
+      "name": "More",
+      "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 290480,
+      "name": "Fashion - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1MMYuuvnD3O9Sn90gDabv9"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Some Girls Wander by Mistake",
         "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 212573,
       "name": "Love Plus One",
       "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 290480,
-      "name": "Fashion - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1MMYuuvnD3O9Sn90gDabv9"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "p:Machinery",
-      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Stoned and Dethroned",
         "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "p:Machinery",
+      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "On The Other Hand There's A Fist",
-        "url": "https://open.spotify.com/album/3Yg4ePP2KlxZgCXhOgQIDU"
-      },
-      "artists": [
-        {
-          "name": "Jona Lewie",
-          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "You'll Always Find Me In The Kitchen At Parties",
-      "url": "https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Dig That Groove Baby",
         "url": "https://open.spotify.com/album/2OwyqJHrZxmSoH05gG2X7Z"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 207480,
       "name": "Nellie the Elephant",
       "url": "https://open.spotify.com/track/38XNqOJLqiJXcummwwJx4u"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "On The Other Hand There's A Fist",
+        "url": "https://open.spotify.com/album/3Yg4ePP2KlxZgCXhOgQIDU"
+      },
+      "artists": [
+        {
+          "name": "Jona Lewie",
+          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "You'll Always Find Me In The Kitchen At Parties",
+      "url": "https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG"
     },
     {
       "added_at": "2023-05-03 07:47:14",

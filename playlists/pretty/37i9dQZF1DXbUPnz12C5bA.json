@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar. Conmemorando la vida de Diomedes D\u00edaz este 22 de Diciembre.",
-  "num_followers": 95562,
+  "num_followers": 95630,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDUzZWU2YjQ1YmEyOWIwMjk0ZWRkOGVhYjJhOTU0NGI4NjcyZDg0",
+  "snapshot_id": "MCxhZTljZGQyZGY5NmU0MGQ2YTVlZjVlZjQyNTFjY2Q4ZGIzMDU1ZWFj",
   "tracks": [
     {
       "added_at": "2023-12-21 21:42:36",
@@ -119,22 +119,18 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "Brindo Con El Alma",
-        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
+        "name": "Con Aroma de Mujer",
+        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
         }
       ],
-      "duration_ms": 300760,
-      "name": "Sin Medir Distancias",
-      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
+      "duration_ms": 294040,
+      "name": "Tarde Lo Conoci",
+      "url": "https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -155,22 +151,6 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "Con Aroma de Mujer",
-        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        }
-      ],
-      "duration_ms": 294040,
-      "name": "Tarde Lo Conoci",
-      "url": "https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
         "name": "Corazon Vallenato",
         "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 298826,
       "name": "Como Duele El Frio",
       "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
+        "name": "Brindo Con El Alma",
+        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+        }
+      ],
+      "duration_ms": 300760,
+      "name": "Sin Medir Distancias",
+      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -223,42 +223,6 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "26 De Mayo",
-        "url": "https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "La Plata",
-      "url": "https://open.spotify.com/track/61xyQGDYH9yMn4H9MpTh3g"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
-        "name": "10 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283600,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
         "name": "Son Para El Mundo",
         "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
@@ -279,18 +243,18 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+        "name": "10 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 310306,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
+      "duration_ms": 283600,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -319,6 +283,42 @@
       "duration_ms": 333946,
       "name": "Que pena",
       "url": "https://open.spotify.com/track/2YXvjidOJH62npeeKr2iZR"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 310306,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "T\u00fa Eres La Reina",
+      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "T\u00fa Eres La Reina",
-      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
         "name": "A Mi Manera",
         "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 275186,
       "name": "El Amor M\u00e1s Grande del Planeta",
       "url": "https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
+        "name": "26 De Mayo",
+        "url": "https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "La Plata",
+      "url": "https://open.spotify.com/track/61xyQGDYH9yMn4H9MpTh3g"
     },
     {
       "added_at": "2023-12-21 21:42:36",

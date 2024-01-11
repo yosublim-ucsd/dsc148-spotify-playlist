@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 44076,
+  "num_followers": 44114,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTNkYTI2MmZjNGRiZWYzODlhZWUzZWJiMTgxNDUzYzUyZWIxZDBm",
+  "snapshot_id": "MCxmYTdiMmZkYTI5ZjYxM2JjMjY4NzVkYTFiMDRhZWQ1ZDRiODJjZjk2",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Boedo's Blues",
-        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
-      },
-      "artists": [
-        {
-          "name": "Atacustico",
-          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
-        }
-      ],
-      "duration_ms": 133088,
-      "name": "Boedo's Blues",
-      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Mile End ll",
         "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 217893,
       "name": "Runner",
       "url": "https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Boedo's Blues",
+        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "duration_ms": 133088,
+      "name": "Boedo's Blues",
+      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Side Tracked",
+      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Side Tracked",
-      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+        "name": "All Kinds Of Blues",
+        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
       },
       "artists": [
         {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
         }
       ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
+      "duration_ms": 246333,
+      "name": "Frankie And Johnny Boogie",
+      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "All Kinds Of Blues",
-        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
       "artists": [
         {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
         }
       ],
-      "duration_ms": 246333,
-      "name": "Frankie And Johnny Boogie",
-      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "Screamin'",
-      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
       "artists": [
         {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 393666,
-      "name": "Little Johnny Lee",
-      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+      "duration_ms": 276933,
+      "name": "Screamin'",
+      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1123,34 +1107,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
         }
       ],
-      "duration_ms": 132800,
-      "name": "Evans' Shuffle",
-      "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Thank You Mr. Poobah",
-      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
+      "duration_ms": 393666,
+      "name": "Little Johnny Lee",
+      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1171,18 +1139,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
       "artists": [
         {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
+      "duration_ms": 132800,
+      "name": "Evans' Shuffle",
+      "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1203,6 +1171,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Go Bo Diddley",
         "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 177120,
       "name": "The Clock Strikes Twelve",
       "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Thank You Mr. Poobah",
+      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
     },
     {
       "added_at": "2023-08-23 10:31:46",

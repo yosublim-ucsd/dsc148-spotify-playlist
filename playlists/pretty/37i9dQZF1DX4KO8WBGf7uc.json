@@ -1,12 +1,12 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 322485,
+  "num_followers": 322516,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTliYmJlODhjNGNlMTdjZWE3ZjRjMzZlMzJlOTA4MTRjNDExMDI3",
+  "snapshot_id": "MCxmYjliNDBiMjhiOTk1ZWMxZjJkNjA4ZGE0NGYyODM1Y2NkNmVlZDdi",
   "tracks": [
     {
       "added_at": "2023-12-22 23:51:42",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-12-22 23:51:42",
       "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Te Quemaste",
-      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
-    },
-    {
-      "added_at": "2023-12-22 23:51:42",
-      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 213959,
       "name": "Dime Cuantas Veces",
       "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
+    },
+    {
+      "added_at": "2023-12-22 23:51:42",
+      "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Te Quemaste",
+      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
     },
     {
       "added_at": "2023-12-22 23:51:42",

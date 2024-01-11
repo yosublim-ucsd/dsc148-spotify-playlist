@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 131387,
+  "num_followers": 131383,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmI1MzQ4NTU5YTI2ZTBkNDg1Njc1YmQ2ZGIyZjc2NWJkMzE1NDk5",
+  "snapshot_id": "MCxmYzExYWFkZTY2OGNmODc5ZGVjMTNhYjYxOWVhZmQ2MzlmMGI1YjYy",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Okay Okay",
-      "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Okay Okay",
+      "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -535,42 +535,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Nabi (feat. Ohhyuk)",
-        "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 232914,
-      "name": "Nabi (feat. OHHYUK)",
-      "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
         "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
@@ -591,6 +555,42 @@
       "duration_ms": 195840,
       "name": "Mania De Voc\u00ea - Dubdogz & Watzgood Remix / Radio Edit",
       "url": "https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Nabi (feat. Ohhyuk)",
+        "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 232914,
+      "name": "Nabi (feat. OHHYUK)",
+      "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
-      },
-      "artists": [
-        {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
-        }
-      ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "I Wanna Know What Love Is",
         "url": "https://open.spotify.com/album/42ACxS8aXXzxIZCZnogHfV"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 171775,
       "name": "I Wanna Know What Love Is",
       "url": "https://open.spotify.com/track/1oG64RG7TgBHV3jxo0xenp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3Pjj0X0F6TVP6RaQTRX8rR"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Chronologic",
-        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
+        "name": "Du rivage",
+        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
       },
       "artists": [
         {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+          "name": "Weekend Affair",
+          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3Pjj0X0F6TVP6RaQTRX8rR"
+      "duration_ms": 214733,
+      "name": "Descends",
+      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Du rivage",
-        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
-      },
-      "artists": [
-        {
-          "name": "Weekend Affair",
-          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Descends",
-      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Hustler's Lullaby",
         "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Young Romance (Deluxe)",
         "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 279676,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1631,6 +1631,26 @@
       "duration_ms": 220420,
       "name": "Discoman",
       "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Lindstrom & Prins Thomas",
+        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
+      },
+      "artists": [
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        },
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Boney M Down",
+      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1671,26 +1691,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lindstrom & Prins Thomas",
-        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
-      },
-      "artists": [
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        },
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Boney M Down",
-      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Feel The Heat",
         "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
       },
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 275746,
       "name": "Canta",
       "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2023-08-14 14:58:41",

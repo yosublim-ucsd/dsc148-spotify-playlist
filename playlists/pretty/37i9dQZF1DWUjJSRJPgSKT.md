@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics\. Cover: McCoy Tyner
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,133 likes - 65 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,225 likes - 65 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 31 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
 | 32 | [Wee \(Allen's Alley\)](https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Ultimate Stan Getz](https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm) | 8:27 |
 | 33 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
-| 34 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
-| 35 | [A Night In Tunisia](https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 5:07 |
+| 34 | [A Night In Tunisia](https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 5:07 |
+| 35 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
 | 36 | [Nutville](https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [The Best Of Horace Silver](https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT) | 7:15 |
 | 37 | [Arietis \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:41 |
 | 38 | [Donna Lee](https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 6:17 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [Moose The Mooche](https://open.spotify.com/track/5gZR2gQcVsQYPZpbOBwtmk) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Drums Around The Corner](https://open.spotify.com/album/5kpNDQ4B9GQd3GS4Z5o2GK) | 15:17 |
 | 65 | [The Surrey With The Fringe On Top \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:11 |
 
-Snapshot ID: `MCw2ZjcwZDc2NjFlMGNhZGU5ZjI4NTVhOGI2YTlkMzdlY2NiY2E2ODJh`
+Snapshot ID: `MCw1MjE2ZjUyNDYxOTU1ZmRkMDcxYWNlYzdlYWFkYzUxNTEzNmI1MjEy`

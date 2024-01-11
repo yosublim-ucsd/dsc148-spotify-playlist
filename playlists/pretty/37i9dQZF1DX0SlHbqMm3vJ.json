@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ric Hassani",
-  "num_followers": 220894,
+  "num_followers": 220942,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWFmODdlMDY2YmNkMmU0MmFiNzk3YjMxMDNiNTYyZTE3MWVkNjk4",
+  "snapshot_id": "MCxiYTViNzdiNWQ2NTg5MDI5OTdmMjFkNWIyMTk3ZTBiODlhNThjNTU4",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        }
-      ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Busy Body",
+      "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "We Only Talk About Real Shit When We're Fucked Up",
         "url": "https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 142719,
       "name": "Khartoum (with Adekunle Gold)",
       "url": "https://open.spotify.com/track/5RizFQe3Uvf12S2WE83IBr"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Busy Body",
-        "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Busy Body",
-      "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Rora",
         "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 143762,
       "name": "Rora",
       "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 182442,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "PrEttY Like",
+        "url": "https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "PrEttY Like",
+      "url": "https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Point Of View",
         "url": "https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 204900,
       "name": "RIDE N SING",
       "url": "https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "PrEttY Like",
-        "url": "https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "PrEttY Like",
-      "url": "https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn"
     },
     {
       "added_at": "2023-12-15 00:01:00",

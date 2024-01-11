@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 1625260,
+  "2024-01-11": 1623675,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Spain.",
   "name": "Top 50 - Spain",
@@ -3859,7 +3859,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "CORLEONE",
       "url": "https://open.spotify.com/track/4PxuQB2bwMFyP6qjHDBsmb"
@@ -12253,7 +12253,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 202184,
       "name": "Nochentera",
       "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"

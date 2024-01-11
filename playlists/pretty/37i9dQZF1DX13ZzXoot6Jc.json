@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Riley Green",
-  "num_followers": 456581,
+  "num_followers": 456554,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWVjMjU1MjNlMjM2YzgyNGRkODY1MGZiMjdlNDI4YWVhNzQ5ZDFk",
+  "snapshot_id": "MCwwYzFiMjg5MWM3ZDk2OGJjOTI4OGIxMzhiNjViZTVhYzBmNDJkMjkx",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Giddy Up!",
-        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 162665,
-      "name": "Giddy Up!",
-      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Summer Don't Go",
+        "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 168524,
+      "name": "Summer Don't Go",
+      "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Without You (feat. Elle King)",
         "url": "https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 181978,
       "name": "Without You (feat. Elle King)",
       "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Summer Don't Go",
-        "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 168524,
-      "name": "Summer Don't Go",
-      "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Good Ol' Days",
-        "url": "https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 166622,
-      "name": "Good Ol' Days",
-      "url": "https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Dallas Smith",
         "url": "https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 172910,
       "name": "Singing In A Beer",
       "url": "https://open.spotify.com/track/6fAQULgYx8RZt6CHb9CJVw"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Good Ol' Days",
+        "url": "https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "duration_ms": 166622,
+      "name": "Good Ol' Days",
+      "url": "https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Gravel & Gold",
-        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Walking Each Other Home",
-      "url": "https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Product Of (Feat. Lee Brice)",
         "url": "https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 173346,
       "name": "Product Of (Feat. Lee Brice)",
       "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Gravel & Gold",
+        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Walking Each Other Home",
+      "url": "https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n"
     },
     {
       "added_at": "2024-01-05 05:00:00",

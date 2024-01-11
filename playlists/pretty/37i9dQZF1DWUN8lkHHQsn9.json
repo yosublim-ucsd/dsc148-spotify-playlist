@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:09GfElZ8wfFoJyaHNbSaan\">Sophie Szklarska</a>",
-  "num_followers": 7654,
+  "num_followers": 7659,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjNhNzA1OTBlYWM0MDAyNDQ0NjY3OWUyYzUxMGQwNzRjYTEwMWEz",
+  "snapshot_id": "MCw4NjlmMmQ4YmJhN2NlOWVmYzcyZTk4NDE3ZGIyMzY3OWFkZWViYTA0",
   "tracks": [
     {
       "added_at": "2024-01-08 23:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 211555,
+      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "oddaj\u0119 Ci melodi\u0119",
         "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
       "artists": [
         {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
         }
       ],
-      "duration_ms": 211555,
-      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -575,38 +591,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Dok\u0105d biegn\u0119",
-      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
       },
@@ -627,34 +611,34 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "52 Kilo",
-        "url": "https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr"
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
         }
       ],
-      "duration_ms": 123000,
-      "name": "52 Kilo",
-      "url": "https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL"
+      "duration_ms": 194250,
+      "name": "Dok\u0105d biegn\u0119",
+      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
     },
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Bolt",
-        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
       },
       "artists": [
         {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
         }
       ],
-      "duration_ms": 216860,
-      "name": "Bolt",
-      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -691,34 +675,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
       },
       "artists": [
         {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
         }
       ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "$WAG (lepi si\u0119 w ch*j)",
-        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
-      },
-      "artists": [
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 158787,
-      "name": "$WAG (lepi si\u0119 w ch*j)",
-      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+      "duration_ms": 216860,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -735,6 +703,38 @@
       "duration_ms": 193942,
       "name": "Spytaj mnie",
       "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "52 Kilo",
+        "url": "https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "52 Kilo",
+      "url": "https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "$WAG (lepi si\u0119 w ch*j)",
+        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
+      },
+      "artists": [
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        }
+      ],
+      "duration_ms": 158787,
+      "name": "$WAG (lepi si\u0119 w ch*j)",
+      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
       },
@@ -807,26 +823,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Podziemny Slam",
-        "url": "https://open.spotify.com/album/6KwYYZiNYO2pRFf9RRHGzP"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        },
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 179910,
-      "name": "Podziemny Slam",
-      "url": "https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Przekle\u0144stwa Niewinno\u015bci",
         "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
       },
@@ -847,18 +843,38 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+        "name": "Podziemny Slam",
+        "url": "https://open.spotify.com/album/6KwYYZiNYO2pRFf9RRHGzP"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        },
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
+      "duration_ms": 179910,
+      "name": "Podziemny Slam",
+      "url": "https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -903,18 +919,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Nie ma",
-        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+        "name": "psychodynamiczne",
+        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
       },
       "artists": [
         {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 202419,
-      "name": "Nie ma",
-      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
+      "duration_ms": 190000,
+      "name": "priorytetem",
+      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -931,22 +947,6 @@
       "duration_ms": 164242,
       "name": "\u015awiat\u0142a Lamp",
       "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "psychodynamiczne",
-        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "priorytetem",
-      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -1035,18 +1055,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
         }
       ],
-      "duration_ms": 262014,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1067,38 +1087,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+      "duration_ms": 262014,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1135,6 +1135,38 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Rojava",
+        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Rojava",
+      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "Maski",
         "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
@@ -1147,6 +1179,142 @@
       "duration_ms": 254436,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Technikolor",
+        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Twoja Stara",
+          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
+        },
+        {
+          "name": "Lola Eyeonyou Potocki",
+          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Technikolor",
+      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Ulubione miejsce",
+        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Ulubione miejsce",
+      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        }
+      ],
+      "duration_ms": 239354,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 248202,
+      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "POT\u0118\u017bNE LESBIJKI Z MIECZAMI",
+        "url": "https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7"
+      },
+      "artists": [
+        {
+          "name": "Brokatowe Damy",
+          "url": "https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cztery Dwa Zero",
+      "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1171,134 +1339,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Diego M.",
-        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 165991,
-      "name": "Diego M.",
-      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Hydra",
-        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        }
-      ],
-      "duration_ms": 239354,
-      "name": "Bum Bum",
-      "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Ulubione miejsce",
-        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ulubione miejsce",
-      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "POT\u0118\u017bNE LESBIJKI Z MIECZAMI",
-        "url": "https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7"
-      },
-      "artists": [
-        {
-          "name": "Brokatowe Damy",
-          "url": "https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cztery Dwa Zero",
-      "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 248202,
-      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Don't Collapse",
         "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
       },
@@ -1319,22 +1359,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Rojava",
-        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Rojava",
-      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Bezpowrotnie",
         "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
       },
@@ -1347,22 +1371,6 @@
       "duration_ms": 182219,
       "name": "Bezpowrotnie",
       "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Parlez Vous Francais",
-        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
-      },
-      "artists": [
-        {
-          "name": "Julia Bosski",
-          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Parlez Vous Francais",
-      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
     }
   ],
   "unique_name": "GLOW Polska",

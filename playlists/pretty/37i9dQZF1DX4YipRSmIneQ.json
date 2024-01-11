@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 77250,
+  "num_followers": 77300,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTEyMWZjYmJlYzk1MzhlMzYzYWIyZDc2ZWE3Yzc5OWMyYTZkZjZm",
+  "snapshot_id": "MCw3MjA2OWU5NzcxY2Y0YTQ5OTg0MTY3NDliM2U2NzY3MWYxYjViNTMz",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -711,6 +711,30 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Comme Des Gar\u00e7ons (Like The Boys) [Pabllo Vittar x Brabo Remix]",
+        "url": "https://open.spotify.com/album/0ED2oqDlTgP1bJgFSPaWwn"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Brabo",
+          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
+        }
+      ],
+      "duration_ms": 222491,
+      "name": "Comme Des Gar\u00e7ons (Like The Boys) - Pabllo Vittar x Brabo Remix",
+      "url": "https://open.spotify.com/track/5fMV4SvvtVNtVWar5qYgOl"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Pop That",
         "url": "https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 195621,
       "name": "Flip Phone",
       "url": "https://open.spotify.com/track/6OXN9vB93VDyD4TYAkbH1U"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Comme Des Gar\u00e7ons (Like The Boys) [Pabllo Vittar x Brabo Remix]",
-        "url": "https://open.spotify.com/album/0ED2oqDlTgP1bJgFSPaWwn"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Brabo",
-          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
-        }
-      ],
-      "duration_ms": 222491,
-      "name": "Comme Des Gar\u00e7ons (Like The Boys) - Pabllo Vittar x Brabo Remix",
-      "url": "https://open.spotify.com/track/5fMV4SvvtVNtVWar5qYgOl"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -875,6 +875,30 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "SEXORCISM",
+        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 178203,
+      "name": "FMU",
+      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Level up My Skills",
         "url": "https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 269793,
       "name": "Grab Dat Ass All Night",
       "url": "https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "ELASTIC",
-        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
-      },
-      "artists": [
-        {
-          "name": "ZDBT",
-          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
-        },
-        {
-          "name": "Prado Monroe",
-          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
-        },
-        {
-          "name": "Slim Media Player",
-          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "ELASTIC",
-      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
     }
   ],
   "unique_name": "Sweat.",

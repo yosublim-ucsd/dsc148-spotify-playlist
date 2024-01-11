@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Mckenna Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,249 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,291 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 12 | [IDK How To Talk To Girls](https://open.spotify.com/track/0p3aRTHUnbMApaSnlHrRy1) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [IDK How To Talk To Girls](https://open.spotify.com/album/6AsWIrXIJHsprEatrjLdhR) | 2:40 |
 | 13 | [Hungry Heart](https://open.spotify.com/track/2KBuHBac1gbzFzhkL5Wlvx) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Hungry Heart](https://open.spotify.com/album/2lKs76sqJci5CvDjEyOpQJ) | 2:20 |
 | 14 | [Proud](https://open.spotify.com/track/43hgaexgdv1COrIJi5DlbN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Proud](https://open.spotify.com/album/3HEfD8zUlWj3BQtArGnx7Y) | 3:05 |
-| 15 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/5yjP3l4wzZ2vYrMqA0Odj6) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 15 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
 | 16 | [Porn Star](https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Porn Star](https://open.spotify.com/album/50sODBepKvtl2xsK5ni7wU) | 2:34 |
 | 17 | [BAD BLOOD](https://open.spotify.com/track/0LnSRM9YOR2VbhP7WqB9eX) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [BAD BLOOD](https://open.spotify.com/album/3TF1UV08wzgYFpBnMuMeK9) | 2:54 |
 | 18 | [2.0](https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [2.0](https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [bulletproof](https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [bulletproof](https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0) | 3:02 |
 | 100 | [Blue Boy](https://open.spotify.com/track/0DTdFyK7RkDQEAppGRSKyo) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Blue Boy](https://open.spotify.com/album/2bMNDxWazWChajaSXnrpdg) | 3:00 |
 
-Snapshot ID: `MCw1ZjAxOGY3ZDFkMjQ4YzU4ZDVmYTk2ZGNhNmJmNzgzMzQxNzIwMDFh`
+Snapshot ID: `MCwwYzAyMDhiYjEyNTVjZmM0N2Q1Y2FjMzg4Yzg5MDExZDNjM2UzYzUx`

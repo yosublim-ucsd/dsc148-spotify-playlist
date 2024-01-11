@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 129438,
+  "2024-01-11": 129445,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: DJ CHARI, DJ TATSUKI",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -817,7 +817,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 202835,
       "name": "Bandiera",
       "url": "https://open.spotify.com/track/3FFrlPwGseeA6Xrc3647vG"
@@ -2294,6 +2294,28 @@
     },
     {
       "album": {
+        "name": "DTK",
+        "url": "https://open.spotify.com/album/2fLLUWN8A5ZTDMIomhk2jN"
+      },
+      "artists": [
+        {
+          "name": "Kenayeboi",
+          "url": "https://open.spotify.com/artist/2cdhPAmzK6fgdQwUAoAEgi"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157718,
+      "name": "DTK",
+      "url": "https://open.spotify.com/track/1gDfenC2OcQvbEDygK4CTK"
+    },
+    {
+      "album": {
         "name": "Mi Yama",
         "url": "https://open.spotify.com/album/5UuC4NqmG8DgGAzceRq5Xa"
       },
@@ -2389,7 +2411,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 192225,
       "name": "Enough/Hun",
       "url": "https://open.spotify.com/track/1ZsDKol51tsXYXxuJ3FxTk"
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 216067,
       "name": "FLASH",
       "url": "https://open.spotify.com/track/3vs2T06rOSjiieKHkgrRkb"
@@ -3069,7 +3091,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 111209,
       "name": "GINGINDEGO",
       "url": "https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR"
@@ -4122,6 +4144,28 @@
     },
     {
       "album": {
+        "name": "KNOCK KNOCK",
+        "url": "https://open.spotify.com/album/17xZb1TzDax6Q3sDdTGnkZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        },
+        {
+          "name": "Varria",
+          "url": "https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202568,
+      "name": "KNOCK KNOCK",
+      "url": "https://open.spotify.com/track/12Ajaz9HgOuNvZnT8ktxkz"
+    },
+    {
+      "album": {
         "name": "late summer",
         "url": "https://open.spotify.com/album/0MVH2hxgzXCBbLD8C3NQJY"
       },
@@ -4425,6 +4469,28 @@
       "duration_ms": 169646,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4XrbQ2Njf0632aZUo40zlt"
+    },
+    {
+      "album": {
+        "name": "h beats tape",
+        "url": "https://open.spotify.com/album/37mRaZ5keEgzkJhxH09QRr"
+      },
+      "artists": [
+        {
+          "name": "dj honda",
+          "url": "https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day"
+        },
+        {
+          "name": "Silent Killa Joint",
+          "url": "https://open.spotify.com/artist/1nNfL1cMyGVkyODtqf90wI"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145016,
+      "name": "LOST MY SOUL - Remix",
+      "url": "https://open.spotify.com/track/6R1mv75QH1xUJtCRqEp5M4"
     },
     {
       "album": {
@@ -5078,6 +5144,24 @@
     },
     {
       "album": {
+        "name": "NARI-A-GARI",
+        "url": "https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR"
+      },
+      "artists": [
+        {
+          "name": "Kay-on",
+          "url": "https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165642,
+      "name": "NARI-A-GARI",
+      "url": "https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY"
+    },
+    {
+      "album": {
         "name": "now that UR gone",
         "url": "https://open.spotify.com/album/4pujOHKtOo25md7rMwnRLE"
       },
@@ -5397,7 +5481,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 148363,
       "name": "OH SHIT!!",
       "url": "https://open.spotify.com/track/3Q2XeBLWpix4O8FZs9G8J8"
@@ -7192,6 +7276,24 @@
     },
     {
       "album": {
+        "name": "Tissue",
+        "url": "https://open.spotify.com/album/2ZngbcGDfh5V1jbw8T3cTN"
+      },
+      "artists": [
+        {
+          "name": "gummyboy",
+          "url": "https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Tissue",
+      "url": "https://open.spotify.com/track/1EJdm0llH4W1SQpHAZne7p"
+    },
+    {
+      "album": {
         "name": "four",
         "url": "https://open.spotify.com/album/2JcohoDUq5JPoIh2Zh3epv"
       },
@@ -7229,7 +7331,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 156631,
       "name": "Tokyo Under Construction",
       "url": "https://open.spotify.com/track/5HbTUAaixA61HUb3U9zdbj"
@@ -7833,6 +7935,28 @@
       "duration_ms": 147333,
       "name": "Yap Yap",
       "url": "https://open.spotify.com/track/7usqIQpFAuz2KFqI3x4CRl"
+    },
+    {
+      "album": {
+        "name": "YEA",
+        "url": "https://open.spotify.com/album/3JpsFg6KPRCDQRdaeQFkln"
+      },
+      "artists": [
+        {
+          "name": "MVTEN",
+          "url": "https://open.spotify.com/artist/0ViA0wrTM0BtMS9Nqr2PUz"
+        },
+        {
+          "name": "MAHBIE",
+          "url": "https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181379,
+      "name": "YEA",
+      "url": "https://open.spotify.com/track/03egqoKY0iIDZgSm6GfFC0"
     },
     {
       "album": {

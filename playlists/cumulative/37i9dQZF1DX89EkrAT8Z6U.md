@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-302 songs - 12 hr 46 min
+303 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [I'm Only a Fool for You](https://open.spotify.com/track/2egLcqqD1fz44PKq28fsKQ) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/438r5lDWrWN173Wd0HLxiK) | 1:01 | 2022-09-15 | 2023-02-03 |
 | [I'm Only a Fool for You](https://open.spotify.com/track/3OBVKgbxxSYtPm1YtGse58) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/2giufec1c5uHmZpjQYEr0E) | 1:01 | 2022-05-25 | 2022-08-28 |
 | [I'm Only a Fool for You](https://open.spotify.com/track/5yfnAsPrvrjiLOhWFycNP4) | [Dybbukk Covers](https://open.spotify.com/artist/65etXZIRd8KjC0pCYhD9wI), [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH), [Domingo Morales](https://open.spotify.com/artist/02jdatQ743BTSYp4wbNMA5) | [I'm Only a Fool for You](https://open.spotify.com/album/5FCGsaqNKaYRPkqGCLcefN) | 1:01 | 2022-11-10 | 2023-11-29 |
-| [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 | 2022-05-25 |  |
+| [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 | 2022-05-25 | 2024-01-11 |
 | [Iceberg \(Michael 2\)](https://open.spotify.com/track/6gU3XR7zZmbQAJZWSzUHB1) | [Diversify](https://open.spotify.com/artist/356W28yEFY8MEeYNUOLzJq) | [For the Fans](https://open.spotify.com/album/1a1ljc6WvVpytVTNqzX8LV) | 1:55 | 2022-07-08 | 2022-07-15 |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2022-05-25 | 2022-11-22 |
 | [innit](https://open.spotify.com/track/0vqY3GEoQZ3yuqvs9LT4p2) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [yenny's](https://open.spotify.com/album/1QSWGMnEVdonGej6XvCQxS) | 2:36 | 2023-03-24 | 2023-05-23 |
@@ -229,6 +229,7 @@
 | [SHOTGUN](https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3) | [SXULCVTCHER](https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [SHOTGUN](https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4) | 1:26 | 2023-07-13 | 2023-09-16 |
 | [SHOTS! \(WITH DENZEL CURRY\)](https://open.spotify.com/track/0X3t82GqNA6zMGKO6MSst1) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 2:16 | 2023-09-15 | 2023-09-27 |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-14 | 2023-06-22 |
+| [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [SLEEP PARALYSIS DEMON](https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj) | 2:34 | 2023-12-08 |  |
 | [SLIDE](https://open.spotify.com/track/0w96openg6MldR3S86NzO6) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [SLIDE](https://open.spotify.com/album/216UPHoSE3AZVaUpQ8a33r) | 2:48 | 2022-05-25 | 2022-07-29 |
 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 | 2022-10-07 | 2022-10-22 |
 | [Slump](https://open.spotify.com/track/0RitOSkVYKplZ53BgJd1rY) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Short Term Agreement](https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8) | 1:37 | 2023-04-25 | 2023-07-14 |

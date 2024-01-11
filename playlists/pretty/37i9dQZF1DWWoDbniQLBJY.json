@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1982688,
+  "num_followers": 1979262,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWM1Nzk3NGY5NDc0NGIyM2JlMzQ1ODIzMTczMTc1NmIyY2I3NjUx",
+  "snapshot_id": "MCwxODNkM2QxM2YwOGFjY2JjMWNiZTg0MjhmNWVjNTgwZWY4OTAyNmU0",
   "tracks": [
     {
       "added_at": "2024-01-05 20:04:27",
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 210920,
+      "duration_ms": 161000,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
     },
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-01-05 20:04:27",
       "album": {
+        "name": "ojitos caramelo",
+        "url": "https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 147761,
+      "name": "ojitos caramelo",
+      "url": "https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF"
+    },
+    {
+      "added_at": "2024-01-05 20:04:27",
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 226373,
       "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
       "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
-    },
-    {
-      "added_at": "2024-01-05 20:04:27",
-      "album": {
-        "name": "ojitos caramelo",
-        "url": "https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 147761,
-      "name": "ojitos caramelo",
-      "url": "https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF"
     },
     {
       "added_at": "2024-01-05 20:04:27",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-01-05 20:04:27",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado de Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
-    },
-    {
-      "added_at": "2024-01-05 20:04:27",
-      "album": {
         "name": "Afuera Del Planeta (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 261376,
       "name": "Afuera Del Planeta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
+    },
+    {
+      "added_at": "2024-01-05 20:04:27",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 400826,
+      "name": "No Ha Parado de Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
     },
     {
       "added_at": "2024-01-05 20:04:27",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-01-05 20:04:27",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Mar\u00eda - Unplugged",
-      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
-    },
-    {
-      "added_at": "2024-01-05 20:04:27",
-      "album": {
         "name": "Te acuerdas?",
         "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 183265,
       "name": "Te acuerdas?",
       "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2024-01-05 20:04:27",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Mar\u00eda - Unplugged",
+      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
     },
     {
       "added_at": "2024-01-05 20:04:27",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-05 20:04:27",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
-    },
-    {
-      "added_at": "2024-01-05 20:04:27",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 165760,
       "name": "Roto",
       "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "added_at": "2024-01-05 20:04:27",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2024-01-05 20:04:27",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-01-05 20:04:27",
       "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2024-01-05 20:04:27",
+      "album": {
         "name": "Cuanto antes (feat. Lali)",
         "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 226844,
       "name": "Cuanto antes (feat. Lali)",
       "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
-    },
-    {
-      "added_at": "2024-01-05 20:04:27",
-      "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2024-01-05 20:04:27",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-01-05 20:04:27",
       "album": {
-        "name": "Desorden",
-        "url": "https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Desorden",
-      "url": "https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n"
-    },
-    {
-      "added_at": "2024-01-05 20:04:27",
-      "album": {
         "name": "Jard\u00edn",
         "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 144253,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v"
+    },
+    {
+      "added_at": "2024-01-05 20:04:27",
+      "album": {
+        "name": "Desorden",
+        "url": "https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Desorden",
+      "url": "https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n"
     },
     {
       "added_at": "2024-01-05 20:04:27",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2024-01-05 20:04:27",
       "album": {
-        "name": "La Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
         }
       ],
-      "duration_ms": 253910,
-      "name": "La Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
+      "duration_ms": 186966,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
     },
     {
       "added_at": "2024-01-05 20:04:27",

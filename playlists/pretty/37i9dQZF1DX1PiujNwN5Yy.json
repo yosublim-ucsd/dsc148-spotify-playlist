@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111095,
+  "num_followers": 111080,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmE3YmE3MTM4YTc2NjJjYzVkMDNjOGY3ZGViZWQyZTA2YTI2YTM0",
+  "snapshot_id": "MCw0ODViMTJhNjkyMzJhZjAxMWQ3ZjA2ZjMzOTY2NThlZmJkYzAxYTM3",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Vete Si Quieres",
-        "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 228575,
-      "name": "Vete Si Quieres",
-      "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "La Pared",
         "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 289762,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Vete Si Quieres",
+        "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 228575,
+      "name": "Vete Si Quieres",
+      "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 191008,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 346000,
       "name": "Corazon partio (feat. Juan Azul) - En directo",
       "url": "https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 191008,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Music Inspired by the Film Roma",
+        "url": "https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Con el Viento",
+      "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Galerna",
         "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 188901,
       "name": "Galerna",
       "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Music Inspired by the Film Roma",
-        "url": "https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Con el Viento",
-      "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mi Cabeza",
-        "url": "https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Mi Cabeza",
-      "url": "https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "olv\u00eddate de m\u00ed",
         "url": "https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 177692,
       "name": "olv\u00eddate de m\u00ed",
       "url": "https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Mi Cabeza",
+        "url": "https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Mi Cabeza",
+      "url": "https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF"
     },
     {
       "added_at": "2023-12-15 05:00:00",

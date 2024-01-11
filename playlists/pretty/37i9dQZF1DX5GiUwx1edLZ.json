@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277204,
+  "num_followers": 277124,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDI1N2RmNTA5MDc3ZDAyNjJiNDVjYmZjNWJkMzhlODQwNjJmOWMy",
+  "snapshot_id": "MCxjNjMwYzA3NGFkMjY2ODEzYjA5NjRlMGE4MDFiY2YzZWQwMWVjN2Fj",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "I'm Good (Blue) [Acoustic]",
         "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 138024,
       "name": "I'm Good (Blue) - Acoustic",
       "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "All We Do",
-      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "On My Love (Live Acoustic)",
         "url": "https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 224428,
       "name": "On My Love - Live Acoustic",
       "url": "https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "More Than You Know (Acoustic)",
-        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 183950,
-      "name": "More Than You Know - Acoustic",
-      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -707,22 +707,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Into You (The Remixes)",
-        "url": "https://open.spotify.com/album/4FhqSHksxRJL2JuDKtj3pF"
+        "name": "Drink About (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
       },
       "artists": [
         {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
         },
         {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
         }
       ],
-      "duration_ms": 176917,
-      "name": "Into You - Acoustic Version",
-      "url": "https://open.spotify.com/track/4pgX15KGFNTHQFZg7GL3n8"
+      "duration_ms": 177656,
+      "name": "Drink About - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -755,22 +755,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Drink About (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
+        "name": "Into You (The Remixes)",
+        "url": "https://open.spotify.com/album/4FhqSHksxRJL2JuDKtj3pF"
       },
       "artists": [
         {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
         },
         {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
         }
       ],
-      "duration_ms": 177656,
-      "name": "Drink About - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
+      "duration_ms": 176917,
+      "name": "Into You - Acoustic Version",
+      "url": "https://open.spotify.com/track/4pgX15KGFNTHQFZg7GL3n8"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Paradise (The Acoustics)",
-        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 158830,
-      "name": "Paradise - Piano Version",
-      "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Crazy (Remixes - Pt. 1)",
         "url": "https://open.spotify.com/album/63oRa4RTNrXMMlyNWsHHcO"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 171743,
       "name": "Crazy - Acoustic Version",
       "url": "https://open.spotify.com/track/5HhEkkAFcGMYLQbF6GUa6C"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Paradise (The Acoustics)",
+        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 158830,
+      "name": "Paradise - Piano Version",
+      "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Where Are \u00dc Now Live (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 216339,
       "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
       "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Florida",
-        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 96866,
-      "name": "Florida",
-      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Stay The Night (Acoustic)",
         "url": "https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v"
       },
@@ -1447,6 +1431,38 @@
       "duration_ms": 171840,
       "name": "Stay The Night - Acoustic",
       "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Grabbitz - Friends EP",
+        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 61711,
+      "name": "7.6.14 (Intro)",
+      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 96866,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Grabbitz - Friends EP",
-        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 61711,
-      "name": "7.6.14 (Intro)",
-      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
       },
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Ferrari (Acoustic)",
-        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "Ferrari - Acoustic",
-      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Better Days (NEIKED x Mae Muller) [Acoustic]",
         "url": "https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 175990,
       "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
       "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Ferrari (Acoustic)",
+        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "Ferrari - Acoustic",
+      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "ABIR",
-          "url": "https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Finest Hour (feat. Abir) - Acoustic Version",
-      "url": "https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "No Time For Tears (Acoustic)",
         "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 205305,
       "name": "No Time For Tears - Acoustic",
       "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "ABIR",
+          "url": "https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Finest Hour (feat. Abir) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Moon Faces",
+        "url": "https://open.spotify.com/album/3OWD8bRfIM1uY2AyijHaEV"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/64rwYWim5lPgFRzn2DBOEa"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
         "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
@@ -1951,26 +1971,6 @@
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Moon Faces",
-        "url": "https://open.spotify.com/album/3OWD8bRfIM1uY2AyijHaEV"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/64rwYWim5lPgFRzn2DBOEa"
     }
   ],
   "unique_name": "mint Acoustic",

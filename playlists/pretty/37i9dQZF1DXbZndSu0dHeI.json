@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 201461,
+  "num_followers": 201714,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzRjODExOTk1ZmE5ZmEwZTBhYjcwM2ZjOGI5ZTE2YWExOGZhZmFi",
+  "snapshot_id": "MCwwY2NkNDBmY2Q1MTA2YzA3OTA3ZTcyMmQwMWQyMGZkM2E5YzI3ZmFh",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
     },
     {
-      "added_at": "2023-09-29 10:53:41",
-      "album": {
-        "name": "The Earth is a Very Small Dot",
-        "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 236100,
-      "name": "The Earth is a Very Small Dot",
-      "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Coming of Age",
@@ -883,6 +867,22 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+    },
+    {
+      "added_at": "2023-09-29 10:53:41",
+      "album": {
+        "name": "The Earth is a Very Small Dot",
+        "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 236100,
+      "name": "The Earth is a Very Small Dot",
+      "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
         }
       ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+      "duration_ms": 166133,
+      "name": "All My Little Words",
+      "url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "All My Little Words",
-      "url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Once Twice Melody",
-      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -1059,6 +1043,22 @@
       "duration_ms": 152133,
       "name": "Worst Case Kid",
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Once Twice Melody",
+      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
-      "added_at": "2023-07-04 22:20:24",
-      "album": {
-        "name": "Headlands",
-        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "Headlands",
-      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
-    },
-    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "Yard",
@@ -1123,6 +1107,22 @@
       "duration_ms": 245466,
       "name": "Broadview",
       "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
+    },
+    {
+      "added_at": "2023-07-04 22:20:24",
+      "album": {
+        "name": "Headlands",
+        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "Headlands",
+      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
       "added_at": "2023-01-20 16:59:50",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "The Boy With The Arab Strap",
-        "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314173,
-      "name": "The Boy With The Arab Strap",
-      "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Wisecrack",
@@ -1235,6 +1219,22 @@
       "duration_ms": 296129,
       "name": "Coolest fucking bitch in town",
       "url": "https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "The Boy With The Arab Strap",
+        "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314173,
+      "name": "The Boy With The Arab Strap",
+      "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
     },
     {
       "added_at": "2022-08-05 10:31:40",

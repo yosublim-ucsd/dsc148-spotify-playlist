@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 182408,
+  "num_followers": 182510,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjcwYWQ3MjJmMjVmOTBjNzQ5NGNlNTdmYWQ2ZDMyN2UwOGM0ZDE5",
+  "snapshot_id": "MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Get Damaged",
-        "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Becky",
-      "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Impeach My Bush",
         "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 235480,
       "name": "Boys Wanna Be Her",
       "url": "https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Get Damaged",
+        "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Becky",
+      "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Pity Boy",
-        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
-      },
-      "artists": [
-        {
-          "name": "Mal Blum",
-          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
-        }
-      ],
-      "duration_ms": 151473,
-      "name": "Things Still Left to Say",
-      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Call the Doctor (Remastered)",
         "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Get Awkward",
-        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
+        "name": "Pity Boy",
+        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
       },
       "artists": [
         {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
         }
       ],
-      "duration_ms": 131226,
-      "name": "Heart Throb - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
+      "duration_ms": 151473,
+      "name": "Things Still Left to Say",
+      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -423,6 +407,22 @@
       "duration_ms": 116906,
       "name": "Pigs Is Pigs",
       "url": "https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Get Awkward",
+        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 131226,
+      "name": "Heart Throb - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Stoned Butch Blues",
-        "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
-      },
-      "artists": [
-        {
-          "name": "Butch Baby",
-          "url": "https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr"
-        }
-      ],
-      "duration_ms": 167623,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "They/Them",
         "url": "https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 137781,
       "name": "They/Them",
       "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Stoned Butch Blues",
+        "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
+      },
+      "artists": [
+        {
+          "name": "Butch Baby",
+          "url": "https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr"
+        }
+      ],
+      "duration_ms": 167623,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
-      },
-      "artists": [
-        {
-          "name": "Petrol Girls",
-          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
-        }
-      ],
-      "duration_ms": 192281,
-      "name": "Baby, I Had an Abortion",
-      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Fuck Danny Denial",
         "url": "https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 205293,
       "name": "CCCHOKEMEEE",
       "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Always Already",
-        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
-      },
-      "artists": [
-        {
-          "name": "La Luna",
-          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
-        }
-      ],
-      "duration_ms": 113413,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Divine Violence",
         "url": "https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 202231,
       "name": "Divine Violence",
       "url": "https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Always Already",
+        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
+      },
+      "artists": [
+        {
+          "name": "La Luna",
+          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
+        }
+      ],
+      "duration_ms": 113413,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Queen Zee",
-        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
       },
       "artists": [
         {
-          "name": "Queen Zee",
-          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
         }
       ],
-      "duration_ms": 143853,
-      "name": "Sissy Fists",
-      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     }
   ],
   "unique_name": "Queercore",

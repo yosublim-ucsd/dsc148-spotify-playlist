@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Juliet Ivy",
-  "num_followers": 1201887,
+  "num_followers": 1202615,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDdkZTkxZDUwMzNjYWY0OWRiNzQ0ZjdjMGNhMTExMGQwNGM4MTg3",
+  "snapshot_id": "MCxjOGMyNjkyZmU2MGE1N2FhMTNhZjc3MDYwYzZiZTIxNTE1MzU5Yjc4",
   "tracks": [
     {
       "added_at": "2024-01-04 17:22:37",
@@ -137,10 +137,46 @@
       "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
     },
     {
+      "added_at": "2024-01-10 03:00:22",
+      "album": {
+        "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
+        "url": "https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY"
+      },
+      "artists": [
+        {
+          "name": "PONCHET",
+          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
+        },
+        {
+          "name": "VARINZ",
+          "url": "https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
+      "url": "https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3"
+    },
+    {
+      "added_at": "2024-01-10 03:00:22",
+      "album": {
+        "name": "YOARI X MY DEMON",
+        "url": "https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf"
+      },
+      "artists": [
+        {
+          "name": "YOARI",
+          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov"
+    },
+    {
       "added_at": "2024-01-04 17:22:37",
       "album": {
         "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/4pNAPDBOAeBwJ7JvVx7Fc1"
+        "url": "https://open.spotify.com/album/676W2PECpK9UJuuqyjXRjk"
       },
       "artists": [
         {
@@ -150,7 +186,23 @@
       ],
       "duration_ms": 202066,
       "name": "Patience",
-      "url": "https://open.spotify.com/track/0v0EZLRftWKqvFfwurjw02"
+      "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
+    },
+    {
+      "added_at": "2024-01-10 03:00:22",
+      "album": {
+        "name": "Why Can't I",
+        "url": "https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Constantin",
+          "url": "https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Why Can't I",
+      "url": "https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw"
     },
     {
       "added_at": "2024-01-04 17:22:37",
@@ -247,6 +299,22 @@
       "duration_ms": 196897,
       "name": "Aduh",
       "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
+    },
+    {
+      "added_at": "2024-01-10 03:00:22",
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 205213,
+      "name": "Episode",
+      "url": "https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0"
     },
     {
       "added_at": "2024-01-04 17:22:37",

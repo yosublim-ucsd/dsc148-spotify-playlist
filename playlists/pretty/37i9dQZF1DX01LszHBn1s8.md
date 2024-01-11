@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🛁 bathtub scene? no, i keep thinking about the one at the graveyard 🪦
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,971 likes - 874 songs - 1 day 22 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,128 likes - 874 songs - 1 day 22 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 | 2 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 |
 | 3 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
-| 4 | [Toxic](https://open.spotify.com/track/3KTRve0Kx6ytMtlEWkWcgt) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Toxic](https://open.spotify.com/album/0Oy294KOfbLAq9OtJfx7qk) | 2:16 |
+| 4 | [Toxic \(Freestyle\)](https://open.spotify.com/track/3KTRve0Kx6ytMtlEWkWcgt) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [BL@CKBOX](https://open.spotify.com/artist/1IIMC4tga6PiBaEqPq2FTb) | [Toxic \(Freestyle\)](https://open.spotify.com/album/0Oy294KOfbLAq9OtJfx7qk) | 2:16 |
 | 5 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 6 | [Baby By Me](https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Before I Self\-Destruct](https://open.spotify.com/album/4kaCrosmqvvrPUEAwcnC3s) | 3:33 |
 | 7 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
@@ -883,4 +883,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 873 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 874 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCwxMTQ5ZTUwZDFkMGNlMjM1ZDQzNzEwMjQ5OTI0M2Q2YjJhMGMyOWE2`
+Snapshot ID: `MCwwYmU5MmQ2NjFjMTVmNzFjNmM5NDhkYzQwZWNmOWZhN2JkNDA0ZTg1`

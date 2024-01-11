@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE?si=B9nqNMHqRz64G83NKUThtg">Arno Jordaan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,255 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,284 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 |
 | 50 | [Daai Girl](https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2) | [BiBi](https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX) | [Daai Girl](https://open.spotify.com/album/6kl5EDBv4XxeJBJfS9olsx) | 3:13 |
 
-Snapshot ID: `MCxiZjQxNDczOGU2NmI3ZjFkYmU2MDU3ZjYwZWRiZGM2MWYzYTY5ODI0`
+Snapshot ID: `MCwxZWIzMWFlNDdhMzU0MmNkNTU4ZjkyZjkxZDBiZDRhZmM0Y2M3MDRm`

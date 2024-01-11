@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-456 songs - 1 day 3 hr 11 min
+458 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [meals first](https://open.spotify.com/track/4znCUfG6G6PuF9npVCKVHC) | [Kyl Aries](https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S) | [meals first](https://open.spotify.com/album/3UTcvH9IF71Dq83luYdbE8) | 3:20 | 2022-04-07 | 2022-04-13 |
 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-19 | 2023-06-02 |
 | [Memory Digital](https://open.spotify.com/track/6idUXmVXKR8mfBhKKuP3Kf) | [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C) | [Love's Last Chance](https://open.spotify.com/album/42UMLqmleDyVeO66IjZiY4) | 4:29 | 2022-03-24 | 2022-04-19 |
-| [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-06-16 |  |
+| [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-06-16 | 2024-01-11 |
 | [MERCY](https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [MERCY](https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P) | 4:26 | 2022-09-01 | 2022-12-02 |
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-04-28 | 2022-07-29 |
 | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/track/3Q1oUYeVsvR3dGAdFN3nTf) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/album/1npKTihmjBLLjWiZDBkTEu) | 5:13 | 2022-03-24 | 2022-04-15 |
@@ -248,7 +248,7 @@
 | [Nana](https://open.spotify.com/track/1M6BvW6Ao53o77piGFjyJ7) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Nana](https://open.spotify.com/album/4IpbcZKlCDskRI1R9z8INc) | 2:58 | 2022-07-28 | 2022-09-02 |
 | [Nana](https://open.spotify.com/track/3gjgd0sXeIvN3lVXlxlyQ0) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Nana](https://open.spotify.com/album/0xVYd4FdkMAdQCdX9mRlXT) | 2:58 | 2022-07-07 | 2022-07-29 |
 | [Navy Slumbers](https://open.spotify.com/track/0LtNOISzddpoKFO6n9yWIj) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [MOTHERBOARD](https://open.spotify.com/album/7L3NorJ3Hw8OyVsO44icXQ) | 5:03 | 2022-03-24 | 2022-04-14 |
-| [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 | 2023-06-30 |  |
+| [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 | 2023-06-30 | 2024-01-11 |
 | [Need You Wet](https://open.spotify.com/track/3tEsaocNfPST27BvetRUUN) | [Tobi Tunis](https://open.spotify.com/artist/3iLIsbJ8srNU4lyNmkOHur), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Need You Wet](https://open.spotify.com/album/0kc114AT5sPUWHt73euZ2y) | 3:22 | 2023-08-31 | 2023-09-15 |
 | [Needs](https://open.spotify.com/track/0Ic42kynfrSAJjTlOr0dWR) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Needs](https://open.spotify.com/album/1xYasQnBT0AZVgQhlEGQTW) | 2:26 | 2023-08-17 | 2023-10-27 |
 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 | 2022-06-09 | 2023-04-28 |
@@ -343,6 +343,7 @@
 | [Sunflower](https://open.spotify.com/track/6C1u5c21S37nBvyu9d44YN) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Sunflower](https://open.spotify.com/album/1tTLeFvFpXow2T6qAvVefB) | 2:45 | 2022-03-17 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/1Rz4UsnPYzlMAbf9bDmSUF) | [King Pari](https://open.spotify.com/artist/7jkQRoULRK5aqPmmF4rrtp) | [Sunshine](https://open.spotify.com/album/1PBSl4GH9KoTvSS4tMRqYR) | 3:31 | 2021-12-23 | 2022-07-29 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-21 |  |
+| [Super Fresh](https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:52 | 2024-01-10 |  |
 | [Supernova](https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Supernova](https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe) | 2:21 | 2021-12-23 | 2023-02-18 |
 | [Surface](https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [INIMI](https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL) | [Could It Be U / Surface](https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt) | 3:07 | 2022-04-14 | 2022-07-29 |
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-10-19 | 2023-12-11 |
@@ -464,5 +465,6 @@
 | [ミアネ](https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 3:35 | 2022-01-20 | 2022-04-17 |
 | [ラスト・サマー](https://open.spotify.com/track/1ioiQzOIWVOigJ0ZIRTcyl) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [ラスト・サマー](https://open.spotify.com/album/7xaU0c3IU2GiUda2uAuQfH) | 4:05 | 2022-03-24 | 2022-04-17 |
 | [捨てたらいい](https://open.spotify.com/track/0S9lGaUMNdWlkC2otnCi3j) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [捨てたらいい](https://open.spotify.com/album/5ycihn3cfNBsbAXCviOYs3) | 3:22 | 2022-04-03 | 2022-04-21 |
+| [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 | 2024-01-10 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

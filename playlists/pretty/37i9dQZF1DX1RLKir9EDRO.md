@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: TUANA Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,155 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,178 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [İkinci Perde](https://open.spotify.com/track/6DUviSy6k0Rvx5gT9TCBGE) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX) | [İkinci Perde](https://open.spotify.com/album/0vTlWnavks9wGQBpcDDdJl) | 4:12 |
 | 50 | [a divinis](https://open.spotify.com/track/0s686kWyH7cKM5VHWcIn4N) | [munglay](https://open.spotify.com/artist/3lpNF9ypeJ8C2hetRzymhJ) | [a divinis](https://open.spotify.com/album/7uGNN5rgrkjPAWR2ci2edw) | 2:54 |
 
-Snapshot ID: `MCxjYmYwNDI0MGE1ZGMwNjhjOWM1Y2ExNjVkNDAyZjI2OGI5ZTQxMzll`
+Snapshot ID: `MCxjM2NhODYzYTJkOGQxNjk5YTVjNjliMTRlODdjMTUwYTliYjAyMWQz`

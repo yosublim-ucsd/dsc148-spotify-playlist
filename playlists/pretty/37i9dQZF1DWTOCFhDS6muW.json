@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 22390,
+  "num_followers": 22403,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjgzYzNlNzgyNzM5YmZjZWJlMzAzYWYwMzA2YzMxYTVlNzZlMjli",
+  "snapshot_id": "MCxiNThiNTc3YzlkZjVlMzNjOTJmY2FjYmE5MzQ5YmJlZDMyMjBiZWZi",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -599,18 +599,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+        "name": "#SinNombre",
+        "url": "https://open.spotify.com/album/22d3Myqd47RVnNcuVUhZKE"
       },
       "artists": [
         {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+          "name": "Monk!",
+          "url": "https://open.spotify.com/artist/51qXkPsS846b0NBGpA8xIo"
         }
       ],
-      "duration_ms": 256116,
-      "name": "Por la Playa",
-      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
+      "duration_ms": 338364,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Bunabou Live",
-        "url": "https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc"
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
       },
       "artists": [
         {
-          "name": "Xcstacy",
-          "url": "https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi"
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
         }
       ],
-      "duration_ms": 449201,
-      "name": "Bunabou Live - Live",
-      "url": "https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF"
+      "duration_ms": 256116,
+      "name": "Por la Playa",
+      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
     }
   ],
   "unique_name": "Punta",

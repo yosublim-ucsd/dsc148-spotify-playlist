@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: MERO, AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,034 likes - 59 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,031 likes - 59 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 20 | [Only God Knows](https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [ECHoBOY](https://open.spotify.com/artist/5tGSpRGRAJGaHguGRHz3gJ) | [Only God Knows](https://open.spotify.com/album/6B6o64fBRzC3IiIfJdzs8I) | 3:30 |
 | 21 | [Good Intentions](https://open.spotify.com/track/29CGhjmcFBSC7D2zOwBNB5) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Good Intentions](https://open.spotify.com/album/3oEnNyKuyAZuKYoEAoX6YV) | 2:36 |
 | 22 | [Vaisseau](https://open.spotify.com/track/5vgOMcrrctC8t8vptxhiaK) | [GAZY MP](https://open.spotify.com/artist/5CWqAxPyMw1opbJyhvs6YO), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [PROCESS](https://open.spotify.com/album/5VCKgSkDJ0W5Fkytc21zWF) | 3:00 |
-| 23 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY \(Mixtape\)](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 |
+| 23 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 |
 | 24 | [ROBOTER](https://open.spotify.com/track/5kc745jidR2jUvcHlv8Fj8) | [Veysel](https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ) | [ROBOTER](https://open.spotify.com/album/6NCa7LLDxGKLEA2kmdv1EO) | 2:19 |
 | 25 | [IDK How To Talk To Girls](https://open.spotify.com/track/0p3aRTHUnbMApaSnlHrRy1) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [IDK How To Talk To Girls](https://open.spotify.com/album/6AsWIrXIJHsprEatrjLdhR) | 2:40 |
 | 26 | [À force](https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À force / Charlotte](https://open.spotify.com/album/037C6V7kBMy2TrkqZKeC2w) | 3:17 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 33 | [Hochzeitscrash](https://open.spotify.com/track/5kdAnfzo2ozqNkjEwWGFIE) | [BOYBUMBÁ](https://open.spotify.com/artist/2E83f1Bxj4bCPbZ892eG3f) | [Hochzeitscrash](https://open.spotify.com/album/3KEsV6p4QahHzJtasndtnE) | 1:38 |
 | 34 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
 | 35 | [Skims](https://open.spotify.com/track/31yg6sxD3CKn5KfJxw9SUW) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Skims](https://open.spotify.com/album/7cbLBr6UAXKQ6QQmOQ4wVm) | 3:02 |
-| 36 | [Move It](https://open.spotify.com/track/4A4G08LYSPgvRJ1i8oBmzz) | [Lil Woadie](https://open.spotify.com/artist/2EXfozHTf9S1oPTbgS757l), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Move It](https://open.spotify.com/album/73sAfWp6HE5ds0J8tOmssY) | 1:17 |
+| 36 | [Move It](https://open.spotify.com/track/4A4G08LYSPgvRJ1i8oBmzz) | [Lil Woadie](https://open.spotify.com/artist/2EXfozHTf9S1oPTbgS757l) | [Move It](https://open.spotify.com/album/73sAfWp6HE5ds0J8tOmssY) | 1:17 |
 | 37 | [Not For The Ewigkeit](https://open.spotify.com/track/693iZrYelWorntvBaZWbpn) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Not For The Ewigkeit](https://open.spotify.com/album/091kq1LRtonE14VbqpoIeb) | 4:10 |
 | 38 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 |
 | 39 | [Narcissist](https://open.spotify.com/track/0fayxbip7asGIBze5wWZnu) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Narcissist](https://open.spotify.com/album/5q4oFnbNrfW9MtuZdBIZlC) | 2:29 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 58 | [Verschwende Dich](https://open.spotify.com/track/3VyhKnsWF9sJmZpR3ex1fH) | [Max Prosa](https://open.spotify.com/artist/0UU6joGwY7wUWWDyaPNKSF), [Stiehler](https://open.spotify.com/artist/3t6PFvpjhve61oCENXXrh9), [Hannah Herzsprung](https://open.spotify.com/artist/5WqubPXBuDFvWO8WMUq1JW) | [Verschwende Dich](https://open.spotify.com/album/1hzhtWLXn50NMy1FqEM0h4) | 3:15 |
 | 59 | [American Dream](https://open.spotify.com/track/2XmkX75czcI3KwZfvuvkPx) | [Oda Loves You](https://open.spotify.com/artist/1SPo0Gb7MLOZRbrpnj4ybr) | [American Dream](https://open.spotify.com/album/2byLuldZbRlXBHQyAVR3AZ) | 3:33 |
 
-Snapshot ID: `MCwwN2Y4ZTg2ZWI3ZTI4MDQ3MjJkZWUyMWJlN2E3YjRkMjk4YWU5NWVj`
+Snapshot ID: `MCxlZmM5ZDc5YTczM2U4ODU3Yjk0OGIxNzdmMWY4NGU5OTczMzFjYjA0`

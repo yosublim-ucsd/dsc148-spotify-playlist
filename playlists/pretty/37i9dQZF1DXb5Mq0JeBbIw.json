@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 6918,
+  "num_followers": 6964,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzQzYWQ0NDQ0ODEwMDA1YThhNDkwNzQ5ZDM0NzY1NDQxNTA3NzM3",
+  "snapshot_id": "MCxhNTI3OWUzNjE0MDg1YTk1ZTZjZjZiODcwOTkyNTg3MzUzZTIzOGU0",
   "tracks": [
     {
       "added_at": "2023-10-10 12:23:51",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
     },
     {
+      "added_at": "2023-12-21 14:00:26",
+      "album": {
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "duration_ms": 211257,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD"
+    },
+    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
@@ -699,22 +715,6 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
-    },
-    {
-      "added_at": "2023-12-21 14:00:26",
-      "album": {
-        "name": "Still The One",
-        "url": "https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC"
-      },
-      "artists": [
-        {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
-        }
-      ],
-      "duration_ms": 211257,
-      "name": "Still The One",
-      "url": "https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Bad Habits (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Bad Habits - Acoustic Version",
-      "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Chasing Cars (Acoustic)",
         "url": "https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 236298,
       "name": "Chasing Cars - Acoustic",
       "url": "https://open.spotify.com/track/1abgR6pt8VzZRfiQa0KLlS"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Bad Habits (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Bad Habits - Acoustic Version",
+      "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Deny Me",
-        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 307620,
-      "name": "Deny Me",
-      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Bigger Heart (Acoustic)",
         "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 288731,
       "name": "Bigger Heart (Acoustic)",
       "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Deny Me",
+        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "duration_ms": 307620,
+      "name": "Deny Me",
+      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1601,30 +1601,6 @@
       "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
     },
     {
-      "added_at": "2023-06-23 11:57:00",
-      "album": {
-        "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
-        "url": "https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 145521,
-      "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
-      "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "I'm Not The Only One (Acoustic Version)",
@@ -1655,6 +1631,30 @@
       "duration_ms": 163588,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs"
+    },
+    {
+      "added_at": "2023-06-23 11:57:00",
+      "album": {
+        "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
+        "url": "https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 145521,
+      "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
+      "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
     },
     {
       "added_at": "2023-02-10 06:37:00",

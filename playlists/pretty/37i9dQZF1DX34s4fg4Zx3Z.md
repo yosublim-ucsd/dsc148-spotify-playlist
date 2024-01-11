@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain](/playlists/plain/37i9dQZF1DX34s4fg4Zx3Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX34s4fg4Zx3Z)
 
-### [Fresh Finds Vietnam  2023](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
+### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Southalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,335 likes - 97 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,343 likes - 97 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 96 | [Anh không muốn](https://open.spotify.com/track/4E1bh29teqcFMhpP070HEG) | [Phongkhin](https://open.spotify.com/artist/7qHgn5ADOzPBlcWcXfM6iA), [Cashmel](https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh), [RPT Spidey](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [Anh không muốn](https://open.spotify.com/album/0908fde4bEiPW0OouVDB7Q) | 3:48 |
 | 97 | [thôi tìm nhau](https://open.spotify.com/track/4tgP2bUe0JYewd5ZkURAVU) | [Hoàng KayLee](https://open.spotify.com/artist/41TxXGX17thfgXvwCXZ9fq), [Dilo](https://open.spotify.com/artist/73DHEx4KHoW8ThiVDrE5jG) | [thôi tìm nhau](https://open.spotify.com/album/3ws8ztJoDxZQsJ5YuDvxrq) | 2:39 |
 
-Snapshot ID: `MCwzNDJlNGEwZDI4YmJmOTg1Zjc4NzQzNTY0NzhhMmI2MDZiYmI1ZTZk`
+Snapshot ID: `MCw3MWQ2MjIwNjA3OTVjYjcwNzkwMDJhM2FiOWQ5ZWMzMjUyNDY2YzBj`

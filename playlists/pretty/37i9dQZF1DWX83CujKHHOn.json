@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3353465,
+  "num_followers": 3352620,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDcyYjRmOTIxODgxYmZjMWI0NjBjMzNjYWEwYzJiMjVhMWZmNzlh",
+  "snapshot_id": "MCw5NzkzNjNlOTQ5NWZhNTU3YTI2YmU5ZjBlMTY1MTQ1ODRjNGNiYzY0",
   "tracks": [
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
     },
     {
-      "added_at": "2023-06-09 11:28:14",
-      "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
-    },
-    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
         "name": "Savage Garden (Original Version)",
@@ -1111,6 +1095,22 @@
       "duration_ms": 276289,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic"
+    },
+    {
+      "added_at": "2023-06-09 11:28:14",
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Love You From a Distance",
-      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
         }
       ],
-      "duration_ms": 191830,
-      "name": "this is what sadness feels like",
-      "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
+      "duration_ms": 204000,
+      "name": "Love You From a Distance",
+      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1523,6 +1507,22 @@
       "duration_ms": 221293,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 191830,
+      "name": "this is what sadness feels like",
+      "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "this is what losing someone feels like",
-        "url": "https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 172325,
-      "name": "this is what losing someone feels like",
-      "url": "https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },
@@ -1671,6 +1655,38 @@
       "duration_ms": 236440,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "I Could Use a Love Song",
+      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "this is what losing someone feels like",
+        "url": "https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 172325,
+      "name": "this is what losing someone feels like",
+      "url": "https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+        "name": "Good Without",
+        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 196421,
-      "name": "I Could Use a Love Song",
-      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
+      "duration_ms": 182121,
+      "name": "Good Without",
+      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
     },
     {
       "added_at": "2024-01-05 09:56:00",
@@ -1719,22 +1735,6 @@
       "duration_ms": 187591,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "Good Without",
-        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 182121,
-      "name": "Good Without",
-      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "When I Look At You",
-      "url": "https://open.spotify.com/track/7ywzEdEuVG1lsjsRCGJfLy"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 202360,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "The Time Of Our Lives",
+        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "When I Look At You",
+      "url": "https://open.spotify.com/track/7ywzEdEuVG1lsjsRCGJfLy"
     },
     {
       "added_at": "2023-04-07 20:03:50",

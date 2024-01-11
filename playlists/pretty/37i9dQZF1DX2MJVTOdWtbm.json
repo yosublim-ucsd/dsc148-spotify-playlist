@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Nicole Horts",
-  "num_followers": 113024,
+  "num_followers": 113005,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWZhMDliODhiN2M1MDQxYmQzNjE4OTU2MzJjZWU4MzM4NTdjMGE4",
+  "snapshot_id": "MCwyMTVmZDZjZjU5MGQ5ZDA4NWJiNDY4YTk3M2E3MTU4MzQ5ZDE3Yjg1",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Llamando A Tu Fon",
         "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 207037,
       "name": "Llamando A Tu Fon",
       "url": "https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ser Feliz",
-        "url": "https://open.spotify.com/album/2G2RGCle7gV0mmKvP3ohOS"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Liana Malva",
-          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
-        }
-      ],
-      "duration_ms": 212538,
-      "name": "Ser Feliz",
-      "url": "https://open.spotify.com/track/1BGtMvl4BIDAQ7ThRGiAda"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Garabatos",
         "url": "https://open.spotify.com/album/3RsEjiStHrHJFKktlr9AcO"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 202478,
       "name": "Garabatos",
       "url": "https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Ser Feliz",
+        "url": "https://open.spotify.com/album/2G2RGCle7gV0mmKvP3ohOS"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        }
+      ],
+      "duration_ms": 212538,
+      "name": "Ser Feliz",
+      "url": "https://open.spotify.com/track/1BGtMvl4BIDAQ7ThRGiAda"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "m\u00e9todos.",
+        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 207659,
+      "name": "ando chiple <\\3",
+      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -1355,22 +1375,6 @@
       "duration_ms": 151304,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 145413,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1391,22 +1395,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "A la Carta",
-        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
       "artists": [
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 173400,
-      "name": "A la Carta",
-      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
+      "duration_ms": 145413,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1423,6 +1423,26 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "A la Carta",
+        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "A la Carta",
+      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1459,46 +1479,6 @@
       "duration_ms": 174339,
       "name": "Chulita",
       "url": "https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "m\u00e9todos.",
-        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        },
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        }
-      ],
-      "duration_ms": 207659,
-      "name": "ando chiple <\\3",
-      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "De Ti",
-        "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "De Ti",
-      "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1583,6 +1563,26 @@
       "duration_ms": 198533,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "De Ti",
+        "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
     },
     {
       "added_at": "2023-12-15 05:00:00",

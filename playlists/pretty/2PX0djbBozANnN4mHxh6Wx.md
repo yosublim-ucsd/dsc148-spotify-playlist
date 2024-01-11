@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,973 likes - 542 songs - 1 day 8 hr 36 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,974 likes - 542 songs - 1 day 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 56 | [エレクトロ・ワールド \- Album\-mix](https://open.spotify.com/track/3vk4V4vwotEvP16U1cM0HQ) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Perfume～Complete Best～](https://open.spotify.com/album/73vkeEI6YNUcShqIDVQiNK) | 4:21 |
 | 57 | [WINDOWS 95](https://open.spotify.com/track/7wJ5wEtoVDizkOaVcAQFGS) | [Che Mac](https://open.spotify.com/artist/0AjesWdoA2mbP3CNET5E0c) | [DEAD TAPE vol\. 3](https://open.spotify.com/album/65kM3oKiHK2NIV78rHJDQ9) | 3:44 |
 | 58 | [BEACH](https://open.spotify.com/track/4P45se7HrAGBwa0NDvSvcd) | [architecture in tokyo](https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ) | [Summer Paradise](https://open.spotify.com/album/3m3FAl1OVyOAuH5zyTFZjW) | 1:36 |
-| 59 | [L I S A](https://open.spotify.com/track/1SV7FKtq8uOta3AizJ9bJc) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [get a job 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 1:16 |
+| 59 | [](https://open.spotify.com/track/1SV7FKtq8uOta3AizJ9bJc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [ｇｅｔ　ａ　ｊｏｂ 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 0:00 |
 | 60 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
 | 61 | [Long Long Silk Bridge](https://open.spotify.com/track/1V5Dp4puHLcNQqwPjnldNE) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV) | 3:02 |
 | 62 | [Celestica](https://open.spotify.com/track/5QmolkpuE6IfPdr7j2MGn5) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 3:48 |
@@ -473,7 +473,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 463 | [Angelic Seaside \(Arrange\)](https://open.spotify.com/track/3S8cyZ4UZKmd1son8C9YPy) | [DV\-i](https://open.spotify.com/artist/3EQMLkFqKA6xXhzNYlBrbE) | [Aurora Memoria : Philosophical Data Session 2093](https://open.spotify.com/album/4fjfyBEB9KZyzcTaKtk5QV) | 1:30 |
 | 464 | [An Old Smile](https://open.spotify.com/track/7GipuWhjsp4BCIiuId4Gqc) | [Macabre Plaza](https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t) | [An Old Smile](https://open.spotify.com/album/6CqtWGd1BcpvH4bDTIMvua) | 1:11 |
 | 465 | [thinktime](https://open.spotify.com/track/72DBf4DoscvEZXVpY3En6e) | [lvusm](https://open.spotify.com/artist/2iFB1sUnmksG09STRCdEaW) | [thinktime](https://open.spotify.com/album/2Mvu0MM7SQQFaFGTI7K53T) | 1:19 |
-| 466 | [癌 is the new thin](https://open.spotify.com/track/70c9wwn2pHz2KNw5SPJDAx) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [get a job 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 2:20 |
+| 466 | [](https://open.spotify.com/track/70c9wwn2pHz2KNw5SPJDAx) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [ｇｅｔ　ａ　ｊｏｂ 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 0:00 |
 | 467 | [solitude i think](https://open.spotify.com/track/6UAab2T6OockED0byUodhQ) | [lvusm](https://open.spotify.com/artist/2iFB1sUnmksG09STRCdEaW) | [solitude i think](https://open.spotify.com/album/2laUoctY0aRMyM2t3KG9i2) | 1:28 |
 | 468 | [Foggy Town](https://open.spotify.com/track/55DbJWtEtgkPA4rUxTk8lv) | [Alessandro Alessandroni](https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ) | [Panoramic Feelings \(Mellow Carefree Lounge Music\)](https://open.spotify.com/album/4CW8oM19vtGd4TJi1qmmZu) | 3:02 |
 | 469 | [Currency Exchange](https://open.spotify.com/track/4BgNu9dseDLYxTMcfqmbGw) | [Limousine](https://open.spotify.com/artist/411IJ9TOjFsm7Jc8ZE9CJT), [Catsystem Corp.](https://open.spotify.com/artist/5PXTbqpYynP1YO4is9KIX2) | [Paypal Playboy](https://open.spotify.com/album/7yFfQ5PuLHs8Tew5E8RC0D) | 2:12 |

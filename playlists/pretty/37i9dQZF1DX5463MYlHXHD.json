@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 569594,
+  "num_followers": 569147,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDc4OWUzYWQ2ZGUyMTZlMjFlNzQ5Mjc2MjlhOGYyODMzZDBhMjY3",
+  "snapshot_id": "MCw0OTc0YjUxNzg1NmZiMGU3NjE0OGNiNjdhODVkMjk3Zjg3NDgwZTA3",
   "tracks": [
     {
       "added_at": "2023-12-22 12:02:16",
@@ -471,18 +471,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "6to Sentido (Una Vuelta)",
         "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 136806,
       "name": "Pistola Remix",
       "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Corriendo La Coneja",
-        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Pinta",
         "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 177950,
       "name": "Pinta",
       "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Corriendo La Coneja",
+        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 267813,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 125239,
+      "name": "Culito Pa' Tras",
+      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "AL RITMO | E2",
         "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 176842,
       "name": "AL RITMO | E2",
       "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 125239,
-      "name": "Culito Pa' Tras",
-      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 234707,
-      "name": "Mabel",
-      "url": "https://open.spotify.com/track/5Pcqvln7Yo4XPYRzuaVWja"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Vicera, las Zapas",
         "url": "https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi"
       },
@@ -1959,18 +1943,18 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Con S\u00edndrome de Abstinencia",
-        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
       "artists": [
         {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 176973,
-      "name": "Berretines de Verduga",
-      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
+      "duration_ms": 234707,
+      "name": "Mabel",
+      "url": "https://open.spotify.com/track/5Pcqvln7Yo4XPYRzuaVWja"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1987,6 +1971,22 @@
       "duration_ms": 238933,
       "name": "La Jarra Loca",
       "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Con S\u00edndrome de Abstinencia",
+        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Berretines de Verduga",
+      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2151,22 +2151,18 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Gancia y Limon",
-        "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
+        "name": "No Hay Mal Que Dure 100 A\u00f1os",
+        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
       },
       "artists": [
         {
-          "name": "Smk-2",
-          "url": "https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt"
-        },
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+          "name": "El Aspirante",
+          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
         }
       ],
-      "duration_ms": 233314,
-      "name": "Gancia y Limon",
-      "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
+      "duration_ms": 175933,
+      "name": "En la Cama T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2187,18 +2183,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "No Hay Mal Que Dure 100 A\u00f1os",
-        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
+        "name": "Gancia y Limon",
+        "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
       },
       "artists": [
         {
-          "name": "El Aspirante",
-          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
+          "name": "Smk-2",
+          "url": "https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
         }
       ],
-      "duration_ms": 175933,
-      "name": "En la Cama T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
+      "duration_ms": 233314,
+      "name": "Gancia y Limon",
+      "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2275,22 +2275,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Corte Caco",
-        "url": "https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb"
+        "name": "Venite Al Barrio",
+        "url": "https://open.spotify.com/album/6FaIAy4mMYiaZUWsutQSUS"
       },
       "artists": [
         {
-          "name": "Nuke",
-          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
         },
         {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 120520,
-      "name": "Corte Caco",
-      "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
+      "duration_ms": 163401,
+      "name": "Venite Al Barrio",
+      "url": "https://open.spotify.com/track/502621sPRjwZnxC5N7Co80"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2311,22 +2311,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Venite Al Barrio",
-        "url": "https://open.spotify.com/album/6FaIAy4mMYiaZUWsutQSUS"
+        "name": "Corte Caco",
+        "url": "https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb"
       },
       "artists": [
         {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
         },
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
         }
       ],
-      "duration_ms": 163401,
-      "name": "Venite Al Barrio",
-      "url": "https://open.spotify.com/track/502621sPRjwZnxC5N7Co80"
+      "duration_ms": 120520,
+      "name": "Corte Caco",
+      "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
     },
     {
       "added_at": "2023-12-22 12:02:16",

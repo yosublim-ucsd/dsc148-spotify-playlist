@@ -4,7 +4,7 @@
 
 > Your weekly Rock update\. Cover: audalei
 
-751 songs - 1 day 17 hr 41 min
+752 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,8 @@
 | [Heaven](https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Heaven](https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw) | 3:47 | 2023-12-08 |  |
 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 | 2023-12-15 |  |
 | [Heaven Is Burning](https://open.spotify.com/track/2usxjQ8Kk6szxuNqmkt2DQ) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Heaven Is Burning](https://open.spotify.com/album/02KE9rm8hxI9EkXcUR1bdr) | 4:18 | 2023-09-15 | 2023-10-21 |
-| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 | 2024-01-11 |
 | [Helen](https://open.spotify.com/track/346NOmo5mIW6qXDzXTbN5Y) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [Everything You Want](https://open.spotify.com/album/2G4KIBuJnEqdA1pMmHkIEy) | 3:35 | 2023-02-10 | 2023-04-15 |
 | [hell USA](https://open.spotify.com/track/3sToV3GnrEYZGGqfZcT4yd) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [hell USA](https://open.spotify.com/album/1qdhrtyOKvQMO3hbFX9EbS) | 3:05 | 2023-07-28 | 2023-08-05 |
 | [Here On Out](https://open.spotify.com/track/1QItmrTZIyUqCSWjJG7C88) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/0IhD8ltXKP4xDeFpvzXiMl) | 3:14 | 2023-12-01 | 2023-12-24 |

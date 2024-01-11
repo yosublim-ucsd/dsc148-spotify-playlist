@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,998 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,036 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 51 | [Next To You](https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 4:22 |
 | 52 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 |
 | 53 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
-| 54 | [Hard To Say Goodbye](https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Mister Mellow](https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm) | 4:12 |
-| 55 | [sketches](https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:03 |
+| 54 | [sketches](https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:03 |
+| 55 | [Hard To Say Goodbye](https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Mister Mellow](https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm) | 4:12 |
 | 56 | [Venasque](https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 4:34 |
 | 57 | [Bubbles](https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Wandering](https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg) | 5:47 |
 | 58 | [Café de Flore](https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj) | 8:25 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 65 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
 | 66 | [AO Longo Do Rio](https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 4:34 |
 | 67 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
-| 68 | [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 |
-| 69 | [Paz](https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs) | [Troubleman](https://open.spotify.com/artist/0qjTWul9cULRUuKF6P2frK), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Time out of Mind](https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb) | 3:44 |
+| 68 | [Paz](https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs) | [Troubleman](https://open.spotify.com/artist/0qjTWul9cULRUuKF6P2frK), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Time out of Mind](https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb) | 3:44 |
+| 69 | [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 |
 | 70 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 71 | [Under the Sea](https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I) | [Digby Jones](https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU) | [Pina Colada \(And Other Early Tunes\)](https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc) | 5:59 |
 | 72 | [Tabarin](https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax) | [Just Landed](https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG) | 5:30 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 89 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 |
 | 90 | [Peace Now \- Folamour Remix](https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Peace Now \(Folamour Remix\)](https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR) | 3:14 |
 | 91 | [Tropicololo](https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 5:32 |
-| 92 | [Alone \- Paradise](https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Mediterraneo \(Club Favourites Collection '90/98\)](https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s) | 6:46 |
+| 92 | [My Boy \(Edit\)](https://open.spotify.com/track/3Eesmgchl9UQ2zM2DV6LgL) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [My Boy](https://open.spotify.com/album/1gsqDxThoqZbNPTIZnn3JC) | 3:29 |
 | 93 | [Pandajero](https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax) | [Cantoma \(Deluxe\)](https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm) | 5:25 |
-| 94 | [My Boy \(Edit\)](https://open.spotify.com/track/3Eesmgchl9UQ2zM2DV6LgL) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [My Boy](https://open.spotify.com/album/1gsqDxThoqZbNPTIZnn3JC) | 3:29 |
+| 94 | [Alone \- Paradise](https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Mediterraneo \(Club Favourites Collection '90/98\)](https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s) | 6:46 |
 | 95 | [Through Your Hands Love Can Shine \- Turbotito Remix](https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv) | [Giorgio Tuma](https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Through Your Hands Love Can Shine \(Turbotito Remix\)](https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE) | 5:49 |
 | 96 | [Starz \- Original Mix](https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Déepalma Ibiza 2023 \- 10th Anniversary](https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs) | 6:17 |
 | 97 | [Josephine \- French Edit](https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 7:08 |
 | 98 | [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 |
-| 99 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
-| 100 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
+| 99 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
+| 100 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
 
-Snapshot ID: `MCw3YTA2NGUzZTMxOTYzYTAyOGIwYzFiOWZkYWY5Y2IyM2Y3YmNkODI0`
+Snapshot ID: `MCwyYjc3OGEzNjM1OTM5YTNjZDA4YTkxZDk0NzMzNzU4NmE1MzYxNmRi`

@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-482 songs - 1 day 5 hr 31 min
+483 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2022-12-15 |  |
 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 | 2023-03-23 |  |
 | [Adore You \- Acoustic](https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Adore You \(Acoustic\)](https://open.spotify.com/album/2QvW21dkK5Wp3Od7DiHOZo) | 3:01 | 2023-10-05 |  |
+| [Aiuta](https://open.spotify.com/track/7joHTyRw7w70bCi2BIFOLP) | [MASANORI OTODA](https://open.spotify.com/artist/3kMsMz5ChIC0nvU3wtEaNA) | [Aiuta](https://open.spotify.com/album/01LteLKTQJOREHweQrsdQV) | 4:52 | 2024-01-10 |  |
 | [Akebono \- 2023](https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Akebono \(2023\)](https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U) | 5:27 | 2023-07-04 | 2023-08-25 |
 | [all my ghosts](https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:17 | 2023-03-07 | 2023-05-19 |
 | [All You Need Is Love](https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [All You Need Is Love](https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR) | 3:26 | 2023-02-28 | 2023-04-21 |
@@ -249,7 +250,7 @@
 | [Long Long Long \- Acoustic](https://open.spotify.com/track/13ukC82r00OfvNbu7z6A2a) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Long Long Long \(Acoustic\)](https://open.spotify.com/album/29OKnedaN7Zt91PRiM12lV) | 3:46 | 2023-08-01 | 2023-09-22 |
 | [Love & Money](https://open.spotify.com/track/69puCjWb1rrocZBah5s3GR) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Love & Money](https://open.spotify.com/album/2JfNxUZXLBPzTYWZ0x4BPb) | 3:20 | 2023-03-23 | 2023-04-21 |
 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 | 2022-10-20 | 2022-12-15 |
-| [Love & War in Your Twenties](https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ) | 4:10 | 2023-03-07 |  |
+| [Love & War in Your Twenties](https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ) | 4:10 | 2023-03-07 | 2024-01-11 |
 | [Love Is Alive](https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Love Is Alive](https://open.spotify.com/album/6crsCEK6qj2PmK00pETlAK) | 3:52 | 2023-08-17 | 2023-10-04 |
 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 | 2022-10-25 | 2023-06-28 |
 | [Love, All You Need Is Love](https://open.spotify.com/track/4K7WXlChhItbqXajy4tCQT) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [MEMORABLE](https://open.spotify.com/album/0t7smPakMfCncHjpEbOkPa) | 3:27 | 2023-04-20 | 2023-06-21 |

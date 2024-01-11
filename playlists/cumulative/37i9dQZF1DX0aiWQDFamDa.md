@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-300 songs - 1 day 0 hr 23 min
+301 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2022-05-18 |  |
 | [Désespérés](https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Désespérés](https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL) | 3:41 | 2022-10-13 | 2023-04-28 |
 | [Dim](https://open.spotify.com/track/50ma4LjaP5XDL1BsHrZ1D9) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/0GiNCOob4dZtBafvM8JrHG) | 6:05 | 2022-05-18 | 2022-07-29 |
+| [Dim](https://open.spotify.com/track/6XE5oVQWVz9XsYloOkHMt4) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/5XtrGD3pOkiDEwij44Rjt7) | 6:05 | 2024-01-04 |  |
 | [Dim](https://open.spotify.com/track/7M2CYOlGuAC73LnWPPbNGA) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/7AhaDHqyVLlmSxc5iAG5Nx) | 6:05 | 2022-06-29 | 2023-12-23 |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6HpQCQJnF0sYOBgH9nyp0F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 2:42 | 2022-05-18 | 2022-09-23 |
 | [Don't Explain](https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1) | [New York Trio](https://open.spotify.com/artist/6U7yxyvc7JseXp9WbFdQm7) | [夜のブルース](https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW) | 5:56 | 2022-05-18 |  |
@@ -246,7 +247,7 @@
 | [Steps from the Nightingale](https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Steps from the Nightingale](https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA) | 2:34 | 2022-12-01 |  |
 | [Stormy Weather](https://open.spotify.com/track/6qRFR7WsSBWBtR7xczWgLJ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra](https://open.spotify.com/album/0r7da132K35RCtPvE7H7U3) | 4:12 | 2022-05-18 | 2022-06-23 |
 | [Summertime](https://open.spotify.com/track/4PN5gbJNYWx9yQ6hJepPbG) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Best Of Sidney Bechet](https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1) | 4:12 | 2022-08-17 | 2022-11-25 |
-| [Sweet Sorrow](https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [MoodSwing](https://open.spotify.com/album/2pGsmKvSJPyv8sjJ7fzdGp) | 8:43 | 2022-05-18 |  |
+| [Sweet Sorrow](https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [MoodSwing](https://open.spotify.com/album/2pGsmKvSJPyv8sjJ7fzdGp) | 8:43 | 2022-05-18 | 2024-01-11 |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-10-13 |  |
 | [Tangorrus Field](https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:24 | 2022-05-18 |  |
 | [The Art of Losing Isn't Hard to Master](https://open.spotify.com/track/5VHKQiMstyF28VfcN18whs) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Bluebeard](https://open.spotify.com/album/7bcJhX13orgLxahPE038Gi) | 5:01 | 2022-05-18 | 2023-11-14 |

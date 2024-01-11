@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Bee & Boo's Lullaby",
+        "url": "https://open.spotify.com/album/6CoKj62iTUoFAWWvY4fF16"
+      },
+      "artists": [
+        {
+          "name": "Leanne Haughey",
+          "url": "https://open.spotify.com/artist/1ohrmBFOBxEUhhC7URdjap"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103478,
+      "name": "Bee & Boo's Lullaby",
+      "url": "https://open.spotify.com/track/50BHMMVvZaVCQVnZ3n6JxQ"
+    },
+    {
+      "album": {
         "name": "Before I Go To Sleep",
         "url": "https://open.spotify.com/album/4RFKhar3rtwEXtKWGV44pi"
       },
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 149589,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/65fSxKtJRjmt0XGDFnACUp"
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 76216,
       "name": "Dr\u00f8mmer",
       "url": "https://open.spotify.com/track/0cbW73Xcxx91aTx3G7XPy3"
@@ -2468,7 +2486,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 119750,
       "name": "How to Catch a Star",
       "url": "https://open.spotify.com/track/2ODvQsWsSIyVbYnIxU52ng"
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 101000,
       "name": "Little Bed",
       "url": "https://open.spotify.com/track/1ZQkHcoOcgOzq0Xe7px8cP"
@@ -4578,6 +4596,24 @@
       "duration_ms": 90142,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/1pzGYBHQi2CKbQCVk17AJx"
+    },
+    {
+      "album": {
+        "name": "Poppy Puppy",
+        "url": "https://open.spotify.com/album/69FfsvVstJkFev5cAgRhFs"
+      },
+      "artists": [
+        {
+          "name": "Kim Akvileja",
+          "url": "https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89612,
+      "name": "Poppy Puppy",
+      "url": "https://open.spotify.com/track/5rpkYHBqreIuzSVrYWcNa1"
     },
     {
       "album": {
@@ -6367,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "Turkey in the Straw",
+        "url": "https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT"
+      },
+      "artists": [
+        {
+          "name": "Robin Colt",
+          "url": "https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Turkey in the Straw",
+      "url": "https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw"
+    },
+    {
+      "album": {
         "name": "Twilight Embrace",
         "url": "https://open.spotify.com/album/25YSvB8DprutVKksUYghuH"
       },
@@ -6472,6 +6526,24 @@
       "duration_ms": 73264,
       "name": "Up In The Curtains",
       "url": "https://open.spotify.com/track/3jSsN4hvktmcwju54QpOta"
+    },
+    {
+      "album": {
+        "name": "Up, Up in the Sky",
+        "url": "https://open.spotify.com/album/64tZQZOwB4wu518sXkTMfG"
+      },
+      "artists": [
+        {
+          "name": "Sloan Sandford",
+          "url": "https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118509,
+      "name": "Up, Up in the Sky",
+      "url": "https://open.spotify.com/track/6t8aYdVINglxNI7paOtemX"
     },
     {
       "album": {

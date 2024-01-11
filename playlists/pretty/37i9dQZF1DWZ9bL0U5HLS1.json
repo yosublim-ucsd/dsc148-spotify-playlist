@@ -1,38 +1,18 @@
 {
   "description": "Rakkautta, mit\u00e4 muuta ihminen tarvitsee.",
-  "num_followers": 33966,
+  "num_followers": 33963,
   "original_name": "Min\u00e4 sinua vaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI4YzQ0Y2ZjMTIwNjAxZjMwMGJjZWUwNmFmOTYyNTExOTM3ZWE3",
+  "snapshot_id": "MCxiY2QxYTIxNWI4MzU4ZjMxZTBjMjUyZjgzZjA4YzEzYzMyNWI2Yjc2",
   "tracks": [
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
-        "name": "Ihana kipu",
-        "url": "https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        },
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 187909,
-      "name": "Ihana kipu",
-      "url": "https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
-        "name": "Hei rakas",
-        "url": "https://open.spotify.com/album/5u8ROV5ieQOl1QQoGKJtFu"
+        "name": "Merkitt\u00e4v\u00e4t erot",
+        "url": "https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK"
       },
       "artists": [
         {
@@ -40,12 +20,28 @@
           "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
         }
       ],
-      "duration_ms": 211670,
-      "name": "Hei rakas",
-      "url": "https://open.spotify.com/track/0tc8HGXosQDC8TTAaON1TP"
+      "duration_ms": 212641,
+      "name": "Sata vuotta",
+      "url": "https://open.spotify.com/track/4JOQfZXLJ1bFKTl1uimWhz"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
+      "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/1dj8j4bYtVa6cuKw5ccll5"
+      },
+      "artists": [
+        {
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+        }
+      ],
+      "duration_ms": 306973,
+      "name": "Min\u00e4 sinua vaan",
+      "url": "https://open.spotify.com/track/7JdSnlSslOrjBTZN1l6UZt"
+    },
+    {
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Teipill\u00e4 tai rakkaudella",
         "url": "https://open.spotify.com/album/2X3CntWc8yfocd7IPksZR7"
@@ -61,7 +57,7 @@
       "url": "https://open.spotify.com/track/2vdsyiA0RcYs3C9VMnmYac"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Tavalliset hautajaiset",
         "url": "https://open.spotify.com/album/7fg7sF6krQ1ZDlXXP6JXqC"
@@ -77,7 +73,7 @@
       "url": "https://open.spotify.com/track/20lUjyfg5xXXl87VHtiOFi"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Rakkauslaulu",
         "url": "https://open.spotify.com/album/7xXjExLtUtaEvXP6DTdvYJ"
@@ -93,7 +89,7 @@
       "url": "https://open.spotify.com/track/7FxkSkSgmkotdUBQtNK7x0"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
@@ -109,7 +105,7 @@
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
@@ -125,7 +121,23 @@
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
+      "album": {
+        "name": "Paras osa",
+        "url": "https://open.spotify.com/album/6uQE2spd1kuRV23eRyZv9S"
+      },
+      "artists": [
+        {
+          "name": "Jannika B",
+          "url": "https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY"
+        }
+      ],
+      "duration_ms": 203857,
+      "name": "Paras osa",
+      "url": "https://open.spotify.com/track/6vKo37eHfd7O6uraCVtpiB"
+    },
+    {
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
@@ -141,23 +153,7 @@
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Kuuntelija",
         "url": "https://open.spotify.com/album/2bklFJA9lIoKW3d5Wjsxeq"
@@ -173,7 +169,71 @@
       "url": "https://open.spotify.com/track/4WqsrF7TJMNcXpALt6amw6"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
+      "album": {
+        "name": "Hei rakas",
+        "url": "https://open.spotify.com/album/5u8ROV5ieQOl1QQoGKJtFu"
+      },
+      "artists": [
+        {
+          "name": "BEHM",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        }
+      ],
+      "duration_ms": 211670,
+      "name": "Hei rakas",
+      "url": "https://open.spotify.com/track/0tc8HGXosQDC8TTAaON1TP"
+    },
+    {
+      "added_at": "2024-01-10 08:54:27",
+      "album": {
+        "name": "Sin\u00e4 4ever (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/7yovvwfChdq1VC4GZKomLH"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 201372,
+      "name": "Sin\u00e4 4ever - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/6wRn01AkSyG40RIGUtKbWk"
+    },
+    {
+      "added_at": "2024-01-10 08:54:27",
+      "album": {
+        "name": "Hyvikset ja pahikset",
+        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 164822,
+      "name": "Edelleen sua",
+      "url": "https://open.spotify.com/track/17V5NNPaddajh4gr50Wng8"
+    },
+    {
+      "added_at": "2024-01-10 08:54:27",
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
@@ -193,7 +253,7 @@
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
@@ -209,7 +269,7 @@
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
@@ -229,7 +289,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
@@ -245,7 +305,7 @@
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
@@ -261,7 +321,7 @@
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
@@ -277,7 +337,7 @@
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
@@ -293,7 +353,7 @@
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Agent Provocateur",
         "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
@@ -309,7 +369,7 @@
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
@@ -325,7 +385,7 @@
       "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
@@ -341,7 +401,7 @@
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
@@ -357,7 +417,7 @@
       "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
@@ -373,7 +433,7 @@
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
@@ -389,7 +449,7 @@
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
@@ -405,7 +465,7 @@
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Blue Hawaii",
         "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
@@ -421,7 +481,7 @@
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
@@ -437,7 +497,7 @@
       "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "The Very Best of Bonnie Tyler",
         "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
@@ -453,7 +513,7 @@
       "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
@@ -469,7 +529,7 @@
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
@@ -485,7 +545,7 @@
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
@@ -501,7 +561,7 @@
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
@@ -517,7 +577,7 @@
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
@@ -533,7 +593,7 @@
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Scared to Be Lonely",
         "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
@@ -553,7 +613,7 @@
       "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Delirium (Deluxe)",
         "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
@@ -569,7 +629,7 @@
       "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
@@ -585,7 +645,7 @@
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
@@ -601,7 +661,7 @@
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
@@ -621,7 +681,7 @@
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
@@ -637,7 +697,7 @@
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
@@ -657,7 +717,7 @@
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
@@ -673,7 +733,7 @@
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "All The Little Lights",
         "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
@@ -689,7 +749,7 @@
       "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
@@ -705,7 +765,7 @@
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
@@ -721,7 +781,7 @@
       "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
@@ -737,7 +797,7 @@
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
@@ -753,7 +813,7 @@
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Lifehouse",
         "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
@@ -769,7 +829,7 @@
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
@@ -785,7 +845,7 @@
       "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
@@ -801,7 +861,7 @@
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
@@ -817,7 +877,7 @@
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
@@ -833,7 +893,7 @@
       "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
@@ -849,7 +909,7 @@
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
@@ -865,7 +925,7 @@
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
@@ -881,7 +941,7 @@
       "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
@@ -897,7 +957,7 @@
       "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "No One (Remixes)",
         "url": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
@@ -913,7 +973,7 @@
       "url": "https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
@@ -929,7 +989,7 @@
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
@@ -945,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Come On Over (Diamond Edition / Super Deluxe)",
         "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
@@ -961,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
@@ -977,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
@@ -993,7 +1053,7 @@
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
@@ -1009,7 +1069,7 @@
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
@@ -1025,7 +1085,7 @@
       "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
@@ -1041,7 +1101,7 @@
       "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
@@ -1061,23 +1121,7 @@
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
@@ -1093,68 +1137,20 @@
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
-      "added_at": "2023-11-25 18:27:48",
+      "added_at": "2024-01-10 08:54:27",
       "album": {
-        "name": "Nobody Else (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SjK8QSqZEHMkzlq2LgM8e"
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
       "artists": [
         {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 242266,
-      "name": "Back for Good - Radio Mix",
-      "url": "https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
-        "name": "Halcyon Nights",
-        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     }
   ],
   "unique_name": "Min\u00e4 sinua vaan",

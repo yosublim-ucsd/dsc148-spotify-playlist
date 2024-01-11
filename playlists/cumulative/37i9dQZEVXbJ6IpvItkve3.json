@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 249356,
       "name": "I Don't Believe in Love",
       "url": "https://open.spotify.com/track/6DAvHD3nESAtSe22t8DZEt"
@@ -4614,7 +4614,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -6136,7 +6136,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -9317,6 +9317,24 @@
     },
     {
       "album": {
+        "name": "\u05d6\u05d5\u05db\u05e8 \u05db\u05de\u05e2\u05d8 \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/7pCmKsaPbMIcqoRPKo8PHm"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207020,
+      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4",
+      "url": "https://open.spotify.com/track/31SS0bQEQ9z7rJwLqiJCDr"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05e3 \u05e4\u05e2\u05dd \u05dc\u05d0 \u05dc\u05d1\u05d3",
         "url": "https://open.spotify.com/album/7vnTXeAqPJARapvbC3tSCW"
       },
@@ -9760,6 +9778,24 @@
       "duration_ms": 199622,
       "name": "\u05d1\u05d6\u05de\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
       "url": "https://open.spotify.com/track/5ezFz6Jwn7l40kIGAP4zmL"
+    },
+    {
+      "album": {
+        "name": "\u05d1\u05d6\u05de\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
+        "url": "https://open.spotify.com/album/3VGHfCuv4ExmHvYcYdrHlm"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215573,
+      "name": "\u05d1\u05d6\u05de\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
+      "url": "https://open.spotify.com/track/5mT0kHqW0vMAjLS9dCGkeM"
     },
     {
       "album": {
@@ -11942,7 +11978,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "\u05db\u05d0\u05d1 \u05e9\u05dc \u05dc\u05d5\u05d7\u05de\u05d9\u05dd",
       "url": "https://open.spotify.com/track/2X8mBXrZ6HJPCgKAzC87k5"
@@ -13209,6 +13245,24 @@
     },
     {
       "album": {
+        "name": "\u05d6\u05d5\u05db\u05e8 \u05db\u05de\u05e2\u05d8 \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/7pCmKsaPbMIcqoRPKo8PHm"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227604,
+      "name": "\u05de\u05d4 \u05d0\u05ea \u05de\u05e8\u05d2\u05d9\u05e9\u05d4",
+      "url": "https://open.spotify.com/track/3HBMPTdsZQNO24vbrgcJKZ"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d4 \u05d0\u05ea\u05d4 \u05e8\u05d5\u05e6\u05d4",
         "url": "https://open.spotify.com/album/1tpJxzwq6ElBS8cKXe61nW"
       },
@@ -13328,7 +13382,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 168813,
       "name": "\u05de\u05d5\u05dc\u05d3\u05ea",
       "url": "https://open.spotify.com/track/1f6O2TPzZQhW1Ky2iGYb5X"
@@ -14060,7 +14114,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 259066,
       "name": "\u05e0\u05d2\u05de\u05e8",
       "url": "https://open.spotify.com/track/2Yfd4lEjv3Ah7lLHEAYX50"
@@ -14512,7 +14566,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 214000,
       "name": "\u05e1\u05d9\u05d2\u05dc\u05d9\u05d5\u05ea",
       "url": "https://open.spotify.com/track/3Q6d64XJr20cHQtRd07YGj"
@@ -15044,7 +15098,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 250878,
       "name": "\u05e2\u05d9\u05e8 \u05e0\u05de\u05dc",
       "url": "https://open.spotify.com/track/6NUzJGlQORUv6NjUwcefr8"
@@ -16720,6 +16774,24 @@
       "duration_ms": 173500,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
       "url": "https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB"
+    },
+    {
+      "album": {
+        "name": "\u05d6\u05d5\u05db\u05e8 \u05db\u05de\u05e2\u05d8 \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/7pCmKsaPbMIcqoRPKo8PHm"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198420,
+      "name": "\u05ea\u05e1\u05ea\u05db\u05dc\u05d9 \u05dc\u05d9 \u05d1\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/608OV8cDjzTcps2Owz654F"
     },
     {
       "album": {

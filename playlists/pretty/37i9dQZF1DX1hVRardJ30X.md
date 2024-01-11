@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Mau y Ricky & Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,176 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,796 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 34 | [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 |
 | 35 | [Fast Money](https://open.spotify.com/track/7HLEbRRK4Iq7S7bUPctThw) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fast Money](https://open.spotify.com/album/63GZfJMhOCxvQ1bqibtN3e) | 2:44 |
 | 36 | [WSTUFF](https://open.spotify.com/track/0YZpz3yFTpKbtjRvYaVH9O) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Wstuff](https://open.spotify.com/artist/5B2q0hvgjM3NbbKSmyylCQ) | [WSTUFF](https://open.spotify.com/album/2gMpaweUrHsVw1aFs5woKm) | 2:31 |
-| 37 | [CORAZÓN VACÍO](https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ACOUSTIC SESSION](https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7) | 3:30 |
+| 37 | [CORAZÓN VACÍO](https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ACOUSTIC SESSION](https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7) | 2:41 |
 | 38 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 |
 | 39 | [Atrapado en un Sueño](https://open.spotify.com/track/4c7nGM9irzliRPB9wiNq9l) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Atrapado en un Sueño](https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ) | 3:25 |
 | 40 | [Facetime](https://open.spotify.com/track/67PVHYTRLs1ysVBigqSOau) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Facetime](https://open.spotify.com/album/0lWmWdSUFxwVZhCJOCi8DZ) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Solo Sonrie](https://open.spotify.com/track/0RmtRsH4qx5K75aX2yxmD8) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Solo Sonrie](https://open.spotify.com/album/2SZRdaFc3LBzmUi9O8cM6S) | 2:40 |
 | 50 | [Vida Bakana](https://open.spotify.com/track/1fGCLVsdnv9kuUrpBAj7Vg) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Vida Bakana](https://open.spotify.com/album/3gWUdDpVvaLH1Bmof6Xdgo) | 2:51 |
 
-Snapshot ID: `MCxhNjUwZjg5MjgyZjYzOWIyYjE3ZTQ5OGMwNzM4ZmM4MDI2ODBlYTNl`
+Snapshot ID: `MCxmYTkyNjk2MzBhZmRlZjQ0MTE2OTg3YTljOWY1NDg0YTgwMmZiMTZj`

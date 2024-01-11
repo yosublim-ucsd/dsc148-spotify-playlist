@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,871 likes - 37 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,872 likes - 37 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,6 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 34 | [Hannett and Delia synth exchanges track 14](https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:01 |
 | 35 | [The Afterlife, Pt\. 2](https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 5:52 |
 | 36 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:59 |
-| 37 | [Hannett and Delia synth exchanges track 19](https://open.spotify.com/track/243CrAqa2JDtbn078Qd5dF) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:06 |
+| 37 | [Hannett and Delia synth exchanges track 5](https://open.spotify.com/track/70uqGMtFCdPxNxRQQfjMWf) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 3:40 |
 
-Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAxMzcwMjY0OWIwNzA1MWUzN2IwMzNkODc1NDE5MjY4ZA==`
+Snapshot ID: `Mjg0MTQ5MTgsMDAwMDAwMDBjOTQxYzg0OGZiNjFkOWQ4YjliYzU0N2ExNTA0ZGNhYQ==`

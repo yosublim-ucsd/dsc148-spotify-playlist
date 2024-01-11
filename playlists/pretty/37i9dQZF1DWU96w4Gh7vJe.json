@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 593099,
+  "num_followers": 592226,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJiZmQ0NjVmZTQ4NmFjZjlhYWIzZDM4YjczYzE5ZTE2NTBkODhh",
+  "snapshot_id": "MCw5NzVjZGVhNTRhOTQzZDNiNmRkZWFmZjFlMDU4NmY3ZGI2NmJjNGQ5",
   "tracks": [
     {
       "added_at": "2023-12-08 07:32:26",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Miss Miss",
         "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Patutunguhan",
+        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Patutunguhan",
+      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 270233,
-      "name": "Bulong",
-      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Maybe The Night",
         "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 217197,
       "name": "Maybe The Night",
       "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 270233,
+      "name": "Bulong",
+      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Byahe",
-        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Dati (feat. Skusta Clee)",
-      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Langit Mong Bughaw",
         "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 267759,
       "name": "Kung 'Di Rin Lang Ikaw",
       "url": "https://open.spotify.com/track/2KjZEVkRS7wStfRygdRnso"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Byahe",
+        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Dati (feat. Skusta Clee)",
+      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Kursunada",
-        "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 179117,
-      "name": "Kursunada",
-      "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Aking Pahinga",
         "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Kursunada",
+        "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 179117,
+      "name": "Kursunada",
+      "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Pity Ya",
         "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 192052,
       "name": "Pity Ya",
       "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Oks Lang",
-        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        }
-      ],
-      "duration_ms": 336369,
-      "name": "Oks Lang",
-      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Malaya",
-        "url": "https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp"
+        "name": "Oks Lang",
+        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
       },
       "artists": [
         {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
         }
       ],
-      "duration_ms": 260239,
-      "name": "Tagpuan",
-      "url": "https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez"
+      "duration_ms": 336369,
+      "name": "Oks Lang",
+      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Malaya",
+        "url": "https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 260239,
+      "name": "Tagpuan",
+      "url": "https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 211200,
       "name": "Weak",
       "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Till My Heartaches End (From \"The Significant Other\")",
+        "url": "https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ"
+      },
+      "artists": [
+        {
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+        }
+      ],
+      "duration_ms": 256923,
+      "name": "Till My Heartaches End - From \"The Significant Other\"",
+      "url": "https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -743,22 +759,6 @@
       "duration_ms": 259569,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Till My Heartaches End (From \"The Significant Other\")",
-        "url": "https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ"
-      },
-      "artists": [
-        {
-          "name": "KZ Tandingan",
-          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
-        }
-      ],
-      "duration_ms": 256923,
-      "name": "Till My Heartaches End - From \"The Significant Other\"",
-      "url": "https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Simula Pa Nung Una",
-        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
-      },
-      "artists": [
-        {
-          "name": "Patch Quiwa",
-          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
-        }
-      ],
-      "duration_ms": 255661,
-      "name": "Simula Pa Nung Una",
-      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Ultraelectromagnetic Jam",
         "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 264413,
       "name": "With a Smile (feat. Kelly Badon)",
       "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Simula Pa Nung Una",
+        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
+      },
+      "artists": [
+        {
+          "name": "Patch Quiwa",
+          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
+        }
+      ],
+      "duration_ms": 255661,
+      "name": "Simula Pa Nung Una",
+      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
     },
     {
       "added_at": "2023-12-08 07:32:26",

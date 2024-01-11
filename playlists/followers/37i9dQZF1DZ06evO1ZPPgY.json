@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 212633,
+  "2024-01-11": 212627,
   "date_first_scraped": "2020-10-20",
   "description": "This is Barry White. The essential tracks, all in one playlist.",
   "name": "This Is Barry White",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 166346,
       "name": "All in the Run Of a Day",
       "url": "https://open.spotify.com/track/2Tl91oD7DVVhn2gbOKHdWv"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 194173,
       "name": "Honey Please, Can't Ya See",
       "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 220493,
       "name": "I've Found Someone",
       "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 210386,
       "name": "Let The Music Play - Single Version",
       "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 425826,
       "name": "Love Serenade",
       "url": "https://open.spotify.com/track/37ioNakPkoUoI5FcjUDdWB"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 290666,
       "name": "Never, Never Gonna Give Ya Up",
       "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
@@ -1451,10 +1451,28 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 219440,
       "name": "What Am I Gonna Do With You",
       "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
+    },
+    {
+      "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 639600,
+      "name": "Whatever We Had, We Had",
+      "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
     },
     {
       "album": {
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 276466,
       "name": "You're The First, The Last, My Everything",
       "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 229110,
       "name": "Your Heart and Soul",
       "url": "https://open.spotify.com/track/1C65HS6dY48acVWpbvSaFK"

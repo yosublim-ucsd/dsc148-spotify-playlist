@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1204019,
+  "num_followers": 1202448,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzVkNDI1ZWU3YzI3ZTJjZjk5NjUxOThmMDAwZmI5NTc1ZGRiZjZj",
+  "snapshot_id": "MCw2MDJkOGRlN2QzYTY1Y2Y1Y2IyZmYxMWYxZTllM2RiNWQ5ZjY2ZWFl",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 211517,
       "name": "With You",
       "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Sweet Misery",
+        "url": "https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 189329,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Stolen",
         "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 241215,
       "name": "Jenny Jenkins (Acoustic)",
       "url": "https://open.spotify.com/track/2oF3Ipzuj03PoAmRX9LDXf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Sweet Misery",
-        "url": "https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 189329,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Paper Crown",
-        "url": "https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 217556,
-      "name": "Only Lonely",
-      "url": "https://open.spotify.com/track/7l78lkJwcYBfWk2Lyz5kEc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Colder Heavens - EP",
-        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+        "name": "Paper Crown",
+        "url": "https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+      "duration_ms": 217556,
+      "name": "Only Lonely",
+      "url": "https://open.spotify.com/track/7l78lkJwcYBfWk2Lyz5kEc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Listen to Formation, Look for the Signs",
-        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
-      },
-      "artists": [
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 212816,
-      "name": "Call the Days",
-      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 189200,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
     },
     {
       "added_at": "2023-10-27 04:00:00",

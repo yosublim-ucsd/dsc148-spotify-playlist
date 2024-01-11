@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 350,
+  "2024-01-11": 350,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH\">Alex Eskeerdo Izquierdo</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Alex Eskeerdo Izquierdo",
@@ -203,7 +203,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 239739,
       "name": "Beware",
       "url": "https://open.spotify.com/track/42T2or0GoIsxo2VWGcFHmF"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 239781,
       "name": "Beware",
       "url": "https://open.spotify.com/track/180W6xHkalXVFYB2jXQA55"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 239765,
       "name": "Fun",
       "url": "https://open.spotify.com/track/4ERC5viMhrZHV9ErLcKzBL"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "Fun (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 176283,
       "name": "No Judgement",
       "url": "https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G"
@@ -1535,7 +1535,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 187979,
       "name": "No Judgement",
       "url": "https://open.spotify.com/track/5fQkJEFHAUKzDG7QrDJKQP"

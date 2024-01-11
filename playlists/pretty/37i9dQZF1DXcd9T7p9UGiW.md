@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Sarz, Gunna & Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,267 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,334 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [6 BUSINESS DAYS \(feat\. Projexx\)](https://open.spotify.com/track/2KbFskDFrgLGKBKIVDrzbh) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:39 |
 | 80 | [Coat](https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Coat](https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n) | 1:30 |
 
-Snapshot ID: `MCwzMzkwMWZhY2RlNWRhZWE1MWM3Mjk5ODZjYTVhY2Q3OWEzN2VjMWI0`
+Snapshot ID: `MCw2ODA5ZGRlZDRmODIzMmM0NmZmYjczY2NiZDg5Zjc4MzNkNjI2Njhm`

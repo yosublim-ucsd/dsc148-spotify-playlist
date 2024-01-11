@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-70 songs - 5 hr 14 min
+71 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Fill This House](https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 6:12 | 2024-01-08 |  |
 | [Fill This House](https://open.spotify.com/track/6DhW6FvrhT06DVuIadgmHW) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 6:12 | 2023-05-12 | 2024-01-09 |
 | [Go](https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:52 | 2023-05-12 |  |
-| [God Will Make A Way](https://open.spotify.com/track/2Jy9lryBk79K118gJ9n1QQ) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60) | 4:49 | 2023-05-12 |  |
+| [God Will Make A Way](https://open.spotify.com/track/0OYXtAe3OZkq2XpYeDid2n) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 4:49 | 2024-01-10 |  |
+| [God Will Make A Way](https://open.spotify.com/track/2Jy9lryBk79K118gJ9n1QQ) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60) | 4:49 | 2023-05-12 | 2024-01-11 |
 | [God Will Take Care of You](https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 1:58 | 2023-05-12 |  |
 | [He'll Do It Again](https://open.spotify.com/track/054nuYMIq228KvP0jUvr8a) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 | 2023-05-12 |  |
 | [He's Got It All In Control](https://open.spotify.com/track/2q9iUw2ZI5krPylceEl9Bl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:20 | 2023-05-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,179 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,128 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 43 | [Here We Come A\-Caroling](https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Here We Come A\-Caroling](https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t) | 1:08 |
 | 44 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 3:28 |
 | 45 | [Round & Round the Christmas Tree](https://open.spotify.com/track/2xWqam73LOsenwNiI5kveT) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:46 |
-| 46 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 3:06 |
-| 47 | [Ring Those Christmas Bells](https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Christmas](https://open.spotify.com/album/4NVXNilJI92yp86NwlVc87) | 2:19 |
+| 46 | [Ring Those Christmas Bells](https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Christmas](https://open.spotify.com/album/4NVXNilJI92yp86NwlVc87) | 2:19 |
+| 47 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 3:06 |
 | 48 | [Sleigh Ride](https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Sleigh Ride](https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u) | 3:18 |
 | 49 | [What a Night!](https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 3:23 |
 | 50 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 63 | [O Come, All Ye Faithful](https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL), [Dave Birkman](https://open.spotify.com/artist/4EfQMoNIcpy9wJDuCkYrzc), [Essiet Essiet](https://open.spotify.com/artist/1gQ8mRcuJnb3j7CJpMMTDa), [Carl Allen](https://open.spotify.com/artist/5ufrB7FmfeQ8whmRiRe9gF) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 5:12 |
 | 64 | [Winter Wonderland \- 78 Take](https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Pretty/Groovy \(Expanded Edition\)](https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ) | 3:19 |
 | 65 | [Silent Night](https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:23 |
-| 66 | [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 |
-| 67 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa) | 2:21 |
+| 66 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa) | 2:21 |
+| 67 | [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 |
 | 68 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 | 69 | [Santa, Won't You Listen to Me](https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9) | [Santa, Won't You Listen to Me](https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk) | 2:53 |
 | 70 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
 
-Snapshot ID: `MCwwODZjMzJiNjVjNjcxOGNiNmE1ODFhZmJhMDQxOGEzNzc5ZTJmYjMw`
+Snapshot ID: `MCwxNTlhNzRmMDJhMGZlMWNjZDM5NTE3MGUyMTg2N2YxNWMyMjU4MjY4`

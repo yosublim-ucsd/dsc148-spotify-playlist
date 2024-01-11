@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 152947,
       "name": "Black Cat Hoot Owl Blues",
       "url": "https://open.spotify.com/track/3UGcwgbDYLuVGUTHXhkWuQ"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 198681,
       "name": "Countin' The Blues",
       "url": "https://open.spotify.com/track/2hbxUOhbVyqxIoLxk2AM0c"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 156573,
       "name": "Damper Down Blues",
       "url": "https://open.spotify.com/track/7fjWYrWm0ufAwVaEvge2aM"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 194638,
       "name": "Explaining the Blues",
       "url": "https://open.spotify.com/track/5IaJtmugF9q7OoCIJg23r0"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 190200,
       "name": "Jealous Hearted Blues",
       "url": "https://open.spotify.com/track/29rFcZbCR4mKJ9dOlVgKTz"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 178426,
       "name": "Last Minute Blues",
       "url": "https://open.spotify.com/track/62g0YxDu47NwTjxLo9JUrC"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -1752,10 +1752,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 170413,
       "name": "Lost Wandering Blues",
       "url": "https://open.spotify.com/track/2JAyncenX1OXpHa7Ij6Zd4"
+    },
+    {
+      "album": {
+        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
+        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180610,
+      "name": "Louisiana Hoo Doo Blues",
+      "url": "https://open.spotify.com/track/2bc3uRL4ssJhw2QR3C8WWk"
     },
     {
       "album": {
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 193358,
       "name": "See See Rider Blues (Take 1)",
       "url": "https://open.spotify.com/track/0YZnvHqwtoev2MwObrNmed"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 193733,
       "name": "Sleep Talking Blues (Take 1)",
       "url": "https://open.spotify.com/track/7GNYi4PQU0MW6DFO28vTe2"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 185522,
       "name": "Toad Frog Blues",
       "url": "https://open.spotify.com/track/1NjKoqe99Gp4RZbuqeaPvU"
@@ -3070,6 +3088,24 @@
       "duration_ms": 182596,
       "name": "Weepin' Woman Blues",
       "url": "https://open.spotify.com/track/3YhzMuULwNwAms6MTbkh0o"
+    },
+    {
+      "album": {
+        "name": "The Essential & Original Southern Blues Collection",
+        "url": "https://open.spotify.com/album/45ZFXCjSge4WlTFC6iTH7f"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174494,
+      "name": "Wringing And Twisting",
+      "url": "https://open.spotify.com/track/2yl7DtzE5l68YpXLhTTRgS"
     },
     {
       "album": {

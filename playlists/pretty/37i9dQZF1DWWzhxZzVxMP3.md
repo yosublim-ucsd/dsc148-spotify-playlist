@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,261 likes - 86 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,250 likes - 86 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 53 | [Rolling in the Deep](https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Rolling in the Deep](https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ) | 3:43 |
 | 54 | [Dream A little Dream Of Me](https://open.spotify.com/track/39qMLKmf0lR6RtpWvW4FFS) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 2:57 |
 | 55 | [deja vu \- Bossa Nova](https://open.spotify.com/track/1xKrcdhhlNQXImSFEpi8Vo) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [deja vu \- Bossa Nova](https://open.spotify.com/album/7aBYanh7J5fh3ZoKmZoid0) | 4:00 |
-| 56 | [Wonderwall](https://open.spotify.com/track/0iWxNXbC8UDuNHUjiLgR1t) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Brazilian Lounge Affair](https://open.spotify.com/album/7szBGyasdI77zIdb1BWN7G) | 4:20 |
+| 56 | [Wonderwall](https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 4:20 |
 | 57 | [I'm a Believer](https://open.spotify.com/track/0yTBvCPbMVxYvvWnpoy8ow) | [Beatriz e Lucas](https://open.spotify.com/artist/1LxQpviFYCwIWmtrF6ovDF) | [I'm a Believer](https://open.spotify.com/album/3F26BIDMg3sjA0FIRyTBw5) | 3:30 |
 | 58 | [Dancing With Tears In My Eyes \- Bossa Nova Remix](https://open.spotify.com/track/62dfYSQBwa7XOXkLzpBmf0) | [Blended Colors](https://open.spotify.com/artist/3Z8VvhRYsd2jzm1KTHeMyM) | [Dancing With Tears In My Eyes \(Bossa Nova Remix\)](https://open.spotify.com/album/10XzBSx1xOySdki0IKQk1a) | 3:36 |
 | 59 | [Easy](https://open.spotify.com/track/1xU2zC6bxsIFM2UHyXYqsW) | [Bossa de Carnaval](https://open.spotify.com/artist/3ydiYqDYKAvrnp1qfUjLQ3) | [Easy](https://open.spotify.com/album/2tBLls66FoItnyIBHlAJFE) | 3:45 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 85 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
 | 86 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 |
 
-Snapshot ID: `MCw3MDYzZGUzZTNkODU5ZTQxMDA4MDQ0M2FmNDFhM2U3Y2JmYzNiODhh`
+Snapshot ID: `MCxkZTI5NTM3M2U5Zjc5YjAzY2M3Y2VhNTI0YmQ4MGU0YzlmNTliOGFh`

@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 8419,
+  "2024-01-11": 8437,
   "date_first_scraped": "2022-10-19",
   "description": "Music from \"Love Live! Superstar!!\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!",
   "name": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!  -Love Live! Superstar!!-",
@@ -255,6 +255,24 @@
       "duration_ms": 214453,
       "name": "Eye\u3092\u3061\u3087\u3046\u3060\u3044",
       "url": "https://open.spotify.com/track/4zpo5aWr2n1LTjpUYu8awo"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
+        "url": "https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215409,
+      "name": "FANTASTiC",
+      "url": "https://open.spotify.com/track/5izlH6xpEMvlBiusUYA9zp"
     },
     {
       "album": {
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 230380,
       "name": "Time to go",
       "url": "https://open.spotify.com/track/0ZnPlzZKpzojEZ9PDXEON5"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 260543,
       "name": "Welcome to \u50d5\u3089\u306e\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/3CZM58SiIktg2PzW8ywkRO"
@@ -943,6 +961,24 @@
       "duration_ms": 197019,
       "name": "\u30ac\u30e9\u30b9\u30dc\u30fc\u30eb\u30ea\u30b8\u30a7\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/3AWf6m8kodABG5zHwGlwMF"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
+        "url": "https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262056,
+      "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
+      "url": "https://open.spotify.com/track/6kO083O2vEVcuwpR4WdVnR"
     },
     {
       "album": {
@@ -1413,10 +1449,28 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 237437,
       "name": "\u79c1\u306eSymphony - 2022 Version",
       "url": "https://open.spotify.com/track/0uSJF9rlX5ZxyCfzeuSugO"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
+        "url": "https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238014,
+      "name": "\u79c1\u306eSymphony - 2023Ver.",
+      "url": "https://open.spotify.com/track/48G3gVCSvekCASVHf4Uacu"
     },
     {
       "album": {

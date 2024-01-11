@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Bring Me The Horizon
 
-408 songs - 22 hr 24 min
+409 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb) | 4:06 | 2023-03-03 | 2023-03-18 |
 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 | 2023-04-13 | 2023-07-28 |
 | [Heavy](https://open.spotify.com/track/2bbNjtgjr0ZOaPK7SOcVbV) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Heavy](https://open.spotify.com/album/6AhdoMFKBYnTZxvOEbZ3O4) | 3:23 | 2023-01-13 | 2023-01-20 |
-| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-08 |  |
+| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 | 2024-01-11 |
 | [Her Wings](https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [The Noble Art Of Self Destruction](https://open.spotify.com/album/3aiw4bCQVAeJXZYJh74zAF) | 2:58 | 2023-08-24 | 2023-11-17 |
 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 | 2023-03-08 | 2023-03-09 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 | 2023-07-28 |

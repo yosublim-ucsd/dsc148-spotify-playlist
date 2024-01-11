@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-948 songs - 1 day 17 hr 6 min
+949 songs - 1 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Crossing The Line](https://open.spotify.com/track/3oGSYfpXW9Z26s0tHiab6w) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Crossing The Line](https://open.spotify.com/album/1khXOksViOnCC12iQLSjC2) | 2:01 | 2021-04-13 | 2022-04-22 |
 | [Cupola Quadrata](https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Cupola Quadrata](https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5) | 2:18 | 2022-03-30 | 2022-04-22 |
 | [Cyclist Waltz Solo](https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mosi](https://open.spotify.com/album/6s50HIZV1AmlBDOPZTpjjB) | 2:27 | 2020-08-14\* | 2020-09-30 |
+| [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
 | [Dancing Butterflies](https://open.spotify.com/track/4h5GTzoptGcmml3VwBkP6t) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Dancing Butterflies](https://open.spotify.com/album/0jS0WNnzijFTntrDJOJBRY) | 1:58 | 2021-02-06 | 2021-09-01 |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-07-01 | 2023-07-25 |
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2021-05-21 |  |
@@ -454,7 +455,7 @@
 | [Liefde](https://open.spotify.com/track/6mcqEF5nxG6PHa0NNaZmcD) | [Juultje Berben](https://open.spotify.com/artist/7y7TQWBzst8y1iWH8V4bxM) | [Liefde](https://open.spotify.com/album/5QYroHBDwWKZGcl2vvpGXc) | 2:08 | 2020-08-14\* | 2022-09-24 |
 | [Life Goes On](https://open.spotify.com/track/2Ndf7eHaRMAdd2d84phJLS) | [Jacob Trautner](https://open.spotify.com/artist/3Ebs2p58ggIPTmK0tCthW9) | [Life Goes On](https://open.spotify.com/album/7JW1NaSKBP7t1o0DroYfoX) | 2:49 | 2021-09-02 | 2022-07-20 |
 | [Lifeline](https://open.spotify.com/track/7aKFjNKVGj91rDTijx1IN7) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 2:58 | 2020-08-14\* | 2021-02-25 |
-| [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-04-22 |  |
+| [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-04-22 | 2024-01-11 |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2022-02-15 | 2023-09-06 |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2021-07-08 | 2022-04-22 |
 | [Lik Eit Tre \- Ps.1](https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Lik Eit Tre \(Ps.1\)](https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE) | 2:34 | 2023-09-05 |  |

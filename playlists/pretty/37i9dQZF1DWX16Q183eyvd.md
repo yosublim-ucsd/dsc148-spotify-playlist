@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,252 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,244 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Kool Kids](https://open.spotify.com/track/2b9sTGqIWVTFVu7AUMQn7h) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:09 |
 | 50 | [Apple of My Eye](https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 4:15 |
 
-Snapshot ID: `MCxjY2Y4OGVhMmI2MmZmZjc0MzkyODEyODYxNWY1NzhiZjNiYzk1OTZj`
+Snapshot ID: `MCw3ZDdhNzE0ZjYwMDlmMzk4YzJkZWE3ZGVmMmQ4MjZjMTlkYjVhMzgz`

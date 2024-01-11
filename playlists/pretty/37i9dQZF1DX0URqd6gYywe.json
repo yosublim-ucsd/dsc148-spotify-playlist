@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 110147,
+  "num_followers": 110354,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTVlYjFlNzBlOWY0NWFhNGYyNmY3YTcyMmQyZDNmY2IxYjQxZTNj",
+  "snapshot_id": "MCxiNjQyOWVhZjQ5ZWVmZDY2MWYxYjI3MjdhYmQ4ZDQ4YTA2ZjNhNjFl",
   "tracks": [
     {
       "added_at": "2024-01-04 23:17:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-01-04 23:17:53",
       "album": {
-        "name": "Ay Ay Ay",
-        "url": "https://open.spotify.com/album/7DApDgESPxFvCUbZWVXVHB"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 330826,
-      "name": "Ando Ganas (Llora Llora)",
-      "url": "https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC"
-    },
-    {
-      "added_at": "2024-01-04 23:17:53",
-      "album": {
         "name": "Abre",
         "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 342160,
       "name": "Dos en la ciudad",
       "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
+    },
+    {
+      "added_at": "2024-01-04 23:17:53",
+      "album": {
+        "name": "Ay Ay Ay",
+        "url": "https://open.spotify.com/album/7DApDgESPxFvCUbZWVXVHB"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Ando Ganas (Llora Llora)",
+      "url": "https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC"
     },
     {
       "added_at": "2024-01-04 23:17:53",
@@ -687,8 +687,8 @@
     {
       "added_at": "2024-01-04 23:17:53",
       "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 296133,
-      "name": "Motor Psico",
-      "url": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
+      "duration_ms": 176173,
+      "name": "Esa Estrella Era Mi Lujo",
+      "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
     },
     {
       "added_at": "2024-01-04 23:17:53",
@@ -751,38 +751,6 @@
     {
       "added_at": "2024-01-04 23:17:53",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2024-01-04 23:17:53",
-      "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Esa Estrella Era Mi Lujo",
-      "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
-    },
-    {
-      "added_at": "2024-01-04 23:17:53",
-      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 163280,
       "name": "P\u00e9talo de sal",
       "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
+    },
+    {
+      "added_at": "2024-01-04 23:17:53",
+      "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Motor Psico",
+      "url": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
+    },
+    {
+      "added_at": "2024-01-04 23:17:53",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2024-01-04 23:17:53",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-01-04 23:17:53",
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+        "name": "Cordero Atado",
+        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+      "duration_ms": 336546,
+      "name": "Etiqueta Negra",
+      "url": "https://open.spotify.com/track/5CgpbO9nbKKDQaeI7x5BDl"
     },
     {
       "added_at": "2024-01-04 23:17:53",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-01-04 23:17:53",
       "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 336546,
-      "name": "Etiqueta Negra",
-      "url": "https://open.spotify.com/track/5CgpbO9nbKKDQaeI7x5BDl"
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
     },
     {
       "added_at": "2024-01-04 23:17:53",
@@ -1351,22 +1351,22 @@
     {
       "added_at": "2024-01-04 23:17:53",
       "album": {
-        "name": "Certezas de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
+        "name": "L\u00e1piz Libertad",
+        "url": "https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh"
       },
       "artists": [
         {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+          "name": "Juan Rosasco en Banda",
+          "url": "https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv"
         },
         {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 218499,
-      "name": "Certezas de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
+      "duration_ms": 248064,
+      "name": "L\u00e1piz Libertad",
+      "url": "https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx"
     },
     {
       "added_at": "2024-01-04 23:17:53",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2024-01-04 23:17:53",
       "album": {
-        "name": "L\u00e1piz Libertad",
-        "url": "https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh"
+        "name": "Certezas de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },
       "artists": [
         {
-          "name": "Juan Rosasco en Banda",
-          "url": "https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv"
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
         },
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 248064,
-      "name": "L\u00e1piz Libertad",
-      "url": "https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx"
+      "duration_ms": 218499,
+      "name": "Certezas de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
     },
     {
       "added_at": "2024-01-04 23:17:53",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-01-04 23:17:53",
       "album": {
-        "name": "El Pozo Brillante",
-        "url": "https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 181159,
-      "name": "Ahora 2",
-      "url": "https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1"
-    },
-    {
-      "added_at": "2024-01-04 23:17:53",
-      "album": {
         "name": "Garc\u00eda, el M\u00e1s Grande",
         "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 186266,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO"
+    },
+    {
+      "added_at": "2024-01-04 23:17:53",
+      "album": {
+        "name": "El Pozo Brillante",
+        "url": "https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 181159,
+      "name": "Ahora 2",
+      "url": "https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1"
     },
     {
       "added_at": "2024-01-04 23:17:53",

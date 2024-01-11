@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,613 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,355 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 47 | [Ginza \- Remix](https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Alejandro "Mosty" Patiño](https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258) | [Ginza \(Remix\)](https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ) | 6:13 |
 | 48 | [HÁBLAME CLARO](https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:23 |
 | 49 | [Mi Religión](https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:57 |
-| 50 | [Vamos Hacerlo](https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 2:48 |
+| 50 | [No Sales de Mi Mente \(feat\. Nicky Jam\)](https://open.spotify.com/track/2suE76uvhA05ks3YbvwRGT) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 3:24 |
 
-Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA2YTExMTk4NTNlNGIyMjFlZDY1NTY2ZmNkZTkzNDYyMg==`
+Snapshot ID: `Mjg0MTQ5MTgsMDAwMDAwMDBjNzNhZTc0ODUwZjEyMjU2YjJkN2VmNTQ2MGUxMjRhYQ==`

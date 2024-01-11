@@ -29345,6 +29345,32 @@
     },
     {
       "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2024",
+        "url": "https://open.spotify.com/album/2T0O5QwTHRPYRlqUUqekqK"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Mocidade Independente De Padre Miguel",
+          "url": "https://open.spotify.com/artist/2Y6lSD5UWSp2CFbpKT9aSn"
+        },
+        {
+          "name": "Z\u00e9 Paulo Sierra",
+          "url": "https://open.spotify.com/artist/6aWPP0fxCx5QkAhrrcQAKc"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350266,
+      "name": "Pede Caju Que Dou... P\u00e9 de Caju Que D\u00e1!",
+      "url": "https://open.spotify.com/track/3DR253BBDZLDrMUOaSunIg"
+    },
+    {
+      "album": {
         "name": "Pega o Guanabara",
         "url": "https://open.spotify.com/album/1hpgbFf4Kzomnp0hMHMzrL"
       },
@@ -37420,10 +37446,6 @@
       },
       "artists": [
         {
-          "name": "Hits Forr\u00f3",
-          "url": "https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq"
-        },
-        {
           "name": "Henry Freitas",
           "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
         }
@@ -40910,7 +40932,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 142133,
       "name": "Viv\u00eancia Maldita",
       "url": "https://open.spotify.com/track/2Bt9fR8qtHL6zVvHLrpIJO"

@@ -2708,10 +2708,28 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 439490,
       "name": "Pain",
       "url": "https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN"
+    },
+    {
+      "album": {
+        "name": "Lesser Man EP",
+        "url": "https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439490,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi"
     },
     {
       "album": {

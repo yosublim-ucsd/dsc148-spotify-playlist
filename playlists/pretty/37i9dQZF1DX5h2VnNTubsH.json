@@ -1,12 +1,12 @@
 {
   "description": "Out of office \u2705",
-  "num_followers": 167345,
+  "num_followers": 167331,
   "original_name": "Summer Holiday 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGE4ZTFkZTI0ZTIzMDc4ODRhMjE1ZjQ5MWM2NGM1NWM4Njg5ZGQz",
+  "snapshot_id": "MCxjMTkzZTZkMjI4YWM2YWFiNTc0ZjI3MWU0ODhlZDQzYWJiNjUxYzg4",
   "tracks": [
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Vibes Don't Lie",
-        "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
+        "name": "Special (feat. SZA)",
+        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
       },
       "artists": [
         {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 148333,
-      "name": "Tek Buddy",
-      "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
+      "duration_ms": 174748,
+      "name": "Special (feat. SZA)",
+      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Special (feat. SZA)",
-        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
+        "name": "Vibes Don't Lie",
+        "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
         }
       ],
-      "duration_ms": 174748,
-      "name": "Special (feat. SZA)",
-      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+      "duration_ms": 148333,
+      "name": "Tek Buddy",
+      "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 185739,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
+      "duration_ms": 179517,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr"
     }
   ],
   "unique_name": "Summer Holiday 2023",

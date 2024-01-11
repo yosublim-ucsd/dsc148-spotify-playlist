@@ -2830,28 +2830,6 @@
     {
       "album": {
         "name": "Pity Party",
-        "url": "https://open.spotify.com/album/5S2ZhPG2u28LJot3jjtlH7"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        },
-        {
-          "name": "Harm Franklin",
-          "url": "https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U"
-        }
-      ],
-      "date_added": "2023-09-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144000,
-      "name": "Stunnin' (feat. Harm Franklin)",
-      "url": "https://open.spotify.com/track/1AZlrB115OgwTVA948JiTI"
-    },
-    {
-      "album": {
-        "name": "Pity Party",
         "url": "https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD"
       },
       "artists": [
@@ -2870,6 +2848,28 @@
       "duration_ms": 144000,
       "name": "Stunnin' (feat. Harm Franklin)",
       "url": "https://open.spotify.com/track/2JSmxLqt8h7ZpJJkfuLJvK"
+    },
+    {
+      "album": {
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/5S2ZhPG2u28LJot3jjtlH7"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        },
+        {
+          "name": "Harm Franklin",
+          "url": "https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Stunnin' (feat. Harm Franklin) (Explicit)",
+      "url": "https://open.spotify.com/track/1AZlrB115OgwTVA948JiTI"
     },
     {
       "album": {

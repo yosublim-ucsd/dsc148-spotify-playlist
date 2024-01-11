@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Mi Amigo Invencible en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,325 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,825 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Todo va guay](https://open.spotify.com/track/287jGDTs7r14tmZsC8W1kX) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [SE VENDE HUMO](https://open.spotify.com/album/0vs976dMbamXEPEpoaVULR) | 3:37 |
 | 50 | [Somos Invencibles](https://open.spotify.com/track/2m1kRmf9ozCUFe3bjUzeVp) | [Jotdog](https://open.spotify.com/artist/6rfFUodEv0dJxD1mKbDNdF), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Somos Invencibles](https://open.spotify.com/album/5okjje9V03RKCsfeOCRtuJ) | 2:53 |
 
-Snapshot ID: `MCw3ZmIzNDkxZTk0ODNlMGYwMzZjY2MyZWRhYTUwMWI0MDc3NDFiZTYy`
+Snapshot ID: `MCwzOThlMTE1N2QzOTY2OWMxNjhkOGY4OWQ0MzkyMTIwODQyNzcwMjZh`

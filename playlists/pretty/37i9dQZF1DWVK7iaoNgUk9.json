@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 536768,
+  "num_followers": 535979,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjE1ZDlhOWY0N2Q2ZDhlZTEzMDQ5NDBjYzQ2NDQ5MzlkMzJlOWM5",
+  "snapshot_id": "MCwyYWRjODEyMDc2NGZmMWRiZDNiZTQzNmMzYTRjYzUxNDg5MWNhN2Qw",
   "tracks": [
     {
       "added_at": "2024-01-05 14:36:55",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-01-05 14:36:55",
       "album": {
+        "name": "Purple Hearts (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "duration_ms": 176859,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
+    },
+    {
+      "added_at": "2024-01-05 14:36:55",
+      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
-    },
-    {
-      "added_at": "2024-01-05 14:36:55",
-      "album": {
-        "name": "Purple Hearts (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
-      },
-      "artists": [
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        }
-      ],
-      "duration_ms": 176859,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
     },
     {
       "added_at": "2024-01-05 14:36:55",

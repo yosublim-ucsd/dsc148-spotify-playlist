@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27012,
+  "num_followers": 27039,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzEwZDQxM2NjYWFlYjgyMWNjZDcwMmNiY2NmM2Q5YTgzZTI5ZjY5",
+  "snapshot_id": "MCw1MzUwMGI5MzM3Y2M5ZDU4NDdhZDY3YTI3ZmZiMWEwZDExNDhjNzY0",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
       },
@@ -531,6 +547,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 127209,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Gangster V\u00e4rld",
         "url": "https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e"
       },
@@ -551,22 +587,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
+        "name": "Gata",
+        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 127209,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+      "duration_ms": 155825,
+      "name": "Gata",
+      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -591,22 +623,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Gata",
-        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "Gata",
-      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "WONDERLAND",
         "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 141471,
       "name": "WONDERLAND",
       "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "L\u00f8sningsorienterte",
-        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "L\u00f8sningsorienterte",
-      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Palmerna",
         "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "KALASH",
-        "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
+        "name": "L\u00f8sningsorienterte",
+        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
       },
       "artists": [
         {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
         }
       ],
-      "duration_ms": 130615,
-      "name": "KALASH",
-      "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
+      "duration_ms": 173465,
+      "name": "L\u00f8sningsorienterte",
+      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -787,6 +787,22 @@
       "duration_ms": 173877,
       "name": "Koppla Av",
       "url": "https://open.spotify.com/track/6TzmXkA7Y047fYtPjQLxug"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "KALASH",
+        "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "KALASH",
+      "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -891,26 +907,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Ledare",
-        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Ledare",
-      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -951,6 +947,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Cuando Menos Lo Espera",
         "url": "https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "G63",
-      "url": "https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Whina",
         "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
       },
@@ -999,26 +999,6 @@
       "duration_ms": 156453,
       "name": "Whina",
       "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Boys I D Bl\u00e5",
-        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 133130,
-      "name": "Boys I D Bl\u00e5",
-      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1091,6 +1071,26 @@
       "duration_ms": 168000,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Boys I D Bl\u00e5",
+        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 133130,
+      "name": "Boys I D Bl\u00e5",
+      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 135901,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 135901,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "PANGPANG",
         "url": "https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 210453,
       "name": "555",
       "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Stakken Pt. II",
-        "url": "https://open.spotify.com/album/3GINAyrpmoCTU81jiqn50u"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 161557,
-      "name": "Stakken Pt. II",
-      "url": "https://open.spotify.com/track/3Ig8XOjygcuaYEEN2Eh6cq"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1411,6 +1395,22 @@
       "duration_ms": 134400,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Roser",
+        "url": "https://open.spotify.com/album/1PX57v6vo13dlBDyJnPzUf"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Roser",
+      "url": "https://open.spotify.com/track/0Bf8Kte0qL9GXQszfqbRLM"
     }
   ],
   "unique_name": "100 (2)",

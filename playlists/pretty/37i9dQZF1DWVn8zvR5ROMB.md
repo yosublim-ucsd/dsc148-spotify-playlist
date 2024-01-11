@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Gabby Barrett, Graham Barham, Tigirlily Gold and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,305 likes - 41 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,441 likes - 41 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 40 | [Whiskey In Colorado](https://open.spotify.com/track/0k8Y2eteuwJwwpwsltovPs) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Whiskey In Colorado](https://open.spotify.com/album/59Sb1Bj4NXFueQE8s743nG) | 2:52 |
 | 41 | [Last Frontier](https://open.spotify.com/track/6MbptM6zw9l2O0Um8AeaF2) | [Will Jones](https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER) | [Last Frontier](https://open.spotify.com/album/5DsmJjiDUKAQocTFCtU2Dt) | 3:28 |
 
-Snapshot ID: `MCxkNGE4MTczZWJmNzZmZjZjNjI4YTg1MTdkY2JlZmU1YWYzMmZhYzVh`
+Snapshot ID: `MCw4ZWEzMGJiYmRjYmI2ZWYzMGNiNjI1MzM5NjExMGZiOWQzZDM4OWUz`

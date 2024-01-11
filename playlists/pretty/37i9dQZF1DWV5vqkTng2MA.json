@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 378803,
+  "num_followers": 378793,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODZjNWRmNzA2NjE1MjcxMGVjOGZmOWI5YTZkZThlNTU1ZDBmODhk",
+  "snapshot_id": "MCxmMzE5NDQ5MzUwOWIyZmUyODlkOGI3ZGIyMjlmYTg2ZDU0NDEwYjUy",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "C'mon Baby, Cry",
-      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Trouble Is",
-      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 164533,
       "name": "Pining",
       "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Trouble Is",
+      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -855,26 +855,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Day of the Dead",
-        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        },
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        },
-        {
-          "name": "Friends",
-          "url": "https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 299719,
-      "name": "Sugaree",
-      "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -895,18 +887,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        },
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN"
         }
       ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
+      "duration_ms": 299719,
+      "name": "Sugaree",
+      "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "First Flower",
         "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 238924,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2023-09-15 04:00:00",

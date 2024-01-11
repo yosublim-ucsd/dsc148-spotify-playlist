@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,093 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,677,692 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 36 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
 | 37 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 |
 | 38 | [Family Freestyle](https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Family Freestyle](https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe) | 3:35 |
-| 39 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
-| 40 | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/track/43DRYHCJWpKCGblFKAqzGJ) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/album/0QWdws648Fjjp7ZypkAXua) | 3:17 |
+| 39 | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/track/43DRYHCJWpKCGblFKAqzGJ) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/album/0QWdws648Fjjp7ZypkAXua) | 3:17 |
+| 40 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
 | 41 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 42 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
 | 43 | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/album/5eJ3QcbxAgOauF9yr9OlCT) | 2:55 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 59 | [Robbery 6](https://open.spotify.com/track/5O7HgH9F5jMLZWA3sMNsLj) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery 6](https://open.spotify.com/album/7nHTFeY1uy9B24cKkTSZ1X) | 5:02 |
 | 60 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
 | 61 | [WHAT YOU WANT](https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [WHAT YOU WANT](https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF) | 2:16 |
-| 62 | [One Time](https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [One Time](https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn) | 2:59 |
-| 63 | [Bulletproof \(feat\. NLE Choppa\)](https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Frozone](https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR) | 3:04 |
+| 62 | [Bulletproof \(feat\. NLE Choppa\)](https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Frozone](https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR) | 3:04 |
+| 63 | [One Time](https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [One Time](https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn) | 2:59 |
 | 64 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 |
 | 65 | [Robberies](https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Robberies](https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0) | 2:08 |
 | 66 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Project XXX](https://open.spotify.com/track/35f1EXgZelEJKJPGo6VWIQ) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC) | [Project XXX](https://open.spotify.com/album/2EZrlcbTi3NHvlw0OTAHaX) | 2:09 |
 | 100 | [TyTy&NaeNae](https://open.spotify.com/track/28951XXObn5igteQcIdpJT) | [KP SKYWALKA](https://open.spotify.com/artist/0H20KZnm0XPqNYQ6EsIAyo) | [TyTy&NaeNae](https://open.spotify.com/album/4vFNfuTA7EwprFVV865zbA) | 2:19 |
 
-Snapshot ID: `MCwzNmY2NGQxNTI4NDQ3OTE0OTUxNmMzNTI2Mjk1YzY2ZDQzODMyYjdi`
+Snapshot ID: `MCw1OTE1NDY4NTRlN2VkOGJiNWVkZDM1ZjMzOWFkMDBlNDliMWJmNjE4`

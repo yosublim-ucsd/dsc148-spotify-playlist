@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 207691,
+  "2024-01-11": 207790,
   "date_first_scraped": "2022-01-26",
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
   "name": "Sweet Jazz",
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 366306,
       "name": "Cover Up",
       "url": "https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU"
@@ -5359,7 +5359,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 126093,
       "name": "The Game",
       "url": "https://open.spotify.com/track/1g7bWSgup8GCqIGjdM2XfO"

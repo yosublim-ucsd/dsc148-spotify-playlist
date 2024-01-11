@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: SPRINTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,009 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,969 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
 | 2 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
-| 3 | [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 |
+| 3 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 4 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 |
 | 5 | [No Thank You For The Music](https://open.spotify.com/track/02KgdbM5JkhtBUBIkjFaaA) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [No Thank You For The Music](https://open.spotify.com/album/5BtpS9O9Z6wGYb8RKMime5) | 3:49 |
 | 6 | [Late Start](https://open.spotify.com/track/2XKJdTyC04s10z8jberHmj) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Greatest Hangs](https://open.spotify.com/album/4v4tvpx7fkXA9sqHrKNSy1) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Blood, Hair, And Eyeballs](https://open.spotify.com/track/6dYtCV39bCt10NMfzgOdtA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/5oXZKwnlG0mYFrjKYzYf92) | 3:00 |
 | 100 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 
-Snapshot ID: `MCw4ZDZiYjQ2ZDJhOTQ4NGY1ZTVkOWUyYjI5NzRiNzEzZjg1MGQ0OTVi`
+Snapshot ID: `MCxmODVlY2FkZDVmMzUyZTBkMTU2MTI0NTZjMDU5YjczNTg0ZDk5NGU2`

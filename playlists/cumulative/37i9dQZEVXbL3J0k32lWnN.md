@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,341 songs - 2 day 22 hr 6 min
+1,342 songs - 2 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Ensom](https://open.spotify.com/track/0eTCdGJVebRb5e6PXR73D9) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [LÆNGE LEVE](https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7) | 2:48 | 2023-01-28 | 2023-03-05 |
 | [Er Det For Sent? \(feat\. TopGunn\) \- Remix](https://open.spotify.com/track/1k7bDVNh318BxL8gFeLd8N) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Er Det For Sent? \(feat\. TopGunn\) \- Remix](https://open.spotify.com/album/5gfJBCODehnpEB4lhfquUj) | 2:29 | 2022-05-21 | 2022-09-13 |
 | [Er Her \(Artigeardit X KESI\)](https://open.spotify.com/track/63ODxpk6cCmFw8VvoeRD0O) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Er Her \(Artigeardit X KESI\)](https://open.spotify.com/album/3VZTddLxjfvzvfAADCvSjK) | 2:37 | 2021-05-16 | 2021-05-30 |
-| [Er Her \(Artigeardit, KESI\)](https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 2:37 | 2021-05-30 |  |
+| [Er Her \(Artigeardit, KESI\)](https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 2:37 | 2021-05-30 | 2024-01-11 |
 | [ErruDumEllaHvad](https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ErruDumEllaHvad](https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN) | 2:28 | 2021-04-02 | 2023-01-04 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-14 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-11-30 | 2023-02-05 |
@@ -1134,6 +1134,7 @@
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-24 | 2021-12-27 |
 | [STEPPA' IN](https://open.spotify.com/track/1E7rPZOBk6HYXDC7AvZRWr) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [STEPPA' IN](https://open.spotify.com/album/1gNE1536T01bup2pitmHpQ) | 2:22 | 2022-03-20 | 2022-04-26 |
 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE) | 3:05 | 2024-01-01 | 2024-01-03 |
+| [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-01-10 |  |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-20 | 2022-06-25 |
 | [Stjernekigger](https://open.spotify.com/track/3un3EfKXpZbOq0vzyeOKVV) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 3:38 | 2023-05-13 | 2023-06-04 |
 | [Stjernerne](https://open.spotify.com/track/6bGEf1NKIcpuqlo4BfLy7V) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Stjernerne](https://open.spotify.com/album/4JS69UxvpMFy6pemPtY6Dx) | 3:21 | 2021-03-27\* | 2021-08-24 |

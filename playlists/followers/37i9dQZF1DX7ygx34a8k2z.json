@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 199208,
+  "2024-01-11": 199346,
   "date_first_scraped": "2022-03-18",
   "description": "dig through the record bin w/ tour mates <a href=\"https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74?si=c1be7e2940d844f0\">Liz Phair</a> and <a href=\"https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij?si=YxaujGp8SUiTnZgRi5epLw\">Blondshell</a>, who highlight some of their favorites.",
   "name": "Thrifted",
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 254160,
       "name": "Cold Blooded Old Times",
       "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 211000,
       "name": "Galaxie / Hello, Goodbye",
       "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"

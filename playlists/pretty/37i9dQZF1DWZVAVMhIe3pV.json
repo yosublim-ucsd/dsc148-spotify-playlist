@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 350847,
+  "num_followers": 350864,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDkwNjQyMWFmNzMxMjBmYWM1OThhOGU5Y2E4Y2JmNjgyYWU2OTlm",
+  "snapshot_id": "MCxmZGY4YjVkZWRjNGVmMjljNTEwYWEyNzM1Zjg4MzMwMWJhMjY1MmU2",
   "tracks": [
     {
       "added_at": "2023-12-14 16:55:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Core (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "Plush - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 214797,
       "name": "Help",
       "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 313946,
+      "name": "Plush - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "A Beautiful Lie",
-        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/0lHSJ0ZP8uUPnJXhMdGjOK"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 238560,
       "name": "Jumpsuit",
       "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "A Beautiful Lie",
+        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/0lHSJ0ZP8uUPnJXhMdGjOK"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Shotgun Blues",
-      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 298253,
       "name": "Cherub Rock - 2011 Remaster",
       "url": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
     },
     {
       "added_at": "2023-12-14 16:55:34",

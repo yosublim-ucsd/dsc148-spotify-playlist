@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 15560,
+  "2024-01-11": 15566,
   "date_first_scraped": "2021-12-01",
   "description": "With FM-84, Timecop1983, Kalax and more",
   "name": "The Midnight Radio",
@@ -14329,7 +14329,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 379100,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4c37fNeMZH98oIqGYVGF0o"
@@ -23541,7 +23541,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 286153,
       "name": "That House",
       "url": "https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U"
@@ -26257,7 +26257,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 271530,
       "name": "Wave",
       "url": "https://open.spotify.com/track/4Oossx3YTiTQPz4oajykVY"
@@ -26647,7 +26647,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 217537,
       "name": "When Summer Ends",
       "url": "https://open.spotify.com/track/5TeIIIiALv9m2bkn9UlEfA"

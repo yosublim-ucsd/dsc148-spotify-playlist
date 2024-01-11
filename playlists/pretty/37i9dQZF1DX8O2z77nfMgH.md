@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Nicki Nicole, Mesita, Emilia y Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,690 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,689 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 43 | [Si Pudiera](https://open.spotify.com/track/5ZovhgjwXVdhIdRHfCu9lf) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Si Pudiera](https://open.spotify.com/album/2yfl1SMfsO58DgHZzRKcCD) | 3:06 |
 | 44 | [Bad Bxtch](https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Bad Bxtch](https://open.spotify.com/album/2FP12DnDWJk9MG81zX0C7j) | 2:20 |
 | 45 | [I SEE U LATER](https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [I SEE U LATER](https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl) | 3:25 |
-| 46 | [Deconecte](https://open.spotify.com/track/4Re80N9s1sgBbzIiV21zPI) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Black Jonas Point](https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12) | [Deconecte](https://open.spotify.com/album/5iN8QSwK0Fg4c4ZUfh1sLX) | 3:06 |
-| 47 | [BOCINITA](https://open.spotify.com/track/6i756aKbChLZVITKa3X2cR) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [BOCINITA](https://open.spotify.com/album/4GcoyeiB1N2qmnn25d5EO9) | 2:46 |
-| 48 | [Party En Tokyo](https://open.spotify.com/track/07ygK0QerRdgoyfPsjdZ1j) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK) | [Party En Tokyo](https://open.spotify.com/album/3lQJEG05hbB7LpvvQ8BzUr) | 3:08 |
-| 49 | [Y la Perreo](https://open.spotify.com/track/0vgV44LbA1BiCRggiBk8bW) | [DJ Pedro Fuentes](https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs), [Versatil Boy](https://open.spotify.com/artist/0tLQM6502ofNyYTW2NFnZM) | [Y la Perreo](https://open.spotify.com/album/3hyRkqqWY3XMPOw1Niyda3) | 2:36 |
-| 50 | [Wirinikini](https://open.spotify.com/track/32sbBPysflH2Os6I0DnLIY) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Wirinikini](https://open.spotify.com/album/6WUP7RWj2WrUo256AOh7W3) | 3:05 |
+| 46 | [BOCINITA](https://open.spotify.com/track/6i756aKbChLZVITKa3X2cR) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [BOCINITA](https://open.spotify.com/album/4GcoyeiB1N2qmnn25d5EO9) | 2:46 |
+| 47 | [Party En Tokyo](https://open.spotify.com/track/07ygK0QerRdgoyfPsjdZ1j) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK) | [Party En Tokyo](https://open.spotify.com/album/3lQJEG05hbB7LpvvQ8BzUr) | 3:08 |
+| 48 | [Y la Perreo](https://open.spotify.com/track/0vgV44LbA1BiCRggiBk8bW) | [DJ Pedro Fuentes](https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs), [Versatil Boy](https://open.spotify.com/artist/0tLQM6502ofNyYTW2NFnZM) | [Y la Perreo](https://open.spotify.com/album/3hyRkqqWY3XMPOw1Niyda3) | 2:36 |
+| 49 | [Wirinikini](https://open.spotify.com/track/32sbBPysflH2Os6I0DnLIY) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Wirinikini](https://open.spotify.com/album/6WUP7RWj2WrUo256AOh7W3) | 3:05 |
 
-Snapshot ID: `MCw1MTg4YWUyNWM5Y2U1ZTNlNDhmOWY3NDM5MGRiYTE2ZDM2NmJiMmJl`
+Snapshot ID: `MCw2NGFmOTM4N2ZmNzg4MWNmYWY2MjBlN2MxZTIzZThmZTE4ZDdmMTll`

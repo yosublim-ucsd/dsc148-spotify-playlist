@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-229 songs - 20 hr 41 min
+230 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 | 2023-08-30 |  |
 | [Akeli Dar Lage](https://open.spotify.com/track/0Fkz1sfYAK6z8Yut4EVD4D) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Ramakant Gaikwad](https://open.spotify.com/artist/4qfbDj4ydFDTxGFklq4Ajj), [Samarth Desai](https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4), [Amit Mishra](https://open.spotify.com/artist/1Cr4oTUz9yoA9FORBlX396) | [Akeli Dar Lage](https://open.spotify.com/album/7gc7BvRVhaXC2r4vtLQLy5) | 4:04 | 2023-10-06 |  |
 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 | 2022-05-17 | 2023-03-23 |
-| [Angana Morey](https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Soumyadeep Ghoshal](https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF) | [Angana Morey](https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR) | 3:45 | 2022-05-17 |  |
+| [Angana Morey](https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Soumyadeep Ghoshal](https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF) | [Angana Morey](https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR) | 3:45 | 2022-05-17 | 2024-01-11 |
 | [Anjuman](https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Anjuman](https://open.spotify.com/album/5dJp1acdUGaHX9D3x0eKxC) | 3:38 | 2022-05-17 | 2023-03-11 |
 | [Azad](https://open.spotify.com/track/3mDv3HRVNlPyJGLJvg8y8T) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Azad](https://open.spotify.com/album/6LGwxJSIMkEa0kWDzaBEOT) | 4:40 | 2022-05-17 | 2023-07-22 |
 | [Baadal](https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Baadal](https://open.spotify.com/album/6vbTqEOFjaiDJy6WdcpZkt) | 4:14 | 2023-08-03 |  |
@@ -167,6 +167,7 @@
 | [Payaliya](https://open.spotify.com/track/2qTil4mK99qmmVhH7bIFW1) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/1zwPjsEUnYZTPzz7C5OOSs) | 4:10 | 2023-09-04 | 2024-01-06 |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-21 |  |
 | [Piya Sawre](https://open.spotify.com/track/6NDzy3yUSghgEPm2fbPbkY) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9) | [Piya Sawre](https://open.spotify.com/album/1ZinsKlEsh9tvXfYm5Gqpz) | 5:03 | 2023-07-20 |  |
+| [Piya Se Mila De](https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo) | [Ujwal Nagar](https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc), [Anindo Bose](https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr) | [Piya Se Mila De](https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2) | 4:26 | 2024-01-10 |  |
 | [Piya: Basant Mukhari](https://open.spotify.com/track/32w1dhGQnuAoH4QiqtIWkH) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Junaid Bashir](https://open.spotify.com/artist/5LjIrV2myp40iKTOYOBcVa) | [Piya: Basant Mukhari](https://open.spotify.com/album/2u75yNIlGpJhdJ5zQfAxOl) | 5:41 | 2022-05-17 | 2023-07-06 |
 | [Preet](https://open.spotify.com/track/1ZwuDVU6JRUo4jZjz5mOKG) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 4:00 | 2023-12-01 |  |
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2022-05-17 | 2023-10-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 622929,
+  "num_followers": 622861,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTljY2QxYmFmOTY1ZGY5ZjdhMTQxMzA4YWI4YmZiMjE5ZjA2MjAx",
+  "snapshot_id": "MCwyMzIyY2Q5ZWRjMjJhZmEyYzEyMzI1ZmJmOGM1ZTY2NWU5MThhZjU3",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft",
+        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        },
+        {
+          "name": "Yasha",
+          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Verstrahlt",
+      "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        },
-        {
-          "name": "Yasha",
-          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Verstrahlt",
-      "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
     },
     {
       "added_at": "2023-12-07 13:48:37",

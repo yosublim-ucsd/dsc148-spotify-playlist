@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-338 songs - 1 day 7 hr 0 min
+339 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Burn Through](https://open.spotify.com/track/1fgjv0A82xSTAymPVwQQ79) | [Solique](https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR), [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Burn Through](https://open.spotify.com/album/7uXNZrwK4WExs5lKomAb6C) | 6:22 | 2023-04-07 | 2023-04-29 |
 | [Burning Flame \- 2020 Remix](https://open.spotify.com/track/2xWC2Gp09mdco5kEzXnm9I) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Jez Phunk](https://open.spotify.com/artist/3MBYR1OMC2QDN9kL32e0df), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [Burning Flame \(2020 Remix\)](https://open.spotify.com/album/1rBKdxgSEhNr1qA342r1of) | 9:07 | 2022-04-15 | 2022-05-08 |
 | [Can I](https://open.spotify.com/track/3qavQewlgidBuYHrJe3Qqb) | [Britta Arnold](https://open.spotify.com/artist/7JpBTUqubY86KynSJr28RN) | [No Pushing Only Pulling](https://open.spotify.com/album/57LVq8AxNiBVuPMN0iZLZP) | 8:31 | 2022-04-15 | 2022-07-28 |
-| [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-04-15 |  |
+| [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-04-15 | 2024-01-11 |
 | [Caprice](https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Caprice](https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R) | 3:50 | 2022-04-15 |  |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2023-01-13 |  |
 | [Change This Pain For Ecstasy](https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Change This Pain For Ecstasy](https://open.spotify.com/album/08xHiG90YhACt4w637oTqn) | 3:27 | 2023-05-26 |  |
@@ -78,6 +78,7 @@
 | [Controlled Demolition](https://open.spotify.com/track/4ByxUoZBhd2OoPI2UeWVCf) | [HIGHLITE](https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl) | [Controlled Demolition EP](https://open.spotify.com/album/56oz7if7WaYBGZcJtV8Hh4) | 5:32 | 2023-02-03 | 2023-02-25 |
 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 | 2022-04-15 |  |
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-08-12 | 2024-01-06 |
+| [Cosmovision](https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9) | 3:33 | 2023-11-27 |  |
 | [Creature](https://open.spotify.com/track/3qtb4QrRXds6ub4k1Dp4CS) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm) | [Creature](https://open.spotify.com/album/1GFhzeEXsDCYqZ9xiQ1nOh) | 4:10 | 2022-04-15 | 2022-06-16 |
 | [Cuckoo](https://open.spotify.com/track/6ZvIy8yQcZfN86bGB2o70k) | [Sven Tasnadi](https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo) | [Cuckoo](https://open.spotify.com/album/49oSkGl7FKX176OEE9q3yy) | 6:56 | 2022-04-15 | 2022-04-21 |
 | [Dance With Me](https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS) | 6:31 | 2023-11-27 |  |

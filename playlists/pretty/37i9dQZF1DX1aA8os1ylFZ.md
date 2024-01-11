@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,690 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,605 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Don’t Mind](https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [Freak Pack](https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk) | 2:59 |
 | 100 | [Balcony](https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Balcony](https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc) | 2:40 |
 
-Snapshot ID: `MCwzOGM0N2M5ZDAyZWFjNDFhMmM4ZjUyYzU3OTJkMTVmMjU2OGZmMmU0`
+Snapshot ID: `MCxiZjM5Y2E0NzQ0YjgxMzAxY2ZkZjRmMWQ5MmMxMzVlYzg0YzliYTVj`

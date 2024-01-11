@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 42044,
+  "2024-01-11": 42129,
   "date_first_scraped": "2022-03-22",
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
   "name": "The Listening Room",
@@ -3471,7 +3471,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 272695,
       "name": "Luck (\u904b)",
       "url": "https://open.spotify.com/track/5Eswd8cRz3J9rqYRpLyTuM"
@@ -6009,6 +6009,24 @@
       "duration_ms": 400000,
       "name": "Sycamore Screen",
       "url": "https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC"
+    },
+    {
+      "album": {
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/7sOj3wUCWlPlOstZqNK5qL"
+      },
+      "artists": [
+        {
+          "name": "Deux Filles",
+          "url": "https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226975,
+      "name": "Take it Easy - Single Version",
+      "url": "https://open.spotify.com/track/5oaP0XHFuiaR1f2i9J6Ebq"
     },
     {
       "album": {

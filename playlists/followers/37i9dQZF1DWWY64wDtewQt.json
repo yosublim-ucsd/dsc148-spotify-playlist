@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 7350026,
+  "2024-01-11": 7355284,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -481,6 +481,32 @@
     {
       "album": {
         "name": "ALORS BRAZIL",
+        "url": "https://open.spotify.com/album/43NWshAphbjdHJQPMuPClz"
+      },
+      "artists": [
+        {
+          "name": "lorche",
+          "url": "https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL"
+        },
+        {
+          "name": "ZETH INC.",
+          "url": "https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj"
+        },
+        {
+          "name": "watari",
+          "url": "https://open.spotify.com/artist/4m04kQ6pE6H2A8j2vRqTtl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101262,
+      "name": "ALORS BRAZIL",
+      "url": "https://open.spotify.com/track/4KXTlpfxEOGTdho5K2GmyG"
+    },
+    {
+      "album": {
+        "name": "ALORS BRAZIL",
         "url": "https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P"
       },
       "artists": [
@@ -491,7 +517,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
@@ -9445,7 +9471,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 120937,
       "name": "PSYCHO FUNK",
       "url": "https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C"
@@ -9463,7 +9489,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 120461,
       "name": "Psycho Funk",
       "url": "https://open.spotify.com/track/6zMmJhxFeAVWoiZYCbwzbO"
@@ -10023,6 +10049,24 @@
     {
       "album": {
         "name": "robot rock (funk)",
+        "url": "https://open.spotify.com/album/4doU2xxrxSK6BHe3TjsKdW"
+      },
+      "artists": [
+        {
+          "name": "DJ Crazy 013",
+          "url": "https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153552,
+      "name": "robot rock (funk)",
+      "url": "https://open.spotify.com/track/6M5Zzk6BAbo4YTvUCTsIen"
+    },
+    {
+      "album": {
+        "name": "robot rock (funk)",
         "url": "https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4"
       },
       "artists": [
@@ -10051,7 +10095,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 153528,
       "name": "Robot Rock - Remix",
       "url": "https://open.spotify.com/track/0fm4a0b9oDoLhhCSAtU8OH"

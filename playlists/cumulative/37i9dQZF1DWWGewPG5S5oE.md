@@ -4,10 +4,11 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: jizue
 
-246 songs - 19 hr 46 min
+248 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 | 2024-01-10 |  |
 | [24/7](https://open.spotify.com/track/1bL6QTUJBtDqcme7D3BRXE) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/0sGwnCQvYdQ2fuBBNIotJ9) | 6:07 | 2023-05-16 | 2023-05-18 |
 | [24/7](https://open.spotify.com/track/1dbKUjODEfs0srsw3KgFD9) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/7MJG1uYr3RqRqucOIvWrBr) | 6:07 | 2023-05-16 | 2023-06-14 |
 | [3rd](https://open.spotify.com/track/1s7v6fKiwjEwfr5Zs47A10) | [河野祐亮ピアノトリオ](https://open.spotify.com/artist/092IE7fBMbMQLHhKgVPfPE), [河野祐亮](https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD) | [3rd](https://open.spotify.com/album/0pYrvqsHxb63zU0wOZGikc) | 3:32 | 2022-11-08 | 2023-04-12 |
@@ -90,7 +91,8 @@
 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 | 2023-11-21 |  |
 | [here](https://open.spotify.com/track/38AFhyf8NXJWsra76yd8m4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [gnome](https://open.spotify.com/album/5GoIKRfkH5A11hbwrJImVV) | 5:36 | 2022-10-18 | 2023-05-31 |
 | [Hey Ya!](https://open.spotify.com/track/4e6RFlmSuhmluhZBBhdvu2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Hey Ya!](https://open.spotify.com/album/4oXsNBEkclwgGjX4zKRiDv) | 4:34 | 2023-03-07 | 2023-04-04 |
-| [Hilarious](https://open.spotify.com/track/4Dv7ZG44TPxxRDJyf8X5W4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2baMPvKUmxUghuOUqKm9AL) | 4:03 | 2024-01-09 |  |
+| [Hilarious](https://open.spotify.com/track/4Dv7ZG44TPxxRDJyf8X5W4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2baMPvKUmxUghuOUqKm9AL) | 4:03 | 2024-01-09 | 2024-01-11 |
+| [Hilarious](https://open.spotify.com/track/4MCR0GMtMnryCukxwl3ilp) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2nalZQ0dRQRMjwZySTpLK4) | 4:03 | 2024-01-10 |  |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
 | [ILa](https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [ILa](https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX) | 3:11 | 2023-10-17 | 2023-11-22 |
@@ -179,7 +181,7 @@
 | [Sunday Morning](https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:59 | 2022-09-06 |  |
 | [Superstring \- Rework](https://open.spotify.com/track/4yCpoba6seyaAGwRQyVvdj) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [Mud And Citrus Mix Tape](https://open.spotify.com/album/4Aq96x9QJ6DN9e5UCsZvNU) | 2:42 | 2023-08-15 | 2023-10-15 |
 | [Synapse](https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Synapse](https://open.spotify.com/album/0YW1Wqu4Wf7bmkkDuddSoP) | 4:30 | 2023-02-28 | 2023-05-08 |
-| [T.H.E\. \- Instrumental](https://open.spotify.com/track/7urvwSOF8IWNynEpoQOSik) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [T.H.E\. \(Instrumental\)](https://open.spotify.com/album/4cNyNFudfHb9txaVpToJ3D) | 4:45 | 2023-06-27 |  |
+| [T.H.E\. \- Instrumental](https://open.spotify.com/track/7urvwSOF8IWNynEpoQOSik) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [T.H.E\. \(Instrumental\)](https://open.spotify.com/album/4cNyNFudfHb9txaVpToJ3D) | 4:45 | 2023-06-27 | 2024-01-11 |
 | [Thanks For Emily](https://open.spotify.com/track/5pXuqemHKZqtHMTAbFRVFK) | [Fumika Asari](https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK) | [Thanks For Emily](https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8) | 5:39 | 2023-04-18 | 2023-05-17 |
 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 |  |
 | [THE REASON](https://open.spotify.com/track/5xfX9hGoqTrtf8CKRooKDJ) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [THE REASON](https://open.spotify.com/album/4B2QFm17k16m1nokbJbieB) | 4:50 | 2023-02-28 | 2023-03-29 |

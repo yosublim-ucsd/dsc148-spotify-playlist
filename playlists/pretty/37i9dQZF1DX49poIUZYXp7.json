@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Hannah Ellis",
-  "num_followers": 479563,
+  "num_followers": 479413,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTJmOTVkMDM5MWE3MjUzZWJhNDIxNjc2NzQ2ZjIwNDc4MjYyYjYy",
+  "snapshot_id": "MCw4NmYwYjQwOTlmN2M5YzA5MmYwMDFiNjVjMjVkNjhlNzc1NWIzZTAw",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "I'm Not Pretty",
-        "url": "https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "I'm Not Pretty",
-      "url": "https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 196162,
       "name": "Feel Like This",
       "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "I'm Not Pretty",
+        "url": "https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If"
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
       },
       "artists": [
         {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 183107,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"
+      "duration_ms": 224581,
+      "name": "Hair Salon",
+      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Pistol Made of Roses",
-        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 224581,
-      "name": "Hair Salon",
-      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
+      "duration_ms": 183107,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Just Drive",
-        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 147693,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 181183,
       "name": "Should\u2019ve Known Better",
       "url": "https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 147693,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Heels Over Head",
-        "url": "https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Heels Over Head",
-      "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Greener Pasture",
         "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 189442,
       "name": "Greener Pasture",
       "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Never Will",
+        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "Martha Divine",
+      "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Never Will",
-        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
+        "name": "Heels Over Head",
+        "url": "https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt"
       },
       "artists": [
         {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 217706,
-      "name": "Martha Divine",
-      "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
+      "duration_ms": 194920,
+      "name": "Heels Over Head",
+      "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Never Wanted To Be That Girl",
-        "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 214416,
-      "name": "Never Wanted To Be That Girl",
-      "url": "https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Bridesmaids",
         "url": "https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 173533,
       "name": "Never Til Now",
       "url": "https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Never Wanted To Be That Girl",
+        "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 214416,
+      "name": "Never Wanted To Be That Girl",
+      "url": "https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J"
     },
     {
       "added_at": "2024-01-05 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Thru Collected in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,468 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,470 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [Fumo e Cenere RMX \(feat\. Benji\)](https://open.spotify.com/track/2NPUFvAS8BG6EaNMXs1h8M) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [Fumo e Cenere RMX \(feat\. Benji\)](https://open.spotify.com/album/0xRvJJdv3ZdDcEZyvd9ePs) | 2:46 |
 | 80 | [DAG](https://open.spotify.com/track/67kIdMby8nlaFAWMpiYoEz) | [Silly Sam](https://open.spotify.com/artist/2Xt16y9iLI16gSYQ0yhkHm), [Charlie Amendola](https://open.spotify.com/artist/4EvzRasrLVWFgXQkWbqLYG), [ZEEGO](https://open.spotify.com/artist/0PLjcUmz6lzISMUChTBMhy) | [DAG](https://open.spotify.com/album/2V9yHswrCXhEPchn0pxYul) | 2:55 |
 
-Snapshot ID: `MCwwODJkOGE4NDk4N2M0YjlkNmExNDgxYjc2ODBlMzQzMWI5ODBiM2I0`
+Snapshot ID: `MCxjMGE2NjQwNzRlOGIzYzdmMDFhZTg3MWI4N2M3Y2JlYWZkYTNiMDYy`

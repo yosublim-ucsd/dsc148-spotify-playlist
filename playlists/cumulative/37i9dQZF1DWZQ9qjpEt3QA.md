@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-136 songs - 9 hr 16 min
+138 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [discohaze](https://open.spotify.com/track/7x7CRaBCFtmKFAbc9N3iwx) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [no\-vacancy](https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq) | 3:18 | 2022-05-26 |  |
 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 | 2023-03-16 |  |
 | [Essential](https://open.spotify.com/track/5jtEduKSyyJXEE6IbZFLJR) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [Essential](https://open.spotify.com/album/6WdkSCs0MlShCNo8FQTNC0) | 3:06 | 2022-05-26 |  |
+| [Fantasia](https://open.spotify.com/track/4lALjw6ugXYRubOBAIqP4b) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Fantasia](https://open.spotify.com/album/4R29MM1Qdq4ZlNSfldipEb) | 4:08 | 2024-01-10 |  |
 | [Free\-Fall](https://open.spotify.com/track/1n3R1qXmNgiam6aPmBy73N) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1aFFBDlKtZGKw5SROlidMb) | 3:10 | 2024-01-06 |  |
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-05-26 | 2022-11-03 |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-05-26 | 2023-02-17 |
@@ -108,6 +109,7 @@
 | [Taman Anak\-Anak](https://open.spotify.com/track/1uKJr3V995pBJ9oJuXCuCn) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt) | [Taman Anak\-Anak](https://open.spotify.com/album/50xHVSEMYhkZ7evx6WfyDP) | 3:56 | 2023-07-06 |  |
 | [Telephone Number](https://open.spotify.com/track/6Mnxt2GM70ctyRGothd3tK) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Time\-Lapse](https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT) | 4:00 | 2024-01-06 |  |
 | [Terbanglah Lepas](https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf), [Parlemen Pop](https://open.spotify.com/artist/4GPfmTXPBtz1eIdrdNOB3e) | [Lagu Baru Dari Masa Lalu, Vol\. 1](https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi) | 4:53 | 2022-05-26 | 2023-05-19 |
+| [Terdiam](https://open.spotify.com/track/59i9WWRPt1SI7i52M9Uiqz) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Terdiam](https://open.spotify.com/album/2uFVxEVwvGmEWAnrv6oVgu) | 3:32 | 2024-01-10 |  |
 | [The Feeling](https://open.spotify.com/track/4fGRVDUgCCAtPkZAy6E7T9) | [Fever](https://open.spotify.com/artist/78emMqMZWaWiYUGSlXwIxw) | [The Feeling](https://open.spotify.com/album/0nQTMDFUcsoxCHsSUoO2J9) | 3:49 | 2022-05-26 | 2023-05-19 |
 | [The Midnight Flight](https://open.spotify.com/track/5dkRhWKooE7u39PHvke1i2) | [Namba](https://open.spotify.com/artist/3f6vHFzOFH0pHidakH57Gy), [Chocolate Kit](https://open.spotify.com/artist/4j5XaWuESB6OHy4Eblktqw) | [The Midnight Flight](https://open.spotify.com/album/5h87AL0dOom7DOBgmFkgCK) | 3:55 | 2022-05-26 |  |
 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 | 2022-05-26 |  |

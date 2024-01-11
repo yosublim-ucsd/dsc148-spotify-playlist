@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1950s.",
-  "num_followers": 1742259,
+  "num_followers": 1740976,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWIyNWUxYjVjZGY4MGMyY2RmODdjYTc0OTg2MmFlNGU4NTU1ZmJj",
+  "snapshot_id": "MCwyNTFkY2VjMGJlOWMwNjBlODk1ZDcxYjk1MmQ0ODM0OWIwNTMzNmU4",
   "tracks": [
     {
       "added_at": "2022-06-09 22:02:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "The Call Of The Wildest (Expanded Edition)",
         "url": "https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 141666,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 298133,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Today & Yesterday",
-        "url": "https://open.spotify.com/album/29LVsHDQnohvzRrKerq5t3"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 159906,
-      "name": "Magic Moments",
-      "url": "https://open.spotify.com/track/7bflxIMDz5mFxhQyYx1CEh"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 307053,
       "name": "What'd I Say, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Today & Yesterday",
+        "url": "https://open.spotify.com/album/29LVsHDQnohvzRrKerq5t3"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 159906,
+      "name": "Magic Moments",
+      "url": "https://open.spotify.com/track/7bflxIMDz5mFxhQyYx1CEh"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Papa Loves Mambo",
-      "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Papa Loves Mambo",
+      "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Sings His Favorites",
-        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 155080,
-      "name": "Put Your Head on My Shoulder",
-      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "A Cupid's Valentine",
         "url": "https://open.spotify.com/album/0cvF6655OPZeLDYeU8UqL6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 163480,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/24lvdbt9pS7DFEjhEWSl49"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Sings His Favorites",
+        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "Put Your Head on My Shoulder",
+      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+        "name": "The Cadence Years, Vol. 1",
+        "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Ain't That A Shame",
-      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+      "duration_ms": 141560,
+      "name": "All I Have To Do Is Dream",
+      "url": "https://open.spotify.com/track/2yTzXsYOrevaVIzQQgB3YL"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Ain't That A Shame",
+      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Earth Angel",
         "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 171066,
       "name": "Earth Angel",
       "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "The Cadence Years, Vol. 1",
-        "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "All I Have To Do Is Dream",
-      "url": "https://open.spotify.com/track/2yTzXsYOrevaVIzQQgB3YL"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "The Chordettes' Best",
+        "url": "https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "duration_ms": 130533,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0ZOuues7b9AgBOJ0YRZMLR"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Songs For Young Lovers",
         "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Chordettes' Best",
-        "url": "https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN"
-      },
-      "artists": [
-        {
-          "name": "The Chordettes",
-          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
-        }
-      ],
-      "duration_ms": 130533,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0ZOuues7b9AgBOJ0YRZMLR"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 123520,
       "name": "Wake up Little Susie",
       "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/2lP463yIRHre8VLbw0giyi"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/2lP463yIRHre8VLbw0giyi"
         }
       ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+      "duration_ms": 167800,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 150960,
       "name": "Peggy Sue",
       "url": "https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Little Bitty Pretty One",
         "url": "https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 142453,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/6FMGHBZaYQY7oFS7vyZx8a"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Presenting Dion And The Belmonts",
         "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 141386,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 109960,
       "name": "Rave On",
       "url": "https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Down in Mexico",
-      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 133746,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Down in Mexico",
+      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Wonderful One",
+        "url": "https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "duration_ms": 147828,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Born Too Late",
         "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
       },
@@ -2027,22 +2043,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Wonderful One",
-        "url": "https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ"
-      },
-      "artists": [
-        {
-          "name": "The Chordettes",
-          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
-        }
-      ],
-      "duration_ms": 147828,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "The Canadian Crew",
         "url": "https://open.spotify.com/album/4fSOSe21Ri2GCzGfapA6iX"
       },
@@ -2055,6 +2055,22 @@
       "duration_ms": 166132,
       "name": "Sh-Boom (Life Could Be a Dream)",
       "url": "https://open.spotify.com/track/293St1iPD5azdzsbDYjIWs"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Who Wrote The Book Of Love? [Digital Version]",
+        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
+      },
+      "artists": [
+        {
+          "name": "The Monotones",
+          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2075,22 +2091,6 @@
       "duration_ms": 182440,
       "name": "Chances Are (with Ray Conniff & His Orchestra)",
       "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "The Monotones",
-          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2223,54 +2223,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Sea Of Love: The Collection",
-        "url": "https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB"
-      },
-      "artists": [
-        {
-          "name": "Phil Phillips & The Twilights",
-          "url": "https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW"
-        }
-      ],
-      "duration_ms": 141933,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "A Teenager's Romance",
-      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Bo Diddley",
-      "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -2291,6 +2243,70 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "A Teenager's Romance",
+      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Sea Of Love: The Collection",
+        "url": "https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB"
+      },
+      "artists": [
+        {
+          "name": "Phil Phillips & The Twilights",
+          "url": "https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW"
+        }
+      ],
+      "duration_ms": 141933,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Bo Diddley",
+      "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Cadence Years, Vol. 1",
+        "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "The Complete Hank Williams",
         "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 174293,
       "name": "Hey, Good Lookin'",
       "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "Tequila (Original)",
-      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Cadence Years, Vol. 1",
-        "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
         }
       ],
-      "duration_ms": 144333,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf"
+      "duration_ms": 130320,
+      "name": "Tequila (Original)",
+      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
     },
     {
       "added_at": "2022-06-09 22:02:00",

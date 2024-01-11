@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,467 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,494 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Glorious](https://open.spotify.com/track/5CoFGig7qZFdTHikB8ZDWj) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Glorious](https://open.spotify.com/album/4uoShwbFnmUlYGJpBp0nNe) | 2:24 |
 | 50 | [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 |
 
-Snapshot ID: `MCwxOGM2MDc0NTZkMzE2YTg3ZTA2MTRlZDBiNTY4ODY3YzM4YTg5OTU5`
+Snapshot ID: `MCxkNGI5ODUzZDNhZjE5OGRmZmU0OTYwMmFmOTFmMWM5ODRkM2MyM2Rk`

@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 7500,
+  "2024-01-11": 7503,
   "date_first_scraped": "2022-07-05",
   "description": "Everything you need to hear from the most exciting artists. Handpicked by our editors. Cover: Mohammed Saeed.",
   "name": "RADAR ARABIA",
@@ -607,10 +607,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 228766,
       "name": "GTA",
       "url": "https://open.spotify.com/track/0B7mwv8jBRezE486YKjGit"
+    },
+    {
+      "album": {
+        "name": "Habba Fo2",
+        "url": "https://open.spotify.com/album/2qLsLY0ElXdXYY9iDiAjYw"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "Habba Fo2",
+      "url": "https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc"
     },
     {
       "album": {
@@ -1060,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Mimti",
+        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198595,
+      "name": "Mimti",
+      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
+    },
+    {
+      "album": {
         "name": "my secrets",
         "url": "https://open.spotify.com/album/0OOKu50qAAcHsgNUUvHXI1"
       },
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 144000,
       "name": "Turning Me Up (Hadal Ahbek)",
       "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"

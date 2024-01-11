@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 44237,
+  "num_followers": 44281,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWJiMzRmZTliNWE2ZDEzMzY0OGZmMjlkYWIyMGExMjA5ZjY4Y2Fh",
+  "snapshot_id": "MCxmNGRjMzdhOWNkMTQ2YzQ0ZTYzOTU0ZWQ0YWFlOTA2M2VhZmY2NTMx",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -487,8 +487,8 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -567,8 +567,8 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -631,18 +631,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Detroit Is My Home",
-        "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
+        "name": "Blues Book and Beyond",
+        "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
       },
       "artists": [
         {
-          "name": "Alberta Adams",
-          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
+          "name": "Ottilie Patterson",
+          "url": "https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC"
+        },
+        {
+          "name": "Chris Barber's Jazz Band",
+          "url": "https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP"
         }
       ],
-      "duration_ms": 268066,
-      "name": "Doctor Blues",
-      "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
+      "duration_ms": 240760,
+      "name": "Bad Spell Blues",
+      "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -663,22 +667,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Blues Book and Beyond",
-        "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
+        "name": "Detroit Is My Home",
+        "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
       },
       "artists": [
         {
-          "name": "Ottilie Patterson",
-          "url": "https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC"
-        },
-        {
-          "name": "Chris Barber's Jazz Band",
-          "url": "https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP"
+          "name": "Alberta Adams",
+          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
         }
       ],
-      "duration_ms": 240760,
-      "name": "Bad Spell Blues",
-      "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
+      "duration_ms": 268066,
+      "name": "Doctor Blues",
+      "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Good Old Wagon",
-      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Bertha \"Chippie\" Hill 1925-1929",
         "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 164624,
       "name": "Trouble In Mind (9510)",
       "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Good Old Wagon",
+      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Anthology: The Deluxe Collection (Remastered)",
-        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "Rock Me - Remastered",
-      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Territory Singers Vol. 1 (1922-1928)",
         "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 184111,
       "name": "Evil Mama Blues",
       "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Anthology: The Deluxe Collection (Remastered)",
+        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "Rock Me - Remastered",
+      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "East and West Blues",
-        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
-      },
-      "artists": [
-        {
-          "name": "Marie Grinter",
-          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "East and West Blues",
-      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Grievous Blues",
         "url": "https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 163133,
       "name": "Dirty Moaner Blues",
       "url": "https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "East and West Blues",
+        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
+      },
+      "artists": [
+        {
+          "name": "Marie Grinter",
+          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "East and West Blues",
+      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
     },
     {
       "added_at": "2023-08-23 10:15:28",

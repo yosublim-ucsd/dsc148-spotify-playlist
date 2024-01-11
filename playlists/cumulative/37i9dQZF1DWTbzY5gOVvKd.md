@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-184 songs - 12 hr 46 min
+185 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [It's Always You](https://open.spotify.com/track/0rWS1OheLM9jpGznNwyrEj) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 2:52 | 2022-05-02 |  |
 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 | 2021-07-04 | 2023-08-25 |
 | [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 | 2022-09-13 | 2023-12-24 |
+| [Keep Me From The Cold](https://open.spotify.com/track/4gVLzEtFpDafndD1HYxLmU) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/0gyFNKLHDxHubN3Yf10A7K) | 4:43 | 2024-01-10 |  |
 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 | 2021-12-03 | 2022-07-28 |
 | [L\-O\-V\-E](https://open.spotify.com/track/1shrhyVVd0fHk6PoC3kx7j) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:20 | 2022-08-17 | 2023-08-25 |
 | [L\-O\-V\-E](https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me](https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u) | 2:08 | 2022-06-22 |  |
@@ -175,7 +176,7 @@
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 | 2022-06-22 |  |
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/4oFYpRn9QZbc7toso38diA) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [This Masquerade / There You Are](https://open.spotify.com/album/2NA3EgaSJy1FW1czeaDPzD) | 3:33 | 2020-02-16 | 2022-02-24 |
 | [THERE YOU ARE \(SECOND CHANCE\)](https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [LANGUAGE OF LOVE](https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS) | 3:33 | 2020-03-11 | 2022-07-29 |
-| [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 | 2019-05-26\* |  |
+| [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 | 2019-05-26\* | 2024-01-11 |
 | [Time Alone](https://open.spotify.com/track/7Jt9DpsKlKRcR3RI9qUl9w) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 6:36 | 2019-05-26\* | 2022-07-29 |
 | [Time Alone](https://open.spotify.com/track/1hYd1uyB9HQpf4icjtBQoB) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 6:40 | 2022-09-13 |  |
 | [Too Marvelous For Words](https://open.spotify.com/track/4OMCEhWBZrNE3Gfa1pJxse) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 4:03 | 2022-05-02 | 2022-07-29 |

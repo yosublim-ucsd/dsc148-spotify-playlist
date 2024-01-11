@@ -1,7 +1,7 @@
 {
-  "2024-01-10": 24711,
+  "2024-01-11": 24870,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: ESS_WEST",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Olympia Vitalis",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -3494,6 +3494,24 @@
     },
     {
       "album": {
+        "name": "Break My Fall",
+        "url": "https://open.spotify.com/album/75EtEodh4Ph5LrUTkZeRNF"
+      },
+      "artists": [
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155546,
+      "name": "Break My Fall",
+      "url": "https://open.spotify.com/track/1kZSbPBW1Kb6UISJ7II4Z6"
+    },
+    {
+      "album": {
         "name": "Breaking Free",
         "url": "https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa"
       },
@@ -3581,6 +3599,24 @@
       "duration_ms": 179940,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/4HDKvFUmzTcpIwtNz9PoXt"
+    },
+    {
+      "album": {
+        "name": "Broody Boy",
+        "url": "https://open.spotify.com/album/0fAHEWuVGutp5HmNu0dCEq"
+      },
+      "artists": [
+        {
+          "name": "Jack Conman",
+          "url": "https://open.spotify.com/artist/5yj3VLngMAhwmZM9hMqJtN"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Broody Boy",
+      "url": "https://open.spotify.com/track/6LXIJSqI8Ujenpu79nHEVe"
     },
     {
       "album": {
@@ -7214,6 +7250,28 @@
     },
     {
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/47CcvZsq5yozJIUPNYWAz0"
+      },
+      "artists": [
+        {
+          "name": "INDIA BLUE",
+          "url": "https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI"
+        },
+        {
+          "name": "Jianbo",
+          "url": "https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/07ETi1HEf2dK3uQnmwhy6l"
+    },
+    {
+      "album": {
         "name": "EMERALDS",
         "url": "https://open.spotify.com/album/78H0Jl37qFeQKjRDybmxPP"
       },
@@ -9814,6 +9872,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/27WedjZsuBLiXDCcI62o6t"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Walmsley",
+          "url": "https://open.spotify.com/artist/3zx7nkjZoKFEqqysNPNOI6"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202078,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5QUqzbvlWAPp38wBNI0dHs"
+    },
+    {
+      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
@@ -12327,6 +12403,24 @@
       "duration_ms": 178316,
       "name": "IB3Y",
       "url": "https://open.spotify.com/track/2qIV78JoiCC4Oti2FT3D7q"
+    },
+    {
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/2p0rKLNVRJ3DspsjBK8SWf"
+      },
+      "artists": [
+        {
+          "name": "Low Girl",
+          "url": "https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/3ce3sMJej1oV7TeSjlxvJK"
     },
     {
       "album": {
@@ -15756,6 +15850,24 @@
     },
     {
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1dbZb7zqwRo5DfwN4FMnM1"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Hass",
+          "url": "https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187360,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/66eI6rLF6effvC5JDNy3OL"
+    },
+    {
+      "album": {
         "name": "Maybe I Could Tell You",
         "url": "https://open.spotify.com/album/1sp3LUOST1GgRCUY4ZMqNT"
       },
@@ -16255,6 +16367,24 @@
       "duration_ms": 144397,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/6f9RSJ9y9DfqdHcuOzg8fI"
+    },
+    {
+      "album": {
+        "name": "Modulator",
+        "url": "https://open.spotify.com/album/1nbZBAzMlNeRdZVcRJrLRg"
+      },
+      "artists": [
+        {
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343444,
+      "name": "Modulator",
+      "url": "https://open.spotify.com/track/4YSWFvA4YWzQIzkGIjitk7"
     },
     {
       "album": {
@@ -16785,6 +16915,24 @@
       "duration_ms": 186534,
       "name": "My Love, My Town",
       "url": "https://open.spotify.com/track/0LLEj5V2aElrxpIv5wWTDi"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1rIxScj6FAFtjJ6XPU8Jw1"
+      },
+      "artists": [
+        {
+          "name": "YXUNGTARZAAN",
+          "url": "https://open.spotify.com/artist/3GmCKqbtFV0PPRbQV3QfKb"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/5196BBXw1MKc1B4qBWqvR0"
     },
     {
       "album": {
@@ -18587,6 +18735,28 @@
       "duration_ms": 160880,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/5WI43hFI8F58HlcIDFpKFK"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG"
+      },
+      "artists": [
+        {
+          "name": "Syano",
+          "url": "https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt"
+        },
+        {
+          "name": "SYGH",
+          "url": "https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174339,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB"
     },
     {
       "album": {
@@ -20840,6 +21010,24 @@
     },
     {
       "album": {
+        "name": "Rumination Station",
+        "url": "https://open.spotify.com/album/5IjRdRY5Rdzdxd9hBp0znq"
+      },
+      "artists": [
+        {
+          "name": "ellaneptune",
+          "url": "https://open.spotify.com/artist/4EF7QPmOgbUvOqekqTSxMl"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Rumination Station",
+      "url": "https://open.spotify.com/track/4yWYf4l1eqwrTwjdpIJofd"
+    },
+    {
+      "album": {
         "name": "Run (When I Tell You)",
         "url": "https://open.spotify.com/album/026xZnsdr1rMA1eXux8ya8"
       },
@@ -21653,6 +21841,24 @@
       "duration_ms": 187657,
       "name": "Shadow Dance",
       "url": "https://open.spotify.com/track/1bGdTjoqC98LU32QA01moW"
+    },
+    {
+      "album": {
+        "name": "Shake It Down",
+        "url": "https://open.spotify.com/album/39CPEbF2tw1Db9WpffaS9L"
+      },
+      "artists": [
+        {
+          "name": "C Turtle",
+          "url": "https://open.spotify.com/artist/4JoZT9uT2cj9DQ7i23pn4h"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131760,
+      "name": "Shake It Down",
+      "url": "https://open.spotify.com/track/4LFFchgwzyadtENCt863Xz"
     },
     {
       "album": {
@@ -22703,6 +22909,28 @@
       "duration_ms": 363251,
       "name": "SPU1",
       "url": "https://open.spotify.com/track/7G6kWELR0qp5cNd0uwdBZu"
+    },
+    {
+      "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5yVD8RIQkaQ72wVLw9pbCZ"
+      },
+      "artists": [
+        {
+          "name": "Light Grey",
+          "url": "https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ"
+        },
+        {
+          "name": "Chaney Elaine",
+          "url": "https://open.spotify.com/artist/2eM1NQmuxN7F1Pf3wniddK"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192578,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/2tigWb9X0RsOi1yQtUFxOQ"
     },
     {
       "album": {
@@ -23984,6 +24212,28 @@
     },
     {
       "album": {
+        "name": "Tear Gas (feat. Tyler Cryde)",
+        "url": "https://open.spotify.com/album/3dr2QOBPShCo49di8WnPvA"
+      },
+      "artists": [
+        {
+          "name": "Skydaddy",
+          "url": "https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX"
+        },
+        {
+          "name": "Tyler Cryde",
+          "url": "https://open.spotify.com/artist/1ghH3iyV8WKmK2pMvyQ55E"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258933,
+      "name": "Tear Gas",
+      "url": "https://open.spotify.com/track/1hiVYjWEA0DMHYHBy61pHC"
+    },
+    {
+      "album": {
         "name": "Teeth",
         "url": "https://open.spotify.com/album/1cfCP9505PAGSh4eVmYQhS"
       },
@@ -24035,6 +24285,28 @@
       "duration_ms": 142756,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5TV6ht75LPxvokvVe3qYF2"
+    },
+    {
+      "album": {
+        "name": "Tell Me About It",
+        "url": "https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        },
+        {
+          "name": "Dottie",
+          "url": "https://open.spotify.com/artist/0RjSIF8OgSCEcz0iYPDZaI"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Tell Me About It",
+      "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"
     },
     {
       "album": {
@@ -26543,6 +26815,24 @@
       "duration_ms": 155000,
       "name": "what a day (to rot away)",
       "url": "https://open.spotify.com/track/126dfEMHR1sGv6X80HIsTT"
+    },
+    {
+      "album": {
+        "name": "What My Heart Is For",
+        "url": "https://open.spotify.com/album/05ziyNIlL7k5yPHcZjnKhP"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220548,
+      "name": "What My Heart Is For",
+      "url": "https://open.spotify.com/track/0tQnMCSpalT0fy1Zc7W8GN"
     },
     {
       "album": {

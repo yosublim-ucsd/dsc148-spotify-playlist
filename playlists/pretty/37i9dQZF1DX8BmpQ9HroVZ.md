@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover \- Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,147 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,213 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 59 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 |
 | 60 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 |
 
-Snapshot ID: `MCw5ZDU2OGU1ZTA0MzUzNjViZjlmNjYwNzUwODk5NDgyNTdlOTAyNjU4`
+Snapshot ID: `MCwxOTlhZGM3ZjMxNzg1ZjUxNjRiY2ZkZjg5MWM2MDZjMDhiYzM2NTFi`

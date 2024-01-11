@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 119552,
+  "num_followers": 119612,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjQ5Njg0NmE3YTNhODZlMmFiODFlNmE5MGYxOTAxNThiZThmOGUx",
+  "snapshot_id": "MCxlOGZkMGM1MjgwZTlkOTQ0NWZmZWEzNWM3MDhiM2ZmNTgyNDJkMTFm",
   "tracks": [
     {
       "added_at": "2023-12-20 11:21:06",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 280529,
-      "name": "Don't Think Twice, It's Alright",
-      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Karen Souza Essentials",
         "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 211306,
       "name": "Creep",
       "url": "https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 280529,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 228327,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/3lBfxgfIQ16YbgVaD1oBLy"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -843,18 +843,26 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "In My Element",
-        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
         }
       ],
-      "duration_ms": 523613,
-      "name": "Maiden Voyage / Everything In Its Right Place",
-      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
+      "duration_ms": 422226,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -883,26 +891,18 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
+        "name": "In My Element",
+        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
       },
       "artists": [
         {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         }
       ],
-      "duration_ms": 422226,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L"
+      "duration_ms": 523613,
+      "name": "Maiden Voyage / Everything In Its Right Place",
+      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Stockholm Underground",
-        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
-      },
-      "artists": [
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 303807,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 279573,
       "name": "I Got You - I Feel Good",
       "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Stockholm Underground",
+        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
+      },
+      "artists": [
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 303807,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Can't Buy Me Love",
-      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Can't Buy Me Love",
+      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
       },
       "artists": [
         {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
+      "duration_ms": 285719,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
       "artists": [
         {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1195,6 +1179,22 @@
       "duration_ms": 265546,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 131773,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 258398,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 131773,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "As an Unperfect Actor (Nine Shakespeare Sonnets)",
-        "url": "https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ"
-      },
-      "artists": [
-        {
-          "name": "Birgit Minichmayr",
-          "url": "https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl"
-        },
-        {
-          "name": "Quadro Nuevo",
-          "url": "https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN"
-        },
-        {
-          "name": "Bernd Lhotzky",
-          "url": "https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR"
-        }
-      ],
-      "duration_ms": 210593,
-      "name": "When Most I Wink - Sonnet 43",
-      "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Don't Know Why",
         "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
       },
@@ -1487,22 +1463,6 @@
       "duration_ms": 179198,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Blacknuss",
-        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1523,6 +1483,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Blacknuss",
+        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Live at the Village Vanguard",
         "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
       },
@@ -1535,6 +1511,30 @@
       "duration_ms": 432915,
       "name": "Car Wash",
       "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "As an Unperfect Actor (Nine Shakespeare Sonnets)",
+        "url": "https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ"
+      },
+      "artists": [
+        {
+          "name": "Birgit Minichmayr",
+          "url": "https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl"
+        },
+        {
+          "name": "Quadro Nuevo",
+          "url": "https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN"
+        },
+        {
+          "name": "Bernd Lhotzky",
+          "url": "https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR"
+        }
+      ],
+      "duration_ms": 210593,
+      "name": "When Most I Wink - Sonnet 43",
+      "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1695,30 +1695,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Here, There and Everywhere",
-        "url": "https://open.spotify.com/album/7CC7BwM6EdBIFIDmM0tdq1"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
-        },
-        {
-          "name": "Fernando Moreno",
-          "url": "https://open.spotify.com/artist/56IVhkzxUrZKf0VJJ7B8vp"
-        }
-      ],
-      "duration_ms": 395625,
-      "name": "Here, There and Everywhere",
-      "url": "https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Speak Low II",
         "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
       },
@@ -1743,18 +1719,26 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Groove Connection",
-        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
+        "name": "Here, There and Everywhere",
+        "url": "https://open.spotify.com/album/7CC7BwM6EdBIFIDmM0tdq1"
       },
       "artists": [
         {
-          "name": "Jakob Manz",
-          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        },
+        {
+          "name": "Fernando Moreno",
+          "url": "https://open.spotify.com/artist/56IVhkzxUrZKf0VJJ7B8vp"
         }
       ],
-      "duration_ms": 202200,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
+      "duration_ms": 395625,
+      "name": "Here, There and Everywhere",
+      "url": "https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1775,6 +1759,22 @@
       "duration_ms": 303186,
       "name": "She's Leaving Home - Live",
       "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Groove Connection",
+        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
+      },
+      "artists": [
+        {
+          "name": "Jakob Manz",
+          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Bird On The Wire",
-      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Tears in Heaven",
         "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 328192,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Ultrahang",
+        "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 402160,
+      "name": "Ladies Of the Canyon (Bonus)",
+      "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Sealed with a Kiss",
         "url": "https://open.spotify.com/album/3WCTl9gYGQqyLtKIiVLtuj"
       },
@@ -1927,18 +1943,18 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Ultrahang",
-        "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
       },
       "artists": [
         {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
         }
       ],
-      "duration_ms": 402160,
-      "name": "Ladies Of the Canyon (Bonus)",
-      "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
+      "duration_ms": 266333,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1959,22 +1975,6 @@
       "duration_ms": 252680,
       "name": "Hey, That's No Way To Say Goodbye",
       "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "East/West",
-        "url": "https://open.spotify.com/album/3osIJ2ulRYsz7FMAw1AG3E"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 707146,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/4rTIHSHAUhS7VZdv7RWaQL"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "River Man (feat. Sara Caswell)",
         "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
       },
@@ -2115,6 +2099,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "East/West",
+        "url": "https://open.spotify.com/album/3osIJ2ulRYsz7FMAw1AG3E"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 707146,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/4rTIHSHAUhS7VZdv7RWaQL"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Rock Swings",
         "url": "https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl"
       },
@@ -2127,22 +2127,6 @@
       "duration_ms": 216093,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -2175,6 +2159,22 @@
       "duration_ms": 261853,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2023-12-20 11:21:06",

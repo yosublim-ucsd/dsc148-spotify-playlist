@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Pio Perilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,491 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,483 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 99 | [Salvavidas](https://open.spotify.com/track/26sncSwReSsEXl5CxS1hMX) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 4:11 |
 | 100 | [Luces Neón](https://open.spotify.com/track/3Y8EuhwZ6LdGi3leKQHBXZ) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/1e4X4ReVQErGDwchkE34sN) | 3:47 |
 
-Snapshot ID: `MCwyMzUyMDRmNGE2Yzk1NjE0YmQ2ODFkYTAwNzA1YzVkNTEzYWFiMjJh`
+Snapshot ID: `MCxjMTJmZjJlZTkwYzNmOWEzMGU5N2NjYzE2N2JmZjIwNTlmYWYxYjk2`

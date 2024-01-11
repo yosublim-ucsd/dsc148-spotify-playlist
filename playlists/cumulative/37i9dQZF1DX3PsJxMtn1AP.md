@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-246 songs - 15 hr 48 min
+248 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 | 2023-03-03 | 2023-04-22 |
 | [Ana Qalbi Ehtar \- Habibi Funk 021](https://open.spotify.com/track/2Nv9GGqfvggAUo5UgcMHPZ) | [The Free Music](https://open.spotify.com/artist/0I2ig8kucQMSWCNr8rHuY9), [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ana Qalbi Ehtar \(Habibi Funk 021\)](https://open.spotify.com/album/4g7J4UG3vYNDBGmJCQER1P) | 4:45 | 2023-02-14 | 2023-04-11 |
 | [Anestesia](https://open.spotify.com/track/2EQKYVMpnpvyUaHZL2VQlU) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Anestesia](https://open.spotify.com/album/2nYhva0TxRBllKxG3lqISd) | 3:13 | 2023-03-24 | 2023-05-24 |
+| [Anthem For Those Who Know](https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [Anthem For Those Who Know](https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p) | 3:20 | 2024-01-10 |  |
 | [Arcadian Daze](https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6) | 3:16 | 2023-01-24 | 2023-04-01 |
 | [Are You Alive?](https://open.spotify.com/track/2uJbLXWgxBEgkUtz2Ie07l) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Optical Delusion](https://open.spotify.com/album/2jQbFspnSh7erex6RDKQGJ) | 7:49 | 2023-03-03 | 2023-04-15 |
 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-14 | 2023-08-18 |
@@ -35,7 +36,7 @@
 | [Bedroom Exile \- Spotify Singles](https://open.spotify.com/track/41nuWG6XRUTGlFSOumec21) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:21 | 2023-03-29 | 2023-04-14 |
 | [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-09-25 | 2023-10-27 |
 | [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-25 | 2023-10-21 |
-| [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-09-25 |  |
+| [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-09-25 | 2024-01-11 |
 | [Beggin'](https://open.spotify.com/track/3ujKLPUPwRUtRXDoWCSDI4) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:03 | 2023-07-19 | 2023-10-28 |
 | [Bend The Round](https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Bend The Round](https://open.spotify.com/album/5wnRlXirKPPP7DrFswTIdq) | 3:27 | 2023-07-25 |  |
 | [Bermondsey Bender](https://open.spotify.com/track/0vW7OH6FgumkWUgyHPFeRR) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Beautiful World](https://open.spotify.com/album/0ZnnuF8eC7ZsyMJm9008k4) | 4:03 | 2023-12-12 |  |
@@ -123,7 +124,7 @@
 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 | 2023-03-31 | 2023-11-11 |
 | [La Culebra](https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [La Culebra](https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9) | 3:52 | 2023-03-22 | 2023-05-27 |
 | [Lain \(phone clone\)](https://open.spotify.com/track/2JGvSzxJASZkdGxOVPQ0sP) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:01 | 2023-01-13 | 2023-03-30 |
-| [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-25 |  |
+| [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-25 | 2024-01-11 |
 | [Like Coconut Water](https://open.spotify.com/track/28pnWcdTLT64CupOvo26Ed) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Like Coconut Water](https://open.spotify.com/album/5j86EWmljEfisr53Kocm1e) | 3:11 | 2023-11-07 | 2024-01-06 |
 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 | 2023-11-24 | 2024-01-04 |
 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-17 | 2023-06-16 |
@@ -198,6 +199,7 @@
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 | 2023-07-26 |
 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 | 2023-11-10 |  |
 | [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 | 2023-07-28 |  |
+| [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-01-10 |  |
 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-24 | 2023-08-12 |
 | [Sleeves Touch My Elbows](https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Sleeves Touch My Elbows](https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG) | 3:30 | 2023-08-17 | 2023-09-26 |
 | [Slugs of Love](https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v) | 4:07 | 2023-04-14 | 2023-08-16 |

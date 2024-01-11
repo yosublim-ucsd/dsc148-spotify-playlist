@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1303327,
+  "num_followers": 1302841,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTQ0MGE2MzNmYjAyMWY1MDZkNjkwYmQ5MjI4ZWM0NzZjOWEwMGYy",
+  "snapshot_id": "MCxhMjMxMWQ5ZTEyNDlmOTZiM2Y4NWE4NzRiOTQ0NTEyZmE5Y2U0OGUy",
   "tracks": [
     {
       "added_at": "2023-11-08 22:37:03",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Lo Har\u00e9 por Ti",
-        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
+        "name": "Sin Mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
         }
       ],
-      "duration_ms": 228646,
-      "name": "Lo Har\u00e9 por Ti",
-      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
+      "duration_ms": 196597,
+      "name": "Al\u00e9jate de Mi",
+      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Sin Mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
+        "name": "Lo Har\u00e9 por Ti",
+        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
       },
       "artists": [
         {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 196597,
-      "name": "Al\u00e9jate de Mi",
-      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
+      "duration_ms": 228646,
+      "name": "Lo Har\u00e9 por Ti",
+      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
         "name": "No Me Enga\u00f1es Nunca",
         "url": "https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 233933,
       "name": "No Me Enga\u00f1es Nunca",
       "url": "https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "El Ritmo Mamalon",
-        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 193375,
-      "name": "El Ritmo Mamalon",
-      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "El Ritmo Mamalon",
+        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 193375,
+      "name": "El Ritmo Mamalon",
+      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1559,18 +1559,34 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Toquin en Am\u00e9rica",
-        "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
+        "name": "Que Te Vaya Mal",
+        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
       },
       "artists": [
         {
-          "name": "Los Javugoh",
-          "url": "https://open.spotify.com/artist/6WpqijLQ174As9uCl0RbP5"
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
         }
       ],
-      "duration_ms": 207728,
-      "name": "Caricias - Acar\u00edciame",
-      "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
+      "duration_ms": 327253,
+      "name": "Ven a Mi",
+      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Que Te Vaya Mal",
-        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
+        "name": "Toquin en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
       },
       "artists": [
         {
-          "name": "Grupo Kachimba",
-          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+          "name": "Los Javugoh",
+          "url": "https://open.spotify.com/artist/6WpqijLQ174As9uCl0RbP5"
         }
       ],
-      "duration_ms": 327253,
-      "name": "Ven a Mi",
-      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
+      "duration_ms": 207728,
+      "name": "Caricias - Acar\u00edciame",
+      "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 322986,
-      "name": "Lucerito",
-      "url": "https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Ya No Est\u00e0s Aqu\u00ec",
         "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 262861,
       "name": "Ya No Est\u00e0s Aqu\u00ec",
       "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 322986,
+      "name": "Lucerito",
+      "url": "https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
+        "name": "Ea Ea La Cumbia Buena",
+        "url": "https://open.spotify.com/album/309Hl9c4m4PEMOt2MJroPf"
+      },
+      "artists": [
+        {
+          "name": "Mister Cumbia",
+          "url": "https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9"
+        }
+      ],
+      "duration_ms": 193366,
+      "name": "Ea Ea La Cumbia Buena",
+      "url": "https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
         "name": "Video Cumbias Pa' Bailar 2",
         "url": "https://open.spotify.com/album/5UvXruYgho8IhZr3W7h1Ie"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 309386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/5jvfvwBAiW0LBm0I7ou4G2"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
-        "name": "Los Exitos de Tiberio y Sus Gatos Negros",
-        "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
-      },
-      "artists": [
-        {
-          "name": "Tiberio Y Sus Gatos Negros",
-          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Lagrimas de Escarcha",
-      "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
+        "name": "Los Exitos de Tiberio y Sus Gatos Negros",
+        "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
+      },
+      "artists": [
+        {
+          "name": "Tiberio Y Sus Gatos Negros",
+          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Lagrimas de Escarcha",
+      "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
         "name": "Sigueme",
         "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 202666,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
-        "name": "Ea Ea La Cumbia Buena",
-        "url": "https://open.spotify.com/album/309Hl9c4m4PEMOt2MJroPf"
-      },
-      "artists": [
-        {
-          "name": "Mister Cumbia",
-          "url": "https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9"
-        }
-      ],
-      "duration_ms": 193366,
-      "name": "Ea Ea La Cumbia Buena",
-      "url": "https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33"
     },
     {
       "added_at": "2023-11-08 22:37:03",

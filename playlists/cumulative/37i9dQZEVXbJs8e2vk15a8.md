@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,625 songs - 3 day 16 hr 17 min
+1,626 songs - 3 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [Hagamos un Trato](https://open.spotify.com/track/0wdkKHAUNdSzEpJb2N19Pq) | [Mario Benedetti](https://open.spotify.com/artist/4OSISCIJEl7zbSIGpLTp5z) | [Centenario / Antología](https://open.spotify.com/album/7IbarV0FfGFk5EniSJ1zPF) | 1:06 | 2023-06-19 | 2023-07-12 |
 | [Halloween Theme](https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Cody Carpenter](https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg), [Daniel Davies](https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP) | [Halloween \(Original 2018 Motion Picture Soundtrack\)](https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM) | 3:02 | 2023-11-02 | 2023-11-04 |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2022-11-02 | 2022-11-06 |
-| [HASTA LA LUNA](https://open.spotify.com/track/65f3ZpTfcULTZ2fKYIqBdz) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [HASTA LA LUNA](https://open.spotify.com/album/3ARLo2PP1Xwoklwit6uuIL) | 3:40 | 2023-12-26 |  |
+| [HASTA LA LUNA](https://open.spotify.com/track/65f3ZpTfcULTZ2fKYIqBdz) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [HASTA LA LUNA](https://open.spotify.com/album/3ARLo2PP1Xwoklwit6uuIL) | 3:40 | 2023-12-26 | 2024-01-11 |
 | [Hay Amores Que Matan](https://open.spotify.com/track/7M2JpesNr8szASXoW8fyG1) | [Bayronfire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV) | [Hay Amores Que Matan](https://open.spotify.com/album/7Geerm1upPPZPIP54L0FHJ) | 4:00 | 2022-07-14 | 2022-07-19 |
 | [Hay Amores Que Matan \- Remix](https://open.spotify.com/track/4938heiCnr3uLMh5GxXRVx) | [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [Hay Amores Que Matan \(Remix\)](https://open.spotify.com/album/3QtcuQHDqkRIDsPh1VWQxA) | 7:16 | 2022-11-15 | 2022-12-08 |
 | [Hayami Hana](https://open.spotify.com/track/1G7dT2vBltjqflkUEHwRoX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Hayami Hana](https://open.spotify.com/album/3aNEQKPiHbfkt9lJ9D5Jsv) | 5:27 | 2023-09-06 | 2023-09-16 |
@@ -1480,6 +1480,7 @@
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-26 | 2022-05-30 |
 | [Tus Ojitos](https://open.spotify.com/track/4l1SYWEm3bCpoLb07qsKRT) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV) | [Tus Ojitos](https://open.spotify.com/album/6w20hxkZPv2KATjnaku0F7) | 3:10 | 2022-11-29 | 2023-01-11 |
 | [Tus Vueltas](https://open.spotify.com/track/7Ji2e01og2QOFBd8mnVF8L) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Tus Vueltas](https://open.spotify.com/album/5VZQq8M23Bo6GkW0ehUPyh) | 2:02 | 2023-03-19 | 2023-04-26 |
+| [tuta rica](https://open.spotify.com/track/4znV7WSCcmczjqa6cdmZeh) | [Filtrakvng](https://open.spotify.com/artist/3moQYUVbobTrHXDzF67ZS0) | [tuta rica](https://open.spotify.com/album/5RoCftAbDkxYHyx6TvYIQl) | 2:55 | 2024-01-10 |  |
 | [Tutank’mon](https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Tutank’mon](https://open.spotify.com/album/4Wlrq1ImA0Se5pJ0BiB4iL) | 2:32 | 2023-04-25 | 2023-05-03 |
 | [TUUUYO](https://open.spotify.com/track/57WroSoheS9bWCtALlXA1t) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 3:24 | 2023-09-26 | 2023-10-10 |
 | [Twenty One](https://open.spotify.com/track/7hnoT6lhcdgYt3yiNEkY4u) | [High Cost](https://open.spotify.com/artist/0qvhQP3g8B6KqM2TxqtBmG), [Benjita Black Ice y BenGstar](https://open.spotify.com/artist/1qksLkjubOtk8S8ohZBrPG) | [Twenty One](https://open.spotify.com/album/0mrflT70oAJM0Tzdo2jUXx) | 2:36 | 2023-08-15 | 2023-09-20 |

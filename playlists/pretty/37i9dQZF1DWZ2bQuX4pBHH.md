@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,554 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,435 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 45 | [Aur Kya](https://open.spotify.com/track/3p2n1UTPBc5RdQY9X94Xpg) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Phir Bhi Dil Hai Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV) | 5:03 |
 | 46 | [Baazigar O Baazigar](https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:39 |
 | 47 | [Kitaben Bahut Si](https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 6:29 |
-| 48 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
+| 48 | [Hum to Deewane Huye \(From "Baadshah"\)](https://open.spotify.com/track/5qG6jYnBmGMdKS1WiZBgj5) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Sensational Duets \(Abhijeet & Alka Yagnik\)](https://open.spotify.com/album/2oUWSHubOyXXSFN7gzLlkq) | 7:00 |
 | 49 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
 | 50 | [Say "Shava Shava"](https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3) | [Aadesh Shrivastava](https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q), [Sudesh Bhosale](https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 6:48 |
 
-Snapshot ID: `MCxhZmYzMWUzNjU2ODkxNTRjNjhjNDllOGVjMmFlNjUyMTYwMWExN2I0`
+Snapshot ID: `MCxkMTcxNzI1MjY0OWRlM2IxMWYzMGY3OTUyMWY4ZjBjZWVhNzViMjc4`

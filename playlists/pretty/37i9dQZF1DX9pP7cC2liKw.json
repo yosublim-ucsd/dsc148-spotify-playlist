@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 229340,
+  "num_followers": 229487,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2Q4ZGZkNzUyMWE0ZjBlODgyNzkwYjM0ZmU5NTgzYjNjMmI5N2Q2",
+  "snapshot_id": "MCwxZTYxNjgxODliMDRiZjI4YjIxZjU3ZWM1ZmNhYmIwNGQ4ZjI1ZmNi",
   "tracks": [
     {
       "added_at": "2023-09-25 01:20:49",
@@ -517,6 +517,26 @@
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
       "added_at": "2022-11-03 18:27:44",
       "album": {
         "name": "Mientras Tanto",
@@ -539,26 +559,6 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -681,42 +681,6 @@
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
-      "added_at": "2023-11-16 17:08:10",
-      "album": {
-        "name": "Ya Va Pasar",
-        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "Ya Va Pasar",
-      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
-    },
-    {
-      "added_at": "2022-09-02 05:59:31",
-      "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Clandestino",
@@ -739,6 +703,42 @@
       "duration_ms": 181818,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
+    },
+    {
+      "added_at": "2022-09-02 05:59:31",
+      "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2023-11-16 17:08:10",
+      "album": {
+        "name": "Ya Va Pasar",
+        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "Ya Va Pasar",
+      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 340720,
+      "name": "Nineteen Hundred and Eighty Five",
+      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Amor Entre Mujer",
         "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 272799,
       "name": "Amor Entre Mujer",
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 340720,
-      "name": "Nineteen Hundred and Eighty Five",
-      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -913,6 +913,46 @@
       "url": "https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2022-11-17 23:06:29",
+      "album": {
+        "name": "El Sabor del Viejo Mar",
+        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 263265,
+      "name": "El Sabor del Viejo Mar",
+      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+    },
+    {
       "added_at": "2023-10-24 02:25:20",
       "album": {
         "name": "El Plan (Cyma Remix)",
@@ -935,22 +975,6 @@
       "duration_ms": 237488,
       "name": "El Plan - Cyma Remix",
       "url": "https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2023-02-03 04:49:29",
@@ -1009,30 +1033,6 @@
       "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
-      "added_at": "2022-11-17 23:06:29",
-      "album": {
-        "name": "El Sabor del Viejo Mar",
-        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 263265,
-      "name": "El Sabor del Viejo Mar",
-      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Dubamerica",
@@ -1047,6 +1047,134 @@
       "duration_ms": 336373,
       "name": "Chichera",
       "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
+    },
+    {
+      "added_at": "2022-11-17 23:06:29",
+      "album": {
+        "name": "Pueblo",
+        "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
+      },
+      "artists": [
+        {
+          "name": "HUG\u00d8",
+          "url": "https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "duration_ms": 103220,
+      "name": "Pueblo",
+      "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "A Guide to the Birdsong of South America",
+        "url": "https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 228019,
+      "name": "Capuchino Pecho Blanco",
+      "url": "https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Samba del Arenal",
+        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Cinemar",
+          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Samba del Arenal",
+      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
+        "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
+      },
+      "artists": [
+        {
+          "name": "Abayomy Afrobeat Orquestra",
+          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
+        }
+      ],
+      "duration_ms": 457053,
+      "name": "Malunguinho",
+      "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Na Procura",
+        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 390505,
+      "name": "Na Procura",
+      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
       "added_at": "2023-09-25 00:08:51",
@@ -1073,78 +1201,6 @@
       "url": "https://open.spotify.com/track/1NRhtJ7VQy55WJC9R6J2sb"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "A Guide to the Birdsong of South America",
-        "url": "https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3"
-      },
-      "artists": [
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 228019,
-      "name": "Capuchino Pecho Blanco",
-      "url": "https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp"
-    },
-    {
-      "added_at": "2022-11-17 23:06:29",
-      "album": {
-        "name": "Pueblo",
-        "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
-      },
-      "artists": [
-        {
-          "name": "HUG\u00d8",
-          "url": "https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 103220,
-      "name": "Pueblo",
-      "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
-        "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
-      },
-      "artists": [
-        {
-          "name": "Abayomy Afrobeat Orquestra",
-          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
-        }
-      ],
-      "duration_ms": 457053,
-      "name": "Malunguinho",
-      "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        },
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        }
-      ],
-      "duration_ms": 260156,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
-    },
-    {
       "added_at": "2023-02-02 00:29:46",
       "album": {
         "name": "Le Fruit Disco",
@@ -1159,62 +1215,6 @@
       "duration_ms": 178573,
       "name": "satsuma",
       "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Na Procura",
-        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
-      },
-      "artists": [
-        {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
-        }
-      ],
-      "duration_ms": 390505,
-      "name": "Na Procura",
-      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Better When We're Close",
-        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Better When We're Close",
-      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Samba del Arenal",
-        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Cinemar",
-          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Samba del Arenal",
-      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1301,20 +1301,24 @@
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-09-19 13:45:43",
       "album": {
-        "name": "Selva y mar",
-        "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
+        "name": "Fiera",
+        "url": "https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc"
       },
       "artists": [
         {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+          "name": "Electropico",
+          "url": "https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK"
+        },
+        {
+          "name": "Mr. Pauer",
+          "url": "https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ"
         }
       ],
-      "duration_ms": 248099,
-      "name": "Selva y mar",
-      "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
+      "duration_ms": 170329,
+      "name": "Pacifico Soy",
+      "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
     }
   ],
   "unique_name": "Tulum Vibes",

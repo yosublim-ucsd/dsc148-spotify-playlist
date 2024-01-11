@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 323166,
+  "2024-01-11": 323103,
   "date_first_scraped": "2021-12-21",
   "description": "H\u00e5ll det 100.",
   "name": "100",
@@ -2156,6 +2156,28 @@
     },
     {
       "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Automatic RMX (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/026dkD9v7C8L8AIWCerga6"
+    },
+    {
+      "album": {
         "name": "Automatic RMX (feat. Baby Gang)",
         "url": "https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo"
       },
@@ -2171,7 +2193,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 130666,
       "name": "Automatic RMX (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14"

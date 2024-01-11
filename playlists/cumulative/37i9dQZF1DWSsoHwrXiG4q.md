@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-119 songs - 9 hr 33 min
+122 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Fairy Forest](https://open.spotify.com/track/6XdhU2Wdb0HYhJmUAD2uWi) | [Eloran](https://open.spotify.com/artist/1fq90SLAmXXuNCRqVjM48b) | [Fairy Forest](https://open.spotify.com/album/7tAAVJ75iSHQWkqkxPvbUf) | 3:48 | 2023-09-15 |  |
 | [Falling Lights](https://open.spotify.com/track/5ZXXout3LaxYFT2dVRvT8j) | [Painted Skies & Viewer](https://open.spotify.com/artist/4VTZ1NxNNLeGdRuKXXv3ZK) | [Tonight](https://open.spotify.com/album/2cVSNtvF9aAWblNYQeCl5e) | 5:39 | 2022-11-30 |  |
 | [Feel Me](https://open.spotify.com/track/1HcH5kwmpDJ8qyPL5GHx0z) | [Linquei](https://open.spotify.com/artist/1f1aYXcRPviy2KuNn8K3Pd) | [Liquidism \(Volume 12\)](https://open.spotify.com/album/0FlI19Se2vM93u4g9xbM5H) | 5:26 | 2022-11-30 |  |
-| [Fire Lit Sky](https://open.spotify.com/track/1IgrS40KAa153OPwELpGOb) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [In Stillness](https://open.spotify.com/album/6botq8TvAm5F9sd0N99qwy) | 5:16 | 2023-02-14 |  |
+| [Fire Lit Sky](https://open.spotify.com/track/1IgrS40KAa153OPwELpGOb) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [In Stillness](https://open.spotify.com/album/6botq8TvAm5F9sd0N99qwy) | 5:16 | 2023-02-14 | 2024-01-11 |
 | [Fire Lit Sky](https://open.spotify.com/track/2qDokZ8quVAjzfeBLF6hDY) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [In Stillness](https://open.spotify.com/album/2o7x8GHrOfI0kosqwo9qlF) | 5:16 | 2022-11-30 | 2023-09-08 |
+| [First Discovery](https://open.spotify.com/track/5yFc3n3ADLns8QlM8JyBXp) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [First Discovery](https://open.spotify.com/album/2cAG4dJa3YVz2SaeXeYxn9) | 2:29 | 2024-01-10 |  |
 | [forest whispers](https://open.spotify.com/track/6JFwalRy97UO1xrYV1j89g) | [Jordan Speak](https://open.spotify.com/artist/4FuvOxJJABoVS2m4ZPM8Br) | [forest whispers](https://open.spotify.com/album/2LzaZf6hLpbvGRS7X1ekUd) | 3:24 | 2023-10-16 |  |
 | [Forsaken \- Smote Remix](https://open.spotify.com/track/26KntMzmEzIfBTMc7wMPaO) | [Aetherial](https://open.spotify.com/artist/10XMkjUSWNCD3WwlSOR6VY), [Cosmic Sequence](https://open.spotify.com/artist/3hk6kBwVVRVOOJlaxTe0y1), [Smote](https://open.spotify.com/artist/5FIcJ2ghmkpHZM8cXm17XP) | [Power Of Nature EP](https://open.spotify.com/album/7lhivxLusKW1BAT2hk6IDo) | 5:20 | 2022-11-30 |  |
 | [Frost Heaves \- Original](https://open.spotify.com/track/7hAN6sfZlXv0szXbedzCHC) | [Silence Groove](https://open.spotify.com/artist/4hpq4qAP5XaJawNi8XriL8) | [Sliced Feat\. Sevin / Frost Heaves](https://open.spotify.com/album/2l51hI7XqDqXJMirkMy6K0) | 4:59 | 2022-11-30 |  |
@@ -75,7 +76,7 @@
 | [Lost \- Pola & Bryson Remix](https://open.spotify.com/track/7uI90KliRDd8egscd650jj) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Lost \(Pola & Bryson Remix\)](https://open.spotify.com/album/5VgTlXbwBgqQgfQX7Pwdpn) | 5:36 | 2022-11-30 | 2024-01-10 |
 | [Magnetic](https://open.spotify.com/track/3HjRaXVmPDawlKmRtH5pTA) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2) | [Magnetic](https://open.spotify.com/album/74zXp1spwIlWwm5rGOffjq) | 3:46 | 2023-05-19 |  |
 | [Memories of Us](https://open.spotify.com/track/0IQPNwi9n8DZdCURmokB3F) | [Yakkan](https://open.spotify.com/artist/7sC8QEM8NC6XmIC59a5kcz) | [Memories of Us](https://open.spotify.com/album/4CvBSIopVSEkw9SOuLYDNF) | 3:29 | 2023-12-12 |  |
-| [Minimal](https://open.spotify.com/track/4nQ6FKHEX4YnZCvfAjQwYG) | [Surreal](https://open.spotify.com/artist/5uWvpdaxp81vUjmd1ZyB2q) | [Signal EP](https://open.spotify.com/album/1RC36wrWedNH6KAr8dvTfy) | 4:35 | 2022-11-30 |  |
+| [Minimal](https://open.spotify.com/track/4nQ6FKHEX4YnZCvfAjQwYG) | [Surreal](https://open.spotify.com/artist/5uWvpdaxp81vUjmd1ZyB2q) | [Signal EP](https://open.spotify.com/album/1RC36wrWedNH6KAr8dvTfy) | 4:35 | 2022-11-30 | 2024-01-11 |
 | [Misty](https://open.spotify.com/track/1AFqQtfrQ0VMLeZxrSPrfM) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Bobby](https://open.spotify.com/album/3pQni96ENZH1JtBXAmOgZ1) | 4:53 | 2022-11-30 |  |
 | [Move On](https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Deeper Vibe \- EP](https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv) | 6:16 | 2023-06-30 | 2024-01-10 |
 | [Mr Right On \- Remastered](https://open.spotify.com/track/0oQDVQygGLhYhEUTb15XjP) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Carry Me Away / Mr Right On](https://open.spotify.com/album/7qgQhIJD5TtcmpCmT0NOaj) | 5:19 | 2022-11-30 | 2024-01-10 |
@@ -96,6 +97,7 @@
 | [Recollection](https://open.spotify.com/track/6qE2iQsG1mAdzQWeXzpszr) | [Gerra & Stone](https://open.spotify.com/artist/7rCF3znBFGHIJix1RLFyWF) | [Pathfinder \- EP](https://open.spotify.com/album/7eqMmc53M8bxtTRvBN90kQ) | 4:33 | 2022-11-30 |  |
 | [Recollection](https://open.spotify.com/track/51RQWDo2qhcL0py5n916hi) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Crying on the Way Home](https://open.spotify.com/album/03HOXmFMDN2HFkbrt9kmqj) | 3:01 | 2023-07-26 |  |
 | [Red Slogan](https://open.spotify.com/track/41chr9BH5daDinJZ2bkEki) | [Echo Oasis](https://open.spotify.com/artist/3Hd9jxZB8QuC0kdCwbkk3n) | [Red Slogan](https://open.spotify.com/album/2uIvUrT2Vo8HUJJH7xSkRn) | 4:00 | 2023-11-17 |  |
+| [Resplendent](https://open.spotify.com/track/2Htfp5QDx54RaWmvNrKZAn) | [IEU5](https://open.spotify.com/artist/5TRnLPOrvYl9pAaU7gpICX) | [Resplendent](https://open.spotify.com/album/4GsQSucUSXAcAaXY3Brrbw) | 2:24 | 2024-01-10 |  |
 | [Rituals](https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Hospital Mixtape: Lens](https://open.spotify.com/album/4FsoFxjPW2TjpiZ292xL2h) | 4:34 | 2023-06-30 | 2023-09-08 |
 | [Rituals](https://open.spotify.com/track/6Pkfvv0wWmKjL4k6WCVIDu) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Rituals](https://open.spotify.com/album/5Z3BtN63NnMMukzSlyTVpg) | 4:34 | 2023-06-30 |  |
 | [Roseland](https://open.spotify.com/track/11cuNXtuo2UtL9T7k6MJw3) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Bobby](https://open.spotify.com/album/3pQni96ENZH1JtBXAmOgZ1) | 5:19 | 2022-11-30 |  |
@@ -117,11 +119,12 @@
 | [Summit](https://open.spotify.com/track/3w8QEohb2fvNOGx1Vu7nCf) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Callisto EP](https://open.spotify.com/album/12YvMSZzN1dSrpPv7vOcxN) | 4:16 | 2023-04-13 |  |
 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 | 2022-11-30 |  |
 | [The Place](https://open.spotify.com/track/16EndrpRvlMFKY13UVH7yj) | [Sensa](https://open.spotify.com/artist/790OTOAHCm1fiOANhpWImt), [Haste](https://open.spotify.com/artist/6XJk8dqIUyJq6PMycHReUL) | [Drum & Bass Arena Summer Rewind](https://open.spotify.com/album/1EDPZqlEqUGhR8wvj2j436) | 6:02 | 2022-11-30 |  |
+| [tough luck](https://open.spotify.com/track/7CjYiNuSvxEwQl8zw849MJ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [searching forever](https://open.spotify.com/album/43NkWLBNsiNxySeE3QjhPm) | 3:47 | 2024-01-10 |  |
 | [Trick of The Light](https://open.spotify.com/track/3gwF8qFu0bx2jUUPaicymE) | [Tokyo Prose](https://open.spotify.com/artist/361kscBTEw82NTOFS8hq0D) | [Wild Grace](https://open.spotify.com/album/3h7IZ3GzubFZhAzDcx5kE9) | 5:36 | 2022-11-30 |  |
 | [Two Words](https://open.spotify.com/track/1gLFnkmHv1DDbZDDcxoSQQ) | [Workforce](https://open.spotify.com/artist/2im0IjdcMRFwGxc5R4Jj82) | [Late Night Soundtrack](https://open.spotify.com/album/68nlqsDJLMV1sKjFUvx87A) | 4:40 | 2022-11-30 |  |
 | [Ubiquitous](https://open.spotify.com/track/4U8ltC3h5mytL6jwSRnP8i) | [Phaction](https://open.spotify.com/artist/33CVzI4YFK6YBZsuxjKhHR) | [Ubiquitous \- EP](https://open.spotify.com/album/1An7AbyWhoU1ZdX74ykPge) | 5:14 | 2022-11-30 |  |
 | [Vivid Vibes](https://open.spotify.com/track/2TW12PMlCXbnWHTuNxxqTw) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Vivid Vibes](https://open.spotify.com/album/3IYhlB1VWARl3caQX12eNq) | 2:37 | 2023-08-25 |  |
-| [Voice Note](https://open.spotify.com/track/20UKA9nmDp3T2v6GhiCoq5) | [Geguri](https://open.spotify.com/artist/4lAapgqEcBAmv4qqwAGUbL) | [Voice Note](https://open.spotify.com/album/3Dz2xO0au2kRCUFlcgczEr) | 4:21 | 2023-12-12 |  |
+| [Voice Note](https://open.spotify.com/track/20UKA9nmDp3T2v6GhiCoq5) | [Geguri](https://open.spotify.com/artist/4lAapgqEcBAmv4qqwAGUbL) | [Voice Note](https://open.spotify.com/album/3Dz2xO0au2kRCUFlcgczEr) | 4:21 | 2023-12-12 | 2024-01-11 |
 | [Watercolours](https://open.spotify.com/track/2pwMhToDEJRk2fOFLVox28) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/3YHpgFDlaJjSFZczWUKJFh) | 5:36 | 2023-02-14 | 2024-01-10 |
 | [Watercolours](https://open.spotify.com/track/36C8hUGIuj1P9IARALVfUn) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/5YjeFnZfs3rck35FhyEOH6) | 5:36 | 2022-12-22 | 2023-11-16 |
 | [What You Say](https://open.spotify.com/track/2GufTqv5cwxqf80TJH69Ql) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR) | [DJ Patife Presents Viva Brazil: Sunandbass Sessions](https://open.spotify.com/album/1cbUibBHqT8u2s8ODPc5Ui) | 6:31 | 2022-12-22 |  |

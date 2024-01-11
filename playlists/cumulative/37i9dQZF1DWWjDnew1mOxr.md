@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: The Vaccines
 
-197 songs - 11 hr 20 min
+198 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 | 2023-10-27 |  |
 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2023-10-20 |  |
 | [Hardly News](https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [2](https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe) | 3:22 | 2023-12-22 |  |
-| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-09 |  |
+| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-09 |  |
+| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-09 | 2024-01-11 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2023-01-10 | 2023-02-24 |
 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-28 |  |
 | [Hold Yr Horses](https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Hold Yr Horses](https://open.spotify.com/album/20OuG64r08ZIIaxArM2Spc) | 2:32 | 2023-09-19 |  |
@@ -122,7 +123,7 @@
 | [King of My Head](https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [King of My Head](https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H) | 3:40 | 2023-02-24 | 2023-11-05 |
 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 | 2023-01-10 |  |
 | [Landmines](https://open.spotify.com/track/2bA5I2vNPWWRx2nyi3DBMI) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Landmines](https://open.spotify.com/album/04LUnLAInGUPqzJu0a0b7w) | 4:43 | 2023-07-11 | 2023-08-02 |
-| [Landmines](https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Landmines](https://open.spotify.com/album/0mtjOk14meeRpSlVpbUzpa) | 4:43 | 2023-07-28 |  |
+| [Landmines](https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Landmines](https://open.spotify.com/album/0mtjOk14meeRpSlVpbUzpa) | 4:44 | 2023-07-28 |  |
 | [Lap Around The Sun](https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Lap Around The Sun](https://open.spotify.com/album/4H7EQv3aw3XFT3cODg7TWQ) | 3:04 | 2023-12-22 | 2024-01-10 |
 | [Lazy Brain](https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Deepest Blue](https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl) | 3:38 | 2023-07-28 | 2023-12-22 |
 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 | 2023-03-13 |  |

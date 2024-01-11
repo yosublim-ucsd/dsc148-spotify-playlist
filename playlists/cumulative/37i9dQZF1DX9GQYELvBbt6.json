@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Daikokai",
+        "url": "https://open.spotify.com/album/10f7dQkIPEEJoWa93PRqO1"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Daikokai",
+      "url": "https://open.spotify.com/track/68e2E631zUpElV1kN3AWEX"
+    },
+    {
+      "album": {
         "name": "Love\u00b0C",
         "url": "https://open.spotify.com/album/1mWPLHs2ERurOEB25DLBxk"
       },
@@ -423,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Saba No Ichi",
+        "url": "https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN"
+      },
+      "artists": [
+        {
+          "name": "saba sister",
+          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Seikatsu",
+      "url": "https://open.spotify.com/track/1GEAvzbiFLcO0DgJlPM5By"
+    },
+    {
+      "album": {
         "name": "shower room rendezvous",
         "url": "https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw"
       },
@@ -510,7 +546,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 259560,
       "name": "The Nails",
       "url": "https://open.spotify.com/track/2etvnOCgpIt7Zz0d44h5oM"
@@ -564,7 +600,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 195320,
       "name": "Wakarebanashi",
       "url": "https://open.spotify.com/track/6so6vKlxpGiMtAjbmWvbYn"
@@ -860,7 +896,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 205781,
       "name": "\u30de\u30b8\u30c3\u30af\u30a2\u30ef\u30fc",
       "url": "https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV"
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 310560,
       "name": "\u511a\u304f\u306a\u3044",
       "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
@@ -1058,7 +1094,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 272000,
       "name": "\u5927\u822a\u6d77",
       "url": "https://open.spotify.com/track/60PhbyOBDd20JP3xPA9urs"
@@ -1137,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver)",
+        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver)",
+      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
+    },
+    {
+      "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
@@ -1191,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "\u7070\u304b\u3076\u308a",
+        "url": "https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220714,
+      "name": "\u7070\u304b\u3076\u308a",
+      "url": "https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4"
+    },
+    {
+      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
@@ -1224,6 +1296,24 @@
       "duration_ms": 261057,
       "name": "\u83ef\u5962\u306a\u5fc3",
       "url": "https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC"
+    },
+    {
+      "album": {
+        "name": "\u840c",
+        "url": "https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269806,
+      "name": "\u840c",
+      "url": "https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm"
     },
     {
       "album": {

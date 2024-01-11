@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: SPRINTS
 
-1,507 songs - 3 day 3 hr 16 min
+1,508 songs - 3 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,8 @@
 | [Headstone](https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Headstone](https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ) | 3:50 | 2022-01-14 | 2022-02-25 |
 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 | 2023-02-17 | 2023-04-09 |
 | [Heaven](https://open.spotify.com/track/5qpL3VKrTeaCxfDwICBRXn) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Heaven](https://open.spotify.com/album/57hsuGuUiT3XmEQi3VymM7) | 3:29 | 2023-11-24 |  |
-| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 | 2024-01-11 |
 | [Heavy Steps](https://open.spotify.com/track/7nlA824VNUPmoHadJ2ir3K) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/0fsLogewsZXku52SwVJF0I) | 3:22 | 2021-12-17 | 2022-01-21 |
 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-04 | 2023-02-17 |
 | [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 | 2022-07-14 | 2022-08-26 |

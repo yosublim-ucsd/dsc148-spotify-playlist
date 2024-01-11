@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,381 songs - 3 day 1 hr 37 min
+1,382 songs - 3 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,6 +651,7 @@
 | [Koko](https://open.spotify.com/track/1VFPvrQDTooFe86v4PXcZH) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 3:12 | 2022-05-27 | 2022-07-03 |
 | [Kolima](https://open.spotify.com/track/5bTMHSl3hGjMfbMMig1E3L) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Kolima](https://open.spotify.com/album/31EO338Vqw3b1i8UUoFQCh) | 2:42 | 2023-07-08 | 2023-10-04 |
 | [Kolpa](https://open.spotify.com/track/2XFfFjfXBNns7lqliJGwm1) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Kolpa](https://open.spotify.com/album/45Hyq3XbOFG3Gi0BgmTyWA) | 2:21 | 2023-12-13 |  |
+| [Kommatia](https://open.spotify.com/track/0q2se8fpWUpJVSo55JsinP) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [Kommatia](https://open.spotify.com/album/3EOVfwi7uWOxu6MB2MvpNu) | 2:33 | 2024-01-10 |  |
 | [Kotera](https://open.spotify.com/track/3f7zVrAcCZ1BVlArmg8wzr) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Kotera](https://open.spotify.com/album/4rOLWCGPB8eSh3EMqMNPVQ) | 2:52 | 2021-09-04 | 2021-09-17 |
 | [Kounato Siga](https://open.spotify.com/track/4ieIAiWQcFLpcCPJeDbLRm) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [Kounato Siga](https://open.spotify.com/album/7CdGoSJvzSztwatsY89TYV) | 2:10 | 2022-04-06 | 2022-05-21 |
 | [Ksana](https://open.spotify.com/track/2YRt7GPwBCA7gYguth7hBL) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [Solmeister](https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48) | [Ksana](https://open.spotify.com/album/2tz2xEEbft5Z4PLAvODruR) | 3:36 | 2023-03-02 | 2023-03-12 |
@@ -1276,7 +1277,7 @@
 | [TrapLife](https://open.spotify.com/track/5aFybnjLrxe6E88i63IyK4) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [TrapLife](https://open.spotify.com/album/3fnbgVRpYb6ByRkFO8uoW0) | 2:38 | 2021-10-17 | 2022-04-14 |
 | [Trapstars](https://open.spotify.com/track/6yAXu55A4UpzZkaVd22Dot) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [5D](https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho) | 1:27 | 2023-05-27 | 2023-06-23 |
 | [Treacherous Twins](https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:00 | 2022-11-05 | 2022-11-07 |
-| [TRELES](https://open.spotify.com/track/6tUOOYiRM11eeIKPLOAnzi) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [TRELES](https://open.spotify.com/album/6Vg7d2qe6GnYP5sZFJob96) | 2:21 | 2023-11-25 |  |
+| [TRELES](https://open.spotify.com/track/6tUOOYiRM11eeIKPLOAnzi) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [TRELES](https://open.spotify.com/album/6Vg7d2qe6GnYP5sZFJob96) | 2:21 | 2023-11-25 | 2024-01-11 |
 | [TRENO](https://open.spotify.com/track/1qU4KrC3CFoWACDvCr2a4w) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 3:25 | 2023-03-18 | 2023-04-01 |
 | [Trifila \- Remix](https://open.spotify.com/track/0v0XN0d4xUiP6r5DhiulRx) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Trifila \(Remix\)](https://open.spotify.com/album/2P8JfHVG4Kgwx8ZvoOq8yq) | 4:55 | 2021-05-30 | 2021-06-02 |
 | [TRONE KOLONES](https://open.spotify.com/track/7dEuJ61zSaKyPU3ymbgV3P) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [TRONE KOLONES](https://open.spotify.com/album/4f9vYtcNqBjQ9UHfwyWVW7) | 2:14 | 2021-04-22 | 2021-04-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1849316,
+  "num_followers": 1846924,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODJjZjE5YjY1ZjNhZjRiYmJiYjQ1OTNkNTAzOTczN2FjYjNkZTU2",
+  "snapshot_id": "MCw5ZGM0MWQxNjkyNDlhZWRjOGYyZWU5ZWIxNjlmZTk1NWRmNTBjY2Qw",
   "tracks": [
     {
       "added_at": "2024-01-03 16:24:23",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-01-03 16:24:23",
       "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+    },
+    {
+      "added_at": "2024-01-03 16:24:23",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 180040,
       "name": "OJOS FERRARI",
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
-    },
-    {
-      "added_at": "2024-01-03 16:24:23",
-      "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
       "added_at": "2024-01-03 16:24:23",
@@ -995,6 +995,30 @@
     {
       "added_at": "2024-01-03 16:24:23",
       "album": {
+        "name": "Major Lazer Essentials",
+        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 169997,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu"
+    },
+    {
+      "added_at": "2024-01-03 16:24:23",
+      "album": {
         "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
-    },
-    {
-      "added_at": "2024-01-03 16:24:23",
-      "album": {
-        "name": "Major Lazer Essentials",
-        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 169997,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu"
     },
     {
       "added_at": "2024-01-03 16:24:23",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-01-03 16:24:23",
       "album": {
-        "name": "Baloncito Viejo",
-        "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 170862,
-      "name": "Baloncito Viejo",
-      "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
-    },
-    {
-      "added_at": "2024-01-03 16:24:23",
-      "album": {
         "name": "SIMPLY THE BEST",
         "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
       },
@@ -1251,26 +1231,22 @@
     {
       "added_at": "2024-01-03 16:24:23",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
+        "name": "Baloncito Viejo",
+        "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         },
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 199357,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
+      "duration_ms": 170862,
+      "name": "Baloncito Viejo",
+      "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
     },
     {
       "added_at": "2024-01-03 16:24:23",
@@ -1295,6 +1271,30 @@
       "duration_ms": 194262,
       "name": "A Un Paso De La Luna - Remix",
       "url": "https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv"
+    },
+    {
+      "added_at": "2024-01-03 16:24:23",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
     },
     {
       "added_at": "2024-01-03 16:24:23",

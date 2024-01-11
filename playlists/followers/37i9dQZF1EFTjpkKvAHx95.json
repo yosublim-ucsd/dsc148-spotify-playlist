@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 4569,
+  "2024-01-11": 4569,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF\">Nija</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Nija",
@@ -589,7 +589,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 173631,
       "name": "D & G",
       "url": "https://open.spotify.com/track/4UMYrNnq5QuaaxmblQ7ZEw"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 134853,
       "name": "F&MU",
       "url": "https://open.spotify.com/track/24QjawKdGJmsAIVe3EhzGH"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 139806,
       "name": "F&MU",
       "url": "https://open.spotify.com/track/4APhL75gOepEiuQblXcXau"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 205170,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 231658,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/7wElwiMmscxXgwUYt9Kxci"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 213610,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/17xePGxxXfP3iyvYBfk6Z0"
@@ -1881,7 +1881,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 211253,
       "name": "Nobody's Love",
       "url": "https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b"
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 229145,
       "name": "Nobody's Love",
       "url": "https://open.spotify.com/track/2USDIGzXqU5rjAmxZgu2pS"
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 245674,
       "name": "Open (Passionate)",
       "url": "https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY"
@@ -2029,7 +2029,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 253419,
       "name": "Open (Passionate)",
       "url": "https://open.spotify.com/track/4YGfELlN7QxXIZNlmy4Erx"
@@ -2352,6 +2352,28 @@
     },
     {
       "album": {
+        "name": "Sex Lies (Official Video)",
+        "url": "https://open.spotify.com/album/3du8mU3ivya86S6bA7XTxu"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255018,
+      "name": "Sex Lies",
+      "url": "https://open.spotify.com/track/0c1CovChUEOKWT0pkj37PR"
+    },
+    {
+      "album": {
         "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
         "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
       },
@@ -2367,7 +2389,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 161538,
       "name": "Sex Lies (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"

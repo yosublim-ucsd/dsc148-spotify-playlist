@@ -1,7 +1,7 @@
 {
-  "2024-01-10": 275787,
+  "2024-01-11": 275905,
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now!  Cover: ZAZEN BOYS",
+  "description": "The biggest rock bands/artists in Japan right now!  Cover: THE BAWDIES",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -645,7 +645,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 215757,
       "name": "Baby Car",
       "url": "https://open.spotify.com/track/6Vo8gah8ZoyAlSbgzx4Ti8"
@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 273146,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/7H3o2welk7kIf3yOknhtAi"
@@ -4683,7 +4683,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 241503,
       "name": "Loss(Angels)",
       "url": "https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG"
@@ -5955,7 +5955,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 278293,
       "name": "No more cry",
       "url": "https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3"
@@ -6465,6 +6465,24 @@
       "duration_ms": 241153,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx"
+    },
+    {
+      "album": {
+        "name": "Parasites",
+        "url": "https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130225,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG"
     },
     {
       "album": {
@@ -7388,6 +7406,28 @@
     },
     {
       "album": {
+        "name": "SCREAM feat. \u677e\u5c3e\u30ec\u30df",
+        "url": "https://open.spotify.com/album/7pqJDusrGfWDA3CN9IWUQe"
+      },
+      "artists": [
+        {
+          "name": "THE BAWDIES",
+          "url": "https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F"
+        },
+        {
+          "name": "\u677e\u5c3e\u30ec\u30df",
+          "url": "https://open.spotify.com/artist/7cetyEh2qBcnsM5qnDFajk"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "SCREAM feat. \u677e\u5c3e\u30ec\u30df",
+      "url": "https://open.spotify.com/track/3s4buH4DNUePMsQofMRDSE"
+    },
+    {
+      "album": {
         "name": "The Novembers",
         "url": "https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO"
       },
@@ -7399,7 +7439,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 207006,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b"
@@ -7583,6 +7623,24 @@
       "duration_ms": 214363,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/5m70CJ7y4FjrUPj8zyFdGs"
+    },
+    {
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239970,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
     },
     {
       "album": {
@@ -8233,7 +8291,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 120200,
       "name": "STAY GOLD",
       "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
@@ -8943,7 +9001,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 173279,
       "name": "These Magic Words",
       "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
@@ -10872,6 +10930,24 @@
     },
     {
       "album": {
+        "name": "\u3058\u3083\u30fc\u306d",
+        "url": "https://open.spotify.com/album/0VZUxtKzMKFWL20a0Y9934"
+      },
+      "artists": [
+        {
+          "name": "Flying Kids",
+          "url": "https://open.spotify.com/artist/7okQeABLQpbyFXz1L9sTpd"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278587,
+      "name": "\u3058\u3083\u30fc\u306d",
+      "url": "https://open.spotify.com/track/5DaC0EKHr7jwKusXnqurXc"
+    },
+    {
+      "album": {
         "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
         "url": "https://open.spotify.com/album/5KMjcGmHWpQp19SxdlisRf"
       },
@@ -11835,7 +11911,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 238543,
       "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
       "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
@@ -12909,7 +12985,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 244000,
       "name": "\u30db\u30c6\u30eb\u30cb\u30e5\u30fc\u30c8\u30ea\u30ce",
       "url": "https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA"
@@ -15113,7 +15189,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 261440,
       "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
       "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
@@ -15315,6 +15391,24 @@
       "duration_ms": 263331,
       "name": "\u706b\u82b1",
       "url": "https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3"
+    },
+    {
+      "album": {
+        "name": "\u70c8\u706b",
+        "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "\u70c8\u706b",
+      "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
     },
     {
       "album": {
@@ -15725,7 +15819,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 253413,
       "name": "\u7a81\u7834\u53e3",
       "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
@@ -16438,6 +16532,24 @@
     },
     {
       "album": {
+        "name": "\u9762\u5f71",
+        "url": "https://open.spotify.com/album/0MpOLoFHkRqxTtPyjfCtmn"
+      },
+      "artists": [
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256665,
+      "name": "\u9762\u5f71",
+      "url": "https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt"
+    },
+    {
+      "album": {
         "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
         "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
       },
@@ -16489,6 +16601,24 @@
       "duration_ms": 275906,
       "name": "\u98a8\u3092\u5f85\u3063\u3066",
       "url": "https://open.spotify.com/track/0ZqcR6KOSVE575l3T9qvlC"
+    },
+    {
+      "album": {
+        "name": "\u98db\u82b1\u843d\u82b1",
+        "url": "https://open.spotify.com/album/5UoCZMhX52srwyCkrXzrWx"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200713,
+      "name": "\u98db\u82b1\u843d\u82b1",
+      "url": "https://open.spotify.com/track/4g5wI6Sln6kK4seB6zxSvw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Steve Aoki and Yellowcard \\m/",
-  "num_followers": 322302,
+  "num_followers": 322284,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVhNWJiMDE2OWNlODAzYTRmMzk3YmVlZTI4OWYzYjJlOTNlNzFk",
+  "snapshot_id": "MCw5NDJmNGJiNmIzMjQ2NzliZTQ5NTIxNTczOTNhYzQ1YTk4YjU0N2Qx",
   "tracks": [
     {
       "added_at": "2024-01-05 22:44:32",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
+        "name": "Bass To The Dome",
+        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 203224,
+      "name": "Bass To The Dome",
+      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/2pJh2rIopxEeJZjBwrT3Sn"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 209032,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/0ONdVHP8eoGupKl1KzM3xv"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
-        "name": "Bass To The Dome",
-        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 203224,
-      "name": "Bass To The Dome",
-      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1071,22 +1071,22 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+      "duration_ms": 227167,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 212946,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 227167,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Church Outfit",
-        "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 114351,
-      "name": "Church Outfit",
-      "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 259401,
       "name": "Our Fire",
       "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
+        "name": "Church Outfit",
+        "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 114351,
+      "name": "Church Outfit",
+      "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Raven Gray",
-          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
-        }
-      ],
-      "duration_ms": 189721,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Raven Gray",
+          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
+        }
+      ],
+      "duration_ms": 189721,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+        "name": "The Great Electronic Swindle",
+        "url": "https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
         },
         {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
         }
       ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+      "duration_ms": 167343,
+      "name": "My Name Is Thunder",
+      "url": "https://open.spotify.com/track/4omeVZmvBUPPlK10CSnmFZ"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1555,26 +1555,6 @@
       "duration_ms": 142065,
       "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
-        "name": "The Great Electronic Swindle",
-        "url": "https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3"
-      },
-      "artists": [
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "My Name Is Thunder",
-      "url": "https://open.spotify.com/track/4omeVZmvBUPPlK10CSnmFZ"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1619,6 +1599,26 @@
       "duration_ms": 209411,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
         "name": "LOUD",
         "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 208000,
       "name": "LOUD (feat. Jason Aalon from FEVER 333)",
       "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
         "name": "FIMBULVETR",
         "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -2403,26 +2403,6 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Ohio is for Lovers",
-        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 232123,
-      "name": "Ohio is for Lovers",
-      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
         "name": "you\u2019ve changed, i\u2019ve changed",
         "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
       },
@@ -2439,6 +2419,26 @@
       "duration_ms": 311625,
       "name": "you\u2019ve changed, i\u2019ve changed",
       "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
+        "name": "Ohio is for Lovers",
+        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 232123,
+      "name": "Ohio is for Lovers",
+      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -2499,18 +2499,22 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
       "artists": [
         {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 292173,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
+      "duration_ms": 240044,
+      "name": "Superhuman (with K.Flay)",
+      "url": "https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH"
     }
   ],
   "unique_name": "Rocktronic",

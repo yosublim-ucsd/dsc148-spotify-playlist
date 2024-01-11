@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: Smokey Bubblin' B and Alex Mills
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 281,500 likes - 156 songs - 8 hr 24 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 281,107 likes - 156 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -328,7 +328,7 @@
     {
       "album": {
         "name": "Abyss-Over",
-        "url": "https://open.spotify.com/album/5nGHLmItbkt5eUKAwns41k"
+        "url": "https://open.spotify.com/album/1WN888rItH426MpIBh4zcq"
       },
       "artists": [
         {
@@ -339,6 +339,24 @@
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232635,
+      "name": "Abyss-Over",
+      "url": "https://open.spotify.com/track/1EN4v238bm5XLgjT3qa323"
+    },
+    {
+      "album": {
+        "name": "Abyss-Over",
+        "url": "https://open.spotify.com/album/5nGHLmItbkt5eUKAwns41k"
+      },
+      "artists": [
+        {
+          "name": "Chogakusei",
+          "url": "https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
       "duration_ms": 232635,
       "name": "Abyss-Over",
       "url": "https://open.spotify.com/track/3vvygyjWxhTYKCyb8FI7g3"
@@ -4491,6 +4509,24 @@
     },
     {
       "album": {
+        "name": "Hikarakka",
+        "url": "https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200713,
+      "name": "Hikarakka",
+      "url": "https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m"
+    },
+    {
+      "album": {
         "name": "Himitsu",
         "url": "https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a"
       },
@@ -6387,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "LOVE OR HATE? OPENING THEME FROM TV SERIES \u201dVILLAINESS LEVEL 99\u201d",
+        "url": "https://open.spotify.com/album/5GLpjMK7c1giXA9GFDD99t"
+      },
+      "artists": [
+        {
+          "name": "\u524d\u5cf6\u9ebb\u7531",
+          "url": "https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188132,
+      "name": "LOVE OR HATE?",
+      "url": "https://open.spotify.com/track/1FrIwTf4qanLZ291r5aaIV"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u60aa\u5f79\u4ee4\u5b22\u30ec\u30d9\u30eb99\u3000\uff5e\u79c1\u306f\u88cf\u30dc\u30b9\u3067\u3059\u304c\u9b54\u738b\u3067\u306f\u3042\u308a\u307e\u305b\u3093\uff5e\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cLOVE or HATE?\u300d",
         "url": "https://open.spotify.com/album/0VTxcGlQrSolD02gcWAWX6"
       },
@@ -6398,7 +6452,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 188132,
       "name": "LOVE or HATE?",
       "url": "https://open.spotify.com/track/7L33yiS4Onb1E3sXG9GIzs"
@@ -9124,10 +9178,28 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 212906,
       "name": "routine life",
       "url": "https://open.spotify.com/track/3AdLUaAZTJQyhjs10t5wKk"
+    },
+    {
+      "album": {
+        "name": "Routine Life",
+        "url": "https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7"
+      },
+      "artists": [
+        {
+          "name": "Yuinishio",
+          "url": "https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Routine Life",
+      "url": "https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl"
     },
     {
       "album": {
@@ -9686,6 +9758,24 @@
       "duration_ms": 202000,
       "name": "Shambles",
       "url": "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk"
+    },
+    {
+      "album": {
+        "name": "Shekira",
+        "url": "https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262056,
+      "name": "Shekira",
+      "url": "https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE"
     },
     {
       "album": {
@@ -14700,7 +14790,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 262056,
       "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
       "url": "https://open.spotify.com/track/6kO083O2vEVcuwpR4WdVnR"
@@ -21348,7 +21438,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 200713,
       "name": "\u98db\u82b1\u843d\u82b1",
       "url": "https://open.spotify.com/track/4g5wI6Sln6kK4seB6zxSvw"

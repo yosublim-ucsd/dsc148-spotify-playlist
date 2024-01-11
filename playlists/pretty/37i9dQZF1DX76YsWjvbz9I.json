@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 270921,
+  "num_followers": 271083,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTY5NzU1OWVkNzhmNWFmNTY1ODQyNTI5NDA0NGM0NDFkYzZlOTZh",
+  "snapshot_id": "MCw5NWI2YjNlZjc0MjFjODBkNjY2NDJjMTQzNzAzN2Y4MGZhNGMzMzJk",
   "tracks": [
     {
       "added_at": "2023-12-19 14:33:40",
@@ -727,6 +727,30 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
+        "name": "The Essential Doris Day",
+        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "John Rarig",
+          "url": "https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p"
+        },
+        {
+          "name": "The Mellomen",
+          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Bewitched, Bothered and Bewildered",
+      "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 182653,
       "name": "Fools Rush In",
       "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
-        "name": "The Essential Doris Day",
-        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "John Rarig",
-          "url": "https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p"
-        },
-        {
-          "name": "The Mellomen",
-          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Bewitched, Bothered and Bewildered",
-      "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "Dinah Sings, Previn Plays",
         "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 219466,
       "name": "My Melancholy Baby",
       "url": "https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "Pointless Nostalgic (Remastered)",
-        "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 306671,
-      "name": "A Time For Love - Remastered",
-      "url": "https://open.spotify.com/track/6TDHACSGU6EW26p8kYXGs6"
+      "duration_ms": 182120,
+      "name": "Until The Real Thing Comes Along - Remastered/1998",
+      "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1247,6 +1247,22 @@
       "duration_ms": 219506,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "Pointless Nostalgic (Remastered)",
+        "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 306671,
+      "name": "A Time For Love - Remastered",
+      "url": "https://open.spotify.com/track/6TDHACSGU6EW26p8kYXGs6"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "The Complete Great American Songbook",
+        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Until The Real Thing Comes Along - Remastered/1998",
-      "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
+      "duration_ms": 186133,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1311,22 +1327,6 @@
       "duration_ms": 162240,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
-        "name": "The Complete Great American Songbook",
-        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
     },
     {
       "added_at": "2023-12-19 14:33:40",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-12-19 14:33:40",
       "album": {
-        "name": "You Are Free",
-        "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
-    },
-    {
-      "added_at": "2023-12-19 14:33:40",
-      "album": {
         "name": "Sarah - Dedicated to You",
         "url": "https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 362693,
       "name": "Dedicated to You - Remastered 2003",
       "url": "https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH"
+    },
+    {
+      "added_at": "2023-12-19 14:33:40",
+      "album": {
+        "name": "You Are Free",
+        "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
     },
     {
       "added_at": "2023-12-19 14:33:40",

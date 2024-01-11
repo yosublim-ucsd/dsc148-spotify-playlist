@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,924 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,902 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [Forgot About You](https://open.spotify.com/track/4hg4C9pqzoNW3sIFfoNrNL) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Forgot About You](https://open.spotify.com/album/64f35H4RwwAQ2h03NNSRHj) | 3:08 |
 | 50 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 |
 
-Snapshot ID: `MCxhNThmYjJmYWM1MTMxNDk5MjlmMmM5MzM2NjkyZDgwMTU3NjZhODFh`
+Snapshot ID: `MCxhNWIzOGZjN2M3MDlhMWQ5YjU3MjBkMmJkYjg2MmRjODZjMDYyZThj`

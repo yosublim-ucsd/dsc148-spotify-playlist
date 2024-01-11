@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9?si=Pb48qvpcQXyihE4cOGp6Xg"> Lege\-Cy </a> : اجمد التراكات كلها على ملوك السين غلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,655 likes - 39 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,799 likes - 39 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 38 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 39 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 |
 
-Snapshot ID: `MCxhMjI4YzlhYjM2ZTlmNWNjNmU4NjU3MTdlODM4MTVjYjJlNzUwOTM5`
+Snapshot ID: `MCwyMmE5YTY1YTYzZjgyMWQ5ZDZjNjhkNDQxMzJkNGYwMzE1OTJiYjkw`

@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4360,
+  "num_followers": 4368,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNjOTVlYzM3ZTFmNTI1OWIzYzZmMTg3MGU1ODkwY2ZjMmZlMmU0",
+  "snapshot_id": "MCw5OWNmOGJmOWQyZjhkYWRkNDNiYjc4Zjg3MTMwN2JlNjJhNmNlY2Vm",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
     },
     {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 205790,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "YOU'LL NEVER LEAVE ME",
@@ -751,22 +767,6 @@
       "duration_ms": 368000,
       "name": "YOU'LL NEVER LEAVE ME",
       "url": "https://open.spotify.com/track/212foSbfdipO7619yXHkJx"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Good To Go",
-        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 205790,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
     },
     {
       "added_at": "2023-11-17 00:01:00",

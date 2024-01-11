@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,347 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,348 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 23 | [Mubire](https://open.spotify.com/track/709bcWwT5PaVkz1R0ykrKg) | [Small Q](https://open.spotify.com/artist/7ltlgswsQ4Q6Mdcw8GoFZn), [Fresh Kid Ug](https://open.spotify.com/artist/4qNgSGAZglFBFQbcqYG9ZX) | [Church Boy](https://open.spotify.com/album/5FqLdR3exCWZYptLPrlZH0) | 3:14 |
 | 24 | [Are We Still Good?](https://open.spotify.com/track/4q6xJtT4ZWR00sryFu570w) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Not From This Planet](https://open.spotify.com/album/0g3lhvegS6iXoxX41qn5Q0) | 3:32 |
 | 25 | [Till the Sun Come Up](https://open.spotify.com/track/7hfmd4M2UqADLZkCVI4KVr) | [Baru](https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj), [Julius Sese](https://open.spotify.com/artist/00Y8QKiQhDuuJLQrEmrE2k), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Chwez Funk](https://open.spotify.com/album/5JjbFmQFnJYzKBOTz1Dqw0) | 4:10 |
-| 26 | [Make Dat Money](https://open.spotify.com/track/2FjGWI79TdNs9rJjfBsIWP) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX), [Blessed San](https://open.spotify.com/artist/6ZCmGsvdReqqz3Iz789x9n) | [Make Dat Money](https://open.spotify.com/album/7u7QCwz0TXUGafOMWB8OGe) | 3:42 |
+| 26 | [Make Dat Money](https://open.spotify.com/track/70zWk3h9fZmUYxLrWlfoJZ) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX), [Blessed San](https://open.spotify.com/artist/6ZCmGsvdReqqz3Iz789x9n) | [Make Dat Money](https://open.spotify.com/album/2tZKDepib0nmCVv41VYwBa) | 3:42 |
 | 27 | [4](https://open.spotify.com/track/6mIVsZSRdArkSIyRBZsckR) | [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [RZR](https://open.spotify.com/album/6rGinERBnSYfnZqXiH8VB4) | 1:46 |
 | 28 | [Sacrifice](https://open.spotify.com/track/3XvraJ0zbOcqhLZW7mRqv6) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [TRAPSTAR](https://open.spotify.com/album/553eFEgww5vl9dGWsdPCaZ) | 2:39 |
 | 29 | [Coronation](https://open.spotify.com/track/4H2N1mJ1ASwOICfB7KssiX) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW), [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz) | [Coronation](https://open.spotify.com/album/0BejVTOe8sGM9SCXnsy0Bx) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCw2YWY3NzcyMTE0MTE2MmMyZmM4ZjdmYTY2ZDY5ODIyYjhlODM3NzEw`
+Snapshot ID: `MCxhYWEzNzAyMTQ1ZDBjNzk2MTIzNTM2ZDRhMzY5N2UyNGY0YTRkYzNj`

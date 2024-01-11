@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,369 songs - 2 day 3 hr 36 min
+1,370 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [Jazzy](https://open.spotify.com/track/7lI4TBcLfevzVzLpBjuloh) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Jazzy](https://open.spotify.com/album/5ClcYdNTl3QfNATJQWcJ1S) | 2:24 | 2022-07-01 | 2022-12-10 |
 | [jazzy day](https://open.spotify.com/track/3nAJcl7mmWnBzRYjpIKgJ4) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR) | [jazzy day](https://open.spotify.com/album/2QrJkHjLrPWo1PmSAkRXWh) | 3:34 | 2022-06-17 | 2022-07-01 |
 | [Jazzy Spring Latte](https://open.spotify.com/track/04C2LgeOlMKZjkstPaEOf1) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Jazzy Spring Latte](https://open.spotify.com/album/1xqHFDVB5c7FHbHyLtGmzO) | 2:30 | 2022-04-22 | 2022-11-12 |
+| [Jelly](https://open.spotify.com/track/2sfyUZruX7PjrheNYAFpxs) | [Kyra](https://open.spotify.com/artist/60wyxXFd0zi9xeX1AC4mkf) | [Jelly](https://open.spotify.com/album/7mUL90p0c1uwsUQkgjjRn2) | 1:50 | 2024-01-05 |  |
 | [Jericho Sun](https://open.spotify.com/track/4pDDvReURWfRQMrM0vSZXi) | [Neil Fonda](https://open.spotify.com/artist/5H1cu70jIQPO4nP9bjlKhp) | [Jericho Sun](https://open.spotify.com/album/5HgpaEHSoNk9HFFhMCqlH7) | 1:56 | 2022-01-27 | 2022-09-09 |
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2022-01-27 | 2022-09-03 |
 | [Jimmyrigged](https://open.spotify.com/track/1LhxgI1kAEHvARBh15ZaQi) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Moontape 15](https://open.spotify.com/album/0bhEFXg4AXlKZcTgLpJ9wX) | 1:53 | 2022-10-15 | 2023-09-22 |
@@ -963,7 +964,7 @@
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2022-01-27 | 2023-06-06 |
 | [Reasons](https://open.spotify.com/track/6UUhPwauX4nAieYExAj9FH) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Reasons](https://open.spotify.com/album/3Eiu3BJ4na9P7qkYlqDvVE) | 2:15 | 2023-01-13 | 2023-09-29 |
 | [Reassuring Drops](https://open.spotify.com/track/6itjWG7F9xrubgo84dJ0w7) | [Jes Nil](https://open.spotify.com/artist/7gF7CFdREwDpmTLIxTdz10) | [Under the Rain](https://open.spotify.com/album/0P9hF5dbQvWedEKlB2Huw2) | 1:28 | 2022-01-27 | 2022-06-10 |
-| [recline](https://open.spotify.com/track/2YnECW2yH3lvRGeMHTCqY0) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [recline](https://open.spotify.com/album/7ovMGG55n1lBsPo77s5gx3) | 2:16 | 2023-05-19 |  |
+| [recline](https://open.spotify.com/track/2YnECW2yH3lvRGeMHTCqY0) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [recline](https://open.spotify.com/album/7ovMGG55n1lBsPo77s5gx3) | 2:16 | 2023-05-19 | 2024-01-11 |
 | [Red Wine](https://open.spotify.com/track/4SoO50cOu3MFFE1kgdKro9) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Red Wine](https://open.spotify.com/album/7yUylVEJNkMmbycmOyP8yh) | 2:28 | 2022-12-09 | 2023-10-06 |
 | [Red Witch](https://open.spotify.com/track/0kaTSfOhbQdluy3cMgSXIW) | [Sloepoke](https://open.spotify.com/artist/4PA0B5xujSlQnGiTiAPb1E) | [Red Witch](https://open.spotify.com/album/4k9feeV8JYnj4hTl7oRIGQ) | 1:30 | 2022-12-09 | 2023-10-06 |
 | [Redefine](https://open.spotify.com/track/3myirb6fcmRT8eeSZV1poe) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Redefine](https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y) | 2:24 | 2022-01-27 | 2023-09-05 |

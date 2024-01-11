@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,218 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,255 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 39 | [Vegetales Con Pescado](https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Vegetales Con Pescado](https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3) | 3:02 |
 | 40 | [Olvidemos el Reloj](https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Olvidemos el Reloj](https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr) | 3:52 |
 | 41 | [Siguele](https://open.spotify.com/track/4qbHgYxL96v8ulUWlY7YVW) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Dr\. Bene](https://open.spotify.com/artist/21VgYxAlrfp0QKBgxmQE5p), [Jeff Turner Musik](https://open.spotify.com/artist/5M7sRhqfcu6miizd5uGlWj), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 4:31 |
-| 42 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 |
-| 43 | [Ni Como Amigo](https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ni Como Amigo](https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ) | 3:40 |
-| 44 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
+| 42 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
+| 43 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 |
+| 44 | [Ni Como Amigo](https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ni Como Amigo](https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ) | 3:40 |
 | 45 | [Suave](https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suave](https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv) | 3:34 |
 | 46 | [Mil Escalas](https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Mil Escalas](https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6) | 2:24 |
 | 47 | [Mis Ojos No Podían Ver \- En Vivo](https://open.spotify.com/track/3A8qwCz85Ql1Rdpp4AoZVX) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [En Vivo Desde el Plaza Condesa](https://open.spotify.com/album/7bWSpaa8JaPu7q9qmv5RnT) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Dos de Café](https://open.spotify.com/track/3J2BppVuNMkRLbfWW0qRE0) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 4:23 |
 | 50 | [Aquí Estoy Yo](https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Aquí Estoy Yo](https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW) | 4:07 |
 
-Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBiYjJiZGM3NzE5OGVkMTc4ZjIwM2NhNGVlZjY2MWQxMg==`
+Snapshot ID: `Mjg0MTQ5MTgsMDAwMDAwMDAwNGIwNTYxY2JlY2Y5Njg3MTU3MTBmNTYwZjI4OTc3Yw==`

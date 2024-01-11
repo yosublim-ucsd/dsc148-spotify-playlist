@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 128313,
+  "num_followers": 128390,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmRhZDc2MmZiMDVmYzZhY2M2NjUwMzNhNTQ1Yjk1YjJiN2ExYTVm",
+  "snapshot_id": "MCwzNDQ4MjA2OTlmMTZhZjk3NTE5ZDA2ZGU3ZTExZWU4YTY3ZTcyMjU3",
   "tracks": [
     {
       "added_at": "2023-12-29 03:01:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
-        "name": "Um Toque de Malandragem",
-        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ensinamento do Pai",
-      "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
         "name": "POKAZIDEIA",
         "url": "https://open.spotify.com/album/5JBXitOArUwgN2LQL1Ot0i"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 136334,
       "name": "POKAZIDEIA",
       "url": "https://open.spotify.com/track/7xdTUQQpYsMxgCj1LZqsaD"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
+        "name": "Um Toque de Malandragem",
+        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Ensinamento do Pai",
+      "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
     },
     {
       "added_at": "2023-12-29 03:01:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
-        "name": "Apoteose",
-        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Probleminha",
-      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 213333,
       "name": "T\u00e1 com o Papato (feat. BIN)",
       "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2023-12-29 03:01:00",

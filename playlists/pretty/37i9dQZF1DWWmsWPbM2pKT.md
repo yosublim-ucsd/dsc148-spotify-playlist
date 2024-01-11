@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,459 likes - 112 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,842 likes - 112 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 18 | [MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/5u0CMSfz7NxPrZW5IAClIf) | 1:20 |
 | 19 | [Heavens Lower](https://open.spotify.com/track/1TDJSbzuAIAFQy2K7EBm7m) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Heavens Lower](https://open.spotify.com/album/3cw8dtylOAuH9CGY98020g) | 2:57 |
 | 20 | [Boys](https://open.spotify.com/track/3mIijo7WcIfMLx1PJPHbit) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Boys](https://open.spotify.com/album/3f5a36R6YXw7ykuAKkcxkU) | 3:04 |
-| 21 | [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 |
+| 21 | [Pain](https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3) | 7:19 |
 | 22 | [How to Slow a Dream](https://open.spotify.com/track/5IQ1lVitMg6YCNAH3EgOtL) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [How to Slow a Dream](https://open.spotify.com/album/0LCWCiU903ZdIXXwaE2iTh) | 2:57 |
 | 23 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
 | 24 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 111 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 112 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCw2MWIwMDNmOTYyMDlkYTRhMDg3OWEwNWQxZDVhZTM5NjBiZmFhMWI5`
+Snapshot ID: `MCw0Zjg0NDdiMmFjZTRjYzA1NTZiYmMyZDE1N2Y5Mjk4YzBhNzFhMGI2`

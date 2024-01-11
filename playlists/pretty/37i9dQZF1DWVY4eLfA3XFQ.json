@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Odd Mob",
-  "num_followers": 604166,
+  "num_followers": 604203,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmZhYjY1NGE5Y2FjN2RlNzJkYTAwMGEwZTFlZTAwODVmZjRmMjhm",
+  "snapshot_id": "MCw1OTAyYjFmOGUwNGI0ZDgxMGJhZTFjYjY5YWYxNjVjNGRjMDNjZTI3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Freddie's Warmup",
+        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
+      },
+      "artists": [
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Freddie's Warmup",
+      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/1LStsedQUVmTDXp9xGVMyp"
       },
@@ -1567,34 +1583,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Freddie's Warmup",
-        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
+        "name": "LOVE DESIRE",
+        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
       },
       "artists": [
         {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
         }
       ],
-      "duration_ms": 120930,
-      "name": "Freddie's Warmup",
-      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Acid (All Night Long)",
-        "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 153690,
-      "name": "Acid (All Night Long)",
-      "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
+      "duration_ms": 171428,
+      "name": "LOVE DESIRE",
+      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "LOVE DESIRE",
-        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
+        "name": "Acid (All Night Long)",
+        "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
       },
       "artists": [
         {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 171428,
-      "name": "LOVE DESIRE",
-      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
+      "duration_ms": 153690,
+      "name": "Acid (All Night Long)",
+      "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1711,6 +1711,38 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "The Function",
+        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 192848,
+      "name": "The Function",
+      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "What You Need/Stimulate",
+        "url": "https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 173238,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "LALALA",
         "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
       },
@@ -1735,38 +1767,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "What You Need/Stimulate",
-        "url": "https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 173238,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Function",
-        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 192848,
-      "name": "The Function",
-      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Do You Feel It",
         "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
       },
@@ -1779,6 +1779,22 @@
       "duration_ms": 186625,
       "name": "Do You Feel It",
       "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Aisha",
+        "url": "https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Aisha",
+      "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1803,22 +1819,6 @@
       "duration_ms": 204000,
       "name": "Sinister - Axwell Mi Amor Remode",
       "url": "https://open.spotify.com/track/6B32LMOLTNb3FLW46lhIaU"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Aisha",
-        "url": "https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Aisha",
-      "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1933,26 +1933,6 @@
       "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Space Bump",
-        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        },
-        {
-          "name": "Deeft",
-          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
-        }
-      ],
-      "duration_ms": 167004,
-      "name": "Space Bump",
-      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "No Big Deal \u2013 Part 1",
@@ -1971,6 +1951,26 @@
       "duration_ms": 182325,
       "name": "Let's Live It Up",
       "url": "https://open.spotify.com/track/24n7rjOS6a9j6fcD5UHGuq"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Space Bump",
+        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+        }
+      ],
+      "duration_ms": 167004,
+      "name": "Space Bump",
+      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Bring The Noise / Stutter",
-        "url": "https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "Rave Rae",
-          "url": "https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Valodja (Kryder Remix)",
         "url": "https://open.spotify.com/album/6slfAHmFXzRaUVUDxcbi7p"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 170170,
       "name": "Valodja (Kryder Remix)",
       "url": "https://open.spotify.com/track/4D2PtwM3U40QFFBA62I49P"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Bring The Noise / Stutter",
+        "url": "https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Rave Rae",
+          "url": "https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
     },
     {
       "added_at": "2023-10-27 04:01:00",

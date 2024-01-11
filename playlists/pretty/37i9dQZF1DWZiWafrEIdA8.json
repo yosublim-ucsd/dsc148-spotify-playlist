@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9386,
+  "num_followers": 9384,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTVmMGM1YjcwNWI0MzdjNjFjMzM4ZDc1MmU2ZmUwY2M3NDkyMzRm",
+  "snapshot_id": "MCxjZGMwYzMyMWM2NTU2ZWZiM2JmNmY4MWY4ZGVjN2MxNjg5ZDk3NzAx",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Show Me the Money 8 Episode 4",
-        "url": "https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 228607,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 212200,
       "name": "23 (Feat. SAM KIM)",
       "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Show Me the Money 8 Episode 4",
+        "url": "https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 228607,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
     },
     {
       "added_at": "2024-01-08 08:25:31",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Los Bendecidos en portada. ",
-  "num_followers": 12505,
+  "num_followers": 12510,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTk5NmYyZjZkYWJhNzNhYTUxOWRkZjcyZTFiNmU4MTEyZDM2YTdm",
+  "snapshot_id": "MCw4MmM2NDAzZDdkOGY3NGE2NjA1NDY4NmQzODAxM2YxNzlmZmQ4M2Ix",
   "tracks": [
     {
       "added_at": "2024-01-05 06:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "SUCIO",
-        "url": "https://open.spotify.com/album/79koG2MiYXk3fsceB8Oh0W"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 261677,
-      "name": "SUCIO",
-      "url": "https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 179142,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "SUCIO",
+        "url": "https://open.spotify.com/album/79koG2MiYXk3fsceB8Oh0W"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 261677,
+      "name": "SUCIO",
+      "url": "https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Gloriax",
-        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "Knak",
-          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
-        },
-        {
-          "name": "Tadu V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gloriax",
-      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "La Gracia De Dios",
         "url": "https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv"
       },
@@ -1331,22 +1307,26 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/70zZ6rm69iuY1UK7RDMuLG"
+        "name": "Gloriax",
+        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
       },
       "artists": [
         {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
         },
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
         }
       ],
-      "duration_ms": 178314,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/1Htp7oEYtmf3Ot5z8zryf5"
+      "duration_ms": 206000,
+      "name": "Gloriax",
+      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1371,6 +1351,26 @@
       "duration_ms": 172925,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/70zZ6rm69iuY1UK7RDMuLG"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 178314,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/1Htp7oEYtmf3Ot5z8zryf5"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Desde Peque\u00f1o",
-        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
-      },
-      "artists": [
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Desde Peque\u00f1o",
-      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "antes que sea tarde",
         "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
@@ -1443,22 +1423,6 @@
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Mala Racha",
-        "url": "https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Mala Racha",
-      "url": "https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1487,18 +1451,38 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "El 17",
-        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+        "name": "Desde Peque\u00f1o",
+        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
       },
       "artists": [
         {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         }
       ],
-      "duration_ms": 165168,
-      "name": "El Canton Norte",
-      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
+      "duration_ms": 219000,
+      "name": "Desde Peque\u00f1o",
+      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1519,22 +1503,18 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Booty Bang Bang",
-        "url": "https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87"
+        "name": "El 17",
+        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
       },
       "artists": [
         {
-          "name": "ILUMINATIK BUFFON",
-          "url": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
         }
       ],
-      "duration_ms": 188232,
-      "name": "Booty Bang Bang",
-      "url": "https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh"
+      "duration_ms": 165168,
+      "name": "El Canton Norte",
+      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1555,6 +1535,26 @@
       "duration_ms": 256049,
       "name": "El Callej\u00f3n",
       "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Booty Bang Bang",
+        "url": "https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87"
+      },
+      "artists": [
+        {
+          "name": "ILUMINATIK BUFFON",
+          "url": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 188232,
+      "name": "Booty Bang Bang",
+      "url": "https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "VICE CITY",
-        "url": "https://open.spotify.com/album/6viR5WVsPcynrX5HzbMnCM"
-      },
-      "artists": [
-        {
-          "name": "Crazy Point",
-          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
-        }
-      ],
-      "duration_ms": 208968,
-      "name": "VICE CITY",
-      "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2"
-      },
-      "artists": [
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/2AocneguErlK5cs3OrmZXb"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "Bendici\u00f3n o Desgracia",
         "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
       },
@@ -1643,6 +1611,38 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2"
+      },
+      "artists": [
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/2AocneguErlK5cs3OrmZXb"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "VICE CITY",
+        "url": "https://open.spotify.com/album/6viR5WVsPcynrX5HzbMnCM"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "duration_ms": 208968,
+      "name": "VICE CITY",
+      "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
         "name": "Perdido",
         "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 242419,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Cumbia Guanajuato",
-        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
-      },
-      "artists": [
-        {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
-        }
-      ],
-      "duration_ms": 339692,
-      "name": "Cumbia Guanajuato",
-      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 219512,
       "name": "BARRA",
       "url": "https://open.spotify.com/track/5YsPLqZshBiKDzhOotNPqh"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Cumbia Guanajuato",
+        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "duration_ms": 339692,
+      "name": "Cumbia Guanajuato",
+      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
+        "name": "M\u00e1s de Ti",
+        "url": "https://open.spotify.com/album/72ct55HUoVEWCeWpogQHeT"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Soler The Lion",
+          "url": "https://open.spotify.com/artist/4psgvAd92BNyBOwv3Am4cg"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "M\u00e1s de Ti",
+      "url": "https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
         "name": "Serenata En La Monta\u00f1a (feat. DeeJohend)",
         "url": "https://open.spotify.com/album/7akWMnlEc6ESIahULbAx5M"
       },
@@ -1843,26 +1863,6 @@
       "duration_ms": 187150,
       "name": "Serenata En La Monta\u00f1a (feat. DeeJohend)",
       "url": "https://open.spotify.com/track/4vvg7VZChBIm5D2yBAmaeI"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "M\u00e1s de Ti",
-        "url": "https://open.spotify.com/album/72ct55HUoVEWCeWpogQHeT"
-      },
-      "artists": [
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        },
-        {
-          "name": "Soler The Lion",
-          "url": "https://open.spotify.com/artist/4psgvAd92BNyBOwv3Am4cg"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "M\u00e1s de Ti",
-      "url": "https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb"
     },
     {
       "added_at": "2024-01-05 06:00:00",

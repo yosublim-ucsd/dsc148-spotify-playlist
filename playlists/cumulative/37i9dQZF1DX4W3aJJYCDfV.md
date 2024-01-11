@@ -4,7 +4,7 @@
 
 > Brand new music from Bring Me The Horizon \(pictured\), Lewis Capaldi, The Last Dinner Party and more!
 
-7,962 songs - 17 day 23 hr 10 min
+7,963 songs - 17 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2956,7 +2956,8 @@
 | [Heavenly War](https://open.spotify.com/track/77fXe8RSOonsyMIQgQsvTf) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM) | [Heavenly War](https://open.spotify.com/album/0hsmR0gPyuvpgdTUvIyZbK) | 2:04 | 2023-08-10 | 2023-08-18 |
 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-15 | 2023-06-23 |
 | [Heavy](https://open.spotify.com/track/2bbNjtgjr0ZOaPK7SOcVbV) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Heavy](https://open.spotify.com/album/6AhdoMFKBYnTZxvOEbZ3O4) | 3:23 | 2022-11-11 | 2022-11-18 |
-| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 | 2024-01-11 |
 | [Heavy Heat](https://open.spotify.com/track/0DAobIglQNN9kGO0Im21ia) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Heavy Heat](https://open.spotify.com/album/2NSLSvBHrwq34D2N5Lkey7) | 6:58 | 2023-05-04 | 2023-05-12 |
 | [Heavy Water](https://open.spotify.com/track/2P9tjYkkDbL57YtIY4bIAg) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Heavy Water](https://open.spotify.com/album/26l8joRhnKZEvDqhfqWvOx) | 3:56 | 2023-05-04 | 2023-05-12 |
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2023-01-27 | 2023-02-03 |

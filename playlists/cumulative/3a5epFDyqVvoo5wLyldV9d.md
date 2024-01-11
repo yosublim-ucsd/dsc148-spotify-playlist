@@ -4,7 +4,7 @@
 
 > 
 
-728 songs - 2 day 8 hr 30 min
+729 songs - 2 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Nós Criola](https://open.spotify.com/track/58nqV24NBNZZWO0RYvHPFQ) | [Nhú de Ped'Bia](https://open.spotify.com/artist/1Trb4AaE9cDc52GxvJVeVU) | [Synthesize the Soul: Astro\-Atlantic Hypnotica from the Cape Verde Islands 1973 \- 1988](https://open.spotify.com/album/6CKsf8Mij4FW0Yio5RLEsh) | 5:15 | 2023-02-19 |  |
 | [Não Adianta](https://open.spotify.com/track/7rud54XCjLv3AQbaUAtxU1) | [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Trio Mocoto](https://open.spotify.com/album/54jgQWkGJXWZTWuJ27h3HX) | 4:07 | 2019-12-15 |  |
 | [Não Enche](https://open.spotify.com/track/2ZMUCD2n1KMmJLvelormrk) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Livro](https://open.spotify.com/album/1rM3VwKP0xWbkfD6ssVHEd) | 3:30 | 2022-09-14 |  |
+| [Não Me Deixe Só](https://open.spotify.com/track/2ukW9zOr51AYeLSmCtTVqW) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vanessa da Mata](https://open.spotify.com/album/0nJlVbn9dl3amtTFETNX8j) | 3:09 | 2024-01-11 |  |
 | [Não Tem Nada Não](https://open.spotify.com/track/3G24z9DAK3At3N7HRkN3OX) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Box Marcos Valle](https://open.spotify.com/album/7sQjphDnPcNmTdnaHrv7ns) | 3:11 | 2021-01-21 |  |
 | [Não Vou Chorar](https://open.spotify.com/track/53UAWG7sBi6YhQKaxXJspS) | [Os Diagonais](https://open.spotify.com/artist/631Axvs8RTgglKNacgkQ5w) | [Cada Um Na Sua](https://open.spotify.com/album/5Qyb6850mSnxAZ99W0wmzW) | 2:30 | 2022-01-27 |  |
 | [Não Vá](https://open.spotify.com/track/6d4KqeYESkFHMirUgE1Aa3) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1980](https://open.spotify.com/album/6Wsh96wuXlhbQYFUgn6ar1) | 5:07 | 2021-12-04 |  |

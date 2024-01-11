@@ -4,7 +4,7 @@
 
 > New music from Tiësto & FAST BOY, Shubh, Jhené Aiko, Zeina and more.
 
-10,240 songs - 22 day 16 hr 49 min
+10,241 songs - 22 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2445,7 +2445,7 @@
 | [Down the Line](https://open.spotify.com/track/6iT1KZQ4MrZaoTaWZKYsWf) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Down the Line](https://open.spotify.com/album/5RCgCKMn3zLbWxoEqpl2Im) | 3:00 | 2023-11-03 | 2023-11-11 |
 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 | 2022-12-02 | 2022-12-10 |
 | [Down With Me](https://open.spotify.com/track/1poa3266sVq4mnVbgocKda) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Down With Me](https://open.spotify.com/album/3j95Z60Qiu2cyDQaRQWmu5) | 3:12 | 2023-02-17 | 2023-02-25 |
-| [Down With Me](https://open.spotify.com/track/2iVfe5kY149mbTMX92Urb4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/2EhFeUrerhWKDzfLx1jgba) | 2:00 | 2024-01-05 |  |
+| [Down With Me](https://open.spotify.com/track/2iVfe5kY149mbTMX92Urb4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/2EhFeUrerhWKDzfLx1jgba) | 2:00 | 2024-01-05 | 2024-01-11 |
 | [Downer](https://open.spotify.com/track/2XAGYETrWGCpRwodiVEYF5) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real \(Deluxe Edition\)](https://open.spotify.com/album/6aEUbBXcwpWpdQ28HUotPr) | 3:24 | 2023-02-10 | 2023-02-18 |
 | [DOWNFALL](https://open.spotify.com/track/57J5vAPypiMzlVzEc0VztW) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [DOWNFALL](https://open.spotify.com/album/6XDbO6OROyObsIVP0geQqU) | 2:14 | 2023-06-16 | 2023-06-24 |
 | [Dr\. Phil](https://open.spotify.com/track/0IbkxQrPHSWMpKzLXJmIgZ) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/3uYGwz0SDYcgE6NkHojO8Q) | 2:38 | 2022-08-26 | 2022-09-03 |
@@ -3761,7 +3761,8 @@
 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-16 | 2023-06-24 |
 | [HEAVY](https://open.spotify.com/track/7gLBmiTRzVqJ9curo0dj1N) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [HEAVY](https://open.spotify.com/album/1aUbkV0ro5B4f2HJMd2FMY) | 2:57 | 2022-06-17 | 2022-06-25 |
 | [Heavy](https://open.spotify.com/track/6j1TragEt7uh17933xPFxe) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/5i3uICWTYQabTzcRlvZRss) | 3:07 | 2022-09-16 | 2022-09-24 |
-| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-05 |  |
+| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-05 | 2024-01-11 |
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-03-18 | 2022-03-26 |
 | [Heavy Eyes](https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:10 | 2022-05-20 | 2022-05-28 |
 | [Heavy Heart](https://open.spotify.com/track/4w2Cq9QgAezkfDnkxiClN2) | [Redlight King](https://open.spotify.com/artist/6hha7AM7ao3kNpN0VwOXgD) | [Heavy Heart](https://open.spotify.com/album/65v5v9HPt26oJ5qLgnifQG) | 3:30 | 2022-12-16 | 2022-12-24 |

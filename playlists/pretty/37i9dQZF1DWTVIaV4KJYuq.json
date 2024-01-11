@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 688690,
+  "num_followers": 688013,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTllM2E2Yzg5ZTNhYWFhZDQ4MzJkMzcwOWFiMTQyMTNiMzhmOTU2",
+  "snapshot_id": "MCxhMzE5MzRiZDUwMmZhZTg0OGZjZDJmYzFlODE1NzQwYTUwMzRiY2E5",
   "tracks": [
     {
       "added_at": "2024-01-09 15:49:37",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
         "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 241960,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Sunday Night Sessions",
-        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 284971,
-      "name": "Hotel California (Cover)",
-      "url": "https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Between the Bars",
-        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+        "name": "Sunday Night Sessions",
+        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+      "duration_ms": 284971,
+      "name": "Hotel California (Cover)",
+      "url": "https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -779,6 +763,22 @@
       "duration_ms": 141653,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Between the Bars",
+        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "The Essential The Chicks",
-        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 219960,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "The Essential The Chicks",
+        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "Recycled Recipes",
         "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 215843,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 308756,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Into The Mystic",
         "url": "https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 168354,
       "name": "Into The Mystic",
       "url": "https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Judah & The Lion (Live)",
-        "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "I Won't Back Down - Live",
-      "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 207240,
       "name": "What's up",
       "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Judah & The Lion (Live)",
+        "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "I Won't Back Down - Live",
+      "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 206508,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "Ben Folds Live",
         "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 206508,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
+      "duration_ms": 215146,
+      "name": "What's Going On - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1695,22 +1711,6 @@
       "duration_ms": 228099,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "What's Going On - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
     },
     {
       "added_at": "2024-01-09 15:49:37",

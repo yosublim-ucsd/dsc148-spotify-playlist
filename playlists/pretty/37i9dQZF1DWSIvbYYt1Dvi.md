@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > leall é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,726 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,054 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Antes do baile](https://open.spotify.com/track/4siwpjEBypNdJzlaf4zZGv) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Antes do baile](https://open.spotify.com/album/3Spa7un8tuyjiHOpAB4pPZ) | 2:18 |
 | 50 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 
-Snapshot ID: `MCxlMDNhMzM3MGUyYjllOWFmNjA3MWQ4YTJlMTg3MTI3NmZkM2Y5MTA0`
+Snapshot ID: `MCw4NjkwYWFhZTI5MGJmNjY4OTJhM2FiMTc2NWI5MTQ3NGRhMGE2ZjJl`

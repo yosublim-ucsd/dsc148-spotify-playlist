@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: FLEMMING, Zoë Tauran en Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,482 likes - 54 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,400 likes - 54 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 12 | [hard enough to stay alive](https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:33 |
 | 13 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 |
 | 14 | [Funny \(feat\. Eirik Næss\)](https://open.spotify.com/track/176rZ7Dhry4GPD9NkqfZTk) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Funny](https://open.spotify.com/album/2tzCwxCq5ZBiOtEYjtGA7S) | 2:47 |
-| 15 | [Struggles](https://open.spotify.com/track/4MQ7KjKufQ8modSQkfm4mr) | [Miggs De Bruin](https://open.spotify.com/artist/7oElmOrWzDyETHeUuqCsjp), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Struggles](https://open.spotify.com/album/3bR48LYK6AaeO5UOCdp3cO) | 3:12 |
+| 15 | [Struggles](https://open.spotify.com/track/4MQ7KjKufQ8modSQkfm4mr) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Struggles](https://open.spotify.com/album/3bR48LYK6AaeO5UOCdp3cO) | 3:12 |
 | 16 | [Natalie](https://open.spotify.com/track/3axvKVVUSPSZ45ccjEF7MD) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Natalie](https://open.spotify.com/album/4TuCf4bW5jxNuk47vkXESC) | 3:49 |
 | 17 | [Dizzy](https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [LOUI LANE](https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN) | [Dizzy](https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk) | 2:27 |
 | 18 | [Good Intentions](https://open.spotify.com/track/29CGhjmcFBSC7D2zOwBNB5) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Good Intentions](https://open.spotify.com/album/3oEnNyKuyAZuKYoEAoX6YV) | 2:36 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 53 | [blind](https://open.spotify.com/track/5WolW1L8KiJRC0olcL0p7k) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [blind](https://open.spotify.com/album/7mCJmmoMFsEOngEZU39DT1) | 3:02 |
 | 54 | [Wie We Waren](https://open.spotify.com/track/1950JK2ivjyeSuHEXbWqFb) | [Martijn Hoogland](https://open.spotify.com/artist/74CgEOYtR1kRiPXHfzFzFk) | [Wie We Waren](https://open.spotify.com/album/3FelKk60AECGisXu9vuV5l) | 4:00 |
 
-Snapshot ID: `MCwxYzIyNTY0YjFlMmE0ZDYyZjMzNWYzZjczMTIwMDdiOWE2Yzg0ZGQ4`
+Snapshot ID: `MCxhZWFjYTg3MzY3ZDgxZDMwZTQ3OTI5NGE0ZjdjNWQ0NzRkY2UxNGQ5`

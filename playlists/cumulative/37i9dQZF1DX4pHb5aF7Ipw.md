@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover:  Sikander Kahlon
 
-84 songs - 4 hr 9 min
+85 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2023-03-18 |  |
 | [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 | 2023-05-26 |  |
 | [Mere Yaar](https://open.spotify.com/track/4WGB2CIMUlIUKmNTA3cDm1) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Mere Yaar](https://open.spotify.com/album/3lzNDSREtv2HpZ0vqnVYHG) | 4:00 | 2023-10-20 | 2023-10-27 |
-| [Messiah](https://open.spotify.com/track/1flBeSEMyqnJvY3olfBS6i) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [Messiah](https://open.spotify.com/album/6Dw5vjF9XOoR7SdfDRajiY) | 2:17 | 2023-11-24 |  |
+| [Messiah](https://open.spotify.com/track/1flBeSEMyqnJvY3olfBS6i) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [Messiah](https://open.spotify.com/album/6Dw5vjF9XOoR7SdfDRajiY) | 2:17 | 2023-11-24 | 2024-01-11 |
 | [Mic Naal](https://open.spotify.com/track/1SLyCkYNyrG97uxhoTBmJa) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [H$](https://open.spotify.com/artist/6BX0k14TnSKrto2FyXiakW) | [Mic Naal](https://open.spotify.com/album/3HHbnXG28SluMAf6vg1rYO) | 2:56 | 2023-05-09 |  |
 | [Midnight Mob](https://open.spotify.com/track/6phxf8uhi3eQ0EGefpTeTA) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Jagga](https://open.spotify.com/artist/6eRi6fEqY6bxzFN2iNPSwz), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Midnight Mob](https://open.spotify.com/album/5ysc3i4fJbBo9hPivlXslV) | 3:22 | 2023-03-18 | 2023-10-12 |
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-18 | 2023-12-15 |
@@ -87,6 +87,7 @@
 | [To The Warrior](https://open.spotify.com/track/1PKw4Fu5uMCPg16fELm9Iw) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Jxgga](https://open.spotify.com/artist/5veJyCRf8zRVcbfctEBoNA) | [To The Warrior](https://open.spotify.com/album/3reOnoEISEFMSSkMBfvWFR) | 3:02 | 2023-03-18 | 2023-04-27 |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-18 |  |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-03-18 |  |
+| [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 | 2024-01-10 |  |
 | [Untouchable](https://open.spotify.com/track/4I9wK83Gy9uxiHGZ7gvOhI) | [Arsh Sandhu](https://open.spotify.com/artist/5hMRZnYzYhkXvdcEdJMfD2), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Untouchable](https://open.spotify.com/album/7DZlyrBQdJeuR3hEDBm1mb) | 2:21 | 2023-03-18 |  |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-18 | 2023-05-27 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 |  |

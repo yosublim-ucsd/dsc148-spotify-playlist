@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:4u2tnfiRrpWOEdC14Vg6d8">Bobbi Storm</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,528 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,629 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCw4YTI3MjQyNGViYmQ2NDgzZjA4NTk5YWUyNjY5M2M3ZmQwNmIyYTlj`
+Snapshot ID: `MCw5MGI4YzA5NTEwYjdmMDAyNjUyZTdlNTNjZjIzMjM2OTFkZjhjYTk0`

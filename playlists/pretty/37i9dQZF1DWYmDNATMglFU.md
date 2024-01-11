@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. Lauran Hibberd & Alex Gaskarth
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,230 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,203 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [Changes](https://open.spotify.com/track/7eoZz7VZAVUhRsAwLh6Jbm) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:30 |
 | 80 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 |
 
-Snapshot ID: `MCwzOTc2NjI3ODYwNDI4YmExMDVjYTUzNjcxZWEzNWY0YTU2YmIzY2M2`
+Snapshot ID: `MCwzZjliNGFiMjA2Y2U2ZWI0OGUwNzc5Yzg2M2ZkODdhZTk1ZWM4NDAx`

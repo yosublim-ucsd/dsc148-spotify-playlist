@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,717 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,694 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 11 | [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 |
 | 12 | [N.E.X.T.](https://open.spotify.com/track/345qiMdQHKT6V4S0AKK1TW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [N.E.X.T.](https://open.spotify.com/album/3oF9aJrGYphxIZ2JYa6cHa) | 4:47 |
 | 13 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
-| 14 | [LEVEL UP](https://open.spotify.com/track/1Hmfd8Uql1SPOXupKJOR68) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [LEVEL UP](https://open.spotify.com/album/2f9fjhTy7BTq9GsMgooacc) | 2:34 |
+| 14 | [Okie Dokie!](https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:33 |
 | 15 | [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 |
 | 16 | [DOMINO \(JO1 ver.\)](https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [DOMINO \(JO1 ver.\)](https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs) | 3:27 |
 | 17 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 21 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 |
 | 22 | [Peppermint Yum](https://open.spotify.com/track/0KQ72rfmW02tMsipMs7xrU) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Peppermint Yum](https://open.spotify.com/album/16R9nHpSohQdu9oSbCUMxn) | 3:00 |
 | 23 | [ダイヤモンドリリー](https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [ダイヤモンドリリー](https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b) | 3:03 |
-| 24 | [Okie Dokie!](https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:33 |
+| 24 | [LEVEL UP](https://open.spotify.com/track/1Hmfd8Uql1SPOXupKJOR68) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [LEVEL UP](https://open.spotify.com/album/2f9fjhTy7BTq9GsMgooacc) | 2:34 |
 | 25 | [Carnival](https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Carnival](https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q) | 2:49 |
 | 26 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 |
 | 27 | [FIRE feat\. SPRITE](https://open.spotify.com/track/2JS7GVyUaxLFFetF3YWfc8) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [FIRE feat\. SPRITE](https://open.spotify.com/album/0zysbDsgljdkU8cW7RYoen) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 49 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 |
 | 50 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 |
 
-Snapshot ID: `MCwxNDk0Mzk5NmQ3MjkxZjllNzE5ZmFhM2MzNDQ2OTMzOWM0YmYzODZh`
+Snapshot ID: `MCw0ZjJjNWQ3ZDQ2M2FlZjAyNDNmYTVhNjAxOWY3MjQwN2QxMTFmYzYw`

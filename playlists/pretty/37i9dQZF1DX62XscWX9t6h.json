@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 168175,
+  "num_followers": 168313,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTBjYWNkMDMwMGUwODZiYWRkZmVhZmI2NDcxMTg0ODFlYmUyNjg3",
+  "snapshot_id": "MCxiMzAwODA4ODA4ZDEyMzczNTgxMmNkZWJlNGU2Y2Q2MDUzNzdiMzNi",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Stone by Stone",
         "url": "https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 230986,
       "name": "Rio Grande",
       "url": "https://open.spotify.com/track/174aZteQew30wcq8sPzlW6"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg"
     },
     {
       "added_at": "2023-12-12 21:18:55",
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 298969,
       "name": "Chismiten",
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
       "added_at": "2022-09-15 12:52:37",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Amidinine",
-      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Bayti Fi Rasi",
         "url": "https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 251319,
       "name": "Hana Mash Hu Al Yaman",
       "url": "https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Zerzura (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
-      },
-      "artists": [
-        {
-          "name": "Ahmoudou Madassane",
-          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Akaline Akaline",
-      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Ilana (The Creator)",
         "url": "https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 447083,
       "name": "Tarhatazed",
       "url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Zerzura (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+      },
+      "artists": [
+        {
+          "name": "Ahmoudou Madassane",
+          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Akaline Akaline",
+      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
     },
     {
       "added_at": "2022-02-23 18:02:26",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Grandeza",
-        "url": "https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn"
-      },
-      "artists": [
-        {
-          "name": "Sessa",
-          "url": "https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ"
-        }
-      ],
-      "duration_ms": 214787,
-      "name": "Flor do Real",
-      "url": "https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -1325,20 +1309,20 @@
       "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
     },
     {
-      "added_at": "2022-04-06 01:47:33",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "\u015einanay / French Disko (Lagniappe Session)",
-        "url": "https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH"
+        "name": "Grandeza",
+        "url": "https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn"
       },
       "artists": [
         {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+          "name": "Sessa",
+          "url": "https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ"
         }
       ],
-      "duration_ms": 236578,
-      "name": "\u015einanay",
-      "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
+      "duration_ms": 214787,
+      "name": "Flor do Real",
+      "url": "https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1359,6 +1343,22 @@
       "duration_ms": 319653,
       "name": "Tittle Tattle",
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
+    },
+    {
+      "added_at": "2022-04-06 01:47:33",
+      "album": {
+        "name": "\u015einanay / French Disko (Lagniappe Session)",
+        "url": "https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 236578,
+      "name": "\u015einanay",
+      "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
     },
     {
-      "added_at": "2023-04-14 00:27:25",
-      "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
-      },
-      "artists": [
-        {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Natura Morta",
@@ -1429,20 +1413,20 @@
       "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
     },
     {
-      "added_at": "2023-09-25 02:48:36",
+      "added_at": "2023-04-14 00:27:25",
       "album": {
-        "name": "Love Buzz",
-        "url": "https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC"
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
       },
       "artists": [
         {
-          "name": "Gaye Su Akyol",
-          "url": "https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ"
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
         }
       ],
-      "duration_ms": 262079,
-      "name": "Love Buzz",
-      "url": "https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i"
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "added_at": "2022-03-28 18:17:41",
@@ -1463,6 +1447,22 @@
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
+    },
+    {
+      "added_at": "2023-09-25 02:48:36",
+      "album": {
+        "name": "Love Buzz",
+        "url": "https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC"
+      },
+      "artists": [
+        {
+          "name": "Gaye Su Akyol",
+          "url": "https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i"
     },
     {
       "added_at": "2022-02-18 03:47:28",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Yol",
-        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 258315,
-      "name": "Y\u00fcce Dag Basinda",
-      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "\u0434\u043b\u044f FOR",
         "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 96923,
       "name": "\u0434\u0432a TWO",
       "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 258315,
+      "name": "Y\u00fcce Dag Basinda",
+      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
     },
     {
       "added_at": "2023-04-13 23:05:11",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
     },
     {
-      "added_at": "2023-06-07 04:01:30",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Optimisme",
@@ -1679,6 +1663,22 @@
       "duration_ms": 185160,
       "name": "Worry",
       "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
+    },
+    {
+      "added_at": "2023-06-07 04:01:30",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2022-01-12 17:26:22",
@@ -1697,20 +1697,24 @@
       "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
     },
     {
-      "added_at": "2023-03-31 19:02:24",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "A\u015fk",
-        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
+        "name": "Global Control / Invisible Invasion",
+        "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
       },
       "artists": [
         {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+          "name": "Ammar 808",
+          "url": "https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM"
+        },
+        {
+          "name": "Susha",
+          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
         }
       ],
-      "duration_ms": 220142,
-      "name": "Rak\u0131ya Su Katamam",
-      "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
+      "duration_ms": 212946,
+      "name": "Geeta duniki",
+      "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
     }
   ],
   "unique_name": "Folk Fabrique",

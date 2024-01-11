@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-695 songs - 1 day 6 hr 10 min
+696 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-21 | 2023-02-23 |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-21 | 2022-07-21 |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-04-21 | 2023-01-21 |
-| [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2022-04-21 | 2024-01-08 |
+| [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2022-04-21 |  |
 | [Affirmation](https://open.spotify.com/track/7Gie6qk5O2nBNUAxKmtkGy) | [Kristen Nichols](https://open.spotify.com/artist/7lxr3DfadWQ1MaeNEaqAjk) | [Affirmation](https://open.spotify.com/album/5XOgOWjtMtRUaNeKxdDEgm) | 2:03 | 2022-07-20 | 2022-08-10 |
 | [After Rain](https://open.spotify.com/track/5kTBk5GGD3zIX6DpLhCGbD) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [After Rain](https://open.spotify.com/album/4uFE05K0C5Ziv6D5lrW0Vp) | 4:03 | 2022-04-21 | 2022-08-10 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-21 | 2023-07-04 |
@@ -35,6 +35,7 @@
 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 | 2022-04-21 | 2023-05-04 |
 | [Amžinai](https://open.spotify.com/track/2GhP0T49fLFO6FfGLl7TC2) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Amžinai](https://open.spotify.com/album/5iobYRYPuGTOSQMgzXaqpc) | 2:04 | 2022-04-21 | 2022-08-10 |
 | [An Ocean Of Memories](https://open.spotify.com/track/1AlgXoj042cGzdQ2SybcSk) | [Maddison Howells](https://open.spotify.com/artist/2IC6rSlT5Gmdqf3yiMIzzl) | [An Ocean Of Memories](https://open.spotify.com/album/0d07WU02I7aOlBnviJkeFe) | 2:53 | 2022-04-21 | 2022-09-24 |
+| [And Flies Away](https://open.spotify.com/track/1uHXO9BZxxT0HHBwCwWRQ2) | [Luna](https://open.spotify.com/artist/5Lq80tyGV6FmKgN34FKN30) | [And Flies Away](https://open.spotify.com/album/00JtUOjMhbV7Ya6tufF7kI) | 3:09 | 2024-01-05 |  |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-04-21 | 2023-05-04 |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-07-03 |  |
 | [Anyone Who Has a Heart](https://open.spotify.com/track/1U4lyaeTIHhecWMyry66xk) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Anyone Who Has a Heart](https://open.spotify.com/album/4KCGwoguck5YjGbbt2LbX8) | 2:38 | 2022-04-21 | 2022-09-24 |
@@ -128,7 +129,7 @@
 | [diamond star](https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [midnight dreams & diamond star](https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF) | 2:40 | 2022-08-09 | 2023-01-21 |
 | [Die Spieluhr](https://open.spotify.com/track/5nhgTDW8J5y8ZsoVm58hGv) | [Sebastian Brehm](https://open.spotify.com/artist/2nateaCtBWxcGrxgNPPjoX) | [Die Spieluhr](https://open.spotify.com/album/4LeNmjBqKBkNNSlUT10knC) | 2:39 | 2022-04-21 | 2022-09-24 |
 | [die zeit läuft ab](https://open.spotify.com/track/3SbBK3NdAK2t1DdoAz9XkH) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 3:03 | 2022-04-21 | 2022-09-24 |
-| [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-04-21 |  |
+| [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-04-21 | 2024-01-11 |
 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 | 2022-08-09 |  |
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-04-21 | 2023-07-04 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-21 |  |
@@ -525,7 +526,7 @@
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-21 | 2023-07-04 |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-18 |  |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2022-04-21 | 2022-07-21 |
-| [Shapes of Shadows](https://open.spotify.com/track/2UxUFKb6Fo7zxrjQVNXEGz) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Shapes of Shadows](https://open.spotify.com/album/0qxvEI2Shp9ezZIzth2Jpg) | 3:26 | 2022-07-20 |  |
+| [Shapes of Shadows](https://open.spotify.com/track/2UxUFKb6Fo7zxrjQVNXEGz) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Shapes of Shadows](https://open.spotify.com/album/0qxvEI2Shp9ezZIzth2Jpg) | 3:26 | 2022-07-20 | 2024-01-11 |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-21 | 2023-08-15 |
 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 | 2022-04-21 | 2023-05-04 |
 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 | 2022-04-21 | 2022-07-21 |

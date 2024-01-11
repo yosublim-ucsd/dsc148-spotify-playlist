@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-701 songs - 1 day 7 hr 26 min
+702 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Focused](https://open.spotify.com/track/4mOPtlru2v8bz73iIblJtx) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU) | [Focused](https://open.spotify.com/album/0on7B8tzhDPY7iZhAdQzrh) | 3:48 | 2022-07-21 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/0yqBPILqRFi1yE7ci9o3vV) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/6LtosFxYlXKsLfN3PSWUd3) | 2:38 | 2022-02-10 | 2022-07-28 |
 | [fog morning](https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs) | 2:38 | 2022-07-28 |  |
-| [forest spirit](https://open.spotify.com/track/7pwsTQrw6Qtcv9FGyIVEPu) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [forest spirit](https://open.spotify.com/album/5xlc5btX8TPjfij55Ll9qb) | 2:18 | 2023-11-30 |  |
+| [forest spirit](https://open.spotify.com/track/7pwsTQrw6Qtcv9FGyIVEPu) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [forest spirit](https://open.spotify.com/album/5xlc5btX8TPjfij55Ll9qb) | 2:18 | 2023-11-30 | 2024-01-11 |
 | [fortitude](https://open.spotify.com/track/5JLAvVe385Xt7i3PIqAqRu) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [fortitude](https://open.spotify.com/album/38LWDsfLVzomKtlOnBBBu5) | 1:32 | 2022-01-13 | 2022-07-09 |
 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 | 2022-07-14 |  |
 | [friday](https://open.spotify.com/track/1m095EDPerZmmxh2hiWbmb) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [friday](https://open.spotify.com/album/5AKOB83tfVe0V3RFKeq97N) | 3:28 | 2021-12-23 | 2022-07-11 |
@@ -707,6 +707,7 @@
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2022-07-17 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |
+| [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 | 2024-01-10 |  |
 | [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 | 2023-06-22 |
 | [蛍の光 \- Step into a World](https://open.spotify.com/track/2C9mRXopIobQ0Op4LmvVfB) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [蛍の光 \(Step into a World\)](https://open.spotify.com/album/2xuer9lpvG0RRLu2OICRn0) | 1:35 | 2022-03-24 | 2022-07-30 |
 

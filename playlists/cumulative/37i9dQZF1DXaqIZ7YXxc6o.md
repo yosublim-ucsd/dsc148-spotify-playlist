@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Shygirl
 
-1,845 songs - 4 day 6 hr 39 min
+1,846 songs - 4 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/track/4khQKeEOy202MjC5z3r1en) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7), [Manning](https://open.spotify.com/artist/1RKaA4DmhRXFTelAvV3Gen) | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/album/6Cl0RPUILQLnWuW3bF1H90) | 3:46 | 2023-03-03 | 2023-03-25 |
 | [Deep Blue Sea](https://open.spotify.com/track/5lmTPyCJMKuNJG1g1ULozO) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Deep Blue Sea](https://open.spotify.com/album/3jNulGujlsPSAUsWBoRiEd) | 4:19 | 2023-11-16 | 2023-12-09 |
 | [Deep Blue Sea \- Motez Remix](https://open.spotify.com/track/3n7rRydIf2UlirFcEzO0dh) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR) | [Deep Blue Sea \(Motez Remix\)](https://open.spotify.com/album/3PdGSxPSkDgF2zSQ5jvnJu) | 5:25 | 2023-12-01 | 2023-12-22 |
-| [Deep Blue Sea \- Notion Remix](https://open.spotify.com/track/1Q16QFSYVocGlAvMz3DSmb) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Deep Blue Sea \(NOTION Remix\)](https://open.spotify.com/album/7qZDn64BgERGFJT6qah3Dt) | 4:48 | 2023-12-19 |  |
+| [Deep Blue Sea \- Notion Remix](https://open.spotify.com/track/1Q16QFSYVocGlAvMz3DSmb) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Deep Blue Sea \(NOTION Remix\)](https://open.spotify.com/album/7qZDn64BgERGFJT6qah3Dt) | 4:48 | 2023-12-19 | 2024-01-11 |
+| [Deep Blue Sea \- NOTION Remix](https://open.spotify.com/track/3OWt85Iv3pzFw8wKBXroYL) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Deep Blue Sea \(NOTION Remix\)](https://open.spotify.com/album/1wOqHox5XcTeKGhloFosDy) | 4:48 | 2024-01-04 |  |
 | [Deep End](https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 4:51 | 2023-04-13 | 2023-05-12 |
 | [Deepend](https://open.spotify.com/track/0X6KS9Vp60u5vrUHHq6KhO) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Deepend](https://open.spotify.com/album/4nXscmLunXNU46BVxl7bxX) | 3:04 | 2023-11-09 | 2023-12-02 |
 | [Deranged](https://open.spotify.com/track/5GuFNblmTTazW0UKhf0d34) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Deranged / Monster](https://open.spotify.com/album/2xHrmuBusT5rLLulrUvRsd) | 3:24 | 2023-05-18 | 2023-06-09 |

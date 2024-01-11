@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 209832,
+  "num_followers": 209521,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjdmM2M4ZmE1MTY3MmY3M2NhNmRlNzBhOTlhNjc1NTkzNGQ1MmQ2",
+  "snapshot_id": "MCxhM2ViZTMzNzk5M2ViNzMwYjhjMmZjZDI4NmY5NWIwN2VmYWRjZmZk",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Kollong",
-        "url": "https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1"
-      },
-      "artists": [
-        {
-          "name": "Mawiza",
-          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
-        }
-      ],
-      "duration_ms": 237062,
-      "name": "Mawiza \u00d1i Piwke",
-      "url": "https://open.spotify.com/track/4ljxScl9mHiMwfwjLbXexV"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Carnivora",
         "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 107693,
       "name": "Policia",
       "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Kollong",
+        "url": "https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1"
+      },
+      "artists": [
+        {
+          "name": "Mawiza",
+          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
+        }
+      ],
+      "duration_ms": 237062,
+      "name": "Mawiza \u00d1i Piwke",
+      "url": "https://open.spotify.com/track/4ljxScl9mHiMwfwjLbXexV"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Khafra",
-        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
-      },
-      "artists": [
-        {
-          "name": "Khafra",
-          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Khafra",
+        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
+      },
+      "artists": [
+        {
+          "name": "Khafra",
+          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
     },
     {
       "added_at": "2023-04-28 03:00:00",

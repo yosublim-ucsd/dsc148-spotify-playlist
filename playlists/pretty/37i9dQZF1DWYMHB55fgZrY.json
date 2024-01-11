@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Julieta Venegas en portada.",
-  "num_followers": 523971,
+  "num_followers": 524031,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzNiZTNkZTI5MGI2MGM3OWM1NjY2Y2U0MDk3NTk3MTEyOTk5Yjk0",
+  "snapshot_id": "MCw1ZmRlYTZiYmI3YTA2NDJjYjNjMTMwYTM0MzBkODFmMjJkYThhZTVm",
   "tracks": [
     {
       "added_at": "2023-11-10 18:31:01",
@@ -367,8 +367,8 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -527,8 +527,8 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "The Pre End Of The World Soundtrack",
-        "url": "https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd"
-      },
-      "artists": [
-        {
-          "name": "Jonaz",
-          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Noreste Caliente",
-      "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 218013,
       "name": "Desde Que",
       "url": "https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "The Pre End Of The World Soundtrack",
+        "url": "https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd"
+      },
+      "artists": [
+        {
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Noreste Caliente",
+      "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
+        "name": "\u00c9l No Lo Mat\u00f3",
+        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 278934,
+      "name": "\u00c9l No Lo Mat\u00f3",
+      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 174880,
       "name": "Cada Vez Que Me Voy",
       "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
-        "name": "\u00c9l No Lo Mat\u00f3",
-        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 278934,
-      "name": "\u00c9l No Lo Mat\u00f3",
-      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
         "name": "El \u00daltimo Ska",
         "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 269866,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
     },
     {
       "added_at": "2023-11-10 18:31:01",

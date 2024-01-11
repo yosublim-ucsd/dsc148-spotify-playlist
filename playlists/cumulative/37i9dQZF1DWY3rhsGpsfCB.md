@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-475 songs - 1 day 0 hr 59 min
+476 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 | 2023-03-03 | 2023-03-18 |
 | [DFMU](https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 | 2022-06-24 | 2022-11-26 |
 | [Diana](https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:52 | 2022-08-05 | 2023-02-17 |
+| [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2024-01-05 |  |
 | [Different](https://open.spotify.com/track/7BaPu3b5wbBtQ6Z09XL05O) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Not My Concern / Different](https://open.spotify.com/album/6sgnWlAAGZI5p1FHoWTXFE) | 2:11 | 2023-09-29 | 2023-11-25 |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-06-24 | 2023-02-24 |
 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-18 | 2022-11-26 |
@@ -462,7 +463,7 @@
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-09 | 2023-09-15 |
 | [Why](https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm) | 2:45 | 2023-03-17 | 2023-05-05 |
 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 | 2022-11-18 | 2023-04-15 |
-| [Why Evils](https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Why Evils](https://open.spotify.com/album/2fVShUxmaAvcMC4sCA1PyV) | 4:00 | 2023-11-03 |  |
+| [Why Evils](https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Why Evils](https://open.spotify.com/album/2fVShUxmaAvcMC4sCA1PyV) | 4:00 | 2023-11-03 | 2024-01-11 |
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2023-02-16 | 2023-04-26 |
 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-07-22 | 2022-10-14 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-27 |  |

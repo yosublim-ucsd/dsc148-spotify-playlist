@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
 
-> Éxitos del Trap Latino\. Foto: Duki.
+> Éxitos del Trap Latino\. Foto: Bizarrap & Young Miko.
 
-407 songs - 23 hr 8 min
+408 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [MODELITO](https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2022-11-16 |  |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-13 |  |
 | [Motivos](https://open.spotify.com/track/3MtXfPjTXCuH3DN5J1Mf2W) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Motivos](https://open.spotify.com/album/6wgKeewwbZPcH8lCBqN4HS) | 3:40 | 2021-12-06 | 2022-04-16 |
-| [Municiones \(feat\. KyleYouMadeThat\)](https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [Municiones \(feat\. KyleYouMadeThat\)](https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw) | 3:24 | 2023-06-02 |  |
+| [Municiones \(feat\. KyleYouMadeThat\)](https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [Municiones \(feat\. KyleYouMadeThat\)](https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw) | 3:24 | 2023-06-02 | 2024-01-11 |
 | [Muy Enfierrado](https://open.spotify.com/track/4fFa0g5UIuzVNRn3d78EPx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Muy Enfierrado](https://open.spotify.com/album/5dTOmRWMGhs8BGwWpVRICI) | 2:56 | 2021-12-06 | 2022-05-07 |
 | [Muévelo Lento](https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Muévelo Lento](https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m) | 3:02 | 2022-08-12 | 2023-07-01 |
 | [MY BLOOD](https://open.spotify.com/track/4KAZuTL234Q5CIRW5nhVbi) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [My Blood](https://open.spotify.com/album/4iGqw6rofNIq2DpWeQl4gM) | 3:00 | 2023-03-03 | 2023-03-18 |
@@ -410,6 +410,7 @@
 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 | 2021-12-06 | 2022-06-04 |
 | [ye](https://open.spotify.com/track/3IYHWJMzL4aftnp3ENWoXM) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [ye](https://open.spotify.com/album/7MOwVvOQvt3ljxqzznrt2P) | 2:47 | 2022-06-03 | 2022-10-15 |
 | [Young Flex](https://open.spotify.com/track/2C4f6LeM7Io332EuMbDGIT) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Young Flex](https://open.spotify.com/album/5Y2GbPfqARt1tXJ5O7ZWUR) | 2:41 | 2022-04-13 | 2022-06-04 |
+| [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-11 |  |
 | [YUYU](https://open.spotify.com/track/1zXiBTAFnO5L56UEuH7xwH) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Nahuel one23](https://open.spotify.com/artist/7szpfJlobAlM8CDVXziu05) | [YUYU](https://open.spotify.com/album/6UBn9kD2TUkSCaePKkx7iF) | 2:54 | 2023-05-12 | 2023-06-10 |
 | [ZAZA](https://open.spotify.com/track/5AxYNbBJFPUQyANSrSyL0I) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [ZAZA](https://open.spotify.com/album/68gNfeJwYo79JVUlDXj7v8) | 3:27 | 2022-08-19 | 2022-12-24 |
 | [Ziploc \(Blessd Version\)](https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:56 | 2022-11-16 | 2023-04-01 |

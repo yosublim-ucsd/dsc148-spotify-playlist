@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: audalei
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,166 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,155 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 12 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 |
 | 13 | [Digital Beggars](https://open.spotify.com/track/5orUfF5XXgvuBglxxNClc4) | [girly.](https://open.spotify.com/artist/2gSSQtOkz05R46WpZDNckK) | [Digital Beggars](https://open.spotify.com/album/1IlMZCCHQzakesbETFaBLX) | 2:23 |
 | 14 | [Versions Of You](https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Versions Of You](https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS) | 3:13 |
-| 15 | [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 |
+| 15 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 16 | [Anxiety](https://open.spotify.com/track/09oM7MKKiUMlfmm55WILWN) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Anxiety / Making Miseries](https://open.spotify.com/album/6V1fBbeKJwhXCEKRrFNlZD) | 2:55 |
 | 17 | [No Thank You For The Music](https://open.spotify.com/track/02KgdbM5JkhtBUBIkjFaaA) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [No Thank You For The Music](https://open.spotify.com/album/5BtpS9O9Z6wGYb8RKMime5) | 3:49 |
 | 18 | [i could tell you everything](https://open.spotify.com/track/71d99xBuRYRgDLwX9yUmfW) | [never easy](https://open.spotify.com/artist/3Qr5Z948M0BpkrKDFTRwv1) | [i could tell you everything](https://open.spotify.com/album/1cgcwvw6uTBECyZxgyKLep) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Off My Back](https://open.spotify.com/track/0HjOIq9IGVyVeLBJBP51uP) | [moondoggy](https://open.spotify.com/artist/5p00nwfrUcZvA9WbXZeQOk) | [Mad and Noisy](https://open.spotify.com/album/15JmQH5VYVKiTdueByfqgz) | 2:52 |
 | 100 | [Sugar Like That](https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Sugar Like That](https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx) | 3:13 |
 
-Snapshot ID: `MCxjYzE3YzgyMmU5MDNlNTU5YzlkNWVhMDFjMWJjNTY3NTg0NTlkZWNi`
+Snapshot ID: `MCxjYjIyNWQyNTczNWI1MDIwODBmNjNiMzE3OTJkOTJkNjJmMWM0ZGJh`

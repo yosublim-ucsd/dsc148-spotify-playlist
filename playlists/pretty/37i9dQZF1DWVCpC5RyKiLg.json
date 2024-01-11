@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 713419,
+  "num_followers": 713438,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGVlZjg3MmI4MWIwNmQ5OWRhMzFhZjM2NzYzNDRiNjU0NmJmNGQz",
+  "snapshot_id": "MCwxZGE0MmIwMDMyNGYwZDgwMjI5YWVlMWZjYzAwODEwZDY2NjAxN2Ex",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 193680,
+      "name": "Maus Bocados",
+      "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 196830,
       "name": "Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)",
       "url": "https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 193680,
-      "name": "Maus Bocados",
-      "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -695,18 +695,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Os Anjos Cantam",
-        "url": "https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt"
+        "name": "Sogra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 167240,
-      "name": "Nocaute",
-      "url": "https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj"
+      "duration_ms": 177067,
+      "name": "Sogra - Ao Vivo",
+      "url": "https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -727,18 +731,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
+        "name": "Os Anjos Cantam",
+        "url": "https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 232278,
-      "name": "Supera - Ao Vivo",
-      "url": "https://open.spotify.com/track/0h9xMQP3ctuibd4Ce2037O"
+      "duration_ms": 167240,
+      "name": "Nocaute",
+      "url": "https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -779,26 +783,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Sogra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 177067,
-      "name": "Sogra - Ao Vivo",
-      "url": "https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Livre (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Cheirosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
+        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 181930,
-      "name": "Cheirosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+      "duration_ms": 232278,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/0h9xMQP3ctuibd4Ce2037O"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -843,6 +827,22 @@
       "duration_ms": 188309,
       "name": "Amor Da Sua Cama",
       "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Cheirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 181930,
+      "name": "Cheirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Pulei na Piscina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Pulei na Piscina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
         "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 220853,
       "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
       "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Pulei na Piscina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Pulei na Piscina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Amando, Bebendo e Sofrendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "duration_ms": 161396,
+      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "De Copo Em Copo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 189335,
       "name": "Santo Forte (Ao Vivo) (feat. Luan Santana)",
       "url": "https://open.spotify.com/track/1ekX8JX7LF3AyxI0nyOzvB"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Amando, Bebendo e Sofrendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 161396,
-      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

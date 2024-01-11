@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Steve Aoki and Yellowcard \\m/
 
-358 songs - 20 hr 25 min
+359 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Falling](https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE) | 3:29 | 2021-12-10 | 2022-10-14 |
 | [Falling](https://open.spotify.com/track/1660w15xd64WxBUirN9e4E) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Beyond the Senses](https://open.spotify.com/album/3pYfGgnd7jxga8VzEMOniD) | 3:29 | 2022-06-24 | 2023-09-15 |
 | [Falling Asleep at the Wheel](https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Falling Asleep at the Wheel / Julie](https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2) | 2:37 | 2022-08-12 | 2022-12-24 |
-| [Fallout](https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq) | [Fallout](https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW) | 4:52 | 2021-12-10 |  |
+| [Fallout](https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq) | [Fallout](https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW) | 4:52 | 2021-12-10 | 2024-01-11 |
 | [Favour](https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Yung Honi](https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq) | [Favour](https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8) | 3:05 | 2023-02-03 | 2023-12-25 |
 | [Feel Something \(With I Prevail\)](https://open.spotify.com/track/5dAtKXyrQoQW054LZqJ5dP) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Feel Something \(With I Prevail\)](https://open.spotify.com/album/0oNatPfTF5GM7KnSQ2hRPG) | 3:41 | 2021-12-10 | 2023-03-04 |
 | [Fighter](https://open.spotify.com/track/0wuGHHsJVLVkULt8hUgTFa) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Fighter](https://open.spotify.com/album/0xq3KVLWzl2BYEVjYfqwbr) | 2:25 | 2021-12-10 | 2022-06-24 |
@@ -310,6 +310,7 @@
 | [Story Of My Life \(feat\. Trippie Redd\) \- Heavy Edit](https://open.spotify.com/track/7vBwenmGPD2h0DSbljoZym) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\) \[Heavy Edit\]](https://open.spotify.com/album/4Wzad6zTcqutg65d090DL2) | 4:00 | 2021-12-10 | 2023-04-29 |
 | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB) | 5:18 | 2022-06-24 | 2023-02-01 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2023-12-10 |
+| [Superhuman \(with K.Flay\)](https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 4:00 | 2024-01-05 |  |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-11 | 2023-11-27 |
 | [Take Flight](https://open.spotify.com/track/6zzys1P8y3cLzGyj7mGz5y) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Take Flight](https://open.spotify.com/album/6KUwI4RCbvqZZbKCCiwpjO) | 4:37 | 2021-12-10 | 2022-07-29 |
 | [Taking Over \(feat\. Sam Nelson\)](https://open.spotify.com/track/7gcYawraNqOWLGclp34H4G) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Sam Nelson](https://open.spotify.com/artist/3PjJuYoEAZcozJezfxdvPK) | [Friends: The Album](https://open.spotify.com/album/2tyOHEHmXj2RoMjiRxNNbu) | 3:01 | 2021-12-10 | 2022-06-25 |

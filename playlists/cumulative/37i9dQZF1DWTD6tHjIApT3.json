@@ -4751,6 +4751,24 @@
     },
     {
       "album": {
+        "name": "Daikokai",
+        "url": "https://open.spotify.com/album/10f7dQkIPEEJoWa93PRqO1"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Daikokai",
+      "url": "https://open.spotify.com/track/68e2E631zUpElV1kN3AWEX"
+    },
+    {
+      "album": {
         "name": "Daisuki Panda",
         "url": "https://open.spotify.com/album/76wf7okTHEuRE0c08Bz4vZ"
       },
@@ -8295,6 +8313,24 @@
     },
     {
       "album": {
+        "name": "Hikarakka",
+        "url": "https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200713,
+      "name": "Hikarakka",
+      "url": "https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m"
+    },
+    {
+      "album": {
         "name": "Hikare Inochi",
         "url": "https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14"
       },
@@ -10412,6 +10448,28 @@
       "duration_ms": 259333,
       "name": "Kimi ni Sayonara",
       "url": "https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou"
+    },
+    {
+      "album": {
+        "name": "Kimi to Watashi no Uta (featuring LIBERA)",
+        "url": "https://open.spotify.com/album/5RWz3Rndy12YnYjxsiXlx4"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Yakushimaru",
+          "url": "https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE"
+        },
+        {
+          "name": "LIBERA",
+          "url": "https://open.spotify.com/artist/0wHSkXXRiwrmE9MzF8e4sK"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301266,
+      "name": "Kimi to Watashi no Uta (featuring LIBERA)",
+      "url": "https://open.spotify.com/track/4lyt57nzowtyz4NvQ3Dhq5"
     },
     {
       "album": {
@@ -15528,7 +15586,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 192954,
       "name": "Pre-Romance",
       "url": "https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I"
@@ -16482,10 +16540,28 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 212906,
       "name": "routine life",
       "url": "https://open.spotify.com/track/3AdLUaAZTJQyhjs10t5wKk"
+    },
+    {
+      "album": {
+        "name": "Routine Life",
+        "url": "https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7"
+      },
+      "artists": [
+        {
+          "name": "Yuinishio",
+          "url": "https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Routine Life",
+      "url": "https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl"
     },
     {
       "album": {
@@ -24336,7 +24412,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 301266,
       "name": "\u304d\u307f\u3068\u308f\u305f\u3057\u306e\u3046\u305f\uff08featuring LIBERA\uff09",
       "url": "https://open.spotify.com/track/2vvgDDC4fIEQCicXApxX9z"
@@ -29390,7 +29466,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 235814,
       "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
@@ -30389,6 +30465,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u8f2a\u82b1",
+        "url": "https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "\u4e00\u8f2a\u82b1",
+      "url": "https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6",
         "url": "https://open.spotify.com/album/1gzRr2DJsOd0FmJELNnKeY"
       },
@@ -31004,7 +31098,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 323251,
       "name": "\u50d5\u3060\u3051\u304c\u611b",
       "url": "https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb"
@@ -32974,7 +33068,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 272000,
       "name": "\u5927\u822a\u6d77",
       "url": "https://open.spotify.com/track/60PhbyOBDd20JP3xPA9urs"
@@ -39396,7 +39490,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 200713,
       "name": "\u98db\u82b1\u843d\u82b1",
       "url": "https://open.spotify.com/track/4g5wI6Sln6kK4seB6zxSvw"

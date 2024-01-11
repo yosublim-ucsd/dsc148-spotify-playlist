@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 1740406,
+  "2024-01-11": 1739918,
   "date_first_scraped": "2021-12-21",
   "description": "Soft piano music to help you focus and chill. ",
   "name": "Instrumental Study",
@@ -1450,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "album": {
         "name": "Auf dem Felde",
         "url": "https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm"
       },
@@ -2725,6 +2743,24 @@
       "duration_ms": 147775,
       "name": "Cyclist Waltz Solo",
       "url": "https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c"
+    },
+    {
+      "album": {
+        "name": "Daffodils",
+        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
     },
     {
       "album": {

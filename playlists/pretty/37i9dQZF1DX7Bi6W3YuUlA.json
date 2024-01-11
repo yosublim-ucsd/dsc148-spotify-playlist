@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 35933,
+  "num_followers": 36005,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDFmMDk5NjAxODYyZDU3YTg4NzRkZTAxMzlhOTEyZTBjYzVkZDg0",
+  "snapshot_id": "MCw2NDc5OWMzYjVjOTNhZjJlODhjMmE2OTlmZGNiYTAxNWIzOTYyMGFj",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -899,26 +899,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Respect My Team",
-        "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
+        "name": "H O L O G R A P H I C",
+        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
       },
       "artists": [
         {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
         },
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "NK4",
+          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
         }
       ],
-      "duration_ms": 227741,
-      "name": "Respect My Team",
-      "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
+      "duration_ms": 164886,
+      "name": "Slidin'",
+      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -951,22 +947,26 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "H O L O G R A P H I C",
-        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
+        "name": "Respect My Team",
+        "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
         },
         {
-          "name": "NK4",
-          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 164886,
-      "name": "Slidin'",
-      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+      "duration_ms": 227741,
+      "name": "Respect My Team",
+      "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Club Eden",
-        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Club Eden",
-      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "They Didn\u2019t Know II",
         "url": "https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 178714,
       "name": "They Didn\u2019t Know II",
       "url": "https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Club Eden",
+        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Club Eden",
+      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "TRANSCENDENT",
-        "url": "https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "MAD 2 THE MAX",
-      "url": "https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 202285,
       "name": "I Can't Fail",
       "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "TRANSCENDENT",
+        "url": "https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "MAD 2 THE MAX",
+      "url": "https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Your Word My Mind",
-        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Your Word My Mind",
-      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Catch These Hands (Remix)",
         "url": "https://open.spotify.com/album/7APamlqElimCKW62z0yKFf"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 144506,
       "name": "Catch These Hands - Remix",
       "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Your Word My Mind",
+        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 149300,
+      "name": "Your Word My Mind",
+      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Pray 2 God",
         "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 156781,
       "name": "Pray 2 God",
       "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 149213,
       "name": "Holy",
       "url": "https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Enemies and Foes",
-        "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        },
-        {
-          "name": "TuKool Tiff",
-          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
-        }
-      ],
-      "duration_ms": 289134,
-      "name": "Enemies and Foes",
-      "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "I's On Him",
         "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 156749,
       "name": "Put In Work",
       "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Enemies and Foes",
+        "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        },
+        {
+          "name": "TuKool Tiff",
+          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
+        }
+      ],
+      "duration_ms": 289134,
+      "name": "Enemies and Foes",
+      "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Sunday In Lagos",
-        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Sunday In Lagos",
+        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
     },
     {
       "added_at": "2023-02-18 05:58:41",

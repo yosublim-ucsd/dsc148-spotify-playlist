@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 493936,
+  "2024-01-11": 493896,
   "date_first_scraped": "2023-10-11",
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
   "name": "This Is Lizzo",
@@ -619,7 +619,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 157759,
       "name": "Lizzie Borden",
       "url": "https://open.spotify.com/track/0TUxk2H9jyST2rpaF0OoHr"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 173325,
       "name": "Truth Hurts",
       "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"

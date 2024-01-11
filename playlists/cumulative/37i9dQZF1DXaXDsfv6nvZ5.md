@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-412 songs - 1 day 0 hr 52 min
+413 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2022-03-11 | 2023-02-25 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-12-03 |  |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-09-09 |  |
+| [Don't Doubt It](https://open.spotify.com/track/0nomiSFgD9mDCcKBHD8qpv) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/3qWK8chhUiXLHAGSu585DG) | 3:02 | 2023-04-28 |  |
 | [Don't Doubt It](https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN) | 3:02 | 2023-04-28 | 2023-12-24 |
 | [DON'T PLAY WITH MY HEART](https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DON'T PLAY WITH MY HEART](https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I) | 3:39 | 2021-12-03 | 2022-09-15 |
 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 | 2023-06-16 |  |
@@ -169,7 +170,7 @@
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-03 |  |
 | [Hrs & Hrs \(feat\. Usher\) \- Remix](https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hrs & Hrs \(Remix\)](https://open.spotify.com/album/29VQRaMV0FqhEsAPWQe95C) | 3:28 | 2023-06-23 | 2023-08-26 |
 | [Hurt A Little](https://open.spotify.com/track/34ICFY39nLDN42fbDCRJ1g) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Hurt A Little](https://open.spotify.com/album/41ycEl7mRF6vZJIbAZRuBz) | 3:57 | 2022-09-23 | 2022-10-04 |
-| [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 | 2023-06-16 |  |
+| [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 | 2023-06-16 | 2024-01-11 |
 | [I Don't Like People](https://open.spotify.com/track/5IeqOmOd9DJsYS1hLm66iT) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:16 | 2023-10-27 |  |
 | [I Hope](https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [I Hope](https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9) | 2:33 | 2023-04-07 |  |
 | [I Keep Callin' You](https://open.spotify.com/track/0Y9j7ZHf5O6nL145orSXLg) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Gasms](https://open.spotify.com/album/14xK4FTz2jDiWE8vL1rZaK) | 4:03 | 2023-04-28 | 2023-05-13 |

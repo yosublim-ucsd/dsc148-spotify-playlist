@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-754 songs - 2 day 1 hr 49 min
+755 songs - 2 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,8 @@
 | [Tokyo Neon](https://open.spotify.com/track/77tBV0ZvVfY5bMQjTCJOqs) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [宏実](https://open.spotify.com/artist/6xG6CoJ4QmGXNCakdnnGio) | [Tokyo Neon](https://open.spotify.com/album/2BkZ8nhcWrn281nU0cJauO) | 3:31 | 2023-04-11 | 2023-04-26 |
 | [Tokyo Rouge](https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [Ladies In The City](https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7) | 3:43 | 2022-06-16 | 2022-12-27 |
 | [Tokyo Tower](https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Tokyo Tower](https://open.spotify.com/album/62I4bwkFoaOvU3cQ2BLT32) | 4:49 | 2022-09-08 | 2022-09-30 |
-| [TOMODACHI](https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ロンリーパラドックス](https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV) | 4:08 | 2024-01-09 |  |
+| [Tomodachi](https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Lonely Paradox](https://open.spotify.com/album/3cUllXtHAkPuR9VTWz0OGg) | 4:08 | 2024-01-09 |  |
+| [TOMODACHI](https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ロンリーパラドックス](https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV) | 4:08 | 2024-01-09 | 2024-01-11 |
 | [Tonight](https://open.spotify.com/track/3FIhIhiSQqSfwbpFZzNhxE) | [広瀬大地](https://open.spotify.com/artist/3CgeuQ1yRieG410Yv5HVdE) | [Tonight](https://open.spotify.com/album/1TDGFOk36a5deglxfMQGA5) | 3:54 | 2023-09-05 | 2023-09-28 |
 | [Tonight is the night](https://open.spotify.com/track/4azggBeTxDaQ5zPU6ihP0V) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [Tonight is the night](https://open.spotify.com/album/17uuzHoS8GBOT8JTd3ojUA) | 4:20 | 2023-03-28 | 2023-04-05 |
 | [Too good to be true](https://open.spotify.com/track/7AHjkU1cjgUIV2bxP6Aitm) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Too good to be true/Nightmare](https://open.spotify.com/album/1pck3jumTdRmyaoZnvgsKR) | 5:12 | 2023-04-25 | 2023-06-12 |

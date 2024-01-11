@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8307,
+  "num_followers": 8305,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGIwYzVkM2U2YmE5ZmJhOWVkMTRmZjEyMzY0YjRlZmQ4ODRhYjli",
+  "snapshot_id": "MCxlNDIzYjI5MGNlM2FmOTEyOGQ0NDI2MzZjYjAyNjgzMGJjZjJmMjRm",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 337803,
+      "name": "A Face Adorada de Jesus",
+      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 310714,
       "name": "\u00d3 Noite Santa",
       "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 337803,
-      "name": "A Face Adorada de Jesus",
-      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
-        }
-      ],
-      "duration_ms": 259831,
-      "name": "O Milagre do Natal",
-      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "\u00c9 Natal",
         "url": "https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn"
       },
@@ -395,30 +379,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Natal de Amor",
-        "url": "https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40"
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
       "artists": [
         {
-          "name": "P\u00e2mela Jardim",
-          "url": "https://open.spotify.com/artist/2FaZIsYvglfq2Bw97xhQ3b"
-        },
-        {
-          "name": "Rhayle Campos",
-          "url": "https://open.spotify.com/artist/41U4eo2r9FH2gv8JtijGIf"
-        },
-        {
-          "name": "Andr\u00e9 Leono",
-          "url": "https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0"
-        },
-        {
-          "name": "Minist\u00e9rio Atitude",
-          "url": "https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4"
+          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
         }
       ],
-      "duration_ms": 301859,
-      "name": "Natal de Amor",
-      "url": "https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3"
+      "duration_ms": 259831,
+      "name": "O Milagre do Natal",
+      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -479,6 +451,34 @@
       "duration_ms": 298488,
       "name": "Lindo \u00c9s (Beauty, Beauty)",
       "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Natal de Amor",
+        "url": "https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40"
+      },
+      "artists": [
+        {
+          "name": "P\u00e2mela Jardim",
+          "url": "https://open.spotify.com/artist/2FaZIsYvglfq2Bw97xhQ3b"
+        },
+        {
+          "name": "Rhayle Campos",
+          "url": "https://open.spotify.com/artist/41U4eo2r9FH2gv8JtijGIf"
+        },
+        {
+          "name": "Andr\u00e9 Leono",
+          "url": "https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0"
+        },
+        {
+          "name": "Minist\u00e9rio Atitude",
+          "url": "https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4"
+        }
+      ],
+      "duration_ms": 301859,
+      "name": "Natal de Amor",
+      "url": "https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Primeiro Natal (The First Noel)",
+      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Noite de Paz",
         "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Primeiro Natal (The First Noel)",
-      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
         "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 193000,
       "name": "Vem Chegando o Natal",
       "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Natal Real",
-        "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
-      },
-      "artists": [
-        {
-          "name": "Novo Tom",
-          "url": "https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh"
-        },
-        {
-          "name": "Vitrine UNASP",
-          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
-        }
-      ],
-      "duration_ms": 256217,
-      "name": "Natal Real",
-      "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -775,22 +755,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Nasceu o Redentor",
-        "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
+        "name": "Natal Real",
+        "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
       "artists": [
         {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+          "name": "Novo Tom",
+          "url": "https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh"
         },
         {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+          "name": "Vitrine UNASP",
+          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
         }
       ],
-      "duration_ms": 324820,
-      "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
-      "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
+      "duration_ms": 256217,
+      "name": "Natal Real",
+      "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -819,18 +799,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+        "name": "Nasceu o Redentor",
+        "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
       },
       "artists": [
         {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
         }
       ],
-      "duration_ms": 284200,
-      "name": "Noite Feliz (Stille Nacht)",
-      "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
+      "duration_ms": 324820,
+      "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
+      "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Noite Feliz (Stille Nacht)",
+      "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
     },
     {
       "added_at": "2023-12-22 03:00:00",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:3JIRLDbCJ55I5nevDYiasK">Anita Lipnicka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,303 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,409 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zasłony](https://open.spotify.com/track/18gDhYqC7ZqW6SIC6xmp8v) | [Anita Lipnicka](https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK) | [Śnienie](https://open.spotify.com/album/1kun9S2V8MANhHQTyJidKJ) | 2:56 |
 | 2 | [Znowu Pragnę](https://open.spotify.com/track/6ejPDLOcticvu1qyMAcaCw) | [Ana Andrzejewska](https://open.spotify.com/artist/2D37AVlAm1JBWFTpMfjJpW) | [Haśka](https://open.spotify.com/album/0jCWsyk17VJTvKJArCU92B) | 3:16 |
-| 3 | [WIFEY](https://open.spotify.com/track/5cCR8Aj1UcwiQLwGC1MrDY) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn) | [WIFEY](https://open.spotify.com/album/359CWpeVe8HhxFORUDg0R5) | 1:55 |
+| 3 | [WIFEY](https://open.spotify.com/track/5cCR8Aj1UcwiQLwGC1MrDY) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD) | [WIFEY](https://open.spotify.com/album/359CWpeVe8HhxFORUDg0R5) | 1:55 |
 | 4 | [Motyle](https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Motyle](https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj) | 2:55 |
 | 5 | [GDZIE JEST TEN DOM?](https://open.spotify.com/track/3sFGKLwDkIx1FsmUGkminy) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [GDZIE JEST TEN DOM?](https://open.spotify.com/album/5HvfodCnUMi6b4ldgkxkVL) | 1:47 |
 | 6 | [Niech całe miasto spłonie](https://open.spotify.com/track/5JKFI2Z14MsUd8LzRBgWZD) | [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt) | [Niech całe miasto spłonie](https://open.spotify.com/album/5orQHCj7ACySbni3FCkIWY) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [Powoli](https://open.spotify.com/track/36XOOAEflEdRHoLi9tFDvC) | [Weronika Borowiec](https://open.spotify.com/artist/3H7MczsYp9tx6jskw9kodx), [AronBeats](https://open.spotify.com/artist/5v455njudD1baLI5cX1YqJ) | [Powoli](https://open.spotify.com/album/0nV6Ff7t7YoIgQLi0rcSEm) | 3:15 |
 | 60 | [do końca](https://open.spotify.com/track/3RtlJV1xq0H0MqzWH6M4tm) | [sumi e.](https://open.spotify.com/artist/3hUSCDMKVJ0Cd8KqXF5Gsi) | [do końca](https://open.spotify.com/album/6RWlEIBGJZfjL8gpynheGE) | 2:46 |
 
-Snapshot ID: `MCw2MzlhNjQ5MzY4MjNjMDI3ZmM4OTQwM2MyZjZiYThmNmU3MjM5ODgy`
+Snapshot ID: `MCw5M2QxMDM3M2FmODQ2YjViOTAxMTNjNDk5NmU1ZGZmZWExNGZhYWEy`

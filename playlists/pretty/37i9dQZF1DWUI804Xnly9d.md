@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,545 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,603 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCw4NDU2MjdjZmZiZjVjZTI3MmQ4ZTdjYTU4OWY3NjAzNzJhN2EwNzAx`
+Snapshot ID: `MCwwNTVjMzU2Y2JlOTM1ZjgzMmRlMTE0ZDMzYmYyZDZmZGMzZjJhMmU1`

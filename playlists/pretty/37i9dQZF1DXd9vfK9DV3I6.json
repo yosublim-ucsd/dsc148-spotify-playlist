@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 297934,
+  "num_followers": 298102,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGEzMThiMWM1YzBiZTliZDQzYWI4OTVlMDg5ZWZkYTI5MWZmMDli",
+  "snapshot_id": "MCwyMmNkNzhkYWI5MzczNGY2NjUwZTMzNjQ1ZmViZjE4NzQxZWM2M2Qy",
   "tracks": [
     {
       "added_at": "2024-01-02 11:47:27",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 219202,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 244878,
       "name": "Ederlezi (feat. Dikanda)",
       "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 219202,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
-      },
-      "artists": [
-        {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Prophecies of the Ancient Future",
-        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
-      },
-      "artists": [
-        {
-          "name": "Lemurian",
-          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
-        },
-        {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
-        }
-      ],
-      "duration_ms": 320045,
-      "name": "Sensiz",
-      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Prophecies of the Ancient Future",
+        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
+      },
+      "artists": [
+        {
+          "name": "Lemurian",
+          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
+        },
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        }
+      ],
+      "duration_ms": 320045,
+      "name": "Sensiz",
+      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
-      },
-      "artists": [
-        {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
-        },
-        {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
-      },
-      "artists": [
-        {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
-        }
-      ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 196800,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+      },
+      "artists": [
+        {
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+        }
+      ],
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Eternal Roots",
         "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 305005,
       "name": "Eternal Roots",
       "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Lane Moje",
         "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 179478,
       "name": "Lane Moje - Radio Edit",
       "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     },
     {
       "added_at": "2024-01-02 11:47:27",

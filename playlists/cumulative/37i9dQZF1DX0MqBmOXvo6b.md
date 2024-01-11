@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-604 songs - 1 day 1 hr 42 min
+605 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2022-06-07 | 2022-07-20 |
 | [Crossing The Line](https://open.spotify.com/track/3oGSYfpXW9Z26s0tHiab6w) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Crossing The Line](https://open.spotify.com/album/1khXOksViOnCC12iQLSjC2) | 2:01 | 2022-06-07 | 2023-10-02 |
 | [Cupola Quadrata](https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Cupola Quadrata](https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5) | 2:18 | 2022-06-07 | 2022-12-24 |
+| [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
 | [Dancing Butterflies](https://open.spotify.com/track/4h5GTzoptGcmml3VwBkP6t) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Dancing Butterflies](https://open.spotify.com/album/0jS0WNnzijFTntrDJOJBRY) | 1:58 | 2022-06-07 | 2023-07-25 |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2022-06-07 | 2023-07-25 |
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2022-06-07 |  |
@@ -251,7 +252,7 @@
 | [Larae](https://open.spotify.com/track/0afdVLpxfG1ZogyBWK6t7I) | [Isobel Noble](https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq) | [Larae](https://open.spotify.com/album/2wBwCs72RrhJ69U9dvScL3) | 2:29 | 2022-06-07 | 2022-09-24 |
 | [Lasciare Andare](https://open.spotify.com/track/7k6BmWDRLOip7YGUg48SVp) | [Gino Delafiori](https://open.spotify.com/artist/2mLwZnRXgqPqosokl8VjwF) | [Umbria](https://open.spotify.com/album/3lhm2pyVEJihYdBmxgjgDL) | 3:27 | 2022-06-07 | 2023-02-07 |
 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 | 2022-06-07 |  |
-| [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2022-06-07 |  |
+| [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2022-06-07 | 2024-01-11 |
 | [Le Beau](https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Le Beau](https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6) | 3:25 | 2022-06-07 |  |
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2022-06-07 | 2022-09-15 |
 | [Le parole non bastano](https://open.spotify.com/track/3q257jNovvy9u7dW3BOo4u) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Le parole non bastano](https://open.spotify.com/album/6EHWGXSxxhvtOSZVEHr52o) | 2:31 | 2022-06-07 | 2022-09-15 |

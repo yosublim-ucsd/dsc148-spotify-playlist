@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,403 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,416 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 35 | [Kent Yaşamı](https://open.spotify.com/track/6XL5TN8b803H4jq53sHL2H) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN) | [Honki Ponki](https://open.spotify.com/album/7FUd2BMPEr7dHB2sgOMmu5) | 4:48 |
 | 36 | [Dusk \- Instrumental Edit](https://open.spotify.com/track/0PtWwCYJ9Uz6WjMJs6WxsB) | [Pressure Drop](https://open.spotify.com/artist/3RWRlV5ZZpIVFYdqHutuqo) | [Elusive](https://open.spotify.com/album/7KeimTcdAArbY28hNhhCYr) | 5:30 |
 | 37 | [Psikotik](https://open.spotify.com/track/2mDlAGjK3e6OiDJu7zq7nd) | [Kugiran Pantai Changi](https://open.spotify.com/artist/7uunTk9U68enJ50sRJUDpF) | [Psikotik](https://open.spotify.com/album/3CWbO6by6IrZhBy8rxkyg5) | 1:52 |
-| 38 | [Mi Tallercito](https://open.spotify.com/track/5zGPBX8hllPCOsTomOwrCr) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [El Mundo de los Pobres](https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms) | 3:38 |
+| 38 | [Mi Tallercito](https://open.spotify.com/track/4cJ8Mg8Naghx3ay4hP84on) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:38 |
 | 39 | [I Am in Love](https://open.spotify.com/track/3ihUEHni4ACzTLQL9mUgJL) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Studio One Women](https://open.spotify.com/album/5IsRaj4Avx8y20MjmjfXwv) | 3:31 |
 | 40 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 |
 | 41 | [バイブレイション](https://open.spotify.com/track/3pV989KB6C0hAnRFb4Qcsg) | [笠井 紀美子](https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit) | [トーキョー・スペシャル](https://open.spotify.com/album/46xhGBdollRAui0FdpJVJy) | 4:18 |
@@ -268,7 +268,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 258 | [Y no le conviene](https://open.spotify.com/track/1y4IQ14GLc8veZ4ZR8vdPe) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Si, Para Usted \- The Funky Beats of Revolutionary Cuba Vol\. 1](https://open.spotify.com/album/6JXle7fMWDrpIwxaFTDNxK) | 4:01 |
 | 259 | [Me Voy Pa'la Costa](https://open.spotify.com/track/7nDMk083NoK0973mr0TA8j) | [Rosendo Y Su Banda](https://open.spotify.com/artist/23diwJPVFPBRAV31o5aOmV) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 3:57 |
 | 260 | [Fear Not for Man](https://open.spotify.com/track/0dKa5TcbAm0g7DTJjzZeAw) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not for Man](https://open.spotify.com/album/63AnouOM2SwpjB9vkxnkvc) | 14:14 |
-| 261 | [El Aguajal](https://open.spotify.com/track/1RKFSzNHUjnsbVlM0r397p) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [El Mundo de los Pobres](https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms) | 3:54 |
+| 261 | [El Aguajal](https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:50 |
 | 262 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 |
 | 263 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 4:02 |
 | 264 | [A hora é essa](https://open.spotify.com/track/3cF7YOhl4aWT9EhmvhkG3q) | [Celia](https://open.spotify.com/artist/71mZktYgZiBSmsYanRREQP) | [Dose Dupla Célia](https://open.spotify.com/album/6oRhQ60w5j11uK5njdH65Z) | 3:03 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw1Nzg5NTY5MmVmZDQzOTI5ZWFiZWNkYWVmYjFlNjUwY2E3MDIxOGM4`
+Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`

@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 75344,
+  "2024-01-11": 74427,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -11119,6 +11119,24 @@
       "duration_ms": 165264,
       "name": "Spalarkling",
       "url": "https://open.spotify.com/track/0aUCqmtpFYCLmGsgdVZiJu"
+    },
+    {
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374468,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
     },
     {
       "album": {

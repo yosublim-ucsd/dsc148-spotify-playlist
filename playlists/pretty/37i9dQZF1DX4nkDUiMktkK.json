@@ -1,12 +1,12 @@
 {
   "description": "All juice",
-  "num_followers": 9743,
+  "num_followers": 9774,
   "original_name": "juice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmE4ODk4YjM1ZmNlODNmYmQwMzQ0NjVkNTRhNTc3YzVhNWVjOWY4",
+  "snapshot_id": "MCwyNTQ5NTM0NzI4ZjJjNDBlZDIzNzI2YWFiOWU2M2JkMmU5OTM5OTlh",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -731,6 +731,370 @@
       "duration_ms": 226000,
       "name": "Freedom (In Ur Mind) [MAFRO Remix]",
       "url": "https://open.spotify.com/track/6Re6rF802AnLKQd4ZuTNDG"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Peach Remixes",
+        "url": "https://open.spotify.com/album/4bOaqD7xJbdO1QOSjszZ1g"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 345797,
+      "name": "Peach VIP",
+      "url": "https://open.spotify.com/track/35P8wQxbmltmHvawUxk6Uu"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        }
+      ],
+      "duration_ms": 186231,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "We Were In Love (Narciss Remix)",
+        "url": "https://open.spotify.com/album/5BxbTfPG4eF6qpZ4HsN6Mb"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "duration_ms": 213655,
+      "name": "We Were In Love - Narciss Remix",
+      "url": "https://open.spotify.com/track/4SqIAZdRaaDMEbz1UDSSmo"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "The Sea (TDJ Remix)",
+        "url": "https://open.spotify.com/album/0UWYZHIK9zcNtbu3kmfyIm"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "duration_ms": 281689,
+      "name": "The Sea - TDJ Remix",
+      "url": "https://open.spotify.com/track/1LSczPyZiwY661qgwcM8d2"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM"
+      },
+      "artists": [
+        {
+          "name": "Jordan Burns",
+          "url": "https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Set The Roof",
+        "url": "https://open.spotify.com/album/5QXXTODvdjHMUUTrMvS8lD"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 263180,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/0XnRWy3S3OmqRPmow4JqWB"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Simply Won't Do (DJ BORING Remix)",
+        "url": "https://open.spotify.com/album/75keapwOSA8CGgg6mjUXXY"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 295198,
+      "name": "Simply Won't Do - DJ BORING Remix",
+      "url": "https://open.spotify.com/track/6u7QJ9AVsSzkCGJZTzHQtC"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Hotel Pool (DJ SWISHERMAN & Boys Noize Remix)",
+        "url": "https://open.spotify.com/album/2i0z0roCMBpHolwktcAd5l"
+      },
+      "artists": [
+        {
+          "name": "David L\u00f6hlein",
+          "url": "https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C"
+        },
+        {
+          "name": "DJ SWISHERMAN",
+          "url": "https://open.spotify.com/artist/4gnhSGsADqYKkIBazOpA4s"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 306666,
+      "name": "Hotel Pool (DJ SWISHERMAN & Boys Noize Remix)",
+      "url": "https://open.spotify.com/track/5hucgLqffUmI3YidSsUS0t"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6Ohz5RYtsaZnm04BuSyNOJ"
+      },
+      "artists": [
+        {
+          "name": "George Reid",
+          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 200856,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0oiyjQRetrFXfRdWVjS2UR"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Why Can't We Live Forever?",
+        "url": "https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "While U Sleep",
+      "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "A Little Bit",
+      "url": "https://open.spotify.com/track/7za8623cNib4zIP9wKw9Ps"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Closer To You / Make Yourself At Home",
+        "url": "https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Closer To You",
+      "url": "https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "BABE?",
+        "url": "https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "duration_ms": 210635,
+      "name": "STUCK ON U",
+      "url": "https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "MISS U (Glimji Remix)",
+        "url": "https://open.spotify.com/album/3xIC14qwn4sYXiaHO96JJQ"
+      },
+      "artists": [
+        {
+          "name": "Almondmilkhunni",
+          "url": "https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC"
+        },
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "MISS U - Glimji Remix",
+      "url": "https://open.spotify.com/track/10ScB3ISReMgZtTsxhDbyo"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Down On My Love",
+        "url": "https://open.spotify.com/album/7bcZPO2KbqkCFEi2AAw3sb"
+      },
+      "artists": [
+        {
+          "name": "Snackbox",
+          "url": "https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Down On My Love",
+      "url": "https://open.spotify.com/track/4h8xS99iATPsBHqowFFF5U"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Moss",
+        "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 171470,
+      "name": "Moss",
+      "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "ZiGGY (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 341151,
+      "name": "ZiGGY (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "U Want It",
+        "url": "https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "U Want It",
+      "url": "https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Phantom SP",
+        "url": "https://open.spotify.com/album/1pynNsLJfm6OFgRiMIn918"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        },
+        {
+          "name": "Bisouxx",
+          "url": "https://open.spotify.com/artist/4nlKNjlsS250IQmIkhrSJU"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Phantom SP",
+      "url": "https://open.spotify.com/track/0P3IOtdSrOlNYBbfbcsyrL"
     },
     {
       "added_at": "2023-12-14 23:00:00",

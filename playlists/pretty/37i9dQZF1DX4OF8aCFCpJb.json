@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68692,
+  "num_followers": 68677,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGFkMjRiNjc3MGIwNjAwNWQwYTdkYWE1Y2IxMTkxZjMzMmVhOGQ1",
+  "snapshot_id": "MCw5MzMzYmQxN2ViOWEzYjU1ZDljZGU1NzcxZTBmOTQ5YmRiMjJhOTVh",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -599,22 +599,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Folkets R\u00f6st",
-        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
       "artists": [
         {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 193908,
-      "name": "Enda V\u00e4gen Fram",
-      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
+      "duration_ms": 237702,
+      "name": "Jag Minns",
+      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -635,6 +631,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Folkets R\u00f6st",
+        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 193908,
+      "name": "Enda V\u00e4gen Fram",
+      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Under samma himmel",
         "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 253977,
       "name": "Under samma himmel",
       "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Jag Minns",
-      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
     },
     {
       "added_at": "2023-10-12 22:00:00",

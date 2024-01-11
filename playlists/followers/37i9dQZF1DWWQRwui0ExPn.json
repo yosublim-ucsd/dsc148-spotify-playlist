@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 5185473,
+  "2024-01-11": 5185760,
   "date_first_scraped": "2019-05-26",
   "description": "chill beats, lofi vibes, new tracks every week... ",
   "name": "lofi beats",
@@ -72521,7 +72521,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 241739,
       "name": "My Promise",
       "url": "https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6"
@@ -80025,7 +80025,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 173524,
       "name": "ottos visa",
       "url": "https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B"
@@ -81941,6 +81941,24 @@
       "duration_ms": 190000,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+    },
+    {
+      "album": {
+        "name": "path-not-taken",
+        "url": "https://open.spotify.com/album/2BAybKwnMczwjaCagLmCv1"
+      },
+      "artists": [
+        {
+          "name": "entsy",
+          "url": "https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142414,
+      "name": "path-not-taken",
+      "url": "https://open.spotify.com/track/5Wib385Q50uwRxnZ2KQRaM"
     },
     {
       "album": {
@@ -100403,6 +100421,24 @@
       "duration_ms": 120907,
       "name": "Spice Rack",
       "url": "https://open.spotify.com/track/5Li8YZv4KwFY6wMbEkild1"
+    },
+    {
+      "album": {
+        "name": "Spicy Zest",
+        "url": "https://open.spotify.com/album/33zMRhxJCGGkweKfdPvQfR"
+      },
+      "artists": [
+        {
+          "name": "Casino Bianco",
+          "url": "https://open.spotify.com/artist/5X7OxBWmTg024LLmavducM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150027,
+      "name": "Spicy Zest",
+      "url": "https://open.spotify.com/track/5KFq0sLS7aBkcaARm2OpeR"
     },
     {
       "album": {

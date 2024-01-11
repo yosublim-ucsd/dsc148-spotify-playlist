@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,418 songs - 3 day 2 hr 44 min
+1,419 songs - 3 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Am tras draperiile \- Live](https://open.spotify.com/track/68U6uwfsa0W9dZKZYo1uL6) | [Leo de la Rosiori](https://open.spotify.com/artist/1jA2b2NGlnvvoENpJt7To6) | [Am tras draperiile \(Live\)](https://open.spotify.com/album/0hnchdHiheewxgUgOYMYYs) | 3:46 | 2023-10-04 | 2023-10-24 |
 | [Amen \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:21 | 2023-10-07 | 2023-10-09 |
 | [Amnesia](https://open.spotify.com/track/3JhdCHaJZWnvIqFRHhQfCs) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Amnesia](https://open.spotify.com/album/5YK8V15nGoiK1QIxXfH0Yv) | 2:54 | 2021-05-21 | 2021-06-05 |
+| [Amore](https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Amore](https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9) | 2:38 | 2024-01-10 |  |
 | [Amped](https://open.spotify.com/track/2ydwqnjPOcM24MV0kLThwi) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:53 | 2023-07-01 | 2023-07-03 |
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 | 2023-05-20 | 2023-05-24 |
 | [Annihilate \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, Lil Wayne, Offset\)](https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:51 | 2023-06-07 | 2023-06-11 |
@@ -597,7 +598,7 @@
 | [Ia\-ma Du\-ma](https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Ia\-ma Du\-ma](https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG) | 2:48 | 2023-08-21 | 2023-09-01 |
 | [Idealu\`](https://open.spotify.com/track/3LlBFpVjwkQQOhazl774KC) | [LilCagula](https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO) | [Idealu\`](https://open.spotify.com/album/5H3j1rRLFx4uuVBjROo8mI) | 2:23 | 2021-10-27 | 2021-10-29 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 |  |
-| [IKEBANA](https://open.spotify.com/track/0ptGJLVTNJ2PclW8uzpi4K) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [FLAWLE$$ \- EP](https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY) | 2:20 | 2023-12-29 |  |
+| [IKEBANA](https://open.spotify.com/track/0ptGJLVTNJ2PclW8uzpi4K) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [FLAWLE$$ \- EP](https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY) | 2:20 | 2023-12-29 | 2024-01-11 |
 | [Imi Fac Dansul](https://open.spotify.com/track/4tEj23wI6LX8Mx3skjpNvX) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Most Wanted](https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK) | 2:22 | 2022-06-24 | 2022-06-27 |
 | [IMY2 \(with Kid Cudi\)](https://open.spotify.com/track/7F9cT6hIRhnFCYP6GKS0tf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:12 | 2021-09-05 | 2021-09-06 |
 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 | 2021-09-15 | 2021-09-29 |

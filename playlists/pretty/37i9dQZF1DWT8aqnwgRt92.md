@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,397,133 likes - 84 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,397,663 likes - 84 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 40 | [Watashiwa Saikyou \- From CrosSing](https://open.spotify.com/track/7eZTR8aZ0BRr6Tfkh4xrI6) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Watashiwa Saikyou \- From CrosSing](https://open.spotify.com/album/1P7zqeYRHJM7UlXJKv8ooq) | 4:17 |
 | 41 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 |
 | 42 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
-| 43 | [LOVE or HATE?](https://open.spotify.com/track/7L33yiS4Onb1E3sXG9GIzs) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [TVアニメ「悪役令嬢レベル99　～私は裏ボスですが魔王ではありません～」オープニングテーマ「LOVE or HATE?」](https://open.spotify.com/album/0VTxcGlQrSolD02gcWAWX6) | 3:08 |
+| 43 | [LOVE OR HATE?](https://open.spotify.com/track/1FrIwTf4qanLZ291r5aaIV) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [LOVE OR HATE? OPENING THEME FROM TV SERIES ”VILLAINESS LEVEL 99”](https://open.spotify.com/album/5GLpjMK7c1giXA9GFDD99t) | 3:08 |
 | 44 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 45 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 46 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 50 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 4:31 |
 | 51 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 52 | [Y☺u & I](https://open.spotify.com/track/657ejjdXyOZakkC1S1cgKV) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [Y☺u & I](https://open.spotify.com/album/6rTLAKWlNYHIDTdJW7lgdO) | 3:29 |
-| 53 | [routine life](https://open.spotify.com/track/3AdLUaAZTJQyhjs10t5wKk) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [routine life](https://open.spotify.com/album/3nO790FKbCxYTZL5HjVsZZ) | 3:32 |
+| 53 | [Routine Life](https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Routine Life](https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7) | 3:32 |
 | 54 | [声のカケラ](https://open.spotify.com/track/2EECO3bJL0t5ebyKPD6ydV) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [声のカケラ](https://open.spotify.com/album/6tsAkt96h0jDxzvczCriw1) | 4:27 |
-| 55 | [飛花落花](https://open.spotify.com/track/4g5wI6Sln6kK4seB6zxSvw) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [飛花落花](https://open.spotify.com/album/5UoCZMhX52srwyCkrXzrWx) | 3:20 |
+| 55 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 |
 | 56 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
 | 57 | [RISE UP](https://open.spotify.com/track/1fB1NOeELQJwHw5kLeQEf4) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live THE ANIMATION Opening Track「RISE UP」](https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS) | 3:40 |
 | 58 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 63 | [Showdown](https://open.spotify.com/track/5jv9HMHFuV8nIi7KwF6X1Y) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Showdown](https://open.spotify.com/album/2eXZ7BdhPyF7g3krHL5uPC) | 3:23 |
 | 64 | [Day Off](https://open.spotify.com/track/51qR61A8e4sBvNBSnMI9QO) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Day Off](https://open.spotify.com/album/4PGkGGLBfmgOJ7E1m46Vga) | 3:28 |
 | 65 | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/5mGYUEVZ9UR7JYKCbgWnkV) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/3SOGVZE05ZKcJSLIm3BLR6) | 2:28 |
-| 66 | [Abyss\-Over](https://open.spotify.com/track/3vvygyjWxhTYKCyb8FI7g3) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/5nGHLmItbkt5eUKAwns41k) | 3:52 |
+| 66 | [Abyss\-Over](https://open.spotify.com/track/1EN4v238bm5XLgjT3qa323) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/1WN888rItH426MpIBh4zcq) | 3:52 |
 | 67 | [恋してる自分すら愛せるんだ](https://open.spotify.com/track/62dL2rUkI4T7mAgwCVclJi) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [恋してる自分すら愛せるんだ](https://open.spotify.com/album/5c8jlwAovhxg04NiOVotCb) | 3:32 |
 | 68 | [曖昧ガール](https://open.spotify.com/track/54qT1AYEyWgSlum4qbjJAE) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [曖昧ガール](https://open.spotify.com/album/3bEMNmtQYs3QGMacRA1SvA) | 3:58 |
 | 69 | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/track/2rugT3UVSZsmmmat3ElLqP) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/album/46OnDsJZsnWOArf7ZoDUsI) | 4:08 |
-| 70 | [シェキラ☆☆☆](https://open.spotify.com/track/6kO083O2vEVcuwpR4WdVnR) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA) | 4:22 |
+| 70 | [Shekira](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Shekira](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 |
 | 71 | [Cotton Days](https://open.spotify.com/track/41hNGkweGxQFmbJlaDv1jR) | [Sizuk](https://open.spotify.com/artist/5UNvWvt9sIB2DmhHzpkwBM), [Kotoha](https://open.spotify.com/artist/76pJHTMyTukyWJNR6yRrZS) | [Cotton Days](https://open.spotify.com/album/2TUj2JtNyWd0tBwR3pw6K5) | 3:46 |
 | 72 | [Fluffy Party, Everybody Happy](https://open.spotify.com/track/0zGrm78CAfDfmlgCWkqMBi) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Fluffy Party, Everybody Happy](https://open.spotify.com/album/2oZu07ZFSkXRLFtrIotiE7) | 4:20 |
 | 73 | [明日は明日の風が吹く](https://open.spotify.com/track/7fNzd4Dk11gz0Bw1K1PrzD) | [LEEVELLES](https://open.spotify.com/artist/18fdEUD62UUaQx0RP57dog) | [明日は明日の風が吹く](https://open.spotify.com/album/43qRtHShY0CnF3wtKKTuEA) | 3:05 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 83 | [愛故](https://open.spotify.com/track/5tVHc3sHss7o3gwBiMo24D) | [むﾄ](https://open.spotify.com/artist/38gt1AsY6ZhEtrOP7e94ui) | [愛故](https://open.spotify.com/album/3kZzmKM5IwUyYStjHFTGoG) | 3:44 |
 | 84 | [BLUE BUD](https://open.spotify.com/track/4tT27irqZ5muAdDoVbMeio) | [青木陽菜](https://open.spotify.com/artist/5mUGS61tvbFlPgRW3ibdbx) | [BLUE BUD](https://open.spotify.com/album/4PhY3tQSEPEubND9Vun5pG) | 3:56 |
 
-Snapshot ID: `MCwzNjcxZWRkOTI2OGM4NWMwNjIxNTExYjBmMTRjNTllMWM4MDg5ZWVm`
+Snapshot ID: `MCwxNTBlMTMzNjIwZGQzMDM5NjZmMzE2ZWNiYmJkOWU4ZGYzOWRhMGZi`

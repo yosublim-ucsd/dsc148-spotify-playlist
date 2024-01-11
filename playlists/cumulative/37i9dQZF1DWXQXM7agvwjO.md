@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS \(Thailand\), GANGGA \(Indonesia\)
 
-1,125 songs - 2 day 19 hr 50 min
+1,126 songs - 2 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Antidote](https://open.spotify.com/track/39yw4rOahVl6Yg9lz7BN1F) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Antidote](https://open.spotify.com/album/0MnfNB3z2eK1gPvk5QWNtB) | 5:00 | 2023-04-20 | 2023-05-26 |
 | [ANXIOUS HEART](https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/0jIUaKjd0A3WSKSNWJZjRZ) | 3:26 | 2023-09-29 | 2023-12-06 |
 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-04-21 | 2023-11-24 |
-| [Apart, so](https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Apart, so](https://open.spotify.com/album/4wqtBzrhuytFJoNhVmAtKy) | 3:28 | 2023-12-08 |  |
+| [Apart, so](https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Apart, so](https://open.spotify.com/album/4wqtBzrhuytFJoNhVmAtKy) | 3:28 | 2023-12-08 | 2024-01-11 |
 | [Aphrodite](https://open.spotify.com/track/1SDJc7GlAZWHf7E72DUbSA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Aphrodite](https://open.spotify.com/album/4LD1Urj2qAUoyMSlXDz1QU) | 3:53 | 2022-06-02 | 2022-07-29 |
 | [Aphrodite](https://open.spotify.com/track/76HyU4x0lvucRXTXeCca0I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 3:53 | 2023-04-20 | 2023-07-05 |
 | [APPLE PIE](https://open.spotify.com/track/2wTQqHB7S81sdNbNmrvSyG) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Darren Ashley](https://open.spotify.com/artist/5N0Y2jMirjocizWBWJBXu3) | [APPLE PIE](https://open.spotify.com/album/5kRBx7g0FjPoZ5uO1sf5mE) | 2:21 | 2023-06-22 | 2023-07-16 |
@@ -1114,6 +1114,7 @@
 | [瀏海被風吹得整個飛起來](https://open.spotify.com/track/14W2gcRSJjVJc1u6dVNHfA) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [瀏海被風吹得整個飛起來](https://open.spotify.com/album/3p2pEqMl2JkpjSeXwnGudr) | 3:41 | 2023-10-12 | 2023-11-10 |
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-18 | 2023-05-26 |
 | [留在原地等你追](https://open.spotify.com/track/4lX0k2U34XEVZcAhh9xSOu) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [留在原地等你追](https://open.spotify.com/album/4QBcJM4hB8sRAQP2s6SRDL) | 3:42 | 2022-07-21 | 2022-08-05 |
+| [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 | 2024-01-10 |  |
 | [窓](https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [窓](https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP) | 4:16 | 2023-06-01 | 2023-07-15 |
 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 | 2023-05-25 |  |
 | [羽球少年](https://open.spotify.com/track/7rAMxhio3gkeUzn5HoUMmo) | [イルカポリス 海豚刑警](https://open.spotify.com/artist/5F14oggNO5Nvl08UsULzaT) | [羽球大報社《Bad News Punched!》](https://open.spotify.com/album/1FoxPReflUbnRmEDByYlvj) | 5:05 | 2022-09-15 | 2022-11-11 |

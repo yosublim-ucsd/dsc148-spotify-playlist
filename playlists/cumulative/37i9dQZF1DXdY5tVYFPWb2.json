@@ -9131,6 +9131,24 @@
     },
     {
       "album": {
+        "name": "Lonely Paradox",
+        "url": "https://open.spotify.com/album/3cUllXtHAkPuR9VTWz0OGg"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248098,
+      "name": "Tomodachi",
+      "url": "https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9"
+    },
+    {
+      "album": {
         "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
       },
@@ -9142,7 +9160,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 248098,
       "name": "TOMODACHI",
       "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"

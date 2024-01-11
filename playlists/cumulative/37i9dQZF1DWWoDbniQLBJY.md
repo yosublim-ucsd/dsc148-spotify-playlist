@@ -4,7 +4,7 @@
 
 > Aquí viven las canciones acústicas\. Cover: Maria Becerra
 
-192 songs - 11 hr 29 min
+192 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 | 2022-05-19 |  |
 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 | 2023-04-28 |  |
 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 | 2021-12-16 | 2023-04-29 |
-| [CORAZÓN VACÍO](https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ACOUSTIC SESSION](https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7) | 3:30 | 2024-01-05 |  |
+| [CORAZÓN VACÍO](https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ACOUSTIC SESSION](https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7) | 2:41 | 2024-01-05 |  |
 | [creo que todo estará bien](https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [creo que todo estará bien](https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR) | 3:40 | 2021-12-16 | 2023-04-20 |
 | [cuando llega la noche](https://open.spotify.com/track/2TghtDAOjl0jMPzi69MRLU) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [cuando llega la noche](https://open.spotify.com/album/7sDuY9YxEf4X0eIUXnAw6K) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Cuando Se Apaga la Luz \(Live\)](https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Matadero 5 \(Live\)](https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V) | 2:32 | 2023-06-02 | 2023-10-09 |
@@ -91,7 +91,7 @@
 | [La Bilirrubina](https://open.spotify.com/track/6OOIW83rFMkhsI7CJWDh2q) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Bilirrubina](https://open.spotify.com/album/0kh4VLOCR08XhntHTplGqC) | 3:50 | 2021-12-16 | 2022-07-29 |
 | [La Bilirrubina](https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Bilirrubina](https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV) | 3:50 | 2022-06-07 |  |
 | [La Camisa Negra \- MTV Unplugged](https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:45 | 2021-12-16 | 2023-04-29 |
-| [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 | 2021-12-16 |  |
+| [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 | 2021-12-16 | 2024-01-11 |
 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 | 2021-12-16 |  |
 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 | 2021-12-16 |  |
 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 | 2021-12-16 | 2022-05-20 |
@@ -128,7 +128,7 @@
 | [NTN](https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [NTN](https://open.spotify.com/album/0iSx1yoFUpRmXrS2C8099U) | 3:04 | 2021-12-16 | 2023-01-05 |
 | [ojitos caramelo](https://open.spotify.com/track/3TDIrNpqBTHx4ePEBh6zyR) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/3tBjBSHpI7up9rQWNWZ3PL) | 2:27 | 2021-12-16 | 2022-07-29 |
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2022-06-07 |  |
-| [Ojos Chiquitos](https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Ojos Chiquitos](https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn) | 3:06 | 2023-04-28 | 2024-01-06 |
+| [Ojos Chiquitos](https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Ojos Chiquitos](https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn) | 3:06 | 2023-04-28 |  |
 | [pa' que sueñes](https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [pa' que sueñes](https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq) | 2:50 | 2021-12-16 |  |
 | [Paciencia](https://open.spotify.com/track/4vSRCnFOAIsBJLAbpjPoVY) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01](https://open.spotify.com/album/79LAYJa8qdSO7mUFIptXkm) | 3:29 | 2021-12-16 | 2022-07-28 |
 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 | 2022-06-07 |  |

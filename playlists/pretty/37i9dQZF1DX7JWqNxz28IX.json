@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43585,
+  "num_followers": 43600,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzY3YTAyMzZjZWNjODg3YTA4MDI4NmZiYWVlZmE4NjJmMDBlM2E0",
+  "snapshot_id": "MCxlZDQzMjczMDY3MmMzZThlYjQ2YTE0Njc1NzUxZWFlMWQ4NzE4NDFj",
   "tracks": [
     {
       "added_at": "2023-12-06 17:08:54",
@@ -475,6 +475,26 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "ALESSIA",
+        "url": "https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "PROLOGO",
         "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
@@ -487,22 +507,6 @@
       "duration_ms": 193067,
       "name": "solo polvere.",
       "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "SPECCHIO",
-        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 91006,
-      "name": "SPECCHIO (interludio)",
-      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "ALESSIA",
-        "url": "https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2"
+        "name": "SPECCHIO",
+        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
       },
       "artists": [
         {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 144187,
-      "name": "ALESSIA",
-      "url": "https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ"
+      "duration_ms": 91006,
+      "name": "SPECCHIO (interludio)",
+      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -727,22 +727,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Penso a te",
-        "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
+        "name": "Sedato e Deluso",
+        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
       "artists": [
         {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
         },
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Elan Rood",
+          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
         }
       ],
-      "duration_ms": 123373,
-      "name": "Penso a te",
-      "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
+      "duration_ms": 202744,
+      "name": "Sedato e Deluso",
+      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -763,22 +763,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Sedato e Deluso",
-        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
+        "name": "Penso a te",
+        "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         },
         {
-          "name": "Elan Rood",
-          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 202744,
-      "name": "Sedato e Deluso",
-      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
+      "duration_ms": 123373,
+      "name": "Penso a te",
+      "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -867,8 +867,8 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Lacrime di sale",
-        "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 195683,
-      "name": "Lacrime di sale",
-      "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -955,8 +955,8 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+        "name": "Lacrime di sale",
+        "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
+      "duration_ms": 195683,
+      "name": "Lacrime di sale",
+      "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "TAXI DRIVER (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "MUSICA ALTA E STRESS",
         "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "MOVIMENTO + THE DAY AFTER",
-        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 174720,
       "name": "DOVE SEI",
       "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "MOVIMENTO + THE DAY AFTER",
+        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "ME & YOU",
+        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
+        }
+      ],
+      "duration_ms": 137008,
+      "name": "ME & YOU",
+      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "Mille Pezzi",
         "url": "https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 144000,
       "name": "Pagine",
       "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "ME & YOU",
-        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Friman",
-          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
-        }
-      ],
-      "duration_ms": 137008,
-      "name": "ME & YOU",
-      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Fuori di me",
-        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        },
-        {
-          "name": "Liarr",
-          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
-        }
-      ],
-      "duration_ms": 166267,
-      "name": "Clipper",
-      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Rottami",
         "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
       },
@@ -1627,6 +1607,42 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "Fuori di me",
+        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
+      },
+      "artists": [
+        {
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        },
+        {
+          "name": "Liarr",
+          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
+        }
+      ],
+      "duration_ms": 166267,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E"
+      },
+      "artists": [
+        {
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
+        }
+      ],
+      "duration_ms": 195638,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "Demonio",
         "url": "https://open.spotify.com/album/2FHdSgPhLBJVaXWqMOK1dT"
       },
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E"
+        "name": "Primo Amore",
+        "url": "https://open.spotify.com/album/5PW64jViF0tYk0VWwTlMl5"
       },
       "artists": [
         {
-          "name": "TB",
-          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
+          "name": "Yungdobro",
+          "url": "https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI"
         }
       ],
-      "duration_ms": 195638,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX"
+      "duration_ms": 216000,
+      "name": "Lettera (interlude)",
+      "url": "https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1695,22 +1711,6 @@
       "duration_ms": 160434,
       "name": "sai che...",
       "url": "https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "Primo Amore",
-        "url": "https://open.spotify.com/album/5PW64jViF0tYk0VWwTlMl5"
-      },
-      "artists": [
-        {
-          "name": "Yungdobro",
-          "url": "https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Lettera (interlude)",
-      "url": "https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr"
     },
     {
       "added_at": "2023-12-06 17:08:54",

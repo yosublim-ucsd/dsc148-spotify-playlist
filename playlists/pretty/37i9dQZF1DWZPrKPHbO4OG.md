@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,781 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,797 likes - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 36 | [Dhuvun Taak](https://open.spotify.com/track/2usex5owBBkwP9AyEqv8Ve) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Mauli](https://open.spotify.com/album/1ryMRndatZ15JqIleq2j3G) | 3:34 |
 | 37 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
 | 38 | [Gau Nako Kisna](https://open.spotify.com/track/3VLNmCARrPjOa7sdWBbDmV) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Jayesh Khare](https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U), [Mayur Sukale](https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Maharashtra Shaheer](https://open.spotify.com/album/1oXMGtOGL9zjBLbaEeziBQ) | 5:04 |
-| 39 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
-| 40 | [Punyachi Maina Remix](https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31) | [Dj Lucky Yash Nsk](https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY) | [Punyachi Maina Remix](https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK) | 2:45 |
+| 39 | [Dolby Walya](https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Earl Edgar](https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS) | [Jau Dya Na Balasaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK) | 5:35 |
+| 40 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 
-Snapshot ID: `MCwwOWIwNjdiYjM2ZGY1Y2ViZDdlZTVmZTQyZmE3Yjg3NDhiMDk3NzU0`
+Snapshot ID: `MCwwMGMzNWVmMDJlMDhiNWJkODliM2M4ZTljZDI0YjZmOTFkMDgwZTU1`

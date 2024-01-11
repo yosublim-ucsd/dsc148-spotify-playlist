@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-860 songs - 1 day 9 hr 22 min
+861 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Head Down](https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Head Down](https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P) | 2:29 | 2022-04-22 | 2022-12-10 |
 | [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 |  |
 | [Heat Sink](https://open.spotify.com/track/1LkKE6EKpkBXBqYnfaPHXE) | [Yeriho](https://open.spotify.com/artist/78i2cMCD9ZGsHitYgLbMhW), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Odyssey](https://open.spotify.com/album/0tt8x0BZjFBKRbPP5Z5tNq) | 2:00 | 2022-07-22 | 2022-12-10 |
-| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 |  |
+| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 | 2024-01-11 |
 | [Heavensent](https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Heavensent](https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y) | 3:04 | 2023-12-22 |  |
 | [Hello, Beautiful](https://open.spotify.com/track/0EZBeSP6JhQ9tiZRkm45wE) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:16 | 2022-04-15 | 2022-06-10 |
 | [Hello, Hi](https://open.spotify.com/track/5W3FAOOcBGlhyS14THQvPC) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Hello, Hi](https://open.spotify.com/album/33JTS1buALOUApqVP63eSL) | 2:10 | 2022-06-03 | 2022-09-03 |
@@ -542,6 +542,7 @@
 | [Picnick](https://open.spotify.com/track/6CyYIjbUN6lMnkQUH2c0Lj) | [La Boucle](https://open.spotify.com/artist/6R14Zw9WcySCc35CvliDbV) | [Picnick](https://open.spotify.com/album/2ywLc02L8RRBeQsPlSBUFo) | 3:10 | 2023-01-13 |  |
 | [picture settings](https://open.spotify.com/track/18cvnQtuAbYBpiDKxW6BgJ) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [picture settings](https://open.spotify.com/album/1lFlQ2HEVCaw825ZMzWFjv) | 3:06 | 2022-06-10 | 2023-07-20 |
 | [piece of cake](https://open.spotify.com/track/4rwk2fkjHLRF5hnJiZRIAw) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [piece of cake](https://open.spotify.com/album/2ISl6imEYl6rHKHjzASGM2) | 2:22 | 2023-11-17 |  |
+| [Pink Soda](https://open.spotify.com/track/5MSeGUnLLWatEBCxViIcGC) | [Keylo Parks](https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn) | [Pink Soda](https://open.spotify.com/album/4H09JXtQEzll5guGsSP2Vt) | 2:42 | 2024-01-05 |  |
 | [Pink Waters](https://open.spotify.com/track/0RnUzVJENbMYhU5Eb7xbRe) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Pink Waters](https://open.spotify.com/album/6ggugqKNKHGdB96D6Ujotj) | 1:59 | 2022-04-15 | 2022-09-24 |
 | [Pjl \- 平和 正義感 フリーダム](https://open.spotify.com/track/2CqgdkFRS2HeiBp0hPvQQc) | [Lusca061](https://open.spotify.com/artist/2aLJPHGJD4D6WAPvS5mW48) | [Pjl \- 平和 正義感 フリーダム](https://open.spotify.com/album/18MpdfuMLX46cV4X6BaeSA) | 3:13 | 2022-04-15 | 2022-07-29 |
 | [Plant Based](https://open.spotify.com/track/1xhKWuFY0iCBsUgLOKzxdJ) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Plant Based](https://open.spotify.com/album/5DolwMWX6UsnOODUpAKscF) | 1:57 | 2022-04-15 | 2022-07-29 |

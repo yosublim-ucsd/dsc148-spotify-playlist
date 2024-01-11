@@ -1,12 +1,12 @@
 {
   "description": "The most romantic tracks of all time, featuring today's hits and all the classics.",
-  "num_followers": 575029,
+  "num_followers": 574706,
   "original_name": "Valentine's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2VkOWRjNDg0MTE1OTIxNmJmNTVkOTU3OTdiZjJlMGRlMzY4Y2I1",
+  "snapshot_id": "MCw0MDZlOTU1MzNiOTdjYjYyYmU4MDQwZjE3NjMzOTc0NDVkNmVhNTNj",
   "tracks": [
     {
       "added_at": "2023-02-14 15:24:25",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Let's Get It On",
-        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 291360,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "The Very Best of Frankie Valli & The 4 Seasons",
         "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 203240,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 291360,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "I Can Stand A Little Rain",
+        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "In Motion Pictures",
-        "url": "https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "She",
-      "url": "https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Gossip In The Grain",
         "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "In Motion Pictures",
+        "url": "https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "She",
+      "url": "https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Tennessee Orange",
-        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "added_at": "2023-02-14 15:24:25",

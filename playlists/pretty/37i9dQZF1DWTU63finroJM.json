@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Yam\u00ea.",
-  "num_followers": 58322,
+  "num_followers": 58337,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWRjZTdjYmI1YzBhMWJkYmY1YzQ3MTVjNWFiMmIxYzg4MWYyMDg4",
+  "snapshot_id": "MCw1NDM3NTQ1OGQ5M2UxMjc1ZjZiZGU4NmQyOGVjM2NkOWViMjVhZWVk",
   "tracks": [
     {
       "added_at": "2023-10-05 08:01:42",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
     },
     {
-      "added_at": "2023-12-07 06:00:00",
-      "album": {
-        "name": "Jadoo",
-        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "Jadoo",
-      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
-    },
-    {
       "added_at": "2023-08-18 06:00:00",
       "album": {
         "name": "SUN7",
@@ -543,6 +527,22 @@
       "duration_ms": 147692,
       "name": "SENSATION",
       "url": "https://open.spotify.com/track/0pIWSS7xmChrYzfNFEfdzn"
+    },
+    {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
       "added_at": "2023-10-27 10:47:14",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Hoa C\u1ecf Lau",
-        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
-      },
-      "artists": [
-        {
-          "name": "Phong Max",
-          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
-        }
-      ],
-      "duration_ms": 210820,
-      "name": "Hoa C\u1ecf Lau",
-      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "\u5931\u7d04\u5df4\u9ece",
         "url": "https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4"
       },
@@ -793,24 +777,20 @@
       "url": "https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9"
     },
     {
-      "added_at": "2023-11-10 06:00:00",
+      "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Downgrade",
-        "url": "https://open.spotify.com/album/0ZO4POLOhmSkLwWkiizPKz"
+        "name": "Hoa C\u1ecf Lau",
+        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
       },
       "artists": [
         {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        },
-        {
-          "name": "Zymba",
-          "url": "https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo"
+          "name": "Phong Max",
+          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
         }
       ],
-      "duration_ms": 150133,
-      "name": "Downgrade",
-      "url": "https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9"
+      "duration_ms": 210820,
+      "name": "Hoa C\u1ecf Lau",
+      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
     },
     {
       "added_at": "2023-09-08 07:14:00",
@@ -865,6 +845,42 @@
       "url": "https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd"
     },
     {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Downgrade",
+        "url": "https://open.spotify.com/album/0ZO4POLOhmSkLwWkiizPKz"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        },
+        {
+          "name": "Zymba",
+          "url": "https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "Downgrade",
+      "url": "https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9"
+    },
+    {
+      "added_at": "2023-11-23 06:00:00",
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
+    },
+    {
       "added_at": "2023-09-01 09:20:13",
       "album": {
         "name": "Raaz Tera Mera",
@@ -911,22 +927,6 @@
       "duration_ms": 112694,
       "name": "Diss Na Mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek"
-    },
-    {
-      "added_at": "2023-11-23 06:00:00",
-      "album": {
-        "name": "VENERE",
-        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
-      },
-      "artists": [
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "VENERE",
-      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc"
     },
     {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Born To Win",
+        "url": "https://open.spotify.com/album/28rgW6IXDsrk4YtTcFtGGK"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1"
+    },
+    {
       "added_at": "2023-12-01 06:29:10",
       "album": {
         "name": "Mi\u0142o\u015b\u0107 w czasach",
@@ -1091,22 +1107,6 @@
       "duration_ms": 158507,
       "name": "Mi\u0142o\u015b\u0107 w czasach",
       "url": "https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Born To Win",
-        "url": "https://open.spotify.com/album/28rgW6IXDsrk4YtTcFtGGK"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1"
     },
     {
       "added_at": "2023-12-07 06:00:00",
@@ -1157,26 +1157,6 @@
       "url": "https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF"
     },
     {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
-        "url": "https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 139260,
-      "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
-      "url": "https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr"
-    },
-    {
       "added_at": "2023-11-23 06:00:00",
       "album": {
         "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
@@ -1195,6 +1175,26 @@
       "duration_ms": 130602,
       "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 139260,
+      "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr"
     },
     {
       "added_at": "2023-12-07 06:00:00",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/5E7uvya2x1TC3C06GrOdNz"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf"
-      },
-      "artists": [
-        {
-          "name": "Paolo Sandejas",
-          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
-    },
-    {
       "added_at": "2023-12-07 06:00:00",
       "album": {
         "name": "Mamas Car",
@@ -1657,20 +1641,20 @@
       "url": "https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j"
     },
     {
-      "added_at": "2023-12-15 06:00:00",
+      "added_at": "2023-05-30 12:45:30",
       "album": {
-        "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
-        "url": "https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ"
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf"
       },
       "artists": [
         {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
         }
       ],
-      "duration_ms": 238792,
-      "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
-      "url": "https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO"
+      "duration_ms": 181000,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1695,6 +1679,22 @@
       "duration_ms": 236708,
       "name": "Ignorant (feat. Puri, Landon Cube) - Spotify Singles",
       "url": "https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
+        "url": "https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "duration_ms": 238792,
+      "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
+      "url": "https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO"
     },
     {
       "added_at": "2023-05-30 12:45:30",

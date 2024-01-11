@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Etta Marcus",
-  "num_followers": 114350,
+  "num_followers": 114343,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTdkZTNiODNjNmMxOTU0MzJiOGY3YTJhYWEyOWFmZDQ1NmQ2YTFi",
+  "snapshot_id": "MCwxYTYwNzM3ZDgxNzYzMjY3YzY3ZmEwM2QxNzI2YjlmZDY4N2E5ZTM4",
   "tracks": [
     {
       "added_at": "2023-12-01 00:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 269440,
-      "name": "Deep End (Paul\u2019s in Pieces)",
-      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Cave World",
         "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 237980,
       "name": "Punk Rock Loser",
       "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 269440,
+      "name": "Deep End (Paul\u2019s in Pieces)",
+      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "GO!!!",
-        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "GO!!!",
-      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Lunar Eclipse",
         "url": "https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176578,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "GO!!!",
+        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Heartbreak Kid",
+        "url": "https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 180978,
+      "name": "Heartbreak Kid",
+      "url": "https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 155262,
       "name": "Holdup",
       "url": "https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Heartbreak Kid",
-        "url": "https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 180978,
-      "name": "Heartbreak Kid",
-      "url": "https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Waste My Life",
         "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Overload",
-      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Overload",
+      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Big Red",
-        "url": "https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "September",
-      "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Big Red",
+        "url": "https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"
     },
     {
       "added_at": "2023-12-01 00:00:00",

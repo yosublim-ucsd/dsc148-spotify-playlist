@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,106 likes - 120 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,047 likes - 120 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 39 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/4oA28gyvU6PMCH9nAGP2z1) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Christmas with Mahalia](https://open.spotify.com/album/0MXMxhg7CR3TMsvlnwWJT0) | 3:24 |
 | 40 | [Heaven Sent \(Gift\)](https://open.spotify.com/track/0ooKBUcLFGskn1nq5cNNnB) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j), [HFP Music](https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG) | [Heaven Sent \(Gift\)](https://open.spotify.com/album/40xoVCjXCcPPRBIsXVO1vf) | 3:38 |
 | 41 | [Home for Christmas \(feat\. Joe\) \(feat\. Joe\)](https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Christmas Card](https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU) | 4:00 |
-| 42 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 4:07 |
+| 42 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 |
 | 43 | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/track/6xjVbr6rKmM1KIu0lvIDd9) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/album/7b1uYXS3lvyK5mKOnE9hFH) | 2:30 |
-| 44 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 |
+| 44 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 4:07 |
 | 45 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 |
 | 46 | [Oh Come Emmanuel](https://open.spotify.com/track/2M4bPMboF6KmA4paixqo0I) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 2:47 |
 | 47 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 4:24 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 119 | [Follow That Star](https://open.spotify.com/track/5PT3xaGkIN9xsRK8U5fpbx) | [Renwick Duesbury](https://open.spotify.com/artist/7GyRgZVKAKXs8RZKz4Omn4) | [Follow That Star](https://open.spotify.com/album/19USTGFVfbU8zrR77imn8M) | 2:37 |
 | 120 | [Let Us Adore Him](https://open.spotify.com/track/7peW5UXzirPe8Lhcsc3cxi) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 3:39 |
 
-Snapshot ID: `MCwwN2MyYWVlZGExMTcxYjk1ZTEwMTI5OGRiM2QzMjRhYzY0YjU5YTFl`
+Snapshot ID: `MCw5ZTVlYjNhZGEwZDM3Y2RlNjk4ZWM2YTE2ZjRlZTRlNzU2NDA3ZjZm`

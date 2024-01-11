@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 208940,
+  "num_followers": 208859,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjA0MjdhOTI0ODAxNzk5NTA4MGQ2YmQ0YmU3MjcxNmM5ZGRmZjhi",
+  "snapshot_id": "MCxkMDYzZDcxYTVkYWU2YzM3YTQxMzg0M2Q3ODQ4YWI2NWM4YzQzMzcy",
   "tracks": [
     {
       "added_at": "2023-12-11 13:59:45",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Every Home Should Have One",
         "url": "https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 215386,
       "name": "Baby, Come To Me",
       "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Let Me In Your Life",
-        "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
-      "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Rit, Vol. 1",
         "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 269653,
       "name": "Is It You",
       "url": "https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Let Me In Your Life",
+        "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
+      "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 332866,
       "name": "Feel the Fire",
       "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/6oOpy2bMqIoqFdK0vSfHxR"
+      },
+      "artists": [
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        }
+      ],
+      "duration_ms": 201993,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "Golden Time Of Day (Remastered)",
         "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 333666,
       "name": "Golden Time Of Day - Remastered",
       "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/6oOpy2bMqIoqFdK0vSfHxR"
-      },
-      "artists": [
-        {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "This Time",
-      "url": "https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
-        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "Almaz",
-      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Color Rit (Remastered)",
         "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 256173,
       "name": "I Can\u2019t Let Go - Remastered",
       "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
+        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Almaz",
+      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
     },
     {
       "added_at": "2023-12-11 13:59:45",

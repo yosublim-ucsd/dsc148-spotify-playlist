@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: No\u00e9 Preszow",
-  "num_followers": 39471,
+  "num_followers": 39454,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjJjNWQ0ZjI0NTdkYzA2OTU2NjMzNWE0NGI0ZGZkNzE2MDAwMTFi",
+  "snapshot_id": "MCwxOWI4OWUzNDM2MTZjNmRhOTM5ODMyODEzMjJhODUxY2YwMWMxMzgy",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -27,22 +27,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+        "name": "I love you",
+        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         },
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 216386,
-      "name": "NOTRE DAME",
-      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+      "duration_ms": 238344,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -63,22 +63,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "I love you",
-        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         },
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 238344,
-      "name": "I love you",
-      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+      "duration_ms": 216386,
+      "name": "NOTRE DAME",
+      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Bonsoir Paris (Mama No Cry)",
-        "url": "https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn"
-      },
-      "artists": [
-        {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 218392,
-      "name": "Bonsoir Paris (Mama No Cry)",
-      "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 170026,
       "name": "Je cours (feat. Nuit Incolore)",
       "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Bonsoir Paris (Mama No Cry)",
+        "url": "https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn"
+      },
+      "artists": [
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 218392,
+      "name": "Bonsoir Paris (Mama No Cry)",
+      "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -587,22 +587,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "I Got U (feat. Niska)",
-        "url": "https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR"
+        "name": "2006 (Opps qui court)",
+        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         }
       ],
-      "duration_ms": 202886,
-      "name": "I Got U (feat. Niska)",
-      "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
+      "duration_ms": 178346,
+      "name": "2006 - Opps qui court",
+      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -627,6 +623,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "I Got U (feat. Niska)",
+        "url": "https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "I Got U (feat. Niska)",
+      "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 183981,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "2006 (Opps qui court)",
-        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 178346,
-      "name": "2006 - Opps qui court",
-      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "HOOD VOLUME.1",
+        "url": "https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        },
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "MODE HARDCORE",
+      "url": "https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Plaisir Risque D\u00e9pendance",
         "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
       },
@@ -823,6 +843,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "CONNEXION",
+        "url": "https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog"
+      },
+      "artists": [
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "CONNEXION",
+      "url": "https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
       },
@@ -843,22 +879,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "HOOD VOLUME.1",
-        "url": "https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu"
+        "name": "Une bonne sant\u00e9 et grave des lards",
+        "url": "https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f"
       },
       "artists": [
         {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
-        },
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
         }
       ],
-      "duration_ms": 205000,
-      "name": "MODE HARDCORE",
-      "url": "https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo"
+      "duration_ms": 177467,
+      "name": "Une bonne sant\u00e9 et grave des lards",
+      "url": "https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -875,38 +907,6 @@
       "duration_ms": 176129,
       "name": "Traficante",
       "url": "https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "CRASH C\u0152UR",
-        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "CRASH <3",
-      "url": "https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Une bonne sant\u00e9 et grave des lards",
-        "url": "https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f"
-      },
-      "artists": [
-        {
-          "name": "Kalash Criminel",
-          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
-        }
-      ],
-      "duration_ms": 177467,
-      "name": "Une bonne sant\u00e9 et grave des lards",
-      "url": "https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-1,843 songs - 4 day 6 hr 45 min
+1,844 songs - 4 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-08-09 | 2022-08-14 |
 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2022-12-27 | 2023-02-15 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-26 |  |
+| [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 | 2024-01-10 |  |
 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 | 2023-02-07 | 2023-02-15 |
 | [Bendecidos](https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Cayro Music](https://open.spotify.com/artist/0oLSGoCin3HiQSbBdnFyZ9) | [Bendecidos](https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH) | 8:47 | 2023-12-19 | 2024-01-06 |
 | [Besitos](https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Besitos](https://open.spotify.com/album/0ywsmAj4XOjXIP0OwJJJBj) | 5:01 | 2023-12-19 |  |
@@ -607,7 +608,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-02-01 | 2022-02-11 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-05-31 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-05-03 | 2022-05-08 |
-| [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2024-01-01 |  |
+| [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2024-01-01 | 2024-01-11 |
 | [Five Nights at Freddy's](https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI) | 2:45 | 2023-10-31 | 2023-11-07 |
 | [Five Nights at Freddy's](https://open.spotify.com/track/0DdYEWziPqBCMFniUUEF0G) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Five Nights at Freddy's \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01KywY7C5p1Vv2BNyKci34) | 2:16 | 2023-11-15 | 2023-11-17 |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2022-03-18 | 2022-03-30 |

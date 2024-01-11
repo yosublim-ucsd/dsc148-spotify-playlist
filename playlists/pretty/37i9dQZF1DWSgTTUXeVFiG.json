@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 30129,
+  "num_followers": 30188,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2Q3OWE5ZjlhZGY0ZDQyMTJlYjY1NmY4NTFjYmU4NDM0M2JjYTA3",
+  "snapshot_id": "MCxlNGZmNzc0Njk4NzE0Mjg0NTIzOWRmOTExY2YwNWEyNDg3MzhiNmJk",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -727,22 +727,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Todos Vuelven Live, Vol. 2",
-        "url": "https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
       },
       "artists": [
         {
-          "name": "Ruben Blades",
-          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
-        },
-        {
-          "name": "Seis del Solar",
-          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 489853,
-      "name": "Pedro Navaja - Live",
-      "url": "https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2"
+      "duration_ms": 177720,
+      "name": "El Cantante - Live",
+      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -791,18 +787,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+        "name": "Todos Vuelven Live, Vol. 2",
+        "url": "https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
         }
       ],
-      "duration_ms": 177720,
-      "name": "El Cantante - Live",
-      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
+      "duration_ms": 489853,
+      "name": "Pedro Navaja - Live",
+      "url": "https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "A Night Of Salsa",
-        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 401466,
-      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
-      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 352480,
       "name": "Medias Negras - Live Version",
       "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "A Night Of Salsa",
+        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 401466,
+      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
+      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
     },
     {
       "added_at": "2022-03-18 05:00:00",

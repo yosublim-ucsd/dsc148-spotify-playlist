@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 492886,
+  "num_followers": 492705,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzZmZjY2Y2VlNTAxMjQwNGExMzdlMGEzZTIxZGY5ZDM5Zjg3NDJm",
+  "snapshot_id": "MCw5MTc1ZWE1ODcyMGI5ODA5MTZkODk1OGZhMWM3YTI4OTRkNGE1OWQ4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Shake Hands With Shorty",
+        "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "Shake 'Em On Down",
+      "url": "https://open.spotify.com/track/2rtQWHXfXwyxKYyoWo60zw"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Brickyard Road",
         "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Shake Hands With Shorty",
-        "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
         }
       ],
-      "duration_ms": 248960,
-      "name": "Shake 'Em On Down",
-      "url": "https://open.spotify.com/track/2rtQWHXfXwyxKYyoWo60zw"
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Southern Rock Gold",
-        "url": "https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN"
+        "name": "Shake Hands With Shorty",
+        "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
       },
       "artists": [
         {
-          "name": "Still Water",
-          "url": "https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
         }
       ],
-      "duration_ms": 256880,
-      "name": "Mind Bender",
-      "url": "https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC"
+      "duration_ms": 370426,
+      "name": "Goin' Down South",
+      "url": "https://open.spotify.com/track/2oROjYKgLpkH62lrVPGBZE"
     }
   ],
   "unique_name": "Southern Rock",

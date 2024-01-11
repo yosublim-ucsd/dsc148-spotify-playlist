@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15126,
+  "num_followers": 15124,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGI3OGFjMjM5MTM5ODUxZTViMTEwNTJlMDg2YTlmZTk2OTJiYzdh",
+  "snapshot_id": "MCwwOGQ0ZjE1NmMxMTIxOWRjYTg3ZWZjNzYwMjBiMDIyMmMwZDU4ZGUy",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:18",
@@ -451,6 +451,26 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "how i remember",
+        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "goodnight",
+      "url": "https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 237520,
       "name": "Human",
       "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "how i remember",
-        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "goodnight",
-      "url": "https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "\uc785\ucd98 Let Me Love My Youth",
-        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "\uc785\ucd98 Let Me Love My Youth",
-      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "\uc785\ucd98 Let Me Love My Youth",
+        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "\uc785\ucd98 Let Me Love My Youth",
+      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
     },
     {
       "added_at": "2023-11-03 06:18:18",

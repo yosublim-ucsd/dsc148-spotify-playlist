@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1221761,
+  "num_followers": 1222393,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGRhMDViZGQ2NDAyZjMwYTJiNzYzNzJiMTNmOGZiNjM0YWEyNmJj",
+  "snapshot_id": "MCw0YzA3N2IxODhmMzgyMmY1N2E3MGM0YTAyYTI3ZGRlNmQ0ZTdjNWI0",
   "tracks": [
     {
       "added_at": "2024-01-05 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "Pacifics - From The Original Motion Picture Soundtrack \u201cN.Y. Is Red Hot\"",
-      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Blazing Arrow",
         "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Pacifics - From The Original Motion Picture Soundtrack \u201cN.Y. Is Red Hot\"",
+      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 154837,
       "name": "Street Jazz",
       "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 260693,
-      "name": "Dog It",
-      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -819,6 +803,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Chapter 7",
+        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Ty",
+          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Chapter 7 (feat. Ty)",
+      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "The Actual Proof",
         "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
       },
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Chapter 7",
-        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Ty",
-          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 287320,
-      "name": "Chapter 7 (feat. Ty)",
-      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+      "duration_ms": 260693,
+      "name": "Dog It",
+      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "The Rain",
         "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1107,6 +1107,30 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "duration_ms": 179463,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1143,30 +1167,6 @@
       "duration_ms": 221333,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
-        }
-      ],
-      "duration_ms": 179463,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1411,18 +1411,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+        "name": "079 (FloFilz Remix)",
+        "url": "https://open.spotify.com/album/05TPfdtXGqzfv9BCkoqBXI"
       },
       "artists": [
         {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
         }
       ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+      "duration_ms": 117546,
+      "name": "079 (FloFilz Remix)",
+      "url": "https://open.spotify.com/track/3BmufJ1d3jKAO27o1MNcib"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "079 (FloFilz Remix)",
-        "url": "https://open.spotify.com/album/05TPfdtXGqzfv9BCkoqBXI"
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
         }
       ],
-      "duration_ms": 117546,
-      "name": "079 (FloFilz Remix)",
-      "url": "https://open.spotify.com/track/3BmufJ1d3jKAO27o1MNcib"
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Can't Let You Go (feat. Nick Grant)",
-        "url": "https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        }
-      ],
-      "duration_ms": 193616,
-      "name": "Can't Let You Go (feat. Nick Grant)",
-      "url": "https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -1679,6 +1659,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Can't Let You Go (feat. Nick Grant)",
+        "url": "https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "duration_ms": 193616,
+      "name": "Can't Let You Go (feat. Nick Grant)",
+      "url": "https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Back At The House",
         "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
       },
@@ -1695,26 +1695,6 @@
       "duration_ms": 258461,
       "name": "Down",
       "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Cosca",
-        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 116756,
-      "name": "Cosca",
-      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1751,6 +1731,26 @@
       "duration_ms": 250360,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Cosca",
+        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 116756,
+      "name": "Cosca",
+      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Heart Shaped Kisses",
         "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 168000,
       "name": "Heart Shaped Kisses",
       "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1863,26 +1863,6 @@
       "duration_ms": 199640,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Protea",
-        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 200775,
-      "name": "Super Rare (feat. Hello O'Shay)",
-      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1927,6 +1907,26 @@
       "duration_ms": 297990,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 200775,
+      "name": "Super Rare (feat. Hello O'Shay)",
+      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
     },
     {
       "added_at": "2024-01-05 03:00:00",

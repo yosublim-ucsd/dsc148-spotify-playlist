@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,802 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,813 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 85 | ['S Wonderful](https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Buddy DeFranco](https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y) | [Buddy Defranco And Oscar Peterson Play George Gershwin](https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3) | 4:21 |
 | 86 | [Ad Lib Blues](https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 5:53 |
 | 87 | [I Can't Get Started](https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1) | [Dizzy Gillespie Sextet](https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 2:55 |
-| 88 | [I Still Love Him So](https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Urbane Jazz Of Roy Eldridge And Benny Carter](https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF) | 5:43 |
-| 89 | [I'll Close My Eyes](https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [Grady Tate](https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 3:23 |
+| 88 | [I'll Close My Eyes](https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [Grady Tate](https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 3:23 |
+| 89 | [I Still Love Him So](https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Urbane Jazz Of Roy Eldridge And Benny Carter](https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF) | 5:43 |
 | 90 | [People Get Ready](https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Goodies](https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6) | 4:14 |
 | 91 | [Maya](https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [High Life](https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU) | 5:12 |
 | 92 | [Stars Fell On Alabama](https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [I Could Write A Book \- Live At Bradshaw's Great American Music Hall, San Francisco/1979](https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Audience With Betty Carter \(Live\)](https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx) | 3:41 |
 | 100 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 
-Snapshot ID: `MCxjNTk0YTZhMmNlYzVmYzJjMWM2MzcyNzI4OTYyNTcwYTFlOTlhOWQ4`
+Snapshot ID: `MCwwNjAzYjdjY2Y4Njg4OGE2MzdlMGIzNDI1NDRiMTkyMmZlOThiOGVk`

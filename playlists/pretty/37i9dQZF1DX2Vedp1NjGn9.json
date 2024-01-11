@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 109319,
+  "num_followers": 109387,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTczOWU0MTk2NTU1ZWQ2NWE0YTczOTEyMGNjMmFhOGI2ZTAzYjRj",
+  "snapshot_id": "MCxiNjQ4OGQzOGRhN2MwZGJhZjIzZWE5ZGQwNWFjYjY5MzVlMzZjNGU0",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 276720,
-      "name": "Limit To Your Love",
-      "url": "https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 276720,
+      "name": "Limit To Your Love",
+      "url": "https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh"
     },
     {
       "added_at": "2022-01-03 14:20:47",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Seven Devils",
-      "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 262079,
       "name": "Perth",
       "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Seven Devils",
+      "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU"
     },
     {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Minnesota, WI",
-      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
-    },
-    {
       "added_at": "2022-01-03 14:20:47",
       "album": {
         "name": "Rome",
@@ -1223,6 +1207,22 @@
       "duration_ms": 163236,
       "name": "Shake, Shake, Shake",
       "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
     },
     {
       "added_at": "2021-09-02 08:15:11",

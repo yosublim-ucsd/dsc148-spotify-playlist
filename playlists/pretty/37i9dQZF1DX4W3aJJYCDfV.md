@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bring Me The Horizon \(pictured\), Lewis Capaldi, The Last Dinner Party and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,774 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,552 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 39 | [Thinking Out Loud \(Another Bag\)](https://open.spotify.com/track/2pSey3nQAHWDs1yelnqx9I) | [Benjamin A.D](https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN) | [ULTRA RARE:](https://open.spotify.com/album/4iHp0L4gxfsS73JQaZ81OD) | 2:49 |
 | 40 | [Ain't No Way 2024](https://open.spotify.com/track/4R2lfQVqaPgvqt3gwMcj6I) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [The Riddler](https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l) | [Ain't No Way 2024](https://open.spotify.com/album/0hnWRdRsayfrvFEKurtWJD) | 2:58 |
 | 41 | [No Thank You For The Music](https://open.spotify.com/track/02KgdbM5JkhtBUBIkjFaaA) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [No Thank You For The Music](https://open.spotify.com/album/5BtpS9O9Z6wGYb8RKMime5) | 3:49 |
-| 42 | [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 |
+| 42 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 43 | [The Way](https://open.spotify.com/track/6djJvTcSXHE1ewDbpi9Pr7) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [The Way](https://open.spotify.com/album/3k7UwnkiGGivvT2UGBz1i7) | 2:40 |
 | 44 | [What I Feel Is Love](https://open.spotify.com/track/4XCdqETVYbkmTv7O5pTGk0) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [What I Feel Is Love](https://open.spotify.com/album/65DpVIrZ1fkBi2BxntFeja) | 3:10 |
 | 45 | [I'm Sorry](https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry](https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f) | 3:23 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Ain't Misbehavin'](https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Ain't Misbehavin'](https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0) | 2:26 |
 | 99 | [Always Be My Man](https://open.spotify.com/track/2p3EVCmbKI4O72S6kTRdXL) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Luke Evans](https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ) | [Always Be My Man](https://open.spotify.com/album/5hnOIy6Hw9dHsROVHUOQBJ) | 3:24 |
 
-Snapshot ID: `MCwxMDViYmMzNDU4ZjdhNTQ2ZjdiYzc3YWUwOTk4NjJiMThmZTE2Njk1`
+Snapshot ID: `MCxkZDM1MmE5NjEzNjY1YzNiNzU1YzgzMWFiZjQxZWE3NmUxNDg4NzA5`

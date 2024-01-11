@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: FETISH",
-  "num_followers": 439223,
+  "num_followers": 439232,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDQyNjBhOTY4MGEzNjRiZmU3YjRhNzk2NDg5NzEzODNhYzRkNjkx",
+  "snapshot_id": "MCxlNGNmMjVjOGM4ZmZkYmQ1YjIzMWU1MjI1Yjc2ZjQ4MzUwMzRhMjBm",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "This Mixtape is Fire TOO",
+        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "buttons! (with Knock2)",
+      "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "This Mixtape is Fire TOO",
-        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "buttons! (with Knock2)",
-      "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "East Meets West",
-        "url": "https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX"
+        "name": "132.00FM",
+        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         },
         {
-          "name": "Kahani",
-          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Transcendence",
-      "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
+      "duration_ms": 232727,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "132.00FM",
-        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
+        "name": "East Meets West",
+        "url": "https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
         },
         {
-          "name": "Cecelia",
-          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+          "name": "Kahani",
+          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
         }
       ],
-      "duration_ms": 232727,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
+      "duration_ms": 247500,
+      "name": "Transcendence",
+      "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
@@ -1463,46 +1447,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "MIRRORS",
-        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
         }
       ],
-      "duration_ms": 157741,
-      "name": "MIRRORS",
-      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Haus of Panda",
-          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
-        },
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+      "duration_ms": 155624,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1527,26 +1483,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Deep (with DJ Snake & Yung Felix)",
-        "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
       },
       "artists": [
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
         },
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
         },
         {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
         }
       ],
-      "duration_ms": 213984,
-      "name": "Deep (with DJ Snake & Yung Felix)",
-      "url": "https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0"
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1587,6 +1543,50 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Deep (with DJ Snake & Yung Felix)",
+        "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 213984,
+      "name": "Deep (with DJ Snake & Yung Felix)",
+      "url": "https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "MIRRORS",
+        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 157741,
+      "name": "MIRRORS",
+      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -1607,6 +1607,26 @@
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+        }
+      ],
+      "duration_ms": 204950,
+      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1635,26 +1655,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
-        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Conor Byrne",
-          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
-        }
-      ],
-      "duration_ms": 204950,
-      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
-      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Out Of Time",
         "url": "https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM"
       },
@@ -1671,6 +1671,30 @@
       "duration_ms": 203809,
       "name": "Out Of Time",
       "url": "https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Welcome to the Playhouse",
+        "url": "https://open.spotify.com/album/4iAl0HNcr4dRgITsJWl8L1"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Welcome to the Playhouse",
+      "url": "https://open.spotify.com/track/67h2Hkpy8POZnitSWe4wqg"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1715,30 +1739,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Welcome to the Playhouse",
-        "url": "https://open.spotify.com/album/4iAl0HNcr4dRgITsJWl8L1"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        },
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Welcome to the Playhouse",
-      "url": "https://open.spotify.com/track/67h2Hkpy8POZnitSWe4wqg"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Bodymorph",
         "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
       },
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Make Trouble",
-        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "BLEEP BLOOP",
         "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 152888,
       "name": "BLEEP BLOOP",
       "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Make Trouble",
+        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/5ttftDVgttEtNtNnEF0s8k"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2AeOsWyOXUV3ZQZMsBPbq8"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Molotov",
         "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
       },
@@ -1947,22 +1963,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/5ttftDVgttEtNtNnEF0s8k"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        }
-      ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/2AeOsWyOXUV3ZQZMsBPbq8"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "LEFT TO RIGHT (Space Laces Remix)",
         "url": "https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv"
       },
@@ -1979,6 +1979,38 @@
       "duration_ms": 217604,
       "name": "LEFT TO RIGHT - Space Laces Remix",
       "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Fuck It Up",
+        "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Fuck It Up",
+      "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2003,54 +2035,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Fuck It Up",
-        "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Fuck It Up",
-      "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3dUjsKBowQ7pluKeIQddfI"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 170691,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/70B3son2BYaN2u1dTkIa2i"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
       },
@@ -2071,38 +2055,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3dUjsKBowQ7pluKeIQddfI"
       },
       "artists": [
         {
-          "name": "Tough Break",
-          "url": "https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW"
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
         }
       ],
-      "duration_ms": 188316,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Stereo Function",
-        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 206904,
-      "name": "Stereo Function",
-      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+      "duration_ms": 170691,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/70B3son2BYaN2u1dTkIa2i"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2127,6 +2091,42 @@
       "duration_ms": 291840,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV"
+      },
+      "artists": [
+        {
+          "name": "Tough Break",
+          "url": "https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW"
+        }
+      ],
+      "duration_ms": 188316,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2239,22 +2239,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "SOOTHSAYER (Jon Casey Remix)",
-        "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
+        "name": "No Balance",
+        "url": "https://open.spotify.com/album/6E1CcygWnu22e8wNXrovR8"
       },
       "artists": [
         {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+          "name": "RudeLies",
+          "url": "https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr"
         }
       ],
-      "duration_ms": 191250,
-      "name": "SOOTHSAYER (Jon Casey Remix)",
-      "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
+      "duration_ms": 155396,
+      "name": "No Balance",
+      "url": "https://open.spotify.com/track/6uzXzIP0vlNWk4j9rX72Xm"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2287,18 +2283,38 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "No Balance",
-        "url": "https://open.spotify.com/album/6E1CcygWnu22e8wNXrovR8"
+        "name": "SOOTHSAYER (Jon Casey Remix)",
+        "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
       },
       "artists": [
         {
-          "name": "RudeLies",
-          "url": "https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr"
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 155396,
-      "name": "No Balance",
-      "url": "https://open.spotify.com/track/6uzXzIP0vlNWk4j9rX72Xm"
+      "duration_ms": 191250,
+      "name": "SOOTHSAYER (Jon Casey Remix)",
+      "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI"
+      },
+      "artists": [
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        }
+      ],
+      "duration_ms": 144821,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2323,38 +2339,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI"
-      },
-      "artists": [
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        }
-      ],
-      "duration_ms": 144821,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
-      },
-      "artists": [
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "All Eyez On Me",
-      "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Spinnin'",
         "url": "https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 256614,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "All Eyez On Me",
+      "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
     }
   ],
   "unique_name": "Nasty Bits",

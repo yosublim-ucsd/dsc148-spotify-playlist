@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 438570,
+  "2024-01-11": 438710,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -2238,6 +2238,28 @@
     },
     {
       "album": {
+        "name": "Unity Pt. 3",
+        "url": "https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213390,
+      "name": "Cosmovision",
+      "url": "https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN"
+    },
+    {
+      "album": {
         "name": "Cuatro Vientos (HUGEL Version)",
         "url": "https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v"
       },
@@ -3143,7 +3165,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 203428,
       "name": "Enjoy The Rain (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"

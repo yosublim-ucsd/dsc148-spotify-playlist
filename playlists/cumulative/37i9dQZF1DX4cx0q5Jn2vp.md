@@ -4,7 +4,7 @@
 
 > 
 
-141 songs - 8 hr 19 min
+142 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [gone too long](https://open.spotify.com/track/2EXvZ3ZSOEVGnFZXVVyzTf) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [gone too long](https://open.spotify.com/album/4ONi7DThlpcPq7O3Dhf7Na) | 2:27 | 2022-04-04 | 2022-07-18 |
 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 | 2022-06-27 | 2022-09-06 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-06-28 |  |
-| [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2023-11-10 |  |
+| [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2023-11-10 | 2024-01-11 |
 | [Habang Buhay](https://open.spotify.com/track/0zANeX4R6uWb82gCQAguOD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Habang Buhay](https://open.spotify.com/album/7Mp9hdsWS0vbxKvYkT77hS) | 4:04 | 2022-04-04 | 2022-09-03 |
 | [Halikan Mo Na Ako](https://open.spotify.com/track/2cgrjAXP43BsOHNrqvFVTh) | [Earl Generao](https://open.spotify.com/artist/37gpPWUw01BXkRl4zg8hkk) | [Halikan Mo Na Ako](https://open.spotify.com/album/4XlvAva3Tv7UpSjHqOwD1B) | 4:09 | 2023-04-03 | 2023-06-29 |
 | [Hello](https://open.spotify.com/track/4DBVnpKVcwbrX1EhGZpNfG) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Hello](https://open.spotify.com/album/1G7uyJNMDBiuc4U1s12oXY) | 3:27 | 2022-04-04 | 2022-06-19 |
@@ -102,6 +102,7 @@
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2022-04-04 | 2022-07-29 |
 | [Meant To Be](https://open.spotify.com/track/2qH56HkSYRkKjSTHZlfe2o) | [Ethan Loukas](https://open.spotify.com/artist/5KaNWaFGm1LSNLO7eEOsNW), [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Meant To Be](https://open.spotify.com/album/7kNaqnBImI14yHmSbCPNEM) | 3:29 | 2022-04-04 | 2022-07-05 |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2022-06-27 |  |
+| [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-10 |  |
 | [My Favorite Movie](https://open.spotify.com/track/4rogQcTh9fZvqH6aCUGxuB) | [Gilyan Saludes](https://open.spotify.com/artist/0O9bX2IzP7MxBcpAel5twJ) | [My Favorite Movie](https://open.spotify.com/album/12FgPn7XtNi0REhdTw4DMG) | 3:50 | 2022-04-04 | 2022-07-28 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-09-13 |  |
 | [Nahuhulog](https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/07p7jUJyKz9qVwieHNpxs8) | 3:47 | 2023-08-09 | 2023-09-17 |

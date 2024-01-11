@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 100643,
+  "2024-01-11": 100559,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -529,7 +529,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 171704,
       "name": "7/7",
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 141030,
       "name": "9MM",
       "url": "https://open.spotify.com/track/3EYVgA1fsZ3ZrcE5vpIzYf"
@@ -24957,7 +24957,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 252521,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/1nRCoRDnsczZSgVmSz41pY"
@@ -29193,6 +29193,24 @@
       "duration_ms": 165600,
       "name": "Xoros",
       "url": "https://open.spotify.com/track/6OA3XfX6Iuq85zHaVD0YGF"
+    },
+    {
+      "album": {
+        "name": "H MASKA",
+        "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "XOROS",
+      "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"
     },
     {
       "album": {

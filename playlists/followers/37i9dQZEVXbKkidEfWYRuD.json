@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 28062,
+  "2024-01-11": 28059,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -6843,7 +6843,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
@@ -18671,7 +18671,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 144235,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
@@ -19529,7 +19529,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 132274,
       "name": "\u041b\u044e\u0431\u043e\u0432, \u044f\u043a \u043e\u0441\u0456\u043d\u044c",
       "url": "https://open.spotify.com/track/6tGMRSkR0nXPQc4SsIP2Uq"
@@ -21107,7 +21107,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
@@ -22813,7 +22813,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 93257,
       "name": "\u0421\u0430\u043c\u044b\u0439 \u043b\u0443\u0447\u0448\u0438\u0439 \u0434\u0435\u043d\u044c",
       "url": "https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy"
@@ -25313,6 +25313,24 @@
       "duration_ms": 240195,
       "name": "\u0426\u0432\u0435\u0442\u0430\u043c\u0438 \u0440\u0430\u0434\u0443\u0433\u0438",
       "url": "https://open.spotify.com/track/4h5oHfU4P7yWzeykGX2a86"
+    },
+    {
+      "album": {
+        "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
+        "url": "https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156338,
+      "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
+      "url": "https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa"
     },
     {
       "album": {

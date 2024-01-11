@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Alan Walker, Putri Ariani, Peder Elias
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,255 likes - 57 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,288 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 17 | [MAJOR](https://open.spotify.com/track/1SIwlryejNmakfYwW3hTTl) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [MAJOR](https://open.spotify.com/album/3j7NuPl15ipyBD2zd5FSpx) | 2:27 |
 | 18 | [再見往事 \(電影《怒潮》片尾曲\)](https://open.spotify.com/track/5nqa2UIN86DEE9LeOciuaF) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [再見往事 \(電影《怒潮》片尾曲\)](https://open.spotify.com/album/7FFWneQoEWOspzXEHeG27y) | 3:59 |
 | 19 | [如歌的歲月](https://open.spotify.com/track/7DqDwHD5dCzsGQP4au3l8I) | [信樂團](https://open.spotify.com/artist/1YfpT6Dl8tJDmYQKWRoxjn) | [如歌的歲月](https://open.spotify.com/album/1uSIOZMKk494mgJiD3smVZ) | 4:54 |
-| 20 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/5yjP3l4wzZ2vYrMqA0Odj6) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 20 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
 | 21 | [like that x4](https://open.spotify.com/track/41iVxKOcl1e4hZtheCca2R) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [like that x4](https://open.spotify.com/album/4UWdCcyQ9m7p7kaKFMIq2Q) | 2:06 |
 | 22 | [Ngeluwihi](https://open.spotify.com/track/1BhClhu3KbdPLTPJFbBMwV) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Ngeluwihi](https://open.spotify.com/album/09OTA5eXLEKQAMnrvOJgq3) | 3:26 |
 | 23 | [DANCE ALONE](https://open.spotify.com/track/6PaszRh6LyQatt1of8AnV2) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [DANCE ALONE](https://open.spotify.com/album/5UfbsOL9Mp3eZ6TC4cjlkq) | 3:09 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 56 | [Night In](https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Night In](https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN) | 3:27 |
 | 57 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 
-Snapshot ID: `MCw5ZjY0MzA3MzI5MDA4Y2ExOTJjNDNhYzYyNGYwNDg3YTNhOGMyNDcw`
+Snapshot ID: `MCxhOWJhMGUzYTAyZWZlMjZkMzA2OWUxNzVkYTUzMDk0NjZiZTQ1MTdi`

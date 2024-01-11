@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,768 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,769 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 60 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 |
 | 61 | [Quema Quema](https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau) | [Mister Pancho](https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe) | [Quema Quema](https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ) | 2:06 |
 | 62 | [Morena](https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Kuisitambó](https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK) | [Morena](https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht) | 2:48 |
-| 63 | [La Bulla](https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Many Malon](https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM) | [La Bulla](https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo) | 2:50 |
+| 63 | [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 |
 | 64 | [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 |
-| 65 | [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 |
+| 65 | [La Bulla](https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Many Malon](https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM) | [La Bulla](https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo) | 2:50 |
 | 66 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 |
 | 67 | [Dimini](https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Dimini](https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny) | 2:22 |
 | 68 | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB) | [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J) | 3:18 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 71 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 |
 | 72 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 |
 | 73 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
-| 74 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
-| 75 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
+| 74 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
+| 75 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
 
-Snapshot ID: `MCwyYzM0ZWVmNWY5MzE3OTM2ODA5YzM0MzI4MWQ0NmQ2ZmE4OTBiNjM3`
+Snapshot ID: `MCw4MzRlMmI0M2ViMWUyZjI4ZDg4ZjU3MmQ4NzI5NDBhYTY4OTI0ZmFi`

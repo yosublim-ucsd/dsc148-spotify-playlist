@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,361 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,161 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 27 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 |
 | 28 | [Liar](https://open.spotify.com/track/27xRhBTtH13Qwj5LqawMMN) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Liar](https://open.spotify.com/album/5J12lX3O7R7YOy1MyyTMEm) | 2:47 |
 | 29 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 |
-| 30 | [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 |
+| 30 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 31 | [Fuck It](https://open.spotify.com/track/7K6sE4GApck52bImVZL3TL) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Fuck It](https://open.spotify.com/album/4QCrRuCfROfB4XiB5Jhr1Y) | 2:58 |
 | 32 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 |
 | 33 | [Brambles](https://open.spotify.com/track/2sHWoU97dgQfATRm99WFzr) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Brambles](https://open.spotify.com/album/1LqHcvT0n9mb3DSp6oL8NB) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 49 | [Halo](https://open.spotify.com/track/5jHRIIaMnuT8eVaA9C5o4R) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 3:31 |
 | 50 | [King Size Slim](https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Title Track](https://open.spotify.com/album/08gFnRmxpci80sjhTkdFvL) | 4:24 |
 
-Snapshot ID: `MCw4MGYxYTNhN2ExYjFhNmY0YjkxYjZmYzIwMGNiZjJjMGNkMDM3MTE4`
+Snapshot ID: `MCxkOWU0MGRlYTU1NGYzYWNkNTU3YmVjOTE4YWQ5MzIzNWMyNDM2Mjhi`

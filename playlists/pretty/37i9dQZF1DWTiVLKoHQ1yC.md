@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,015 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,082 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 4 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 |
 | 5 | [Cappadocia](https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Cappadocia](https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C) | 4:42 |
 | 6 | [Maybe, It's Possible](https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Maybe, It's Possible](https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5) | 3:49 |
-| 7 | [Beyond Control](https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apnea](https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C) | 5:32 |
-| 8 | [Time \- feat\. Jules Buckley](https://open.spotify.com/track/4d2Gndzn9dnmUC8jIzI9d4) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Time \(feat\. Jules Buckley\)](https://open.spotify.com/album/77wNbVUueAga2P28GqHovW) | 5:10 |
+| 7 | [Time \- feat\. Jules Buckley](https://open.spotify.com/track/4d2Gndzn9dnmUC8jIzI9d4) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Time \(feat\. Jules Buckley\)](https://open.spotify.com/album/77wNbVUueAga2P28GqHovW) | 5:10 |
+| 8 | [Beyond Control](https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apnea](https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C) | 5:32 |
 | 9 | [Dance with My Ghost \(feat\. Elderbrook\)](https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 4:06 |
 | 10 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 |
 | 11 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 35 | [Sint Maarten](https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Delaram Kamareh](https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB) | [Sint Maarten](https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O) | 4:31 |
 | 36 | [Clear](https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Clear](https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA) | 3:40 |
 | 37 | [Celestia](https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Celestia EP](https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp) | 3:49 |
-| 38 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 |
+| 38 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 |
 | 39 | [Automatic](https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Automatic](https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf) | 4:09 |
-| 40 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 |
+| 40 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 |
 | 41 | [Need You By My Side](https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You by My Side](https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s) | 3:20 |
 | 42 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 |
 | 43 | [Freedom Call](https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Unite](https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Unite](https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd) | 3:08 |
 | 60 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
 
-Snapshot ID: `MCwyYWNiMmZlOTExYjNiMzhhYjYzZDhiYjk3NjIwNjA0Y2EwYWQ3YjRh`
+Snapshot ID: `MCw0YTliZTVmYWE4ZjE2MzEzNGE4YTRmNWY1ZmFiNGVhOGM4OWUwYzg1`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,279 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,250 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Médusa](https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [A\-One](https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE) | 2:37 |
+| 1 | [Autobahn](https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:50 |
 | 2 | [Putana](https://open.spotify.com/track/5oePa8PlOTPAlRaGs2OZ3A) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Destin](https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k) | 3:04 |
 | 3 | [TDB](https://open.spotify.com/track/27Z3UdqvdAhtJlWBMoDjBD) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [TDB](https://open.spotify.com/album/0kdOCmgb1ZikkxZvVmiED3) | 2:34 |
-| 4 | [Autobahn](https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:50 |
+| 4 | [Médusa](https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [A\-One](https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE) | 2:37 |
 | 5 | [Filtré](https://open.spotify.com/track/58PwCUkHNkODqp2tCehNSP) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Filtré](https://open.spotify.com/album/058Om1A7CKYMg5dEGU4dZH) | 2:48 |
 | 6 | [La street](https://open.spotify.com/track/2PBKX84nhZNZ4E3fcdRHUX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [La street](https://open.spotify.com/album/5hXJBmO08mWwAQX0nDtrhV) | 3:20 |
 | 7 | [J'picole](https://open.spotify.com/track/3DIYanBth8SOpko0IIB5CD) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Enfant2LaRue Vol.1](https://open.spotify.com/album/04m3RIehWDX3a2xBHzHIqF) | 3:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [Automatique](https://open.spotify.com/track/3lT2yaxSLBWDbjcFDMLaUn) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Automatique](https://open.spotify.com/album/4vpq8EUrwPr7UePfuUeiZE) | 3:04 |
 | 40 | [GUETTE](https://open.spotify.com/track/1Z0wEQ1f57DkljzYwInEqr) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [N'A STRAGIA](https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX) | 2:18 |
 
-Snapshot ID: `MCw5Y2U0NGNjNTcxZDBkMjc3MmFiYzQ3MTM5ZGVjNzViODg4MjJiNmRk`
+Snapshot ID: `MCxlNTdlNWI3OWIyZTdhMzc1ZDBiNjhlMTAwMGY1YmFlYTk0NzI1YmIx`

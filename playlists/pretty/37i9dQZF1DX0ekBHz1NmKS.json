@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196208,
+  "num_followers": 196175,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjg5NTVkYTVjNzg2OWY2Y2NkYTAxMTA4ZTcyNDNiMzQ1ZmE3NzBi",
+  "snapshot_id": "MCxjYTJmMDUxMTU2ODcwYzA1NmJkMGZmNTM0NDc3MDc4YjAxMjk3ZTFk",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Jaguar",
-        "url": "https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 175923,
-      "name": "Jaguar",
-      "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Unnskyld, f\u00f6rl\u00e5t",
         "url": "https://open.spotify.com/album/4apzOYKZx2D4jnusHPf4C0"
       },
@@ -467,22 +451,34 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Bare mellom oss",
-        "url": "https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR"
+        "name": "Jaguar",
+        "url": "https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc"
       },
       "artists": [
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        },
-        {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 151893,
-      "name": "Bare mellom oss",
-      "url": "https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF"
+      "duration_ms": 175923,
+      "name": "Jaguar",
+      "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "TRANSPARENT",
+        "url": "https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 193196,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -507,18 +503,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Moon Eyes",
-        "url": "https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex"
+        "name": "Bare mellom oss",
+        "url": "https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR"
       },
       "artists": [
         {
-          "name": "Simon Russell",
-          "url": "https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz"
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        },
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Moon Eyes",
-      "url": "https://open.spotify.com/track/408rMnVFcIlyrme7bc1Ma0"
+      "duration_ms": 151893,
+      "name": "Bare mellom oss",
+      "url": "https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "TRANSPARENT",
-        "url": "https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK"
+        "name": "Moon Eyes",
+        "url": "https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex"
       },
       "artists": [
         {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+          "name": "Simon Russell",
+          "url": "https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz"
         }
       ],
-      "duration_ms": 193196,
-      "name": "Death of Me",
-      "url": "https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX"
+      "duration_ms": 214253,
+      "name": "Moon Eyes",
+      "url": "https://open.spotify.com/track/408rMnVFcIlyrme7bc1Ma0"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 225728,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
@@ -623,6 +607,38 @@
       "duration_ms": 195346,
       "name": "Sunny Philadelphia",
       "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 225728,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -643,22 +659,6 @@
       "duration_ms": 147596,
       "name": "Tagit \u00f6ver himlen",
       "url": "https://open.spotify.com/track/2faoTKw5aY77tacZthwcCd"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -811,38 +811,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Tjuvjakt",
-        "url": "https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY"
-      },
-      "artists": [
-        {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        }
-      ],
-      "duration_ms": 185392,
-      "name": "Solsken",
-      "url": "https://open.spotify.com/track/4lf0FPLbugnTdRJCUSNlIg"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Fan va dyrt",
-        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 186663,
-      "name": "Fan va dyrt",
-      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
@@ -875,6 +843,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Tjuvjakt",
+        "url": "https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "duration_ms": 185392,
+      "name": "Solsken",
+      "url": "https://open.spotify.com/track/4lf0FPLbugnTdRJCUSNlIg"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Halvfullt sprucket glas",
         "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 210000,
       "name": "Halvfullt sprucket glas",
       "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Fan va dyrt",
+        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 186663,
+      "name": "Fan va dyrt",
+      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
+      },
+      "artists": [
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 218454,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
         "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 210937,
       "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
       "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
-      },
-      "artists": [
-        {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
-        }
-      ],
-      "duration_ms": 218454,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
       },
       "artists": [
         {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 139429,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
+      "duration_ms": 196747,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
         }
       ],
-      "duration_ms": 196747,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
+      "duration_ms": 139429,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1191,22 +1191,6 @@
       "duration_ms": 192078,
       "name": "Summer Of 99",
       "url": "https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Still Got the Blues fr\u00e5n Sverige",
-        "url": "https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX"
-      },
-      "artists": [
-        {
-          "name": "Tomas Andersson Wij",
-          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "Still Got the Blues fr\u00e5n Sverige",
-      "url": "https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Still Got the Blues fr\u00e5n Sverige",
+        "url": "https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX"
+      },
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Still Got the Blues fr\u00e5n Sverige",
+      "url": "https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Let The Good Times In",
         "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
       },
@@ -1243,6 +1243,58 @@
       "duration_ms": 153595,
       "name": "Let The Good Times In",
       "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Ruta Noll",
+        "url": "https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7"
+      },
+      "artists": [
+        {
+          "name": "Wilden",
+          "url": "https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK"
+        }
+      ],
+      "duration_ms": 166289,
+      "name": "Ruta Noll",
+      "url": "https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
+      },
+      "artists": [
+        {
+          "name": "MASAKA",
+          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
+        },
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "duration_ms": 187181,
+      "name": "LIGHTS",
+      "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 173434,
+      "name": "I Wish I Was Someone Else",
+      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1267,58 +1319,6 @@
       "duration_ms": 333874,
       "name": "Maria Magdalena",
       "url": "https://open.spotify.com/track/3SzkjtUKRbFwtCW6Hv1IWH"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Ruta Noll",
-        "url": "https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7"
-      },
-      "artists": [
-        {
-          "name": "Wilden",
-          "url": "https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK"
-        }
-      ],
-      "duration_ms": 166289,
-      "name": "Ruta Noll",
-      "url": "https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 173434,
-      "name": "I Wish I Was Someone Else",
-      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "LIGHTS",
-        "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
-      },
-      "artists": [
-        {
-          "name": "MASAKA",
-          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
-        },
-        {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
-        }
-      ],
-      "duration_ms": 187181,
-      "name": "LIGHTS",
-      "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Missing you",
-        "url": "https://open.spotify.com/album/2X2E6TWZTDGTsWeCJ3NFvn"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 126891,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/5MdkLIp37fgixyvqXYSAvY"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 171354,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/4pfcOpCfM8qPm9DNwpkSwl"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Missing you",
+        "url": "https://open.spotify.com/album/2X2E6TWZTDGTsWeCJ3NFvn"
+      },
+      "artists": [
+        {
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
+        }
+      ],
+      "duration_ms": 126891,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "TRENCH",
-        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
-      },
-      "artists": [
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "TRENCH",
-      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Wolf Cries",
         "url": "https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3"
       },
@@ -1631,18 +1615,34 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "don't look at the moon...",
-        "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
+        "name": "TRENCH",
+        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
       },
       "artists": [
         {
-          "name": "Zikai",
-          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
         }
       ],
-      "duration_ms": 202293,
-      "name": "Come Get Me Out",
-      "url": "https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS"
+      "duration_ms": 193777,
+      "name": "TRENCH",
+      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Ocean In Me",
+        "url": "https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Ocean In Me",
+      "url": "https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "don't look at the moon...",
+        "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
+      },
+      "artists": [
+        {
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Come Get Me Out",
+      "url": "https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/3JWFv8NvxaigTuSaQDFI9t"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 193996,
       "name": "2004",
       "url": "https://open.spotify.com/track/0O1lum01nn74MSINutTz9Q"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Ocean In Me",
-        "url": "https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Ocean In Me",
-      "url": "https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp"
     }
   ],
   "unique_name": "Made in Sweden",

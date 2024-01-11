@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-348 songs - 20 hr 51 min
+350 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Can't Make You Stay](https://open.spotify.com/track/6cZ1Ld5ZJy1q8J0lBvVbki) | [John Keek](https://open.spotify.com/artist/5hWFMEirsZnlatYOIcySVL) | [Can't Make You Stay](https://open.spotify.com/album/3ly8GnWpiHjIwqxaWTM08c) | 2:16 | 2023-08-29 | 2023-11-22 |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2023-11-02 |  |
 | [Cardboard Box \- Acoustic](https://open.spotify.com/track/3k7E83vyhWu7UUl9FxPNRn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box \(Acoustic\)](https://open.spotify.com/album/1DWnard9ZSt1HfKIHJxQRp) | 2:53 | 2023-02-24 | 2023-10-25 |
-| [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2023-11-09 |  |
+| [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2023-11-09 | 2024-01-11 |
 | [Chai Latte](https://open.spotify.com/track/0k3FxPBgYwQwX9few9fOeV) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Identity](https://open.spotify.com/album/1HgnvAjSsTZSsJKphEa8zQ) | 3:43 | 2023-11-21 |  |
 | [Chai Latte](https://open.spotify.com/track/2F7lKDfEJzfK6tPGMEwz4r) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Identity](https://open.spotify.com/album/3Qp3rbTXFIzd4MNWjlRJXh) | 3:43 | 2023-11-21 | 2023-11-23 |
 | [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 | 2023-10-05 |  |
@@ -228,6 +228,7 @@
 | [Post Office](https://open.spotify.com/track/29IrCfWN8k476jCSB7co47) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Post Office](https://open.spotify.com/album/0hiQvelIfblqRE2VOwSBKX) | 3:30 | 2023-11-14 |  |
 | [Purple Rain \- Acoustic](https://open.spotify.com/track/1fjkAaYIIIn7dOxeln1NO1) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00) | 2:34 | 2023-02-16 | 2023-09-29 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2023-04-13 | 2023-05-19 |
+| [Quarantine Mood](https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:08 | 2024-01-10 |  |
 | [Rainbow](https://open.spotify.com/track/5295DzrqA8A1zCgyESsDeD) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [four](https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP) | 3:44 | 2023-01-19 | 2023-02-17 |
 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2023-03-14 |  |
 | [Red Sky](https://open.spotify.com/track/4gJYghkBmE1Qgxqqg922sV) | [TAKURO](https://open.spotify.com/artist/0yAbl3KRQ4Jxjvb8DZq9pT), [Eru Matsumoto](https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje) | [The Sound Of Life](https://open.spotify.com/album/5g7kYhSjvWLYyb6j0WuWiK) | 3:35 | 2022-12-13 | 2023-01-11 |
@@ -309,7 +310,7 @@
 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 | 2023-08-03 |  |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-10-20 | 2023-08-04 |
 | [walk my life](https://open.spotify.com/track/1uWghGURCsFNleZaOtJwxU) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [satellite flying alone](https://open.spotify.com/album/0P58MPy2TkOPZapZ8Z1wMF) | 3:54 | 2023-02-23 | 2023-03-01 |
-| [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2022-12-13 |  |
+| [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2022-12-13 | 2024-01-11 |
 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:13 | 2022-12-14 | 2023-07-19 |
 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 | 2023-04-13 | 2023-05-02 |
 | [We Got History \- Acoustic](https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We Got History \(Acoustic\)](https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa) | 3:36 | 2023-05-02 | 2023-08-16 |
@@ -350,6 +351,7 @@
 | [恋をして \- Acoustic Version](https://open.spotify.com/track/0fS8cXptl4Y2uWtkMEGBee) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [恋をして \(Acoustic Version\)](https://open.spotify.com/album/0HP0RkqQbEKWvQO1rjbet8) | 2:52 | 2023-11-30 |  |
 | [愛言葉 \- From THE FIRST TAKE](https://open.spotify.com/track/1rX1n7VAfXBy4dKFuGSGkM) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [愛言葉 \- From THE FIRST TAKE](https://open.spotify.com/album/5YJQqM7A7pfeDjxZ7DB6hi) | 5:05 | 2023-02-14 | 2023-02-16 |
 | [春を待たず君を離れ](https://open.spotify.com/track/5yx5BVGyOZSpEkHSS7Nh8S) | [グレープ](https://open.spotify.com/artist/1dFHgb3Goqf159LHj4ukx6) | [グレープセンセーション](https://open.spotify.com/album/1KS6WPslrwkL1hUSkoR87W) | 3:46 | 2023-02-14 | 2023-02-16 |
+| [晩餐歌 \(弾き語りver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 | 2024-01-10 |  |
 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 | 2023-11-28 |  |
 | [生きていくだけで \(feat\. Ruri\)](https://open.spotify.com/track/35RU9s9Oytg6N8k0xxtKtG) | [FUKUSHIGE MARI](https://open.spotify.com/artist/74ldwS36YOZpiNSBf2XYBs), [Ruri](https://open.spotify.com/artist/0y2buXFUJCd2dnhkVCkRDg) | [月の満ち欠け オリジナルサウンドトラック](https://open.spotify.com/album/6YbRXC2Yrs1UkEtAGJ7Ne7) | 4:03 | 2022-12-01 | 2022-12-14 |
 | [私を呼んだ 夏の空のような \- feat\. 兼松衆, 須原杏, 関口将史](https://open.spotify.com/track/5dQ8lzqlmJedzovrH8WsLq) | [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [兼松 衆](https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1), [須原杏](https://open.spotify.com/artist/0ekqoA1GGFwC9lalszdIJR), [関口将史](https://open.spotify.com/artist/5Q5qAs7kOYA3gloFl5gAzs) | [私を呼んだ 夏の空のような \(feat\. 兼松衆, 須原杏, 関口将史\)](https://open.spotify.com/album/7k9LWhjXNPB6g2Q1cRU2Im) | 4:39 | 2023-08-01 | 2023-11-08 |

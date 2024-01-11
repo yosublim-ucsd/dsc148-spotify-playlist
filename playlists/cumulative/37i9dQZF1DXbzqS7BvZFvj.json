@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 94524,
       "name": "Bow (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ"
@@ -5917,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "Naiya",
+        "url": "https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136740,
+      "name": "Naiya",
+      "url": "https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2"
+    },
+    {
+      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO"
       },
@@ -9422,6 +9440,28 @@
       "duration_ms": 195094,
       "name": "Transparency (feat. USHER)",
       "url": "https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO"
+    },
+    {
+      "album": {
+        "name": "Travellin' Man (Remastered)",
+        "url": "https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34"
+      },
+      "artists": [
+        {
+          "name": "dj honda",
+          "url": "https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318573,
+      "name": "Travellin' Man (Remastered)",
+      "url": "https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG"
     },
     {
       "album": {

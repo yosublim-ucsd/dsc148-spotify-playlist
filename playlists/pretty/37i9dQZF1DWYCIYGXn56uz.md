@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Emanuele Aloia
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,357 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,151 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 59 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 |
 | 60 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 
-Snapshot ID: `MCw2MTY0OWExYmY4OTgzYWE1ZGEzNTVmMTU2NzcwM2U3M2M4MWExMTA2`
+Snapshot ID: `MCw2NWMyM2Y3NmU2NWJiYzE1YTRjOTMzNmQ5YmU0NWI5YTBmMGZjNzk3`

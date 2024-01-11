@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi?si=si8PlbKwQImG\-aY2t0V6lw>Enakeno</a>
 
-1,602 songs - 5 day 0 hr 54 min
+1,603 songs - 5 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,8 +778,9 @@
 | [Joy \(Live\)](https://open.spotify.com/track/2eJnUpvBl9ldGVMWaVWjdj) | [Mirabel Ekezie](https://open.spotify.com/artist/0Ip6cMKqviKbY1Dw9gCqWP) | [Joy \(Live\)](https://open.spotify.com/album/6FlqMtz0rL5uito9r4BKZc) | 6:23 | 2023-07-14 | 2023-07-28 |
 | [Joy \- Special Version](https://open.spotify.com/track/1lA7pL6jp1YEwVxXmNk0Fm) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Special Version\)](https://open.spotify.com/album/15XMXtuiWALfKv0ggtuLHA) | 2:38 | 2023-12-22 | 2024-01-05 |
 | [Joy In Chaos](https://open.spotify.com/track/6wKeFoZA2ExBtFNcHdkqnI) | [Dj Bentoa](https://open.spotify.com/artist/39TG7mv7cuey0ak7YNUpZx), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Joy In Chaos](https://open.spotify.com/album/5Paj4xB9UeRHpUlTL9Vqtn) | 2:26 | 2023-06-09 | 2023-06-30 |
+| [Joy In Chaos](https://open.spotify.com/track/42iD5yOX6KNBlN7v9zqFrj) | [Kourage Beatz NSI](https://open.spotify.com/artist/01wazsLDLOeJgUmj3306u3) | [Joy In Chaos \(Speed up\)](https://open.spotify.com/album/6zufntQcJOLqWsVLLT6Mb9) | 1:01 | 2023-12-29 |  |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-07-21 | 2023-08-11 |
-| [Joy in Chaos \- Speed up](https://open.spotify.com/track/4sUCvWFYCxyGdSPUbsDU4I) | [Kourage Beatz NSI](https://open.spotify.com/artist/01wazsLDLOeJgUmj3306u3), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos \(Speed up\)](https://open.spotify.com/album/39r34IYHOrsdwPjrDRNEyp) | 1:10 | 2023-12-29 |  |
+| [Joy in Chaos \- Speed up](https://open.spotify.com/track/4sUCvWFYCxyGdSPUbsDU4I) | [Kourage Beatz NSI](https://open.spotify.com/artist/01wazsLDLOeJgUmj3306u3), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos \(Speed up\)](https://open.spotify.com/album/39r34IYHOrsdwPjrDRNEyp) | 1:10 | 2023-12-29 | 2024-01-11 |
 | [JOY IN THE HOLY GHOST](https://open.spotify.com/track/31Gdb4iO0wniTJ3kw7N6PA) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [JOY IN THE HOLY GHOST](https://open.spotify.com/album/7fUKoPMUzhiV91j7RUYwFl) | 5:55 | 2023-09-22 | 2023-10-06 |
 | [Joy To The World \- Village Version](https://open.spotify.com/track/3Is2uGeYAW4Bnfnr9konZt) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Joy To The World \(Village Version\)](https://open.spotify.com/album/2N6PnMNPCzseWXOLHMIwlJ) | 2:39 | 2023-12-01 | 2023-12-15 |
 | [Joy, Peace and Happiness](https://open.spotify.com/track/7M7f0aEGP5JLB6Se7JBoE7) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Joy, Peace and Happiness](https://open.spotify.com/album/2YGfKSGwmRBVzXLyXzTwpa) | 4:13 | 2023-09-29 | 2023-10-14 |

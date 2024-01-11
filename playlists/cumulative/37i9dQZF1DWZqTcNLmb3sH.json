@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 242000,
       "name": "Aarambhaa - From \"Ardhambardha Premakathe \"",
       "url": "https://open.spotify.com/track/1FIrYDavVW04DfUaXAZ9VA"
@@ -10666,7 +10666,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 95604,
       "name": "Kaatera Benki kidiyondu (from \"Kaatera\")",
       "url": "https://open.spotify.com/track/1DYR3AHIgr155IP3QzWkxG"
@@ -14210,6 +14210,32 @@
       "duration_ms": 228977,
       "name": "Mr. Bachelor (From \"Mr. Bachelor\")",
       "url": "https://open.spotify.com/track/34E7WYOuO4H3vNKoTgmmic"
+    },
+    {
+      "album": {
+        "name": "Muddada Maaye (From \"Vyuha\")",
+        "url": "https://open.spotify.com/album/1IXzQwhsemqW3mFkxxMcQO"
+      },
+      "artists": [
+        {
+          "name": "Franklin Rocky",
+          "url": "https://open.spotify.com/artist/7KYfhq391KJyUfEzXGEg2h"
+        },
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Gowtham Mk",
+          "url": "https://open.spotify.com/artist/1nFoGuGHsl863UK7soMLeS"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259071,
+      "name": "Muddada Maaye (From \"Vyuha\")",
+      "url": "https://open.spotify.com/track/0stQF7psKUq8QXr2ZJINn1"
     },
     {
       "album": {
@@ -23030,6 +23056,24 @@
       "duration_ms": 172948,
       "name": "Welcome To Bengaluru (From \"Raaghu\")",
       "url": "https://open.spotify.com/track/3luuHoWZH4QeJeL4kCpJew"
+    },
+    {
+      "album": {
+        "name": "World of UI Teaser Theme (From \"Ui\")",
+        "url": "https://open.spotify.com/album/3tvOZRnM5BJNYXLlDIkCsh"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111840,
+      "name": "World of UI Teaser Theme - From \"Ui\"",
+      "url": "https://open.spotify.com/track/745dqTr02McQ29bO8q1iDm"
     },
     {
       "album": {

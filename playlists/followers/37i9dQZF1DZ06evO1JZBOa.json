@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 8754,
+  "2024-01-11": 8755,
   "date_first_scraped": "2021-12-29",
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
   "name": "This Is Manu Dibango",
@@ -321,7 +321,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 206973,
       "name": "Bessoka - Version courte",
       "url": "https://open.spotify.com/track/6iJvaERQxKK0ci0zv3jqTH"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 208160,
       "name": "Je suis chez moi (feat. Amadou & Mariam & Manu Dibango) - African Remix",
       "url": "https://open.spotify.com/track/1gEiLNgV0aVwCk1I3EIXcf"
@@ -2172,6 +2172,24 @@
     },
     {
       "album": {
+        "name": "Gone Clear (The Complete Kingston Sessions)",
+        "url": "https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396466,
+      "name": "Reggae Makossa",
+      "url": "https://open.spotify.com/track/7yVaY0KgC79HynS5qJPJ72"
+    },
+    {
+      "album": {
         "name": "Afro-Soul Machine",
         "url": "https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4"
       },
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 420893,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE"

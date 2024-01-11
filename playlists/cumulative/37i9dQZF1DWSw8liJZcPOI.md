@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-436 songs - 1 day 6 hr 10 min
+437 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Parallel \(feat\. Manu Delago\)](https://open.spotify.com/track/1TYyoP8sdXQ039kghXQZuf) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Parallel \(feat\. Manu Delago\)](https://open.spotify.com/album/2qUXri0kSEFVaMaz4OHbXH) | 3:51 | 2020-11-27 | 2022-07-29 |
 | [Parkbench](https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Parkbench](https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT) | 3:41 | 2021-12-10 |  |
 | [Parliament Of Owls](https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Parliament Of Owls](https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A) | 2:29 | 2020-10-20\* | 2023-12-03 |
+| [Partisans](https://open.spotify.com/track/0vkkQav4MwEM0uGJNjMbDz) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [the world is finally quiet](https://open.spotify.com/album/7lCUmeQ7puZK4IQ2BAchPq) | 3:56 | 2024-01-05 |  |
 | [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 | 2021-10-16 | 2022-12-24 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2020-11-06 |  |
 | [Pause](https://open.spotify.com/track/6rUSYRNKQG15LBs24DxH5p) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Pause](https://open.spotify.com/album/0QMLNub1Rwwa6LPRcLqne8) | 4:18 | 2021-12-10 | 2022-07-22 |
@@ -428,7 +429,7 @@
 | [What Gently Flutters](https://open.spotify.com/track/7z8IVlpwHziC0bFq4gZMxT) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Bryan Senti](https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR) | [What Gently Flutters](https://open.spotify.com/album/3iMEn4oNhkAj70YRaJGMWJ) | 2:08 | 2021-10-19 | 2023-01-11 |
 | [Where Do We Go from Here](https://open.spotify.com/track/1X0X6BC5drvd3cnh3bCrXf) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/3ZUvUjlINbO7bm2i7hwPUZ) | 2:25 | 2021-01-17 | 2022-07-07 |
 | [Where Do We Go from Here](https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/54bf3kCXzdccCdrWnjV9cS) | 2:25 | 2022-07-22 | 2022-07-30 |
-| [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2023-03-24 |  |
+| [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2023-03-24 | 2024-01-11 |
 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 |  |
 | [Whispers](https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Whispers](https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS) | 2:50 | 2020-10-30 | 2024-01-06 |
 | [Wholeness and the Implicate Order](https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Wholeness and the Implicate Order](https://open.spotify.com/album/7L7Xxd7GQZrtHgt7hNFp5d) | 5:46 | 2020-10-21 | 2022-07-16 |

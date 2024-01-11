@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: DDG
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 39,812 likes - 194 songs - 9 hr 4 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 39,780 likes - 194 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 4 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 5 | [No Love](https://open.spotify.com/track/0UlAxLlUGzB6MMd5tpXvQh) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp) | [No Love](https://open.spotify.com/album/71NR9WGF9Ke6ziA6OKYiLc) | 2:30 |
 | 6 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 |
-| 7 | [No Belt](https://open.spotify.com/track/4xWJhJVD2QSrbkcfOeArc2) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Vol\. 6](https://open.spotify.com/album/3sulyKSdjgSmSEtp7o8hWV) | 3:38 |
+| 7 | [No Belt](https://open.spotify.com/track/4xWJhJVD2QSrbkcfOeArc2) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Yung Bans Vol\. 6](https://open.spotify.com/album/3sulyKSdjgSmSEtp7o8hWV) | 3:38 |
 | 8 | [LA Fitness](https://open.spotify.com/track/02qZVjLIm0uG2bqjbE0jNE) | [Hopout Shawn](https://open.spotify.com/artist/0IHxRJsYzqOU0pLAN7k44r) | [LA Fitness](https://open.spotify.com/album/3Wttc8qGV8Y4oHho3Ax0nt) | 2:58 |
 | 9 | [HOOD HOPPER \(feat\. LilBuckss & Skrilla\)](https://open.spotify.com/track/1t5cG9rw7xHvLjwvJxlHPQ) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0), [Skrilla](https://open.spotify.com/artist/4ngW7XTBW0AzcqSVJx9qhV), [LilBuckss](https://open.spotify.com/artist/2YSPdU0mEhpQPzJIYOdkyI) | [HOOD HOPPER \(feat\. LilBuckss & Skrilla\)](https://open.spotify.com/album/4xqtNKsn96EjTc8CdXstXt) | 3:19 |
 | 10 | [No Help](https://open.spotify.com/track/3Pmv09b7FK4ysYeQi0ODZc) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [The Industry Made Me Hate Music](https://open.spotify.com/album/3P2PoHyrMMyFeytGF624bS) | 2:16 |

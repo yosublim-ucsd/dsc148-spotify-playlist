@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 55686,
+  "num_followers": 55810,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTg5ODZiNDE1ODQwNTczOGU1ZmFhMzViMDgwNWQwMjUwZDFmMjI1",
+  "snapshot_id": "MCwxYjZiYWMzZTUzMzg3MmJiYTkzYjcwMjk5MjQ5NTk1YjQ2YjdkOWYz",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Sings Just One Look And Other Memorable Selections",
         "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "The Best Of The Temprees",
+        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
+      },
+      "artists": [
+        {
+          "name": "The Temprees",
+          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Love...Can Be So Wonderful",
+      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "The Best Of The Temprees",
-        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
-      },
-      "artists": [
-        {
-          "name": "The Temprees",
-          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Love...Can Be So Wonderful",
-      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Betcha by Golly Wow (Live)",
-        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
+        "name": "Ilusi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
       "artists": [
         {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        },
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 253004,
-      "name": "Betcha by Golly Wow (Live)",
-      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
+      "duration_ms": 225796,
+      "name": "Ilusi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Ilusi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
+        "name": "Betcha by Golly Wow (Live)",
+        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
       },
       "artists": [
         {
-          "name": "Jensine Benitez",
-          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
-        },
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 225796,
-      "name": "Ilusi\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
+      "duration_ms": 253004,
+      "name": "Betcha by Golly Wow (Live)",
+      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
-      },
-      "artists": [
-        {
-          "name": "El Chicano",
-          "url": "https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
+      },
+      "artists": [
+        {
+          "name": "El Chicano",
+          "url": "https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "The Best Of Dee Dee Sharp 1962-1966",
+        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "I Really Love You",
+      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Takin' All My Lovin'",
         "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "The Best Of Dee Dee Sharp 1962-1966",
-        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
-      },
-      "artists": [
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I Really Love You",
-      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+      },
+      "artists": [
+        {
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+        }
+      ],
+      "duration_ms": 133693,
+      "name": "Strange Feeling",
+      "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "For Collectors Only",
         "url": "https://open.spotify.com/album/56XCkJo7HtVwYmGSrt2vHo"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 163813,
       "name": "Earth Angel - Stereo",
       "url": "https://open.spotify.com/track/7DSnCTcHoQPfCbaaQuyhhP"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
-      },
-      "artists": [
-        {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
-        }
-      ],
-      "duration_ms": 133693,
-      "name": "Strange Feeling",
-      "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
     },
     {
       "added_at": "2024-01-05 17:02:31",

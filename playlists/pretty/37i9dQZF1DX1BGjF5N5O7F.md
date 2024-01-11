@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,270 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,735 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [Lover, Come Back to Me](https://open.spotify.com/track/3fHNB84PvpQfXsqb6d7Tyv) | [Me and My Friends](https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3) | [Before I Saw the Sea](https://open.spotify.com/album/2x4B2C7AS2acuzB8myRKQ6) | 4:53 |
 | 50 | [Craving](https://open.spotify.com/track/1JFIggpK5qun8s9gcHvWn9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 2:43 |
 
-Snapshot ID: `MCxkMTMzYTc0YzRhZWFmZGIyNDRkOTZhNWUyMGI0ODViOWE4YTI2NmVl`
+Snapshot ID: `MCw2Y2YxODExMjcyNDgxNmE0NDNiNWM3OTQ2ODA0NDMxNTgxNzZjOGYy`

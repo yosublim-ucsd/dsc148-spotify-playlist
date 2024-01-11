@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 127011,
+  "2024-01-11": 126959,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -7535,6 +7535,24 @@
       "duration_ms": 174465,
       "name": "Neck Snap",
       "url": "https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK"
+    },
+    {
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t"
+      },
+      "artists": [
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH"
     },
     {
       "album": {

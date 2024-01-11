@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 237662,
+  "num_followers": 237552,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODZhOWFmMGYxZDFjYjgwN2RiNmVkMzRhYjY3MzBmZWU3ZjJhNTkw",
+  "snapshot_id": "MCxjZWUyYTRkYjQ4OTI1MGRlZDI5MjMyYjYxYjEzNWJhOTRkZGY5MmE3",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
-      },
-      "artists": [
-        {
-          "name": "Newsong",
-          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
-        }
-      ],
-      "duration_ms": 159780,
-      "name": "Have A Little Faith",
-      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Leave What's Lost Behind",
         "url": "https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 249386,
       "name": "The Hope Inside",
       "url": "https://open.spotify.com/track/4ayryg0lW8w3FIibi0UcWb"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
+      },
+      "artists": [
+        {
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
+        }
+      ],
+      "duration_ms": 159780,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
-      },
-      "artists": [
-        {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Feel Holy",
         "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 331800,
       "name": "Feel Holy",
       "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Rooftops",
-        "url": "https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Rooftops",
-      "url": "https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Greater Love",
         "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 199306,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
       "artists": [
         {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
         }
       ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
       "artists": [
         {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
       },
       "artists": [
         {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
         }
       ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 173500,
       "name": "Way, Truth, Life",
       "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        }
-      ],
-      "duration_ms": 232703,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Somebody You Knew",
         "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Dancing in the Fire",
-        "url": "https://open.spotify.com/album/6NjLmLTuYtbXFPoXv3UqEz"
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
       },
       "artists": [
         {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
         }
       ],
-      "duration_ms": 277839,
-      "name": "Until the End of Time",
-      "url": "https://open.spotify.com/track/0tSTru4U38wKK5SuuqHeAe"
+      "duration_ms": 232703,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1715,18 +1699,38 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "DANGEROUS",
-        "url": "https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G"
+        "name": "Dancing in the Fire",
+        "url": "https://open.spotify.com/album/6NjLmLTuYtbXFPoXv3UqEz"
       },
       "artists": [
         {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
         }
       ],
-      "duration_ms": 222922,
-      "name": "DANGEROUS",
-      "url": "https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l"
+      "duration_ms": 277839,
+      "name": "Until the End of Time",
+      "url": "https://open.spotify.com/track/0tSTru4U38wKK5SuuqHeAe"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Can't Stop My Heart From Singing",
+        "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
+      },
+      "artists": [
+        {
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+        },
+        {
+          "name": "Beau and Mercy Perkins",
+          "url": "https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE"
+        }
+      ],
+      "duration_ms": 234925,
+      "name": "Can't Stop My Heart From Singing",
+      "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
     }
   ],
   "unique_name": "Ultimate Christian Alternative",

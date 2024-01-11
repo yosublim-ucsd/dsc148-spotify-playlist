@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135950,
+  "num_followers": 135959,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTBjOGE1MDFhN2Y3ZmY2Yzc5ZmQzYjNiY2I3NjcxNjNlN2E0OTM0",
+  "snapshot_id": "MCxkNDI2ZDUwZDYxZjQyYmU1MTE3MmNhOGM2ODQ0YmE2MmRkZjk5OThk",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 164571,
       "name": "Amor Eu T\u00f4 no Est\u00fadio",
       "url": "https://open.spotify.com/track/6WgbUmH1yKA2YJ5NY2upOA"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -807,30 +807,26 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "N\u00e3o Tenho Tempo",
-        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
       "artists": [
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 125624,
-      "name": "N\u00e3o Tenho Tempo",
-      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -863,26 +859,30 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
         }
       ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     },
     {
       "added_at": "2024-01-05 03:01:00",

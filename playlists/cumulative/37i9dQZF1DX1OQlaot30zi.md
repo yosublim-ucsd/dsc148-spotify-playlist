@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Simba La Rue e tanti altri.
 
-2,864 songs - 5 day 9 hr 46 min
+2,864 songs - 5 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1997,7 +1997,7 @@
 | [PICCOLI](https://open.spotify.com/track/1FcxGXTJDdTTtkWXT9mVVc) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [PICCOLI](https://open.spotify.com/album/552cO0pQzMzCNVkwLKkV8N) | 2:43 | 2022-05-10 | 2022-05-20 |
 | [Piccolo principe](https://open.spotify.com/track/0OziUV1T8aoQk6rr95pPA8) | [Panama Era](https://open.spotify.com/artist/5q1c9NCZ4P1WUFg52a9Dnj) | [Piccolo principe](https://open.spotify.com/album/4XXpE9UmGHavDVKMLZeeYl) | 3:21 | 2022-07-29 | 2022-08-05 |
 | [Pietre Roventi](https://open.spotify.com/track/3lk5nbbxln0M5MsbzboGR6) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Pietre Roventi](https://open.spotify.com/album/1Pmk7Yl7ZxCgfBrPbxQsVi) | 2:13 | 2023-03-09 | 2023-03-25 |
-| [PIGS](https://open.spotify.com/track/0W7p5lnQd0ID3PsaV20SnM) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [PIGS](https://open.spotify.com/album/4mUNyvqIiPCb9bcvoEmQuy) | 3:28 | 2024-01-04 |  |
+| [PIGS](https://open.spotify.com/track/0W7p5lnQd0ID3PsaV20SnM) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [PIGS](https://open.spotify.com/album/4mUNyvqIiPCb9bcvoEmQuy) | 2:29 | 2024-01-04 |  |
 | [Ping Pong](https://open.spotify.com/track/36nEocOq5NCcdC0EHv0VDQ) | [Warez](https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Biggie Paul](https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE) | [Maestro](https://open.spotify.com/album/3UlDnlJPX1IlBNv0a6Cka7) | 2:22 | 2023-01-12 | 2023-02-03 |
 | [Pioggia](https://open.spotify.com/track/4Gatggg43ESx92VTeiFNjZ) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos), [Duffy](https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL) | [Pioggia](https://open.spotify.com/album/3vVqHdErmdhflt7QZXCLoz) | 2:38 | 2022-05-24 | 2022-06-17 |
 | [PIOMBO](https://open.spotify.com/track/4XoGrS9kKmQURNWC788YdG) | [Mukunda](https://open.spotify.com/artist/2OY777pvru8jnG8lvdjhMf), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [PIOMBO](https://open.spotify.com/album/1WrpHB1JHzgKNn67bpr8p1) | 2:44 | 2022-08-25 | 2022-09-16 |

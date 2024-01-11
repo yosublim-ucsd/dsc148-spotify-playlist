@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 210951,
       "name": "2024 - remix",
       "url": "https://open.spotify.com/track/0eb2w2eIbnyu5YiPznfSD4"
@@ -10323,6 +10323,24 @@
     },
     {
       "album": {
+        "name": "Sevgiye Zaman Ver",
+        "url": "https://open.spotify.com/album/787uYig5h50xsm6yAyHzMx"
+      },
+      "artists": [
+        {
+          "name": "Rafet El Roman",
+          "url": "https://open.spotify.com/artist/5gs9qloTR5m6dM0ScMty3H"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226481,
+      "name": "Direniyorum",
+      "url": "https://open.spotify.com/track/2gcVsbyo517zAHOyvGbZWB"
+    },
+    {
+      "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
@@ -15652,7 +15670,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 212718,
       "name": "H00DBYAIR",
       "url": "https://open.spotify.com/track/5EqYMOxwZyhneCfMU35pMQ"
@@ -21520,7 +21538,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
@@ -22892,7 +22910,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -41000,7 +41018,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 166951,
       "name": "ur the moon",
       "url": "https://open.spotify.com/track/20WKIcsFqP3fpWvnfKEqv2"

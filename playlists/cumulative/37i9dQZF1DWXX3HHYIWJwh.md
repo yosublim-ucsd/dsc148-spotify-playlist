@@ -4,7 +4,7 @@
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-78 songs - 4 hr 6 min
+79 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-11-23 |  |
 | [dame un beso](https://open.spotify.com/track/1UVN4riE1cU49ARhbB8phJ) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos), [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k) | [YELLOW NOTE](https://open.spotify.com/album/3T5uunEVFcYhl4uqKSxyUV) | 3:22 | 2023-12-26 | 2023-12-30 |
 | [dame un beso](https://open.spotify.com/track/6PNS6uP80uCchkfpRL0rbE) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos), [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k) | [YELLOW NOTE](https://open.spotify.com/album/1qIeBADh8JAZ0g2sAmTBlZ) | 3:22 | 2023-12-26 |  |
+| [Discord\-disco](https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Discord\-disco](https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk) | 3:17 | 2024-01-10 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-11-23 |  |
 | [Don't think](https://open.spotify.com/track/3TTDxcRf6IkQMMHcuAVzyF) | [Tsubasa Mori](https://open.spotify.com/artist/66UoonlNCjF9n9hYfvRfJ1), [Coconut Sunday](https://open.spotify.com/artist/3eaueBHZTLZyyZs6vbmmbP) | [Don't think](https://open.spotify.com/album/5qNO5mFv2coLAbVYGtTqZG) | 3:54 | 2023-11-28 | 2023-12-20 |
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2023-11-23 |  |
@@ -66,7 +67,7 @@
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-11-23 |  |
 | [So I Don't Forget](https://open.spotify.com/track/2M2ghHSmrQrIJxAA8ElptH) | [MIKA 米卡](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [So I Don't Forget](https://open.spotify.com/album/05b3Kdk2Jox2csFJXpamb3) | 3:04 | 2023-12-19 | 2023-12-27 |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-26 |  |
-| [Starlight 〜君に届くまで...〜](https://open.spotify.com/track/1063HKJblWTIoYGoc5qOgz) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [Proxima](https://open.spotify.com/album/5wgV4qqmXF54eFFHYxNlAz) | 3:08 | 2023-12-26 |  |
+| [Starlight 〜君に届くまで...〜](https://open.spotify.com/track/1063HKJblWTIoYGoc5qOgz) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [Proxima](https://open.spotify.com/album/5wgV4qqmXF54eFFHYxNlAz) | 3:08 | 2023-12-26 | 2024-01-11 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2023-11-23 |  |
 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-11-23 |  |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-11-28 | 2023-12-20 |

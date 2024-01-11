@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,115 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,253 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 50 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 |
 | 51 | [Odisséia Na Babilônia \- Ao Vivo](https://open.spotify.com/track/0cUr7yd1UjtyPYwybL4fDi) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 4:12 |
 | 52 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
-| 53 | [I Wanna Be](https://open.spotify.com/track/1BCX365xfyXvfhkMtUFGuE) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Rockers Control](https://open.spotify.com/artist/1iPwoFhbDDW4WQGiehzuun) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:40 |
+| 53 | [Estar Com Você \- Acústico](https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Emmano](https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq) | [Acústico Helio Bentes](https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh) | 2:56 |
 | 54 | [A Sombra da Maldade \(Acústico\)](https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:50 |
-| 55 | [Estar Com Você \- Acústico](https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Emmano](https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq) | [Acústico Helio Bentes](https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh) | 2:56 |
+| 55 | [I Wanna Be](https://open.spotify.com/track/1BCX365xfyXvfhkMtUFGuE) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Rockers Control](https://open.spotify.com/artist/1iPwoFhbDDW4WQGiehzuun) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:40 |
 | 56 | [Cravo e Canela \- Acústico \| Ao Vivo](https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia Acústico \(Ao Vivo\)](https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE) | 3:35 |
 | 57 | [Is This Love \(Cover\) \- Acústico](https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Is This Love \(Cover\) \[Acústico\]](https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O) | 3:52 |
 | 58 | [Medley: Árvore do Reggae / Música de Jah / Ame Sua Missão \- Ao Vivo](https://open.spotify.com/track/4bSV38EAZHHv8KdAwFbYt5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo No República do Reggae](https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ) | 4:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Corre Pro Meu Mar \- Acústico / Ao Vivo](https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Corre Pro Meu Mar \(Acústico / Ao Vivo\)](https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw) | 3:23 |
 
-Snapshot ID: `MCxmOTc2MWU0OTZlMWE1MTkwZjI4NDQ2MDUyNzY3NGM4Y2M4Y2M2YmQx`
+Snapshot ID: `MCw0MWMwYmQwMDVmYzY5Yjc5OTc3NGVhYWQ4NTJiNmQ2YWU2NzczOTRm`

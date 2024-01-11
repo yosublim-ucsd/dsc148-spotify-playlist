@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 73593,
+  "2024-01-11": 73587,
   "date_first_scraped": "2022-06-02",
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
@@ -309,6 +309,24 @@
       "duration_ms": 169200,
       "name": "Cuando Yo Era Un Jovencito",
       "url": "https://open.spotify.com/track/34HiQ9eroaoXlS4b5ZJQWh"
+    },
+    {
+      "album": {
+        "name": "Central Camionera",
+        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Cu\u00e1nto Me Cuesta",
+      "url": "https://open.spotify.com/track/3oDxYmvYgseohA7m347NZK"
     },
     {
       "album": {
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 152210,
       "name": "Ni Por Mil Punados De Oro",
       "url": "https://open.spotify.com/track/55tDGwgbcDOaMzCaHaBjk1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Fanny J x Nesly
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,400 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,476 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 11 | [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 |
 | 12 | [COMPLIQUÉ](https://open.spotify.com/track/2GWCVjGJ30y2hXIKIXhsxT) | [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY) | [COMPLIQUÉ](https://open.spotify.com/album/2ev4tDFNjbJyAetjBBzuii) | 3:28 |
 | 13 | [Madame](https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd) | [Madame](https://open.spotify.com/album/1kzwySJHeTPXZ5Ryqj6fcE) | 3:12 |
-| 14 | [City Road](https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [City Road](https://open.spotify.com/album/6soACghzfAs1FQ2m48lGG1) | 2:12 |
+| 14 | [City Road](https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [City Road](https://open.spotify.com/album/6soACghzfAs1FQ2m48lGG1) | 2:14 |
 | 15 | [Monalisa](https://open.spotify.com/track/0A5FQkAtB6Eh5RgkEIznWP) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 3:54 |
 | 16 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 |
 | 17 | [Goo Goo Eyes](https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Goo Goo Eyes](https://open.spotify.com/album/4FgEzWpTjIIckVtXCRCbLN) | 3:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 |
 | 40 | [VIN NON](https://open.spotify.com/track/2NvrOO70coQL5O9dvjoPzp) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [VIN NON](https://open.spotify.com/album/4yvD7JMgNk4JGlskjGsinD) | 3:13 |
 
-Snapshot ID: `MCxjMTg3Yzc2ODk0NmEwOGU0NDI2MWRkYTZlZGU5OTBlZGRlZTA2OTVm`
+Snapshot ID: `MCxiMjYxYWI4MDZhMWJiYjZiNGE4Yjg4NTA4ZDA3Y2U2NTljNzdiMGUz`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Myke Towers",
-  "num_followers": 495958,
+  "num_followers": 495494,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2FhZTQxODNjN2JiZDJiZDdiZTU0NTBiZjRjZTRjNDU1NTc2ODFi",
+  "snapshot_id": "MCw1ODY4YmMwODAwNDkxM2E2MGIxM2Y4Mjk2ZjgyMWFlZDJjMmU2MDA5",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+        "name": "TRANKY FUNKY",
+        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Si La Calle Llama - Remix",
-      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+      "duration_ms": 158325,
+      "name": "TRANKY FUNKY",
+      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -259,22 +255,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "TRANKY FUNKY",
-        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 158325,
-      "name": "TRANKY FUNKY",
-      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 218000,
       "name": "Volando",
       "url": "https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
@@ -439,38 +455,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Qu\u00e9 Bonita",
-        "url": "https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 230416,
-      "name": "Qu\u00e9 Bonita",
-      "url": "https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Las Leyendas Nunca Mueren",
         "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 176538,
       "name": "North Carolina",
       "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Qu\u00e9 Bonita",
+        "url": "https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 230416,
+      "name": "Qu\u00e9 Bonita",
+      "url": "https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -523,6 +523,22 @@
       "duration_ms": 185312,
       "name": "Bajo El Sol",
       "url": "https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 199825,
+      "name": "SOLO POR VOS",
+      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -567,26 +583,6 @@
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Mexicano",
-      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -647,24 +643,8 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 199825,
-      "name": "SOLO POR VOS",
-      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Par de Dosis",
-        "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
       "artists": [
         {
@@ -672,13 +652,13 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         },
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Par de Dosis",
-      "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
+      "duration_ms": 174193,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -719,26 +699,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "100 MILLONES",
-        "url": "https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 237459,
-      "name": "100 MILLONES",
-      "url": "https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "BIEN O MAL",
         "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
@@ -775,6 +735,46 @@
       "duration_ms": 519289,
       "name": "Residente: Bzrp Music Sessions, Vol. 49",
       "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Par de Dosis",
+        "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Par de Dosis",
+      "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "100 MILLONES",
+        "url": "https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 237459,
+      "name": "100 MILLONES",
+      "url": "https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "VICE",
-        "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "VICE",
-      "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Cuentas Claras\u2026",
         "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 209770,
       "name": "De Museo",
       "url": "https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "VICE",
+        "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "VICE",
+      "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 265116,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Joder",
         "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "MAMA",
-        "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 265116,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "El 3 Letras",
         "url": "https://open.spotify.com/album/6S3n6edGaYeA3dNhp8xxFv"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Pico y Pala",
-        "url": "https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H"
-      },
-      "artists": [
-        {
-          "name": "Munic HB",
-          "url": "https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Pico y Pala",
-      "url": "https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Ni Miedo Ni Piedad",
         "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 278181,
       "name": "Ni Miedo Ni Piedad",
       "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Pico y Pala",
+        "url": "https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H"
+      },
+      "artists": [
+        {
+          "name": "Munic HB",
+          "url": "https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Pico y Pala",
+      "url": "https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Mustang 65'",
-        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Mustang 65'",
-      "url": "https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
         "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 141320,
       "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
       "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Mustang 65'",
+      "url": "https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
+      "duration_ms": 164092,
+      "name": "100 TRACKS",
+      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 164092,
-      "name": "100 TRACKS",
-      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
+      "duration_ms": 243200,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
     }
   ],
   "unique_name": "Mucho Rap",

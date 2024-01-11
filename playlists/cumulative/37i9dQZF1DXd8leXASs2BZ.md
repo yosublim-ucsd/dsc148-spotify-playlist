@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kay\-on
 
-146 songs - 6 hr 40 min
+148 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [day n night](https://open.spotify.com/track/4UTNTQTKdcUzxCO1xZjHuf) | [swe4t](https://open.spotify.com/artist/0NSum2271JHRt3i8cZMBhi), [3scxpe](https://open.spotify.com/artist/34NtGqrhZ03TUImONVdfBP) | [day n night](https://open.spotify.com/album/0aJYcmiXlFv40XcfSfV3Hm) | 2:15 | 2023-12-07 | 2023-12-15 |
 | [Demon](https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [Demon](https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1) | 2:54 | 2023-12-07 | 2023-12-14 |
 | [DEMON TIME](https://open.spotify.com/track/6HPE9XAhjtPky949LSxhTM) | [Yung sticky wom](https://open.spotify.com/artist/6KkO28vY94gSfjYCd0zhw3) | [DEMON TIME](https://open.spotify.com/album/11ezAtMvcChEv73JkHcmnX) | 2:00 | 2023-12-07 |  |
-| [Depressed & Pills](https://open.spotify.com/track/01xbmb6jZFpcgG0iddBD0M) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [Nia Varan](https://open.spotify.com/artist/2cA365KqADueskrjJqSeBS) | [Depressed & Pills](https://open.spotify.com/album/4oLSP0Rbigo3mOYi1dq9p1) | 2:20 | 2024-01-09 |  |
+| [Depressed & Pills](https://open.spotify.com/track/01xbmb6jZFpcgG0iddBD0M) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [Nia Varan](https://open.spotify.com/artist/2cA365KqADueskrjJqSeBS) | [Depressed & Pills](https://open.spotify.com/album/4oLSP0Rbigo3mOYi1dq9p1) | 2:20 | 2024-01-09 | 2024-01-11 |
+| [Depressed & Pills](https://open.spotify.com/track/4FStzexb85m932TwWU9KQl) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [Nia Varan](https://open.spotify.com/artist/2cA365KqADueskrjJqSeBS) | [Depressed & Pills](https://open.spotify.com/album/3fqPHtHoAbYJSPWcrISn2a) | 2:20 | 2024-01-10 |  |
 | [devil talk](https://open.spotify.com/track/4BdyCtmClgTDXecu5qDd2W) | [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk) | [devil talk](https://open.spotify.com/album/6VmXbuQjIqpVNS2Ij3yU6N) | 2:01 | 2023-12-07 |  |
 | [DIFFICULT](https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [ROBIN HOOD STREET](https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c) | 3:40 | 2023-12-07 |  |
 | [Don Julio](https://open.spotify.com/track/3qdu41Y9RmZaO7hjMFPivL) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Don Julio](https://open.spotify.com/album/1jiEsRdQjfqr2fQulFewTj) | 2:40 | 2023-12-07 |  |
@@ -107,6 +108,7 @@
 | [NARI\-A\-GARI](https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NARI\-A\-GARI](https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR) | 2:45 | 2024-01-09 |  |
 | [never4ever](https://open.spotify.com/track/5lEJuqYmCHLXdHIfYJwsEv) | [BBY NABE](https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [now that UR gone](https://open.spotify.com/album/4pujOHKtOo25md7rMwnRLE) | 2:48 | 2023-12-07 | 2023-12-15 |
 | [NEW VINTAGE](https://open.spotify.com/track/218R54zys4Z5NgkrHWaGOA) | [$MOKE OG](https://open.spotify.com/artist/4mdCLBVUWqX7l01s8Olnjx) | [NEW VINTAGE](https://open.spotify.com/album/3ubOeNVdNuBWorLFDcMST1) | 2:23 | 2023-12-07 | 2023-12-14 |
+| [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 |  |
 | [NIGHT DŌTONBORI](https://open.spotify.com/track/1McTNSOavmfiO6XrNmspqJ) | [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d), [Yuki Namba](https://open.spotify.com/artist/1JWIHaz1I1QsNp3e789p4J) | [Ambivert Pt\. 2](https://open.spotify.com/album/3hBY8A9UHCpHn7maPbPveH) | 2:23 | 2023-12-07 | 2023-12-20 |
 | [Nothinn](https://open.spotify.com/track/04A61F4f7hNFgFsQ9F9sHf) | [AUDIO RADICAL](https://open.spotify.com/artist/7nBpQt0rbbHHTfQY9bd9d7), [chaochao](https://open.spotify.com/artist/4Urb32vb8QFDAJpoMdOVD5), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [CROSS OVA](https://open.spotify.com/album/6TYODp2J2aSbnHnEnvTcuN) | 3:22 | 2023-12-07 |  |
 | [One Love](https://open.spotify.com/track/5CDAva91X7wImJJ07puXeP) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [F4MILY](https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs) | 3:04 | 2023-12-07 |  |
@@ -123,7 +125,7 @@
 | [SAI](https://open.spotify.com/track/5osMyTdNI7vyNnS03Tb8X5) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [RAFRAGE](https://open.spotify.com/album/3FttzCyCj9hf5L4O2xhYcR) | 2:09 | 2023-12-07 |  |
 | [Scarlet](https://open.spotify.com/track/7tb84qAWR15yAfVAyvCZRJ) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic), [Cheshire Yums](https://open.spotify.com/artist/5s0GruaCwZPkYWVQQH2DrD) | [DuskAlwaysWithU](https://open.spotify.com/album/6ViwVwDlteRNlk7tnkz3QV) | 2:24 | 2023-12-07 |  |
 | [Seasons](https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Seasons](https://open.spotify.com/album/4B0qLdyNSpZc9lK7CsMdTn) | 1:10 | 2023-12-07 |  |
-| [Sh!t Talker](https://open.spotify.com/track/6OKWLgCbG4dV23hcnh3fyX) | [YUNGSTAお仲間](https://open.spotify.com/artist/64csVS3CtwSZMjIbhCaMqU) | [ONAKAMATAPE:上](https://open.spotify.com/album/2WUuI7KEDyolb5ZqzeX2NO) | 2:41 | 2023-12-22 |  |
+| [Sh!t Talker](https://open.spotify.com/track/6OKWLgCbG4dV23hcnh3fyX) | [YUNGSTAお仲間](https://open.spotify.com/artist/64csVS3CtwSZMjIbhCaMqU) | [ONAKAMATAPE:上](https://open.spotify.com/album/2WUuI7KEDyolb5ZqzeX2NO) | 2:41 | 2023-12-22 | 2024-01-11 |
 | [SHAKE IT](https://open.spotify.com/track/0hg3vVtDKx9unqW6h0QJBy) | [Granzotto Kris](https://open.spotify.com/artist/5SiluWKCDSSK540EQp4iI3), [Shinkai East](https://open.spotify.com/artist/3OssiXL7LArg3yDW0t2wE6) | [SHAKE IT](https://open.spotify.com/album/5UuZ688n73AFKco48P7u8r) | 2:38 | 2023-12-07 | 2023-12-27 |
 | [SHIBUSHO](https://open.spotify.com/track/5u2VnI3PrZfcxPYLDfxWwr) | [Gucci Prince](https://open.spotify.com/artist/56qzFnjHk3QzSNhVozCTrI), [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [SHIBUSHO](https://open.spotify.com/album/2RjMP0EbxN7Yq5A3aClR78) | 2:52 | 2023-12-07 |  |
 | [SKY WALK](https://open.spotify.com/track/1AhLDLjBFvHENZ8mJ7Rkj4) | [Deey](https://open.spotify.com/artist/2KkIoc6KfxH0zeJHe5xLlI), [Creek Ville](https://open.spotify.com/artist/4ur1Mqhk79gf2YvylQtazh) | [Brain Screen](https://open.spotify.com/album/0WPV0XX09CCMBiLLBAhVy0) | 2:43 | 2023-12-07 |  |

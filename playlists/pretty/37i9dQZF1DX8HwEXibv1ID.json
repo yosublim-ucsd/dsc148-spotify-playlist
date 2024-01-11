@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 35949,
+  "num_followers": 35995,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTRkMGM3ODlkMGYwMTYwNjM4M2YyMzBlNGE2YzAzZjRlMDFhMDA1",
+  "snapshot_id": "MCxjYzcyNzhlMGQ5ZTdmNjMyMWI3YWQ2MTQ3NzM0NzExMjM4OWQyMDg0",
   "tracks": [
     {
       "added_at": "2023-12-21 09:47:36",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
+        "name": "Beauty And The Beat! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Do I Love You? - Live In Miami, FL/1959",
+      "url": "https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
         "name": "Their Greatest Hits And Finest Performances",
         "url": "https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 187026,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/1Bis647TLxkQ6T2hhIFyC5"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
-        "name": "Beauty And The Beat! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Do I Love You? - Live In Miami, FL/1959",
-      "url": "https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9"
     },
     {
       "added_at": "2023-12-21 09:47:36",

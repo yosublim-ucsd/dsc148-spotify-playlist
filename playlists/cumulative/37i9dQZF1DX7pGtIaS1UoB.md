@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-321 songs - 19 hr 5 min
+323 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2022-08-08 | 2022-10-04 |
 | [Secrets](https://open.spotify.com/track/7Kw1g2prIMcE3aOWd0TBMp) | [王品怡](https://open.spotify.com/artist/47rcMBPKWgIt6pDglkNrFn), [Kevin Liao](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [為你唱情歌 \- Secrets](https://open.spotify.com/album/0QdXaHp7mskkExLDZwhRAW) | 2:17 | 2022-09-26 | 2022-12-06 |
 | [So Lucky feat\. 鼓鼓 呂思緯](https://open.spotify.com/track/5V0O06ZqReqCbU2DnGNOWn) | [郭靜 \(Claire Kuo\)](https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [So Lucky](https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7) | 3:11 | 2022-08-08 | 2022-09-15 |
-| [Supernova](https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Supernova](https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd) | 3:12 | 2023-06-19 |  |
+| [Supernova](https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Supernova](https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd) | 3:12 | 2023-06-19 | 2024-01-11 |
 | [TA](https://open.spotify.com/track/3SEpoQd1OutcbIfiZQ05PK) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [TA](https://open.spotify.com/album/15ZulOUygGKb0Y5LEYUd5T) | 3:55 | 2023-01-30 |  |
 | [TA](https://open.spotify.com/track/5jorYGG6XVjhyz1yj0CMv1) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [TA](https://open.spotify.com/album/4BLZQfs2fLTHOn99hDauFQ) | 3:55 | 2022-06-06 | 2022-07-26 |
 | [TA](https://open.spotify.com/track/6UwJRxAxy8ok9SAidL903w) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [TA](https://open.spotify.com/album/01oXuccY5s2Vsc1y5EK8Ka) | 3:55 | 2022-07-25 | 2023-02-01 |
@@ -74,7 +74,7 @@
 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 | 2022-06-06 |  |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2022-06-06 | 2022-07-25 |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Gentle Bones](https://open.spotify.com/album/4BEjRqKkO7zvPO6GXCDcIM) | 2:24 | 2022-06-13 | 2023-05-03 |
-| [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/65MsZ8QtMNvWh8GKIabUp6) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Gentle Bones](https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC) | 2:24 | 2024-01-08 |  |
+| [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/65MsZ8QtMNvWh8GKIabUp6) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Gentle Bones](https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC) | 2:24 | 2024-01-08 | 2024-01-11 |
 | [一整个爱住你](https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt) | 3:27 | 2022-07-25 | 2023-05-09 |
 | [一整个爱住你](https://open.spotify.com/track/3t0MbCCcXncdtWeaK9tNdN) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/3EbZCDAJrE0owIaNoAMxKG) | 3:27 | 2022-06-20 | 2022-07-27 |
 | [一整个爱住你](https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/1dSG6cHr8dCZCLzVvpWmDt) | 3:27 | 2023-05-22 |  |
@@ -273,9 +273,11 @@
 | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh) | [劉奕兒](https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42), [Marcus Chang](https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n) | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J) | 3:50 | 2023-07-31 | 2023-09-03 |
 | [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [电视剧《你微笑时很美》影视原声带](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 |  |
 | [第一默契 Soulmate](https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD) | [Xu Kai](https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA), [程瀟 \(Cheng Xiao\)](https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:28 | 2022-06-13 | 2022-09-30 |
+| [等你下課](https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:30 | 2024-01-08 |  |
 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 | 2022-06-27 | 2024-01-09 |
 | [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 | 2023-11-27 |  |
 | [簡單愛](https://open.spotify.com/track/5Jtg0qcTKMHq3HjPVGRFAi) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 4:30 | 2022-07-25 | 2024-01-09 |
+| [簡單愛](https://open.spotify.com/track/7JWIGJpbc8Xm9xxu8gSCsT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 4:30 | 2024-01-08 |  |
 | [約會對白](https://open.spotify.com/track/26GGCkThk2p9cr870dTaW7) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa), [朱婧佳](https://open.spotify.com/artist/6QCOFEZJrqExqz9HsIG5zF) | [辭舊](https://open.spotify.com/album/29uplO4qSyKwJGFM38PVPg) | 3:37 | 2022-06-27 | 2022-07-01 |
 | [給你宇宙\(泰版《放羊的星星》推廣曲\)](https://open.spotify.com/track/0Qxm6hUFBFEmRBMYef09Rs) | [孟梓](https://open.spotify.com/artist/5nZUFKAqvjcWqQDNQ8chVU) | [泰版《放羊的星星》原聲帶](https://open.spotify.com/album/19ljgcrHrFILHKxw7GZX0O) | 3:50 | 2023-04-24 | 2023-05-02 |
 | [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 | 2023-12-04 |  |

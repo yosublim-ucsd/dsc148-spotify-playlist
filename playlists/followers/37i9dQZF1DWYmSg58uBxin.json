@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 114755,
+  "2024-01-11": 114878,
   "date_first_scraped": "2020-10-20",
   "description": "Soothing piano and strings to help you concentrate.",
   "name": "Instrumental Backdrop",
@@ -209,6 +209,24 @@
       "duration_ms": 147250,
       "name": "Apr\u00e8s tout",
       "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
+    },
+    {
+      "album": {
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Archipelago",
+      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
     },
     {
       "album": {
@@ -757,6 +775,24 @@
       "duration_ms": 163411,
       "name": "comforts of my home",
       "url": "https://open.spotify.com/track/1hhQmJMdkjz2zIwGWbspLT"
+    },
+    {
+      "album": {
+        "name": "Countryside Mansion",
+        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
+      },
+      "artists": [
+        {
+          "name": "Joanne Gardiner",
+          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "Countryside Mansion",
+      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
     },
     {
       "album": {
@@ -3463,7 +3499,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 150851,
       "name": "Sommernacht",
       "url": "https://open.spotify.com/track/1UOcTdl0c9FV6kRJtlDstp"
@@ -3481,7 +3517,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 131123,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/2cALhQ0Tark1fCoezh76lw"
@@ -3611,6 +3647,24 @@
       "duration_ms": 128857,
       "name": "Still Asleep",
       "url": "https://open.spotify.com/track/4JOjSfJqokAV6Ff2DhCZcf"
+    },
+    {
+      "album": {
+        "name": "Stratus",
+        "url": "https://open.spotify.com/album/4A4McFEifBMLzvMgqmW53R"
+      },
+      "artists": [
+        {
+          "name": "Karl Moss",
+          "url": "https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135604,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/44OBgH2g9Xk6DWVo7TNyNG"
     },
     {
       "album": {

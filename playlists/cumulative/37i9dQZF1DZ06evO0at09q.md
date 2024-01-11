@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 12 min
+54 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Life Alert \(feat\. Tima Dee\)](https://open.spotify.com/track/7icesKbzByVjuQ3WKseTff) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:35 | 2024-01-03 |  |
 | [Lights Go Black](https://open.spotify.com/track/5bvq1x9gt9VdkYzccaE1YC) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Rave](https://open.spotify.com/album/4FT8HQ721hhNaFCN7l49Hi) | 3:48 | 2024-01-03 |  |
 | [Lit](https://open.spotify.com/track/4MfxEXdBNI4klbWEF6NOlo) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 3:52 | 2024-01-03 |  |
-| [Location](https://open.spotify.com/track/1No4TWmtMayA3DQF2iseEf) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Location](https://open.spotify.com/album/63j38KQV6mxt57T2ovAwOe) | 4:21 | 2024-01-03 |  |
+| [Location](https://open.spotify.com/track/1No4TWmtMayA3DQF2iseEf) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Location](https://open.spotify.com/album/63j38KQV6mxt57T2ovAwOe) | 4:21 | 2024-01-03 | 2024-01-11 |
 | [Lose My Control](https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [This Is Night Bass: Vol\. 9](https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw) | 3:19 | 2024-01-03 |  |
 | [Minimix](https://open.spotify.com/track/0owkPaicQL4owIMN1MNvSx) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 0:47 | 2024-01-03 |  |
 | [Movement](https://open.spotify.com/track/1T9DXPyT430MYJwFbyykZf) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Movement](https://open.spotify.com/album/6IVeajoC6n1iTPlYk2ACRP) | 2:46 | 2024-01-03 |  |
@@ -50,6 +50,7 @@
 | [Pretty Deep](https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:18 | 2024-01-03 |  |
 | [Problem](https://open.spotify.com/track/4E9enYOmhzIld9ezlik57W) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Problem](https://open.spotify.com/album/4SU1oWWE8KK62aRXiitiG6) | 3:50 | 2024-01-03 |  |
 | [See It Through](https://open.spotify.com/track/1FtuKCXTuyoYpkR8VTsvmu) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [See It Through](https://open.spotify.com/album/4dmB32HMdTmKtpTkPwjayA) | 4:16 | 2024-01-03 |  |
+| [So High](https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:45 | 2024-01-10 |  |
 | [Submarine](https://open.spotify.com/track/1hgaNjE0jepk3XviaXD62M) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Workshop](https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC) | 4:22 | 2024-01-03 |  |
 | [Suffocating](https://open.spotify.com/track/3gRjHUl4CYD60Vumx0HFy3) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [Suffocating](https://open.spotify.com/album/0bLfEwZD7x7U6kWJabjjga) | 2:54 | 2024-01-03 |  |
 | [The 5th](https://open.spotify.com/track/3YM8KRCeNSoucF8eDC8VZm) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [The 5th](https://open.spotify.com/album/5P2JVO5pl0ZC4yUQU28ZOa) | 2:29 | 2024-01-03 |  |

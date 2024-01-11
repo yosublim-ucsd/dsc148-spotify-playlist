@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Cody Johnson
+> Today's top country hits, featuring our 2024 Artists to Watch: Cover: Dylan Gossett
 
 719 songs - 1 day 14 hr 48 min
 

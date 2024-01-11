@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 125807,
+  "num_followers": 125922,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQ0YjA1NTJiNWQyNDE1NTg5NzYyMDhlY2UwZDA2OTlmYTQ4YThm",
+  "snapshot_id": "MCxkOWI1YjllMGI1ZDU2ODk5Yzg2NGZkYTMwY2QxMzljYzQzNWQxN2U4",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Caricias Vendidas",
+        "url": "https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Ruleteando el Mezcal",
+      "url": "https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 216770,
       "name": "Lupe Campos",
       "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Caricias Vendidas",
-        "url": "https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7"
-      },
-      "artists": [
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Ruleteando el Mezcal",
-      "url": "https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Barquillero",
+        "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Barquillero",
+      "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "El Selectivo",
         "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Barquillero",
-        "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Barquillero",
-      "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
     },
     {
       "added_at": "2023-06-16 06:00:00",

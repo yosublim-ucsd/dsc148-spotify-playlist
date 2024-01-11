@@ -1236,6 +1236,28 @@
     {
       "album": {
         "name": "Benign Strangers",
+        "url": "https://open.spotify.com/album/5XtrGD3pOkiDEwij44Rjt7"
+      },
+      "artists": [
+        {
+          "name": "Davy Mooney",
+          "url": "https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq"
+        },
+        {
+          "name": "Ko Omura",
+          "url": "https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365880,
+      "name": "Dim",
+      "url": "https://open.spotify.com/track/6XE5oVQWVz9XsYloOkHMt4"
+    },
+    {
+      "album": {
+        "name": "Benign Strangers",
         "url": "https://open.spotify.com/album/7AhaDHqyVLlmSxc5iAG5Nx"
       },
       "artists": [
@@ -4608,7 +4630,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 523266,
       "name": "Sweet Sorrow",
       "url": "https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os"

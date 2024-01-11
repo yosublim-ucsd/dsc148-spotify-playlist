@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 476455,
+  "num_followers": 476436,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWIzMmRhNjgwZmI1MzAzODhiZTBmOGI5YTcwYzIxYTI2Yjk5ZTdi",
+  "snapshot_id": "MCwxMGU2YTlmNjIwYWQ1ZDJjYzMyNTNmMmQ4M2FjYjMyNGI3OTBhNzRk",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Before I Cave In",
-        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Before I Cave In",
-      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Degenerates",
         "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 184893,
       "name": "Degenerates",
       "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190783,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 127933,
       "name": "Evil Finds Light",
       "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 190783,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 227573,
       "name": "We\u2019ll Always Have Paris",
       "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 158824,
-      "name": "Shh!",
-      "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Gone In Your Wake",
         "url": "https://open.spotify.com/album/0ypAkNPpFt6jUn6u5Q33CC"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 191229,
       "name": "Disassociate",
       "url": "https://open.spotify.com/track/7f0alEJ3NtU3iqAVrVGAO8"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 158824,
+      "name": "Shh!",
+      "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
     },
     {
       "added_at": "2023-06-20 21:21:38",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1811848,
+  "num_followers": 1811380,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmQ5NGRiOTY1YjExMjY3ODQ0Zjk0MjU5NTMzMWZlODAwZjBjMjcz",
+  "snapshot_id": "MCw4NjcxMWM5NzFiNzU5YzUwNzViNWM2MzJlNjk2NjVhZjM5YmM1NDM0",
   "tracks": [
     {
       "added_at": "2023-11-08 20:27:36",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "Tu Yo Y La Luna",
+        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Si Yo Fuera Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "Tu Yo Y La Luna",
-        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Si Yo Fuera Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Y yo que te amo",
+      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Solo Un Dia\u2026",
         "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 243173,
       "name": "Basta Ya - Banda",
       "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "Con paso sensual",
-        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Y yo que te amo",
-      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+      "duration_ms": 180040,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "M\u00e1s Exitos Con El Shaka",
-        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 180040,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY"
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Reencuentro",
+      "url": "https://open.spotify.com/track/3jq17jcifw4s9ORbLxr4iJ"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns"
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 226360,
-      "name": "Reencuentro",
-      "url": "https://open.spotify.com/track/3jq17jcifw4s9ORbLxr4iJ"
+      "duration_ms": 220154,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1051,22 +1067,6 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 220154,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Mi Raz\u00f3n De Ser",
-      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 214146,
       "name": "Espero Con Ansias",
       "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Yo S\u00e9 Que Te Acordar\u00e1s",
-      "url": "https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 179400,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Lo Mejor De Mi Vida",
+        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Yo S\u00e9 Que Te Acordar\u00e1s",
+      "url": "https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Y Se Parece A T\u00ed",
-        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
+        "name": "Yo No Canto Pero Lo Intentamos",
+        "url": "https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 211906,
-      "name": "Mi Amante",
-      "url": "https://open.spotify.com/track/5bX4DfCjAI8ORKWLX2iiOJ"
+      "duration_ms": 197173,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1795,6 +1795,22 @@
       "duration_ms": 203180,
       "name": "Cita con un Invento",
       "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Y Se Parece A T\u00ed",
+        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Mi Amante",
+      "url": "https://open.spotify.com/track/5bX4DfCjAI8ORKWLX2iiOJ"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1859,22 +1875,6 @@
       "duration_ms": 191013,
       "name": "Un loco solitario",
       "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "Yo No Canto Pero Lo Intentamos",
-        "url": "https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Mis 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
-      },
-      "artists": [
-        {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
-        }
-      ],
-      "duration_ms": 192522,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 221857,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Mis 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 192522,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ"
     },
     {
       "added_at": "2023-11-08 20:27:36",

@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 281301,
+  "num_followers": 281010,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2NhMGIzMThlYWIyYTdlZmQxZGZlMThlNGYxYjdkYzE2MDQyOTg5",
+  "snapshot_id": "MCwzNGFhNTA5ZGQwMTlmNTg2OGRjZWU4ZDc3MTQwYjE1N2MwNzA3ODY2",
   "tracks": [
     {
       "added_at": "2023-12-15 20:41:19",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
+        "name": "Pararam",
+        "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Pararam",
+      "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
         "name": "What's Up",
         "url": "https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 147540,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/12yj178KaJo8PrddT0StaL"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
-        "name": "Pararam",
-        "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Pararam",
-      "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
+        "name": "Showing Signs",
+        "url": "https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Showing Signs",
+      "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
         "name": "Lambada",
         "url": "https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 211707,
       "name": "Lambada",
       "url": "https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
-        "name": "Showing Signs",
-        "url": "https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS"
-      },
-      "artists": [
-        {
-          "name": "PRINSH",
-          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Showing Signs",
-      "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"
     },
     {
       "added_at": "2023-12-15 20:41:19",

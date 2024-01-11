@@ -1668,10 +1668,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 222516,
       "name": "Make Dat Money",
       "url": "https://open.spotify.com/track/2FjGWI79TdNs9rJjfBsIWP"
+    },
+    {
+      "album": {
+        "name": "Make Dat Money",
+        "url": "https://open.spotify.com/album/2tZKDepib0nmCVv41VYwBa"
+      },
+      "artists": [
+        {
+          "name": "Pryce Teeba",
+          "url": "https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX"
+        },
+        {
+          "name": "Blessed San",
+          "url": "https://open.spotify.com/artist/6ZCmGsvdReqqz3Iz789x9n"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222516,
+      "name": "Make Dat Money",
+      "url": "https://open.spotify.com/track/70zWk3h9fZmUYxLrWlfoJZ"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 167610,
+  "2024-01-11": 167563,
   "date_first_scraped": "2021-12-21",
   "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
   "name": "Blues Live & Loud",
@@ -1360,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "Live In London (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324016,
+      "name": "Midnight Heat - Live",
+      "url": "https://open.spotify.com/track/1YLMfZsiVuBVb3yPB9mK0N"
+    },
+    {
+      "album": {
         "name": "Live In London",
         "url": "https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse"
       },
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 324016,
       "name": "Midnight Heat - Live",
       "url": "https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY"

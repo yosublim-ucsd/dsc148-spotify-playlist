@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGI3DKkKGzJ.md) - [plain]
 
 > Le meilleur des années 90 en 90 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,287 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,149 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGI3DKkKGzJ.md) - [plain]
 | 89 | [Simple et funky](https://open.spotify.com/track/0784emAlDLuQtgeL4QV4tJ) | [Alliance Ethnik](https://open.spotify.com/artist/2dZM3D9rBveK3dywr1WQkN) | [Simple et funky \(Edition Deluxe\)](https://open.spotify.com/album/3e3vBd28W76GroGOt8fsZN) | 3:41 |
 | 90 | [Jump](https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX) | [Kris Kross](https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf) | [Totally Krossed Out](https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka) | 3:15 |
 
-Snapshot ID: `MCw5MzU3YzljNDAyMTEyZWM1MWQ1OTkyYWI5NzhkY2U1YWZhNDk2ZDJm`
+Snapshot ID: `MCwyODhlYWM3NmViMzg2ZmYwODdiNDFjNDg3MzA1YTcwNGUyOTdhYmE1`

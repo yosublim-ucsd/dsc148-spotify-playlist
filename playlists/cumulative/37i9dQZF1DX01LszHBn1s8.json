@@ -23065,20 +23065,24 @@
     },
     {
       "album": {
-        "name": "Toxic",
+        "name": "Toxic (Freestyle)",
         "url": "https://open.spotify.com/album/0Oy294KOfbLAq9OtJfx7qk"
       },
       "artists": [
         {
           "name": "Songer",
           "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        },
+        {
+          "name": "BL@CKBOX",
+          "url": "https://open.spotify.com/artist/1IIMC4tga6PiBaEqPq2FTb"
         }
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136374,
-      "name": "Toxic",
+      "name": "Toxic (Freestyle)",
       "url": "https://open.spotify.com/track/3KTRve0Kx6ytMtlEWkWcgt"
     },
     {

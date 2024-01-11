@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 186277,
+  "num_followers": 186289,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWI1MTM4NWQyYTQ2YmY3MjgxMTYxM2I3YTMwYzRlNzQ3ODE4NDA5",
+  "snapshot_id": "MCw1MGFlYzY0MDhmNjBlOWJkZjcyNmE5YjA5MGVlZWVhMjdlZjA3OWIz",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 212481,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "A volta de Secos & Molhados",
         "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 128000,
       "name": "Sangue latino",
       "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 212481,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
     },
     {
       "added_at": "2023-12-12 20:23:06",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Almismotiempo",
-        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 222432,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Entren Los Que Quieran",
         "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 249733,
       "name": "Calma Pueblo (feat. Omar Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Almismotiempo",
+        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 222432,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
         "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 239906,
       "name": "Nuestro Amo Juega al Esclavo",
       "url": "https://open.spotify.com/track/14UY2VvUlmEmSd9ILCqyUz"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Mexico: Days of Struggle",
-        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
       "artists": [
         {
-          "name": "Judith Reyes",
-          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
         }
       ],
-      "duration_ms": 330946,
-      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
-      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
+      "duration_ms": 215579,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1351,38 +1355,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
+        "name": "Mexico: Days of Struggle",
+        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "Judith Reyes",
+          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
         }
       ],
-      "duration_ms": 215579,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
-      },
-      "artists": [
-        {
-          "name": "Fiskales Ad-Hok",
-          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
-        }
-      ],
-      "duration_ms": 128573,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
+      "duration_ms": 330946,
+      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
+      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1427,22 +1411,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Cordillera",
-      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "S\u00edganme los Buenos",
         "url": "https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm"
       },
@@ -1459,6 +1427,22 @@
       "duration_ms": 207580,
       "name": "S\u00edganme los Buenos",
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
     },
     {
       "added_at": "2023-10-13 15:22:13",
@@ -1527,22 +1511,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "El Corrido de Milo Vela",
-        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "El Corrido de Milo Vela",
-      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Homonimo",
         "url": "https://open.spotify.com/album/45SyOhvUtpGhEkYvdN1YWr"
       },
@@ -1555,6 +1523,22 @@
       "duration_ms": 226355,
       "name": "Ni\u00f1x",
       "url": "https://open.spotify.com/track/2sKurE9yCmgFfdP4vW0rgy"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "El Corrido de Milo Vela",
+        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "El Corrido de Milo Vela",
+      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Se Me Ocurre",
+      "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Tempestad",
         "url": "https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu"
       },
@@ -1727,54 +1727,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Se Me Ocurre",
-      "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Paco Vampiro",
-        "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 201284,
-      "name": "Paco Vampiro",
-      "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Guayabo",
-        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
-      },
-      "artists": [
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 152052,
-      "name": "Guayabo",
-      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Gieco Y Heredia En Vivo",
         "url": "https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3"
       },
@@ -1795,6 +1747,38 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Guayabo",
+        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
+      },
+      "artists": [
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 152052,
+      "name": "Guayabo",
+      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Paco Vampiro",
+        "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 201284,
+      "name": "Paco Vampiro",
+      "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Souvenir (Deluxe)",
         "url": "https://open.spotify.com/album/2J73BmU7DnY2iCCXzrRls8"
       },
@@ -1807,26 +1791,6 @@
       "duration_ms": 213213,
       "name": "El Club de la Resistencia",
       "url": "https://open.spotify.com/track/3TYSlb2zMxnnhPEyhdl3QK"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Su Madre Patria",
-        "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
-      },
-      "artists": [
-        {
-          "name": "Edson Velandia",
-          "url": "https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi"
-        },
-        {
-          "name": "Adriana Lizcano",
-          "url": "https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Su Madre Patria",
-      "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1871,6 +1835,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Su Madre Patria",
+        "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
+      },
+      "artists": [
+        {
+          "name": "Edson Velandia",
+          "url": "https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi"
+        },
+        {
+          "name": "Adriana Lizcano",
+          "url": "https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Su Madre Patria",
+      "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
@@ -1883,6 +1867,26 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 42802,
+  "num_followers": 42813,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTk0YTZhMmNlYzVmYzJjMWM2MzcyNzI4OTYyNTcwYTFlOTlhOWQ4",
+  "snapshot_id": "MCwwNjAzYjdjY2Y4Njg4OGE2MzdlMGIzNDI1NDRiMTkyMmZlOThiOGVk",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Urbane Jazz Of Roy Eldridge And Benny Carter",
-        "url": "https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "I Still Love Him So",
-      "url": "https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Complete Verve Singles",
         "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 203653,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Urbane Jazz Of Roy Eldridge And Benny Carter",
+        "url": "https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "I Still Love Him So",
+      "url": "https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv"
     },
     {
       "added_at": "2019-10-04 16:01:14",

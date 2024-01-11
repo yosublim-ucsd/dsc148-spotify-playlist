@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 760877,
+  "num_followers": 761461,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGI4OWZmOWExOGYxNDc5YTc1MDQ4ZTliMGEwZmI5NDI1N2U0NmEy",
+  "snapshot_id": "MCw0ZTg5OGQxMTUzYjA0ODUwMWY1MTczMGViMzc4MjJjZDBjMTMwYTBl",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -283,18 +283,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
       },
       "artists": [
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 195936,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -331,18 +331,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
+      "duration_ms": 195936,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Mi amor es para ti",
+      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Mi amor es para ti",
-      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Un Gato En La Oscuridad",
-        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Amada Amante",
-      "url": "https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Que Nada Nos Separe",
         "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 267000,
       "name": "No Hace Falta",
       "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Un Gato En La Oscuridad",
+        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Amada Amante",
+      "url": "https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Recuerdos de una Noche",
+      "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Disco De Oro: Baladas, Vol. 1",
         "url": "https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 222476,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Recuerdos de una Noche",
-      "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 152711,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "S\u00f3lo para enamorados",
         "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 190840,
       "name": "Tri\u00e1ngulo",
       "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 152711,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 1",
-        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 307346,
-      "name": "Detalles (Detalhes)",
-      "url": "https://open.spotify.com/track/0WBaLzQeqMKc1CAX80jnS3"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "La Magia de Sandro",
         "url": "https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 196560,
       "name": "Penas",
       "url": "https://open.spotify.com/track/3xef9cUovCAdblrNkP1CRF"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Pra Sempre Em Espanhol - Vol. 1",
+        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 307346,
+      "name": "Detalles (Detalhes)",
+      "url": "https://open.spotify.com/track/0WBaLzQeqMKc1CAX80jnS3"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Grandes \u00c9xitos Vol.2",
-        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 160835,
-      "name": "La Historia de Tommy",
-      "url": "https://open.spotify.com/track/1LZZNt7iehSyCtsBvEk4EZ"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Rock, Balada y Sentimiento, Vol. I",
         "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 199262,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Las 15 Consagradas",
+        "url": "https://open.spotify.com/album/6m5h3OTjm2V0Jo5I2ckwTa"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 292101,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/2Cg1fj6jAMXc3F9sobVfaR"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

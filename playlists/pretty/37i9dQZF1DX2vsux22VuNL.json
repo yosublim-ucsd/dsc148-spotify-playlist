@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 291890,
+  "num_followers": 291801,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzJlZDQ1MjY1MDRiM2NlOTllNDg3NDkxNWYwNDE5OWJlYjE3MmUy",
+  "snapshot_id": "MCxhZDVmN2VmYTgyOTRlNWExYjkwYzU4NTc4OWFmZjUyNTBkYTg5NTY5",
   "tracks": [
     {
       "added_at": "2023-12-15 11:18:05",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
+        "name": "Cores",
+        "url": "https://open.spotify.com/album/6d6WTiErixRrxdKpfLTSkt"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 148695,
+      "name": "Cores",
+      "url": "https://open.spotify.com/track/3fTHgagwDjYGPlP1I3s2BN"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
-        "name": "Cores",
-        "url": "https://open.spotify.com/album/6d6WTiErixRrxdKpfLTSkt"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 148695,
-      "name": "Cores",
-      "url": "https://open.spotify.com/track/3fTHgagwDjYGPlP1I3s2BN"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
         "name": "n\u00e3o d\u00e1 certo",
         "url": "https://open.spotify.com/album/1Nv4ok4KXKZ2loY0J3jqeq"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 159666,
       "name": "n\u00e3o d\u00e1 certo",
       "url": "https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "ele diz que me ama s2",
-        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Bi\u00e9",
-          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
-        },
-        {
-          "name": "Perimnobeat",
-          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "ele diz que me ama s2",
-      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
         "name": "Malandra Treinada",
         "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 139200,
       "name": "Malandra Treinada",
       "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
+        "name": "ele diz que me ama s2",
+        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        },
+        {
+          "name": "Perimnobeat",
+          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "ele diz que me ama s2",
+      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
     },
     {
       "added_at": "2023-12-15 11:18:05",

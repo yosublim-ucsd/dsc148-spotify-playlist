@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Corey Taylor",
-  "num_followers": 347172,
+  "num_followers": 347186,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjMzYmJlZjg0NGJjODZmMmMwYjE0MWE4NjE4M2UwY2EzMDMzZDBl",
+  "snapshot_id": "MCw1OTIzNjQwMjYxMzBlZjUyZjUyMjFiMmJlNjZmNThhOGIzYjA2ODI1",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Granite",
+      "url": "https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Take Me Back To Eden",
-        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Granite",
-      "url": "https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 243977,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 243977,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Artificial",
         "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 219468,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 234149,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/6Y9ELz57Vfjrr0KqMrX9Ma"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
         "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 228219,
       "name": "Dinosaur",
       "url": "https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 234149,
-      "name": "Eye of the Storm",
-      "url": "https://open.spotify.com/track/6Y9ELz57Vfjrr0KqMrX9Ma"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Somewhere Between the Power Lines and Palm Trees",
-        "url": "https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL"
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
       },
       "artists": [
         {
-          "name": "Dogstar",
-          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Everything Turns Around",
-      "url": "https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N"
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
     }
   ],
   "unique_name": "Hard Rock",

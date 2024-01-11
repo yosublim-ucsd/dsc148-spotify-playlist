@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 8046,
+  "2024-01-11": 8028,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
   "name": "Top 50 - Luxembourg",
@@ -39,6 +39,24 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "album": {
+        "name": "(It Goes Like) Nanana",
+        "url": "https://open.spotify.com/album/1lZYAi1v6ezwdIsT9qxHYF"
+      },
+      "artists": [
+        {
+          "name": "Sasha Goodman",
+          "url": "https://open.spotify.com/artist/7xCW14MZxA1jwHBHYa02VZ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145781,
+      "name": "(It Goes Like) Nanana - Radio Edit",
+      "url": "https://open.spotify.com/track/4tmUCnebmyZJhai3u8lUZb"
     },
     {
       "album": {
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -4343,7 +4361,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -6327,7 +6345,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 165728,
       "name": "Citadelle",
       "url": "https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W"
@@ -13908,6 +13926,24 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/4JC67HtPc2CMt0srLtiD8m"
+      },
+      "artists": [
+        {
+          "name": "Ricotrap",
+          "url": "https://open.spotify.com/artist/1dxEKWOOlQzD9grjt7skVA"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123456,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/04eHJlMOJf8ChvnCqWjqVL"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -15755,7 +15791,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 167356,
       "name": "Komet",
       "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
@@ -19431,7 +19467,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -20042,6 +20078,24 @@
     },
     {
       "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
         "name": "Muscle",
         "url": "https://open.spotify.com/album/7INv1UEdeiE8R5yCfoU27U"
       },
@@ -20125,7 +20179,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -20205,7 +20259,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -21167,7 +21221,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 216386,
       "name": "NOTRE DAME",
       "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
@@ -23776,6 +23830,28 @@
     },
     {
       "album": {
+        "name": "Red Bottoms",
+        "url": "https://open.spotify.com/album/6CxV30hnz59T7jqXrBuCTj"
+      },
+      "artists": [
+        {
+          "name": "Ricotrap",
+          "url": "https://open.spotify.com/artist/1dxEKWOOlQzD9grjt7skVA"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166415,
+      "name": "Red Bottoms",
+      "url": "https://open.spotify.com/track/4C8ZEqyNYz52Wx3SiwF0wG"
+    },
+    {
+      "album": {
         "name": "One Of A Kind Music Presents: Reggae & Calypso (Remix)",
         "url": "https://open.spotify.com/album/6aDC4yKehLucDd52xhLdPw"
       },
@@ -24657,7 +24733,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 189840,
       "name": "Saiyan",
       "url": "https://open.spotify.com/track/2BvjmY4Mp5q1AHL0laetd6"
@@ -25623,7 +25699,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 188484,
       "name": "SEYA",
       "url": "https://open.spotify.com/track/6JI15EdgbGuhUjm4tWyIco"
@@ -26879,7 +26955,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -30436,6 +30512,24 @@
     },
     {
       "album": {
+        "name": "Up the Score",
+        "url": "https://open.spotify.com/album/3EN9KNsyJmPi9hO1QXGaGy"
+      },
+      "artists": [
+        {
+          "name": "Hbk Kdubb",
+          "url": "https://open.spotify.com/artist/6gzyP4EjhgJIYzZiWY0WSw"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111696,
+      "name": "Up the Score",
+      "url": "https://open.spotify.com/track/52goXFureL1KiyBYoF5RA8"
+    },
+    {
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -30483,7 +30577,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
@@ -31397,7 +31491,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -31513,7 +31607,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"

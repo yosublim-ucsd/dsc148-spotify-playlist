@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 206065,
+  "2024-01-11": 206022,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Denmark.",
   "name": "Top 50 - Denmark",
@@ -12899,7 +12899,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 160417,
       "name": "Juice",
       "url": "https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ"
@@ -17656,7 +17656,7 @@
     },
     {
       "album": {
-        "name": "North Face",
+        "name": "North Face (feat. Lamin)",
         "url": "https://open.spotify.com/album/4JG2B8OtZHx2Q8s4HGHnkz"
       },
       "artists": [
@@ -17673,7 +17673,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160753,
-      "name": "North Face",
+      "name": "North Face (feat. Lamin)",
       "url": "https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3"
     },
     {
@@ -25799,7 +25799,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

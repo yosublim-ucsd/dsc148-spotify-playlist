@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=\_7dt1SNIR5WmWQxNj\-173w"> نوال </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,336 likes - 76 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,383 likes - 76 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 75 | [Da Kan Naseeb](https://open.spotify.com/track/26WuTSrvHJ31ucIbRLJAkj) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Fat Sam](https://open.spotify.com/artist/2nhUtgfFgXCQjEXXVmdxxU) | [Red Bull Sika](https://open.spotify.com/album/6DQhRP3LacBWt8T53Bbg3l) | 3:17 |
 | 76 | [Mnamel](https://open.spotify.com/track/1DKPneXBsDu5ea9W01LOZm) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1) | [L Nor \(2\-3\)](https://open.spotify.com/album/0SYxXFWltccqziLMvruS5E) | 2:27 |
 
-Snapshot ID: `MCxiMTVkOTYzYzkwM2RkMGM1NDJhMTBhZGJmMGY5ZjNkMzE2NjY2N2Y2`
+Snapshot ID: `MCxhZDhjYmY1ZDk1YzBiYzM1MzNmNzIyYTZjMGI0MmIwYjk5Zjk4Mzhj`

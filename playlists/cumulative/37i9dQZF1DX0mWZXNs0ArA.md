@@ -4,7 +4,7 @@
 
 > 150%
 
-291 songs - 12 hr 37 min
+292 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [KERAUNOS KILLER \- Speed Up](https://open.spotify.com/track/5eWhCWydXXHguwz33H7SA1) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [KERAUNOS KILLER \(Speed Up\)](https://open.spotify.com/album/2Fo4LNB3FGC6D0efPS5P0R) | 1:20 | 2022-06-09 | 2023-04-29 |
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-01-13 |  |
 | [Kn0 \(feat\. skaiwater\) \(Sped Up\)](https://open.spotify.com/track/5bRrApv1cBoGYopSnkva1F) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [Nightcore Warped](https://open.spotify.com/artist/2jlZstmgG9Y4hoLMhfjOdu), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Kn0 \(feat\. skaiwater\) \(Sped Up\)](https://open.spotify.com/album/3Fwo3J5okYEvkXoZHw129o) | 2:21 | 2023-08-11 | 2023-11-17 |
-| [LDR \- Sped Up](https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Shoti Sped Up](https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9) | 2:45 | 2023-06-29 |  |
+| [LDR \- Sped Up](https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Shoti Sped Up](https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9) | 2:45 | 2023-06-29 | 2024-01-11 |
+| [LDR \- Sped Up](https://open.spotify.com/track/6bLwOcpjZOL1GuCHBoB4VZ) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Shoti Sped Up](https://open.spotify.com/album/43KGg9deOHTDz5MBWPyQGp) | 2:45 | 2024-01-04 |  |
 | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \- Sped Up Version](https://open.spotify.com/track/4qY6XV17tyJdpAgo9JoCLA) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \[Sped Up Version\]](https://open.spotify.com/album/55rl4IbGHVR8AaT2j0FL5r) | 2:15 | 2022-07-18 | 2022-12-14 |
 | [Let Go \- Nightcore](https://open.spotify.com/track/4zkvoh7CyWhE8Lzs99PzJl) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Let Go](https://open.spotify.com/album/5AuVW8ypGpOguNJ3KdyqD9) | 3:06 | 2023-02-16 | 2023-03-18 |
 | [Let Go \- Nightcore](https://open.spotify.com/track/7fSBFSmBydU310MCzCuwdu) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Let Go \(Sped Up\)](https://open.spotify.com/album/5Xqfm7qzUCzBX7UuuwbnW9) | 3:06 | 2023-02-16 | 2023-03-16 |

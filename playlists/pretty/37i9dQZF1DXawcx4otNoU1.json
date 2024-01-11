@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 503891,
+  "num_followers": 503452,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Y3YTg0NTBlN2RhYmI5ZGY1ZGU3NWE0Mjc5YmU0NWZiZWU1NzQy",
+  "snapshot_id": "MCw1MjE5YTlmNGQxNzVlMjUyZTIyNDEyZTczNDIwZWYxYWQ4MzVkMTgy",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Flicker (Deluxe)",
@@ -139,6 +123,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
     },
     {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
+    },
+    {
       "added_at": "2023-11-08 15:18:46",
       "album": {
         "name": "Eleven (feat. Summer Walker)",
@@ -935,22 +951,6 @@
       "duration_ms": 206080,
       "name": "Eleven (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 236680,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-11-08 15:18:46",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+      "duration_ms": 236680,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
     },
     {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "Full Circle : Sonic Book One",
-        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 173604,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Isaiah",
@@ -1551,6 +1535,22 @@
       "duration_ms": 193446,
       "name": "It's Gotta Be You",
       "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
+    },
+    {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "Full Circle : Sonic Book One",
+        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 173604,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "So Close To Magic",
         "url": "https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 202289,
       "name": "So Close To Magic",
       "url": "https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Wish I Was Right For You",
         "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 182562,
       "name": "Wish I Was Right For You",
       "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2023-02-10 11:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Green Day, Bring Me The Horizon, ヨルシカ and more! Cover: Green Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,493 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,479 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 18 | [rUN tHE FaDE](https://open.spotify.com/track/2ZrlFzDK4qmEGoUS7GqLzP) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [rUN tHE FaDE](https://open.spotify.com/album/4dPnAsC3Ql4SVtjkDCrnhG) | 4:13 |
 | 19 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 |
 | 20 | [In A Little While \- Demo](https://open.spotify.com/track/1dtuekJQHi8E2KRYiDlH6n) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [In A Little While \(Demo\)](https://open.spotify.com/album/7cXpVPMICPQrdRZQm94VKH) | 4:05 |
-| 21 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/5yjP3l4wzZ2vYrMqA0Odj6) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 21 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
 | 22 | [Hungry Heart](https://open.spotify.com/track/2KBuHBac1gbzFzhkL5Wlvx) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Hungry Heart](https://open.spotify.com/album/2lKs76sqJci5CvDjEyOpQJ) | 2:20 |
 | 23 | [Natural Magick](https://open.spotify.com/track/3NonGoCZn40ClxWESdsDjS) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Natural Magick](https://open.spotify.com/album/5k5TALqbCDXxUpwSin96Ys) | 4:01 |
 | 24 | [ホテルニュートリノ](https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ホテルニュートリノ](https://open.spotify.com/album/7mAnnljEik428IDN7c8zGv) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 49 | [TODAY IS THA DAY](https://open.spotify.com/track/6i2l5wx2Jkl60mlgGDJSrJ) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [TODAY IS THA DAY](https://open.spotify.com/album/0VCHjrkPOrGO17xiagfdmK) | 2:59 |
 | 50 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 |
 
-Snapshot ID: `MCw3OGUzODY1YWNiNDA0NzFhMjNhMWNjN2U1MTAxMmU3OTVlNzEwODYy`
+Snapshot ID: `MCw0NzIwMzZiNzI3MTBhMTUwYWM1MGNhNzg1NDFjYWE4NWNhMmFiYzc2`

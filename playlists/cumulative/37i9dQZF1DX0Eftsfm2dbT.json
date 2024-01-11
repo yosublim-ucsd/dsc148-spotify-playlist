@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "nobori",
+        "url": "https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130220,
+      "name": "Assaji",
+      "url": "https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc"
+    },
+    {
+      "album": {
         "name": "AUTHENTIC",
         "url": "https://open.spotify.com/album/6t9aL62gaDkhmo4s4XglOx"
       },
@@ -1324,6 +1342,28 @@
       "duration_ms": 156872,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/1dp66PGJzXhBdfR9M4nX24"
+    },
+    {
+      "album": {
+        "name": "BOW (Submerse Remix)",
+        "url": "https://open.spotify.com/album/5ixsuu7RrYyZiQsE1sf0Xd"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
+        {
+          "name": "Submerse",
+          "url": "https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171717,
+      "name": "BOW - Submerse Remix",
+      "url": "https://open.spotify.com/track/3iZzgnrXkTGOydY1rBc5gi"
     },
     {
       "album": {
@@ -3999,6 +4039,28 @@
     },
     {
       "album": {
+        "name": "Kick Up",
+        "url": "https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "Kick Up",
+      "url": "https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67"
+    },
+    {
+      "album": {
         "name": "Message in a Bottle - EP",
         "url": "https://open.spotify.com/album/66pxYIS1IwRGXVqvFDmyhd"
       },
@@ -4955,6 +5017,28 @@
     },
     {
       "album": {
+        "name": "Mother Jane",
+        "url": "https://open.spotify.com/album/3jCRomBak2FVTlZ8RIclTm"
+      },
+      "artists": [
+        {
+          "name": "RYKEYDADDYDIRTY",
+          "url": "https://open.spotify.com/artist/6ABUnz5K0dZNw7svuQitJb"
+        },
+        {
+          "name": "SHUTO",
+          "url": "https://open.spotify.com/artist/4tBLUMh7Nq4QpBkfeMABGc"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295050,
+      "name": "Mother Jane",
+      "url": "https://open.spotify.com/track/40OOy85AA2Jruk8jIagKrM"
+    },
+    {
+      "album": {
         "name": "Mune Ni Loyalty",
         "url": "https://open.spotify.com/album/4jZr44xKS1cDjJOo4w5PG9"
       },
@@ -5322,7 +5406,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 163013,
       "name": "New World",
       "url": "https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J"
@@ -7286,10 +7370,28 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 130909,
       "name": "Tissue",
       "url": "https://open.spotify.com/track/1EJdm0llH4W1SQpHAZne7p"
+    },
+    {
+      "album": {
+        "name": "Tissue",
+        "url": "https://open.spotify.com/album/7L3TFpqvGTOaBQzZJ3HzET"
+      },
+      "artists": [
+        {
+          "name": "gummyboy",
+          "url": "https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Tissue",
+      "url": "https://open.spotify.com/track/5ckdzHXECs4ij5mYl0V4RJ"
     },
     {
       "album": {
@@ -7790,7 +7892,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 240340,
       "name": "White Tranzit",
       "url": "https://open.spotify.com/track/5KtkoaU1WcquKOcZJqd6uq"

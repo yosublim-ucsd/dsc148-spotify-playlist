@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "SCARY WORLD",
+        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
+      },
+      "artists": [
+        {
+          "name": "Could Ever",
+          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104072,
+      "name": "NOBODY WANTS TO BE MY FRIEND",
+      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 90110,
       "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Leith Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,885 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,840 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Carried…](https://open.spotify.com/track/7sI78BEZylcmCu5ts145ou) | [Lost Cousins](https://open.spotify.com/artist/2yZQbeFIRhUpRehbauidnq) | [Point No Point](https://open.spotify.com/album/37wJd9QmhlZysWdQl98c4i) | 5:22 |
 | 100 | [Beauty](https://open.spotify.com/track/3sDBhZNDrb9ngsOJRRDlkN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Beauty](https://open.spotify.com/album/4RrkquiwoaXbAm4YXXzHSG) | 3:25 |
 
-Snapshot ID: `MCxjMTVkYzliYTMzNTgwNDA4MGM4MjI5OWI1NjBkZTdkM2ZjZTI0NjNk`
+Snapshot ID: `MCwxMGIxOTJjOWI4ZWM4MTVhNzBjMDZhMDU0NmVjY2UxZTJlNmM0NjFi`

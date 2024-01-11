@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,805 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,828 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 22 | [Marina](https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB) | [Rocco Granata](https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI) | [Rocco: Zijn Story In 21 Liedjes](https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g) | 2:44 |
 | 23 | [Donna Felicita'](https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF) | [I Nuovi Angeli](https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX) | [Donna Felicita'](https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5) | 2:07 |
 | 24 | [Se Puoi Uscire Una Domenica Sola Con Me](https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Ritratto Di Gianni](https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo) | 2:16 |
-| 25 | [Lisa dagli occhi blu](https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y) | [Mario Tessuto](https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi) | [Il Meglio](https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU) | 3:17 |
-| 26 | [Il Mondo](https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9) | [Jimmy Fontana](https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz) | [40 Grandi Successi](https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV) | 2:45 |
+| 25 | [Il Mondo](https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9) | [Jimmy Fontana](https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz) | [40 Grandi Successi](https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV) | 2:45 |
+| 26 | [Lisa dagli occhi blu](https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y) | [Mario Tessuto](https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi) | [Il Meglio](https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU) | 3:17 |
 | 27 | [24.000 Baci](https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Anni '60](https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU) | 2:17 |
 | 28 | [Bandiera gialla](https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX) | [Gianni Pettenati](https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo) | [I Grandi Successi: Gianni Pettenati](https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW) | 2:28 |
 | 29 | [Poco Sole](https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Caldo](https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
 | 50 | [Pinne fucile ed occhiali](https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:39 |
 
-Snapshot ID: `MCwxZjZhZjViZTJjODEwOGY2NDViNzA0ZTRjNmM3NDViODY4MDE4ZTNk`
+Snapshot ID: `MCw3YjNhYjYxY2M4OGI3YjM4N2U5NjkzYTRlMzQ3OWM4MWQ0ODc0Mjgx`

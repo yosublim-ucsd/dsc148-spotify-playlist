@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 131799,
+  "num_followers": 131822,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzMyOTdkMTIwZjE2ZDU5ZDRmMzA2ZjhkNTVkODIwM2M1ZGU5OTA0",
+  "snapshot_id": "MCw0MDUxNTc1YTg0YjdiY2EwOTRmYTcwMmU3M2FkNzEyZGMwYjFhMjRm",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 235801,
-      "name": "hmu",
-      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
         "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 235801,
+      "name": "hmu",
+      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
       },
       "artists": [
         {
-          "name": "SIPHO.",
-          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
         }
       ],
-      "duration_ms": 155906,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
+      "duration_ms": 142624,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
+        "name": "D.W.Y.W. (Do What You Want)",
+        "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
       },
       "artists": [
         {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
         }
       ],
-      "duration_ms": 142624,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
+      "duration_ms": 208064,
+      "name": "D.W.Y.W. (Do What You Want)",
+      "url": "https://open.spotify.com/track/2ZNFpE337s3luymlkhJSgQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "D.W.Y.W. (Do What You Want)",
-        "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
-      },
-      "artists": [
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 208064,
-      "name": "D.W.Y.W. (Do What You Want)",
-      "url": "https://open.spotify.com/track/2ZNFpE337s3luymlkhJSgQ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "damnshestamil",
         "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "There Is A Light",
         "url": "https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 181875,
       "name": "There Is A Light",
       "url": "https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 184914,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "90s (Remix)",
         "url": "https://open.spotify.com/album/0241uDx21SHRh0BJK0auir"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 205330,
       "name": "90s - Remix",
       "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 184914,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Running In Waves",
-        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
-      },
-      "artists": [
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 108645,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "All Along (Kaytranada Remix)",
         "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 284606,
       "name": "All Along (Kaytranada Remix)",
       "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Running In Waves",
+        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 108645,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Sis. He Wasn't the One",
-        "url": "https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1"
+        "name": "MY FAVORITE DRUG",
+        "url": "https://open.spotify.com/album/719fKUhTNVCTKd0mhlYIR5"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Peter $un",
+          "url": "https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG"
         }
       ],
-      "duration_ms": 121731,
-      "name": "Coconut Oil",
-      "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
+      "duration_ms": 183453,
+      "name": "MY FAVORITE DRUG",
+      "url": "https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC"
     }
   ],
   "unique_name": "Choice Edit",

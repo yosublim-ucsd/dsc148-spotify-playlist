@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 803244,
+  "2024-01-11": 802843,
   "date_first_scraped": "2022-07-24",
   "description": "Lo m\u00e1s fresco de la cosecha 2023. El Rabbanito en portada.",
   "name": "Corridos 2023",
@@ -571,6 +571,24 @@
       "duration_ms": 227386,
       "name": "AL SERVICIO DE OCEGUERA",
       "url": "https://open.spotify.com/track/1IdHO6MrunxJ1L4fyybprf"
+    },
+    {
+      "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225416,
+      "name": "ALFOMBRA ROJA",
+      "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
     },
     {
       "album": {
@@ -1430,6 +1448,28 @@
     },
     {
       "album": {
+        "name": "BELICONTENTO",
+        "url": "https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "BELICONTENTO",
+      "url": "https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2"
+    },
+    {
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/4o0eJ66HdL5skDYs9CnOql"
       },
@@ -1445,7 +1485,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 184650,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/4BD6URiRxROzGO4kITMYhR"
@@ -5593,7 +5633,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 150500,
       "name": "El Emblema",
       "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
@@ -10617,7 +10657,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 215853,
       "name": "Kikil Caro",
       "url": "https://open.spotify.com/track/1hhKgDJ6LNHdUyyowg8EZX"
@@ -12623,6 +12663,28 @@
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
+    },
+    {
+      "album": {
+        "name": "Los Brothers",
+        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213442,
+      "name": "Los Brothers",
+      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
     },
     {
       "album": {
@@ -14898,6 +14960,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "album": {
         "name": "Placas De Papel",
         "url": "https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m"
       },
@@ -15029,7 +15113,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 191428,
       "name": "Pocos Regalos - En vivo",
       "url": "https://open.spotify.com/track/6qpJBdOOptpj7iOVijc45K"
@@ -15643,7 +15727,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 195416,
       "name": "Rafaga El Scar",
       "url": "https://open.spotify.com/track/0nZ6pMlE2V32ox2GuWS80H"
@@ -17173,6 +17257,28 @@
       "duration_ms": 189880,
       "name": "SUR 99",
       "url": "https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T"
+    },
+    {
+      "album": {
+        "name": "Tambi\u00e9n Me Llamo Ismael",
+        "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186624,
+      "name": "Tambi\u00e9n Me Llamo Ismael",
+      "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
     },
     {
       "album": {

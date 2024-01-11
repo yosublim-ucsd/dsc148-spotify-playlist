@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxbK3gq0Dxw.md) - [plain]
 
 > The Cracker Island experience, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,549 likes - 15 songs - 53 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 190,530 likes - 15 songs - 53 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxbK3gq0Dxw.md) - [plain]
 | 14 | [Silent Running \(feat\. Adeleye Omotayo\) \[2D Piano Version\]](https://open.spotify.com/track/4zcXwePxXk3SkjaPwOZ3TO) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:23 |
 | 15 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/49ozuucNvoHNstYChqEzPU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:34 |
 
-Snapshot ID: `MCxjZGYxN2Y3M2E5YjI1YmE2Y2MyMzlmOWRiMzFhNDVlM2IzMWVkYTVl`
+Snapshot ID: `MCxjNjYwYzEwZjNlMzk2ZGIzOWY1ZTBlYzZhMDNhYWU5MDMzYjc0NzQy`

@@ -2,7 +2,7 @@
 
 ### [Douces Vibes](https://open.spotify.com/playlist/37i9dQZF1DX8LIZNmf5qj3)
 
-> Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Jhené Aiko
+> Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Maeta
 
 287 songs - 15 hr 50 min
 
@@ -235,7 +235,7 @@
 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 | 2023-09-15 | 2023-11-25 |
 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-06 | 2023-09-08 |
 | [Summers Around The Corner](https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Summers Around The Corner](https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB) | 3:48 | 2023-10-12 | 2023-11-18 |
-| [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 | 2024-01-04 |  |
+| [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 | 2024-01-04 | 2024-01-11 |
 | [SUPER PARADISE](https://open.spotify.com/track/2u5Hu6pmY8mC5WC3xvTXSv) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:16 | 2023-12-21 |  |
 | [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 | 2022-12-22 | 2023-03-18 |
 | [T.B.D.](https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [T.B.D.](https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP) | 3:03 | 2023-10-05 | 2023-12-08 |

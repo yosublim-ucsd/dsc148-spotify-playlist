@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,350 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,151 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
 | 2 | [Diamondz n Roses \(Back It Up!\)](https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Back It Up! \(Diamondz n Roses\)](https://open.spotify.com/album/5LIRiZrStdRIY3xGL4qQUL) | 1:33 |
-| 3 | [Africa](https://open.spotify.com/track/4JuRS40lZe0yfSewmnR9mT) | [ditto](https://open.spotify.com/artist/0wtvg2XqKXvyNgS6SeDilI) | [Africa](https://open.spotify.com/album/2Mj6dalgFFAwZBBYiJ8Ego) | 1:55 |
+| 3 | [Africa](https://open.spotify.com/track/4JuRS40lZe0yfSewmnR9mT) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Africa](https://open.spotify.com/album/2Mj6dalgFFAwZBBYiJ8Ego) | 1:40 |
 | 4 | [KISS N TELL](https://open.spotify.com/track/7L8DudXuXHqqzD2q9LuQ2n) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [SAFE TRAVELS](https://open.spotify.com/album/0FnF5dZOxKeGOY1X0aIPf7) | 2:28 |
 | 5 | [douji feva](https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [douji feva](https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5) | 1:45 |
 | 6 | [backstab](https://open.spotify.com/track/64teDenGW4qlIoe6Iiv9Pk) | [Mitaya](https://open.spotify.com/artist/04payxLjRndgbmR2lv97S1) | [backstab](https://open.spotify.com/album/5LLknxRQqsKN1NDvT5RXfx) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0i6aioaKcPI1Nw9Jm3p8Yz) | 3:02 |
 | 100 | [CODEINE CRAZY](https://open.spotify.com/track/7FoNUT1v6tCzGna2yZvVY3) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [CODEINE CRAZY](https://open.spotify.com/album/4tNzC4wdMxmqFQQ3ZAOdIU) | 2:37 |
 
-Snapshot ID: `MCwwOTNhYTY2NjMxMDk2MzY5YzViYzAxMjU4NmNlNzNmNjUzZWZmMGQy`
+Snapshot ID: `MCw1MmU2ODA4ZWI4ZjU1NDMzOGZhZGMxNzY1YzNmNTllZGU4YjlmM2Zl`

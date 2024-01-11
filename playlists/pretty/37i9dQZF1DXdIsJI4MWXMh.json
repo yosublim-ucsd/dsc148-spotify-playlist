@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 63576,
+  "num_followers": 63596,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmMzNjM2MTZkMWNhYWI3NDU1YWNiYzhmZmM1OWUyNmU4NjQwMjEx",
+  "snapshot_id": "MCw4NjlmMTgwZWFmMDc3MjI1NzBlMWFlZTI1MzhlNWNmZTQyNDhlZmUw",
   "tracks": [
     {
       "added_at": "2023-10-05 22:49:47",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "La Carta N\u00b0 3",
-        "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Bustos",
-          "url": "https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "La Carta N\u00b03 - 1986 Digital Remaster",
-      "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 231906,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "La Carta N\u00b0 3",
+        "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Bustos",
+          "url": "https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "La Carta N\u00b03 - 1986 Digital Remaster",
+      "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Lo Mejor 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
-      },
-      "artists": [
-        {
-          "name": "Rene Inostroza",
-          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
-        }
-      ],
-      "duration_ms": 154746,
-      "name": "La Guaracha del Fay Fay",
-      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "\u00c9xitos Inolvidables",
         "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 213529,
       "name": "El Amante Apasionado",
       "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Lo Mejor 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
+      },
+      "artists": [
+        {
+          "name": "Rene Inostroza",
+          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
+        }
+      ],
+      "duration_ms": 154746,
+      "name": "La Guaracha del Fay Fay",
+      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Aliado del Tiempo",
+        "url": "https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 186768,
+      "name": "El R 15",
+      "url": "https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 237840,
       "name": "Voy a Ser",
       "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "Aliado del Tiempo",
-        "url": "https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ"
-      },
-      "artists": [
-        {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
-        }
-      ],
-      "duration_ms": 186768,
-      "name": "El R 15",
-      "url": "https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "El Intruso",
-        "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        },
-        {
-          "name": "Los Machos de la Cumbia",
-          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "El Intruso",
-      "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
         "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
       },
@@ -871,6 +851,26 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "El Intruso",
+        "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        },
+        {
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "El Intruso",
+      "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Escribiendo Nuestra Historia",
         "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Mil Cantinas",
-      "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Princesita M\u00eda",
         "url": "https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 391733,
       "name": "Te Amo y Te Amar\u00e9",
       "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Mil Cantinas",
+      "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6mQtinz30aDoHEkPNalyBS"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        },
-        {
-          "name": "Los Inseparables",
-          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
-        }
-      ],
-      "duration_ms": 263219,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/18Y1trnwM37pqHtMtZYFMq"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "\u00c9xitos de Antolog\u00eda",
         "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
       },
@@ -1003,22 +983,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g"
       },
@@ -1035,18 +999,54 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
       "artists": [
         {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
         }
       ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+      "duration_ms": 279840,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6mQtinz30aDoHEkPNalyBS"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        },
+        {
+          "name": "Los Inseparables",
+          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
+        }
+      ],
+      "duration_ms": 263219,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/18Y1trnwM37pqHtMtZYFMq"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "La Diuca",
+        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "La Diuca",
+      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "La Diuca",
-        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
       "artists": [
         {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
         }
       ],
-      "duration_ms": 200248,
-      "name": "La Diuca",
-      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
-      },
-      "artists": [
-        {
-          "name": "Kevin y Sus Lumaquinos",
-          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Los Vampiros",
-      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Somos Infieles",
         "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 199527,
       "name": "Somos Infieles",
       "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
+      },
+      "artists": [
+        {
+          "name": "Kevin y Sus Lumaquinos",
+          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Los Vampiros",
+      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
     },
     {
       "added_at": "2023-10-05 22:49:47",

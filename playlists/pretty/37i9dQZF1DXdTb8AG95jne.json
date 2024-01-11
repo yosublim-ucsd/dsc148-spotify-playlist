@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: GYE0M(\uacb8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 462126,
+  "num_followers": 462130,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTQwZGU0N2ZhMmFlMTZiNTJjZjdjMjYwYmRmODFlYjAyZGI2YzUy",
+  "snapshot_id": "MCxhMDIwNWU1YzJlMWJmNjYwMzg0N2I1OThlODE5YzNhMmYwZmNjZjZh",
   "tracks": [
     {
       "added_at": "2024-01-08 08:35:09",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-01-08 08:35:09",
       "album": {
+        "name": "YOUTH",
+        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "duration_ms": 361426,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
+    },
+    {
+      "added_at": "2024-01-08 08:35:09",
+      "album": {
         "name": "Answer",
         "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
-    },
-    {
-      "added_at": "2024-01-08 08:35:09",
-      "album": {
-        "name": "5.1",
-        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Winter Breath",
-      "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
     },
     {
       "added_at": "2024-01-08 08:35:09",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-01-08 08:35:09",
       "album": {
-        "name": "YOUTH",
-        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
+        "name": "5.1",
+        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
       },
       "artists": [
         {
-          "name": "Dasutt",
-          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 361426,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
+      "duration_ms": 232893,
+      "name": "Winter Breath",
+      "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
     },
     {
       "added_at": "2024-01-08 08:35:09",

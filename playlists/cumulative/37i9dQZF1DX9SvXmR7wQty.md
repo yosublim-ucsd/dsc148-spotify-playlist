@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Noé Preszow
 
-2,249 songs - 5 day 0 hr 8 min
+2,250 songs - 5 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Comment tu vas?](https://open.spotify.com/track/3KsUnYbPcOMHetYdc3ftlZ) | [King Maliba](https://open.spotify.com/artist/5qdNvzjfLvWUkcbWVjuu08) | [Comment tu vas?](https://open.spotify.com/album/7GdSUvEjuoeKPF03foQpeD) | 3:02 | 2022-04-15 | 2022-04-23 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
+| [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 |  |
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-22 | 2023-11-18 |
 | [Contentement](https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Contentement](https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M) | 3:25 | 2022-09-09 | 2022-09-24 |
 | [Contvct \(feat\. Aya Nakamura\)](https://open.spotify.com/track/7BIPJBIGoxQTn3i748Wk0j) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [LMDB](https://open.spotify.com/album/18xrakiypJXRVWnCD30zjD) | 2:56 | 2022-10-07 | 2022-10-22 |
@@ -434,7 +435,7 @@
 | [Cowgirl](https://open.spotify.com/track/0NOzfS4rmKMCp5f8NToJ3l) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ), [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [Cowgirl](https://open.spotify.com/album/6nqc1QrbcQrAPm1g1fmc5z) | 2:35 | 2023-10-27 | 2023-11-11 |
 | [CP\_009\_ Évidemment](https://open.spotify.com/track/6btgTbK2UslfSu0qjTEXQm) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Civilisation Edition Ultime](https://open.spotify.com/album/68YP0pEgwhnfRqQAzu71gP) | 3:26 | 2022-10-28 | 2022-11-19 |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2022-01-21 | 2022-02-05 |
-| [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 | 2023-11-17 |  |
+| [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 | 2023-11-17 | 2024-01-11 |
 | [Create 'n' Collaborate](https://open.spotify.com/track/6SLqm8b5oMS6IqQCQtqS0m) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Create 'n' Collaborate](https://open.spotify.com/album/12HsTGaczjkG3lS1AYLkn7) | 2:50 | 2023-02-03 | 2023-02-18 |
 | [Crier tout bas](https://open.spotify.com/track/26MCjGXJFyvttQjzZXtfhD) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Crier tout bas](https://open.spotify.com/album/0xS6r4eeUY8iU6Bl9hHRdt) | 2:20 | 2022-10-21 | 2022-11-05 |
 | [Croc Madam](https://open.spotify.com/track/6LguOntZUU9HtGKPq78cDB) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Rêvalité Augmentée](https://open.spotify.com/album/4aJH0gVRGYiS8NOqyccRXv) | 2:08 | 2022-11-25 | 2022-12-10 |

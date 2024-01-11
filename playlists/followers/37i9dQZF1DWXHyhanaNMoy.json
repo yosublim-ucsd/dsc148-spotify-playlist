@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 320404,
+  "2024-01-11": 320336,
   "date_first_scraped": "2022-07-19",
   "description": "Motion & good vibes! Cover: ValsBezig",
   "name": "La Vida Loca",
@@ -785,6 +785,24 @@
       "duration_ms": 195066,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
+    },
+    {
+      "album": {
+        "name": "Ana Lik",
+        "url": "https://open.spotify.com/album/2q0y1UupuNPvEzT6cZC8Nn"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152118,
+      "name": "Ana Lik",
+      "url": "https://open.spotify.com/track/5RF5tKkAi4rmPOZRBPaSoM"
     },
     {
       "album": {
@@ -13333,7 +13351,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 138398,
       "name": "Pushen Iets (feat. Bizzey & Ashafar)",
       "url": "https://open.spotify.com/track/2ax89z0KqWv4IslM6dszGt"
@@ -16697,7 +16715,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 174947,
       "name": "UNANIPA NAKUPA",
       "url": "https://open.spotify.com/track/14q2peNbniJinuimWvnsZ0"
@@ -17033,6 +17051,32 @@
       "duration_ms": 135209,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/7obgoX4SK8bxLIwbR41Dcq"
+    },
+    {
+      "album": {
+        "name": "Verspil Mijn Tijd Niet",
+        "url": "https://open.spotify.com/album/5d6VkHxtvUuPOsM3IkJCze"
+      },
+      "artists": [
+        {
+          "name": "NereoCefc",
+          "url": "https://open.spotify.com/artist/5IcqSkXhzNFlNUbLL8OrFm"
+        },
+        {
+          "name": "Jorda",
+          "url": "https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5"
+        },
+        {
+          "name": "Fernandez",
+          "url": "https://open.spotify.com/artist/2Lx8uvkJwO86Mmh72z10pR"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109182,
+      "name": "Verspil Mijn Tijd Niet",
+      "url": "https://open.spotify.com/track/0AwtCmrUXwt2UDlHskyPfo"
     },
     {
       "album": {

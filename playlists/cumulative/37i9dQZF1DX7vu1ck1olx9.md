@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-263 songs - 10 hr 38 min
+264 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [cat's meow](https://open.spotify.com/track/21SuoiM0AgOCdQmt2umHuP) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6tSQljcscqaCqsCBetZbHP) | 1:33 | 2020-11-12 | 2022-07-29 |
 | [cat's meow](https://open.spotify.com/track/47I0dFqnJ6V5P04YW1u96z) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6NsmYIRCoHNEo6bVx89K0E) | 1:33 | 2020-11-12 | 2023-10-29 |
 | [cat's meow](https://open.spotify.com/track/7bfwBbrYKFEreVQnFwbWPs) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/7ycvSoIBz8FRbnbcVlTJFM) | 1:33 | 2020-11-12 | 2022-12-15 |
+| [Cleaning Trees](https://open.spotify.com/track/6oi2BvK22qXzEJntVqB1Gh) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Cleaning Trees](https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ) | 2:26 | 2024-01-05 |  |
 | [Cloud Dance](https://open.spotify.com/track/4DIQbr7iqFaHsw8KkKl47l) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/2Y3eYq0lYHd3VdiuFuAUOb) | 2:58 | 2020-11-12 | 2022-07-29 |
 | [Cloud Dance](https://open.spotify.com/track/7cq4lZVXYxv9HsjhF62AZt) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/5wtHowEK9MeJW7dqzGdWrm) | 2:58 | 2020-11-12 |  |
 | [cloudy dreams](https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [cloudy dreams & husky sun](https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u) | 3:11 | 2023-10-27 |  |
@@ -199,7 +200,7 @@
 | [Serenity](https://open.spotify.com/track/44Enofs0bXrGNbKuqtdx0k) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/7boAU92M1FypSBlYz0aeSg) | 3:12 | 2020-11-12 | 2023-09-16 |
 | [Serenity](https://open.spotify.com/track/4x1mZMYf8E239Ug0VeYvzQ) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/4n4VJqnZTaPg41iDIakpmE) | 3:12 | 2020-11-12 | 2022-07-29 |
 | [Sesame](https://open.spotify.com/track/2bS8fi0PnaVWjtPWmGqj5j) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3YzLE1tSMOuHt1XfAir75z) | 2:33 | 2020-11-12 | 2022-07-29 |
-| [Sesame](https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks) | 2:33 | 2023-11-24 |  |
+| [Sesame](https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks) | 2:33 | 2023-11-24 | 2024-01-11 |
 | [Seven Hundred Fourteen 七百十四](https://open.spotify.com/track/12V1thgB2Hos7uSU4rOqro) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Seven Hundred Fourteen 七百十四](https://open.spotify.com/album/1NUA3c1HKGNj9Bl5uWh7x7) | 2:24 | 2023-12-22 |  |
 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 | 2023-10-27 |  |
 | [Shelter](https://open.spotify.com/track/6k1foZCmEKnMrLAd3nKlkT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/0kLQU10QiF47j6ttLaBKcu) | 1:57 | 2020-11-12 | 2023-07-07 |

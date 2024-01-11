@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo 5, Joey Montana",
-  "num_followers": 109884,
+  "num_followers": 109895,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzk5NWMzOWFhNjNkYjgxMGZkY2E2Y2U0NWE3NzU2MjA0ZWUzNjcy",
+  "snapshot_id": "MCwzNjZjMDViYzkyZjljNjg4ODhiNmNlNTgyNjgxNGNmYjFkYTkzZjBi",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Solo \u00c9xitos",
-        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Candela",
-          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "D\u00edas Felices",
         "url": "https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 260649,
       "name": "D\u00edas Felices",
       "url": "https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Solo \u00c9xitos",
+        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Candela",
+          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "A..estilo propio y jaranero",
+        "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos de Bambamarca",
+          "url": "https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m"
+        }
+      ],
+      "duration_ms": 365493,
+      "name": "La Chismosa",
+      "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 246538,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "A..estilo propio y jaranero",
-        "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos de Bambamarca",
-          "url": "https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m"
-        }
-      ],
-      "duration_ms": 365493,
-      "name": "La Chismosa",
-      "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
     },
     {
       "added_at": "2023-09-22 04:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 45017,
+  "num_followers": 45074,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmMyZWZlZTNmYzJiNGNkNzIwMGVlM2I2M2E1NGJiNjBiY2Q2M2Vh",
+  "snapshot_id": "MCxmNDE1ZDhmMDU2NDcyODI2N2E1YzgyNDgzMzE4ZmQ5OWE3Y2QxMGVl",
   "tracks": [
     {
       "added_at": "2023-12-20 12:20:04",
@@ -203,18 +203,30 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
+        "name": "The Best Of Art Tatum",
+        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie Sextet",
-          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        },
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "John Simmons",
+          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
+        },
+        {
+          "name": "Alvin Stoller",
+          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
         }
       ],
-      "duration_ms": 172293,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt"
+      "duration_ms": 367600,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
     },
     {
       "added_at": "2023-12-20 12:20:04",
@@ -303,30 +315,18 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "The Best Of Art Tatum",
-        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        },
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "John Simmons",
-          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
-        },
-        {
-          "name": "Alvin Stoller",
-          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
         }
       ],
-      "duration_ms": 367600,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
+      "duration_ms": 172293,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt"
     },
     {
       "added_at": "2023-12-20 12:20:04",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+        "name": "The Incredible Harry James",
+        "url": "https://open.spotify.com/album/6S9sSx0t4iOvkFSyBVpIeP"
       },
       "artists": [
         {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
         }
       ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+      "duration_ms": 187573,
+      "name": "It's Been a Long Long Time (Alternate Take)",
+      "url": "https://open.spotify.com/track/4iecQTgGLf0WJKrdnT2OKD"
     },
     {
       "added_at": "2023-12-20 12:20:04",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "The Incredible Harry James",
-        "url": "https://open.spotify.com/album/6S9sSx0t4iOvkFSyBVpIeP"
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
       "artists": [
         {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
         }
       ],
-      "duration_ms": 187573,
-      "name": "It's Been a Long Long Time (Alternate Take)",
-      "url": "https://open.spotify.com/track/4iecQTgGLf0WJKrdnT2OKD"
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
     },
     {
       "added_at": "2023-12-20 12:20:04",
@@ -735,38 +735,6 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "Work Song",
-        "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
-      },
-      "artists": [
-        {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
-        },
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        },
-        {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
-        },
-        {
-          "name": "Percy Heath",
-          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
-        },
-        {
-          "name": "Sam Jones",
-          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
-    },
-    {
-      "added_at": "2023-12-20 12:20:04",
-      "album": {
         "name": "Buoyancy",
         "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
       },
@@ -799,22 +767,6 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "Goin' Up",
-        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "Blues For Brenda - 1997 Remastered",
-      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
-    },
-    {
-      "added_at": "2023-12-20 12:20:04",
-      "album": {
         "name": "Jumpin' With Jonah",
         "url": "https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS"
       },
@@ -827,6 +779,54 @@
       "duration_ms": 193333,
       "name": "Moten Swing - Remastered",
       "url": "https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS"
+    },
+    {
+      "added_at": "2023-12-20 12:20:04",
+      "album": {
+        "name": "Work Song",
+        "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        },
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        },
+        {
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        },
+        {
+          "name": "Sam Jones",
+          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+    },
+    {
+      "added_at": "2023-12-20 12:20:04",
+      "album": {
+        "name": "Goin' Up",
+        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "Blues For Brenda - 1997 Remastered",
+      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
       "added_at": "2023-12-20 12:20:04",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "The Cooker",
-        "url": "https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 560080,
-      "name": "A Night In Tunisia - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI"
-    },
-    {
-      "added_at": "2023-12-20 12:20:04",
-      "album": {
         "name": "Star Bright",
         "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 357213,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
+    },
+    {
+      "added_at": "2023-12-20 12:20:04",
+      "album": {
+        "name": "The Cooker",
+        "url": "https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 560080,
+      "name": "A Night In Tunisia - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI"
     },
     {
       "added_at": "2023-12-20 12:20:04",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "Gemini II",
-        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
-      },
-      "artists": [
-        {
-          "name": "Marcus Belgrave",
-          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
-        }
-      ],
-      "duration_ms": 337040,
-      "name": "Gemini II",
-      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
-    },
-    {
-      "added_at": "2023-12-20 12:20:04",
-      "album": {
         "name": "Brecker Plays Rovatti - Sacred Bond",
         "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 632253,
       "name": "The Baggae",
       "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
+    },
+    {
+      "added_at": "2023-12-20 12:20:04",
+      "album": {
+        "name": "Gemini II",
+        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Belgrave",
+          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
+        }
+      ],
+      "duration_ms": 337040,
+      "name": "Gemini II",
+      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
     },
     {
       "added_at": "2023-12-20 12:20:04",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-12-20 12:20:04",
       "album": {
-        "name": "Lotus Flower",
-        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 484000,
-      "name": "Rahsan's Run",
-      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
-    },
-    {
-      "added_at": "2023-12-20 12:20:04",
-      "album": {
         "name": "The Reason Why Vol. 3",
         "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 533573,
       "name": "Trance Dance",
       "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
+    },
+    {
+      "added_at": "2023-12-20 12:20:04",
+      "album": {
+        "name": "Lotus Flower",
+        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 484000,
+      "name": "Rahsan's Run",
+      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2023-12-20 12:20:04",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Montréal’s music scene, front and centre\. Cover: Born At Midnite
+> La scène musicale montréalaise au premier plan\. Photo: Born At Midnite
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,804 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,809 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 |
 | 100 | [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 |
 
-Snapshot ID: `MCw5MjkyNzE0MDA0ZDA0N2Y4YjFiMWY1ZmE4MzVhNGIxYTNiODE0NzA5`
+Snapshot ID: `MCxjMDhjNTJiMjgzOTk3NThiZmEwZmJiYjZmZDVlYzUwYTc1OWIyNjMw`

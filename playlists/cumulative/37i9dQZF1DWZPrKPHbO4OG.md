@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-50 songs - 3 hr 25 min
+51 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Chandra \(Featuring\. Shreya Ghoshal\)](https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chandramukhi](https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio) | 5:15 | 2023-07-04 |  |
 | [Dhuvun Taak](https://open.spotify.com/track/2usex5owBBkwP9AyEqv8Ve) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Mauli](https://open.spotify.com/album/1ryMRndatZ15JqIleq2j3G) | 3:34 | 2023-11-20 |  |
 | [Dhuvun Taak](https://open.spotify.com/track/68NrdN8PgrBr3U4lQWGKCU) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Mauli](https://open.spotify.com/album/6T9tLpKAWJAzez3LvV5UXL) | 3:34 | 2023-07-04 | 2023-11-27 |
+| [Dolby Walya](https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Earl Edgar](https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS) | [Jau Dya Na Balasaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK) | 5:35 | 2024-01-10 |  |
 | [Galavar Khali Remix](https://open.spotify.com/track/3w0iPdts3DlIelMjWX7LrV) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Galavar Khali Remix](https://open.spotify.com/album/5dB5e1CvKOg94XcKEWp0KC) | 5:11 | 2023-07-04 | 2024-01-01 |
 | [Galavar Khali\- Remix](https://open.spotify.com/track/0aNmf4RJV3JrwYjiarImBH) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy), [Philip Larsen](https://open.spotify.com/artist/36HGWVjzOS2QP0sv1d4cws) | [Galavar Khali\- Remix](https://open.spotify.com/album/1fb0LrIwFUUpxvHGN2IDRW) | 5:11 | 2023-12-20 |  |
 | [Gau Nako Kisna](https://open.spotify.com/track/3VLNmCARrPjOa7sdWBbDmV) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Jayesh Khare](https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U), [Mayur Sukale](https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Maharashtra Shaheer](https://open.spotify.com/album/1oXMGtOGL9zjBLbaEeziBQ) | 5:04 | 2023-12-20 |  |
@@ -48,7 +49,7 @@
 | [Payee Fufata](https://open.spotify.com/track/7AvfiB7Paq388ecxkoq5Mf) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/0V3pWtGPwy18JU8pTHXs8w) | 4:06 | 2023-12-20 |  |
 | [Pinnak](https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw) | 6:30 | 2023-07-04 |  |
 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 | 2023-07-04 |  |
-| [Punyachi Maina Remix](https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31) | [Dj Lucky Yash Nsk](https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY) | [Punyachi Maina Remix](https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK) | 2:45 | 2023-07-04 |  |
+| [Punyachi Maina Remix](https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31) | [Dj Lucky Yash Nsk](https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY) | [Punyachi Maina Remix](https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK) | 2:45 | 2023-07-04 | 2024-01-11 |
 | [Raja Aala](https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76) | [Pawankhind](https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em) | 4:20 | 2023-07-04 | 2023-12-27 |
 | [Raja Aala](https://open.spotify.com/track/5KgfY2vMoHk26aGvchrr7Q) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Pawankhind](https://open.spotify.com/album/7B7Cjeyo1aavjnCb27LlpU) | 4:20 | 2023-12-20 |  |
 | [Shantabai DJ](https://open.spotify.com/track/0M5gBsIFBf6rPPmJqVmKhn) | [Sanjay Londe](https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ) | [Shantabai](https://open.spotify.com/album/6ooQ4tSG8uoUB1x7cXsxBs) | 2:59 | 2023-12-20 |  |

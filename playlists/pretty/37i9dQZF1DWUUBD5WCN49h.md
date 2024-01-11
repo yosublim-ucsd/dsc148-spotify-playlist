@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,688 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,697 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/5M78DPxvvpqMbkMZ3WAPhh) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 |
 | 80 | [Home \(Family & Friends\)](https://open.spotify.com/track/3sYKYMAqnq3yUMVwbeQPXM) | [RYT PATH](https://open.spotify.com/artist/4e9kAcO6FMhOgshwVbpNBu), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Menxee](https://open.spotify.com/artist/2CNqMl9z4LJJhv6YZNsv7x), [Eazy Bob Wizzy](https://open.spotify.com/artist/6xHoXUHxadvzoFLpbj4PXI) | [Home \(Family & Friends\)](https://open.spotify.com/album/7inLnloJPXQcAvx3m6MJQe) | 3:14 |
 
-Snapshot ID: `MCw2NGU0MTk0MzFiZmNiYjAzNzQxZDlmMDI4YmZjZWQxYTQ1OTI5OTc4`
+Snapshot ID: `MCxkZmMxZTk5Y2UzY2FlMjFhNWM1YTE2ZDBjMWVjYTFmZjg1YWE2NzA4`

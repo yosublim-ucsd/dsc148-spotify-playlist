@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 963942,
+  "num_followers": 964614,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzU5YzZlYjUyYTQ0NDU5ZjA3YTc4YzU2MzY3MDQ2MWE0MGMwNjk5",
+  "snapshot_id": "MCw3NjRhMmE1OTJjOWQyMzdkODQ0MWFmZTVjZGJkM2MyNzk5MWQ0ZTNl",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 438120,
+      "name": "Fear of the Dark (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "Attack Of The Killer B's",
         "url": "https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 211786,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "Fear of the Dark (2015 Remaster)",
-        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "One Second",
         "url": "https://open.spotify.com/album/6xf27M8BHlFb0xqH17k0tD"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 351026,
       "name": "Wasting Love (2015 Remaster)",
       "url": "https://open.spotify.com/track/5VR7R8L5MivClO1VxZdZFx"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "Spit",
-        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo"
     },
     {
       "added_at": "2023-03-01 15:25:34",

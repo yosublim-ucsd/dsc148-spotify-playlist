@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Brittney Spencer
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,527 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,557 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Ain’t Thinkin’ Bout You](https://open.spotify.com/track/7dmA9608TJjycVFNBeLtQZ) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Ain’t Thinkin’ Bout You](https://open.spotify.com/album/5uiGWVQ4E7oDrfUKkpb3Fj) | 2:30 |
 | 200 | [Sober Thing](https://open.spotify.com/track/6seAvadjjutVTkggYOh1to) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Sober Thing](https://open.spotify.com/album/6EY0avx8oulWJ9vSOB3oUZ) | 4:32 |
 
-Snapshot ID: `MCw2YTlhZTIyMGU2OGJmZjVkZjQwODY3NjQ2NjY1MWNkYmU4NzEyZmJh`
+Snapshot ID: `MCxlMzRlYjY2ZGIyYjAyODgyMmY1NGFiMGNjMGY4ZjIyNGM4NmUyNTMx`

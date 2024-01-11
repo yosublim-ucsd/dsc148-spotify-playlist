@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,385 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,441 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 30 | [2special](https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn) | 2:47 |
 | 31 | [f@k€](https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [f@k€](https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4) | 1:47 |
 | 32 | [Alone](https://open.spotify.com/track/1ay56Nz2pbIvnzNht1d2LL) | [Subtrax](https://open.spotify.com/artist/1li6c6TniSl5U8ABWQCNAD) | [Alone](https://open.spotify.com/album/6wLUtL7qbjb63rxB4X9fO9) | 3:12 |
-| 33 | [Deep Blue Sea \- Notion Remix](https://open.spotify.com/track/1Q16QFSYVocGlAvMz3DSmb) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Deep Blue Sea \(NOTION Remix\)](https://open.spotify.com/album/7qZDn64BgERGFJT6qah3Dt) | 4:48 |
+| 33 | [Deep Blue Sea \- NOTION Remix](https://open.spotify.com/track/3OWt85Iv3pzFw8wKBXroYL) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Deep Blue Sea \(NOTION Remix\)](https://open.spotify.com/album/1wOqHox5XcTeKGhloFosDy) | 4:48 |
 | 34 | [crying at the Orgy](https://open.spotify.com/track/67k9cC6UadKPmToT2OZm1D) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [crying at the Orgy](https://open.spotify.com/album/34KIJfUuoxN8NFgTrLsrp6) | 2:23 |
 | 35 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 36 | [Call Me When You're Lonely](https://open.spotify.com/track/4s7qAt7SbGCY7zUsEHvzJr) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj) | [Call Me When You're Lonely](https://open.spotify.com/album/18W2EsJg8RAEsFeOxkKEOu) | 3:11 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [Healed](https://open.spotify.com/track/25aXkVesKv9EZKHfZQ29PZ) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Healed](https://open.spotify.com/album/3qRbOKBRvy4YhOW4aemjTk) | 3:19 |
 | 150 | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p) | 2:13 |
 
-Snapshot ID: `MCwxYTNhMDg1MTkyODM5MzQyMzEzYTFmM2E2M2Q5NGM3ZWE5ZWI2ZWVl`
+Snapshot ID: `MCxlYzk0MzY3MThmYTA4N2I1NDA4ZTBkMDdiOTU2NTNmODk3OGY0MjRi`

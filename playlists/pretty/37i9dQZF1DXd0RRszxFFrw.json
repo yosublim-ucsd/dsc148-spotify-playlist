@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 54350,
+  "num_followers": 54361,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U4MjJiNGE5NzcxZDk1NjBiYTIxYTQyY2RlNDQ5ZTM3ZDRmMTU4",
+  "snapshot_id": "MCw5N2E3NTcxYzczZjQ0YTU2Y2ZmOGZkMzFjY2U2M2ZjNjhjODVlYjlm",
   "tracks": [
     {
       "added_at": "2023-12-14 23:01:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "Guitar Pop Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
+      },
+      "artists": [
+        {
+          "name": "Edy Hafler",
+          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
+        }
+      ],
+      "duration_ms": 150101,
+      "name": "La Bamba - Guitar Solo",
+      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 108053,
       "name": "Adelita",
       "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "Guitar Pop Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
-      },
-      "artists": [
-        {
-          "name": "Edy Hafler",
-          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
-        }
-      ],
-      "duration_ms": 150101,
-      "name": "La Bamba - Guitar Solo",
-      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "El Mito de la Caverna",
-        "url": "https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl"
-      },
-      "artists": [
-        {
-          "name": "Ca\u00f1izares",
-          "url": "https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP"
-        }
-      ],
-      "duration_ms": 228469,
-      "name": "Isla de los Bienaventurados (Buler\u00edas)",
-      "url": "https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "A Brand New World",
         "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 142560,
       "name": "Bossa Bravado",
       "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "El Mito de la Caverna",
+        "url": "https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1izares",
+          "url": "https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP"
+        }
+      ],
+      "duration_ms": 228469,
+      "name": "Isla de los Bienaventurados (Buler\u00edas)",
+      "url": "https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Sol Naciente",
-        "url": "https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ"
-      },
-      "artists": [
-        {
-          "name": "Paco Infante",
-          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/1ssx7VfHSaWq2xtvQzp5mb"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Bajo La Luna",
         "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 231400,
       "name": "Zaralmondi - Colombianas",
       "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Sol Naciente",
+        "url": "https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ"
+      },
+      "artists": [
+        {
+          "name": "Paco Infante",
+          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/1ssx7VfHSaWq2xtvQzp5mb"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Sol Naciente",
-        "url": "https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ"
-      },
-      "artists": [
-        {
-          "name": "Paco Infante",
-          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Lisboa Antigua",
-      "url": "https://open.spotify.com/track/3uCPr8h0wxi905eMSAdajB"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Classical Guitar Latin Style",
         "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
       },
@@ -1263,22 +1247,34 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Bagan",
-        "url": "https://open.spotify.com/album/59r3QA7GXxLOsJLSBNk3fz"
+        "name": "Contemporary Spanish Guitar: Kindred Spirits",
+        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
       },
       "artists": [
         {
-          "name": "Manel Ferreira",
-          "url": "https://open.spotify.com/artist/69mSWyvvdOS1WOkznwkz7N"
-        },
-        {
-          "name": "Yamandu Costa",
-          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
         }
       ],
-      "duration_ms": 236424,
-      "name": "Bagan",
-      "url": "https://open.spotify.com/track/4MhjizjsOZjYBGiifFVvFv"
+      "duration_ms": 402466,
+      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
+      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Sol Naciente",
+        "url": "https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ"
+      },
+      "artists": [
+        {
+          "name": "Paco Infante",
+          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Lisboa Antigua",
+      "url": "https://open.spotify.com/track/3uCPr8h0wxi905eMSAdajB"
     }
   ],
   "unique_name": "Cena con Guitarras",

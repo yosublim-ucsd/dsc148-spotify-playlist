@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Skepta, Jammer
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,048 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,045 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Ninetynine](https://open.spotify.com/track/1Ly3K26YPGfRc802bd8jsn) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ninetynine](https://open.spotify.com/album/4nfGboE0gBkRA3x1fd4vBn) | 3:20 |
 | 100 | [Zebadee](https://open.spotify.com/track/6yHSnAjPbUnLjXjAzP3QKX) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq), [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Zebadee](https://open.spotify.com/album/78KGuDpY11w5qxhKUHqKxT) | 3:12 |
 
-Snapshot ID: `MCxkMDQ4NzkyM2U2YzQ0ZWIzNjgzYmJlZmE2MGJmM2UzYTU4YTEwNWZk`
+Snapshot ID: `MCxhMDkxNjc3OTJiOTMxN2EzM2FmOTU5ZWViMTUxMDI4MGJkMTU1MDdj`

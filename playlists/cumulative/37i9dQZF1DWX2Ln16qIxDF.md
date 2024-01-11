@@ -4,7 +4,7 @@
 
 > Luck Ra & KHEA están en el Top 🔥
 
-333 songs - 17 hr 4 min
+334 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ni Una Ni Dos](https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Ni Una Ni Dos](https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey) | 2:38 | 2023-07-04 |  |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-05-12 | 2023-09-30 |
 | [No Ando Weando](https://open.spotify.com/track/4uelxH4T8ewn0wwQC5gGLh) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:08 | 2023-11-17 | 2024-01-05 |
+| [No Cap \- A COLORS SHOW](https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [No Cap \- A COLORS SHOW](https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN) | 2:10 | 2024-01-10 |  |
 | [NO DA MÁS](https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:48 | 2023-11-14 |  |
 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 | 2023-05-12 | 2023-05-20 |
 | [No Llores](https://open.spotify.com/track/3d4rloohk7D9OqY267uq8n) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [No Llores](https://open.spotify.com/album/6zpDRrBwXyaJLHGW4cApxj) | 2:46 | 2023-10-06 | 2023-10-21 |
@@ -214,7 +215,7 @@
 | [NO VUELVO A CAER](https://open.spotify.com/track/71mPUsIl4zcHwiJKYB24op) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [NO VUELVO A CAER](https://open.spotify.com/album/43UowDzr6bGW5PT5gMyu7Y) | 2:24 | 2023-11-24 |  |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-05-12 | 2023-11-04 |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2023-05-12 |  |
-| [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 | 2023-12-15 |  |
+| [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 | 2023-12-15 | 2024-01-11 |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-05-12 | 2023-07-22 |
 | [OCASO](https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [OCASO](https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI) | 3:53 | 2023-10-27 | 2023-11-25 |
 | [OHH BABY](https://open.spotify.com/track/4yaaJjSiZKDby86zsbFAd4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [OHH BABY](https://open.spotify.com/album/5nzTg7XAPNrQlj9EQyBVgX) | 2:30 | 2023-09-29 | 2023-12-23 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 977073,
+  "2024-01-11": 976543,
   "date_first_scraped": "2023-09-29",
   "description": "Joseph Kamel au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
@@ -205,10 +205,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 171000,
       "name": "Creep - Reprise",
       "url": "https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H"
+    },
+    {
+      "album": {
+        "name": "Creep (Reprise)",
+        "url": "https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Creep - Reprise",
+      "url": "https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo"
     },
     {
       "album": {

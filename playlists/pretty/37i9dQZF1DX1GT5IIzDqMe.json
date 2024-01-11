@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 88087,
+  "num_followers": 88120,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzBhZDdhZTA1NzcxMTFjZTZkMzZiZGMwYTVlY2Y0N2ZmNmM0NDk3",
+  "snapshot_id": "MCxmZDE4MjAxZTgwN2JmMmJiMTk1NmU2ZjVmYzY3M2IzZmJhZWE5ZmQ4",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Maintain The Golden Ratio",
+        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 282702,
+      "name": "The Golden Ratio (Version)",
+      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Heavenly Revisited Album",
         "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 208818,
       "name": "World Of Deep",
       "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Maintain The Golden Ratio",
-        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 282702,
-      "name": "The Golden Ratio (Version)",
-      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -523,6 +523,30 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
+        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Virus J",
+          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
+        }
+      ],
+      "duration_ms": 190947,
+      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
+      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Right There / Holy Ghost",
         "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
       },
@@ -555,22 +579,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Maintain",
-        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 296013,
-      "name": "Maintain",
-      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Can You Feel It (Kevin Saunderson Remix)",
         "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
       },
@@ -591,26 +599,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
-        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
+        "name": "Maintain",
+        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
       },
       "artists": [
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        },
-        {
-          "name": "Virus J",
-          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
         }
       ],
-      "duration_ms": 190947,
-      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
-      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
+      "duration_ms": 296013,
+      "name": "Maintain",
+      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
-      },
-      "artists": [
-        {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
-        }
-      ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Into The Groove",
         "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 396190,
       "name": "Into The Groove - Extended Mix",
       "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2023-10-26 20:41:14",

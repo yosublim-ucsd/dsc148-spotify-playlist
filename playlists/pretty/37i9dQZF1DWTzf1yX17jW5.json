@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 5528,
+  "num_followers": 5624,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgwNjlhOTgyOTU4MmJiZjk4YTgxNDM2YTBmZWRjYmJlMzhjMDJk",
+  "snapshot_id": "MCw3ZDBkMTU5MzE0OGJkNWJiM2Q5YzQ3NzkwOTM3Nzc5M2E5YWQ1YmY1",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 214123,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Epiphany (I'm Leaving) [Jersey Club Remix]",
         "url": "https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 169155,
       "name": "Epiphany (I'm Leaving) - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 214123,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
     },
     {
       "added_at": "2023-12-01 14:44:59",

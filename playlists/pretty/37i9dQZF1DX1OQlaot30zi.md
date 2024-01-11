@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Simba La Rue e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,519 likes - 85 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,568 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 23 | [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 3:04 |
 | 24 | [LAMBORGHINI \(feat\. Niky Savage\)](https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [LAMBORGHINI \(feat\. Niky Savage\)](https://open.spotify.com/album/1BSDD0LzYDJEotW20OvvcD) | 2:38 |
 | 25 | [Vibin](https://open.spotify.com/track/7BcSSATuikJUhLkULWom1v) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [Vibin](https://open.spotify.com/album/0zuGFnG1ertYMUJMM41zpt) | 2:55 |
-| 26 | [PIGS](https://open.spotify.com/track/0W7p5lnQd0ID3PsaV20SnM) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [PIGS](https://open.spotify.com/album/4mUNyvqIiPCb9bcvoEmQuy) | 3:28 |
+| 26 | [PIGS](https://open.spotify.com/track/0W7p5lnQd0ID3PsaV20SnM) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [PIGS](https://open.spotify.com/album/4mUNyvqIiPCb9bcvoEmQuy) | 2:29 |
 | 27 | [NEXUS](https://open.spotify.com/track/6gYYDl8SWiTVpcIs1nKnLT) | [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [NEXUS](https://open.spotify.com/album/3EYXT7xTw6rUUnKpCmgMIY) | 3:02 |
 | 28 | [Silenziatore](https://open.spotify.com/track/5lOFZGpEsOzgnGJBcQBIgV) | [Zero Three](https://open.spotify.com/artist/0OVSsVWtFvjJyBR0XvpinI), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX) | [La Voce Degli Ultimi](https://open.spotify.com/album/3YOAsqx5UpDwKesKRpZlYe) | 2:24 |
 | 29 | [Ciò che amo scompare](https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574) | [Rayan Seventeen17](https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S) | [Ciò che amo scompare](https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r) | 3:03 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [TEMPOS](https://open.spotify.com/track/3dlQLRb8iCUmO6flLKFUqr) | [Frè Santino](https://open.spotify.com/artist/3MIoS14sJVIubungwKvKeD), [Fylo Gone](https://open.spotify.com/artist/0QqAc7iy2NHaXau92xYFBd), [Rectone](https://open.spotify.com/artist/1gqNhaw9UdQtDl78eiEhpC) | [TEMPOS](https://open.spotify.com/album/3qhyDWOVpwRE1jgDJBJLsP) | 3:12 |
 | 85 | [TACHANKA](https://open.spotify.com/track/62UkfLanwJ3jBfQa7QZScR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [TACHANKA](https://open.spotify.com/album/0Eb4CSKVneypXslPypCrJY) | 1:55 |
 
-Snapshot ID: `MCwyODM0MGEyZjYwODIyNzY3ZWM1NzdjODRhNjQ1YmFjYjQwMmUyOTcz`
+Snapshot ID: `MCwwMGZmNDUzY2QxMWRjOWMyYThlNjI0ZmNiYTAwOWZjYjE2MDVjZjlk`

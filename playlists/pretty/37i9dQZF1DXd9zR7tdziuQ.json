@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 913612,
+  "num_followers": 913685,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWU4MzkxMDRjODZkZmY4YTg1MGFkN2JjOWVkYTBiYmE3ZDVhYjY5",
+  "snapshot_id": "MCwxNDc5MWFiNDJlN2VmNjgzYmQzNTc0NGE3NTAzYmY2YWExMmUzNWU0",
   "tracks": [
     {
       "added_at": "2023-11-30 18:27:42",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "What About Us (Acoustic)",
         "url": "https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 255510,
       "name": "What About Us - Acoustic",
       "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "#Acoustic #2",
-        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Heaven Is a Place on Earth",
-      "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Stolen Dance",
         "url": "https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "#Acoustic #2",
+        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Superstition",
         "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Sweet Child o' Mine",
-        "url": "https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child o' Mine",
-      "url": "https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Who You Are (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 198720,
       "name": "Price Tag - Acoustic Version",
       "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Sweet Child o' Mine",
+        "url": "https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "Sweet Child o' Mine",
+      "url": "https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "The Bluebird of Happiness",
+        "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "The Bluebird of Happiness",
-        "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
-      },
-      "artists": [
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Unchained Melody",
         "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Umbrella (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 178319,
-      "name": "Umbrella - Acoustic Version",
-      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 141142,
       "name": "Havana - Acoustic",
       "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Umbrella (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 178319,
+      "name": "Umbrella - Acoustic Version",
+      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+        "name": "If I Ain't Got You (Remixes)",
+        "url": "https://open.spotify.com/album/09Hv0TDIjHuPFymQjOTmsX"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+      "duration_ms": 231653,
+      "name": "If I Ain't Got You - Piano & Vocal Version",
+      "url": "https://open.spotify.com/track/7tyBkTQUkczW7SMXYjc2GH"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "If I Ain't Got You (Remixes)",
-        "url": "https://open.spotify.com/album/09Hv0TDIjHuPFymQjOTmsX"
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 231653,
-      "name": "If I Ain't Got You - Piano & Vocal Version",
-      "url": "https://open.spotify.com/track/7tyBkTQUkczW7SMXYjc2GH"
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/6swbkdvrS8P0uq03AcFQiJ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "You're The One That I Want",
-      "url": "https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Swalla (Acoustic Version)",
         "url": "https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 217597,
       "name": "Swalla - Acoustic Version",
       "url": "https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/6swbkdvrS8P0uq03AcFQiJ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M"
     },
     {
       "added_at": "2023-11-30 18:27:42",

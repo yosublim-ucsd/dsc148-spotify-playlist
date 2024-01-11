@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,704 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,629 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 49 | [Don’t Count Me In](https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don’t Count Me In](https://open.spotify.com/album/38nOb3gb5ohG3WtRMZ32ZW) | 3:18 |
 | 50 | [time with u](https://open.spotify.com/track/1f7ww7TfsQI9E5pfPtGIvs) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [time with u](https://open.spotify.com/album/1tVh41SOFeDI2oDT0jPXBX) | 2:37 |
 | 51 | [concrete](https://open.spotify.com/track/2jWBtqNHakFXb1tHSQLHaT) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [this year was not kind to me](https://open.spotify.com/album/4AcRfHJa0heGGgV6dz6gBR) | 1:33 |
-| 52 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY \(Mixtape\)](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 |
+| 52 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 |
 | 53 | [ORIGINAL STEPPA](https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [ORIGINAL STEPPA](https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc) | 2:06 |
 | 54 | [Anxiety](https://open.spotify.com/track/09oM7MKKiUMlfmm55WILWN) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Anxiety / Making Miseries](https://open.spotify.com/album/6V1fBbeKJwhXCEKRrFNlZD) | 2:55 |
 | 55 | [Holding Me Back](https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back](https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7) | 4:25 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 57 | [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 |
 | 58 | [internet girl](https://open.spotify.com/track/63DGV1mELaumtRGzV9Y5sI) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [internet girl](https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj) | 2:39 |
 | 59 | [Exits Blocked](https://open.spotify.com/track/6ZjQr2u2refwSwIE1Y2FFQ) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Hot Air Balloon EP](https://open.spotify.com/album/6FQhPhyUfZcfqvjeGd4lhC) | 3:29 |
-| 60 | [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 |
+| 60 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 61 | [Night In](https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Night In](https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN) | 3:27 |
 | 62 | [\(Trust Me Now\) I'm Fine](https://open.spotify.com/track/13B8K60ppDcg8MjlvN0Bb9) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [\(Trust Me Now\) I'm Fine](https://open.spotify.com/album/6bfXbubGntyDwedi7dlq5N) | 3:16 |
 | 63 | [I'm In Love With You](https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl) | [I'm In Love With You](https://open.spotify.com/album/5A0bq3cr9A306ABKJd3RGG) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Maybe In The Summer](https://open.spotify.com/track/7foJ5hOQ0i4oJbgtjdUa0w) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Maybe In The Summer](https://open.spotify.com/album/349cHC0kfEg2nf5ixElOed) | 2:29 |
 | 100 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 |
 
-Snapshot ID: `MCwxNTJhZmFkMGIxZTU2YmJiYzg2YWI2YmU3OWQwZTQ0MTNiMzk3ODJh`
+Snapshot ID: `MCwyN2ZjNGQxZTIzYmI3NzYxZDM1OWJiNmY2YTVhNTllZjA4Y2Q0MDQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Lim Jae Hyun\(임재현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,558 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,469 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [I will be alright](https://open.spotify.com/track/1iURdIbRZv2t643LDwLbl2) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [I will be alright](https://open.spotify.com/album/7MPJaPGqkTXM3ej4PXklwV) | 5:35 |
 | 100 | [We Love Each Other](https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7) | 3:46 |
 
-Snapshot ID: `MCw0NTdjZDJhYTk4OWExYzJlNmI2YzAzNzlkNTllNWE0OWEwYzc0NjRj`
+Snapshot ID: `MCxmZmQ3MzViNzM3Y2E2MDFjNTBjYTcxY2M3NDk1YjM4NDE5MmE2ZGQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 330347,
+  "num_followers": 330369,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjBkNWYwNTFkYWMxNmU4NDZjNmM4MTRhMGM4ZGJkZTE5YzlkM2Yy",
+  "snapshot_id": "MCw0YTUzM2FhYTAzZWVkMmY5NTFmZTg3NzBjOTIxYzk1MmYxY2E0YjA3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -799,30 +799,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "We Will Stand",
-        "url": "https://open.spotify.com/album/1SCsUUJCwXyE08j5J4w5dY"
+        "name": "Wild Faith",
+        "url": "https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        },
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
         }
       ],
-      "duration_ms": 252306,
-      "name": "We Will Stand",
-      "url": "https://open.spotify.com/track/0Hdpqso5qi1PyShUxluscB"
+      "duration_ms": 208143,
+      "name": "Easy To Praise",
+      "url": "https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -859,18 +847,30 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wild Faith",
-        "url": "https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T"
+        "name": "We Will Stand",
+        "url": "https://open.spotify.com/album/1SCsUUJCwXyE08j5J4w5dY"
       },
       "artists": [
         {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 208143,
-      "name": "Easy To Praise",
-      "url": "https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ"
+      "duration_ms": 252306,
+      "name": "We Will Stand",
+      "url": "https://open.spotify.com/track/0Hdpqso5qi1PyShUxluscB"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "My Tribute (To God Be The Glory)",
-        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 341986,
-      "name": "My Tribute (To God Be The Glory)",
-      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "While I Can",
         "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 296715,
       "name": "The Church I Grew Up In - Live",
       "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Where The Glory Is",
-        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+        "name": "Miracle Time",
+        "url": "https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 270576,
-      "name": "Where The Glory Is",
-      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
+      "duration_ms": 260133,
+      "name": "Miracle Time",
+      "url": "https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Miracle Time",
-        "url": "https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k"
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 260133,
-      "name": "Miracle Time",
-      "url": "https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX"
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Still Standing",
-        "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 204479,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "I LOVE YOU TO DEATH",
         "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 203832,
       "name": "I LOVE YOU TO DEATH",
       "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 204479,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Rock I'm On",
         "url": "https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 208571,
       "name": "The Rock I'm On",
       "url": "https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1471,22 +1471,6 @@
       "duration_ms": 257720,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3uAulkGLXosyXmTEYsST8G"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Valor",
-        "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 342778,
-      "name": "Valor",
-      "url": "https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Valor",
+        "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 342778,
+      "name": "Valor",
+      "url": "https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Burial",
         "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
       },
@@ -1539,26 +1539,6 @@
       "duration_ms": 278119,
       "name": "Burial",
       "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "At The End Of The River",
-        "url": "https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX"
-      },
-      "artists": [
-        {
-          "name": "Wyn Starks",
-          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
-        },
-        {
-          "name": "The Fisk Jubilee Singers",
-          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
-        }
-      ],
-      "duration_ms": 282848,
-      "name": "At The End Of The River",
-      "url": "https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1587,6 +1567,26 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "At The End Of The River",
+        "url": "https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX"
+      },
+      "artists": [
+        {
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+        },
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+        }
+      ],
+      "duration_ms": 282848,
+      "name": "At The End Of The River",
+      "url": "https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk"
     },
     {
       "added_at": "2023-11-17 05:00:00",

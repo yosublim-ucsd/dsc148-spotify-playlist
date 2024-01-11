@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
+    },
+    {
+      "album": {
         "name": "Arcadian Daze",
         "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 268122,
       "name": "Before",
       "url": "https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42"
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 177733,
       "name": "Lexicon",
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
@@ -3722,6 +3740,24 @@
       "duration_ms": 301850,
       "name": "Si Te Portas Bonito",
       "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
+    },
+    {
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "album": {

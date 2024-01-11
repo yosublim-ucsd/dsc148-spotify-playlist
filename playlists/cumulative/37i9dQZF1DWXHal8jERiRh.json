@@ -356,6 +356,24 @@
     {
       "album": {
         "name": "The World of the Married, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6F5cFF1b5zgSYzHYQZYl7I"
+      },
+      "artists": [
+        {
+          "name": "Sonnet Son",
+          "url": "https://open.spotify.com/artist/1Dq0pavG6AfUkfbYmRRBjC"
+        }
+      ],
+      "date_added": "2023-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/4vTIBbi4V4l0XCWp07LEDX"
+    },
+    {
+      "album": {
+        "name": "The World of the Married, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1gP5RgwQ47g8d1KrAsKnSS"
       },
       "artists": [
@@ -366,7 +384,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 216706,
       "name": "Sad",
       "url": "https://open.spotify.com/track/5GCgK80s9iTYIguVt8AAso"

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=FlCL7cSwSUWq7pgwyQAANw\"> Wizkid </a>  ",
-  "num_followers": 538787,
+  "num_followers": 538905,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWFlZjdkMDg1NzU2ZTI3NWI3OGU3ZjIzYmIyYzFlZWJiMTg4MDk4",
+  "snapshot_id": "MCxmOWNjMGFmMGVmOGIzODgxZTdiNzk3MjkxNjRjZDE4NjMxZmM1MjQw",
   "tracks": [
     {
       "added_at": "2024-01-05 00:01:00",
@@ -387,18 +387,22 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -419,22 +423,18 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 192826,
       "name": "LIKE THAT (feat. Oxlade)",
       "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -927,18 +927,26 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Fakosi",
-        "url": "https://open.spotify.com/album/50K8OYdwAczPTxrEYoZCmB"
+        "name": "Feel Different",
+        "url": "https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM"
       },
       "artists": [
         {
           "name": "Reekado Banks",
           "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Fakosi",
-      "url": "https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn"
+      "duration_ms": 179454,
+      "name": "Feel Different",
+      "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -1031,26 +1039,18 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Feel Different",
-        "url": "https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM"
+        "name": "Fakosi",
+        "url": "https://open.spotify.com/album/50K8OYdwAczPTxrEYoZCmB"
       },
       "artists": [
         {
           "name": "Reekado Banks",
           "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
         }
       ],
-      "duration_ms": 179454,
-      "name": "Feel Different",
-      "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
+      "duration_ms": 165000,
+      "name": "Fakosi",
+      "url": "https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn"
     },
     {
       "added_at": "2024-01-05 00:01:00",

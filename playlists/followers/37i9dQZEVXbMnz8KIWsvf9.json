@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 155069,
+  "2024-01-11": 154831,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Thailand.",
   "name": "Top 50 - Thailand",
@@ -5733,7 +5733,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -8445,7 +8445,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -10310,6 +10310,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e02\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH"
+      },
+      "artists": [
+        {
+          "name": "\u0e21\u0e19\u0e31\u0e2a\u0e27\u0e35\u0e23\u0e4c",
+          "url": "https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253235,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e02\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy"
+    },
+    {
+      "album": {
         "name": "Safeboys",
         "url": "https://open.spotify.com/album/31PTsm7KH7Ad8ZXLXaJR2g"
       },
@@ -10929,7 +10947,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 212380,
       "name": "\u0e15\u0e1a\u0e1b\u0e32\u0e01 (On That Day)",
       "url": "https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf"
@@ -10969,6 +10987,24 @@
       "duration_ms": 240450,
       "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
       "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
+    },
+    {
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196896,
+      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19 (rain)",
+      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
     },
     {
       "album": {
@@ -11113,7 +11149,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 299126,
       "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 (Lost)",
       "url": "https://open.spotify.com/track/23uoBOUwFdh8bKlv6FUDuc"

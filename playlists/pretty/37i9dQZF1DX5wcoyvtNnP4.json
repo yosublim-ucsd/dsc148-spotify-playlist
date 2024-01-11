@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 495002,
+  "num_followers": 494869,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTRiMDI5MjQ4MDRhZTBhYWJmZjNkNzlkMmYyNmI3ZDcwYjM2ZjEx",
+  "snapshot_id": "MCw2OWZkNDI2NDY0Y2E5ZjFlMGJkYWI2OTE5OGZiYjVmMjlmYjU3MTEw",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -419,30 +419,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -519,6 +495,30 @@
       "duration_ms": 166778,
       "name": "Bittersweet Goodbye",
       "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 147973,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v"
-      },
-      "artists": [
-        {
-          "name": "T. Matthias",
-          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
-        },
-        {
-          "name": "Alimish",
-          "url": "https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR"
-        }
-      ],
-      "duration_ms": 150994,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Hopeless Heart",
         "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 151903,
       "name": "Hopeless Heart",
       "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v"
+      },
+      "artists": [
+        {
+          "name": "T. Matthias",
+          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
+        },
+        {
+          "name": "Alimish",
+          "url": "https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR"
+        }
+      ],
+      "duration_ms": 150994,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1"
     },
     {
       "added_at": "2023-12-01 11:00:00",

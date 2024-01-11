@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 750,189 likes - 100 songs - 5 hr 15 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 749,497 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 3 | [Lies](https://open.spotify.com/track/3tkfu51XGoO7bnv44QL9iX) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Lies](https://open.spotify.com/album/2Yia5sGQfwQFtpvl90YwDc) | 3:56 |
 | 4 | [Sunrise](https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Sunrise](https://open.spotify.com/album/5KXb5CBBV5HucBeRRus7K6) | 4:16 |
 | 5 | [Devil](https://open.spotify.com/track/5mn6mZIHIQF6sl3KCkMtIY) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Devil](https://open.spotify.com/album/54WiyGQ7TL7nqIPoh1ieF8) | 4:01 |
-| 6 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/1JT2GXhUeRkIglDUazBmVH), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 |
+| 6 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 |
 | 7 | [WHAT](https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [WHAT](https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo) | 3:44 |
 | 8 | [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 |
 | 9 | [Done Better](https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Done Better](https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh) | 2:50 |

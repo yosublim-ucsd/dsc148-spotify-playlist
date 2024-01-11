@@ -1,12 +1,12 @@
 {
   "description": "Attribute to the strength built through the years, as Robb would say.",
-  "num_followers": 560026,
+  "num_followers": 559977,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTk0ZWY0OWI3OTZjMTRkODVjMDZkYTAzYjhkZDA5OTNhZjgxNGNm",
+  "snapshot_id": "MCxhMjk5ZjZhYjg0MDM5MjZkYTZlOWJkYzAwODk1YWVlMjIzYWIyOTQ0",
   "tracks": [
     {
       "added_at": "2024-01-08 09:01:28",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
         "name": "on the verge",
         "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 134400,
       "name": "on the verge",
       "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 261811,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 225026,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
-        "name": "The Black Crown",
-        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
+        "name": "The Black Crown",
+        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
-        "name": "Scars (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
-      },
-      "artists": [
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
         "name": "Shadows Inside",
         "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 236549,
       "name": "Shadows Inside",
       "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
+        "name": "Scars (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
+        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Super Charger Heaven",
+      "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
         "name": "Look at Yourself",
         "url": "https://open.spotify.com/album/5d904eRcMkUSIipPixswNM"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 214477,
       "name": "A Flag to Wave",
       "url": "https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
-        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
-        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Super Charger Heaven",
-      "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
     },
     {
       "added_at": "2024-01-08 09:01:28",

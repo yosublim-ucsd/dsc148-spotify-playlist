@@ -4,11 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-380 songs - 23 hr 57 min
+381 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [&ME](https://open.spotify.com/track/2uGrSoj2G2ttrcGvDSl5Bg) | [NALALA](https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk) | 2:55 | 2023-12-20 |  |
+| [&ME](https://open.spotify.com/track/2uGrSoj2G2ttrcGvDSl5Bg) | [NALALA](https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk) | 2:55 | 2023-12-20 | 2024-01-11 |
 | [&ME](https://open.spotify.com/track/44muA7zBeipDRXs1uaTNLv) | [NALALA](https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4) | [35 GIRLS 5 CONCEPTS](https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT) | 2:55 | 2023-12-18 | 2023-12-21 |
 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 | 2023-11-30 | 2023-12-02 |
 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2021-03-27\* | 2023-10-10 |
@@ -327,6 +327,7 @@
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-02-28 | 2023-05-19 |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2021-03-27\* | 2021-12-01 |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-10-17 |  |
+| [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-10 |  |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2023-10-24 |  |
 | [月を見ていた](https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [月を見ていた](https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor) | 4:12 | 2023-06-27 | 2023-07-23 |
 | [本当はね、](https://open.spotify.com/track/5MqZFxSAGTKqnUbBVLlkM5) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [本当はね、](https://open.spotify.com/album/23eTch2kTjeOIvsfOF8E6e) | 3:21 | 2022-11-02 | 2023-03-18 |

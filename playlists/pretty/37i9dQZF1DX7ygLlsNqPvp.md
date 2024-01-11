@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=44ypFljwS7KHqFvdra2eFg"> Medikal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,719 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,737 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 |
 | 50 | [32](https://open.spotify.com/track/2PiJXFSfjwBxX6AgLwdQvm) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [I'm Back](https://open.spotify.com/album/4kffUglXMYplYAIgeDpkfW) | 4:17 |
 
-Snapshot ID: `MCxmNzRlNTkxMzFjODU3YWUyZTE1NDQwM2IwYmJkODFiYTc3ZWU5YjQw`
+Snapshot ID: `MCwzYTljYzI0OWNkMDE0NmFhNTVkNWQyNTMzZWQ1YTQ3ZTFhODY4ODBl`

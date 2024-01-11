@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 26246,
+  "num_followers": 26295,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2IwOTNiMWU0MDU2MDUyMjEzYzY0N2ZkODczYWEyYWFkNDQ0MmI3",
+  "snapshot_id": "MCxkN2VkYzhjZjdlNzBiNzQ1OTcwZjg4YWNkM2EyMTgyNDkyODY2YWVl",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Twe Twe",
         "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 145031,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Duffel Bag",
         "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Ronaldo",
+        "url": "https://open.spotify.com/album/60URysVADvw9jbvTJypX2N"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Ronaldo",
+      "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Walking Dead",
         "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 150863,
       "name": "Walking Dead",
       "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Ronaldo",
-        "url": "https://open.spotify.com/album/60URysVADvw9jbvTJypX2N"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Ronaldo",
-      "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "For Daddy",
+        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 153232,
+      "name": "For Daddy",
+      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "RAVI",
         "url": "https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 148400,
       "name": "MAGICIAN",
       "url": "https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "For Daddy",
-        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 153232,
-      "name": "For Daddy",
-      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Bunda",
-        "url": "https://open.spotify.com/album/3MOmmbWZDPXjR49nDTVLAv"
-      },
-      "artists": [
-        {
-          "name": "Coblaze",
-          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
-        }
-      ],
-      "duration_ms": 139304,
-      "name": "Bunda",
-      "url": "https://open.spotify.com/track/7Ia5dCLaY9O9rlYw4q4Wvc"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -887,22 +871,6 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -931,6 +899,38 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/3MOmmbWZDPXjR49nDTVLAv"
+      },
+      "artists": [
+        {
+          "name": "Coblaze",
+          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
+        }
+      ],
+      "duration_ms": 139304,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/7Ia5dCLaY9O9rlYw4q4Wvc"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Up Forever",
-        "url": "https://open.spotify.com/album/0MudurbiRd1bZh3Vpagh2Z"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 150985,
-      "name": "Up Forever",
-      "url": "https://open.spotify.com/track/1KlbfHhbjOYMBQCCwjTYAi"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Ara (Gen Gen Tin)",
         "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
       },
@@ -983,6 +967,34 @@
       "duration_ms": 146000,
       "name": "Ara (Gen Gen Tin)",
       "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "GoodSin (feat. Reekado Banks) [Remix]",
+        "url": "https://open.spotify.com/album/6qqlM35C4DXPsTO54i9pku"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 233077,
+      "name": "GoodSin (feat. Reekado Banks) - Remix",
+      "url": "https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1027,46 +1039,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "GoodSin (feat. Reekado Banks) [Remix]",
-        "url": "https://open.spotify.com/album/6qqlM35C4DXPsTO54i9pku"
+        "name": "Up Forever",
+        "url": "https://open.spotify.com/album/0MudurbiRd1bZh3Vpagh2Z"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
         }
       ],
-      "duration_ms": 233077,
-      "name": "GoodSin (feat. Reekado Banks) - Remix",
-      "url": "https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Body, Soul & Spirit",
-        "url": "https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 146097,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/3bCbycN2nBKSeixp5sDmMi"
+      "duration_ms": 150985,
+      "name": "Up Forever",
+      "url": "https://open.spotify.com/track/1KlbfHhbjOYMBQCCwjTYAi"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1087,6 +1071,30 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        }
+      ],
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     }
   ],
   "unique_name": "Keep Fit Club ",

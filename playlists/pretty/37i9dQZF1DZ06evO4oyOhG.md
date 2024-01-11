@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,581 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,582 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,28 +15,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 5 | [ロデオ](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [今日もサクラ舞う暁に](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 |
 | 6 | [ギミギミコール](https://open.spotify.com/track/02z7UCeHtpV17KwmgbytuE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Skypeace](https://open.spotify.com/artist/67B3zxnhGAjiz0OVdPidXk) | [瞬く世界にｉを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:05 |
 | 7 | [これ青春アンダースタンド instrumental](https://open.spotify.com/track/1KppStlH5OLkYrL8zlVNZS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [恋色に咲け](https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z) | 4:10 |
-| 8 | [ウルフ](https://open.spotify.com/track/6uqotCPKOdATeDLtprU30U) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 3:51 |
-| 9 | [アイのシナリオ](https://open.spotify.com/track/3EfNDAXf9D16g7fv2aRkrs) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 4:18 |
+| 8 | [プライド革命](https://open.spotify.com/track/7uD3cE6aiSFKdJO30k2vbZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 3:53 |
+| 9 | [ウルフ](https://open.spotify.com/track/6uqotCPKOdATeDLtprU30U) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 3:51 |
 | 10 | [ヒカリ証明論](https://open.spotify.com/track/1Y0pOmk3SgJuw3SeC7MoO7) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/4azNHlJaZPkLnE0rU7kzBb) | 4:34 |
 | 11 | [決戦スピリット](https://open.spotify.com/track/4DSSRuiWONPIvHJ3GxCECH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:32 |
-| 12 | [私、アイドル宣言](https://open.spotify.com/track/7bxdPnZ1FOjnhEdDkbHMhH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 4:27 |
-| 13 | [ハートの主張](https://open.spotify.com/track/04aVPNpvEbQpXY9lefOPue) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 3:51 |
+| 12 | [アイのシナリオ](https://open.spotify.com/track/3EfNDAXf9D16g7fv2aRkrs) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 4:18 |
+| 13 | [私、アイドル宣言](https://open.spotify.com/track/7bxdPnZ1FOjnhEdDkbHMhH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 4:27 |
 | 14 | [カヌレ](https://open.spotify.com/track/595anRMEdepv0I3YG8FNVK) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [カヌレとウルフ](https://open.spotify.com/album/1MKifVPdcTTatXTfEiXlj9) | 4:09 |
 | 15 | [乙女どもよ。](https://open.spotify.com/track/3VNkBDBVZVx9h1e9eev7yH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [乙女どもよ。](https://open.spotify.com/album/4XGW9c5LIcnUAN0m1XcUio) | 4:13 |
-| 16 | [今日もサクラ舞う暁に](https://open.spotify.com/track/7BB9jAA7JkX6oLaSioKvX4) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 4:15 |
-| 17 | [11月の雨](https://open.spotify.com/track/3yhP6kOdhZL3ZY7vr8nsGu) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 5:21 |
+| 16 | [ハートの主張](https://open.spotify.com/track/04aVPNpvEbQpXY9lefOPue) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 3:51 |
+| 17 | [今日もサクラ舞う暁に](https://open.spotify.com/track/7BB9jAA7JkX6oLaSioKvX4) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 4:15 |
 | 18 | [ラズベリー\*モンスター](https://open.spotify.com/track/6SWKum6nA51oLqGuyphmVX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Nostalgic Rainfall](https://open.spotify.com/album/0QpbVRBPVn89jFRMSoXAJx) | 2:55 |
 | 19 | [サイダー](https://open.spotify.com/track/45SqoW2LLQ1mMy8aSlFtsK) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Hikari Shoumeiron](https://open.spotify.com/album/52aBTjeaLXHx4yjsKbeRV8) | 4:49 |
-| 20 | [平成バブル](https://open.spotify.com/track/3LheFUWRTy87Maqck4vWNW) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:26 |
-| 21 | [Love Letter](https://open.spotify.com/track/4IgoBpQVEp9bwS1pxkZEpO) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 5:07 |
+| 20 | [11月の雨](https://open.spotify.com/track/3yhP6kOdhZL3ZY7vr8nsGu) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 5:21 |
+| 21 | [平成バブル](https://open.spotify.com/track/3LheFUWRTy87Maqck4vWNW) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:26 |
 | 22 | [恋人ツナギ](https://open.spotify.com/track/6C1hGluh7veOo0kRQ4rr9K) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Otomedomoyo](https://open.spotify.com/album/2kRnKyQ0Mm0jYSqyqFyvmU) | 4:38 |
 | 23 | [ヒストリア](https://open.spotify.com/track/5dfnkSHzf1IHPD3AdJXJOE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Pride Kakumei](https://open.spotify.com/album/7yEjBXz8ELSQWvLDMkYkpi) | 3:29 |
-| 24 | [恋色に咲け](https://open.spotify.com/track/2oXh1HaGwNCZaT6usnTif0) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:06 |
-| 25 | [雪のワルツ](https://open.spotify.com/track/3AmrLrSDrLFJ6wwZcpCPUJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 5:35 |
+| 24 | [Love Letter](https://open.spotify.com/track/4IgoBpQVEp9bwS1pxkZEpO) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 5:07 |
+| 25 | [恋色に咲け](https://open.spotify.com/track/2oXh1HaGwNCZaT6usnTif0) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:06 |
 | 26 | [ヒカリ証明論 \-instrumental\-](https://open.spotify.com/track/64W7D99GOSoZIvbBKgHO5B) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Hikari Shoumeiron](https://open.spotify.com/album/52aBTjeaLXHx4yjsKbeRV8) | 4:34 |
 | 27 | [プライド革命 Instrumental](https://open.spotify.com/track/6YzN95dgCbvaprFcvVT6ht) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Pride Kakumei](https://open.spotify.com/album/7yEjBXz8ELSQWvLDMkYkpi) | 3:55 |
-| 28 | [可愛くなりたい](https://open.spotify.com/track/1XA0rFBVY3VouEigL2a5b1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:15 |
-| 29 | [恋のコード](https://open.spotify.com/track/2L3z8aBjWz4Diuf1grb9YL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 4:42 |
+| 28 | [雪のワルツ](https://open.spotify.com/track/3AmrLrSDrLFJ6wwZcpCPUJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 5:35 |
+| 29 | [可愛くなりたい](https://open.spotify.com/track/1XA0rFBVY3VouEigL2a5b1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:15 |
 | 30 | [ミスター・ダーリン \-instrumental\-](https://open.spotify.com/track/4g91mKBes0fvwogkEuPOx0) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Mr\. Darling / Gimme Gimme Call](https://open.spotify.com/album/1aJREXm4uAyH7tXE0BYkCe) | 4:05 |
 | 31 | [アイのシナリオ Instrumental](https://open.spotify.com/track/4fAeZBUhzzUdxVmGAH6f0y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Aino Scenario](https://open.spotify.com/album/0O1W5C0R3TMbYOnrNRY01E) | 4:18 |
 | 32 | [ウルフ \-instrumental\-](https://open.spotify.com/track/4FeujcOuckire7sQ5vgnvb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Canele & Wolf](https://open.spotify.com/album/4ww27FAZJciiuIBlTou7R2) | 3:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 48 | [BGM](https://open.spotify.com/track/6sGx2nUtdDfQcUJBHc53x5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 5:02 |
 | 49 | [胸キュンライト](https://open.spotify.com/track/3GFlv5161WZ6F2h8yf9tNU) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:55 |
 
-Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA5YTk5NTE1N2FhNWUwOTRhMWU3NDIxZmJhZGFmMmQxNQ==`
+Snapshot ID: `Mjg0MTQ5MTksMDAwMDAwMDAyNjdmYjJiNGU0ZGJkMjdmOWRmYmQ1NjM0NTM5YjgwMA==`

@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Aiuta",
+        "url": "https://open.spotify.com/album/01LteLKTQJOREHweQrsdQV"
+      },
+      "artists": [
+        {
+          "name": "MASANORI OTODA",
+          "url": "https://open.spotify.com/artist/3kMsMz5ChIC0nvU3wtEaNA"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292917,
+      "name": "Aiuta",
+      "url": "https://open.spotify.com/track/7joHTyRw7w70bCi2BIFOLP"
+    },
+    {
+      "album": {
         "name": "Akebono (2023)",
         "url": "https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U"
       },
@@ -4502,7 +4520,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 250547,
       "name": "Love & War in Your Twenties",
       "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"

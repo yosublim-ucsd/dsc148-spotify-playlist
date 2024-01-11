@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 4560,
+  "2024-01-11": 4577,
   "date_first_scraped": "2023-06-10",
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Sie7e",
   "name": "Indie Boricua",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 199308,
       "name": "Aguadilla",
       "url": "https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 228073,
       "name": "Toco Madera",
       "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi?si=si8PlbKwQImG\-aY2t0V6lw>Enakeno</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,396 likes - 72 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,414 likes - 72 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,6 +79,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 69 | [Gospel Amapiano](https://open.spotify.com/track/5wmxYHWIfD4YZs2gaXMoVk) | [BigSamuel](https://open.spotify.com/artist/6iY7Hw8IMVvmhFTzUcOjtC) | [Gospel Amapiano](https://open.spotify.com/album/0MMA5J9ORQ3x1PPsKAnYyN) | 2:35 |
 | 70 | [Lolusizi](https://open.spotify.com/track/3oROGwjfawinSZCyYxo321) | [Sifiso Khoza](https://open.spotify.com/artist/34CCIkroJZLH2aQ5pQxFh3) | [Lolusizi](https://open.spotify.com/album/5MQ50haLpUw3yjwpFcdEbS) | 5:21 |
 | 71 | [Little Red Dark](https://open.spotify.com/track/7bxK0v9jWGyAd8yLI7NQK6) | [Believe Over Hope](https://open.spotify.com/artist/45HeQ1bYL6ppU2JdBmBKc8) | [Jesus is Still King](https://open.spotify.com/album/4wigFYTRf5qd3ayITQDe4r) | 3:22 |
-| 72 | [Joy in Chaos \- Speed up](https://open.spotify.com/track/4sUCvWFYCxyGdSPUbsDU4I) | [Kourage Beatz NSI](https://open.spotify.com/artist/01wazsLDLOeJgUmj3306u3), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos \(Speed up\)](https://open.spotify.com/album/39r34IYHOrsdwPjrDRNEyp) | 1:10 |
+| 72 | [Joy In Chaos](https://open.spotify.com/track/42iD5yOX6KNBlN7v9zqFrj) | [Kourage Beatz NSI](https://open.spotify.com/artist/01wazsLDLOeJgUmj3306u3) | [Joy In Chaos \(Speed up\)](https://open.spotify.com/album/6zufntQcJOLqWsVLLT6Mb9) | 1:01 |
 
-Snapshot ID: `MCw3NjgyNmI3M2U4NTFhZGYwZGE3MjhmNGFhOGFjNjIzYTRkNjMyNGFk`
+Snapshot ID: `MCw5ZjI3YTJhMjJiODI1ODk4ZTE4ZmNkMGZlZjgwZGU2N2Y3NzVlMDgx`

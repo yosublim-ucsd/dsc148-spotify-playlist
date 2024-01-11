@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 130740,
+  "2024-01-11": 130770,
   "date_first_scraped": "2021-12-21",
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
   "name": "Grass Roots",
@@ -3927,6 +3927,24 @@
       "duration_ms": 267000,
       "name": "I Am the River Wild",
       "url": "https://open.spotify.com/track/3HNTb1lNI3mkynvKFPynWE"
+    },
+    {
+      "album": {
+        "name": "Rhinestone Revival",
+        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "I Call Her Sunshine",
+      "url": "https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY"
     },
     {
       "album": {
@@ -8619,7 +8637,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 282794,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"

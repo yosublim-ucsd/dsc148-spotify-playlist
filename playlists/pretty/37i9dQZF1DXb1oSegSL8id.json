@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 824052,
+  "num_followers": 823984,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzg1YTcxNmU0ZmE4ZTJlYWI3YmI2ODgyYzE5ZjRjOTBjMjFiNzVj",
+  "snapshot_id": "MCxiMGFmY2U4MTQ2NDExNTdkYzI0ZDg0MzMzM2NlY2FhZDYxOWVhMmU2",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Terra do Nunca (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 201377,
-      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Terra do Nunca (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 201377,
+      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 140942,
-      "name": "Batom de Cereja - Ao Vivo",
-      "url": "https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Vento Forte",
         "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 123711,
       "name": "Vento Forte",
       "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "duration_ms": 140942,
+      "name": "Batom de Cereja - Ao Vivo",
+      "url": "https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "VIBE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 177805,
-      "name": "A Fila Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Piseiro Sofr\u00eancia",
         "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 173037,
       "name": "N\u00e3o, N\u00e3o Vou",
       "url": "https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "VIBE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 177805,
+      "name": "A Fila Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Solteiro N\u00e3o Trai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq"
+        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
+        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
       },
       "artists": [
         {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+          "name": "Molejo",
+          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
         }
       ],
-      "duration_ms": 187349,
-      "name": "Solteiro N\u00e3o Trai - Ao Vivo",
-      "url": "https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr"
+      "duration_ms": 223160,
+      "name": "Cilada",
+      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
-        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
+        "name": "Solteiro N\u00e3o Trai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq"
       },
       "artists": [
         {
-          "name": "Molejo",
-          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Cilada",
-      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
+      "duration_ms": 187349,
+      "name": "Solteiro N\u00e3o Trai - Ao Vivo",
+      "url": "https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 187141,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "\u00c9 Problema",
         "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184149,
       "name": "\u00c9 Problema",
       "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 187141,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Bebe e Vem Me Procurar",
-        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 154291,
-      "name": "Bebe e Vem Me Procurar",
-      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "SORRIA",
         "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 181122,
       "name": "SORRIA",
       "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Bebe e Vem Me Procurar",
+        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "Bebe e Vem Me Procurar",
+      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Pagode do Peric\u00e3o, Ep. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5jA6nzca6neVFM0Yb7fIsL"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 232278,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ePqDlJvdIrs58EKvPb9hN"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
         "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 381011,
       "name": "Carona do Amor / Shortinho Saint-Tropez / Novos Tempos",
       "url": "https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Pagode do Peric\u00e3o, Ep. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5jA6nzca6neVFM0Yb7fIsL"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 232278,
-      "name": "Supera - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ePqDlJvdIrs58EKvPb9hN"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1407,6 +1407,26 @@
       "duration_ms": 176123,
       "name": "Domingo - Ao Vivo",
       "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Figurinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
+      },
+      "artists": [
+        {
+          "name": "Douglas & Vinicius",
+          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
+        },
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        }
+      ],
+      "duration_ms": 206001,
+      "name": "Figurinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1447,26 +1467,6 @@
       "duration_ms": 183695,
       "name": "S\u00f3 de Sacanagem - Ao Vivo",
       "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Figurinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
-      },
-      "artists": [
-        {
-          "name": "Douglas & Vinicius",
-          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
-        },
-        {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
-        }
-      ],
-      "duration_ms": 206001,
-      "name": "Figurinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Nunca Vai Ser N\u00f3s",
         "url": "https://open.spotify.com/album/1XhqEq2zud4YlQ5MsOhY6R"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 172693,
       "name": "Nunca Vai Ser N\u00f3s",
       "url": "https://open.spotify.com/track/6KoWlMNCiFdHnzYSX1Ag8q"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     }
   ],
   "unique_name": "Sol e Churrasco",

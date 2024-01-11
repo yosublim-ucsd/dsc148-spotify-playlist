@@ -15685,6 +15685,24 @@
     },
     {
       "album": {
+        "name": "Joy In Chaos (Speed up)",
+        "url": "https://open.spotify.com/album/6zufntQcJOLqWsVLLT6Mb9"
+      },
+      "artists": [
+        {
+          "name": "Kourage Beatz NSI",
+          "url": "https://open.spotify.com/artist/01wazsLDLOeJgUmj3306u3"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61996,
+      "name": "Joy In Chaos",
+      "url": "https://open.spotify.com/track/42iD5yOX6KNBlN7v9zqFrj"
+    },
+    {
+      "album": {
         "name": "Joy in Chaos (Extended)",
         "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
       },
@@ -15726,7 +15744,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 70368,
       "name": "Joy in Chaos - Speed up",
       "url": "https://open.spotify.com/track/4sUCvWFYCxyGdSPUbsDU4I"

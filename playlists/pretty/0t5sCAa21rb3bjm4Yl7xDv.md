@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear all in one playlist! Cover: Johnny Orlando
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 81,601 likes - 117 songs - 6 hr 5 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 81,382 likes - 117 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

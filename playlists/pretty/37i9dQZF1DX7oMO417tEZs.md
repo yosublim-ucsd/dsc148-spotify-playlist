@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Yamê
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,241 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,250 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [La Gente Se Levanta](https://open.spotify.com/track/1wAdnXc6Eas8BKww2CSKTB) | [Pelada](https://open.spotify.com/artist/1cUt6hBRKlav4TIgjopnHC), [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [La Gente Se Levanta](https://open.spotify.com/album/4UP9rrYuthNnKcZAdBKcfI) | 3:31 |
 | 100 | [Silent Assassin](https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:07 |
 
-Snapshot ID: `MCw3MGUyMmNlMWZhMDg1MGQ4M2NkYmI4NjI2YTllZTJiMDViNDY0YzRh`
+Snapshot ID: `MCxhYWE0ZGQ0OGZkZTA1ODQxZjc1Mzg1NzM4NWZmMDIwYmNmMWI5Y2Ri`

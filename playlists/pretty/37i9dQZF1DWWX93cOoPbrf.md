@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. El Rabbanito en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,244 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,843 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
 | 75 | [El Freddy \(En Vivo\)](https://open.spotify.com/track/4jPCeYi7uGROvnGvqdoU0s) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [Con Las Guitarras Bien Puestas Vol\. 2](https://open.spotify.com/album/7fuGWTtxr63OJcwX8YPuA5) | 2:41 |
 
-Snapshot ID: `MCw2ODE5MTI4NjQyYjRhODBjZjc2MGQxYTUxMjY4ZmY0NzQ3YzFmYzRi`
+Snapshot ID: `MCwyYTVkZWZkYzllY2IwZmY5ZTg4OGM4MDU2M2ExNWJmNDg0ZDE1NDAz`

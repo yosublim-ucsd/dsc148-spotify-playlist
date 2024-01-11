@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,871 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,869 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,17 +52,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 42 | [Death Was Arrested](https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9) | 5:14 |
 | 43 | [Death Where is Your Sting](https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:40 |
 | 44 | [Mercy \- Live](https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Your Grace Finds Me \(Live\)](https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU) | 5:34 |
-| 45 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
-| 46 | [He Lives](https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Adam Agee](https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl) | [He Lives](https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi) | 4:46 |
+| 45 | [He Lives](https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Adam Agee](https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl) | [He Lives](https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi) | 4:46 |
+| 46 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
 | 47 | [At The Cross \(Love Ran Red\) \- Live](https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Take It All \(Live\)](https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB) | 7:08 |
 | 48 | [Alive In You \- Studio Version](https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Alive In You \(Studio Version\)](https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH) | 3:59 |
 | 49 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/6AsJ2pB08SKZ0j96U7F1pr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:27 |
 | 50 | [Thief](https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:24 |
 | 51 | [Because He Lives \(Amen\)](https://open.spotify.com/track/5UVAPfV3T15X23qdYUWp7f) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Because He Lives \(Amen\)](https://open.spotify.com/album/3NxtPWkRme5IO95JZyOl6H) | 3:20 |
 | 52 | [Beauty For Ashes \- Live](https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 4:54 |
-| 53 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
-| 54 | [My Savior My God \- Live](https://open.spotify.com/track/0TZk1K9QUBvYbKvyOlDd91) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Love Made a Way \(Live\)](https://open.spotify.com/album/1lvkViacXRWI7hoMoIjKnJ) | 5:04 |
-| 55 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
+| 53 | [My Savior My God \- Live](https://open.spotify.com/track/0TZk1K9QUBvYbKvyOlDd91) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Love Made a Way \(Live\)](https://open.spotify.com/album/1lvkViacXRWI7hoMoIjKnJ) | 5:04 |
+| 54 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
+| 55 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
 | 56 | [Praise The Lord \(Evermore\)](https://open.spotify.com/track/1A82wdBbRssHNP5PZSQctn) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [Mercy Road](https://open.spotify.com/album/4NkTCWHns2QHBm6KW4ToMl) | 4:44 |
 | 57 | [Blameless](https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Blameless](https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj) | 3:54 |
 | 58 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
 | 75 | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st) | 4:39 |
 
-Snapshot ID: `MCw2NmM5YjgyYmEyODZmZmRkNjgzNjIzN2I3MjM4ZjA3ODM4NjZkNjBh`
+Snapshot ID: `MCxlM2FkNzE4ZDA0ZDZjOGI2MjBhZWY5ZjU1M2I2MGM0ZDVlZWU4ZTEy`

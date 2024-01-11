@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 299517,
+  "2024-01-11": 299543,
   "date_first_scraped": "2021-12-28",
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
   "name": "Rap 'n' Roll",
@@ -751,6 +751,32 @@
       "duration_ms": 234933,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/775BVEPx91IuIuR6gxPonE"
+    },
+    {
+      "album": {
+        "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
+        "url": "https://open.spotify.com/album/4lLmkRmIW3GIb6UKjcqrDv"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179201,
+      "name": "GERONIMO",
+      "url": "https://open.spotify.com/track/3fS7dRJWxgz1SCZJPXsymv"
     },
     {
       "album": {
@@ -2395,7 +2421,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 173253,
       "name": "the ground below (feat. Royal Blood) (Royal Jewels Mix)",
       "url": "https://open.spotify.com/track/51MmpaulaAAEMra1gKbGmc"

@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 237525,
+  "2024-01-11": 237627,
   "date_first_scraped": "2021-12-28",
   "description": "Les hits marocains du moment. Cover: ElGrandeToto",
   "name": "Maroc Hits",
@@ -1431,6 +1431,32 @@
       "duration_ms": 176000,
       "name": "Denbi",
       "url": "https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV"
+    },
+    {
+      "album": {
+        "name": "Di Mochkila",
+        "url": "https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Norel",
+          "url": "https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145783,
+      "name": "Di Mochkila",
+      "url": "https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3"
     },
     {
       "album": {
@@ -5497,7 +5523,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 211230,
       "name": "Talet Lghiba",
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"

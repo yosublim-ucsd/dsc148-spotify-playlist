@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 12969,
+  "num_followers": 14057,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjQwM2Y1ZGZmMmEzNGJlYTBhY2U5YzI0ZDFlMDRhNGQzMzA5ZjEy",
+  "snapshot_id": "MCw4OTY0MDg1YjY1MzZhNjE2OWYyZjc1MzljYmNiY2UyODIzMGZlNGM2",
   "tracks": [
     {
       "added_at": "2023-12-26 20:14:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
-        "name": "Azote",
-        "url": "https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8"
-      },
-      "artists": [
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        }
-      ],
-      "duration_ms": 117068,
-      "name": "Azote",
-      "url": "https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
         "name": "Tu Sicaria",
         "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 147013,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
+        "name": "Azote",
+        "url": "https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8"
+      },
+      "artists": [
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        }
+      ],
+      "duration_ms": 117068,
+      "name": "Azote",
+      "url": "https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj"
     },
     {
       "added_at": "2023-12-26 20:14:16",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-12-26 20:14:16",
       "album": {
-        "name": "L-GANTE | Mission 19",
-        "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 170568,
-      "name": "L-GANTE | Mission 19",
-      "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
-    },
-    {
-      "added_at": "2023-12-26 20:14:16",
-      "album": {
         "name": "Baja Sube Sube",
         "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 211404,
       "name": "Baja Sube Sube",
       "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
+    },
+    {
+      "added_at": "2023-12-26 20:14:16",
+      "album": {
+        "name": "L-GANTE | Mission 19",
+        "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 170568,
+      "name": "L-GANTE | Mission 19",
+      "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
     },
     {
       "added_at": "2023-12-26 20:14:16",

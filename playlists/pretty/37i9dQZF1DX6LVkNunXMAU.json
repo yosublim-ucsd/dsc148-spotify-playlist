@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 56378,
+  "num_followers": 56388,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODUyNzgyNzU3ZTZkNGM2MDY1ZjI3MWU2NzY3YzViZDI4MTE0MWNh",
+  "snapshot_id": "MCwwNzJjZWI0OGFhZTlmOTU3MzllOTU2ZDQ0OTE1YjBjYzRkZDJjZDc2",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Eros (Claroscuro)",
-        "url": "https://open.spotify.com/album/2rlEjJNhUnJS8kq95BqrMM"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Eros (Claroscuro)",
-      "url": "https://open.spotify.com/track/0Np2OCGA4rAcUcdaTSjuH3"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "t quiero baby",
         "url": "https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 146250,
       "name": "t quiero baby",
       "url": "https://open.spotify.com/track/3MqMPEIc6pXXJWSpfwhHOq"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Eros (Claroscuro)",
+        "url": "https://open.spotify.com/album/2rlEjJNhUnJS8kq95BqrMM"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Eros (Claroscuro)",
+      "url": "https://open.spotify.com/track/0Np2OCGA4rAcUcdaTSjuH3"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 237978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 237978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Aquellos misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Aquellos misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Mis Amantes",
         "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 229622,
       "name": "Mis Amantes",
       "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Aquellos misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Suerte para m\u00ed",
+        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
+      },
+      "artists": [
+        {
+          "name": "Roki Fernandez",
+          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
+        },
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "Suerte para m\u00ed",
+      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Suerte para m\u00ed",
-        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
-      },
-      "artists": [
-        {
-          "name": "Roki Fernandez",
-          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
-        },
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "Suerte para m\u00ed",
-      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "miel <3",
         "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
       },
@@ -1287,6 +1287,26 @@
       "duration_ms": 203157,
       "name": "miel <3",
       "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Perderse (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Soubir\u00f3n",
+          "url": "https://open.spotify.com/artist/4fr7eMVVZXNnqlYVchk8YP"
+        },
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "duration_ms": 193082,
+      "name": "Perderse - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1443,22 +1463,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "El rey del yuyal",
-        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
-      },
-      "artists": [
-        {
-          "name": "Pens\u00e9 que era viernes",
-          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "El rey del yuyal",
-      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "En una",
         "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
@@ -1475,6 +1479,22 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "El rey del yuyal",
+        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
+      },
+      "artists": [
+        {
+          "name": "Pens\u00e9 que era viernes",
+          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "El rey del yuyal",
+      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1551,26 +1571,6 @@
       "duration_ms": 157725,
       "name": "Lo Que Hicimos",
       "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Perderse (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Soubir\u00f3n",
-          "url": "https://open.spotify.com/artist/4fr7eMVVZXNnqlYVchk8YP"
-        },
-        {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
-        }
-      ],
-      "duration_ms": 193082,
-      "name": "Perderse - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Brancciari",
-          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
-        }
-      ],
-      "duration_ms": 170904,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "LA ARA\u00d1A",
         "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Brancciari",
+          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
+        }
+      ],
+      "duration_ms": 170904,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
     },
     {
       "added_at": "2023-12-15 03:00:00",

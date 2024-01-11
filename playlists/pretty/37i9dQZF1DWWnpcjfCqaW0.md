@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,772 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,750 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Gotta Travel On](https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu) | [Billy Grammer](https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA) | [Gotta Travel On: The Very Best Of Billy Grammar](https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY) | 2:30 |
 | 75 | [Honky Tonk Man](https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [The Essential Johnny Horton](https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN) | 2:10 |
 
-Snapshot ID: `MCxjNzAxMzA2MGM3YmQzNzc5MDVhODA3YWY0ZTI3YmFjMDFlOWQ0NTE5`
+Snapshot ID: `MCxmZDg0OThiMTVmMzAyOWE5YzI1ZGJmMGJiYmRjM2ZjODAzMjg2MWI5`

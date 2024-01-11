@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Problem Patterns
 
-212 songs - 10 hr 34 min
+213 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 | 2023-03-20 |  |
 | [Teenage Runaways](https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 2:59 | 2022-12-02 | 2023-11-18 |
 | [Tell Me I’m Alive](https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:35 | 2023-03-20 |  |
-| [Tequila](https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz) | 1:45 | 2023-03-03 |  |
+| [Tequila](https://open.spotify.com/track/1PzliOzk22FS6GOOLQF9Sy) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R) | 1:45 | 2023-11-13 |  |
+| [Tequila](https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz) | 1:45 | 2023-03-03 | 2024-01-11 |
 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 | 2022-12-02 | 2023-11-18 |
 | [Theme New Bond Junior](https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Theme New Bond Junior](https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx) | 3:16 | 2023-01-18 | 2023-02-10 |
 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY) | 3:21 | 2023-06-20 | 2023-09-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ano
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,413 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,585 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [WINTER COMES AROUND \(冬の一日\)](https://open.spotify.com/track/6bvypBGeI9ReOYMcBTHBQa) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [CAROL \-A DAY IN A GIRL'S LIFE 1991\-](https://open.spotify.com/album/55YpqysFc8THnI6m43SDPi) | 4:41 |
 | 80 | [A DAY IN AUTUMN](https://open.spotify.com/track/2DFpKF3Mhw6Xk6h4lYPXbR) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [GUITARHYTHM](https://open.spotify.com/album/0RNjuJFm9f9aqpuFzRrPL2) | 7:24 |
 
-Snapshot ID: `MCxkYjVlZmVlYTIyOWY5MWJlNGRmYjkyYjZlNDBmZDI2Y2FlMzc4NjEw`
+Snapshot ID: `MCxhMmQzMWRiYTE4MDE0NDE3Yjk5YTVmNDdiM2U0MjE4ODA1Njc2NzZi`

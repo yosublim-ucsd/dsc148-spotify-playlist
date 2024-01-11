@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 195188,
+  "num_followers": 195062,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzA4Y2ZmZjBkYTE3NzZjNjg0NWQ3YTdlYTg0YTJkODU0NGMwYWYx",
+  "snapshot_id": "MCwyMjY4ZTY2Y2YxMGM1YWM2NzQyNzEzM2IxNGNhNGMwNGIwMGMyNmU2",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -99,22 +99,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Brindo Con El Alma",
-        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
+        "name": "Corazon Vallenato",
+        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
         }
       ],
-      "duration_ms": 300760,
-      "name": "Sin Medir Distancias",
-      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
+      "duration_ms": 298826,
+      "name": "Como Duele El Frio",
+      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -135,18 +131,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Corazon Vallenato",
-        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
+        "name": "Brindo Con El Alma",
+        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
       },
       "artists": [
         {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
         }
       ],
-      "duration_ms": 298826,
-      "name": "Como Duele El Frio",
-      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
+      "duration_ms": 300760,
+      "name": "Sin Medir Distancias",
+      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
     },
     {
       "added_at": "2023-02-07 01:31:56",

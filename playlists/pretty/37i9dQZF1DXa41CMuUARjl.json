@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Ti\u00ebsto and FAST BOY",
-  "num_followers": 462048,
+  "num_followers": 462034,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2RmZWJiZGVlYjUwOTI4YzhhOTVkOWQ5Yjc5MzkwZTlkYWVkM2Qy",
+  "snapshot_id": "MCwzM2Q4NTUzMTYxNjU1ZDg5N2UyMzgwYzI5MjRhMTczYWNhN2JmOWFi",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/5if9dLelGqDrZNJZoz81TX"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/51h967zpEh7aFOItCJL5HN"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Off Switch",
         "url": "https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 172158,
       "name": "Off Switch",
       "url": "https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/5if9dLelGqDrZNJZoz81TX"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/51h967zpEh7aFOItCJL5HN"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+      },
+      "artists": [
+        {
+          "name": "Dirty Palm",
+          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "if you didnt want me",
         "url": "https://open.spotify.com/album/5X0wn04hB2EQxTmPKYVdKu"
       },
@@ -931,22 +951,42 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+        "name": "Casa Techno",
+        "url": "https://open.spotify.com/album/76AkxXrNVDZLrDB9dVSdqS"
       },
       "artists": [
         {
-          "name": "Dirty Palm",
-          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
+          "name": "Hypermorph",
+          "url": "https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2"
         },
         {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+          "name": "BRAN",
+          "url": "https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd"
+        },
+        {
+          "name": "Snnr",
+          "url": "https://open.spotify.com/artist/07C1XBLmxv6QkdQSDW1aXc"
         }
       ],
-      "duration_ms": 162187,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
+      "duration_ms": 113345,
+      "name": "Casa Techno",
+      "url": "https://open.spotify.com/track/3aCZ2vtwqEsUfj6W9TMWPs"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -971,46 +1011,6 @@
       "duration_ms": 131123,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/2KXtLayfxTNdLuJUH2s3Lj"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "In The Air",
-        "url": "https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "In The Air",
-      "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Casa Techno",
-        "url": "https://open.spotify.com/album/76AkxXrNVDZLrDB9dVSdqS"
-      },
-      "artists": [
-        {
-          "name": "Hypermorph",
-          "url": "https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2"
-        },
-        {
-          "name": "BRAN",
-          "url": "https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd"
-        },
-        {
-          "name": "Snnr",
-          "url": "https://open.spotify.com/artist/07C1XBLmxv6QkdQSDW1aXc"
-        }
-      ],
-      "duration_ms": 113345,
-      "name": "Casa Techno",
-      "url": "https://open.spotify.com/track/3aCZ2vtwqEsUfj6W9TMWPs"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1047,22 +1047,6 @@
       "duration_ms": 209280,
       "name": "Rise",
       "url": "https://open.spotify.com/track/2oz4YjD0KeD6TXBz36zt18"
-    },
-    {
-      "added_at": "2024-01-05 19:02:34",
-      "album": {
-        "name": "ascend",
-        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
-      },
-      "artists": [
-        {
-          "name": "VILLA",
-          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "ascend",
-      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1145,6 +1129,38 @@
       "url": "https://open.spotify.com/track/0Zp0v6Fd47tdjHdhynPcjr"
     },
     {
+      "added_at": "2024-01-05 19:02:34",
+      "album": {
+        "name": "ascend",
+        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "ascend",
+      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1qsMlMjS1pONCDjuYyQAQg"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2XFQvXYnyoOCLZGsPP83oO"
+    },
+    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Voyage",
@@ -1167,46 +1183,6 @@
       "duration_ms": 188800,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/3jBi0KsSKZrV2NrxGul0P7"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/1qsMlMjS1pONCDjuYyQAQg"
-      },
-      "artists": [
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/2XFQvXYnyoOCLZGsPP83oO"
-    },
-    {
-      "added_at": "2024-01-05 19:02:34",
-      "album": {
-        "name": "Rockets (James Juke's Hot Take)",
-        "url": "https://open.spotify.com/album/37rgI6O8KdY44LsGAZqti7"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        },
-        {
-          "name": "Moe Moks",
-          "url": "https://open.spotify.com/artist/6wwgDxXnmagUtCLbNRFJpF"
-        },
-        {
-          "name": "James Juke",
-          "url": "https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf"
-        }
-      ],
-      "duration_ms": 311052,
-      "name": "Rockets (James Juke's Hot Take)",
-      "url": "https://open.spotify.com/track/4pqxLKBzzhCJYNKkzXZlNa"
     },
     {
       "added_at": "2024-01-05 19:02:34",
@@ -1233,20 +1209,28 @@
       "url": "https://open.spotify.com/track/4iJkmySR14Sgy9nq4dpFnN"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-01-05 19:02:34",
       "album": {
-        "name": "apprehension",
-        "url": "https://open.spotify.com/album/0WEV58E6wztfW2rzOobqs7"
+        "name": "Rockets (James Juke's Hot Take)",
+        "url": "https://open.spotify.com/album/37rgI6O8KdY44LsGAZqti7"
       },
       "artists": [
         {
-          "name": "In Explosions",
-          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        },
+        {
+          "name": "Moe Moks",
+          "url": "https://open.spotify.com/artist/6wwgDxXnmagUtCLbNRFJpF"
+        },
+        {
+          "name": "James Juke",
+          "url": "https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf"
         }
       ],
-      "duration_ms": 216831,
-      "name": "apprehension",
-      "url": "https://open.spotify.com/track/2ZJcIP3JIyFhYmTFUWQD74"
+      "duration_ms": 311052,
+      "name": "Rockets (James Juke's Hot Take)",
+      "url": "https://open.spotify.com/track/4pqxLKBzzhCJYNKkzXZlNa"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Cynosure",
-        "url": "https://open.spotify.com/album/1BYe7ZcWoUgbiYCc4KCpRw"
+        "name": "apprehension",
+        "url": "https://open.spotify.com/album/0WEV58E6wztfW2rzOobqs7"
       },
       "artists": [
         {
-          "name": "hxly xo",
-          "url": "https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH"
+          "name": "In Explosions",
+          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Cynosure",
-      "url": "https://open.spotify.com/track/3dEASjlOMA7smhwFr1fmbV"
+      "duration_ms": 216831,
+      "name": "apprehension",
+      "url": "https://open.spotify.com/track/2ZJcIP3JIyFhYmTFUWQD74"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 213750,
       "name": "Quaestio (i've got a question babe)",
       "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Cynosure",
+        "url": "https://open.spotify.com/album/1BYe7ZcWoUgbiYCc4KCpRw"
+      },
+      "artists": [
+        {
+          "name": "hxly xo",
+          "url": "https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Cynosure",
+      "url": "https://open.spotify.com/track/3dEASjlOMA7smhwFr1fmbV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Talk Tonight",
-        "url": "https://open.spotify.com/album/7fZcXQ60WN1MUZ0OEuR6yg"
-      },
-      "artists": [
-        {
-          "name": "Paul Thomas",
-          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
-        }
-      ],
-      "duration_ms": 210491,
-      "name": "Talk Tonight",
-      "url": "https://open.spotify.com/track/4GFicOf3NaNaSfji7FDmv8"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/064YiFC6QvVkVzVuiDJJe2"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 241874,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/2M2rJJedq1qpGEgmUyJGUl"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Talk Tonight",
+        "url": "https://open.spotify.com/album/7fZcXQ60WN1MUZ0OEuR6yg"
+      },
+      "artists": [
+        {
+          "name": "Paul Thomas",
+          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Talk Tonight",
+      "url": "https://open.spotify.com/track/4GFicOf3NaNaSfji7FDmv8"
     },
     {
       "added_at": "2024-01-05 05:00:00",

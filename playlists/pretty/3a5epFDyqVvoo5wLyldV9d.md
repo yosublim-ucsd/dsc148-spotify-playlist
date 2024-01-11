@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 733 songs - 2 day 8 hr 52 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 734 songs - 2 day 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -741,5 +741,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 731 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 |
 | 732 | [Win Terram](https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 4:07 |
 | 733 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 |
+| 734 | [Não Me Deixe Só](https://open.spotify.com/track/2ukW9zOr51AYeLSmCtTVqW) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vanessa da Mata](https://open.spotify.com/album/0nJlVbn9dl3amtTFETNX8j) | 3:09 |
 
-Snapshot ID: `ODI1LGE4ZmUyNDljNDJjMjMxNjc1NmJmN2NlNzc5ZDNiNjkwODRkNGVlYjU=`
+Snapshot ID: `ODI2LDA4ZGFlMGE1NmYzNDYxNzQ4NDhjNDkzMDQ3MDgxM2FiZDQ5MjI1ODA=`

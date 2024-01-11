@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 160401,
+  "num_followers": 160464,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTA0YWEyMTQ3NWY2NWRkZjgxZDAyY2FmMGVmNGYxZmYxNTBkNzQz",
+  "snapshot_id": "MCxmNWY4ZTkwYTAyM2QzZDQzYmZhMTQwODI1NzM5ZmMwMzliNWQ3ZTI5",
   "tracks": [
     {
       "added_at": "2024-01-03 18:31:37",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Vengo Del Placard De Otro",
         "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
+      "duration_ms": 256385,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 256385,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
+      "duration_ms": 188586,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 244066,
+      "name": "El Balneario de los Doctores Crotos",
+      "url": "https://open.spotify.com/track/1SmH3Jv3V73B8vPb3p0N3M"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Gladiadores del rock",
         "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 269331,
       "name": "Sacrificio y Rock N' Roll",
       "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c"
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 244066,
-      "name": "El Balneario de los Doctores Crotos",
-      "url": "https://open.spotify.com/track/1SmH3Jv3V73B8vPb3p0N3M"
+      "duration_ms": 241946,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Vine Hasta Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Incompleto - 20 Rocanroles 20",
         "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 128597,
       "name": "Caer",
       "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Vine Hasta Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U"
     },
     {
       "added_at": "2024-01-03 18:31:37",

@@ -1,28 +1,32 @@
 {
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Jhen\u00e9 Aiko",
-  "num_followers": 120221,
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Maeta",
+  "num_followers": 120172,
   "original_name": "Douces Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWQyYzBhZjVkMjI5MzYwNjcwYmViMWRhYzcxMTc4MTgzMGY5ZDVm",
+  "snapshot_id": "MCwwOGI5MzAzYjgxM2FhNDlmY2Y5YzhiZTk3MzRiNjY5NDZlYjIwN2E3",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Sun/Son",
-        "url": "https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24"
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/6owNWjSOZiMUKgGfRShwxN"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
         }
       ],
-      "duration_ms": 176197,
-      "name": "Sun/Son",
-      "url": "https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB"
+      "duration_ms": 258023,
+      "name": "Through The Night (feat. Free Nationals)",
+      "url": "https://open.spotify.com/track/0lpo9c5J9uOZqMsXEei1gV"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -155,26 +159,6 @@
       "duration_ms": 224606,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/6owNWjSOZiMUKgGfRShwxN"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        },
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
-        }
-      ],
-      "duration_ms": 258023,
-      "name": "Through The Night (feat. Free Nationals)",
-      "url": "https://open.spotify.com/track/0lpo9c5J9uOZqMsXEei1gV"
     },
     {
       "added_at": "2024-01-04 23:00:00",

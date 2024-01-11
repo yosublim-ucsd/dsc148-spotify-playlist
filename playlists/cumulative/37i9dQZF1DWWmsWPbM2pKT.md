@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-239 songs - 14 hr 50 min
+240 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 | 2020-12-21 | 2023-04-09 |
 | [Only Human](https://open.spotify.com/track/0SZCVG64kopl8QwXiFHUPB) | [Cold Showers](https://open.spotify.com/artist/101BwjqEzjeBNjiYDnLZwC) | [Matter of Choice](https://open.spotify.com/album/473EnwpDsDw4wiNMiQWBSe) | 3:42 | 2023-08-31 |  |
 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 | 2023-08-31 |  |
-| [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 | 2023-01-06 |  |
+| [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 | 2023-01-06 | 2024-01-11 |
+| [Pain](https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3) | 7:19 | 2023-08-31 |  |
 | [Paradise](https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Paradise](https://open.spotify.com/album/2IjroX0bM8miBvBTqDRsKJ) | 5:35 | 2020-12-21 | 2023-09-01 |
 | [Paralyzed](https://open.spotify.com/track/0ECf6YrheBrgqZpnFpuE1r) | [Glaring](https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE) | [Paralyzed](https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0) | 2:25 | 2023-08-31 |  |
 | [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet EP](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 | 2023-08-31 |  |

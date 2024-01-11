@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,673 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,694 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 4 | [Plaster](https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [CERBER EP](https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU) | 2:35 |
 | 5 | [Kevin sam w domu](https://open.spotify.com/track/0DhKkQjcrOXLBr9eCtocfc) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Venom Valentino](https://open.spotify.com/artist/4QqbTDfK1yAeJuNaPTivXy), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [Kevin sam w domu](https://open.spotify.com/album/6oUD84BY3ycUXnlfqSnj27) | 2:51 |
 | 6 | [Rockstar](https://open.spotify.com/track/6jkv6KmJE7UES9ohRonubH) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Rockstar](https://open.spotify.com/album/7sLSvYKAzt6HAHYecid92B) | 2:12 |
-| 7 | [WIFEY](https://open.spotify.com/track/5cCR8Aj1UcwiQLwGC1MrDY) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn) | [WIFEY](https://open.spotify.com/album/359CWpeVe8HhxFORUDg0R5) | 1:55 |
+| 7 | [WIFEY](https://open.spotify.com/track/5cCR8Aj1UcwiQLwGC1MrDY) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD) | [WIFEY](https://open.spotify.com/album/359CWpeVe8HhxFORUDg0R5) | 1:55 |
 | 8 | [W KRAJU SCHABOWYCH KOTLETÓW](https://open.spotify.com/track/2r0tCQsTvEwkKEcZ9pYwZt) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [2038: WARSZAWA](https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7) | 4:38 |
 | 9 | [Tokyo \(współczesny\)](https://open.spotify.com/track/4wHLny6TgycJSuZ2bKWB11) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Szamz](https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo) | [Tokyo \(współczesny\)](https://open.spotify.com/album/4xFeOFO03URRQdrsqYEzBK) | 3:23 |
-| 10 | [HIPNOZA](https://open.spotify.com/track/4EHHB2Gfa9d4iPx8JsCd65) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/0SbsZJNseQli1WfvPcgDzm) | 3:14 |
+| 10 | [HIPNOZA](https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY) | 3:14 |
 | 11 | [CEO](https://open.spotify.com/track/4ltVdPcmgfSlsicK4ZIQGT) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Worek](https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [CEO](https://open.spotify.com/album/3qlVzxQDjvapwFS3IJ9YE4) | 2:50 |
 | 12 | [PASEK PLAYBOYA](https://open.spotify.com/track/6g76ndArDHwMe3OsrYxKiu) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [DJ VaZee](https://open.spotify.com/artist/5y79U6ikVqnS3iLwZ6MKCD) | [PASEK PLAYBOYA](https://open.spotify.com/album/6n6FITNz4ga6EW0JYFu4Gh) | 2:22 |
 | 13 | [Rolly](https://open.spotify.com/track/4NGn7ZjI1Ex9ZjcbOa6KNt) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Rolly](https://open.spotify.com/album/1Yond5KCOeMaRSmw1ZZq0Q) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Mam tego dosc](https://open.spotify.com/track/6MgrEuRmMqJehuUccTghuz) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Mam tego dosc](https://open.spotify.com/album/09g8glEP1EWCtUPbR7bX8A) | 1:58 |
 | 50 | [noWy baTmAN](https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [noWy baTmAN](https://open.spotify.com/album/5IjxyKPttlngllJPFmfSeE) | 2:49 |
 
-Snapshot ID: `MCxkYWVjNWQ4NjNkZDUwYTJhY2NlMDkyZDdkNzg5YWY5MTU0MGExMTQz`
+Snapshot ID: `MCw0Yjc4MWE3N2FmNGMxNDNjOTlhMjIyMTRkZTljODJlOGZkNmVmZmM5`

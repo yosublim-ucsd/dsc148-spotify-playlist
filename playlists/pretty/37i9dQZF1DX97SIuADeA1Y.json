@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 330370,
+  "num_followers": 330461,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGVlYzMxOWJiOGViNjg1YWI4N2NjYmNlMjJlNDQ3MGFmMThjMTJl",
+  "snapshot_id": "MCwwYzJiYzkxMzA0ZWFjYjdjNDgzYWU3ZDVlMjU0NjllZjk4N2IwOGU5",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -171,22 +171,18 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
         }
       ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
+      "duration_ms": 128951,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -211,18 +207,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
       },
       "artists": [
         {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
         }
       ],
-      "duration_ms": 128951,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Redlight",
-        "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 177780,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Club Romantech",
         "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Redlight",
+        "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 177780,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
     },
     {
       "added_at": "2023-12-01 11:00:00",

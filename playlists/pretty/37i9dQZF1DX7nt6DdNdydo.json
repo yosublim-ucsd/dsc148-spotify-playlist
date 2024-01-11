@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 47317,
+  "num_followers": 47324,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWU1NmNlZjg0NGIzODM0ZDE5NzUwYTNhMzgwMTBiNjZjNmNmYzBm",
+  "snapshot_id": "MCw2NDQ3M2UxMjM1NjEzNzM3NjQ0NzM3MWZjNmZjM2Y1MWY2NzZkYjY1",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Jump Blue: Rockin' The Jukes",
-        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
       "artists": [
         {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
         }
       ],
-      "duration_ms": 124333,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+        "name": "Jump Blue: Rockin' The Jukes",
+        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
         }
       ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
+      "duration_ms": 124333,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Joe Williams' Finest Hour",
+        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 371893,
+      "name": "Is You Is Or Is You Ain't My Baby",
+      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 190706,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Joe Williams' Finest Hour",
-        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 371893,
-      "name": "Is You Is Or Is You Ain't My Baby",
-      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
     },
     {
       "added_at": "2022-03-28 19:44:25",

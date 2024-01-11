@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 4254,
+  "2024-01-11": 4259,
   "date_first_scraped": "2023-09-11",
   "description": "\u6642\u306b\u306f\u3001\u601d\u3044\u3063\u304d\u308a\u30e9\u30a6\u30c9\u306a\u97f3\u306b\u611f\u60c5\u3092\u4e57\u305b\u3066\u30b7\u30e3\u30a6\u30c8\u3002 Shout your heart out with these loud tracks. ",
   "name": "ANGRY ANGRY",
@@ -271,7 +271,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 150966,
       "name": "Destruction Sisters",
       "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 216133,
       "name": "i don't wanna be",
       "url": "https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg"
@@ -1086,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Song For The Weak.",
+        "url": "https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6"
+      },
+      "artists": [
+        {
+          "name": "DEVILOOF",
+          "url": "https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314130,
+      "name": "Song For The Weak.",
+      "url": "https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr"
+    },
+    {
+      "album": {
         "name": "STARS",
         "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
       },
@@ -1195,6 +1213,24 @@
       "duration_ms": 190840,
       "name": "Unleash!!!!!",
       "url": "https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H"
+    },
+    {
+      "album": {
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/353yfUyCKvr6jTcudZAE3w"
+      },
+      "artists": [
+        {
+          "name": "Doul",
+          "url": "https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "Vengeance",
+      "url": "https://open.spotify.com/track/2y0gkLQbblihOimgloMCPS"
     },
     {
       "album": {

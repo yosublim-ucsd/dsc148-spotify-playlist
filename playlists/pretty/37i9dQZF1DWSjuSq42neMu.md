@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 
 > todo un mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,890 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,650 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 93 | [Air Drop](https://open.spotify.com/track/1oP4qehV9MBDaA89mfb1HR) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Air Drop](https://open.spotify.com/album/192gtUhOd7vfdp5ZHaQrGm) | 3:25 |
 | 94 | [Polvo](https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Polvo](https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB) | 3:31 |
 | 95 | [Fragancia](https://open.spotify.com/track/5URNvRGY4fqoaWTkBJpOiH) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Fragancia](https://open.spotify.com/album/2C85n4dvEGR9SnvTYFmWMy) | 3:57 |
-| 96 | [Infiel \- Remix](https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Infiel \(Remix\)](https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf) | 4:57 |
-| 97 | [My Love](https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [My Love](https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn) | 3:34 |
+| 96 | [My Love](https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [My Love](https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn) | 3:34 |
+| 97 | [Infiel \- Remix](https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Infiel \(Remix\)](https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf) | 4:57 |
 | 98 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 |
 | 99 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 |
 | 100 | [Qué Más Pues](https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:23 |
 
-Snapshot ID: `MCw0MDdkNTY3NWRkMWY0OWRhN2Y3ZmQ1MjgzZTQ0ZGY4MWFiMjVlMzNl`
+Snapshot ID: `MCwyYmM0YTBhMDI1ODZkOGViYTIwMzM5Y2I5MmI5YTI5OTAyYjYyZWZm`

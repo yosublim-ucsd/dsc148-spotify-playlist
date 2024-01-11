@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 14832,
+  "num_followers": 14881,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTE0ZmM3Yzg2ODExZjk1OTgyYzU2NzYyZGI0ODI4ZWEyY2UwMDgz",
+  "snapshot_id": "MCw3ZjhjMjE5NjMxNGRhOGQzNjAxNmU1NjE4MjE0ZTVkMDRmNWNhZDEx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Steppers",
+        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Steppers",
+      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Just A Matter of Slime",
         "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 186894,
       "name": "Thugged Out (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Steppers",
-        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
-      },
-      "artists": [
-        {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Steppers",
-      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
     },
     {
       "added_at": "2022-10-01 16:17:17",

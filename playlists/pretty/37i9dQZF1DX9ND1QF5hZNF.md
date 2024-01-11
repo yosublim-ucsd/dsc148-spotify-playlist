@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,660 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,420 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 49 | [Sunsets](https://open.spotify.com/track/0PPdGlXl0Djfmp1IolZpZ1) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Sunsets](https://open.spotify.com/album/5w96i0VsQxI1eP8rDLOERy) | 2:32 |
 | 50 | [The Journey](https://open.spotify.com/track/7Js278ET3O52ymQd8LU5bq) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Soul Vibrations](https://open.spotify.com/album/1U8SQTNw2R6XgQ4RGfe8kF) | 3:51 |
 
-Snapshot ID: `MCwzOTI1MjNiNTNjNWQyNzA0ZDBjODQzNDQ4YmI0ZjJkZTRiMWNjNzU4`
+Snapshot ID: `MCxhYWFiNDg2NTAwOGRjM2MwZjgwZmMzMTUzNmYzNzJjMWRiM2NkZjQw`

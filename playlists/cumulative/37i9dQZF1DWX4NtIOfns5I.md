@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> where folk flowers bloom\. cover: tiny habits <3
+> where folk flowers bloom..\. artists to watch edition 🪻 cover: Paris Paloma <3
 
-153 songs - 9 hr 0 min
+154 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [kid](https://open.spotify.com/track/4F0jYIYcVtiH5OM6fpN7Gb) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [kid](https://open.spotify.com/album/6WSJyY3FStkw7JXZaU5VHa) | 3:11 | 2023-12-08 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-10-06 |  |
 | [Lady Loveless](https://open.spotify.com/track/1Tfm1Y148BjWWDVeAZsni3) | [Atticus Walker](https://open.spotify.com/artist/5KNZrn88ZyzzpN8KqGrRgo) | [Lady Loveless](https://open.spotify.com/album/0PukY078qgKTdgOgidmdhy) | 1:46 | 2023-10-06 |  |
+| [Lake Missoula](https://open.spotify.com/track/4x1dWc1GgAfC04GcTlllax) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:46 | 2024-01-10 |  |
 | [Lavender](https://open.spotify.com/track/4de2JSToOh98pnNxgDier8) | [Gemma Laurence](https://open.spotify.com/artist/2sNPTD3BelCCJaH18PmeKm) | [Lavender](https://open.spotify.com/album/7bhq8QWXhDkmRnP0WX5LK0) | 3:36 | 2023-10-06 |  |
 | [Like a Brother](https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Like a Brother](https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM) | 3:32 | 2023-10-06 |  |
 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-08 |  |

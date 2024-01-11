@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,547 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,616 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [Higher](https://open.spotify.com/track/39lxs02zC9wpqB0sxufKKI) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Higher](https://open.spotify.com/album/3qIJqbxuiYCwwGVLkLSZ1P) | 3:01 |
 | 50 | [Frisky \(feat\. Labrinth\)](https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Disc\-Overy](https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr) | 4:55 |
 
-Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAwZTNlOTRiZmI2NDFkY2IwNzE1ZTcyYjM5NDYxYzVjNA==`
+Snapshot ID: `Mjg0MTQ5MTgsMDAwMDAwMDA2MDNmZTIzN2YyNTJlZjc1NTRjZWRhZjcwZDkwM2QyOQ==`

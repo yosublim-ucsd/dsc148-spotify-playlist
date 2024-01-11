@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-967 songs - 2 day 7 hr 9 min
+970 songs - 2 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [451](https://open.spotify.com/track/3M6R3MaIkliOaZQ4YX67W1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [451](https://open.spotify.com/album/36NUlhlgw0Nkj1uYrkckHB) | 3:29 | 2023-03-08 | 2023-04-07 |
 | [525](https://open.spotify.com/track/2F0gKvdv9eN0YLRrCpTW7w) | [世ナ世ナ](https://open.spotify.com/artist/23Mdb6eBRkpX6R7D0M6vox) | [525](https://open.spotify.com/album/0eG2cBuUZAomqhFs3IyIqO) | 4:21 | 2022-09-14 | 2022-09-21 |
 | [ABAKU](https://open.spotify.com/track/1JKuHfwECMzPoPx9kywpZo) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ABAKU](https://open.spotify.com/album/2fwKQpDj9viNcHcGnByd0z) | 3:58 | 2022-06-09 | 2022-07-21 |
-| [Abyss\-Over](https://open.spotify.com/track/3vvygyjWxhTYKCyb8FI7g3) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/5nGHLmItbkt5eUKAwns41k) | 3:52 | 2024-01-09 |  |
+| [Abyss\-Over](https://open.spotify.com/track/1EN4v238bm5XLgjT3qa323) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/1WN888rItH426MpIBh4zcq) | 3:52 | 2024-01-09 |  |
+| [Abyss\-Over](https://open.spotify.com/track/3vvygyjWxhTYKCyb8FI7g3) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/5nGHLmItbkt5eUKAwns41k) | 3:52 | 2024-01-09 | 2024-01-11 |
 | [Abyssal Zone](https://open.spotify.com/track/7x5gRQJ6LJQ0MRXzUFlCVr) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [Abyssal Zone](https://open.spotify.com/album/3cWo4ZAITdK2iHT1t0ZHLB) | 3:14 | 2022-06-30 | 2022-07-22 |
 | [Alice in 冷凍庫](https://open.spotify.com/track/2uUZ5xWKmvnY1r5B0ACgb4) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [ひとのうた](https://open.spotify.com/album/50dBbJbsF0mw4JZPeEHtly) | 5:42 | 2023-02-21 | 2023-02-23 |
 | [Alien](https://open.spotify.com/track/2J9ZDla6aexjsx8OKfvQKA) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [Alien](https://open.spotify.com/album/2sXsMJYhVvtubUdH5yBAxW) | 2:32 | 2022-07-26 | 2022-07-28 |
@@ -290,6 +291,7 @@
 | [Shasai](https://open.spotify.com/track/5Wpc0b0sUVtQ6m2u2fW5ZY) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Shasai](https://open.spotify.com/album/1zz1GyAxNbd8uG9w2v1SEq) | 3:07 | 2022-09-01 | 2022-09-07 |
 | [Shinjitsu Tsuka](https://open.spotify.com/track/1FQSzS7okTj6aExWodKXXL) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [Shinjitsu Tsuka](https://open.spotify.com/album/0cLu3Nqq30PGbG47dQ9HHm) | 3:27 | 2022-10-06 | 2022-10-12 |
 | [Shinkirou](https://open.spotify.com/track/2GJ4wf1R6fZaVgkzV3jbdz) | [HIMEGOTO](https://open.spotify.com/artist/7tDvpqwyQJ1HvksTwHaMQ6) | [Shinkirou](https://open.spotify.com/album/75n2DTZV1tfeBoLihLSWY7) | 5:33 | 2022-10-04 | 2022-10-19 |
+| [Shinya32ji](https://open.spotify.com/track/70vSGhVgPT69ElJcenLSAr) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [Shinya32ji](https://open.spotify.com/album/2hXK6XXRFU57r0HERNCsrH) | 3:32 | 2024-01-09 |  |
 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2022-12-02 | 2023-01-20 |
 | [Shiritai](https://open.spotify.com/track/04iVugMr9elupIsmDVwaDq) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Shiritai](https://open.spotify.com/album/5oxdlAISKzaDASZT2UFojf) | 3:07 | 2023-11-29 | 2023-12-20 |
 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-05 | 2023-09-13 |
@@ -333,6 +335,7 @@
 | [Undead](https://open.spotify.com/track/63ng1fu3aFiRjVVE16PgRr) | [Misenaikuseni](https://open.spotify.com/artist/3LT0QrcTVc7pzZ9WgoLwNS) | [Undead](https://open.spotify.com/album/02wdhJ2fbR7VBcYXdOcaqc) | 3:53 | 2022-09-08 | 2022-09-15 |
 | [Under Heroine](https://open.spotify.com/track/2zBVf4UksFsBShmvdFyPRM) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Heroine](https://open.spotify.com/album/2KXssCdlyzlErLV5SPANHs) | 2:48 | 2023-04-25 | 2023-05-17 |
 | [Under Kids](https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Kids](https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh) | 3:26 | 2022-08-04 | 2022-09-09 |
+| [UnhappyNightTime](https://open.spotify.com/track/3mecOlb2x2jotPCvjks6zZ) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [UnhappyNightTime](https://open.spotify.com/album/45dbvwos7Zvge33pbNsu7l) | 3:38 | 2024-01-09 |  |
 | [Unique](https://open.spotify.com/track/3DyaoTV9RUix1P7jKomn2d) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [Unique](https://open.spotify.com/album/38p2AoETPhydnxMHd7wkMl) | 4:20 | 2022-06-16 | 2022-06-18 |
 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 | 2023-12-22 |  |
 | [Untouchable](https://open.spotify.com/track/060Xp31LRG4Ob8yy700GMG) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Untouchable](https://open.spotify.com/album/1UDryR2OAvsKnKmD15Nfcv) | 3:15 | 2022-06-28 | 2022-07-08 |
@@ -458,7 +461,7 @@
 | [アンチテーゼ貴様 \-改\-](https://open.spotify.com/track/0UDJKgDp60Qiq06BNnVEwf) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [アンチテーゼ貴様 \-改\-](https://open.spotify.com/album/2YBG927bnt3cfIzqEufmzK) | 3:13 | 2022-09-27 | 2022-09-29 |
 | [アンデッド](https://open.spotify.com/track/7mJasHPXBQ7WEek6Di0HQe) | [ミセナイクセニ](https://open.spotify.com/artist/1nTcWnlqJNMo9VvBiWQsxH) | [アンデッド](https://open.spotify.com/album/2mxHXFqXh8E0wPO3sjukgX) | 3:53 | 2022-09-08 | 2022-09-11 |
 | [アンノウン・マザーグース](https://open.spotify.com/track/6SAj7hyttV1vKAsFvAo3D1) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [アンノウン・マザーグース](https://open.spotify.com/album/40Q5s7zMSDgetuOHOFmZAi) | 4:44 | 2023-04-11 | 2023-10-13 |
-| [アンハッピーナイトタイム](https://open.spotify.com/track/5VNBIOUEtUFOxwIkIlvHhh) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [アンハッピーナイトタイム](https://open.spotify.com/album/32NkAbjiC8kRYoATGVdE9v) | 3:38 | 2024-01-09 |  |
+| [アンハッピーナイトタイム](https://open.spotify.com/track/5VNBIOUEtUFOxwIkIlvHhh) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [アンハッピーナイトタイム](https://open.spotify.com/album/32NkAbjiC8kRYoATGVdE9v) | 3:38 | 2024-01-09 | 2024-01-11 |
 | [アンバームーン](https://open.spotify.com/track/2VToJNakkBmwEvZxKS692u) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [アンバームーン](https://open.spotify.com/album/6lZOqqJmvpxyCB3UAbZiXW) | 3:22 | 2022-07-21 | 2022-07-23 |
 | [アーメン・ナンマイダ・カンパイ!](https://open.spotify.com/track/5XimesvdA6eITqdno4aL9g) | [リリぴ](https://open.spotify.com/artist/7mk9NIekDtJcmkHuW0YGeF) | [アーメン・ナンマイダ・カンパイ!](https://open.spotify.com/album/2hDa94YdiK2dfTnVf39pTY) | 2:37 | 2022-07-24 | 2022-07-27 |
 | [イエロウ](https://open.spotify.com/track/13PiYYktV3bZXV6WReyNk8) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [イエロウ](https://open.spotify.com/album/5pxTFG0piWQz3ieHSrkZEz) | 3:48 | 2022-06-28 | 2022-07-26 |
@@ -834,7 +837,7 @@
 | [消えろ](https://open.spotify.com/track/0zDpnig8f0tRZxScjZVyKN) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [消えろ](https://open.spotify.com/album/0NKAHtQ6xW7xAVfa3mcDRm) | 3:26 | 2022-06-28 | 2022-06-30 |
 | [涙の融点](https://open.spotify.com/track/4rCTcnw3ZitCRbCtsCa0QX) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [涙の融点](https://open.spotify.com/album/0LvctQtKfApZhKBaIyq5dr) | 4:32 | 2022-06-09 | 2022-06-13 |
 | [涙も出ない](https://open.spotify.com/track/1AEhZ4IJn3MdbHYtjJxSv1) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [涙も出ない](https://open.spotify.com/album/30kdM6IUVQ0mlES8WrIJrU) | 2:01 | 2022-07-21 | 2022-07-24 |
-| [深夜32時](https://open.spotify.com/track/0LwjWqiPcuQQAxQAffScUJ) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [深夜32時](https://open.spotify.com/album/5dOfSNsvPZ5UUZRaVaunbO) | 3:32 | 2024-01-09 |  |
+| [深夜32時](https://open.spotify.com/track/0LwjWqiPcuQQAxQAffScUJ) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [深夜32時](https://open.spotify.com/album/5dOfSNsvPZ5UUZRaVaunbO) | 3:32 | 2024-01-09 | 2024-01-11 |
 | [深海に漂う](https://open.spotify.com/track/0hlhppgFY0ElfAqKKmcoVS) | [群咲](https://open.spotify.com/artist/7IvxuWvEbn7WlpW1ak79ZS) | [明日こそ](https://open.spotify.com/album/3VCofw93hhJJyshDeq12NA) | 3:13 | 2022-06-16 | 2022-07-15 |
 | [湿っぽいね](https://open.spotify.com/track/4O85Ve9K1hm89su7d8ipKd) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [相沢](https://open.spotify.com/artist/4XyqVjWt0pEOIM5yZnpyxb), [式浦躁吾](https://open.spotify.com/artist/64tqgUSdRPy0Kl8KmvBj8s) | [湿っぽいね](https://open.spotify.com/album/1uyERA9oAKcMGofnpTI8fy) | 1:47 | 2023-09-12 | 2023-11-16 |
 | [漂泊者](https://open.spotify.com/track/5eisYTV3P9IltJsKBuHasM) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Hypnotize](https://open.spotify.com/album/4ZN7YVrRO7uGeAchbVMmBm) | 3:42 | 2022-08-25 | 2022-08-31 |

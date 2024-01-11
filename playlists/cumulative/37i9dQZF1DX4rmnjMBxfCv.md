@@ -2,7 +2,7 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
+> The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
 189 songs - 12 hr 36 min
 

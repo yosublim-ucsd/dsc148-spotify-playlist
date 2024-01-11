@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 220786,
+  "num_followers": 220769,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGJlYWFkMzNiZjUyOThmMTVlOGM3ZTMyZDVhMTJjMDdiN2ViNGM0",
+  "snapshot_id": "MCw0ZTI5M2RjMzY3NGFiOTlkYzI0NGNkZDEyMWQ3OTg4NWNlOGE1Y2Q4",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Here's Larry Williams",
+        "url": "https://open.spotify.com/album/0IezgTiPL0BoQuujiGQvVZ"
+      },
+      "artists": [
+        {
+          "name": "Larry Williams",
+          "url": "https://open.spotify.com/artist/5NBY8xM51dP3UGR7bwjLD6"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Short Fat Fannie",
+      "url": "https://open.spotify.com/track/5xAkEg9CI3rxXFV8mdbSyp"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 94906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Here's Larry Williams",
-        "url": "https://open.spotify.com/album/0IezgTiPL0BoQuujiGQvVZ"
-      },
-      "artists": [
-        {
-          "name": "Larry Williams",
-          "url": "https://open.spotify.com/artist/5NBY8xM51dP3UGR7bwjLD6"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Short Fat Fannie",
-      "url": "https://open.spotify.com/track/5xAkEg9CI3rxXFV8mdbSyp"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Magic Touch: An Anthology",
         "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 157760,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Up on the Roof: The Best of the Drifters",
+        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 155053,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Best Of Bobby Lester And The Moonglows",
         "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 166586,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Up on the Roof: The Best of the Drifters",
-        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 155053,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
     },
     {
       "added_at": "2021-02-12 10:06:47",

@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 21 | [Then People Forget](https://open.spotify.com/track/3tvYy58ntsK4Gr3ZPp2fop) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:31 |
 | 22 | [Albert Suffers](https://open.spotify.com/track/6mRqJM62E7KH4zXOWvFmAt) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:06 |
 
-Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA2OTNmZDQ0YmFlYzhmNDIwMzNiMDUyOGE2OWFmMTllMA==`
+Snapshot ID: `Mjg0MTQ5MTgsMDAwMDAwMDA1NjljNzYyYjg2Mjk4MTliMzFjMTBjMWY2MDZmZjgyMQ==`

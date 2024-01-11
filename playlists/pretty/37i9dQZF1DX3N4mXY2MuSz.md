@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,044 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,009 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 21 | [Making Christmas](https://open.spotify.com/track/2W9IyiUawRDws73eD1zsDE) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 3:27 |
 | 22 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
 | 23 | [Nothing For Christmas](https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:35 |
-| 24 | [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 |
+| 24 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 |
 | 25 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
 | 26 | [Boxing Day](https://open.spotify.com/track/6uDMP9Hlgy2FemC6sp9ZRt) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:59 |
-| 27 | [Christmas Every Day](https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Christmas Every Day](https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL) | 3:46 |
-| 28 | [O Come, O Come Emmanuel](https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 2:07 |
-| 29 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 |
+| 27 | [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 |
+| 28 | [Christmas Every Day](https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Christmas Every Day](https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL) | 3:46 |
+| 29 | [O Come, O Come Emmanuel](https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 2:07 |
 | 30 | [Santa Tell Me](https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [Santa Tell Me](https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8) | 3:23 |
 | 31 | [Fool's Holiday](https://open.spotify.com/track/3s44CRFEl7bbZcYoervR3L) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:43 |
 | 32 | [The Christmas Song](https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 3:08 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 49 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
 | 50 | [Deadbeat Holiday](https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:35 |
 | 51 | [I Had A Heart](https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 2:37 |
-| 52 | [You’re a Mean One, Mr\. Grinch](https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 2:12 |
-| 53 | [Right Where You Want Me To Be](https://open.spotify.com/track/58qF66l5z6MuoZiUVcF9zS) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Attack Of The Killer B\-Sides](https://open.spotify.com/album/7fd8ive8XSSC9iVlop89AC) | 3:42 |
+| 52 | [Right Where You Want Me To Be](https://open.spotify.com/track/58qF66l5z6MuoZiUVcF9zS) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Attack Of The Killer B\-Sides](https://open.spotify.com/album/7fd8ive8XSSC9iVlop89AC) | 3:42 |
+| 53 | [You’re a Mean One, Mr\. Grinch](https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 2:12 |
 | 54 | [Skank For Christmas](https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:48 |
-| 55 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
+| 55 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
 | 56 | [Somewhere in My Memory](https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Somewhere in My Memory](https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa) | 2:29 |
 | 57 | [Punk Rawk Christmas](https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:20 |
 | 58 | [Father Christmas](https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 99 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 100 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 |
 
-Snapshot ID: `MCw4Mzg4ZTgxODQ3YWYyZGViYWUzNmY2YTYzNDMzYmJmNmQ2ZGMyMzYz`
+Snapshot ID: `MCxkMTRmYWYyM2I0MjgzOGZkZDk1YTg4Y2JhMzQ4YmUxOTUyMTk1MTg2`

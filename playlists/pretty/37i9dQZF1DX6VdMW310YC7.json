@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3704334,
+  "num_followers": 3702822,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2M0Y2U0MDNlNDA2MjcyOTVkODJlMzEzMmIzNTA0YjhmZGUwZTg3",
+  "snapshot_id": "MCwxM2U1M2E0NDhhZWU4MTFjMWQ2ZTk3YjRhNDVmOGFiMTc1MGMxYzM1",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 195004,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/5UTqHC0FtWx9zPKvva8i9v"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Perfect Mistakes",
         "url": "https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 233804,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 195004,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/5UTqHC0FtWx9zPKvva8i9v"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Turning Away (Parra for Cuva Remix)",
-        "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 261538,
-      "name": "Turning Away - Parra for Cuva Remix",
-      "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Into The Bloom",
         "url": "https://open.spotify.com/album/6mekDyVlyHqCPacthWRtP5"
       },
@@ -763,22 +743,42 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+        "name": "Turning Away (Parra for Cuva Remix)",
+        "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         },
         {
-          "name": "Hero Baldwin",
-          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         }
       ],
-      "duration_ms": 284563,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
+      "duration_ms": 261538,
+      "name": "Turning Away - Parra for Cuva Remix",
+      "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -807,38 +807,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Hero Baldwin",
+          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
         }
       ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "HOLD YOU",
-        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "HOLD YOU",
-      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+      "duration_ms": 284563,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 240448,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Beyond Beliefs",
+        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 313586,
+      "name": "Beyond Beliefs",
+      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Beyond Beliefs",
-        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 313586,
-      "name": "Beyond Beliefs",
-      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 298213,
       "name": "Bound",
       "url": "https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Waiting All My Life",
-        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Waiting All My Life",
-      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "I Talk To Water",
         "url": "https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 297191,
       "name": "I Talk To Water (with Perry Farrell)",
       "url": "https://open.spotify.com/track/3DfzinNKzTSYInk2FKOx1h"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Something Was Real",
+        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 222528,
+      "name": "Something Was Real",
+      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Can't Help But Think About You",
         "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Something Was Real",
-        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
+        "name": "Anywhere (Road Trippin')",
+        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
         }
       ],
-      "duration_ms": 222528,
-      "name": "Something Was Real",
-      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
+      "duration_ms": 274838,
+      "name": "Anywhere (Road Trippin')",
+      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Anywhere (Road Trippin')",
-        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
       },
       "artists": [
         {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
         }
       ],
-      "duration_ms": 274838,
-      "name": "Anywhere (Road Trippin')",
-      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
+      "duration_ms": 278880,
+      "name": "Perfect World",
+      "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
       },
       "artists": [
         {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
         }
       ],
-      "duration_ms": 278880,
-      "name": "Perfect World",
-      "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
+      "duration_ms": 164433,
+      "name": "Manzanita",
+      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1671,22 +1687,6 @@
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Manzanita",
-        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 164433,
-      "name": "Manzanita",
-      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Into The Sun (Chill Mix)",
         "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 206612,
       "name": "Wholehearted",
       "url": "https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     },
     {
       "added_at": "2024-01-05 05:00:00",

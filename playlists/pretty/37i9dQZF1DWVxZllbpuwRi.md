@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,033 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,409 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 83 | [Silent Sun](https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F), [RodMac](https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP) | [Silent Sun](https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3) | 2:51 |
 | 84 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
 | 85 | [Pa Ti \(For You\)](https://open.spotify.com/track/2wUgG5Fr9PQcIbKRfVJ76C) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pa Ti + Lonely](https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt) | 3:49 |
-| 86 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 |
-| 87 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
+| 86 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
+| 87 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 |
 | 88 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
-| 89 | [Balinha de Coração](https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:16 |
-| 90 | [Blue Sky](https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Caelu](https://open.spotify.com/artist/6C5HWD1ssI0SC0LR2yhJ1V) | [Blue Sky](https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt) | 3:21 |
+| 89 | [Blue Sky](https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Caelu](https://open.spotify.com/artist/6C5HWD1ssI0SC0LR2yhJ1V) | [Blue Sky](https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt) | 3:21 |
+| 90 | [Balinha de Coração](https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:16 |
 | 91 | [Sube La Music](https://open.spotify.com/track/2CIJusVSWZKH4XIXxipD0I) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:57 |
 | 92 | [Para](https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Para](https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN) | 2:57 |
 | 93 | [Who We Are](https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO) | [Who We Are](https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [FORASTEIRO](https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:46 |
 | 100 | [Light Years Away](https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Light Years Away](https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF) | 3:43 |
 
-Snapshot ID: `MCxmMDIxYjJmMDY0Njg4OGUyZTJlNDk1YjEzN2JiN2VjYThiMjIyMjBl`
+Snapshot ID: `MCwyZDM1MDA5MThmODJmZWQ4MTlkMDU4MDRmMWJhYWFlMGIzMDRiOTZi`

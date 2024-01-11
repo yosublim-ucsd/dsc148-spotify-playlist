@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 965640,
+  "num_followers": 965644,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGYzZjM4ODc0Yzc5YTFkMTkyMWViZTFhNmVkYzA5NDM1ZmQzYTVh",
+  "snapshot_id": "MCxiOThkZjQyNjE3MGFkMjk3NWY0NTkwM2Q1MGZiOGQ0Yjk3ZGM3ZDUy",
   "tracks": [
     {
       "added_at": "2023-09-20 15:37:37",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "SoCal Sessions",
-        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Youth Of The Nation - Acoustic Version",
-      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
-    },
-    {
-      "added_at": "2023-09-20 15:37:37",
-      "album": {
         "name": "Bad Life (acoustic)",
         "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 220239,
       "name": "Bad Life - acoustic",
       "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
+    },
+    {
+      "added_at": "2023-09-20 15:37:37",
+      "album": {
+        "name": "SoCal Sessions",
+        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Youth Of The Nation - Acoustic Version",
+      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
     },
     {
       "added_at": "2023-09-20 15:37:37",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "Legendary (Acoustic)",
-        "url": "https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x"
+        "name": "When Incubus Attacks, Vol. 1",
+        "url": "https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw"
       },
       "artists": [
         {
-          "name": "Welshly Arms",
-          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 216940,
-      "name": "Legendary - Acoustic",
-      "url": "https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9"
+      "duration_ms": 227226,
+      "name": "Pardon Me - Acoustic",
+      "url": "https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6"
     }
   ],
   "unique_name": "Acoustic Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,301 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,010 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 19 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 | 20 | [Human \(Remix\)](https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Manimal](https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9) | [Human \(Remix\)](https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo) | 3:31 |
 | 21 | [Drinkee \- Vintage Culture & John Summit Remix](https://open.spotify.com/track/5XXdHWkkprtfG8DxBARihy) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Drinkee \(Vintage Culture & John Summit Remix\)](https://open.spotify.com/album/2o70wuTVYR2Azaz6jFuaHf) | 3:25 |
-| 22 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
-| 23 | [Pararam](https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Pararam](https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH) | 2:54 |
+| 22 | [Pararam](https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Pararam](https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH) | 2:54 |
+| 23 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 | 24 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 |
 | 25 | [The Wall](https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [The Wall](https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a) | 2:39 |
 | 26 | [Drop It](https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Drop It](https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi) | 2:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 45 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
 | 46 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
 | 47 | [Without Me](https://open.spotify.com/track/1CDAOBO6hvdfxr0zX0R2dw) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [Without Me](https://open.spotify.com/album/2Vj09LbUtc9EJ3ZCjFkdMq) | 2:38 |
-| 48 | [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 |
-| 49 | [Showing Signs](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Showing Signs](https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS) | 3:01 |
+| 48 | [Showing Signs](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Showing Signs](https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS) | 3:01 |
+| 49 | [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 |
 | 50 | [Feels Like Love](https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:22 |
 
-Snapshot ID: `MCxjN2NhMGIzMThlYWIyYTdlZmQxZGZlMThlNGYxYjdkYzE2MDQyOTg5`
+Snapshot ID: `MCwzNGFhNTA5ZGQwMTlmNTg2OGRjZWU4ZDc3MTQwYjE1N2MwNzA3ODY2`

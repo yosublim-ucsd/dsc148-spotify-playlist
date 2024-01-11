@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 1,
+  "2024-01-11": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -2090,6 +2090,24 @@
     },
     {
       "album": {
+        "name": "Apollo 18",
+        "url": "https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68306,
+      "name": "Dig My Grave",
+      "url": "https://open.spotify.com/track/5mdYxvtDAnuYNYQw085Plw"
+    },
+    {
+      "album": {
         "name": "A River Running to Your Heart",
         "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
       },
@@ -2563,6 +2581,24 @@
       "duration_ms": 165000,
       "name": "Everyone I Went to High School with Is Dead",
       "url": "https://open.spotify.com/track/2apsFfsxR5nkYkHaDMOs74"
+    },
+    {
+      "album": {
+        "name": "MAN PLAYS THE HORN",
+        "url": "https://open.spotify.com/album/1OmF3bAtGjsC8TH7ebyE0f"
+      },
+      "artists": [
+        {
+          "name": "Cities Aviv",
+          "url": "https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243515,
+      "name": "EVERYTHANG WORKIN ON A NATURAL TIME",
+      "url": "https://open.spotify.com/track/59f5ksvfMxfNvG3liKsujB"
     },
     {
       "album": {
@@ -3525,7 +3561,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
@@ -5413,7 +5449,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 374390,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5s0oWj51ttqiINWWJynNPz"
@@ -5457,6 +5493,24 @@
       "duration_ms": 194933,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5WjKzP0MY4COScm6VPrLqU"
+    },
+    {
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300506,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/7rHIRFNCDu6o9LWtGMevK1"
     },
     {
       "album": {
@@ -5748,6 +5802,24 @@
     },
     {
       "album": {
+        "name": "Native Dancer",
+        "url": "https://open.spotify.com/album/0Gsue0re8X1U9rqHe4urBx"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315706,
+      "name": "Ponta de Areia",
+      "url": "https://open.spotify.com/track/2SU21YLdwyTnqJpS7Jc3lD"
+    },
+    {
+      "album": {
         "name": "Doris",
         "url": "https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE"
       },
@@ -5987,7 +6059,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 59026,
       "name": "Ready Lets Go",
       "url": "https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT"

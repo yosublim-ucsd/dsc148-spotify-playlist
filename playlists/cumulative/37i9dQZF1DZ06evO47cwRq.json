@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -910,6 +910,24 @@
       "duration_ms": 229933,
       "name": "ROADS UNTRAVELED",
       "url": "https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a"
+    },
+    {
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"
     },
     {
       "album": {

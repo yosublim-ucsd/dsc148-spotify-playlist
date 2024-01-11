@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53449,
+  "num_followers": 53436,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQ1NzgyYjEwYWRjMmFkYzcxNjVjOTFmZTY0MGY1YzlkMWEwMzU2",
+  "snapshot_id": "MCxjN2VmMDQ2MDU0Nzc5NTMzYTU5ZTc3NGI5ZjMyZWMyNzFhYTM1MzMx",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 564293,
-      "name": "He Turned It - Live",
-      "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 212533,
       "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 564293,
+      "name": "He Turned It - Live",
+      "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Rock Of Ages (Live)",
         "url": "https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 113013,
       "name": "The Blood Will Never Lose Its Power - Live",
       "url": "https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Already Won - Live",
-      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "duration_ms": 237280,
+      "name": "Always Jesus",
+      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
-      },
-      "artists": [
-        {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        }
-      ],
-      "duration_ms": 237280,
-      "name": "Always Jesus",
-      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+        "name": "Hold Up The Light",
+        "url": "https://open.spotify.com/album/422q0thJKuktUkTCGo0vUw"
       },
       "artists": [
         {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "New Jersey Mass Choir",
+          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
         }
       ],
-      "duration_ms": 240000,
-      "name": "He Paid It All",
-      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
+      "duration_ms": 286040,
+      "name": "O the Blood",
+      "url": "https://open.spotify.com/track/74jFfq7rBPT6OZgr8taxVH"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1095,18 +1091,38 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Hold Up The Light",
-        "url": "https://open.spotify.com/album/422q0thJKuktUkTCGo0vUw"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
       "artists": [
         {
-          "name": "New Jersey Mass Choir",
-          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 286040,
-      "name": "O the Blood",
-      "url": "https://open.spotify.com/track/74jFfq7rBPT6OZgr8taxVH"
+      "duration_ms": 240000,
+      "name": "He Paid It All",
+      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Vickie Winans - Gospel Legacy",
+        "url": "https://open.spotify.com/album/5gsoX7WHEah2Z33h3g5wKG"
+      },
+      "artists": [
+        {
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
+        }
+      ],
+      "duration_ms": 421946,
+      "name": "Oh What Love",
+      "url": "https://open.spotify.com/track/3ZHvUDfMVPADlGtKc7Bc39"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Vickie Winans - Gospel Legacy",
-        "url": "https://open.spotify.com/album/5gsoX7WHEah2Z33h3g5wKG"
-      },
-      "artists": [
-        {
-          "name": "Vickie Winans",
-          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
-        }
-      ],
-      "duration_ms": 421946,
-      "name": "Oh What Love",
-      "url": "https://open.spotify.com/track/3ZHvUDfMVPADlGtKc7Bc39"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Alone In His Presence",
         "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 277533,
       "name": "Blood Medley",
       "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6SxG3aGDLEYapq8THOTFHu"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/7HUJbPhx5spapf39VT3jXw"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1195,22 +1211,6 @@
       "duration_ms": 341120,
       "name": "Blood Medley (Part 3) - I Know It Was The Blood",
       "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6SxG3aGDLEYapq8THOTFHu"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/7HUJbPhx5spapf39VT3jXw"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
-      },
-      "artists": [
-        {
-          "name": "The Winans",
-          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "TIME (Truth Is My Energy)",
         "url": "https://open.spotify.com/album/5NnwvpZHr79oiMZ2oEGhd8"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 230659,
       "name": "He Carried The Cross For Me",
       "url": "https://open.spotify.com/track/2XRDEjQCQeJsQMURLmcHRE"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
     },
     {
       "added_at": "2023-04-09 08:49:39",

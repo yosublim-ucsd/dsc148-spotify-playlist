@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 734333,
+  "2024-01-11": 734534,
   "date_first_scraped": "2023-09-22",
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
   "name": "This Is Luke Combs",
@@ -191,7 +191,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 191053,
       "name": "Brand New Man - with Luke Combs",
       "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 223320,
       "name": "Does To Me (feat. Eric Church)",
       "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 204240,
       "name": "Refrigerator Door",
       "url": "https://open.spotify.com/track/3bfuN2UbSYYqCLG3cdweGf"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 183160,
       "name": "She Got the Best of Me",
       "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 240760,
       "name": "When It Rains It Pours",
       "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"

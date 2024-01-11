@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 540732,
+  "num_followers": 540999,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTY0Y2NkNWM3NzVjYjNjNTE3NWEzMjVhYjZhMWJmZTczZTIyNTYx",
+  "snapshot_id": "MCwyMzJlOWUwN2UwY2E3NWFmYjVkOGYwMDhkNGM3ZmY1OWNlNTk4OTll",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 218480,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
-      },
-      "artists": [
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 181459,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "A Moment Apart",
-        "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "WYNNE",
-          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 236470,
-      "name": "Line Of Sight",
-      "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Veldt Cinema (BYNX Edit)",
         "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "A Moment Apart",
+        "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "WYNNE",
+          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 236470,
+      "name": "Line Of Sight",
+      "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Sonnentanz",
         "url": "https://open.spotify.com/album/1BBqa3UQfVawVGQN0aIcs4"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 236333,
       "name": "Sonnentanz - Sun Don't Shine",
       "url": "https://open.spotify.com/track/5NKfB21hWeirObQjEN44x1"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 228514,
-      "name": "Is U",
-      "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
     },
     {
       "added_at": "2023-09-08 04:00:00",

@@ -4,7 +4,7 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-201 songs - 11 hr 13 min
+202 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-11-29 |  |
 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-11-29 |  |
 | [The Big Boom](https://open.spotify.com/track/52rDZ9pPuVKAQoycR0wqme) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [The Big Boom](https://open.spotify.com/album/28R26xS0sxrdEFCKwSjwKG) | 3:14 | 2023-11-29 | 2023-12-24 |
+| [The Big Boom \- Bonus Track](https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/0AsVb7S4UL2760pQlRVpAe) | 3:14 | 2023-11-29 |  |
 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-11-29 |  |
 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 | 2022-11-30 | 2023-11-30 |
 | [The Great American Picnic](https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [When Horses Would Run](https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf) | 2:16 | 2023-11-29 |  |
@@ -205,7 +206,7 @@
 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 | 2023-11-29 |  |
 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 | 2023-11-29 |  |
 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 | 2022-11-30 | 2023-11-30 |
-| [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 | 2023-11-29 |  |
+| [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 | 2023-11-29 | 2024-01-11 |
 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 | 2023-11-29 |  |
 | [You Have Bought Yourself A Boat \- Live](https://open.spotify.com/track/0mFAWvtCwXxKwxzJ0IiW9o) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [You Have Bought Yourself A Boat \(Live\)](https://open.spotify.com/album/07SurUcuBKJ2orUg42YyUY) | 2:47 | 2023-11-29 | 2023-12-02 |
 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 | 2022-11-30 | 2023-11-30 |

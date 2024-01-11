@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 242136,
+  "num_followers": 242252,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzEwN2NkY2UyYjExYzM1Zjg4ZDg0YmNkOTdiMjBhNmVmZWVlYTNh",
+  "snapshot_id": "MCwxODU4MWQwNTYxZmY3MGQ4ZjJiY2FmZGY4OTVmMDVkZDBmZjg0M2Vk",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Ain't That A Shame",
-      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 150706,
       "name": "Dream Lover",
       "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Ain't That A Shame",
+      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Bobby Darin",
         "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 131719,
       "name": "Splish Splash",
       "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Good Golly!",
         "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 143826,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "Just A Gigolo - Remastered",
-      "url": "https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Wonderful One",
         "url": "https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 147828,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "Just A Gigolo - Remastered",
+      "url": "https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Ray Charles Story Volume 2",
-        "url": "https://open.spotify.com/album/5xNwNgXgT3ZbBGlNZyziNC"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 391426,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/3JvDEbXLKUxaNv0D0txup5"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 141306,
       "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
       "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Ray Charles Story Volume 2",
+        "url": "https://open.spotify.com/album/5xNwNgXgT3ZbBGlNZyziNC"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 391426,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/3JvDEbXLKUxaNv0D0txup5"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 130066,
-      "name": "Somethin' Else",
-      "url": "https://open.spotify.com/track/58Genya9wsQXqfiCYdd5qT"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Rama Lama Ding Dong EP",
         "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 147720,
       "name": "Rama Lama Ding Dong (Original version 1958)",
       "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 130066,
+      "name": "Somethin' Else",
+      "url": "https://open.spotify.com/track/58Genya9wsQXqfiCYdd5qT"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Gonna Romp and Stomp / Bad Girl",
-        "url": "https://open.spotify.com/album/1eJEbTTnEf2EUTQADVtt71"
+        "name": "Rockabilly Portrait",
+        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
       "artists": [
         {
-          "name": "Slim Rhodes",
-          "url": "https://open.spotify.com/artist/2WfvzODrK268JtCsktwxtj"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 138374,
-      "name": "Gonna Romp and Stomp",
-      "url": "https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm"
+      "duration_ms": 109500,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly Portrait",
-        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
+        "name": "Gonna Romp and Stomp / Bad Girl",
+        "url": "https://open.spotify.com/album/1eJEbTTnEf2EUTQADVtt71"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Slim Rhodes",
+          "url": "https://open.spotify.com/artist/2WfvzODrK268JtCsktwxtj"
         }
       ],
-      "duration_ms": 109500,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+      "duration_ms": 138374,
+      "name": "Gonna Romp and Stomp",
+      "url": "https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records Recording Artist - Rosco Gordon",
-        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
-      },
-      "artists": [
-        {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
-        }
-      ],
-      "duration_ms": 156088,
-      "name": "Bop With Me Baby",
-      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Slow Down / A Fool for Loving You",
         "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 137799,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records Recording Artist - Rosco Gordon",
+        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 156088,
+      "name": "Bop With Me Baby",
+      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Shoobie Oobie / Cheese and Crackers",
-        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
-      },
-      "artists": [
-        {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
-        }
-      ],
-      "duration_ms": 174003,
-      "name": "Shoobie Oobie",
-      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly 50",
         "url": "https://open.spotify.com/album/0KXqBhjN5zKNUaHR2ssrZx"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 117111,
       "name": "Hey Baby Doll",
       "url": "https://open.spotify.com/track/5VIsse5eZGy7OlSE6iqjKG"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Marty: A Lifetime In Music 1957-2019",
+        "url": "https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s"
+      },
+      "artists": [
+        {
+          "name": "Marty Wilde",
+          "url": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Marty: A Lifetime In Music 1957-2019",
-        "url": "https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s"
+        "name": "Shoobie Oobie / Cheese and Crackers",
+        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
       },
       "artists": [
         {
-          "name": "Marty Wilde",
-          "url": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
         }
       ],
-      "duration_ms": 140533,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO"
+      "duration_ms": 174003,
+      "name": "Shoobie Oobie",
+      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "I Dig You Baby / Sweetie Pie",
-        "url": "https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf"
-      },
-      "artists": [
-        {
-          "name": "Tommy Blake",
-          "url": "https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS"
-        }
-      ],
-      "duration_ms": 124363,
-      "name": "Sweetie Pie",
-      "url": "https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Cliff: Cliff Sings",
         "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 138133,
       "name": "Move It - Live; 1998 Remaster",
       "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Dig You Baby / Sweetie Pie",
+        "url": "https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf"
+      },
+      "artists": [
+        {
+          "name": "Tommy Blake",
+          "url": "https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "Sweetie Pie",
+      "url": "https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked"
     },
     {
       "added_at": "2022-06-07 05:25:13",

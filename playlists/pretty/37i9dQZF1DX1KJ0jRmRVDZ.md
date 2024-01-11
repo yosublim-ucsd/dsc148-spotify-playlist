@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,160 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,208 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 11 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 |
 | 12 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 | 13 | [マンネリウィークエンド](https://open.spotify.com/track/34qr8Cp46RRSzDAPYpHf1u) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [FAKE SWING 2](https://open.spotify.com/album/08agBb2R2sUIaqPGpzNI25) | 3:13 |
-| 14 | [Abyss\-Over](https://open.spotify.com/track/3vvygyjWxhTYKCyb8FI7g3) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/5nGHLmItbkt5eUKAwns41k) | 3:52 |
+| 14 | [Abyss\-Over](https://open.spotify.com/track/1EN4v238bm5XLgjT3qa323) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/1WN888rItH426MpIBh4zcq) | 3:52 |
 | 15 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 16 | [POLYHEDRON](https://open.spotify.com/track/0BkHmtkFr9LiaI00bYJEmM) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [POLYHEDRON](https://open.spotify.com/album/2hkLGjl02N4Uji3i3eIx04) | 2:45 |
 | 17 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 37 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
 | 38 | [Immortal](https://open.spotify.com/track/0OnBxDVmTg16bqklhVnRsJ) | [JUVENILE](https://open.spotify.com/artist/2wppgeQgm2DSP4ZkEIo9rn) | [Immortal](https://open.spotify.com/album/19mWviXzRwoBHrJlcbR2la) | 3:18 |
 | 39 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 |
-| 40 | [深夜32時](https://open.spotify.com/track/0LwjWqiPcuQQAxQAffScUJ) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [深夜32時](https://open.spotify.com/album/5dOfSNsvPZ5UUZRaVaunbO) | 3:32 |
+| 40 | [Shinya32ji](https://open.spotify.com/track/70vSGhVgPT69ElJcenLSAr) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [Shinya32ji](https://open.spotify.com/album/2hXK6XXRFU57r0HERNCsrH) | 3:32 |
 | 41 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
-| 42 | [アンハッピーナイトタイム](https://open.spotify.com/track/5VNBIOUEtUFOxwIkIlvHhh) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [アンハッピーナイトタイム](https://open.spotify.com/album/32NkAbjiC8kRYoATGVdE9v) | 3:38 |
+| 42 | [UnhappyNightTime](https://open.spotify.com/track/3mecOlb2x2jotPCvjks6zZ) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [UnhappyNightTime](https://open.spotify.com/album/45dbvwos7Zvge33pbNsu7l) | 3:38 |
 | 43 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 44 | [エイジング](https://open.spotify.com/track/13W5nqgSlB5jPoHlWHjVky) | [リカク見得を切る](https://open.spotify.com/artist/7LFh9WNJa2rbVMzGDOzu39) | [エイジング](https://open.spotify.com/album/0k8Y40mfxgPXXBqndRLO7T) | 2:47 |
 | 45 | [Moonthief](https://open.spotify.com/track/5VpeLvjayWlwt2VwkgKTKj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Moonthief](https://open.spotify.com/album/4qA404qUuqlXMOLiVZwj6i) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
 | 50 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 |
 
-Snapshot ID: `MCxiNmM3MmJiOGJkODRkOGNiYjZmNjJmZDM5ZDZmMTNkNTY3NjU1NTVj`
+Snapshot ID: `MCw4YjNmYzYwNjZkODU3ODY1Mzc4ODRkODdjMWFiYzk5MGRjMTI2ZGJm`

@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-216 songs - 13 hr 15 min
+217 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Be for Me](https://open.spotify.com/track/5QNR5H81d2G2BZk4uDdaR7) | [Diunna Greenleaf](https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb) | [Trying to Hold On](https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s) | 4:09 | 2023-04-14 |  |
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2022-05-25 |  |
 | [Been Worryin'](https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk), [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Been Worryin'](https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD) | 3:02 | 2022-05-25 |  |
+| [Black Leathered Lungs](https://open.spotify.com/track/69xgeczPfVE0Ongs7q8mYU) | [Jesse Walton](https://open.spotify.com/artist/4eC7zpBCLhukFXCHFTpS20) | [Black Leathered Lungs](https://open.spotify.com/album/2wsM9EQx9vp1yETxx8j0Dl) | 4:06 | 2023-09-15 |  |
 | [Blues Before Sunrise](https://open.spotify.com/track/27gKtPpGT849HU3g2J6omx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/5lc2xbWv8d8jLBUnjuwfH5) | 3:49 | 2022-05-27 | 2022-07-28 |
 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 | 2022-09-20 |  |
 | [Blues Funky Like Dat](https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:25 | 2023-03-24 | 2023-08-25 |
@@ -52,7 +53,7 @@
 | [Coin Operated Woman \(feat\. Johnny Burgin\)](https://open.spotify.com/track/3UzFhxg69DF9bzb7sWsmJ4) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 4:23 | 2023-08-25 | 2023-11-05 |
 | [Colt 45](https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Colt 45](https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK) | 2:45 | 2023-08-18 |  |
 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 | 2022-05-27 |  |
-| [Dallas Blues \- Remastered](https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh) | [Wizz Jones](https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG) | [Huldenberg Blues \(Remastered\)](https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM) | 3:54 | 2023-09-15 |  |
+| [Dallas Blues \- Remastered](https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh) | [Wizz Jones](https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG) | [Huldenberg Blues \(Remastered\)](https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM) | 3:54 | 2023-09-15 | 2024-01-11 |
 | [Death Valley Blues](https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:43 | 2023-04-28 |  |
 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 | 2022-09-20 | 2023-04-30 |
 | [Dengue Woman Blues](https://open.spotify.com/track/76l8o9qZ4tnUAyMF9Y9qRI) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [From Dusk Till Dawn \- Music From The Motion Picture](https://open.spotify.com/album/0hlyemXrKRyStIVw2O8S7f) | 6:23 | 2022-05-27 | 2022-07-15 |

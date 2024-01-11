@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,150 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,319 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 61 | [Last Goodbye](https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 4:35 |
 | 62 | [This Time Tomorrow \(In The Canyon Haze\)](https://open.spotify.com/track/2TitHg37k0lRoyDepQfigg) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 3:47 |
 | 63 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
-| 64 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/6Y3lJ2VwukbHOH9zCDi6zj) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90\-tal](https://open.spotify.com/album/0yjliARBQfcAQkVqq46sS8) | 3:38 |
+| 64 | [Mysterious Girl](https://open.spotify.com/track/0Uv7XAvLM1WH3evBVEDg2V) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90s](https://open.spotify.com/album/7y9vSSW4iCud59Lb4fmzlb) | 3:36 |
 | 65 | [Seabird](https://open.spotify.com/track/7qw4F9ebIh2z1dSBpJMfdt) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [The Best Of The Alessi Brothers](https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY) | 3:06 |
 | 66 | [That's a Bet](https://open.spotify.com/track/4mMuWadpf8GACLOH6g0Hym) | [Arnold Albury](https://open.spotify.com/artist/2013V6iVLwDKDK986F24AI), [The Casuals](https://open.spotify.com/artist/0ZuFWCnwkLTK7Yf8k7VkkZ) | [Funk for the People](https://open.spotify.com/album/4OLyRYkkFy83NMBlp8O5Ij) | 3:44 |
 | 67 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 330 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 331 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCw3NTI0NmMyNTA4M2M4ZWNlYTJjNTkyMGMyMmZiMjU0YjgyMTQ0MjIw`
+Snapshot ID: `MCw2MDNjMWQ3NjlmYTRmODEwNTc1MTEzMzAyOWRmMDkwMDc5MmI0MzIy`

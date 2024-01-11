@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 
 > El Top 50 de canciones en Instagram Reels, actualizado cada semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,666 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,617 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 30 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 31 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 32 | [ANGEL](https://open.spotify.com/track/33pO82v2czlYe19jpx6ENI) | [Toby Mai](https://open.spotify.com/artist/71XRExAcKFmzM0fckCrCvo) | [ANGEL](https://open.spotify.com/album/3kLcgy3mj53vQ284PvX4gV) | 2:30 |
-| 33 | [MONTAGEM CORAL \(feat\. Mc Cyclope\)](https://open.spotify.com/track/1Zhzqwu4w6h9OrFJDK9AUQ) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC TH](https://open.spotify.com/artist/3F1443WJZgYSDywzIDYSBr), [Mc Cyclope](https://open.spotify.com/artist/3xIDIb8awFTVp48OtoKEAW) | [MONTAGEM CORAL \(feat\. Mc Cyclope\)](https://open.spotify.com/album/6okX6RHMDNrISnibgpclju) | 2:25 |
+| 33 | [MONTAGEM CORAL](https://open.spotify.com/track/5xnWaCA2uZkwxApShLNMs2) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc GW](https://open.spotify.com/artist/4PCJUOWh3i4ZrlzA2xRLXT), [Mc Th](https://open.spotify.com/artist/75ANwjnjXVeNJthIJgCo36), [Mc Cyclope](https://open.spotify.com/artist/1FIUVa3ZUJ2DAUHpXTxLGs) | [MONTAGEM CORAL](https://open.spotify.com/album/1Z27T5LoirDlX3bo8Kb6ee) | 2:25 |
 | 34 | [Trendsetter](https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Trendsetter](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) | 2:22 |
 | 35 | [Heartbeat](https://open.spotify.com/track/5y3M0g9NeTe4YKc0uBvVX1) | [Nitecore](https://open.spotify.com/artist/485ejjccNSGYlOTuNc0AN0) | [Heartbeat](https://open.spotify.com/album/5pqtjzO6DNDeDGKFlTUyhW) | 2:27 |
 | 36 | [Out of My League \- Sped Up](https://open.spotify.com/track/4y7SaFjgZMbTOxK833yJKd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Out of My League Collection](https://open.spotify.com/album/0NeVF3Nalvj9MXdNIlYbjh) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 49 | [Tiempo](https://open.spotify.com/track/0roHxvWUsTnrKQDTXKXGwZ) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP), [Sofia Rød](https://open.spotify.com/artist/1DKDOfgZ1sBbOQwXfPKOHN) | [Tiempo](https://open.spotify.com/album/67t8LdykkpoG6o7nmjmzuv) | 4:01 |
 | 50 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
 
-Snapshot ID: `MCxjZWU3OWExY2M0ZWFkNjhiYTJlMmU2YTYwNjc1MWMwOTk5MzI2ZmNl`
+Snapshot ID: `MCxlZWNhMmQ2NDRjNDZhNTJkZjM5ZWFlMzg3ZGFlMDg3MTFjNDg4OWQ1`

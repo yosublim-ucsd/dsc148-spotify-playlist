@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 322635,
+  "num_followers": 322425,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGY0YjMwMGY4OTI5YmZhYzVmNWJjZWMwMDNjNjg3OWQwMGM0MTA2",
+  "snapshot_id": "MCw5NjdhZGM2MWUyNzA3YjI0Mzk2NTI2ZTMxZjY4OWJjNzcxZDRiYTUy",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "En Extasis",
+        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Gracias A Dios",
+      "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 231560,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/4NU4aMYuFTv9xTizymCKek"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "En Extasis",
-        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Gracias A Dios",
-      "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 210042,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 278800,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Lucia Mendez Canta Un Homenaje A Juan Gabriel",
         "url": "https://open.spotify.com/album/0kumbFfu0fr0061adl4kFR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 201653,
       "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
       "url": "https://open.spotify.com/track/1rF8VGIeSE4EGNuTCajFUr"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "No Discutamos",
-        "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 220133,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG"
+      "duration_ms": 169200,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
+        "name": "No Discutamos",
+        "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
+      "duration_ms": 220133,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG"
     },
     {
       "added_at": "2023-05-05 18:26:22",

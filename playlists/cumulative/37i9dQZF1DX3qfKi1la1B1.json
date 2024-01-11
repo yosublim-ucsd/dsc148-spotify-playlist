@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 187204,
       "name": "Bed Room",
       "url": "https://open.spotify.com/track/1ZLB7XGT8I56pR9ibUlEQR"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 153226,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 223538,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y"
@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 189880,
       "name": "Notes From A Wrist",
       "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
@@ -5111,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "Noodle",
+        "url": "https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172355,
+      "name": "Super Fresh",
+      "url": "https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0"
+    },
+    {
+      "album": {
         "name": "Tangle",
         "url": "https://open.spotify.com/album/1NrCxfNA536ebbuDA4P39E"
       },
@@ -5874,7 +5892,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 186000,
       "name": "WE'LL DIE THIS WAY",
       "url": "https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t"
@@ -6074,7 +6092,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
@@ -6306,7 +6324,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 215625,
       "name": "\u30df\u30a2\u30cd",
       "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
@@ -6368,6 +6386,24 @@
       "duration_ms": 263600,
       "name": "\u661f\u5c51\u306e\u591c\u306b",
       "url": "https://open.spotify.com/track/4RW1yU2KOJFz91cprWoIhj"
+    },
+    {
+      "album": {
+        "name": "POP OUT!",
+        "url": "https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235142,
+      "name": "\u6ce1\u3068\u6587\u5b78",
+      "url": "https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6"
     },
     {
       "album": {

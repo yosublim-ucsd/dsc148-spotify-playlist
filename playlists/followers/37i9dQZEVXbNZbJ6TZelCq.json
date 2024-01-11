@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 32478,
+  "2024-01-11": 32439,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -2599,7 +2599,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 162580,
       "name": "Bax Banii",
       "url": "https://open.spotify.com/track/1dPknjdo45m6D2Fl3miAwN"
@@ -2679,7 +2679,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 157241,
       "name": "BEASTMODE",
       "url": "https://open.spotify.com/track/4k4rTklw6RkvZuRPKdGYWE"
@@ -4507,7 +4507,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 146307,
       "name": "Cariceps",
       "url": "https://open.spotify.com/track/51E7KRgoeTzCJeilsoS2Cg"
@@ -10759,7 +10759,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 165882,
       "name": "Havana",
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
@@ -11991,7 +11991,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "IKEBANA",
       "url": "https://open.spotify.com/track/0ptGJLVTNJ2PclW8uzpi4K"
@@ -15111,7 +15111,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 134482,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/2qXATVuCrdtjDproyhKGH4"
@@ -16637,7 +16637,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -18142,6 +18142,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
@@ -18893,7 +18911,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 88000,
       "name": "PAT MATRIMONIAL",
       "url": "https://open.spotify.com/track/2uqiuAuQbT8SwEAGfMiZ2a"
@@ -19751,7 +19769,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 171409,
       "name": "PRAFU",
       "url": "https://open.spotify.com/track/5bxQVFwF7Ix1q9WEPu5JEj"
@@ -19845,7 +19863,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 168500,
       "name": "Prietena ta",
       "url": "https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd"
@@ -25307,7 +25325,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 150957,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"

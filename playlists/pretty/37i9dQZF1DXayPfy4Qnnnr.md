@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,724 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,754 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 37 | [Les gens raisonnables](https://open.spotify.com/track/14FWWR9YkXEv4PtL7N8yFH) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:27 |
 | 38 | [Balle Populaire](https://open.spotify.com/track/4ngtifrUaclXkXVL2WzaBp) | [Ministère Des Affaires Populaires](https://open.spotify.com/artist/2uo5phtKRY3BzaiSY0N31I) | [Debout là d'dans](https://open.spotify.com/album/4taZ4mviPoIK3n0Bx16YSY) | 4:04 |
 | 39 | [Leo](https://open.spotify.com/track/5A2eN7HBSi6EcJWFS32ORB) | [Les VRP](https://open.spotify.com/artist/1UlbIPR4gt1ZQcEiDzD5j9) | [Vacances Prolongees](https://open.spotify.com/album/1VJGfxvY2EtV8N9X86ZTEb) | 3:42 |
-| 40 | [Dimanche \(Caresse\-moi\)](https://open.spotify.com/track/0ZewOkbhf4HS0lVk264p0v) | [Yves Jamait](https://open.spotify.com/artist/1K1P7X1G6brqCjsZeKOMNR) | [De Verre En Vers](https://open.spotify.com/album/0xQjEocsjHDGBb4JbO0Q6z) | 5:36 |
-| 41 | [Don Diego 2000](https://open.spotify.com/track/5g9HzwqUa3kS1Vmi2kSpkD) | [Dionysos](https://open.spotify.com/artist/75nb7WjICnFHCXFdVX0PkO) | [Western Sous La Neige](https://open.spotify.com/album/7n3bwYHPBrnRBb7jWYdySY) | 3:32 |
+| 40 | [Don Diego 2000](https://open.spotify.com/track/5g9HzwqUa3kS1Vmi2kSpkD) | [Dionysos](https://open.spotify.com/artist/75nb7WjICnFHCXFdVX0PkO) | [Western Sous La Neige](https://open.spotify.com/album/7n3bwYHPBrnRBb7jWYdySY) | 3:32 |
+| 41 | [Dimanche \(Caresse\-moi\)](https://open.spotify.com/track/0ZewOkbhf4HS0lVk264p0v) | [Yves Jamait](https://open.spotify.com/artist/1K1P7X1G6brqCjsZeKOMNR) | [De Verre En Vers](https://open.spotify.com/album/0xQjEocsjHDGBb4JbO0Q6z) | 5:36 |
 | 42 | [Ginette](https://open.spotify.com/track/5jGN1aPoIYI8r2y9H2p9nf) | [Têtes Raides](https://open.spotify.com/artist/2omAWwH1ZV9JYIyfMUQSgG) | [Corps de mots](https://open.spotify.com/album/0CxKfId0AGilFv1dpj8VyY) | 3:40 |
 | 43 | [Léon](https://open.spotify.com/track/3DgehxFcYGW4kipAOat5Ri) | [Karpatt](https://open.spotify.com/artist/7qU5BoLb02tqeIwv5zUs0e), [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP) | [Dans le caillou](https://open.spotify.com/album/5wMUU2L9v1euXsqWLE4lgM) | 5:25 |
 | 44 | [L'accordéoniste](https://open.spotify.com/track/5zdsWxGjYO8Su7lAKwzvR3) | [Les Hurlements D'leo](https://open.spotify.com/artist/5WclEPgvoYK28a034NNa8s) | [Le café des jours heureux](https://open.spotify.com/album/4f0WbqM9lzf3ygfNzVKnG8) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 49 | [Tout le monde est là](https://open.spotify.com/track/63BT1ZA8NSk0soGSmKQVfq) | [Mister Gang](https://open.spotify.com/artist/0g9joi70vEh2c7i9U141ao) | [Liberté illégale](https://open.spotify.com/album/4KoQ7ZbiBN4itXhGVAiR5Q) | 2:58 |
 | 50 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 
-Snapshot ID: `MCwwNmRiNzZlODRkNDdmYmI1YjNlNTQ3MjQ2YzM5Yjk3NWE4YjhjYTVl`
+Snapshot ID: `MCwzMjgzNDE4OGU1MGJlNTM3ZmE1MDQ0ZjdiOTQzODI4NDBiNDhhMTIw`

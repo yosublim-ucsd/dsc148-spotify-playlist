@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Arches
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,828 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,834 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 84 | [三分醉](https://open.spotify.com/track/10dyRZNPSJBLnSgX2rPegm) | [Wolfe](https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA), [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Daishin](https://open.spotify.com/artist/3MZmW9TjNyNLp3NR18pRZh) | [三分醉](https://open.spotify.com/album/3WFNApCRIN4F9pDwI0d0j3) | 3:09 |
 | 85 | [Sorry呢度係香港 \- REMIX](https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Sorry呢度係香港 \(REMIX\)](https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN) | 4:06 |
 
-Snapshot ID: `MCwxNjU3YzBmNWM5YTA3ZWUwMDBmZWMxYzFlODhjYTlmZWY1YTEyNWNj`
+Snapshot ID: `MCxiOGRiNTNiNGZhNTFmOTZlNTQ3NjI4OTc1N2M5MTRlMDM4MjgxNzAy`

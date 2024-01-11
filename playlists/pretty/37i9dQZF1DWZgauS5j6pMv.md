@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Kossisko
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,749 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,702 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rich Bi$h](https://open.spotify.com/track/67gscz0VqtlCjgVzlzxPAA) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Rich Bi$h](https://open.spotify.com/album/0o4WhCKx2QnKqV0mkv0uDm) | 3:44 |
 | 2 | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3) | 2:46 |
 | 3 | [What's the Move](https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [What's the Move](https://open.spotify.com/album/431U10Fvg2NtgECribydtZ) | 3:07 |
-| 4 | [Fixations](https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE) | [Fixations](https://open.spotify.com/album/3zphZDeM17LCk8RwmJV34t) | 3:13 |
+| 4 | [Fixations](https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Fixations](https://open.spotify.com/album/3zphZDeM17LCk8RwmJV34t) | 3:13 |
 | 5 | [Freaky Toe \(CC Mix feat\. Derrick Taylor\)](https://open.spotify.com/track/1K65rsHQO17mdadr1l3ShZ) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Richie Stevens](https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl), [Mary Pearce](https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg), [Charlotte Kelly](https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4), [Trey Lewd](https://open.spotify.com/artist/6T1ZLCrTSmLviH2wME84tD), [Derrick Taylor](https://open.spotify.com/artist/0hY3bXijW2TBkCLNY2OJem) | [Freaky Toe \(CC Mix feat\. Derrick Taylor\)](https://open.spotify.com/album/3aoz9kCyQCn5wFTha0KbFb) | 4:25 |
 | 6 | [Sepricon](https://open.spotify.com/track/2FG43kVwZ84Q4o8mbJ2DhC) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [Sepricon](https://open.spotify.com/album/7E49Txc4y7PCfbjDPl5Ctp) | 3:14 |
 | 7 | [Warning Sign](https://open.spotify.com/track/4c0s18ptbeNyaDiepcLe6N) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI) | [Coronation](https://open.spotify.com/album/5OymrKAPQ2iDQ0Oyt8rwKo) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 |
 | 100 | [Bad Vibes \- Duss Hagen Remix](https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq) | [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK), [Duss Hagen](https://open.spotify.com/artist/5fMHCBdB7H8fyKwkQuiN9M) | [Bad Vibes \(Duss Hagen Remix\)](https://open.spotify.com/album/7JSqjbgXJIqndFYtLQe8XG) | 2:59 |
 
-Snapshot ID: `MCw5OTE2Mzg2ZTFlMjZmMGYwYjE1ZjVmM2U3OTUxYjE1Mjg0ZmFjODNm`
+Snapshot ID: `MCxkZWM3ZGRjNGFjOGIyNmJjMzBlZDE1YjUyZjQyN2M0YWQ5NmY1ODA2`

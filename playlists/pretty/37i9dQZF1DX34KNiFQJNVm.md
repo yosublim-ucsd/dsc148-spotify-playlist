@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Marvvila e Leo Santana, Tiesto, Manu Gavassi, Mc Kadu e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,741 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,925,319 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Planos](https://open.spotify.com/track/5x7R1rusIM5Hwy91kj0mf0) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Planos](https://open.spotify.com/album/2SLOEwLKzsUPHDXy1ljN25) | 2:13 |
 | 50 | [GRAMMY \(999\)](https://open.spotify.com/track/7kpNYOw9LDpi3PsSJBARfR) | [Jovem SANN](https://open.spotify.com/artist/46lv9XwXwqRtuMHLqs4XZ4), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [GRAMMY \(999\)](https://open.spotify.com/album/2qO03r28LYFjRU508TNaXf) | 3:22 |
 
-Snapshot ID: `MCwyMWIwMzQ5N2RiYjE3ODY3YjUwNTk5NWE4ZGFiYjc4MmVkYzM2MWJj`
+Snapshot ID: `MCw2YzFiZmQyYmM2YmZiNDZhNGIyMzA0NzE5ZmI2YTk1NjE5YTc2Mjgx`

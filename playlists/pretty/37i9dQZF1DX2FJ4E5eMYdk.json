@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 157730,
+  "num_followers": 157749,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjhlMDQ1NDlmZjZhZTc5Yjg3MmJiNDA5YzVhM2U5YjUzNzFhZmY4",
+  "snapshot_id": "MCwxMGIxNDIyZWRjNDZlNTNiOWZjNzNlY2ExYzMzOWVjM2FiZWY1Yjcz",
   "tracks": [
     {
       "added_at": "2023-12-12 16:46:04",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
-      },
-      "artists": [
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "L.W.",
         "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 220216,
       "name": "O.N.E.",
       "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
+      },
+      "artists": [
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Private Tales",
-        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Sun",
-          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Seaquest",
-      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Panther in the Dollhouse",
         "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 203319,
       "name": "Nighthawks",
       "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "Private Tales",
+        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sun",
+          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "Seaquest",
+      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
     },
     {
       "added_at": "2023-12-12 16:46:04",

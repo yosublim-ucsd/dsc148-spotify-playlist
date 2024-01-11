@@ -2,7 +2,7 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Free to be! Musica dalla comunità LGBQTIA+ italiana\. ARIETE in cover! ✨
+> Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
 
 334 songs - 19 hr 51 min
 

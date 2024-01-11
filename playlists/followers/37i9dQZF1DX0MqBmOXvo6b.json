@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 404766,
+  "2024-01-11": 404839,
   "date_first_scraped": "2022-07-19",
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
   "name": "Concentraci\u00f3n Perfecta",
@@ -8216,6 +8216,24 @@
     },
     {
       "album": {
+        "name": "Sogni di Positano",
+        "url": "https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207111,
+      "name": "Sogni di Positano",
+      "url": "https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY"
+    },
+    {
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
@@ -8281,7 +8299,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 162000,
       "name": "Something Like Love",
       "url": "https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC"

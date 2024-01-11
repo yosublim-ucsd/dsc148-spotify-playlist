@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDBlYTQ5OTY4NmY4OTBhZGNlYmI4N2Q2M2U1MmI2NDU1ZWZjMTFj",
+  "snapshot_id": "MCw1M2I5MDcxMDZlOGY4YTAyZTdiOGVkMjg4ZWIxNDQ4NzFlZjIxMjM3",
   "tracks": [
     {
       "added_at": "2023-11-03 06:22:09",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 258321,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
         "name": "Eyebrow Moon",
         "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 236693,
       "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 258321,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
     },
     {
       "added_at": "2023-11-03 06:22:09",

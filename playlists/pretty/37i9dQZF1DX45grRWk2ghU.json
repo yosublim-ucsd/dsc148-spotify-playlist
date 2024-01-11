@@ -1,12 +1,12 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 365988,
+  "num_followers": 367159,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzJmM2JmMjdkYTY4NWM3YjJjMDdlMzE0NmRiOGJjMTQxNTY5NTAw",
+  "snapshot_id": "MCxmMWFlZjBkMWQ5OWM5Mjc1NjdkYTUwNGM2YWRkMWQzOTUxZjY0YWU5",
   "tracks": [
     {
       "added_at": "2023-12-26 22:31:12",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-12-26 22:31:12",
       "album": {
-        "name": "You Wish + Trashboi",
-        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 120015,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
-    },
-    {
-      "added_at": "2023-12-26 22:31:12",
-      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
+    },
+    {
+      "added_at": "2023-12-26 22:31:12",
+      "album": {
+        "name": "You Wish + Trashboi",
+        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 120015,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
       "added_at": "2023-12-26 22:31:12",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2023-12-26 22:31:12",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 187670,
-      "name": "PROVENZA - REMIX",
-      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
       "added_at": "2023-12-26 22:31:12",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2023-12-26 22:31:12",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
     },
     {
       "added_at": "2023-12-26 22:31:12",

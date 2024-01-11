@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 81st Golden Globe Awards\. Watch Jan 7, 2024 on CBS and Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,892 likes - 33 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,903 likes - 33 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 26 | [Drive](https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB) | [Steven Yeun as Danny from BEEF](https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 4:01 |
 | 27 | [Main Title](https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [All the Light We Cannot See \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR) | 1:23 |
 | 28 | [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 |
-| 29 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
-| 30 | [VARIATION AUTOUR D'UN PRÉLUDE \- Anatomie d'une chute](https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh) | [Benoît Daniel](https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS) | [ANATOMIE D'UNE CHUTE \(Musique Originale\)](https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o) | 4:32 |
+| 29 | [VARIATION AUTOUR D'UN PRÉLUDE \- Anatomie d'une chute](https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh) | [Benoît Daniel](https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS) | [ANATOMIE D'UNE CHUTE \(Musique Originale\)](https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o) | 4:32 |
+| 30 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
 | 31 | [Toxic \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Fargo Year 5 \(Soundtrack from the MGM/ FXP Series\)](https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP) | 4:42 |
 | 32 | [On the Town: Lonely Town\. Pas de deux](https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Maestro: Music by Leonard Bernstein \(Original Soundtrack\)](https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4) | 2:23 |
 | 33 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
 
-Snapshot ID: `MCxhMDFiM2YzYzJiNGM2N2E5NmNiOGNjZjgxMTNlMjBmZDRlOTMyYjI1`
+Snapshot ID: `MCw1ZWIzYzE2NzVjMmU4ZDQxNzQ2NmYxMjc5MWIzMjJjYzEzYzc3NGRm`

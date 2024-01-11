@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed: Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 902203,
+  "num_followers": 901265,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTA1MTZjMWVjODNmMmJkNmU0NWM5MmNjYzVjMmYxNzBhYWQwM2Vh",
+  "snapshot_id": "MCxjY2NkNjYxOTU3Y2YzMjQ0NmUzZTc0MTJkNGVjY2Q3N2EzYTk4YWY0",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "Perd\u00ed la Pose",
+      "url": "https://open.spotify.com/track/2CPydcSEGdoMbcWj48fsia"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 193493,
       "name": "Camino de Guanajuato",
       "url": "https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 157840,
-      "name": "Perd\u00ed la Pose",
-      "url": "https://open.spotify.com/track/2CPydcSEGdoMbcWj48fsia"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 173407,
       "name": "No Hay Quinto Malo",
       "url": "https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
-      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": "2023-09-01 06:00:00",

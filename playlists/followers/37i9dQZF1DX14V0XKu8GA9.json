@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 31788,
+  "2024-01-11": 31852,
   "date_first_scraped": "2022-01-13",
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: That Mexican OT",
   "name": "Our Wave, Nuestro Hip-Hop",
@@ -4284,6 +4284,28 @@
     },
     {
       "album": {
+        "name": "My Road",
+        "url": "https://open.spotify.com/album/2pybJWUYMwpIYmq2NdCQiG"
+      },
+      "artists": [
+        {
+          "name": "aroomfullofmirrors",
+          "url": "https://open.spotify.com/artist/4CxaPxktjqoN6F9nyftKYW"
+        },
+        {
+          "name": "JOOSE",
+          "url": "https://open.spotify.com/artist/3Xcl4dxiVbwPafgzBTKQJP"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180162,
+      "name": "My Road",
+      "url": "https://open.spotify.com/track/5JOiIa5m32tSlgMmgYW9R4"
+    },
+    {
+      "album": {
         "name": "La Daisy",
         "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
       },
@@ -7213,6 +7235,28 @@
       "duration_ms": 163605,
       "name": "What You Say (Aye, Aye, Aye)",
       "url": "https://open.spotify.com/track/3poEVYB66Q2x8y2ADvkZlN"
+    },
+    {
+      "album": {
+        "name": "Brown By Honor 4",
+        "url": "https://open.spotify.com/album/73zuCr7jvYDUlUbuPYrxeF"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        },
+        {
+          "name": "Omar Cruz",
+          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181487,
+      "name": "When You See Us (feat. Omar Cruz)",
+      "url": "https://open.spotify.com/track/0PGWeb84jmEzePJfSd3Yp9"
     },
     {
       "album": {

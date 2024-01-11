@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,100 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,113 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [Uh Ah Ah](https://open.spotify.com/track/1JDIwqwmJZkMyekXsyjCHq) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [Uh Ah Ah](https://open.spotify.com/album/3fbqHsycYllRTYVtyZv20V) | 2:06 |
 | 55 | [KRIRM](https://open.spotify.com/track/0PupYO4b4ZA8tdihwNCUo9) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [KRIRM](https://open.spotify.com/album/2SAb40pFyvOYpbPQDirxlL) | 2:31 |
 
-Snapshot ID: `MCxhZGRiNjI5ZGFkNDU1NWU1ZGU5MjY5MDM2YmE4MzE0YzQyNmE1YjA5`
+Snapshot ID: `MCw2ZDk0NjQwMWFlZDU2ZGE3ZDA1ZmNmOTkxYzM4ZWI1M2M2OGY4NDhh`

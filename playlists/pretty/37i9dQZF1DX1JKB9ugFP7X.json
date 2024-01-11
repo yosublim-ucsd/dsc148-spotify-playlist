@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23875,
+  "num_followers": 23869,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDRjMTRiZDFiZDQwZGVmZTFjYzBjYjRlYzM4Y2MyODQ2NTkzOWVm",
+  "snapshot_id": "MCw1N2JiZDAyYmQ1M2Y4YzczOTU4OWRjYTI3YTIzMmIyZTYyZTNlOGI0",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Conexi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+      },
+      "artists": [
+        {
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "CONEXI\u00d3N DE AMOR",
+      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Conexi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
-      },
-      "artists": [
-        {
-          "name": "Make Mama Proud",
-          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
-        }
-      ],
-      "duration_ms": 232550,
-      "name": "CONEXI\u00d3N DE AMOR",
-      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Desaparecer",
-        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Desaparecer",
-      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Postal",
         "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 210002,
       "name": "TODO LO QUE HICIMOS.",
       "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Desaparecer",
+        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Desaparecer",
+      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Chicos de la Luz",
-        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Caribbean",
-      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Cuando Se Apague Todo",
         "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 228443,
       "name": "Cuando Se Apague Todo",
       "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Chicos de la Luz",
+        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Caribbean",
+      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Teoria Espacial (Remix)",
-        "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
-      },
-      "artists": [
-        {
-          "name": "Diego Chamorro",
-          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
-        },
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 332542,
-      "name": "Teoria Espacial (Remix)",
-      "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "blablablablabla",
         "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 201706,
       "name": "blablablablabla",
       "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Teoria Espacial (Remix)",
+        "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
+      },
+      "artists": [
+        {
+          "name": "Diego Chamorro",
+          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
+        },
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 332542,
+      "name": "Teoria Espacial (Remix)",
+      "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1227,22 +1227,6 @@
       "duration_ms": 448000,
       "name": "No Van a Parar - Remix",
       "url": "https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1279,26 +1263,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "No Ves Tal Vez (Evlay Remix)",
-        "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
       },
       "artists": [
         {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Jono McCleery",
-          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
         }
       ],
-      "duration_ms": 313608,
-      "name": "No Ves Tal Vez - Evlay Remix",
-      "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1319,6 +1295,30 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "No Ves Tal Vez (Evlay Remix)",
+        "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 313608,
+      "name": "No Ves Tal Vez - Evlay Remix",
+      "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Dir\u00e9 tu nombre",
-        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Dir\u00e9 tu nombre",
-      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 183500,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Dir\u00e9 tu nombre",
+        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Dir\u00e9 tu nombre",
+      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+        "name": "Lucidez",
+        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
       },
       "artists": [
         {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
         }
       ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+      "duration_ms": 371735,
+      "name": "Lucidez",
+      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Lucidez",
-        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
       },
       "artists": [
         {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
         }
       ],
-      "duration_ms": 371735,
-      "name": "Lucidez",
-      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "MELONI",
-        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "MELONI",
-      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Luc\u00eda",
         "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 289333,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "MELONI",
+        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "MELONI",
+      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
     },
     {
       "added_at": "2023-12-15 03:00:00",

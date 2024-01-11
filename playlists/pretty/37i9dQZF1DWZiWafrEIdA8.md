@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,386 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,384 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 21 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/0UsIsMukG8WAV0CVorWOTb) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 4:36 |
 | 22 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 23 | [FRIENDS](https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [FRIENDS](https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV) | 3:10 |
-| 24 | [Problems](https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp) | 3:48 |
-| 25 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 |
+| 24 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 |
+| 25 | [Problems](https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp) | 3:48 |
 | 26 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 |
 | 27 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
 | 28 | [Bathtub \(Feat\. Whee In, JUSTHIS\) \(Prod\. R.Tee\)](https://open.spotify.com/track/6410lt5ieSLvkczCmltXnc) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 | 50 | [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 |
 
-Snapshot ID: `MCwyMTVmMGM1YjcwNWI0MzdjNjFjMzM4ZDc1MmU2ZmUwY2M3NDkyMzRm`
+Snapshot ID: `MCxjZGMwYzMyMWM2NTU2ZWZiM2JmNmY4MWY4ZGVjN2MxNjg5ZDk3NzAx`

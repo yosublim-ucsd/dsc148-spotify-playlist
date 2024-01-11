@@ -1,33 +1,13 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 86519,
+  "num_followers": 86507,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTg2MzExMDQyNjIzMzY5MjUyNDgxNDU4YTM4ZTJhYTZmYmQ3NWIw",
+  "snapshot_id": "MCw1YWExNzNlNGZkMWM5ZmM4Zjk5N2I5OTczMzQ4MTY5ZTdlMzY2ZjEx",
   "tracks": [
-    {
-      "added_at": "2024-01-08 09:10:09",
-      "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
-      },
-      "artists": [
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        }
-      ],
-      "duration_ms": 226993,
-      "name": "\u0110\u00e1nh \u0110\u1ed5i (ft. RPT MCK)",
-      "url": "https://open.spotify.com/track/2doGmsaPLdot51o80juiYU"
-    },
     {
       "added_at": "2024-01-08 09:10:09",
       "album": {
@@ -59,6 +39,30 @@
       "duration_ms": 291750,
       "name": "Bu\u1ed3n Hay Vui (feat. RPT MCK, Obito, Ronboogz & Boyzed)",
       "url": "https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5"
+    },
+    {
+      "added_at": "2024-01-08 09:10:09",
+      "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        }
+      ],
+      "duration_ms": 226993,
+      "name": "\u0110\u00e1nh \u0110\u1ed5i (ft. RPT MCK)",
+      "url": "https://open.spotify.com/track/2doGmsaPLdot51o80juiYU"
     },
     {
       "added_at": "2024-01-08 09:10:09",
@@ -342,6 +346,10 @@
         {
           "name": "VSTRA",
           "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
+        },
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
         }
       ],
       "duration_ms": 165555,
@@ -799,6 +807,26 @@
     {
       "added_at": "2024-01-08 09:10:09",
       "album": {
+        "name": "Cho T\u00f4i Lang Thang",
+        "url": "https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdt",
+          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "duration_ms": 258784,
+      "name": "Cho T\u00f4i Lang Thang",
+      "url": "https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh"
+    },
+    {
+      "added_at": "2024-01-08 09:10:09",
+      "album": {
         "name": "Gh\u00e9 Qua",
         "url": "https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D"
       },
@@ -819,26 +847,6 @@
       "duration_ms": 237192,
       "name": "Gh\u00e9 Qua",
       "url": "https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq"
-    },
-    {
-      "added_at": "2024-01-08 09:10:09",
-      "album": {
-        "name": "Cho T\u00f4i Lang Thang",
-        "url": "https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V"
-      },
-      "artists": [
-        {
-          "name": "Ng\u1ecdt",
-          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        }
-      ],
-      "duration_ms": 258784,
-      "name": "Cho T\u00f4i Lang Thang",
-      "url": "https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh"
     },
     {
       "added_at": "2024-01-08 09:10:09",
@@ -883,6 +891,22 @@
     {
       "added_at": "2024-01-08 09:10:09",
       "album": {
+        "name": "N\u00f3i D\u1ed1i",
+        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 206139,
+      "name": "N\u00f3i D\u1ed1i",
+      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
+    },
+    {
+      "added_at": "2024-01-08 09:10:09",
+      "album": {
         "name": "Rapitalove",
         "url": "https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E"
       },
@@ -907,22 +931,6 @@
       "duration_ms": 243750,
       "name": "XTC (X\u00edch Th\u00eam Ch\u00fat) (Remix)",
       "url": "https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB"
-    },
-    {
-      "added_at": "2024-01-08 09:10:09",
-      "album": {
-        "name": "N\u00f3i D\u1ed1i",
-        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 206139,
-      "name": "N\u00f3i D\u1ed1i",
-      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
     },
     {
       "added_at": "2024-01-08 09:10:09",

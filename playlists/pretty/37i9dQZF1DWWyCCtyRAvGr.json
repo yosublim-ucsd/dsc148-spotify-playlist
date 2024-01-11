@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 166411,
+  "num_followers": 166452,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDViZjA3MDBhODAwNzc5NGUzMTEzOGM4MDkwNGRkZTg5NWRiNGEx",
+  "snapshot_id": "MCxhNzkzMmI1YWY4MTViYWJlNjQ0NWM4ZTY2ZDMwMzYyZGYxZjUzZmMz",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "The Essential Jimmie Vaughan",
-        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 383760,
-      "name": "Dengue Woman Blues",
-      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Peter Green's Fleetwood Mac (Deluxe)",
         "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 176373,
       "name": "I Loved Another Woman",
       "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 383760,
+      "name": "Dengue Woman Blues",
+      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Hung Down Head",
         "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 189466,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Love Transcends",
         "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 175177,
       "name": "One Step Forward",
       "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 176747,
+      "name": "Somebody Loan Me A Dime - Remastered",
+      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Your Lies",
         "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 186493,
       "name": "Drifting From Town To Town",
       "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Contemporary",
-        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
-      },
-      "artists": [
-        {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Nothing But Love",
-      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Shadows and Ghosts",
         "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 230524,
       "name": "Don't Deal With The Devil",
       "url": "https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Contemporary",
+        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
+      },
+      "artists": [
+        {
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1463,6 +1479,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Two Sides to the Story",
+        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Ray",
+          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
+        }
+      ],
+      "duration_ms": 365909,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "The Legendary Christine Perfect Album",
         "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
       },
@@ -1507,22 +1539,6 @@
       "duration_ms": 275853,
       "name": "Sitting At Home Alone",
       "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Two Sides to the Story",
-        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Ray",
-          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
-        }
-      ],
-      "duration_ms": 365909,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1691,22 +1707,6 @@
       "duration_ms": 157640,
       "name": "Keep On Eatin'",
       "url": "https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ"
-      },
-      "artists": [
-        {
-          "name": "Sean Taylor",
-          "url": "https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe"
-        }
-      ],
-      "duration_ms": 153276,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc"
     }
   ],
   "unique_name": "Blues on the Rocks",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,559 likes - 271 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,560 likes - 271 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 76 | [Walkin' With My Angel](https://open.spotify.com/track/4SRMCUgrwNFN7vUHvyMS7l) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:19 |
 | 77 | [Sharing You](https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:02 |
 | 78 | [Point of No Return](https://open.spotify.com/track/1SeZac1HSpWFBfXv1MUZ3H) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [The Resurrection](https://open.spotify.com/album/06BLB0YP19RZgiqvYwho9A) | 3:05 |
-| 79 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 |
-| 80 | [The Old Crowd](https://open.spotify.com/track/4u4elgxRlDNeiQ0tn3yxnT) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:26 |
+| 79 | [The Old Crowd](https://open.spotify.com/track/4u4elgxRlDNeiQ0tn3yxnT) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:26 |
+| 80 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 |
 | 81 | [On This Side Of Goodbye \- Single Version](https://open.spotify.com/track/1tx5zJ6WPOhsrtqCF36CY5) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [All Time Greats](https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom) | 3:04 |
 | 82 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 |
 | 83 | [The Girl From Ipanema](https://open.spotify.com/track/4azEwlFfJ6rC1Zp88dRoJI) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Snuggles](https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [The Girl From Ipanema](https://open.spotify.com/album/5bDOastHuIYL0rHjZ3WMDf) | 1:23 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 99 | [I Was There \(And I'm Told I Had a Good Time\)](https://open.spotify.com/track/5rQXyZscMjd5AekwWkBDpA) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Good Times! \(Deluxe Edition\)](https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF) | 2:15 |
 | 100 | [We're Gonna Make It](https://open.spotify.com/track/5j9Kzx6cn3rqiMBuOzsIyL) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Todd Smith](https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF) | 4:54 |
 | 101 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 |
-| 102 | [I Think I Can Hear You](https://open.spotify.com/track/6VQYB9tMPzBQrHWhrEdTlC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:25 |
-| 103 | [A Quiet Place to Live](https://open.spotify.com/track/5gjD5X9YR05v8JVqbWvqg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:55 |
+| 102 | [A Quiet Place to Live](https://open.spotify.com/track/5gjD5X9YR05v8JVqbWvqg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:55 |
+| 103 | [I Think I Can Hear You](https://open.spotify.com/track/6VQYB9tMPzBQrHWhrEdTlC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:25 |
 | 104 | [What Am I Gonna Do \- Live](https://open.spotify.com/track/6pxA0inqPsdEzM0jCAf3f7) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Church Street Station Presents: Merle Haggard \(Live\)](https://open.spotify.com/album/3vz3Cqc8r9LPHTYL6sSdOV) | 4:00 |
 | 105 | [Stand Behind Me](https://open.spotify.com/track/2vAhTyIJP5LessHhtVyEuI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:28 |
 | 106 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 |
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 177 | [Ties That Bind](https://open.spotify.com/track/20psXaj97NFE662mSeJUAg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:09 |
 | 178 | [A Night This Side of Dying](https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking Up](https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa) | 3:01 |
 | 179 | [Poor Little Rich Girl \- 1990 Remix / Remaster](https://open.spotify.com/track/2apoUc9GqR0fymKxc8d5QD) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Tristan Powell](https://open.spotify.com/artist/2UOqj3OfNn5lE6npQ6eQql) | [Basie Swings, Bennett Sings](https://open.spotify.com/album/7JmMDmIkkiGpf2YFpYG1Jm) | 3:33 |
-| 180 | [A Road to Nowhere](https://open.spotify.com/track/1tfyZdl5w2gxywZKR4wWT0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:14 |
-| 181 | [Fantasy End](https://open.spotify.com/track/4iWDbmyOVZIs1Ayyi31Ip3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:25 |
+| 180 | [Fantasy End](https://open.spotify.com/track/4iWDbmyOVZIs1Ayyi31Ip3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:25 |
+| 181 | [A Road to Nowhere](https://open.spotify.com/track/1tfyZdl5w2gxywZKR4wWT0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:14 |
 | 182 | [We Are All In This Together](https://open.spotify.com/track/2Ju7lUr2tZ5HK6oxiQXwlU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:02 |
 | 183 | [Still Here Thinking Of You](https://open.spotify.com/track/5jZuTd4qmaJVcTfSuCqBMT) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:11 |
 | 184 | [Time Gone By](https://open.spotify.com/track/5tDFZPFaTGbTZW0mW596k7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:15 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg0MTQyMTAsMDAwMDAwMDBhMmE2YjYwNWY5YWI2ZDI3YTVjNzVlZjQ4ZTJiZmRjOQ==`
+Snapshot ID: `Mjg0MTU2NTAsMDAwMDAwMDBmZjQ5N2ZiZDM5MzY3NjVhZGE1MTVlYmVjY2FiYmY0MQ==`

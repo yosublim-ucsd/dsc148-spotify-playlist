@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > Blood runs in the family\. Listen to the music from and inspired by The Brothers Sun, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589 likes - 53 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,998 likes - 53 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 52 | [Your Time Is Gonna Come \- Remaster](https://open.spotify.com/track/5RPiBNQVmuEm7YlVVotrLa) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Remaster\)](https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU) | 4:34 |
 | 53 | [California \(feat\. Warren Hue\)](https://open.spotify.com/track/2a9dSekAhtHVyTUaI5f65U) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Warren Hue\) \[Acoustic Live Version\]](https://open.spotify.com/album/6LAcWcel05QWZz1dLGAbk7) | 3:50 |
 
-Snapshot ID: `MCw5N2M2NGU0ZTZlYjlkZDdhYTBjYTA4ZDU5NTFkMjM2YjZiYWUxM2Mw`
+Snapshot ID: `MCw5YTRmMWQxMjExNWZjNmQzYzIzNDMyOTQ1ZTM1NTI3ODhiMDEyOTZi`

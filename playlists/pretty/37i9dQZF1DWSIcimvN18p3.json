@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 282353,
+  "num_followers": 282011,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDQyYTBiNjhjNzQyN2E4MDM1NGQ5OGU3ZDYzYjdjMGFlOWYwOGVh",
+  "snapshot_id": "MCxmYzdlOTE1OTczNWExZGI0MmQ3MDE3NGVjMDdhNjAyYmRmODYwNDE5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "Space And Time",
-      "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ana\u00efs Mitchell",
         "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "Space And Time",
+      "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Simple Syrup",
-        "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Lucid Lucy",
-      "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 312613,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Simple Syrup",
+        "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Lucid Lucy",
+      "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 218800,
       "name": "Both Hands",
       "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Age of Apathy",
-        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 210196,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 302600,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 128634,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0nuTldtCp9eCHWkdriK7DV"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "The Harrow & The Harvest",
         "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 184787,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1415,18 +1431,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3"
+        "name": "I Walked With You A Ways",
+        "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
       },
       "artists": [
         {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+          "name": "Plains",
+          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
         }
       ],
-      "duration_ms": 128634,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/0nuTldtCp9eCHWkdriK7DV"
+      "duration_ms": 214653,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1459,30 +1483,6 @@
       "duration_ms": 197466,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/1w9WCqGYdaEUMPs7BAvemm"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "I Walked With You A Ways",
-        "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
-      },
-      "artists": [
-        {
-          "name": "Plains",
-          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 184558,
-      "name": "Jeremiah",
-      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 184558,
+      "name": "Jeremiah",
+      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
-      },
-      "artists": [
-        {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1883,6 +1883,30 @@
       "duration_ms": 195320,
       "name": "Blood on Your Bootheels",
       "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "I Walked With You A Ways",
+        "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
+      },
+      "artists": [
+        {
+          "name": "Plains",
+          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/7eBJf9kAJn06HKp2lBEWi2"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1955,30 +1979,6 @@
       "duration_ms": 341293,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/0YYXg3u5ELZb2SjcD2YTFF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "I Walked With You A Ways",
-        "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
-      },
-      "artists": [
-        {
-          "name": "Plains",
-          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/7eBJf9kAJn06HKp2lBEWi2"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2115,18 +2115,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
+        "name": "Wax & Wane",
+        "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
       },
       "artists": [
         {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+          "name": "Alana Henderson",
+          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
         }
       ],
-      "duration_ms": 268660,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/32Eae9D5LH16lMQfsFVUaO"
+      "duration_ms": 271333,
+      "name": "Wax & Wane",
+      "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Wax & Wane",
-        "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
       },
       "artists": [
         {
-          "name": "Alana Henderson",
-          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
         }
       ],
-      "duration_ms": 271333,
-      "name": "Wax & Wane",
-      "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
+      "duration_ms": 268660,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/32Eae9D5LH16lMQfsFVUaO"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "I've Got That Old Feeling",
-        "url": "https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "I've Got That Old Feeling",
-      "url": "https://open.spotify.com/track/3W8299AD4n4LAgIr5VGY3X"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 270120,
       "name": "Glenfern",
       "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "I've Got That Old Feeling",
+        "url": "https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "I've Got That Old Feeling",
+      "url": "https://open.spotify.com/track/3W8299AD4n4LAgIr5VGY3X"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2415,26 +2415,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "B\u00e9la Fleck & Abigail Washburn",
-        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Railroad",
-      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -2467,6 +2447,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "B\u00e9la Fleck & Abigail Washburn",
+        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Railroad",
+      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "When You're Ready",
-        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 227553,
-      "name": "When You're Ready",
-      "url": "https://open.spotify.com/track/7MkkZ2luXmVSBz7vM9MIvR"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Sorry Now",
         "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 192160,
       "name": "Sorry Now",
       "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "When You're Ready",
+        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 227553,
+      "name": "When You're Ready",
+      "url": "https://open.spotify.com/track/7MkkZ2luXmVSBz7vM9MIvR"
     },
     {
       "added_at": "2023-08-04 04:00:00",

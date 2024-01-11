@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,396 likes - 93 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,408 likes - 93 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 |
 | 2 | [puzzle](https://open.spotify.com/track/0aOrApqjckQ2X9RPefGWNq) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/0xfewBOYmMtCWKQerPccGY) | 3:01 |
-| 3 | [NOWVERSE](https://open.spotify.com/track/7A8cVuQuISEoYxbOQOm5yO) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/7v9JeC4whlA96o6N19hxZI) | 2:35 |
+| 3 | [NOWVERSE](https://open.spotify.com/track/7B8T7CdOphQGeplXQf4w3c) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/0xfewBOYmMtCWKQerPccGY) | 2:35 |
 | 4 | [NIGHTINGALE](https://open.spotify.com/track/27WwSBBpQmkCh5YlOmHpDm) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NIGHTINGALE](https://open.spotify.com/album/4OL3Egiq2Gf4A8aq75B1Zr) | 2:58 |
 | 5 | [S9aiR](https://open.spotify.com/track/2bREEoMT7EyoUFwxh04IzM) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [S9aiR](https://open.spotify.com/album/6VGtl5hQVxkrUoY3k0t5vm) | 3:17 |
 | 6 | [Beautiful Mess \- English Ver.](https://open.spotify.com/track/2i4pR6necpYkVnKcaHxQt7) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Beautiful Mess \(English Ver.\)](https://open.spotify.com/album/2TodryWsmoKontqzBjDsy1) | 3:22 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 92 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 |
 | 93 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 ～乱世、再び！～](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |
 
-Snapshot ID: `MCxjZDRkMDRlNjVkMGJjZWM3NTcwODA1YTlmODM1MzM1ZGFmOTUwNmQy`
+Snapshot ID: `MCw5ZjU0NGZiOTQ4NDA4OGM4Y2Y1YmQ3NzBiZmI2MTczMDVjYzIyNzBm`

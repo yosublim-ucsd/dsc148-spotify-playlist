@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-194 songs - 11 hr 48 min
+195 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Godavari](https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [Godavari](https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC) | 3:07 | 2023-11-07 |  |
 | [Gundellona](https://open.spotify.com/track/1idzeolbseB5V2HeH6kmBW) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Gundellona](https://open.spotify.com/album/3wj51Fk9iR2ki1aCsKpmBj) | 2:59 | 2023-10-09 | 2024-01-07 |
 | [Gundellona](https://open.spotify.com/track/5VYwur3njNtvcrHQdTcueq) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Gundellona](https://open.spotify.com/album/4hSn5VGsNoq9FamiZbdC0W) | 2:59 | 2023-10-09 |  |
-| [Harini](https://open.spotify.com/track/0Ay0o0e6n75gg7GyvdmnBI) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/3SJtaDClZXTAX3teBnln3M) | 3:56 | 2023-05-22 |  |
+| [Harini](https://open.spotify.com/track/0Ay0o0e6n75gg7GyvdmnBI) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/3SJtaDClZXTAX3teBnln3M) | 3:56 | 2023-05-22 | 2024-01-11 |
 | [Harini](https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/1K7Kn0GkjGNVCLhzywriiG) | 3:56 | 2023-05-22 | 2024-01-04 |
 | [Idhi Prema](https://open.spotify.com/track/6d3gMJtIqr84iWNIIVuQEQ) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Manasa Adusumilli](https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Lalitha Shravani](https://open.spotify.com/artist/7h32Npfr5JQkupWW6OgWZS) | [Idhi Prema](https://open.spotify.com/album/3dv7xRIqqy2MuhYUONItic) | 3:00 | 2023-10-04 |  |
 | [In Search Of Life](https://open.spotify.com/track/0irshJTIoKgQVTfiIjq2CH) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [In Search Of Life](https://open.spotify.com/album/00Q5uYS7BzbLpm08mxC23e) | 3:45 | 2023-04-05 | 2023-07-04 |
@@ -111,6 +111,7 @@
 | [Nee Vallane](https://open.spotify.com/track/6j7rVNsyDzoFPNhGmNy0k2) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nee Vallane](https://open.spotify.com/album/6hZWewhZ3b2Q4CJxK3wU2C) | 3:45 | 2023-02-13 | 2023-12-16 |
 | [Nee Vente](https://open.spotify.com/track/57O4fulvIzyo54nkGC6Knr) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Nee Vente](https://open.spotify.com/album/0OtksZElojFdeGaM52yPLB) | 2:32 | 2023-02-14 | 2023-06-03 |
 | [Needhe Aakasam](https://open.spotify.com/track/5xaEg9oOpoFlzSg2vgwte4) | [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0) | [Needhe Aakasam](https://open.spotify.com/album/5Ntckz3IDYKwyVIvEra0Zh) | 3:13 | 2022-11-30 | 2023-06-21 |
+| [Neeli Aakasam](https://open.spotify.com/track/5NX12uXVaHHIu0gKzojX7g) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3) | [Neeli Aakasam](https://open.spotify.com/album/5OWXAvlVHNtOBgu0tgy9Ro) | 3:31 | 2024-01-10 |  |
 | [Neelo Cherela](https://open.spotify.com/track/7HNVLIZginOyHJvlChvsqm) | [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Neelo Cherela](https://open.spotify.com/album/3KCR9M9ELkSP5r3MnguSnU) | 3:13 | 2023-02-09 | 2023-05-23 |
 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 | 2022-07-18 |  |
 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 | 2022-07-18 |  |

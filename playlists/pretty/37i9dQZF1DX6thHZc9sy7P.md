@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6thHZc9sy7P.md) - [plain]
 
 > Guess who's back? Get into the Inner Circle with us!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,785 likes - 59 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,656 likes - 59 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6thHZc9sy7P.md) - [plain]
 | 58 | [고백하는 거야 Confession](https://open.spotify.com/track/2HpYrrrf4mA84To3PCsvSR) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A) | 4:07 |
 | 59 | [IMMATURE](https://open.spotify.com/track/4MKADX60Z5h7WAfaDVbTAS) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EXIT MOVEMENT:E \(JAPAN EDITION\)](https://open.spotify.com/album/6DOmD0SufB8lZ2fQFRV08b) | 3:12 |
 
-Snapshot ID: `MCxjMDhhNjdjZjUwNDY3YTQzYmRlZGVlN2M4MDMzMWUwMGU3OTNmNzFh`
+Snapshot ID: `MCxjOWJmM2NhYWEyMTUyZTc4Mjg2NzcyYTMwMDVkNzM5YWM4ZmM2ZDRj`

@@ -1,9 +1,27 @@
 {
-  "2024-01-10": 5,
+  "2024-01-11": 5,
   "date_first_scraped": "2023-07-02",
   "description": "",
   "name": "chumbucketgumbo",
   "tracks": [
+    {
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
     {
       "album": {
         "name": "Action Hits",

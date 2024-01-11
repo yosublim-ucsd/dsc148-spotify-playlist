@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Saiko
 
-493 songs - 1 day 3 hr 12 min
+494 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Reaction](https://open.spotify.com/track/755ZYuKkmvxrFm0hSCnff9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Reaction](https://open.spotify.com/album/00NYRqVAD0DNrWIBwNYB48) | 3:06 | 2022-02-25 | 2022-03-12 |
 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 | 2022-12-01 | 2023-01-20 |
 | [Recuerdas?](https://open.spotify.com/track/2muDWgvbk4cGFIT6blY4TS) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Recuerdas?](https://open.spotify.com/album/6h3oW5HqTUEUhJk5ZzXcN6) | 3:57 | 2022-12-16 | 2023-01-18 |
-| [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 | 2023-08-29 |  |
+| [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 | 2023-08-29 | 2024-01-11 |
 | [Relación Rota](https://open.spotify.com/track/5RClLxkUvnMWFUQ3VAQEHj) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:40 | 2022-01-07 | 2023-12-12 |
 | [Remember Me](https://open.spotify.com/track/7LknbZPcWVDMb6VLDI01MY) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Remember Me](https://open.spotify.com/album/6VMu4SHIfGS4OPHruUvvKw) | 2:50 | 2023-07-17 | 2023-08-02 |
 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-03-17 | 2023-09-08 |
@@ -490,6 +490,7 @@
 | [X 1 BESO](https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [X 1 BESO](https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W) | 3:08 | 2023-03-21 | 2023-04-11 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-07 | 2023-03-01 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-04-01 | 2022-05-27 |
+| [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 | 2024-01-10 |  |
 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 | 2023-04-03 | 2023-05-10 |
 | [XQ Te Pones Así](https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:38 | 2022-09-19 | 2022-12-17 |
 | [Xxx\_Rosario\_xxX](https://open.spotify.com/track/2lkD7dLodhAM4ctR2g12Qx) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 3:08 | 2023-12-21 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-257 songs - 15 hr 8 min
+258 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-24 | 2023-11-27 |
 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 | 2021-12-24 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6UzZMvSllutX26M5vA9H63) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 3:57 | 2022-12-11 |  |
-| [It Must Be Christmas Time](https://open.spotify.com/track/2kWAXjc3Teae3dMxaRl8QA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [It Must Be Christmas Time](https://open.spotify.com/album/5fzIfGruxmxdfn69fbYN8Q) | 2:19 | 2023-11-27 |  |
+| [It Must Be Christmas Time](https://open.spotify.com/track/2kWAXjc3Teae3dMxaRl8QA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [It Must Be Christmas Time](https://open.spotify.com/album/5fzIfGruxmxdfn69fbYN8Q) | 2:19 | 2023-11-27 | 2024-01-11 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Christmas](https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y) | 2:44 | 2021-12-24 | 2023-12-16 |
 | [It's Christmas](https://open.spotify.com/track/4JXAww1nKt38s1Z4gFcYAS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [It's Christmas](https://open.spotify.com/album/2nRwT02FtfScfuOsUWVEmS) | 3:09 | 2021-12-24 |  |
 | [It's Christmastime](https://open.spotify.com/track/3HpjbC0AWdWjXrMDG88SsM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [It's Christmastime](https://open.spotify.com/album/5ERy83u8h7P6BppwtG0rCZ) | 3:02 | 2022-11-26 |  |
@@ -239,6 +239,7 @@
 | [Unto Us](https://open.spotify.com/track/4CODxRNTaWMIhIRWsqxIOu) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Christmas Hymns](https://open.spotify.com/album/1VXaofVFtZHPCtgMBubW1a) | 2:38 | 2022-12-11 |  |
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |
 | [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 | 2023-11-03 | 2023-12-25 |
+| [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 | 2023-12-15 |  |
 | [We Bow](https://open.spotify.com/track/49pJVkJhuISvkHBY65K6RG) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif), [Isa Ma](https://open.spotify.com/artist/0pWvGTyszb31m9wq2cLlJ0), [Astyn Turr](https://open.spotify.com/artist/2By37PSkMs1WNuiTY0CbQl) | [We Bow / Christmas Is Here](https://open.spotify.com/album/5XDAp6GrTOpatrrFuz30HB) | 3:48 | 2022-12-11 |  |
 | [We Crown You](https://open.spotify.com/track/27vkWX0fybgj0OGaC6uwv8) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [We Crown You](https://open.spotify.com/album/6z94hlGrwTqCxtq7MdPz2w) | 7:01 | 2023-11-03 |  |
 | [We Need A Little Christmas](https://open.spotify.com/track/0tuY26eUFAtEWxVrj5fojS) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:26 | 2021-12-24 |  |

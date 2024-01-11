@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 166420,
+  "num_followers": 166496,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTUzY2E5MzVmNmJkN2VmZmE2ZWVkMzQ4ZDM0ZGE3ZjYyMWMwODE1",
+  "snapshot_id": "MCwwMzRjNGQ4OWE1OTQzYzZkODAyMGFlZDZkMWMwNzM2NjY4MDFiZjJh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:18:16",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Raro",
-        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Yendo a la Casa de Dami\u00e1n",
-      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
-    },
-    {
-      "added_at": "2024-01-04 23:18:16",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+    },
+    {
+      "added_at": "2024-01-04 23:18:16",
+      "album": {
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Yendo a la Casa de Dami\u00e1n",
+      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "Esp\u00edritu",
+        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+      "duration_ms": 202360,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Esp\u00edritu",
-        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
-    },
-    {
-      "added_at": "2024-01-04 23:18:16",
-      "album": {
         "name": "Desaf\u00edos",
         "url": "https://open.spotify.com/album/07xfOC49t79t2o7HzauVK6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 257600,
       "name": "Ojos de Drag\u00f3n!",
       "url": "https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY"
+    },
+    {
+      "added_at": "2024-01-04 23:18:16",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Vol I",
-        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
+        "name": "Ey!",
+        "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
       },
       "artists": [
         {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 266786,
-      "name": "La Calle Es Su Lugar",
-      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+      "duration_ms": 209240,
+      "name": "Polaroid De Locura Ordinaria",
+      "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Ey!",
-        "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
+        "name": "Vol I",
+        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
         }
       ],
-      "duration_ms": 209240,
-      "name": "Polaroid De Locura Ordinaria",
-      "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
+      "duration_ms": 266786,
+      "name": "La Calle Es Su Lugar",
+      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -971,22 +971,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        },
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 183882,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
+      "duration_ms": 206200,
+      "name": "Un Poco de Amor Franc\u00e9s",
+      "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1003,6 +999,26 @@
       "duration_ms": 269053,
       "name": "Rezo por Vos",
       "url": "https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq"
+    },
+    {
+      "added_at": "2024-01-04 23:18:16",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 183882,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1079,8 +1095,8 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
       },
       "artists": [
         {
@@ -1088,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Un Poco de Amor Franc\u00e9s",
-      "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 321640,
-      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
-    },
-    {
-      "added_at": "2024-01-04 23:18:16",
-      "album": {
         "name": "Lo Que Somos",
         "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+      "duration_ms": 321640,
+      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
       },
       "artists": [
         {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 223532,
-      "name": "Ya No Mires Atr\u00e1s",
-      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
+      "duration_ms": 223040,
+      "name": "Tarea Fina",
+      "url": "https://open.spotify.com/track/4mZHvbJWkK9uVmD9SvHKao"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Spinetta y los Socios del Desierto",
-        "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
       "artists": [
         {
-          "name": "Spinetta Y Los Socios Del Desierto",
-          "url": "https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 243626,
-      "name": "Cheques",
-      "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
     }
   ],
   "unique_name": "Rock del D\u00eda",

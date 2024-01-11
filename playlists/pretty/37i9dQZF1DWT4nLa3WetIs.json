@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 139458,
+  "num_followers": 139612,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjkzN2FmOTZkNTYzZDE5Yjk1N2NlNTUzYTUzN2RhNWMwYmQ5ZmU4",
+  "snapshot_id": "MCw0ZTlhMzE5ZGEwMjVhZWI5OWY0MzdlNjk5YmIyZGY4MzAwOGFlOTdj",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Nwa Baby (Ashawo Remix)",
-        "url": "https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Nwa Baby (Ashawo Remix)",
-      "url": "https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 261545,
       "name": "Slow Down (feat. Wiz Kid)",
       "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Nwa Baby (Ashawo Remix)",
+        "url": "https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Nwa Baby (Ashawo Remix)",
+      "url": "https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "On A Spaceship",
-        "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Soke",
-      "url": "https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "D'kings Men",
         "url": "https://open.spotify.com/album/0em9q0dIvlSje53jYnL054"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 237266,
       "name": "Oliver Twist",
       "url": "https://open.spotify.com/track/6EOowyeP4iO02gXv7Em9j5"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "On A Spaceship",
+        "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "Soke",
+      "url": "https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -423,6 +423,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Gongo Aso",
+        "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
+      },
+      "artists": [
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Gongo Aso",
+      "url": "https://open.spotify.com/track/2uRYQDCdF76L5YNZflN8qK"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
         "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 266903,
       "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
       "url": "https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Gongo Aso",
-        "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
-      },
-      "artists": [
-        {
-          "name": "9ice",
-          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Gongo Aso",
-      "url": "https://open.spotify.com/track/2uRYQDCdF76L5YNZflN8qK"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Legacy (Ahamefuna)",
-        "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
-      },
-      "artists": [
-        {
-          "name": "Duncan Mighty",
-          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Obianuju",
-      "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Afrikan New Style",
         "url": "https://open.spotify.com/album/4WC1cBieMiYoc3enDfIi5u"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 175200,
       "name": "D\u00e9cal\u00e9 Gwada",
       "url": "https://open.spotify.com/track/6m9geVsbI6BsPZ6CESmK3c"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Legacy (Ahamefuna)",
+        "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
+      },
+      "artists": [
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Obianuju",
+      "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -863,6 +863,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Akube",
+        "url": "https://open.spotify.com/album/0zELiFzMoNWd27BZ8t24TY"
+      },
+      "artists": [
+        {
+          "name": "Dotman",
+          "url": "https://open.spotify.com/artist/6qMGjGD3lmDJtzALZ8uS2z"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Akube",
+      "url": "https://open.spotify.com/track/4ulKfhOXLxTo0QRCpWfZYh"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Akube",
-        "url": "https://open.spotify.com/album/0zELiFzMoNWd27BZ8t24TY"
-      },
-      "artists": [
-        {
-          "name": "Dotman",
-          "url": "https://open.spotify.com/artist/6qMGjGD3lmDJtzALZ8uS2z"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "Akube",
-      "url": "https://open.spotify.com/track/4ulKfhOXLxTo0QRCpWfZYh"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "DeYaaa",
+        "url": "https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp"
+      },
+      "artists": [
+        {
+          "name": "Kwamz & Flava",
+          "url": "https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Wo Onane No",
+      "url": "https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Chingam (feat. Bisa Kdei)",
         "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 214013,
       "name": "Chingam (feat. Bisa Kdei)",
       "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "DeYaaa",
-        "url": "https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp"
-      },
-      "artists": [
-        {
-          "name": "Kwamz & Flava",
-          "url": "https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Wo Onane No",
-      "url": "https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Love Me, Love Me, Love Me",
+      "url": "https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 220960,
       "name": "Ajeei (feat. Nana Boroo & Sarkodie)",
       "url": "https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Love Me, Love Me, Love Me",
-      "url": "https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI"
     },
     {
       "added_at": "2020-11-06 13:21:21",

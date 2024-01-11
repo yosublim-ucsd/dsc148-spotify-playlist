@@ -2,7 +2,7 @@
 
 ### [Levitate](https://open.spotify.com/playlist/37i9dQZF1DWVY5eNJoKHd2)
 
-> Music that makes you feel like you're levitating.
+> Music that makes you feel like you're levitating
 
 399 songs - 1 day 0 hr 57 min
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX34s4fg4Zx3Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX34s4fg4Zx3Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX34s4fg4Zx3Z)
 
-### [Fresh Finds Vietnam  2023](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
+### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Southalid
 

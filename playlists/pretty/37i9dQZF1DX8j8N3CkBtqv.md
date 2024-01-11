@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,434 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,515 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Baatein](https://open.spotify.com/track/0YDu2KNs4JEk21cuO538hE) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Baatein](https://open.spotify.com/album/2CIEW2qLACFHpPdrLU66Kh) | 3:05 |
 | 50 | [Tera Ho Gaya](https://open.spotify.com/track/59FM7MmPIP1MsQE5cMlAAn) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Tera Ho Gaya](https://open.spotify.com/album/2E6IlsJetcFPCCtqxLLCJs) | 2:58 |
 
-Snapshot ID: `MCw3ZDQzZGY2OTFjNTU4ZjY2NmVmZjJmYTY2OGU0Mzc1ODQwODQ2NTBm`
+Snapshot ID: `MCwwZTg5MWMxMWI4ZWEwNDRhNDU2MDliYzdjYTQ4NjkzNDJiMDUwYjY1`

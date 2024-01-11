@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Barkee Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,832 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,762 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 64 | [Eye of the Day](https://open.spotify.com/track/3M5zmqmD9yjsi9QuDNIWGk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:11 |
 | 65 | [Shhh.](https://open.spotify.com/track/1o135lY1qAAupB72BNb8jK) | [Johnny Mox](https://open.spotify.com/artist/4XzJm38kgQbtmqhXP3yfsk) | [Anni Venti](https://open.spotify.com/album/6BWEyWZY8KZfuBPh0fhVgN) | 2:29 |
 
-Snapshot ID: `MCxkMTcxMGU4NDVmN2RkMzhjNTlhMmFkOWUzZWM1OTRhNzM2OWExZmJi`
+Snapshot ID: `MCw3MjY5ZmY4ODcyNjAwMGNjNTM0YmUwMTQ0YTlhMjZmYzdjMWRiZTNm`

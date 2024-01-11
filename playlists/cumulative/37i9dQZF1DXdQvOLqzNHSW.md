@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-714 songs - 1 day 19 hr 1 min
+715 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@
 | [One Day It'll All Make Sense](https://open.spotify.com/track/41F6Z4ldpPWxy0hr5OUn9z) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [One Day It'll All Make Sense](https://open.spotify.com/album/6MtD3lsWbdX3fVWp5KfzQd) | 1:01 | 2023-08-18 | 2023-10-01 |
 | [One More Try](https://open.spotify.com/track/7MdUPy3vjyCpoRDCXa3JN4) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [breathe.](https://open.spotify.com/album/29l6kAoHxTK5vYF5fsbiRs) | 3:17 | 2023-10-17 |  |
 | [One Step Closer 1.4 \[2021 Export Wav\] feat\. Panda Bear](https://open.spotify.com/track/2QX2AOmSUydpG1IRK4xVR8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:16 | 2023-09-29 | 2023-10-11 |
-| [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 | 2023-08-18 |  |
+| [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 | 2023-08-18 | 2024-01-11 |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2020-12-21 | 2023-08-19 |
 | [Only One](https://open.spotify.com/track/165suvq1v7N0IUK5av3E7z) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/22ex6Jl6wXPt3myCvphAT4) | 4:53 | 2023-05-25 | 2023-11-18 |
 | [Only One](https://open.spotify.com/track/5wlaunvIHcQYdhT23JvRGO) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/7jSJCnwfELIYnTaZcjKWJe) | 4:53 | 2020-12-21 | 2022-04-20 |
@@ -531,6 +531,7 @@
 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 | 2021-06-25 | 2022-07-09 |
 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 | 2020-12-21 | 2022-04-18 |
 | [Sabrina \(i am a party\)](https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:19 | 2022-10-07 | 2022-12-01 |
+| [Sad Disco \(Pine Studios\)](https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow \(Deluxe\)](https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp) | 3:47 | 2024-01-04 |  |
 | [Said I Don't Cry](https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Said I Don't Cry](https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj) | 3:31 | 2023-05-25 |  |
 | [Sapphire Alley](https://open.spotify.com/track/5DamCARBr1qv1aiPS2Hip9) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Sapphire Alley](https://open.spotify.com/album/7swcD8JF9TCG4Qw4UTeFpE) | 3:22 | 2021-06-25 | 2022-07-20 |
 | [Satellite](https://open.spotify.com/track/2ZePtlVh7zuwJuRsyDf0wv) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Satellite](https://open.spotify.com/album/7CqjJX9zyeD5oGqhItutRJ) | 2:59 | 2023-06-08 | 2023-08-19 |

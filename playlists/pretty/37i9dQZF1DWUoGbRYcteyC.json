@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1991702,
+  "num_followers": 1988469,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGVkNTRhZTE5ZDdkOTY3ZDRmYTFhYjY1MTNjM2RmYmYxMGNhNDAx",
+  "snapshot_id": "MCwwODgwYTNmZmYzYTlkMTAzNTEyZTVmYWE0NDc3YjFjYTQwNGQ0NzFm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "La Mujer Perfecta",
+        "url": "https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "La Mujer Perfecta",
+      "url": "https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 190828,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "La Mujer Perfecta",
-        "url": "https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "La Mujer Perfecta",
-      "url": "https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "seu carinho",
+        "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "seu carinho",
+      "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 220647,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "seu carinho",
-        "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "seu carinho",
-      "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
     }
   ],
   "unique_name": "Amor Amor",

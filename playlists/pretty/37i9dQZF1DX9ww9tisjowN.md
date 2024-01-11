@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Rokudenashi\(ロクデナシ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,819 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,503 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [YAKITORI](https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:44 |
 | 75 | [We The Female!](https://open.spotify.com/track/41n2nfFUIBVjiypYmzPqkp) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 3:04 |
 
-Snapshot ID: `MCwyMDcxNTFjNjg0ZDM5NjFmMmUxNWUxNmMxZjFhZmM5YWYxMGRkN2Y3`
+Snapshot ID: `MCw5MzZiMTAzNWU4M2E4MTRjNDNkMDE5ZGIxNzI3M2RkYjQ5NzE1MTgz`

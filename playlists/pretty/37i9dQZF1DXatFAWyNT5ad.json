@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Knox",
-  "num_followers": 131380,
+  "num_followers": 131452,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTJiMGIxNDhlOTAzYjg4ZWE3NTE4YzI2ODE1MzllNzM2ZjE0NTI4",
+  "snapshot_id": "MCw0Y2IxZDBmMWE0MzM2MTQwOTA1ZDAxMzQ4MjBkYzZmZDAwYzUxNzU5",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+      },
+      "artists": [
+        {
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 187838,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 143500,
       "name": "Dress",
       "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Faith In The Future (Deluxe)",
-        "url": "https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn"
-      },
-      "artists": [
-        {
-          "name": "Louis Tomlinson",
-          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
-        }
-      ],
-      "duration_ms": 137973,
-      "name": "Out Of My System",
-      "url": "https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -783,34 +783,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
+        "name": "Faith In The Future (Deluxe)",
+        "url": "https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn"
       },
       "artists": [
         {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
         }
       ],
-      "duration_ms": 187838,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+      "duration_ms": 137973,
+      "name": "Out Of My System",
+      "url": "https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -827,6 +811,22 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1456,7 +1456,7 @@
       },
       "artists": [
         {
-          "name": "Jaden Hossler",
+          "name": "jxdn",
           "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
@@ -1479,26 +1479,6 @@
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "STRANGERS",
-        "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        },
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 223176,
-      "name": "STRANGERS",
-      "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1527,22 +1507,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "STRANGERS",
+        "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
       "artists": [
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         },
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 191559,
-      "name": "toxic energy (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+      "duration_ms": 223176,
+      "name": "STRANGERS",
+      "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1559,6 +1539,26 @@
       "duration_ms": 158723,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/0QRWbkURJ1dJ3yilr8MriQ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "I Hope I'm Not Sick",
+        "url": "https://open.spotify.com/album/34jYFXH3ybEIklGpPGzJ9D"
       },
       "artists": [
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
         }
       ],
-      "duration_ms": 204642,
-      "name": "the idea",
-      "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
+      "duration_ms": 151502,
+      "name": "I Hope I'm Not Sick",
+      "url": "https://open.spotify.com/track/37QHhhnI5uuYSuJuWskV86"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "I Hope I'm Not Sick",
-        "url": "https://open.spotify.com/album/34jYFXH3ybEIklGpPGzJ9D"
-      },
-      "artists": [
-        {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        }
-      ],
-      "duration_ms": 151502,
-      "name": "I Hope I'm Not Sick",
-      "url": "https://open.spotify.com/track/37QHhhnI5uuYSuJuWskV86"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -1704,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 182792,
-      "name": "dead inside",
-      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+      "duration_ms": 204642,
+      "name": "the idea",
+      "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1791,6 +1775,22 @@
       "duration_ms": 190651,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 182792,
+      "name": "dead inside",
+      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2036,7 +2036,7 @@
           "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         },
         {
-          "name": "Jaden Hossler",
+          "name": "jxdn",
           "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],

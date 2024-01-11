@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 40196,
+  "num_followers": 40230,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTk2NTI1YzNjNmI2MGY1NmRkYzVjZjI0OGI5ZmIxZjk0ZjFiZDU3",
+  "snapshot_id": "MCw3NTgyODAxYjcxMWM4OGVkODlkYjlmYTY5YTVlMDAwMTE3OGJlM2Rl",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -787,38 +787,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La Reina de las Parranditas",
-        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
-      },
-      "artists": [
-        {
-          "name": "Abencia Meza",
-          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "Cuanto Tiempo Sin Verte",
-      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "La princesa del Folklore",
-        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
-      },
-      "artists": [
-        {
-          "name": "Alicia Delgado",
-          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "D\u00f3nde Est\u00e1 tu Dinero",
-      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
       },
@@ -847,6 +815,38 @@
       "duration_ms": 222973,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "La Reina de las Parranditas",
+        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
+      },
+      "artists": [
+        {
+          "name": "Abencia Meza",
+          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "Cuanto Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "La princesa del Folklore",
+        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Delgado",
+          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "D\u00f3nde Est\u00e1 tu Dinero",
+      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
       "artists": [
         {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
         }
       ],
-      "duration_ms": 160200,
-      "name": "Carrito del Gobierno",
-      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+      "duration_ms": 210560,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

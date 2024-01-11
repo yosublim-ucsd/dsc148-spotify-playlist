@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,169 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,173 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 47 | [Requiebros \(Arr\. for Theremin & Piano\)](https://open.spotify.com/track/50zabl8L6p3aeF4i7x3sPz) | [Gaspar Cassadó](https://open.spotify.com/artist/69CqmqoqN7ZwMRAMODTUF6), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Dvořák, Ravel, Gershwin & Others: Chamber Works](https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn) | 4:00 |
 | 48 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
 | 49 | [Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster \(From Outer Space\)](https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ) | [Moritz Eggert](https://open.spotify.com/artist/5kEOPoyE7tFJVX5mEkJ791), [Barbara Buchholz](https://open.spotify.com/artist/5PKeaAkMpVKmfw9ArG4US3), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Kammerensemble Neue Musik Berlin](https://open.spotify.com/artist/1N6kZMavwtrER7WWYwleuI) | [touch! don touch! music for theremin](https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH) | 8:45 |
-| 50 | [Voice of Theremin](https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49) | [Vladimir Komarov](https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 8:47 |
+| 50 | [荒城の月](https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV) | [Masami Takeuchi](https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq) | [Theremin Vox Collection Vol.1](https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu) | 3:02 |
 
-Snapshot ID: `MCwyZmI5MTJlNjFlZGJhYjA0NjU3ZTk5YTkzYzZiMmY4NzNkMTQ4YjZl`
+Snapshot ID: `MCwwMWMzM2VjMTMzYTI5M2Y1Y2IwODQ0ZjY4ZTQ2Y2JkZmYxYTNmMWFi`

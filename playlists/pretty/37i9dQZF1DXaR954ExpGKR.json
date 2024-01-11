@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 176766,
+  "num_followers": 176801,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjhhMTdkMDY1NTZkMThlNDhlMDM0MmU3MzRhZmNkYzQ2NTg1MTVi",
+  "snapshot_id": "MCxlNjRkOTkwY2ViY2M3ODVmMDQ2MTI1Y2I1ZGY2YThlYmU3NDNmMGE4",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -939,18 +939,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Bruk Off Yuh Back",
-        "url": "https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U"
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 173465,
-      "name": "Bruk Off Yuh Back",
-      "url": "https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu"
+      "duration_ms": 195813,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -971,26 +975,6 @@
       "duration_ms": 130666,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -1055,6 +1039,26 @@
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "LFG",
+        "url": "https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        },
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 158837,
+      "name": "DROP TOP (feat. Eddie Zuko)",
+      "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
     }
   ],
   "unique_name": "Latino Global",

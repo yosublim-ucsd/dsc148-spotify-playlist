@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 108008,
+  "2024-01-11": 107998,
   "date_first_scraped": "2019-09-29",
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
@@ -7739,7 +7739,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 248347,
       "name": "CALMA - Remix",
       "url": "https://open.spotify.com/track/0FvF4XO36AwEyc2zCVCjyo"
@@ -7775,7 +7775,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 188956,
       "name": "Camino",
       "url": "https://open.spotify.com/track/3HuEdFyq7BPQCqH179VaVk"
@@ -13749,7 +13749,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 220007,
       "name": "Dulce De Leche",
       "url": "https://open.spotify.com/track/7npX4vsXeMhUCtsuuImWkQ"
@@ -18527,7 +18527,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 204160,
       "name": "Girl, I Know A Guy",
       "url": "https://open.spotify.com/track/21Vy8ApM1WXLPRNnwhetX3"
@@ -21043,7 +21043,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 192965,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/1oxi8L6luWRLlqZmHEI8qo"
@@ -21633,7 +21633,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 148125,
       "name": "Howweusedtobe",
       "url": "https://open.spotify.com/track/2GZTc6b6LSqRSC6qAWNsoi"
@@ -27997,7 +27997,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 263977,
       "name": "Long Before Our Time",
       "url": "https://open.spotify.com/track/58q0O9v3G0HnrTyf3J2w91"
@@ -30693,7 +30693,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 287532,
       "name": "Midnight Rider",
       "url": "https://open.spotify.com/track/20modtGjw1PJOOGbUYITcv"
@@ -30929,7 +30929,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 262917,
       "name": "Minnesota",
       "url": "https://open.spotify.com/track/1XJgYuaWBGWEDYMCtNen4M"
@@ -45944,6 +45944,24 @@
     },
     {
       "album": {
+        "name": "The Children Will Pay",
+        "url": "https://open.spotify.com/album/20UBKfngrQjDAYOHm5NBHK"
+      },
+      "artists": [
+        {
+          "name": "Janna Badalian",
+          "url": "https://open.spotify.com/artist/5NyBZhdRgRFscEwqQyjGrf"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211231,
+      "name": "The Children Will Pay",
+      "url": "https://open.spotify.com/track/6oxPdMpKlJq5kuIGm9tQXl"
+    },
+    {
+      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/12qPZsUUx4NTHboMPc6ycs"
       },
@@ -48579,7 +48597,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 187774,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/0SlGIyPCLbIFtOT3UhAFsR"
@@ -49636,6 +49654,24 @@
     },
     {
       "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/2SPqtySOvGdiPbS1u0BsMr"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/5aeZzetAqugIhW81mR7Zr7"
+    },
+    {
+      "album": {
         "name": "Prova",
         "url": "https://open.spotify.com/album/13jIAxg5iZCup4LbHhoEu9"
       },
@@ -49881,6 +49917,24 @@
       "duration_ms": 193735,
       "name": "Vanity Fool",
       "url": "https://open.spotify.com/track/3ooSk2s81OIX51OkkWASD6"
+    },
+    {
+      "album": {
+        "name": "Ven Pa Ca",
+        "url": "https://open.spotify.com/album/3DGFY8fwmkgdKu9s0E0Fuc"
+      },
+      "artists": [
+        {
+          "name": "HERMANN",
+          "url": "https://open.spotify.com/artist/39nfOPNks3gAIk1jIbVVGJ"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Ven Pa Ca",
+      "url": "https://open.spotify.com/track/19felDAYliRHZSwBwdAO6O"
     },
     {
       "album": {
@@ -51201,7 +51255,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 286451,
       "name": "WE LE LE",
       "url": "https://open.spotify.com/track/1qb355GEuTidwStoROG5zh"

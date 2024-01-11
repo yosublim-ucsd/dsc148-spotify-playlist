@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Pyura
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,499 likes - 49 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,508 likes - 49 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 48 | [Tarantula](https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Lopezhouse](https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Tarantula](https://open.spotify.com/album/1K7W4NvEi6RNvNfCNDnKTt) | 6:20 |
 | 49 | [El Deseo \(Original Mix\)](https://open.spotify.com/track/2Pb7uSQ6oDJnejWT7Sgyc4) | [Jime Ferreyra](https://open.spotify.com/artist/4f9usfrcaDpZxuRwzxtlNw) | [El Deseo \(Original Mix\)](https://open.spotify.com/album/4Y7BcT6MivF9iikS7A42q6) | 6:32 |
 
-Snapshot ID: `MCxhM2I4NjkzNzFkMTFhZGZhOTA4NzA4ODQ2NDY1MzY2YTYyZTg0NDRk`
+Snapshot ID: `MCwyYmZjODMxYThlYjk1MWUyMGYyNjM1YmVlOTYyYTYxYTUwNjA4MTYx`

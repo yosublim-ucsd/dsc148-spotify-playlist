@@ -1,12 +1,12 @@
 {
   "description": "R&B sensual para una apasionada noche en excelente compa\u00f1\u00eda.",
-  "num_followers": 145813,
+  "num_followers": 145817,
   "original_name": "Texteo de Medianoche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTE5NWE2ODhiMTMzMjQxMDg5Yzc2N2Y5NDk2M2JiYmYyMmI5NTRl",
+  "snapshot_id": "MCxlOGNhNWVmMDQwMDljZWFmYjE5OTI2MTIwODIyMjgzM2FmODYzZWNj",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 181463,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Te Hice Mal (Remix)",
         "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 269000,
       "name": "Te Hice Mal (Remix)",
       "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
     },
     {
       "added_at": "2023-11-17 06:00:00",

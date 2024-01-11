@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 697719,
+  "num_followers": 697668,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmIyMDdlYTkxZTcyMGE3MTY3Yjk5NjM4YTZhZmU3MTZlYjg5OGJj",
+  "snapshot_id": "MCxjOWJiYzgzZTc2ODBiNWE2NzI4OTY3Yjg2N2QwMDYwMDMxNTFmOWI3",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -287,26 +287,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Two Tens (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 152371,
-      "name": "Two Tens (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "The Difference",
         "url": "https://open.spotify.com/album/4iwKDIUE0hLZcdadHE87kl"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/5kJ4BWZ9Y1qFIwwTbMIxYX"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Two Tens (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 152371,
+      "name": "Two Tens (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Wallsocket",
         "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 245122,
       "name": "Johnny johnny johnny",
       "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Sariah Mae",
+          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
+        }
+      ],
+      "duration_ms": 178477,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Cheese (feat. PawPaw Rod & Valerie June)",
         "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 229525,
       "name": "Cheese (feat. PawPaw Rod & Valerie June)",
       "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
-      },
-      "artists": [
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "Sariah Mae",
-          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
-        }
-      ],
-      "duration_ms": 178477,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "You Thought (feat. Janelle Mon\u00e1e)",
         "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 181453,
       "name": "You Thought (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Princess Forever",
-        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Gimme A Chance",
-      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "ROMCOM",
-        "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
-      },
-      "artists": [
-        {
-          "name": "Jakey",
-          "url": "https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3"
-        }
-      ],
-      "duration_ms": 185233,
-      "name": "TOMMY HANKS",
-      "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "It\u2019s Never Fair, Always True",
         "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 167841,
       "name": "lalala",
       "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "ROMCOM",
+        "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
+      },
+      "artists": [
+        {
+          "name": "Jakey",
+          "url": "https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3"
+        }
+      ],
+      "duration_ms": 185233,
+      "name": "TOMMY HANKS",
+      "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "What Should I Do?",
-        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "What Should I Do?",
-      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "\"DESTRUCTION FOR DUMMIES\", PT. 2 JEAN DAWSON AS \"NIGHTMARE\"",
         "url": "https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 189978,
       "name": "X-RAY",
       "url": "https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "What Should I Do?",
+        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "What Should I Do?",
+      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "I feel like doing candy flips and riding elephants",
-        "url": "https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8"
+        "name": "GET NAUGHTY !",
+        "url": "https://open.spotify.com/album/3oeK4C4V2CjcpBHvIXTUQz"
       },
       "artists": [
         {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 148330,
-      "name": "candyflips!",
-      "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
+      "duration_ms": 149815,
+      "name": "GET NAUGHTY !",
+      "url": "https://open.spotify.com/track/1z5GBU5eT0LxyBFAcaigHG"
     }
   ],
   "unique_name": "anti pop",

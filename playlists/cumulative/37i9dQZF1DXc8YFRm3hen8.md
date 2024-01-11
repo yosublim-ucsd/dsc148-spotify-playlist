@@ -4,7 +4,7 @@
 
 > La banda de sonido de tu día.
 
-274 songs - 18 hr 6 min
+275 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Caronte](https://open.spotify.com/track/2JgcShs8JycDzmfcazU9pX) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Caronte](https://open.spotify.com/album/3o7hOrguLg6GIFURGsUeZG) | 3:53 | 2022-07-19 | 2022-07-28 |
 | [Casualidad](https://open.spotify.com/track/6DKUK1wABPWg7DoulUEzrs) | [Cony la Tuquera](https://open.spotify.com/artist/0GqHNuocCl9kNENsJNgvQJ), [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Casualidad](https://open.spotify.com/album/4i9TJ0ixbMoJIC0ud6UZJ1) | 4:14 | 2022-07-01 | 2022-07-29 |
 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 | 2022-06-29 | 2024-01-09 |
-| [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 | 2023-12-15 |  |
+| [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 | 2023-12-15 | 2024-01-11 |
 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 | 2022-07-19 |  |
 | [Claro Ma](https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:02 | 2023-07-28 | 2023-09-22 |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2022-06-29 | 2022-07-28 |
@@ -237,6 +237,7 @@
 | [Tan Solo](https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 4:00 | 2022-07-19 |  |
 | [Tan Solo](https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 4:00 | 2022-06-29 | 2022-07-27 |
 | [Tan Solo \(Acústico\)](https://open.spotify.com/track/2kXVg8VLdF3YXZ4NLSqsoz) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2r9obvPDsbCqk69TXz5W6m) | 4:06 | 2022-07-01 | 2022-07-26 |
+| [Tarea Fina](https://open.spotify.com/track/4mZHvbJWkK9uVmD9SvHKao) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 3:43 | 2024-01-04 |  |
 | [Tarea Fina](https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:43 | 2022-06-29 | 2024-01-04 |
 | [Te Hace Feliz](https://open.spotify.com/track/67DE2XvSfMvYnuFD31E2We) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Revolución de la Alegria](https://open.spotify.com/album/6XESoePuuRP2X2H2kpPYxf) | 2:55 | 2022-07-19 | 2022-07-26 |
 | [Te quiero igual](https://open.spotify.com/track/4Y7nAGTGPq8jikscC0jIHy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/2gwzhCxkiLzZC0aPigMz5Y) | 3:55 | 2022-06-29 | 2022-07-27 |

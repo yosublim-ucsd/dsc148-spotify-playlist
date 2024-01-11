@@ -1,5 +1,5 @@
 {
-  "2024-01-10": 471721,
+  "2024-01-11": 471556,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -14785,7 +14785,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -15969,7 +15969,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 189136,
       "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/75DRLUnnltzSyuTJ7onxmW"
@@ -17891,7 +17891,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 175999,
       "name": "White Brown Black",
       "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"
@@ -18197,6 +18197,24 @@
       "duration_ms": 194857,
       "name": "Ykwim",
       "url": "https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ"
+    },
+    {
+      "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2"
     },
     {
       "album": {

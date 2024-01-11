@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-264 songs - 1 day 0 hr 47 min
+265 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 | 2023-12-18 |  |
 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI) | 8:48 | 2023-09-25 | 2023-10-15 |
 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 | 2023-06-23 |  |
-| [O Senhor do Tempo](https://open.spotify.com/track/24ZOQHs3222kboGzhlkf5E) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Senhor do Tempo](https://open.spotify.com/album/0BQ9B4eRqL4RS6rfKnGR0R) | 6:18 | 2023-10-06 |  |
+| [O Senhor do Tempo](https://open.spotify.com/track/24ZOQHs3222kboGzhlkf5E) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Senhor do Tempo](https://open.spotify.com/album/0BQ9B4eRqL4RS6rfKnGR0R) | 6:18 | 2023-10-06 | 2024-01-11 |
 | [O Tamanho da Tua Dor](https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [O Tamanho da Tua Dor](https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg) | 3:36 | 2023-10-06 | 2023-10-21 |
 | [Oceanos \(Onde Meus Pés Podem Falhar\) \[Oceans Where Feet May Fail\] \- Ao Vivo](https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Não Me Deixes Desistir \(Ao Vivo\)](https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6) | 8:15 | 2022-09-09 |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2022-09-09 |  |
@@ -239,6 +239,7 @@
 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 6:41 | 2022-12-09 | 2023-04-29 |
 | [Todavia Me Alegrarei \(Ao Vivo\)](https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Samuel Messias \(Ao Vivo\)](https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX) | 6:31 | 2022-09-09 |  |
 | [Todavia Me Alegrarei \- Ao Vivo](https://open.spotify.com/track/0BUKz3V1yW6HPVzYuXlUIU) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Todavia Me Alegrarei \(Ao Vivo\)](https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP) | 4:51 | 2023-05-19 |  |
+| [Todo Poderoso \- Ao Vivo](https://open.spotify.com/track/7Ko5h3XvOo2u9qr0XkgHdH) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/album/6sjQlKkjVXB4sYYs9Z4gdn) | 5:14 | 2024-01-05 |  |
 | [TOGETHER](https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TOGETHER](https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z) | 3:26 | 2022-09-09 | 2023-02-25 |
 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 | 2022-09-09 | 2023-01-14 |
 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 | 2022-09-09 | 2023-02-25 |

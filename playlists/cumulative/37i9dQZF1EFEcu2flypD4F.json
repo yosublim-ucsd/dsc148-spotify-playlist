@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 223514,
       "name": "Boy Problems",
       "url": "https://open.spotify.com/track/7pOqWHWP02vGnR70B2EyLC"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 231296,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/0b0fQEnQn9l1vefRbrOUV0"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Flames",
       "url": "https://open.spotify.com/track/2mBPqbzgjIELxd86CdxC7v"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 195486,
       "name": "Flames",
       "url": "https://open.spotify.com/track/5LXy5PADjSK3gt4Km114RP"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 300386,
       "name": "Guts Over Fear",
       "url": "https://open.spotify.com/track/0VZs2OQq4axr8GFRdC9nyD"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 339255,
       "name": "Guts Over Fear",
       "url": "https://open.spotify.com/track/6nxuFJW2F0UwuIUEl7WLdi"
@@ -4594,10 +4594,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 211200,
       "name": "Shine Bright",
       "url": "https://open.spotify.com/track/6wD2UrrU4uSXlSOUcrqfie"
+    },
+    {
+      "album": {
+        "name": "Cover Club Hits Vol. 1",
+        "url": "https://open.spotify.com/album/0fJkNsT2GjoBISAGLHl8DX"
+      },
+      "artists": [
+        {
+          "name": "Arianna Lupo",
+          "url": "https://open.spotify.com/artist/19ybsqqHaPqep7UEOTBCAe"
+        },
+        {
+          "name": "DJ Nicolas",
+          "url": "https://open.spotify.com/artist/0d653z0OSCAYQboQQHruq4"
+        },
+        {
+          "name": "DJ Combo",
+          "url": "https://open.spotify.com/artist/0QZeOX6E29ggbNH9kul2yu"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Shine Bright",
+      "url": "https://open.spotify.com/track/72DFw6iPJPOhEKvH1RWcf1"
     },
     {
       "album": {
@@ -4666,7 +4692,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -4684,7 +4710,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 172255,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/4478hK5vl9IVnYr2pxW7jP"
@@ -5496,7 +5522,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 195797,
       "name": "Thunderclouds (feat. Sia, Diplo & Labrinth)",
       "url": "https://open.spotify.com/track/5zdujoXtK3yN2ux30OSVLJ"
@@ -5526,7 +5552,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 187026,
       "name": "Thunderclouds (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
@@ -6010,7 +6036,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 238122,
       "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]",
       "url": "https://open.spotify.com/track/18Vgd3qG5OaU2TByBwFNOi"
@@ -6036,7 +6062,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 222520,
       "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
       "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
@@ -6262,7 +6288,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 257252,
       "name": "You Lost Me",
       "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
@@ -6280,7 +6306,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 265706,
       "name": "You Lost Me",
       "url": "https://open.spotify.com/track/30LX4w8a4TAtpQUbgfvFTm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,520 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,886,218 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 22 | [YOU'RE TOO SLOW \- Sped Up](https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DOOR TO DUSK \(ODECORE MIX\)](https://open.spotify.com/album/0lzxP3FqDyCvbEL8jER5kX) | 1:39 |
 | 23 | [Daylight \- Sped Up](https://open.spotify.com/track/3Scolo2qkKcTNVI3GOsKAP) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 2:49 |
 | 24 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
-| 25 | [LDR \- Sped Up](https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Shoti Sped Up](https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9) | 2:45 |
+| 25 | [LDR \- Sped Up](https://open.spotify.com/track/6bLwOcpjZOL1GuCHBoB4VZ) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Shoti Sped Up](https://open.spotify.com/album/43KGg9deOHTDz5MBWPyQGp) | 2:45 |
 | 26 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
 | 27 | [Feather \- Sped Up](https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Feather \(Sped Up\)](https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF) | 2:33 |
 | 28 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [In The Stars \- Sped Up](https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Sped Up\)](https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu) | 2:50 |
 | 100 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 |
 
-Snapshot ID: `MCwyY2I4YjY0M2E3ZGVlZDA4YTA0ZjY0N2IzOTJlZWJhMjNmMGEzNDkw`
+Snapshot ID: `MCw4MWJkZWM1Zjk3ZGNkYjUxMTNkMzJiMTAzZThhMjk2M2JkNGY1YjEw`

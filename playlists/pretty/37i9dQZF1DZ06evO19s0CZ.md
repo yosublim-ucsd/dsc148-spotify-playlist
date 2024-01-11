@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,124 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,016 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 46 | [Little T&A \- Remastered](https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:23 |
 | 47 | [Rip This Joint](https://open.spotify.com/track/0SojSZcka4j8l8Sl0W9jUZ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 2:23 |
 | 48 | [Loving Cup](https://open.spotify.com/track/34OzAaQeAWlFnZBSyUAtRh) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 4:24 |
-| 49 | [Sway \- 2009 Mix](https://open.spotify.com/track/1ZS5HBMAmZk3gjFcedts66) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:52 |
+| 49 | [Not Fade Away \- Mono Version](https://open.spotify.com/track/0C7w4XnkIGu11MpNWbiTLB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [England’s Newest Hitmakers](https://open.spotify.com/album/5efoVI6WIhxLCIrbZuxwBu) | 1:47 |
 | 50 | [Hang Fire \- Remastered](https://open.spotify.com/track/5HcTLesmMaPr0CkwdbtK0o) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bob Clearmountain](https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 2:21 |
 
-Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA1ZDU5YWU3ZmM4ZjBmNjkyNjUyOTkxNzk3MzA5YzAyOQ==`
+Snapshot ID: `Mjg0MTQ5MTgsMDAwMDAwMDA2YmZmYjY1ZmZjODJjNjY2MjBiMDIxYjMxOWUyMWVmZg==`

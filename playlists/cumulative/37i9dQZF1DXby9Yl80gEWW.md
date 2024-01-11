@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-243 songs - 15 hr 0 min
+244 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Billy in the Lowground](https://open.spotify.com/track/6fZgkwWNFegmk7LIKXQPQO) | [Jim Bows & The Flycatchers](https://open.spotify.com/artist/0U0pUhmntI6hEFvdro8a6Q) | [Billy in the Lowground](https://open.spotify.com/album/3JpqFZHtr7N45X4rWNPZVc) | 1:50 | 2022-04-15 | 2022-07-27 |
 | [Birdland](https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Americana Master Series: Best Of The Sugar Hill Years](https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS) | 5:25 | 2021-12-03 | 2023-06-04 |
 | [Black Mountain Rag](https://open.spotify.com/track/5Ys3TeaxdroLXxWWjI2Z68) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Doc Watson](https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r) | 1:32 | 2021-12-03 | 2022-07-23 |
-| [Black Mountain Rag](https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ), [Merle Watson](https://open.spotify.com/artist/6lynZefatZW6zvh500EIKN) | [Doc & Merle Watson's Guitar Album](https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq) | 2:39 | 2021-12-03 |  |
+| [Black Mountain Rag](https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ), [Merle Watson](https://open.spotify.com/artist/6lynZefatZW6zvh500EIKN) | [Doc & Merle Watson's Guitar Album](https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq) | 2:39 | 2021-12-03 | 2024-01-11 |
 | [Black Rock](https://open.spotify.com/track/1LR2pHbA2MpfC6CGo0Yaxq) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [The Infamous Stringdusters](https://open.spotify.com/album/3nE6KFLeBMz5ltQ4xMppBO) | 3:31 | 2021-12-03 | 2022-07-22 |
 | [Black's Fork](https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT) | [Matt Flinner](https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J) | [The View From Here](https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ) | 3:33 | 2021-12-03 | 2024-01-07 |
 | [Blackberry Blossom](https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA) | [Tony Rice Unit](https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg) | [58957: The Bluegrass Guitar Collection](https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG) | 2:36 | 2021-12-03 |  |
@@ -87,6 +87,7 @@
 | [Dillsboro Blues](https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ) | [Darren Nicholson](https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f) | [Dillsboro Blues](https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD) | 4:05 | 2023-04-07 | 2023-06-18 |
 | [Earl's Breakdown](https://open.spotify.com/track/1TE5fjEZttPqAtPsTLK8vv) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Foggy Mountain Jamboree \(Expanded Edition\)](https://open.spotify.com/album/17ZwH4iaxFOvVun0hW5Zkc) | 2:59 | 2021-12-03 | 2022-07-23 |
 | [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 | 2022-03-18 | 2023-12-24 |
+| [East Virginia Blues](https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG) | 3:42 | 2023-11-24 |  |
 | [Ecstasy \(Instrumental Edit\)](https://open.spotify.com/track/4Eh0EzmssbxXKjPBKXd0EB) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound \(Deluxe\)](https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG) | 3:41 | 2023-01-13 | 2023-07-01 |
 | [Ecstasy \(Instrumental Edit\)](https://open.spotify.com/track/1H0j71i6U3LxLreTAMcP1C) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Ecstasy \(Instrumental Edit\)](https://open.spotify.com/album/5zjiiRo1V6OQiiFaPjkzQj) | 3:42 | 2021-12-03 | 2022-07-13 |
 | [EMD](https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb) | [Pinecastle Records](https://open.spotify.com/artist/05ohk4u1CL6VHaZP0VyWMG), [Scott Vestal](https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC), [Randy Kohrs](https://open.spotify.com/artist/1u6uhZzou3OAmwvAiOTunN), [Tim Crouch](https://open.spotify.com/artist/1q7fFBA1aUDCQMhpUAIMxb), [Cody Kilby](https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP), [Byron House](https://open.spotify.com/artist/6lSbVfPSL0Pa9z1fQfTwfE), [Jonah Horton](https://open.spotify.com/artist/7fqInLhy184lhVDLjSKYal) | [EMD](https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF) | 3:49 | 2022-01-07 | 2023-01-16 |

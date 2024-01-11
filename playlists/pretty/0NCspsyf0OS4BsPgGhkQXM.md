@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,048,147 likes - 140 songs - 7 hr 21 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,043,649 likes - 140 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 139 | [Past Lives](https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Past Lives](https://open.spotify.com/album/4jNIqI2lx1BbXDoBzqjqqI) | 2:33 |
 | 140 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
 
-Snapshot ID: `MTQzODUsZDJjZmFlM2M1OGQ3MDcyNDc1NjU4M2EyY2M4MmJmMzFmNjcxM2RjYw==`
+Snapshot ID: `MTQzODcsMzc4MDRiMzc2ZWE5MzllNzMzYWU4MWZjNTYxM2I1ZjYxZmVmM2IyNw==`

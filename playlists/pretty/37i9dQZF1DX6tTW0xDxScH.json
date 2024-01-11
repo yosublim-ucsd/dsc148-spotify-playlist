@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 742129,
+  "num_followers": 742800,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjdkZDc3NDJmZGNmYmFiNmM0YWZiMDJhYTkxYTgzYjEwOGM4YjRl",
+  "snapshot_id": "MCxmODNhYzhjNDdjMzkyMmM2Zjg5NmEzMWExYmQyODdjYzBkYjk4ODFi",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Oh No / Liahr",
-        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Queen Alone",
         "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 214573,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Oh No / Liahr",
+        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Son Little (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 208382,
       "name": "Hannah Sun",
       "url": "https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Junkyard Jazz",
+        "url": "https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Is There a Place I Can Go",
+      "url": "https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Candy / How many miles",
         "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 141871,
       "name": "How many miles",
       "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Junkyard Jazz",
-        "url": "https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "Is There a Place I Can Go",
-      "url": "https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 90227,
       "name": "Change",
       "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "The Waterfall II",
         "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 163072,
       "name": "Love Child",
       "url": "https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2023-12-15 05:00:00",

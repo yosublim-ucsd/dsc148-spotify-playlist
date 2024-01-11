@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 261120,
       "name": "Location",
       "url": "https://open.spotify.com/track/1No4TWmtMayA3DQF2iseEf"
@@ -838,6 +838,24 @@
       "duration_ms": 256721,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1FtuKCXTuyoYpkR8VTsvmu"
+    },
+    {
+      "album": {
+        "name": "Modern Mechanics",
+        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM"
     },
     {
       "album": {

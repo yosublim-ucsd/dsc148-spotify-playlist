@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-93 songs - 8 hr 17 min
+94 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Operation Citadel](https://open.spotify.com/track/1dqLUaHIVw3VTCSu5mDw6W) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 2:16 | 2022-11-23 | 2022-12-14 |
 | [Panther](https://open.spotify.com/track/4EeoyH0Uh9VEkUn6dqVtCw) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:23 | 2022-05-29 | 2024-01-06 |
 | [Perdonare](https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Perdonare](https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E) | 4:52 | 2022-05-29 |  |
+| [Prima Emosfera](https://open.spotify.com/track/6fgz4BRCyxBEnCrnOATDup) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 4:57 | 2024-01-10 |  |
 | [Quantum Impact](https://open.spotify.com/track/66vgYZLhHlqOynKYNTcMQn) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:20 | 2022-06-18 | 2023-08-08 |
 | [Resist and Protect](https://open.spotify.com/track/2BQWKfwYxK27HYmmcXQVTf) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:39 | 2022-05-29 | 2022-10-09 |
 | [Retaliation](https://open.spotify.com/track/5kScxhOPotAJiwbKWbM5NN) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:00 | 2023-12-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Morat.",
-  "num_followers": 9811,
+  "num_followers": 9816,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzdiZjQyYTUyMWRhNDQ0ZThlZTgwMGM0NGY2MzcwMWI5OGNiODFk",
+  "snapshot_id": "MCwwMDdhMTc1Njk1NzJiZDU0YzEzZGNhZTkzZDNjODFmNmNlYTQzMzQ0",
   "tracks": [
     {
       "added_at": "2023-12-15 19:59:39",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "5 Estrellas",
-        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 191094,
-      "name": "5 Estrellas",
-      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "5 Estrellas",
+        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 191094,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -959,22 +959,18 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Puntos Equidistantes",
-        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 227375,
-      "name": "Puntos Equidistantes",
-      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
+      "duration_ms": 149973,
+      "name": "Se Siente As\u00ed",
+      "url": "https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -995,18 +991,22 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+        "name": "Puntos Equidistantes",
+        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
       },
       "artists": [
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 149973,
-      "name": "Se Siente As\u00ed",
-      "url": "https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk"
+      "duration_ms": 227375,
+      "name": "Puntos Equidistantes",
+      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "quise quererte",
-        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "quise quererte",
-      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 212440,
       "name": "215 D\u00edas",
       "url": "https://open.spotify.com/track/1I0iDHKaWVdIB9jbxLFqMU"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "quise quererte",
+        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "quise quererte",
+      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
+        "name": "Soltando A Pedazos",
+        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 164673,
+      "name": "Soltando A Pedazos",
+      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
         "name": "dejarse querer",
         "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 182546,
       "name": "dejarse querer",
       "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
-        "name": "Soltando A Pedazos",
-        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 164673,
-      "name": "Soltando A Pedazos",
-      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "cielo violeta",
-        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "cielo violeta",
-      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
         "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 154920,
       "name": "Que me quiera",
       "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "cielo violeta",
+        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "cielo violeta",
+      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
     },
     {
       "added_at": "2023-12-15 19:59:39",

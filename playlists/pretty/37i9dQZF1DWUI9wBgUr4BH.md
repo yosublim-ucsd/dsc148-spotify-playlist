@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,011 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,975 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Losing You \- Spotify Singles](https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Joe Cleere](https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA) | [Losing You \- Spotify Singles](https://open.spotify.com/album/4mvTc8TXIbBjfruHuuwk4m) | 3:00 |
 | 40 | [Stigmate \- Radio Edit](https://open.spotify.com/track/3U4bK2tYfVTZrcXJRp3gfY) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/4AqueaxcLjHpLQJpouOGSZ) | 2:25 |
 
-Snapshot ID: `MCxlM2VmMTgxZTc2YzA3ZTVkNGFmMDI4MTE2ZWM4ZmRkNDgwNWEzMmQ1`
+Snapshot ID: `MCxjNjg4ODZiOGYwOWU0ODcwNTk5YTE3OTZjZGFmNDFjM2ZhZGJiOWZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,818 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,869 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 38 | [Wonderin'](https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD) | [Channell](https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS), [Lyds](https://open.spotify.com/artist/1ct2JemDGZm6FdyArw8YcI) | [Wonderin' EP](https://open.spotify.com/album/0nx1BXto7ljFknTEKnBbOR) | 4:39 |
 | 39 | [Are You](https://open.spotify.com/track/2FWmAFaVahfD7CLonK1zxS) | [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [Are You](https://open.spotify.com/album/4eguxtM6kcT3gUh9n4novr) | 4:34 |
 | 40 | [Steam Clean](https://open.spotify.com/track/0uEv3rAwyvO10PbVkFLnys) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Steam Clean](https://open.spotify.com/album/3ryRLRMNUstnIZp09RsKs9) | 4:31 |
-| 41 | [Something Good](https://open.spotify.com/track/6baWEskdN5ZKy6TyA2fm5Z) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Something Good](https://open.spotify.com/album/2xRGteG3RlpT2IGXTHZF0h) | 3:32 |
-| 42 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 |
+| 41 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 |
+| 42 | [Something Good](https://open.spotify.com/track/6baWEskdN5ZKy6TyA2fm5Z) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Something Good](https://open.spotify.com/album/2xRGteG3RlpT2IGXTHZF0h) | 3:32 |
 | 43 | [I Got Your Love \- Low:R & Blooom](https://open.spotify.com/track/0WPnG75MPX5X0uuvBkE8mp) | [Low:r](https://open.spotify.com/artist/2PR9nGANZUfxMEfRBoJfYI), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [I Got Your Love \(Low:R & Blooom\)](https://open.spotify.com/album/2iCGxaSho2vO0muXMEcm69) | 4:11 |
 | 44 | [Diamonds](https://open.spotify.com/track/4Rarf4MYN0YdFhNKuAMfTp) | [Seba](https://open.spotify.com/artist/3ac1UBV3aHTPZ94T0PhfvS), [Samuel Lancine](https://open.spotify.com/artist/2R1Th5MYsqcss3rJXVyJmN), [Björn Berglund](https://open.spotify.com/artist/3TDlbePC2ZlRn1OcCWnnfi) | [Ingaro](https://open.spotify.com/album/5PdipBlyX6oMt1UrjbQi9u) | 4:36 |
 | 45 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 49 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
 | 50 | [Autumn Leaves](https://open.spotify.com/track/0DtH5GJhj04tLmZXgBbZmP) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Autumn Leaves](https://open.spotify.com/album/1lmWypxn13NRgFaoaHR9sx) | 4:38 |
 
-Snapshot ID: `MCxjOTk3NzY2NjQyMTM2NGM4ZDI3ODViOGIzYWZkMzEwMGZhZjVlY2Jj`
+Snapshot ID: `MCwzYTk5NTU3ZThjYzlkN2RmNjhjMzg2ODViYzgyNDZlMmJjOTZkMzQ5`

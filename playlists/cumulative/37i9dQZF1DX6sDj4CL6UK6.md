@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Dot.
 
-273 songs - 15 hr 48 min
+274 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Fools Will Learn](https://open.spotify.com/track/5P9utVQ2Rb9XDZwoPEzvxi) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 4:28 | 2022-03-25 | 2022-05-04 |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [Teenasai](https://open.spotify.com/artist/6xIdf78GSxt5FrRC4RC6Uj) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2022-03-25 | 2023-01-13 |
 | [Gimme Love](https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gimme Love](https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB) | 3:07 | 2023-07-28 | 2023-10-19 |
+| [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 | 2024-01-10 |  |
 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 | 2022-05-13 | 2023-08-04 |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-03-25 | 2023-05-24 |
 | [goodbye](https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [goodbye](https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde) | 3:11 | 2022-11-24 | 2023-05-24 |
@@ -212,7 +213,7 @@
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2022-03-25 | 2022-04-06 |
 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 | 2023-10-18 |  |
 | [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2022-03-25 | 2023-05-20 |
-| [Settle Down](https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Settle Down](https://open.spotify.com/album/56gEUYYtzrS7DHlsF5q7k5) | 2:58 | 2022-03-25 |  |
+| [Settle Down](https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Settle Down](https://open.spotify.com/album/56gEUYYtzrS7DHlsF5q7k5) | 2:58 | 2022-03-25 | 2024-01-11 |
 | [Should I Ghost You...](https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy) | [Should I Ghost You...](https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT) | 2:14 | 2022-03-25 | 2023-05-20 |
 | [Silent Prayer](https://open.spotify.com/track/5lKBXAO6zCWyh4FAWrrUpM) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Silent Prayer](https://open.spotify.com/album/5tHYe6Y8ppgg0S4hFOlccW) | 3:30 | 2022-12-09 | 2023-02-01 |
 | [Simpler Times](https://open.spotify.com/track/2fmBEAxGrQHfqJwv3v8e7H) | [Black Letters](https://open.spotify.com/artist/0glNGCIZztkKr1cmnsYdS6) | [Simpler Times](https://open.spotify.com/album/6AfEBtGTwfc9BrvMbq8QyP) | 4:51 | 2023-04-01 | 2023-05-20 |
