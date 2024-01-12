@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-419 songs - 1 day 1 hr 0 min
+420 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [](https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 0:00 | 2023-10-05 | 2023-12-14 |
 | [](https://open.spotify.com/track/3z6HxlyOlcd2bPBTUNElC8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 0:00 | 2023-10-05 | 2023-12-14 |
 | [301](https://open.spotify.com/track/5GJBSWrbSZRj0M9yi0nDdS) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [301](https://open.spotify.com/album/4FnPPFM3Pb9SF9lIuQeEEC) | 2:49 | 2022-05-24 | 2023-07-22 |
-| [301](https://open.spotify.com/track/28vTK1SLOyjSbldzGlxkuO) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [301](https://open.spotify.com/album/2LOKRHhpYOX545H2ISo4jk) | 2:51 | 2023-08-14 |  |
+| [301](https://open.spotify.com/track/28vTK1SLOyjSbldzGlxkuO) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [301](https://open.spotify.com/album/2LOKRHhpYOX545H2ISo4jk) | 2:51 | 2023-08-14 | 2024-01-12 |
 | [5 de Septiembre \- Reggaeton Version](https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [En Honor A La Verdad](https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW) | 2:57 | 2022-10-12 |  |
 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 | 2021-12-17 |  |
 | [6 AM](https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Familia](https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr) | 4:03 | 2021-12-17 |  |
@@ -93,6 +93,7 @@
 | [Dale Caliente](https://open.spotify.com/track/6X8pDrhv1pnurPSNUyizR2) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 | 2022-12-07 |  |
 | [Dale Don Dale](https://open.spotify.com/track/7zK02QSoQlMO0RAVqN0CI7) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Obsesión Latina](https://open.spotify.com/album/1qAvdZ9qvDBNEwzAJkZ68V) | 3:34 | 2021-12-17 | 2022-03-16 |
+| [Deja](https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:36 | 2023-12-21 |  |
 | [Dejale Care To' el Peso](https://open.spotify.com/track/0zMAEDj1JznZ8qaHx4eFeB) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 4:11 | 2023-10-05 |  |
 | [Dembow](https://open.spotify.com/track/1JV7GONwi6qMLb9J7kcSTV) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mi Vida…My Life](https://open.spotify.com/album/0y7oxuXXNYU62jnrvutSSm) | 2:58 | 2021-12-17 | 2022-07-29 |
 | [Descara](https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 4:48 | 2021-12-17 |  |
@@ -142,7 +143,7 @@
 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Escápate Conmigo \(Remix\)](https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy) | 2:47 | 2022-07-27 |  |
 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4ijX6zDZKYdgACPwva2y0d) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Wolfine](https://open.spotify.com/album/1WR53EURavK2pIVJwS6qbv) | 2:47 | 2022-10-12 | 2022-11-13 |
 | [Eso Ehh..!!!](https://open.spotify.com/track/7uCZiUZqnKSGBnr3YZTcxA) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [The Pitbulls](https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH) | 3:15 | 2021-12-17 | 2022-01-11 |
-| [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3) | 4:31 | 2021-12-17 |  |
+| [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3) | 4:31 | 2021-12-17 | 2024-01-12 |
 | [Esta Noche de Travesuras](https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 3:30 | 2023-10-05 |  |
 | [Estar Enamorado](https://open.spotify.com/track/2RFDO2apMKOOytAWsNHmyH) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Mas Lunaticos](https://open.spotify.com/album/7EI3hMAmYWir6aVZtSxW5J) | 3:40 | 2021-12-17 | 2022-08-13 |
 | [Estar Enamorado](https://open.spotify.com/track/465du48rE48BymmBdfvxc2) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Más Lunáticos](https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw) | 3:41 | 2023-10-05 |  |
@@ -339,7 +340,7 @@
 | [Sigue Bailando Mi Amor](https://open.spotify.com/track/0Ueebi9UrB6jtIcGYal2uM) | [El Roockie](https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4) | [Sigue Bailando Mi Amor](https://open.spotify.com/album/2MqCJi6VjXC2mYtnD219gr) | 3:18 | 2022-09-26 |  |
 | [Sin Miedo](https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ) | 3:16 | 2021-12-17 | 2023-08-15 |
 | [Sin Miedo](https://open.spotify.com/track/6aibYCJcHtpQgwq35ohOKs) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/3IhY9gtZHtaGPjvWR8PCcp) | 3:17 | 2023-08-14 |  |
-| [Sin Tu Amor \(feat\. Alex Pro\)](https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Alex Pro](https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:29 | 2023-07-31 | 2024-01-09 |
+| [Sin Tu Amor \(feat\. Alex Pro\)](https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Alex Pro](https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:29 | 2023-07-31 |  |
 | [Sol, Playa Y Arena](https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 3:08 | 2021-12-17 |  |
 | [Sola](https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 2:53 | 2021-12-17 |  |
 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 | 2022-05-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Smoke DZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,613,353 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,612,476 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 10 | [Chops on the Blade](https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Chops on the Blade](https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk) | 3:32 |
 | 11 | [Brand New Chanel Kicks](https://open.spotify.com/track/0prAuFTSQwbptjREc7vWpH) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Brand New Chanel Kicks](https://open.spotify.com/album/6hhkrorDAK63EkCNs0S0Sx) | 3:49 |
 | 12 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 |
-| 13 | [Mamas PrimeTime](https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cartier A Williams](https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 4:59 |
-| 14 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:55 |
+| 13 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:55 |
+| 14 | [Mamas PrimeTime](https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cartier A Williams](https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 4:59 |
 | 15 | [Oprah & Gayle \(feat\. Benny The Butcher\)](https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 5:13 |
 | 16 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
 | 17 | [DeNiro & Pesci](https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [DeNiro & Pesci](https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
 | 50 | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 |
 
-Snapshot ID: `MCxjYzE0ZmFmYzhhMTJkMzMwOTAwM2E4NTQ0ZTYwMzkzMTViYmY1MDU2`
+Snapshot ID: `MCxlMmMwOTc0NWRiNjVkNzRmM2EwMjUwNzUzOWRlMGNjNWZiNTczMDA2`

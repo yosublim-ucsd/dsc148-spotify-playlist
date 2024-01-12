@@ -3244,7 +3244,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 237500,
       "name": "Inner Circle",
       "url": "https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9"
@@ -6516,6 +6516,24 @@
       "duration_ms": 496592,
       "name": "Satellite Girl",
       "url": "https://open.spotify.com/track/3VedZEruDuibIF8oQONu5k"
+    },
+    {
+      "album": {
+        "name": "Leee EP",
+        "url": "https://open.spotify.com/album/1tRR9qjec2ibFz88OyTbjs"
+      },
+      "artists": [
+        {
+          "name": "Lee Burridge",
+          "url": "https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496592,
+      "name": "Satellite Girl",
+      "url": "https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58777,
+  "num_followers": 58775,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4",
+  "snapshot_id": "MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "After All These Years (Instrumental)",
         "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 241400,
       "name": "For The One - Instrumental",
       "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Matins : Vespers",
         "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 236386,
       "name": "* Consecrate *",
       "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "those lil god songs i posted on ig",
-        "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "make stuff up & sing things",
-      "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "High Level Praise",
         "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 198504,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "those lil god songs i posted on ig",
+        "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "make stuff up & sing things",
+      "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
-      },
-      "artists": [
-        {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
-        }
-      ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Universal Christ",
         "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 231424,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Phone to Logos",
-        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
-      },
-      "artists": [
-        {
-          "name": "Porya Hatami",
-          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
-        }
-      ],
-      "duration_ms": 447355,
-      "name": "Pomegranates",
-      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Psalm 68",
         "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 252000,
       "name": "Psalm 68",
       "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Phone to Logos",
+        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
+      },
+      "artists": [
+        {
+          "name": "Porya Hatami",
+          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
+        }
+      ],
+      "duration_ms": 447355,
+      "name": "Pomegranates",
+      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Worship Initiative, Vol. 28 (Live)",
-        "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 391413,
-      "name": "Abba - Live",
-      "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Breathe My Name",
         "url": "https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 175496,
       "name": "Breathe My Name",
       "url": "https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Worship Initiative, Vol. 28 (Live)",
+        "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 391413,
+      "name": "Abba - Live",
+      "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
     },
     {
       "added_at": "2023-07-28 04:02:00",

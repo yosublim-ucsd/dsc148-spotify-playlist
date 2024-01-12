@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,006 likes - 108 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,067 likes - 108 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 12 | [Comment from HWANG MINHYUN 2](https://open.spotify.com/track/2I8O8FYVI5mLJ1BillnW6b) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 2:12 |
 | 13 | [Universe](https://open.spotify.com/track/3405IqUnA0hudruF9yTpqG) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Universe](https://open.spotify.com/album/0nL58v8QzssCRKopDDRSqd) | 3:21 |
 | 14 | [Tribute speech from XIA](https://open.spotify.com/track/7FnFuyWc13VDGnafaPqJHv) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 3:00 |
-| 15 | [Invitation](https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05) | [Uhm Jung Hwa](https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0) | [Invitation](https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB) | 3:53 |
+| 15 | [Invitation](https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Invitation](https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4) | 3:54 |
 | 16 | [Ending Credit](https://open.spotify.com/track/7hNy6Lj3Rl3fEwga6l34pC) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [The Cloud Dream of the Nine](https://open.spotify.com/album/7KT1TmlxYsKFoe6IMLlBuk) | 3:21 |
 | 17 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 |
 | 18 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 107 | [Okay Dokey](https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 4:08 |
 | 108 | [Boys And Girls](https://open.spotify.com/track/2vefaHJYN4zKolfWa48BwV) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Boys and Girls](https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e) | 3:20 |
 
-Snapshot ID: `MCxjYmFmMWI0Yjc4ODNlYjYxM2Y2YmE4YzcxOTRlMWFkOTM2NWNkYTEx`
+Snapshot ID: `MCxhNGU1NDI1NjFlNWFlZjliYTAwYzcwMTgxMWZlZGYwZmVmZDcwYTJm`

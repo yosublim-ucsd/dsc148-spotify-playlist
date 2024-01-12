@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Gabby Barrett, Graham Barham, Tigirlily Gold and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,441 likes - 41 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,544 likes - 41 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 4 | [Ain't She](https://open.spotify.com/track/5jSjOdVDA4pL4geykH3riL) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Ain't She](https://open.spotify.com/album/12fYeAlRe8VerekcXcHZvy) | 2:51 |
 | 5 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
 | 6 | [Sometimes I Forget](https://open.spotify.com/track/7yfpq3klp4u0Dnq050Bqpa) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Annie Bosko](https://open.spotify.com/album/4S6lo7o1wqFJSoroj535uA) | 3:37 |
-| 7 | [Don’t Leave Me Loving You](https://open.spotify.com/track/5YTBeFxMYLEqkTtadRY0Ze) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QTUFjOPzU3hZFawaVRzNG) | 3:07 |
+| 7 | [Don’t Leave Me Loving You](https://open.spotify.com/track/3RIRS2YNIyFCVAgSfzOzTC) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QpEKpAvnorJv91eZx53BP) | 3:07 |
 | 8 | [Pretty Hungover](https://open.spotify.com/track/4iWeNyOhlS85Dzul29DYq4) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Pretty Hungover](https://open.spotify.com/album/4WqROJ2VZm2wEdGDoLM2Dm) | 2:54 |
 | 9 | [Been There Before](https://open.spotify.com/track/2s95urN3yvMr4BgSKItGKG) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Been There Before](https://open.spotify.com/album/1FbR9HJ8MGKRb9ZyZMV9V9) | 3:32 |
 | 10 | [What Do I Know](https://open.spotify.com/track/2wVD8vcsuEyaoXlElfCSAw) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6yezH6J5KimsNRljf5WOUV) | 3:52 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 40 | [Whiskey In Colorado](https://open.spotify.com/track/0k8Y2eteuwJwwpwsltovPs) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Whiskey In Colorado](https://open.spotify.com/album/59Sb1Bj4NXFueQE8s743nG) | 2:52 |
 | 41 | [Last Frontier](https://open.spotify.com/track/6MbptM6zw9l2O0Um8AeaF2) | [Will Jones](https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER) | [Last Frontier](https://open.spotify.com/album/5DsmJjiDUKAQocTFCtU2Dt) | 3:28 |
 
-Snapshot ID: `MCw4ZWEzMGJiYmRjYmI2ZWYzMGNiNjI1MzM5NjExMGZiOWQzZDM4OWUz`
+Snapshot ID: `MCxkNGE4MTczZWJmNzZmZjZjNjI4YTg1MTdkY2JlZmU1YWYzMmZhYzVh`

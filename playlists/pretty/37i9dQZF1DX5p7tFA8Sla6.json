@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54752,
+  "num_followers": 54756,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDlkOWFlNjY5OWZhMDQzNDY0ODMwMTIwMzFlMGNhYzNmNGI5MjJj",
+  "snapshot_id": "MCxhMWNiODdiMTQ5NjJiMThhNGZmYjMzNzY5YmUxNzJiMjRkYzM3MzJl",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -547,22 +547,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Neither One Of Us",
-        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 253693,
-      "name": "Who Is She (And What Is She To You)",
-      "url": "https://open.spotify.com/track/7aqJzVdVIAwCokmju1Oid8"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Bustin' Loose",
         "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 462466,
       "name": "Bustin' Loose",
       "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 253693,
+      "name": "Who Is She (And What Is She To You)",
+      "url": "https://open.spotify.com/track/7aqJzVdVIAwCokmju1Oid8"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Birth Day",
+        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
+      },
+      "artists": [
+        {
+          "name": "The New Birth",
+          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
+        }
+      ],
+      "duration_ms": 383746,
+      "name": "I Can Understand It",
+      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Confident (feat. The MB's)",
         "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 199893,
       "name": "Confident (feat. The MB's)",
       "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Birth Day",
-        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
-      },
-      "artists": [
-        {
-          "name": "The New Birth",
-          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
-        }
-      ],
-      "duration_ms": 383746,
-      "name": "I Can Understand It",
-      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Third Wall Chronicles",
-        "url": "https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ"
-      },
-      "artists": [
-        {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "This Funk (Give Me a Hand)",
-      "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Death or Devotion",
         "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Third Wall Chronicles",
+        "url": "https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "This Funk (Give Me a Hand)",
+      "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 245686,
       "name": "Ready to Live",
       "url": "https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 328479,
-      "name": "Hangin' with My Baby",
-      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
     },
     {
       "added_at": "2019-09-20 18:17:51",
@@ -1263,6 +1247,22 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 328479,
+      "name": "Hangin' with My Baby",
+      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Dirty Word",
+        "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        }
+      ],
+      "duration_ms": 249973,
+      "name": "Dancin' To The Truth",
+      "url": "https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Stay Good",
         "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 332661,
       "name": "Miss Mess",
       "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Dirty Word",
-        "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        }
-      ],
-      "duration_ms": 249973,
-      "name": "Dancin' To The Truth",
-      "url": "https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7"
     },
     {
       "added_at": "2019-08-22 14:26:16",

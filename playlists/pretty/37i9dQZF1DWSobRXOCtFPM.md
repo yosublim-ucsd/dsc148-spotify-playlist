@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,949 likes - 67 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,000 likes - 67 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 66 | [Intentionally \- Carl Cox Remix](https://open.spotify.com/track/3BIlYx3GcANtn0WYMKRBiG) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Intentionally](https://open.spotify.com/album/7hvs9s04RTMT3N2hakn9fb) | 6:10 |
 | 67 | [Cluster](https://open.spotify.com/track/2Bjbr5y63hEVubSpfPFbik) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 7:37 |
 
-Snapshot ID: `MCw4MTdjODIyZmY4N2M5NjRlODJkMjhkYmRlMzQ2ZmY4ZDkyM2U3NGVk`
+Snapshot ID: `MCw0NzEwNWZiNjk0ZTc2OWI5YjA0ODcyMDA2ZDg2ODgwYTU3Y2NhMDA2`

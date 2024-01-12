@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Bas
 
-733 songs - 1 day 15 hr 28 min
+734 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,8 @@
 | [Swangin' Glass](https://open.spotify.com/track/1W1xIjbH4GyA33FMQicGOL) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Swangin' Glass](https://open.spotify.com/album/7JWPGp4cjmFp6LaAiV6YJ6) | 3:12 | 2023-12-01 |  |
 | [SWEETBiTTERS](https://open.spotify.com/track/3EHAdQRIZVHXClghHCKQqr) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 3:01 | 2023-05-05 | 2023-06-09 |
 | [SWEETBiTTERS](https://open.spotify.com/track/4RHzPXwOXw4LhPrruo4qst) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 3:01 | 2023-06-02 |  |
-| [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 |  |
+| [Swerve](https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | ['95 Civic](https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T) | 3:19 | 2024-01-05 |  |
+| [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 | 2024-01-12 |
 | [Switch Up](https://open.spotify.com/track/6qyg5FzGDrmlADB85bM3mm) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Switch Up](https://open.spotify.com/album/0XZORXXb5RM7aPAmIqdMOq) | 3:34 | 2022-09-30 | 2022-12-17 |
 | [Tables Turn](https://open.spotify.com/track/1jRA4kpssddqi0W6D6efva) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Tables Turn](https://open.spotify.com/album/7KABJMQEJ3zu9R31eMDPBC) | 3:03 | 2023-01-06 | 2023-04-29 |
 | [Take It Slow \(feat\. Loyle Carner\)](https://open.spotify.com/track/2Yk44lQXJDw9jySBTOB0Ag) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Take It Slow \(feat\. Loyle Carner\)](https://open.spotify.com/album/01a7YTIVcKAvooDaN200dS) | 3:41 | 2023-04-28 |  |

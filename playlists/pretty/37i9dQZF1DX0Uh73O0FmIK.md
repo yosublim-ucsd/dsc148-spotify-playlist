@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01101110 01100101 01110010 01100100
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,964 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,994 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 85 | [Tess](https://open.spotify.com/track/3hrdV4DGQkfEEEtUfEE6Vo) | [Fractional](https://open.spotify.com/artist/5OF4keYIxz9HRYqRsft0Fb) | [Accretion \(The Tympanik Audio 5th Anniversary Collection\)](https://open.spotify.com/album/0w4hQ0q64HBlZYqhM0a43c) | 4:55 |
 | 86 | [Leaving Tokyo](https://open.spotify.com/track/3QjBDhuBd3SqBzPfCliZ8p) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Sunflower](https://open.spotify.com/album/4jIpC3P6XuR9ivzK9wXXpv) | 4:15 |
 | 87 | [Eternal Silence](https://open.spotify.com/track/67hjUsy6bg8YBvWBEOGinm) | [King Plague](https://open.spotify.com/artist/688qufssIBfmoD8BJxZD9Q) | [Lost Soul 2013\-2016](https://open.spotify.com/album/65NMRx0NqJrEUfFwdmx1Yy) | 2:01 |
-| 88 | [Electric](https://open.spotify.com/track/1oUpE2W9kXdpYYMof5nnQA) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B) | 3:25 |
+| 88 | [Electric](https://open.spotify.com/track/1fi9BN8F15rCUWjAsaMngw) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X) | 3:25 |
 | 89 | [Axolotl](https://open.spotify.com/track/6QasAq7k4YhJ64sENWEMXQ) | [Doon Kanda](https://open.spotify.com/artist/6w7wqJo8dY6Q7BWIRFBFX3) | [Heart EP](https://open.spotify.com/album/264UMUk0W6HZGmR1nEuwTY) | 2:52 |
 | 90 | [Arpanet Nightdrive Rework](https://open.spotify.com/track/3t5kCnY7izofJ9edwZhjBb) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Arpanet](https://open.spotify.com/artist/63bRcvYTOSxsvw3kcAAtEr) | [Teddy Boy \- EP](https://open.spotify.com/album/279gt6kOQy96fv3lXt6yQB) | 4:20 |
 | 91 | [Die tausende Herbste](https://open.spotify.com/track/0teJBxvS6jvVsDNDefpHl8) | [KOMPROMAT](https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4) | [Traum und Existenz](https://open.spotify.com/album/1B2AZd4B55393VV6m6rXeG) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 99 | [Knives](https://open.spotify.com/track/00Po3m9Jz0m5uNedPBw4ma) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 2:20 |
 | 100 | [Grrrrls](https://open.spotify.com/track/49ysUwJ6bPCpI74dI9aGbQ) | [Ricky Eat Acid](https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S) | [Haunt U Forever](https://open.spotify.com/album/0g2PJbscS69UolD4QyS3wp) | 2:01 |
 
-Snapshot ID: `MCwxZDJjOGRkMTMxM2EzNDYwM2U3NGQ3OGQ1NjVlNmZhMjlhMzQ3NGY4`
+Snapshot ID: `MCw2NzI5OTg5NjkxNWI4ODYwMGNjMmJhNzAxYjBhMmIzMmMzMDJkNjg4`

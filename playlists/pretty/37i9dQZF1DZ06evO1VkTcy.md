@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,834 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,835 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Sou um Zé Alguém](https://open.spotify.com/track/7DQy2PRGY7EDE3ho46J9E7) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6) | [Sou um Zé Alguém](https://open.spotify.com/album/6zOq8PkWx50Kpif1BJpd88) | 2:57 |
 | 50 | [Agradecer](https://open.spotify.com/track/1l6Ft5qe5gSUjBYn2tXYKm) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Agradecer](https://open.spotify.com/album/4Ji39vIZY0YwdQSNw0ZmE4) | 2:19 |
 
-Snapshot ID: `Mjg0MTQ5MTgsMDAwMDAwMDA0N2M0NDhjZGQwNTdhYTRjZDAwMTcyODA1N2VmYjU1OA==`
+Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAyY2FmNWNmOGRjNGMwNzcwMDU4ZWExZmRiYjRiNzRkYw==`

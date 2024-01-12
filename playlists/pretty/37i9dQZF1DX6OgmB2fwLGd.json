@@ -1,12 +1,12 @@
 {
-  "description": "The soundtrack to the internet. Cover: Lil Mabu",
-  "num_followers": 1393151,
+  "description": "The rap soundtrack to the internet. Cover: Baretta",
+  "num_followers": 1393058,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmU2ODA4ZWI4ZjU1NDMzOGZhZGMxNzY1YzNmNTllZGU4YjlmM2Zl",
+  "snapshot_id": "MCw4MWU1MTg1YTcxOTBmNWQ0MmFkMWVhODlhNjZlOGQxYjQ5MWIwZTI1",
   "tracks": [
     {
       "added_at": "2023-12-18 18:17:54",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
+      "added_at": "2023-12-08 22:46:00",
+      "album": {
+        "name": "douji feva",
+        "url": "https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5"
+      },
+      "artists": [
+        {
+          "name": "Barretta",
+          "url": "https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl"
+        }
+      ],
+      "duration_ms": 105229,
+      "name": "douji feva",
+      "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
+    },
+    {
       "added_at": "2023-12-06 21:50:48",
       "album": {
         "name": "Back It Up! (Diamondz n Roses)",
@@ -41,20 +57,88 @@
       "url": "https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD"
     },
     {
-      "added_at": "2024-01-08 15:13:21",
+      "added_at": "2023-12-29 17:46:36",
       "album": {
         "name": "Africa",
-        "url": "https://open.spotify.com/album/2Mj6dalgFFAwZBBYiJ8Ego"
+        "url": "https://open.spotify.com/album/2ZJpYF6pdZZh98WKRSRUxO"
       },
       "artists": [
         {
-          "name": "Santea2",
-          "url": "https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz"
+          "name": "Slimenese",
+          "url": "https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze"
         }
       ],
-      "duration_ms": 100055,
+      "duration_ms": 115252,
       "name": "Africa",
-      "url": "https://open.spotify.com/track/4JuRS40lZe0yfSewmnR9mT"
+      "url": "https://open.spotify.com/track/3EJX92YQikjQ67VnPszDVh"
+    },
+    {
+      "added_at": "2023-12-12 21:16:28",
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "added_at": "2024-01-11 16:28:06",
+      "album": {
+        "name": "MOVE YO BODY (sped up)",
+        "url": "https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P"
+      },
+      "artists": [
+        {
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+        }
+      ],
+      "duration_ms": 117603,
+      "name": "MOVE YO BODY - sped up",
+      "url": "https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu"
+    },
+    {
+      "added_at": "2023-12-13 20:39:33",
+      "album": {
+        "name": "Change My Wayz",
+        "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 115013,
+      "name": "Change My Wayz",
+      "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "sins (let me in) [Remix]",
+        "url": "https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "sins (let me in) - Remix",
+      "url": "https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o"
     },
     {
       "added_at": "2023-12-27 19:53:03",
@@ -71,22 +155,6 @@
       "duration_ms": 148333,
       "name": "KISS N TELL",
       "url": "https://open.spotify.com/track/7L8DudXuXHqqzD2q9LuQ2n"
-    },
-    {
-      "added_at": "2023-12-08 22:46:00",
-      "album": {
-        "name": "douji feva",
-        "url": "https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5"
-      },
-      "artists": [
-        {
-          "name": "Barretta",
-          "url": "https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl"
-        }
-      ],
-      "duration_ms": 105229,
-      "name": "douji feva",
-      "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
     },
     {
       "added_at": "2024-01-05 16:33:32",
@@ -121,54 +189,6 @@
       "url": "https://open.spotify.com/track/0we7yhOp1144AJcgZb16H9"
     },
     {
-      "added_at": "2023-12-12 21:16:28",
-      "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
-      "added_at": "2023-12-13 20:39:33",
-      "album": {
-        "name": "Change My Wayz",
-        "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 115013,
-      "name": "Change My Wayz",
-      "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
-    },
-    {
-      "added_at": "2023-12-29 17:46:36",
-      "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/2ZJpYF6pdZZh98WKRSRUxO"
-      },
-      "artists": [
-        {
-          "name": "Slimenese",
-          "url": "https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze"
-        }
-      ],
-      "duration_ms": 115252,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/3EJX92YQikjQ67VnPszDVh"
-    },
-    {
       "added_at": "2023-12-29 17:46:36",
       "album": {
         "name": "A Great Chaos",
@@ -183,26 +203,6 @@
       "duration_ms": 158515,
       "name": "Jennifer\u2019s Body",
       "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "sins (let me in) [Remix]",
-        "url": "https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "sins (let me in) - Remix",
-      "url": "https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -320,7 +320,7 @@
           "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
         }
       ],
-      "duration_ms": 155472,
+      "duration_ms": 157377,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
     },

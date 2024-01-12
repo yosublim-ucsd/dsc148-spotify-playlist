@@ -124,7 +124,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206000,
       "name": "Aether",
       "url": "https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "don't let me take my time",
+        "url": "https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in"
+      },
+      "artists": [
+        {
+          "name": "Indie Anthony",
+          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160408,
+      "name": "don't let me take my time",
+      "url": "https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq"
+    },
+    {
+      "album": {
         "name": "The Demonstration",
         "url": "https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN"
       },
@@ -1245,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1JIFVultBIK991qa7vHeYL"
+      },
+      "artists": [
+        {
+          "name": "The New Division",
+          "url": "https://open.spotify.com/artist/1Cb9Edoxp02mgY0VWVlwQo"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6m5HzSkwkSbYkFdrNNKMDw"
+    },
+    {
+      "album": {
         "name": "Ceremony",
         "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
       },
@@ -1346,7 +1382,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 289186,
       "name": "Future Club",
       "url": "https://open.spotify.com/track/20ztml2STRF7Sq1UaBB6ox"
@@ -1548,7 +1584,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 209002,
       "name": "Heavy Wave",
       "url": "https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI"
@@ -1678,6 +1714,24 @@
       "duration_ms": 143225,
       "name": "HUNNY",
       "url": "https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb"
+    },
+    {
+      "album": {
+        "name": "Songs & Demos 2015-2017",
+        "url": "https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1"
+      },
+      "artists": [
+        {
+          "name": "Memo Boy",
+          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332647,
+      "name": "I Do What He Say I Do",
+      "url": "https://open.spotify.com/track/3YwGpoqOSybDTDSEYk6em2"
     },
     {
       "album": {
@@ -2168,7 +2222,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206000,
       "name": "Luces",
       "url": "https://open.spotify.com/track/4bgPDf0OLHytRSicJ8y9pa"
@@ -2276,7 +2330,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 190588,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/1CKbOdC5szD5tR0VpMPNOk"
@@ -2402,10 +2456,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 239832,
       "name": "Motion",
       "url": "https://open.spotify.com/track/0fKyRv26iIdZo9XCQ56jPO"
+    },
+    {
+      "album": {
+        "name": "Country Girl Uncut",
+        "url": "https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239832,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/3Bd2WMsjL9XbMQeuzBSN1t"
     },
     {
       "album": {
@@ -2942,7 +3014,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 212881,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
@@ -2982,6 +3054,24 @@
       "duration_ms": 296060,
       "name": "Rituel",
       "url": "https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R"
+    },
+    {
+      "album": {
+        "name": "Roadtrip",
+        "url": "https://open.spotify.com/album/5z4MOdUTaUvKfVtEleiCDe"
+      },
+      "artists": [
+        {
+          "name": "Black Nail Cabaret",
+          "url": "https://open.spotify.com/artist/1PT6vR9L8YA8qKymXfAnRl"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240106,
+      "name": "Roadtrip",
+      "url": "https://open.spotify.com/track/4wFE8vB2CyWfTAd5XcMs7M"
     },
     {
       "album": {
@@ -3086,7 +3176,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 182000,
       "name": "SEGA SUNSET",
       "url": "https://open.spotify.com/track/4wFwlekWkj23Vu900tKPum"
@@ -3342,6 +3432,24 @@
       "duration_ms": 120571,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/2tqcqXIBWPmHVP2QMZHmuI"
+    },
+    {
+      "album": {
+        "name": "Love Letters to Ghosts",
+        "url": "https://open.spotify.com/album/4EeECFrtZ2qtDjEBAHCCBu"
+      },
+      "artists": [
+        {
+          "name": "Casket Cassette",
+          "url": "https://open.spotify.com/artist/7hpTA4ta9iSezFWhwfEbWK"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Symbiosis",
+      "url": "https://open.spotify.com/track/5LhTGlceDHT1X3Ue1RMp9o"
     },
     {
       "album": {
@@ -3638,6 +3746,24 @@
       "duration_ms": 283501,
       "name": "Two Point Zero",
       "url": "https://open.spotify.com/track/7DWKtErNxf4Wb8BD54lDUQ"
+    },
+    {
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/0jOVn77SZIt7fjyRcXUZCf"
+      },
+      "artists": [
+        {
+          "name": "Future Nobodies",
+          "url": "https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313718,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/0f8k3qp0vlq6yu5D7efb6d"
     },
     {
       "album": {
@@ -4012,7 +4138,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 178860,
       "name": "\u041b\u044e\u0434\u0438 \u041d\u0430\u0434\u043e\u0435\u043b\u0438",
       "url": "https://open.spotify.com/track/2gLAml7HPysxActxHTqdLq"

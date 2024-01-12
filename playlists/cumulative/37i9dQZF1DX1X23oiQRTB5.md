@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> PLK au top de la première playlist de rap français !
+> Kerchak x Ziak au top de la première playlist de rap français !
 
 222 songs - 11 hr 29 min
 

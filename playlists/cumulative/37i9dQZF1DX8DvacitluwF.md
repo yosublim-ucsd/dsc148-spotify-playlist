@@ -2,9 +2,9 @@
 
 ### [BlueZA](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn?si=1QnfU6\-2RtqGH74\-GIkZNQ">Joya Mooi</a>
+> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD?si=E0xW5jsSRfOJAWJ090ty4Q">J\-Smash</a>, <a href="https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS?si=YISnJmZRS5GvXtgidJjFRg">Una Rams</a>
 
-117 songs - 6 hr 14 min
+119 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 | 2023-11-03 |  |
 | [Duet \(feat\. Jillz\)](https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [Jillz](https://open.spotify.com/artist/5qov3hiFB9QhOcdqDEL839) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 3:41 | 2023-11-16 |  |
 | [EBBS & FLOWS: Endlessly](https://open.spotify.com/track/7mgeMBOFtXugHlK0C27UXx) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [EBBS & FLOWS: Endlessly](https://open.spotify.com/album/5zuD21xL4m084eqTonEZ6b) | 3:05 | 2023-10-26 |  |
+| [End Of Summer](https://open.spotify.com/track/2ENNmSeAFS7Dc8Sgou8VzJ) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl) | [End Of Summer](https://open.spotify.com/album/2mmLte0m7zdhb0f2ndVp0e) | 2:21 | 2024-01-11 |  |
 | [Faded](https://open.spotify.com/track/6TJgXf6N6IQepcNXZVlIoW) | [Jemapelle James](https://open.spotify.com/artist/3j7tJ1MrdVZR6gLm0Xg0Zj) | [Faded](https://open.spotify.com/album/3ZINMS47XDb9RVdaAG9yYA) | 3:05 | 2023-10-12 | 2023-10-20 |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2023-10-12 | 2023-10-20 |
 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 | 2023-10-12 |  |
@@ -57,6 +58,7 @@
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-10-12 |  |
 | [How Does It Make You Feel](https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:36 | 2023-11-23 |  |
 | [How We Roll](https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How We Roll](https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ) | 3:19 | 2023-10-12 |  |
+| [Hvte Me More!](https://open.spotify.com/track/4gQbrS55OA14Tx9QOXyGrP) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Hvte Me More!](https://open.spotify.com/album/1KBZoMuFYD99E5ILessl9J) | 2:19 | 2024-01-11 |  |
 | [I Know What I Want](https://open.spotify.com/track/4t6lJovfXhtW2eKaWfc41S) | [Rudy Chalmers](https://open.spotify.com/artist/7dP2IIbQgbUJaCZsTgY1dC) | [I Know What I Want](https://open.spotify.com/album/6D0lAoiHXI05IWw1YAULb9) | 3:58 | 2023-11-23 |  |
 | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i) | 2:28 | 2023-10-12 |  |
 | [I Waited](https://open.spotify.com/track/6v1OHooaBNAIxRZlADN7G3) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB) | [Lifetimes](https://open.spotify.com/album/1gY7CgRXNmKLPy1GrYKPCf) | 3:37 | 2023-12-01 | 2023-12-23 |

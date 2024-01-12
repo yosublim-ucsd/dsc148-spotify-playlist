@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: go!go!vanillas \*👉 <a href="https://spice.eplus.jp/articles/325374?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,958 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,994 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 17 | [Lovin’ Song](https://open.spotify.com/track/4yhh5f0lfb3qobycakKjig) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [Lovin’ Song](https://open.spotify.com/album/0iThkim166SXxx1yZIrTDT) | 5:33 |
 | 18 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 19 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 |
-| 20 | [MOONLIGHT](https://open.spotify.com/track/3TgVgnlATgZFGcKv2NcI97) | [hamma](https://open.spotify.com/artist/7sz6bDQFBV3wCdidLrfev1), [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [FLEUR](https://open.spotify.com/artist/2JwmGDl9dQjaAlWYKMJDuV) | [MOONLIGHT](https://open.spotify.com/album/2sMrCyelp9uIuMsElsMGYu) | 4:23 |
+| 20 | [MOONLIGHT](https://open.spotify.com/track/3TgVgnlATgZFGcKv2NcI97) | [hamma](https://open.spotify.com/artist/7sz6bDQFBV3wCdidLrfev1), [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV) | [MOONLIGHT](https://open.spotify.com/album/2sMrCyelp9uIuMsElsMGYu) | 4:23 |
 | 21 | [Slip, Fall, Sleep](https://open.spotify.com/track/74n2hdEZVW3ogYP74Pzh85) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Slip, Fall, Sleep](https://open.spotify.com/album/1lRfBlZjd4wHun8GPczQGH) | 3:38 |
 | 22 | [ハイウェイ](https://open.spotify.com/track/5wHYhnEjPyqlsHuzW6vCeK) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ハイウェイ](https://open.spotify.com/album/1uG3yhVOQ21x9wAqBuPR9d) | 4:00 |
 | 23 | [Tomodachi](https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Lonely Paradox](https://open.spotify.com/album/3cUllXtHAkPuR9VTWz0OGg) | 4:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [puzzle](https://open.spotify.com/track/0aOrApqjckQ2X9RPefGWNq) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/0xfewBOYmMtCWKQerPccGY) | 3:01 |
 | 70 | [Super Adorable Gal](https://open.spotify.com/track/5wFngmXD2qULEdr4NZwJ97) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Super Adorable Gal](https://open.spotify.com/album/3UDkQMJC8sry16Q3phhPeN) | 3:28 |
 
-Snapshot ID: `MCw2OWE2YzkzYzAxZDZiNDkxMjI1NDk4ODc0NDE4ZDBjNTQ5ZjJlOGNm`
+Snapshot ID: `MCw3MTQ5NTMyNjNlOWJjNWIzNWE4Mzg0NDJiNGE3ZTFjODlmZmJiMGZj`

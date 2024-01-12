@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 202553,
+  "2024-01-12": 202522,
   "date_first_scraped": "2022-05-30",
   "description": "Best acoustic melodies from Bollywood",
   "name": "Bollywood Acoustic",
@@ -1031,10 +1031,32 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 235128,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/66ezsSqTUU35e0ZSeyZ5CP"
+    },
+    {
+      "album": {
+        "name": "Jeena Jeena",
+        "url": "https://open.spotify.com/album/44hUhTdPuGXVlsIOaTXAb5"
+      },
+      "artists": [
+        {
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+        },
+        {
+          "name": "bexter",
+          "url": "https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235128,
+      "name": "Jeena Jeena",
+      "url": "https://open.spotify.com/track/6lJOYj4UoqYzTt8GTCOmF9"
     },
     {
       "album": {

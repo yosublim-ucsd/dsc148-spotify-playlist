@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: Wizkid",
-  "num_followers": 1034143,
+  "num_followers": 1033695,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTZhMzg4MzkyYWFkNmJmMDljYzg0M2Q4ZDkzNzQ0NWExMTVmM2I4",
+  "snapshot_id": "MCw5ZmVjZDAwNDg1MDM3NjU0ZTdjY2Y5YmY0MzAyYTEzMGVjYzE4OTUy",
   "tracks": [
     {
       "added_at": "2023-12-22 05:16:39",
@@ -227,7 +227,7 @@
     {
       "added_at": "2023-12-15 05:36:35",
       "album": {
-        "name": "Company",
+        "name": "Company For Now",
         "url": "https://open.spotify.com/album/1kVdPf4akEAG56XYh1reG3"
       },
       "artists": [
@@ -236,16 +236,16 @@
           "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
         },
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
           "name": "Angel",
           "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
       "duration_ms": 183646,
-      "name": "Company",
+      "name": "Company For Now",
       "url": "https://open.spotify.com/track/6jGSAwnrXnIYPwhrvftCoB"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 1202615,
+  "2024-01-12": 1203396,
   "date_first_scraped": "2023-03-26",
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Juliet Ivy",
   "name": "Lagi Viral",
@@ -1725,6 +1725,24 @@
       "duration_ms": 274153,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5s8W7GGcTubPJHpFOo4Sjf"
+    },
+    {
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205213,
+      "name": "Episode",
+      "url": "https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0"
     },
     {
       "album": {
@@ -3857,10 +3875,28 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 202066,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0v0EZLRftWKqvFfwurjw02"
+    },
+    {
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/676W2PECpK9UJuuqyjXRjk"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
     },
     {
       "album": {
@@ -5824,6 +5860,24 @@
     },
     {
       "album": {
+        "name": "YOARI X MY DEMON",
+        "url": "https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf"
+      },
+      "artists": [
+        {
+          "name": "YOARI",
+          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov"
+    },
+    {
+      "album": {
         "name": "Tukar Lalu",
         "url": "https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw"
       },
@@ -6120,6 +6174,24 @@
     },
     {
       "album": {
+        "name": "Why Can't I",
+        "url": "https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Constantin",
+          "url": "https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Why Can't I",
+      "url": "https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw"
+    },
+    {
+      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -6279,6 +6351,28 @@
       "duration_ms": 151835,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0epYQ0yLA5RUYyrhADkF0j"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
+        "url": "https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY"
+      },
+      "artists": [
+        {
+          "name": "PONCHET",
+          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
+        },
+        {
+          "name": "VARINZ",
+          "url": "https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
+      "url": "https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3"
     },
     {
       "album": {

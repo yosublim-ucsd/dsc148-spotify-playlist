@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: ヨルシカ
 
-2,087 songs - 5 day 14 hr 39 min
+2,090 songs - 5 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [AfterImages](https://open.spotify.com/track/1zkKWsLDrTKG5ToByKe0E6) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [総総](https://open.spotify.com/album/0ukIrlzz1XcfnCooUfWT43) | 4:14 | 2023-04-04 | 2023-04-12 |
 | [Again](https://open.spotify.com/track/0lZdUSih2JxtWvQg1YYQsZ) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [Again](https://open.spotify.com/album/7BPLw7cSFnSid7fcP89PsG) | 4:37 | 2022-07-19 | 2022-08-03 |
 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 | 2023-11-28 |  |
-| [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 | 2023-04-04 |  |
+| [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 | 2023-04-04 | 2024-01-12 |
 | [Ai no sei](https://open.spotify.com/track/5SYSLd0yk5Ih53NANxEbu6) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Ai no sei](https://open.spotify.com/album/4Exj2cZX9KPaHlz0tvpVuY) | 4:16 | 2022-10-11 | 2022-10-19 |
 | [AINIIKOU](https://open.spotify.com/track/3oGRtggGs5FH6nVrOwDIaW) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [AINIIKOU](https://open.spotify.com/album/6VUReTTUia2grVUe5YL6N6) | 4:05 | 2023-05-30 | 2023-06-21 |
 | [Aiseta](https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Aiseta](https://open.spotify.com/album/5x7Nn1bwdvJ5Vx1l5cyZST) | 4:07 | 2022-06-02 | 2022-07-21 |
@@ -468,9 +468,10 @@
 | [I Just Wanna Say](https://open.spotify.com/track/5vkcfVJTr52BjEa7YCaHAG) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [I Just Wanna Say](https://open.spotify.com/album/43sSCvAtUwI6Vmjp0DmYDK) | 3:22 | 2022-08-23 | 2022-08-31 |
 | [I knew](https://open.spotify.com/track/22fzmCpT5dx66zMfbrsOEL) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [I knew](https://open.spotify.com/album/2h744OhmRWGvyBqhRxcKMa) | 4:49 | 2023-04-18 | 2023-09-14 |
 | [I know](https://open.spotify.com/track/500QIrnafMrHv0YzJRSkXH) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [I know](https://open.spotify.com/album/1yKNHV3DEY2CaJjH924pg2) | 3:17 | 2022-05-29 | 2022-07-29 |
-| [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 | 2023-10-10 |  |
+| [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 | 2023-10-10 | 2024-01-12 |
 | [I Need U \~君に頼ってもいい?\~](https://open.spotify.com/track/5UyJogrgcVhrP3auoMpRVI) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [I Need U \~君に頼ってもいい?\~](https://open.spotify.com/album/5R0qqaGPA0rGhpmzehMjOr) | 3:37 | 2023-02-14 | 2023-03-15 |
 | [I Never Knew](https://open.spotify.com/track/0FF3Bm8sXxAAbIOD9u4KQh) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [I Never Knew](https://open.spotify.com/album/0LhkREYkYry4cV3wWDbNGJ) | 4:11 | 2022-05-29 | 2022-07-29 |
+| [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 | 2024-01-11 |  |
 | [I think I like you](https://open.spotify.com/track/6BKXFIaRSatVeyqtaMmaJl) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [I think I like you](https://open.spotify.com/album/52PFimJPWcCvwn493rRgDv) | 4:05 | 2022-05-31 | 2022-07-13 |
 | [I WANNA 罠?](https://open.spotify.com/track/4s88PpuZHrawbHyEUfwyAy) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [I WANNA 罠?](https://open.spotify.com/album/5cUdH3PrCI4qwIw7oyyoAp) | 3:57 | 2023-08-01 | 2023-08-16 |
 | [I want to be loved like "Sakuranbo"](https://open.spotify.com/track/1wYhLZQ6UaYh287OmZjNEj) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [I want to be loved like "Sakuranbo"](https://open.spotify.com/album/2FtZL6TkQ0a51twIavqPMJ) | 3:29 | 2023-06-27 | 2023-07-05 |
@@ -993,6 +994,7 @@
 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/63pfEg9b672lMq3ToiKCwp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu) | 3:14 | 2023-02-14 | 2023-02-16 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-22 | 2022-11-24 |
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-11 | 2023-05-17 |
+| [Sugar](https://open.spotify.com/track/3ZidhE0rAgZxe2U1zTpiq1) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Sugar](https://open.spotify.com/album/1FgRxF3akMYOfNaD8ZXlD1) | 3:40 | 2024-01-11 |  |
 | [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 | 2023-09-09 |
 | [Sugar Boy](https://open.spotify.com/track/3S8JB9ENMHufPe0RxdULrw) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Sugar Boy](https://open.spotify.com/album/2WRYRA7fRKeY0Hpu2vvYdC) | 3:17 | 2023-11-14 | 2023-11-22 |
 | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 | 2022-08-02 | 2023-12-20 |
@@ -1489,7 +1491,7 @@
 | [ダイナマイト](https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [ダイナマイト](https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6) | 3:13 | 2022-05-29 | 2022-11-30 |
 | [ダム底の春 feat.Sobs](https://open.spotify.com/track/5cySUmhrrQfcxIodcHKLNt) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK), [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [ダム底の春 feat.Sobs](https://open.spotify.com/album/4msztnHCY2Dq7OjfaWg16f) | 3:18 | 2023-03-21 | 2023-03-23 |
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-31 | 2022-07-23 |
-| [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-06 |  |
+| [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-06 | 2024-01-12 |
 | [チューリップ](https://open.spotify.com/track/13xYQlVr11XuhBwHRbYFmk) | [Kiwokuza](https://open.spotify.com/artist/5RuJsNzn0UhHOu1jvMD3Ii) | [チューリップ](https://open.spotify.com/album/61BECZBJEOOZVas8iFdY30) | 4:27 | 2022-06-07 | 2022-07-14 |
 | [チラカレ](https://open.spotify.com/track/3XMG8djuImbAqt97RdpskQ) | [lecca](https://open.spotify.com/artist/0IeQisXdixzRUBpYSxQJDu) | [チラカレ](https://open.spotify.com/album/21U2Ejjv1gjK3qU4wQuezr) | 3:49 | 2023-08-08 | 2023-08-16 |
 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 | 2023-03-16 |
@@ -1974,6 +1976,7 @@
 | [空っぽ](https://open.spotify.com/track/2YB0gHEctXCJ4U7aKEtWj2) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [空っぽ](https://open.spotify.com/album/7J4oX6OxrWpHYfyDstNl7g) | 3:03 | 2023-02-16 | 2023-02-26 |
 | [空っぽ](https://open.spotify.com/track/6UqNgr9EApSmi0SKyY7SWK) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [空っぽ](https://open.spotify.com/album/634h0kPrtxtHGWWFISuNEh) | 3:11 | 2023-07-04 | 2023-07-26 |
 | [空白の居場所](https://open.spotify.com/track/4CrPB6keI8Msl5uovASijx) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [空白の居場所](https://open.spotify.com/album/3pt6Af59UWQmDJXjBmmAVp) | 4:20 | 2022-10-11 | 2022-10-26 |
+| [紅](https://open.spotify.com/track/2cAC6QYecHHj6T0RS5ejOQ) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [紅](https://open.spotify.com/album/4Ae08IyUHwvhprJhxWZTrY) | 3:35 | 2024-01-11 |  |
 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2023-04-18 | 2023-05-03 |
 | [素っ頓狂](https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [素っ頓狂](https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf) | 5:07 | 2022-06-28 | 2022-07-22 |
 | [素っ頓狂 \- tofubeats extended mix](https://open.spotify.com/track/6TMMLXMMgpNKomGkHJA7l8) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [素っ頓狂 \(tofubeats extended mix\)](https://open.spotify.com/album/4FkqzpWV1TRBYX0vdyOdYH) | 7:38 | 2022-07-12 | 2022-07-14 |

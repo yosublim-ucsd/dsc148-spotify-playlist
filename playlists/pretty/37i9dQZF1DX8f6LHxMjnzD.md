@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,290 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,812 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 36 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 |
 | 37 | [I Tried A Ring On](https://open.spotify.com/track/6ouFl8UDdMc9zuzmzvmh7v) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Tried A Ring On](https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI) | 3:31 |
 | 38 | [if you didnt want me](https://open.spotify.com/track/50TTdw1ApYVu93RW0gKq1e) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [if you didnt want me](https://open.spotify.com/album/5X0wn04hB2EQxTmPKYVdKu) | 2:34 |
-| 39 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [B HAM](https://open.spotify.com/artist/0pfOqJLCEaTlaiAZ7P4p5A), [Corey Cooper](https://open.spotify.com/artist/5JAROdWMgMH5zJjtE4AojW) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
+| 39 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 | 40 | [Mountain Snow](https://open.spotify.com/track/3NZEfp0Mc9G57oBInLYIpV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Mountain Snow](https://open.spotify.com/album/2QCc4wTc9nmYryvDXF43k0) | 2:59 |
 
-Snapshot ID: `MCw5NzQ1MDgzMzU4ZmYyZTIyZDY1OWFmNzAxZjI0N2FhNzAxMDUzYTBh`
+Snapshot ID: `MCw3NWE0M2UxZjI2NDQ5YmQ0MTBjZThmNWNlYWIxYmQ1ZGNkNDM5Yzhl`

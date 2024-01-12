@@ -4,7 +4,7 @@
 
 > 
 
-51 songs - 2 hr 42 min
+52 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Sécurité](https://open.spotify.com/track/6qmVGcaUSiavKomB8yHYDb) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Sécurité](https://open.spotify.com/album/32MK0bLin0vaSjCrqiTzmv) | 2:45 | 2023-12-22 |  |
 | [T\-Rex](https://open.spotify.com/track/74oxccN8ED1w6OSJZIbs4E) | [Thomas Xavier](https://open.spotify.com/artist/5SsttdO7G9TeWBIZrhcoGZ) | [Pharaoh's Alchemist LP](https://open.spotify.com/album/4pM6BsEIAmXyfAaDAoboNc) | 3:20 | 2023-12-26 |  |
 | [Talking To Myself](https://open.spotify.com/track/68o2iCG46yNy2B3ak1Eiql) | [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq) | [Talking To Myself](https://open.spotify.com/album/0QMJUBazmNRqIopxkKBCaQ) | 3:33 | 2023-12-14 |  |
+| [Tell Me](https://open.spotify.com/track/67flQc511s7u45O4Jrfp1G) | [FREMONT \(US\)](https://open.spotify.com/artist/7xxCVEdkHhrR3bpFfsA69v) | [Tell Me](https://open.spotify.com/album/47C9hANYlYm2np3n49aorb) | 2:54 | 2024-01-11 |  |
 | [The Bassline](https://open.spotify.com/track/0A9hFeNvCqFFWbhrdXAmQU) | [Sebastian Wibe](https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO) | [The Bassline](https://open.spotify.com/album/0OtNTTOpVum1PlOxLaD6GR) | 3:23 | 2023-12-14 |  |
 | [The Blur](https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [The Blur](https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS) | 2:53 | 2023-12-14 |  |
 | [The Funk You Want](https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [The Funk You Want](https://open.spotify.com/album/6lUIgHmDWEuFJK5q6uIoXx) | 2:47 | 2023-12-18 |  |

@@ -2,9 +2,9 @@
 
 ### [ฮิปฮอป ของมันต้องฟัง](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> รวมที่สุดเพลงฮิปฮอปไทยไว้ที่นี่\. ศิลปิน: MQT Squad
+> เพลย์ลิสต์พิเศษช่วงวันเด็กปีนี้! รวมที่สุดเพลงฮิปฮอปไทยไว้ที่นี่\. ศิลปิน: LAZYLOXY
 
-252 songs - 14 hr 19 min
+253 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [WRONG](https://open.spotify.com/track/3DJUKMr6OgfKqsfAAaZ305) | [RUDEBOY214](https://open.spotify.com/artist/3Xah3kFYUBENJaAPOjJQ5w), [BLACKBOII HKT](https://open.spotify.com/artist/3QJKMmz9q9WlAu6xgD5g8w) | [Mixed emotions](https://open.spotify.com/album/3IxU7scm3VLbXSDvG77Z3T) | 2:41 | 2023-09-29 | 2023-10-07 |
 | [You & I](https://open.spotify.com/track/1WW0UE1dZGrB3yj91BM513) | [2Venti](https://open.spotify.com/artist/5d7iV0ruM9GPNgZGwyV34u), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [BNINE B9](https://open.spotify.com/artist/4MbYa7Df4YTv6Vg3IQmsNB), [T3RD](https://open.spotify.com/artist/0w1jBPMGVDCY7lHzHlg3Rj) | [You & I](https://open.spotify.com/album/7jOlCvZQ9Nh3zdsKIhfPH4) | 4:14 | 2023-11-10 | 2023-12-02 |
 | [You Mine](https://open.spotify.com/track/4Z8llgsObKMKIQ0UarSTs6) | [NTC Nochapnocap](https://open.spotify.com/artist/5pLAJrVZpX8zxtluaFWE4Y) | [You Mine](https://open.spotify.com/album/6Zlud6yyGDGLUgQlGlXJhQ) | 2:01 | 2024-01-05 |  |
-| [You Miss Me](https://open.spotify.com/track/0HGGgTG4eLKnGn1aPf5PR5) | [STAMP\-ST](https://open.spotify.com/artist/2sI0zXiquAcqQlkY5x3D3M) | [You Miss Me](https://open.spotify.com/album/57YOnBl2N3v82w9sL7YWE1) | 2:15 | 2024-01-05 |  |
+| [You Miss Me](https://open.spotify.com/track/0HGGgTG4eLKnGn1aPf5PR5) | [STAMP\-ST](https://open.spotify.com/artist/2sI0zXiquAcqQlkY5x3D3M) | [You Miss Me](https://open.spotify.com/album/57YOnBl2N3v82w9sL7YWE1) | 2:15 | 2024-01-05 | 2024-01-12 |
 | [You the one](https://open.spotify.com/track/3Qcr5jPX79idrbwZV1gpqi) | [Archy](https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ), [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [You the one](https://open.spotify.com/album/4mQ5ETZjIP0wUQiyFx7tnk) | 2:53 | 2023-09-29 | 2023-10-13 |
 | [กลับมารักกันก่อน](https://open.spotify.com/track/25n4sKaxtbX204XGnxMtz9) | [TTBROS](https://open.spotify.com/artist/7LOkqGD4gJqgdXyGqW3Dow), [BP](https://open.spotify.com/artist/2IIg7pNPzMOxby5h5czdOn) | [กลับมารักกันก่อน](https://open.spotify.com/album/7AISsz6d6AptqE8SwPPn4I) | 3:04 | 2023-10-12 | 2023-10-28 |
 | [กลั้นหายใจ \(catch one's breath\)](https://open.spotify.com/track/2R6vR8CcyNXSK4K0BqETT1) | [Kaililz](https://open.spotify.com/artist/6SMZhdGEbTggRz0gM5Tbs4), [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD), [nansiya](https://open.spotify.com/artist/6oHo98lvyICb7J7JfPvjzy) | [EMERGENSAD](https://open.spotify.com/album/3pJtpovNVx3fWiu4vfOshK) | 4:18 | 2023-11-17 | 2023-11-25 |
@@ -229,6 +229,7 @@
 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 | 2023-09-22 |  |
 | [เพียงคุณต้องการ](https://open.spotify.com/track/3hHLMrCLvd9XbA53afXuXK) | [MAN’R](https://open.spotify.com/artist/7lvHI6dGiPpNH5wmOhLFeE), [BEARING](https://open.spotify.com/artist/2GKmz7YwRN7mt3oas0iKHS) | [เพียงคุณต้องการ](https://open.spotify.com/album/49I0yug6rSmFijpOiuXD6x) | 4:40 | 2023-10-12 | 2023-11-11 |
 | [เพื่อนหรอ](https://open.spotify.com/track/3a3l9WHL52QMSl4ehooY35) | [KHUNCHAY](https://open.spotify.com/artist/4JOpQPY1UlnTXPkiSbaW1v), [ภูวเดช ปรีชาวงค์](https://open.spotify.com/artist/5KyzLmRLGNDkClmO2fcMiA) | [เพื่อนหรอ](https://open.spotify.com/album/6XQ9XpUU3ZQvdrQ7sN2F80) | 2:10 | 2023-10-12 | 2023-10-21 |
+| [เมาจัด](https://open.spotify.com/track/3Olk6l3VTiHcqK4nXUX6sY) | [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5), [T.i.G skysea](https://open.spotify.com/artist/4b5PnccZ84c9FyG4JW43lT), [NICECNX](https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ), [LOMAX](https://open.spotify.com/artist/3eiNvaC2ld4aGm4Iaqzaos) | [เมาจัด](https://open.spotify.com/album/4vI26mtb0mVxfPrUBBSt9a) | 2:57 | 2024-01-11 |  |
 | [เรื่องราวที่เธอลืม](https://open.spotify.com/track/56IJQ9HAa5l8aqLGHadljD) | [Xss$r4](https://open.spotify.com/artist/22epfw00AnWCrHerIOCE54) | [เรื่องราวที่เธอลืม](https://open.spotify.com/album/1EBieEqfS2CscaLKsBfFp8) | 2:44 | 2024-01-05 |  |
 | [เลิกพูด](https://open.spotify.com/track/1TP7e77dujSjfsVeajlKvi) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [เลิกพูด](https://open.spotify.com/album/1WFu00GgNRG1giDjEVyIsd) | 3:37 | 2023-09-22 |  |
 | [เหงา](https://open.spotify.com/track/3W5XQaWlAn8lTVG5EUoiaW) | [JOE TOSSAKAN](https://open.spotify.com/artist/60VgIYhqBwtISr0qyKLbF4) | [เหงา](https://open.spotify.com/album/6d7QaVRPFunP3TarwxBjA7) | 3:16 | 2023-09-22 | 2023-10-07 |

@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Cubita.
+> Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo e CEF Tanzy.
 
-340 songs - 20 hr 21 min
+341 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 | 2021-12-10 |  |
 | [Diferente](https://open.spotify.com/track/3BlPiaT0qrlRubIzqJ5GWa) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Telma Lee](https://open.spotify.com/artist/7iQpFZXyUTiANqmxhb8c6P) | [Best of Kizomba 2017](https://open.spotify.com/album/22n3XPtnzeE2bQZKP0qt4O) | 4:24 | 2022-01-10 | 2022-05-28 |
 | [Djudan](https://open.spotify.com/track/23dtqRYCyGGlS1IUNJiyt7) | [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Djudan](https://open.spotify.com/album/7zktGWmrZnko6XwevyeBTQ) | 3:29 | 2023-03-17 | 2023-04-07 |
-| [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 | 2021-12-10 |  |
+| [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 | 2021-12-10 | 2024-01-12 |
 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 | 2021-12-10 | 2023-06-23 |
 | [Dor d'um Kriolu](https://open.spotify.com/track/3oMBUqIQYJMsLdPcyCgdNo) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dor d’um Kriolu](https://open.spotify.com/album/4Sy8XgSSfdV6fKPUMQetMT) | 2:45 | 2021-12-10 | 2022-07-24 |
 | [Dpos D'Quarentena](https://open.spotify.com/track/0ccb5rbfpzKAgfKmZNfzeN) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dpos D'Quarentena](https://open.spotify.com/album/6CkuiZSgHAYVAM37aqdt7M) | 2:54 | 2021-12-10 | 2022-07-29 |
@@ -293,6 +293,7 @@
 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 | 2021-12-10 |  |
 | [Super Mulher](https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5) | 3:52 | 2021-12-10 |  |
 | [Só Nós 2](https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Só Nós 2](https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18) | 3:49 | 2023-04-27 |  |
+| [Tarraxinha](https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Tarraxinha](https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda) | 2:24 | 2024-01-12 |  |
 | [Tayanna](https://open.spotify.com/track/5koelUYXOtUwFvRvuaNu2n) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Tayanna](https://open.spotify.com/album/4SUO5EOORH2ofi8H5gBlkC) | 3:49 | 2021-12-10 | 2022-02-17 |
 | [Te Amo](https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo](https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ) | 4:15 | 2021-12-10 |  |
 | [Te Amo](https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy) | [Irmãos Verdades](https://open.spotify.com/artist/1mlqcEb9dU0dPTM63Jhgmr) | [Te Amo](https://open.spotify.com/album/3OU2BXNEAWP74xw2FisAvE) | 3:33 | 2022-01-27 | 2022-07-26 |

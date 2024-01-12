@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-460 songs - 17 hr 55 min
+463 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [An Opalescent Sanctuary](https://open.spotify.com/track/1s64ZuMSS2KfZPMoXrxePt) | [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [Bubble](https://open.spotify.com/album/6BA8jtlejLCMnj5i3CHu8Y) | 2:33 | 2023-06-09 | 2023-10-06 |
 | [Anew](https://open.spotify.com/track/5zn6bwh2p6QQXIarMriSQj) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [Anew](https://open.spotify.com/album/00owKIDoAG3kKEUKCzM73r) | 1:50 | 2022-09-16 |  |
 | [animos](https://open.spotify.com/track/5CLBmr7bGBnsCFAsXITIyJ) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [animos](https://open.spotify.com/album/2w1cTkkTNv3VJNPz7tenr3) | 2:19 | 2023-01-13 |  |
+| [Anti\-Gravity](https://open.spotify.com/track/7bzarmiobBm1oOCSBmTevV) | [Space Time](https://open.spotify.com/artist/357YQNXCYAKT5NLytqNLs0) | [Anti\-Gravity](https://open.spotify.com/album/1SfGFTKbHjoYkPVcdAbV3a) | 2:18 | 2024-01-12 |  |
 | [Appletonville](https://open.spotify.com/track/6JdV7Cjw6SisBCfP3aXgI2) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Appletonville](https://open.spotify.com/album/5kDkGd97ZKr89BKJLx4n3l) | 2:18 | 2023-01-06 | 2023-08-30 |
 | [Aquamarine](https://open.spotify.com/track/56wMtsglhlddfHVEHH2kYc) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Mavi](https://open.spotify.com/album/592PD7BO3MG7TLFV30sImZ) | 2:50 | 2022-09-09 | 2023-10-06 |
 | [Arctic Tundra](https://open.spotify.com/track/6muvuOIHhSe0hfxlnbA3SH) | [Dj Screech](https://open.spotify.com/artist/3JFTmv6ilkFBBwgCYBXxlI) | [Arctic Tundra](https://open.spotify.com/album/2qddX8I6KxRnlUFITUgESS) | 2:21 | 2022-12-02 | 2023-10-06 |
@@ -243,6 +244,7 @@
 | [Meditative State](https://open.spotify.com/track/0YXyIpdq9ZFvCH6ZsaGfwE) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Meditative State](https://open.spotify.com/album/3nSx2XYH36538HeHh8X0SR) | 1:56 | 2023-03-20 |  |
 | [Mellifluous](https://open.spotify.com/track/0r40wXiWwQCSRRegTwsG51) | [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx), [Coogan](https://open.spotify.com/artist/1U3FmjBRcKqEV3TktVmero) | [Mellifluous](https://open.spotify.com/album/5T8Gbc6K56bD9IpVGmVq4q) | 2:37 | 2022-10-07 |  |
 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 | 2022-09-09 | 2023-10-06 |
+| [memories](https://open.spotify.com/track/2g0Tf1lNH2EDt2Evci01Xj) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [memories](https://open.spotify.com/album/7mqeSfjOtjCkMPBZo6WE94) | 2:14 | 2024-01-12 |  |
 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 | 2023-08-18 |  |
 | [Meteor Shower](https://open.spotify.com/track/7ramzkXZYtHU4bUzR2qTJ6) | [Theo Aabel](https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe), [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [Meteor Shower](https://open.spotify.com/album/009XcHxeU83CdvOQ5cctHH) | 2:36 | 2022-09-23 | 2023-08-30 |
 | [mid autumn](https://open.spotify.com/track/4QhzZqh71thbm5cxxiHkzT) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [mid autumn](https://open.spotify.com/album/30tiLGIHjpSplPuKOAcaqW) | 2:16 | 2023-12-08 |  |
@@ -360,6 +362,7 @@
 | [simple pleasures](https://open.spotify.com/track/4gSagGvtZ4cDIRZPNn528y) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt) | [simple pleasures](https://open.spotify.com/album/3XbX5AgFOCMsjOlwQURxsU) | 2:19 | 2022-10-28 | 2022-11-19 |
 | [Sing Me Back To Sleep](https://open.spotify.com/track/1bjNagY5UDBS0f1Jvark4A) | [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df), [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0) | [Sing Me Back To Sleep](https://open.spotify.com/album/43GF0R2uzD6X5K1BF6DwsL) | 2:20 | 2023-04-20 | 2023-09-22 |
 | [Sketches](https://open.spotify.com/track/0zrA7mY6vysGHGJgjU156J) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Kioshi](https://open.spotify.com/artist/3x4WC9oAvyfIFf3bta4fzt), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Sketches](https://open.spotify.com/album/30DtQXsS1wHnspQpMXGdSi) | 2:29 | 2023-01-13 |  |
+| [Sleep Under My Eyes](https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Sleep Under My Eyes](https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz) | 2:18 | 2024-01-12 |  |
 | [Sleeping In](https://open.spotify.com/track/4reEb6Nd2ASWGJ9S3MlAyz) | [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S), [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Sleeping In](https://open.spotify.com/album/5miL0MIQzRuwBvR5GLPUvr) | 2:03 | 2022-11-11 | 2022-11-19 |
 | [Slowing Down](https://open.spotify.com/track/1X1Rum2sT2KxQPaBLQN03y) | [Golden Gemini](https://open.spotify.com/artist/1YiZTiKZ55iOQzTl9LGYYM) | [Slowing Down](https://open.spotify.com/album/4pIsjcaKGj9zHZCLLhkuHF) | 1:48 | 2023-06-09 |  |
 | [Slumber](https://open.spotify.com/track/3uZ8bVDfsQhoBQ5IsIwBvd) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Slumber](https://open.spotify.com/album/1sArYbWbNRXCbZLRYfVa8J) | 2:07 | 2022-09-30 |  |

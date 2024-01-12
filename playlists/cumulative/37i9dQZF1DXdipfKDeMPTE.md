@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-566 songs - 21 hr 24 min
+570 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [analogue](https://open.spotify.com/track/6Nye92076r2T3EDvOGSDsL) | [r@ts](https://open.spotify.com/artist/7zREpSJAYjxSFNlOai38bU) | [analogue](https://open.spotify.com/album/1V5KCQUmOAj8UcoWMbij5G) | 2:37 | 2022-05-20 | 2023-01-18 |
 | [Ancient Waters](https://open.spotify.com/track/0obqB3BecWV8AUWYLJFY3U) | [Louie Bee](https://open.spotify.com/artist/3HxL5D4LLPpENqkTYKsZ4t) | [Ancient Waters](https://open.spotify.com/album/5ahs1RcdqzTEi4y6gULJLs) | 2:02 | 2023-01-20 |  |
 | [Another Redroom Ramble](https://open.spotify.com/track/6pAW3tv04ptjKaFopM1uMJ) | [Aphid Friend](https://open.spotify.com/artist/6gQZaq3bhFr819MDPbmEso) | [Partners](https://open.spotify.com/album/6ItLwHBpRMlotPZ7wP4q7g) | 2:38 | 2022-05-20 | 2022-07-08 |
+| [Anti\-Gravity](https://open.spotify.com/track/7bzarmiobBm1oOCSBmTevV) | [Space Time](https://open.spotify.com/artist/357YQNXCYAKT5NLytqNLs0) | [Anti\-Gravity](https://open.spotify.com/album/1SfGFTKbHjoYkPVcdAbV3a) | 2:18 | 2024-01-12 |  |
 | [Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV) | [Velvet Haven](https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F) | [Are We There Yet](https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ) | 2:34 | 2023-10-27 |  |
 | [Artifact](https://open.spotify.com/track/2vi4MXSr5taqNZEmpvA7w9) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Artifact](https://open.spotify.com/album/6sBfndQpBMuAJPiuMMiwxA) | 1:57 | 2022-09-16 |  |
 | [Ascension](https://open.spotify.com/track/1QspoG8pNeKwyVmA84kGAn) | [Elevatissimo](https://open.spotify.com/artist/5I9ymDOTe4vD38qQc1JYeN) | [Ascension](https://open.spotify.com/album/47qphikUx1Bu31oB6LTrax) | 2:53 | 2022-05-20 | 2022-06-10 |
@@ -76,7 +77,7 @@
 | [Brothers](https://open.spotify.com/track/4p9iRQ7wV7ot02Ql4P6VEG) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Swag](https://open.spotify.com/album/28tNfXyZf9vkVqr2Q20cOX) | 1:09 | 2023-03-13 |  |
 | [Bubbles Around Me](https://open.spotify.com/track/6qrCkyPOQBFe2V0Aer2cWX) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Bubbles Around Me](https://open.spotify.com/album/4ox8valqKzDIg24FylVzXC) | 2:33 | 2022-08-05 | 2023-09-26 |
 | [Buda Nights](https://open.spotify.com/track/27VtLMIpNopyAezShebYCF) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU), [deciseeo](https://open.spotify.com/artist/74j5kSzqn9oJohyTUMmGZB) | [Buda Nights](https://open.spotify.com/album/5j9EPMmck4PWNp7FsfoNdP) | 2:37 | 2022-05-20 | 2023-01-20 |
-| [burgundy](https://open.spotify.com/track/7HcbBm0hS43kmLSNclrAue) | [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT) | [burgundy](https://open.spotify.com/album/28wE9i34oVa5zG1ZC0miq7) | 1:45 | 2022-10-28 |  |
+| [burgundy](https://open.spotify.com/track/7HcbBm0hS43kmLSNclrAue) | [affogato.wav](https://open.spotify.com/artist/5IVNgz7eOCRq61neiYgXZT) | [burgundy](https://open.spotify.com/album/28wE9i34oVa5zG1ZC0miq7) | 1:45 | 2022-10-28 |  |
 | [Burnt Coffee](https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Burnt Coffee](https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA) | 2:06 | 2023-11-17 |  |
 | [Burrowing Animals](https://open.spotify.com/track/6pHypO4oxMzm9z2bsN2t2l) | [Tamala Bay](https://open.spotify.com/artist/2lncpX7wgkhvlIkw7ozMRj) | [Burrowing Animals](https://open.spotify.com/album/4HiKFOZ7LsIMO2e50Exnh5) | 2:29 | 2022-12-09 | 2023-12-14 |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 |  |
@@ -84,6 +85,7 @@
 | [cab driver](https://open.spotify.com/track/5SjIaEZGCRBppzTGLMRObw) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [cab driver](https://open.spotify.com/album/0zdts9MVKHAoQ7OqkFt39z) | 2:36 | 2022-05-20 | 2023-01-18 |
 | [Caffè de Postillon](https://open.spotify.com/track/0CdsWBtMBIF9uwtYhvFDSO) | [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [Shibui Nigai](https://open.spotify.com/artist/6izZgY9M75vZ6tn9axWDW0), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Caffè de Postillon](https://open.spotify.com/album/3Mmsp3562Z9asBuAd80Fvp) | 3:16 | 2023-09-04 | 2023-09-09 |
 | [Café Contemplation](https://open.spotify.com/track/3axcOHtOYpoE4opkZ4RKfk) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Café Contemplation](https://open.spotify.com/album/2bqr69PRrmEuWScCjgK4kZ) | 3:04 | 2022-09-02 |  |
+| [calathea](https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [calathea](https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd) | 1:46 | 2024-01-12 |  |
 | [Calicall](https://open.spotify.com/track/7s7cgU5RJ3vhWp1ZYRr8UR) | [Monkey Larsson](https://open.spotify.com/artist/1NNMXNmMeMap4smySFZTLk) | [Calicall](https://open.spotify.com/album/7f0iQN9EVtjX2qzBTJM0lO) | 1:38 | 2022-05-20 | 2022-06-10 |
 | [calm nights](https://open.spotify.com/track/57KG77P6mmQvQassZqe5BI) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [calm nights](https://open.spotify.com/album/3YXjQU0fIzU5J7ZELsdqMP) | 2:24 | 2023-12-08 |  |
 | [calm the mind](https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [calm the mind](https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S) | 2:22 | 2023-10-06 |  |
@@ -459,6 +461,7 @@
 | [Skate and/or die](https://open.spotify.com/track/1rL6vJL0i3kGkkOageCNLY) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Skate and/or die](https://open.spotify.com/album/7uzU5JiB7Xha4Vyl7Fl6xJ) | 1:34 | 2022-05-20 | 2023-09-26 |
 | [Skylines](https://open.spotify.com/track/3kvOTQWodqhF2kJOM4Jwd9) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Skylines](https://open.spotify.com/album/7k9zg9J556Yxl2CYLZkCdG) | 2:13 | 2022-09-16 |  |
 | [Slack\-jawed](https://open.spotify.com/track/3FXTVPlMP7FfGOafCOk3Cc) | [Lowely](https://open.spotify.com/artist/1E7U9zav6CjfcRuD5UEG8e) | [Slack\-jawed](https://open.spotify.com/album/6TxO2cqvIqROVKsBX6OxrK) | 2:09 | 2023-09-22 |  |
+| [Sleep Under My Eyes](https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Sleep Under My Eyes](https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz) | 2:18 | 2024-01-12 |  |
 | [Sleeping City](https://open.spotify.com/track/2sdtHbNOJLXgOXpE77UzSq) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [Sleeping City](https://open.spotify.com/album/6Uz5giO3HlABh2J37WQEoW) | 2:59 | 2022-05-20 | 2022-10-14 |
 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 | 2023-09-08 |  |
 | [Sloane](https://open.spotify.com/track/1fbANcHGIX2fCXtKev0pMA) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Sloane](https://open.spotify.com/album/6MFvfBN3PKYApyt3Te04tv) | 2:13 | 2022-05-20 | 2023-01-18 |
@@ -556,6 +559,7 @@
 | [warm blanket](https://open.spotify.com/track/00eent5g0VdmkgJigmr1ed) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [warm blanket](https://open.spotify.com/album/62EL5CBK8K4KCy9iH20jul) | 1:48 | 2022-11-25 | 2023-01-18 |
 | [Warm Weather](https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Warm Weather](https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt) | 2:29 | 2023-10-27 |  |
 | [Watercolors](https://open.spotify.com/track/0hHvL9j0j6cIgU5RZ8Sz3Z) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/7uFoovISuM4NRMCUKspVhg) | 2:42 | 2023-09-04 | 2023-12-14 |
+| [Waterfall o' Seven](https://open.spotify.com/track/1uuXYvIJFFiOHkq2QPAS8F) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Waterfall O' Seven](https://open.spotify.com/album/1vIrOuDR3z6c9NzC5BU1Kb) | 2:01 | 2024-01-12 |  |
 | [wavy night](https://open.spotify.com/track/4gYfc1q07d3jB3ZF3pfqNk) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [wavy night](https://open.spotify.com/album/3LNYg9nhotYP61JtCV5qOW) | 1:25 | 2022-12-16 |  |
 | [Waxing](https://open.spotify.com/track/4xG6I54kv59NsbELXreqHT) | [The Fibbers](https://open.spotify.com/artist/5n43zVDWitfC3uklfrNgQT) | [Waxing](https://open.spotify.com/album/6O7UB1QfYDyuh4fDyTbVs8) | 2:27 | 2022-05-20 | 2022-07-28 |
 | [wayitis](https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [wayitis](https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC) | 3:11 | 2023-12-22 |  |

@@ -1,32 +1,44 @@
 {
-  "description": "Die nuutste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE?si=B9nqNMHqRz64G83NKUThtg\">Arno Jordaan</a> ",
-  "num_followers": 18284,
+  "description": "Die nuutste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt?si=u8NseDH5Rfu7s_Tn0jl1tA\">Ryno Velvet</a> ",
+  "num_followers": 18316,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWIzMWFlNDdhMzU0MmNkNTU4ZjkyZjkxZDBiZDRhZmM0Y2M3MDRm",
+  "snapshot_id": "MCxmMDQ4NTJlNmU3OTAxNDlhYjMxZjMyNzMwMjM1ZDZiZTkwMDNiZjk5",
   "tracks": [
     {
-      "added_at": "2024-01-05 05:17:41",
+      "added_at": "2024-01-11 22:00:00",
       "album": {
-        "name": "Saaragaand",
-        "url": "https://open.spotify.com/album/7GaO0jPUBu1hJ92owaFkY4"
+        "name": "Sterreval",
+        "url": "https://open.spotify.com/album/1yGzH2bIEChjXMqZnBUuvI"
       },
       "artists": [
         {
-          "name": "Arno Jordaan",
-          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
-        },
-        {
-          "name": "Louis van Lill",
-          "url": "https://open.spotify.com/artist/1vqMsqSbWQUOoZNCmPnjY3"
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
         }
       ],
-      "duration_ms": 186923,
-      "name": "Saaragaand",
-      "url": "https://open.spotify.com/track/1Zg6bEg6lGkus6uV2VPdzO"
+      "duration_ms": 236680,
+      "name": "Sterreval",
+      "url": "https://open.spotify.com/track/6jueUMxROt1rtTW7mBM7Cs"
+    },
+    {
+      "added_at": "2024-01-05 05:17:41",
+      "album": {
+        "name": "Dis Raak",
+        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
+      },
+      "artists": [
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Dis Raak",
+      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
     },
     {
       "added_at": "2024-01-05 05:17:41",
@@ -49,22 +61,6 @@
       "url": "https://open.spotify.com/track/0svurugq2CYsP7zGByuUyg"
     },
     {
-      "added_at": "2024-01-05 05:17:41",
-      "album": {
-        "name": "Dis Raak",
-        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
-      },
-      "artists": [
-        {
-          "name": "Bok Van Blerk",
-          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
-        }
-      ],
-      "duration_ms": 213214,
-      "name": "Dis Raak",
-      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
-    },
-    {
       "added_at": "2023-12-21 22:00:00",
       "album": {
         "name": "Hart Breek",
@@ -79,6 +75,26 @@
       "duration_ms": 200347,
       "name": "Hart Breek",
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+    },
+    {
+      "added_at": "2024-01-05 05:17:41",
+      "album": {
+        "name": "Saaragaand",
+        "url": "https://open.spotify.com/album/7GaO0jPUBu1hJ92owaFkY4"
+      },
+      "artists": [
+        {
+          "name": "Arno Jordaan",
+          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
+        },
+        {
+          "name": "Louis van Lill",
+          "url": "https://open.spotify.com/artist/1vqMsqSbWQUOoZNCmPnjY3"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Saaragaand",
+      "url": "https://open.spotify.com/track/1Zg6bEg6lGkus6uV2VPdzO"
     },
     {
       "added_at": "2023-12-21 22:00:00",
@@ -113,20 +129,24 @@
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
     },
     {
-      "added_at": "2024-01-05 05:17:41",
+      "added_at": "2023-12-21 22:00:00",
       "album": {
-        "name": "Boerejol in Afrikaans",
-        "url": "https://open.spotify.com/album/2XLCeqljU66cow3bVJv6Go"
+        "name": "Neem My Op Vlerke (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
       },
       "artists": [
         {
-          "name": "Anton Fitchat",
-          "url": "https://open.spotify.com/artist/243yC1bqCC4nSPMA5Zxs95"
+          "name": "Anneli Van Rooyen",
+          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
         }
       ],
-      "duration_ms": 212173,
-      "name": "Boerejol in Afrikaans",
-      "url": "https://open.spotify.com/track/7rJaTXyeY271TMK06hRNy0"
+      "duration_ms": 202648,
+      "name": "Neem My Op Vlerke - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
     },
     {
       "added_at": "2023-12-21 22:00:00",
@@ -161,6 +181,22 @@
       "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
+      "added_at": "2023-12-21 22:00:00",
+      "album": {
+        "name": "Buffel Van Buffelsfontein",
+        "url": "https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "Buffel Van Buffelsfontein",
+      "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
+    },
+    {
       "added_at": "2024-01-05 05:17:41",
       "album": {
         "name": "Umfaan",
@@ -179,22 +215,6 @@
       "duration_ms": 225142,
       "name": "Umfaan",
       "url": "https://open.spotify.com/track/216HvJLzt4E6Wcl62ZuX5b"
-    },
-    {
-      "added_at": "2023-12-21 22:00:00",
-      "album": {
-        "name": "Buffel Van Buffelsfontein",
-        "url": "https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 176750,
-      "name": "Buffel Van Buffelsfontein",
-      "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
     },
     {
       "added_at": "2024-01-05 05:17:41",
@@ -329,42 +349,6 @@
       "url": "https://open.spotify.com/track/7fXKIMx1rTLklGYQu1VwU8"
     },
     {
-      "added_at": "2023-12-21 22:00:00",
-      "album": {
-        "name": "Neem My Op Vlerke (SENSASIE Remix)",
-        "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
-      },
-      "artists": [
-        {
-          "name": "Anneli Van Rooyen",
-          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
-        },
-        {
-          "name": "SENSASIE",
-          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
-        }
-      ],
-      "duration_ms": 202648,
-      "name": "Neem My Op Vlerke - SENSASIE Remix",
-      "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
-    },
-    {
-      "added_at": "2024-01-05 05:17:41",
-      "album": {
-        "name": "My Rede",
-        "url": "https://open.spotify.com/album/63bjXAWDJMOr6G0jqzgVMH"
-      },
-      "artists": [
-        {
-          "name": "Cara Rossouw",
-          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "My Rede",
-      "url": "https://open.spotify.com/track/63FtCyJDSrX5V86Q1uxlzA"
-    },
-    {
       "added_at": "2024-01-05 05:17:41",
       "album": {
         "name": "Kinders van die Warrelwind",
@@ -381,20 +365,20 @@
       "url": "https://open.spotify.com/track/5BOtjYYVTWqp1i40AuKYtP"
     },
     {
-      "added_at": "2024-01-05 05:17:41",
+      "added_at": "2024-01-11 22:00:00",
       "album": {
-        "name": "Voel",
-        "url": "https://open.spotify.com/album/03TSFVXzXPXbv2mosZ22Jd"
+        "name": "Wyn",
+        "url": "https://open.spotify.com/album/1aMOz9dCGypaewrzobd7dX"
       },
       "artists": [
         {
-          "name": "Elsje du Toit",
-          "url": "https://open.spotify.com/artist/6miepPtiQawx256JNyCecF"
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
         }
       ],
-      "duration_ms": 178289,
-      "name": "Voel",
-      "url": "https://open.spotify.com/track/3nfvfPPlIamTKAARfxf7Bz"
+      "duration_ms": 158778,
+      "name": "Wyn",
+      "url": "https://open.spotify.com/track/5BODeqZ9b4hekIqt465IU0"
     },
     {
       "added_at": "2024-01-05 05:17:41",
@@ -501,22 +485,6 @@
       "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
     },
     {
-      "added_at": "2024-01-05 05:17:41",
-      "album": {
-        "name": "Dans Deur Die Donker",
-        "url": "https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 189941,
-      "name": "Die Goeie Ou Dae",
-      "url": "https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D"
-    },
-    {
       "added_at": "2023-12-21 22:00:00",
       "album": {
         "name": "Waar Ek My Lippe Neerl\u00ea",
@@ -569,6 +537,22 @@
       "url": "https://open.spotify.com/track/7CIy4uYYM2KR3GieY3XDpi"
     },
     {
+      "added_at": "2023-12-21 22:00:00",
+      "album": {
+        "name": "Tannie Katesbes",
+        "url": "https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N"
+      },
+      "artists": [
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        }
+      ],
+      "duration_ms": 180348,
+      "name": "Tannie Katesbes",
+      "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
+    },
+    {
       "added_at": "2024-01-05 05:17:41",
       "album": {
         "name": "Los My",
@@ -601,22 +585,6 @@
       "url": "https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a"
     },
     {
-      "added_at": "2024-01-05 05:17:41",
-      "album": {
-        "name": "Boerepop",
-        "url": "https://open.spotify.com/album/0XtJOVnSRUjvwgoHlqyEeV"
-      },
-      "artists": [
-        {
-          "name": "Martin Bester",
-          "url": "https://open.spotify.com/artist/3LVGq66sLnDTKq5qcu9upF"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Boerepop",
-      "url": "https://open.spotify.com/track/7dcRWabNlXjIEAE5jaXnee"
-    },
-    {
       "added_at": "2023-12-21 22:00:00",
       "album": {
         "name": "OASE",
@@ -633,20 +601,36 @@
       "url": "https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s"
     },
     {
-      "added_at": "2023-12-21 22:00:00",
+      "added_at": "2024-01-11 22:00:00",
       "album": {
-        "name": "Tannie Katesbes",
-        "url": "https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N"
+        "name": "Die Wors Song",
+        "url": "https://open.spotify.com/album/3tKymqLeAllgjh0LCcgI7C"
       },
       "artists": [
         {
-          "name": "FATMAN",
-          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+          "name": "Peer Papsak",
+          "url": "https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25"
         }
       ],
-      "duration_ms": 180348,
-      "name": "Tannie Katesbes",
-      "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
+      "duration_ms": 165340,
+      "name": "Die Wors Song",
+      "url": "https://open.spotify.com/track/2UCudHlzKNBcJ1QVhZuce5"
+    },
+    {
+      "added_at": "2024-01-05 05:17:41",
+      "album": {
+        "name": "Boerepop",
+        "url": "https://open.spotify.com/album/0XtJOVnSRUjvwgoHlqyEeV"
+      },
+      "artists": [
+        {
+          "name": "Martin Bester",
+          "url": "https://open.spotify.com/artist/3LVGq66sLnDTKq5qcu9upF"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Boerepop",
+      "url": "https://open.spotify.com/track/7dcRWabNlXjIEAE5jaXnee"
     },
     {
       "added_at": "2024-01-05 05:17:41",
@@ -731,6 +715,22 @@
       "duration_ms": 169194,
       "name": "Wildman",
       "url": "https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd"
+    },
+    {
+      "added_at": "2024-01-05 05:17:41",
+      "album": {
+        "name": "Boerejol in Afrikaans",
+        "url": "https://open.spotify.com/album/2XLCeqljU66cow3bVJv6Go"
+      },
+      "artists": [
+        {
+          "name": "Anton Fitchat",
+          "url": "https://open.spotify.com/artist/243yC1bqCC4nSPMA5Zxs95"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Boerejol in Afrikaans",
+      "url": "https://open.spotify.com/track/7rJaTXyeY271TMK06hRNy0"
     },
     {
       "added_at": "2023-12-21 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,381 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,356 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 49 | [Shaman's Blues](https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 4:47 |
 | 50 | [Love Hides \- Live at the Felt Forum, New York City, January 17, 1970, First Show](https://open.spotify.com/track/4zOmEfLvoRQh31xUDZmoGW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Live in New York](https://open.spotify.com/album/4mKRzTeNQCK5bhFKK0LD1k) | 0:32 |
 
-Snapshot ID: `Mjg0MTQ5MTgsMDAwMDAwMDA2ZjgxOTkxYTUwNDBmZmU0MTBjZmYyZTNhNTc5OGFjZQ==`
+Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBmNmRmMjU5YTc3NjY2NGNlNzUxOWQyM2ZhZGZiY2ZlZQ==`

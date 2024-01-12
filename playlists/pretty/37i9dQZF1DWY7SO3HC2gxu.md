@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,623 likes - 80 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,636 likes - 80 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 18 | [Chongo \- Extended Mix](https://open.spotify.com/track/1I3KkEN7bB7er3HBrVMRme) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Martin Tayllor](https://open.spotify.com/artist/2UESW6WQwd0yFLW2aAoQmP) | [Chongo](https://open.spotify.com/album/2epqwYM20MaGTdUa75qmB4) | 6:20 |
 | 19 | [Mwele \- Chalee Remix](https://open.spotify.com/track/07lE4WqD5v3jZgwiYSk5H8) | [Egeme](https://open.spotify.com/artist/2G6oOdpqtQw5y2sb3JHshd), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Mwele \(Chalee Remix\)](https://open.spotify.com/album/1f5eRNVwmLj7BnteTVfJJs) | 6:59 |
 | 20 | [Down to Me \- Davis B Remix](https://open.spotify.com/track/6qAlulFqO10Bn06eGpa9tB) | [KAMUSHEZ](https://open.spotify.com/artist/45IuInsqovfU1Xg1a5YZdS), [Dattie Capelli](https://open.spotify.com/artist/7n0IL4h59BSGNAwPjAI5E9), [Davis B](https://open.spotify.com/artist/2eE77mWsLL4m0d9w3OWVws) | [Down To Me \(Davis B Remix\)](https://open.spotify.com/album/5ycXRLiOjsA2g8NaeFHesJ) | 6:33 |
-| 21 | [Walking On Water](https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D) | [Obi Sanaa](https://open.spotify.com/artist/6Jwq0DU8WsVYLYyJqzfhEM), [Fynite](https://open.spotify.com/artist/2ZuNcbGsaXWwd4BEejFXJD), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking on Water](https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7) | 3:45 |
+| 21 | [Walking On Water](https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Fynite](https://open.spotify.com/artist/2ZuNcbGsaXWwd4BEejFXJD), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking on Water](https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7) | 3:45 |
 | 22 | [Umoya](https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [We Live 4 Our Music](https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai) | 7:16 |
 | 23 | [Simama](https://open.spotify.com/track/4TqKsQ4KIcjLIRUUHx8izd) | [KLAAN](https://open.spotify.com/artist/3m6BKTRlaOuhaFauW2jRD6), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Simama](https://open.spotify.com/album/1vGGNki1oydOSOLeHYqF0b) | 4:00 |
 | 24 | [Last Summer](https://open.spotify.com/track/6F1oIKnT2vubFelcGsd1OF) | [Da Druma](https://open.spotify.com/artist/4PBDIbJLiIUeIpa16eUHl2), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Last Summer](https://open.spotify.com/album/2heXBgWJgIya6igxO0PeNJ) | 7:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 79 | [Tobina](https://open.spotify.com/track/1wQIZO21QL5D36PjSYU5aE) | [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Mandala](https://open.spotify.com/artist/4XRCFvGfu0MhCKJ42OGXDe) | [Tobina](https://open.spotify.com/album/1JLdZk9Qcw4EiGsDhst35a) | 5:17 |
 | 80 | [Nyoro](https://open.spotify.com/track/5GdgzFPADlFrhDRBoEHq7f) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql) | [Nyoro](https://open.spotify.com/album/0Jn4m8XlZgSbuWYjlzc22S) | 4:36 |
 
-Snapshot ID: `MCw2OTQyMDY1YTc0ZDBiZmRiZWVlYWIyN2M4N2UxYzVjMmRmZDM3MzFl`
+Snapshot ID: `MCwyY2I4MGYwOWUyMGNkOGRjMDJiMTJiYTI0N2QxMjNjMWIwY2ZhNjg4`

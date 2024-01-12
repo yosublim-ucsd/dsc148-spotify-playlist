@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Dermot Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,132 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,062 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Broken Hearted](https://open.spotify.com/track/0qUkLPmdkTAEqcT6Bl5Lok) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Broken Hearted](https://open.spotify.com/album/31nzRdy29f41xSsV1ConUk) | 3:10 |
 | 100 | [Driving To Nowhere](https://open.spotify.com/track/7bI0nfpRuGN5BUW23Auw26) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Driving To Nowhere](https://open.spotify.com/album/3ElAgzbgtbzweDHr2snige) | 3:05 |
 
-Snapshot ID: `MCwxYzAyZjUxNmFmMWQ4MDdjYmJlMjdhYjg0MzIxZjc0MTQ1YTUzNWVh`
+Snapshot ID: `MCw2NjRlMjNhZWVjMzIwZWVjMDI4ZTVlZWMwNTI1MTJmZTM0YTc1NGU5`

@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-277 songs - 15 hr 45 min
+278 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Clap For Them](https://open.spotify.com/track/4vJRj3g7OyxytClCk0FzAb) | [Galaxy Fingers](https://open.spotify.com/artist/6uyULpB0HuQu9Mb6mhzGEx) | [Clap For Them](https://open.spotify.com/album/7BZaLbZxBSCdZM80GSGvgl) | 3:21 | 2021-07-16 | 2022-07-29 |
 | [Clocks](https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT) | [Praia Grande](https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v) | [Covers](https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E) | 3:45 | 2021-07-16 |  |
 | [Colourblind](https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:54 | 2021-07-16 | 2022-07-27 |
-| [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2021-07-16 |  |
+| [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2021-07-16 | 2024-01-12 |
 | [Complicated](https://open.spotify.com/track/7j6xAadMrhFIuZ7epyU5YT) | [M w S](https://open.spotify.com/artist/6YvmHs9jWcXOHZ6SDtDeS8) | [Complicated](https://open.spotify.com/album/5TNdGmCbItkOtiuWzhXIbc) | 3:30 | 2021-07-16 | 2022-07-29 |
 | [Concéntrica Canción](https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Concéntrica Canción](https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS) | 2:42 | 2021-07-16 |  |
 | [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [I'll Sleep When I'm Older](https://open.spotify.com/track/1siqwUNydX8aQjUIVvJ6Pz) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:40 | 2021-07-16 | 2022-10-14 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess \(Acoustic\)](https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn) | 2:33 | 2021-07-16 |  |
 | [If I Can't Have You](https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [If I Can't Have You](https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB) | 4:02 | 2021-07-16 |  |
+| [If It Goes](https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U) | 3:44 | 2023-06-09 |  |
 | [If It Goes](https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c) | 3:44 | 2021-07-16 | 2024-01-06 |
 | [In the Air Tonight](https://open.spotify.com/track/4nixlf5mp4AuWZ5yDOHAsY) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [In the Air Tonight](https://open.spotify.com/album/0wTG8yKMH91knOCvxfCRrl) | 4:20 | 2021-07-16 | 2022-07-29 |
 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 | 2021-07-16 |  |

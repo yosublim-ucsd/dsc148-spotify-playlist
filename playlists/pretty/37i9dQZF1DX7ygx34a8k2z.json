@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin w/ tour mates <a href=\"https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74?si=c1be7e2940d844f0\">Liz Phair</a> and <a href=\"https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij?si=YxaujGp8SUiTnZgRi5epLw\">Blondshell</a>, who highlight some of their favorites.",
-  "num_followers": 199346,
+  "num_followers": 199465,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWE1MTJmNDMzNjRiNDFkMTU4NWVmYTAxOWU3NmNhNzg0NTk0MTU4",
+  "snapshot_id": "MCw2Mzk3YmU1YmUxN2U5NWIxNDY5ZmZmN2E3YTAwYWI5NWJlMmVlYjA2",
   "tracks": [
     {
       "added_at": "2023-11-27 17:30:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 220467,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Keep It like a Secret",
-        "url": "https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA"
-      },
-      "artists": [
-        {
-          "name": "Built To Spill",
-          "url": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "Carry the Zero",
-      "url": "https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 257519,
       "name": "Only Shallow",
       "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
+        "name": "Keep It like a Secret",
+        "url": "https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA"
+      },
+      "artists": [
+        {
+          "name": "Built To Spill",
+          "url": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Carry the Zero",
+      "url": "https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Girl from Mars",
-      "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
         "name": "American Thighs",
         "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 196573,
       "name": "Seether",
       "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Girl from Mars",
+      "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
+        "name": "Under the Western Freeway",
+        "url": "https://open.spotify.com/album/4h99OhINkm39y6qs7dYOwM"
+      },
+      "artists": [
+        {
+          "name": "Grandaddy",
+          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "A.M. 180",
+      "url": "https://open.spotify.com/track/5qaRaOepyRo8PYVwMFH5yT"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
         "name": "Mic City Sons",
         "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 199466,
       "name": "Strange",
       "url": "https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
-        "name": "Under the Western Freeway",
-        "url": "https://open.spotify.com/album/4h99OhINkm39y6qs7dYOwM"
-      },
-      "artists": [
-        {
-          "name": "Grandaddy",
-          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "A.M. 180",
-      "url": "https://open.spotify.com/track/5qaRaOepyRo8PYVwMFH5yT"
     },
     {
       "added_at": "2023-11-27 17:30:04",

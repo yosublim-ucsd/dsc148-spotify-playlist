@@ -1,7 +1,7 @@
 {
-  "2024-01-11": 27846,
+  "2024-01-12": 27859,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: HUND, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Jenobi, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -79,6 +79,24 @@
       "duration_ms": 221704,
       "name": "25",
       "url": "https://open.spotify.com/track/6I5HZSpS2n8mf0zVJ2jc2w"
+    },
+    {
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4xm9Cf5A0HpWkvTnTnagnu"
+      },
+      "artists": [
+        {
+          "name": "Badison",
+          "url": "https://open.spotify.com/artist/6dTLqVZrMHevfHToMqCQ6R"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235448,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3zsac2gT25dvmXC8ugzsod"
     },
     {
       "album": {
@@ -1388,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "Baddest Me",
+        "url": "https://open.spotify.com/album/1A8cdgR0tplJFJlGV1yfCu"
+      },
+      "artists": [
+        {
+          "name": "Nnella",
+          "url": "https://open.spotify.com/artist/1BxL57Hm6Vuo7tmkEfAvQi"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171286,
+      "name": "Baddest Me",
+      "url": "https://open.spotify.com/track/6nS8pvguEjOZAa0cqcPrHc"
+    },
+    {
+      "album": {
         "name": "Badehose",
         "url": "https://open.spotify.com/album/1I6FWMxvp5JvxxI375PRmp"
       },
@@ -2529,7 +2565,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 181276,
       "name": "Build a home",
       "url": "https://open.spotify.com/track/2HQXMaMUL5dTVwQmLClzE2"
@@ -3533,6 +3569,24 @@
       "duration_ms": 194090,
       "name": "Dance or Die",
       "url": "https://open.spotify.com/track/6pwR4nmKiyLUMsIEe0637M"
+    },
+    {
+      "album": {
+        "name": "Dance With Blue",
+        "url": "https://open.spotify.com/album/5uF4SaGNz5Jlz8gyN3uTSY"
+      },
+      "artists": [
+        {
+          "name": "Mayuko",
+          "url": "https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255132,
+      "name": "Dance With Blue",
+      "url": "https://open.spotify.com/track/7xLhOAcN47yN9aomDPkf5j"
     },
     {
       "album": {
@@ -9416,6 +9470,24 @@
     },
     {
       "album": {
+        "name": "licht",
+        "url": "https://open.spotify.com/album/7mzWQN73dSSnMYSRX5lMfU"
+      },
+      "artists": [
+        {
+          "name": "treibgut",
+          "url": "https://open.spotify.com/artist/0sFB68FFJqkhEZfsuWSqvU"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "licht",
+      "url": "https://open.spotify.com/track/6XHmH7CawKV2O2fXUaD6bz"
+    },
+    {
+      "album": {
         "name": "Lie To You",
         "url": "https://open.spotify.com/album/0S6edkCoX4LNC9wm01AmG9"
       },
@@ -10375,7 +10447,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 190118,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5DIqK65zlDkuDcw8RJC1tO"
@@ -10831,7 +10903,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 197597,
       "name": "Nah sein",
       "url": "https://open.spotify.com/track/4p0H3f2K0izoJ7jJe7YbMB"
@@ -14812,6 +14884,24 @@
     },
     {
       "album": {
+        "name": "Still Waiting For My Name In The Credits",
+        "url": "https://open.spotify.com/album/70CLDBQb0Z4DnNePn9VQHM"
+      },
+      "artists": [
+        {
+          "name": "Jenobi",
+          "url": "https://open.spotify.com/artist/0UC1sYxlc37tOJ8pKo9P4i"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194535,
+      "name": "Still Waiting For My Name In The Credits",
+      "url": "https://open.spotify.com/track/4NZb3JixjqNx1dg2JqioMO"
+    },
+    {
+      "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY"
       },
@@ -15801,7 +15891,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 221245,
       "name": "Tidal Waves",
       "url": "https://open.spotify.com/track/1muhuIPxC7BwJwDmTkRxFE"
@@ -17325,7 +17415,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 205902,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/7C8VN4OpII4ZnnaoxkgzBc"

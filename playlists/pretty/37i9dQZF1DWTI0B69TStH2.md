@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0o67bNa457im54EQIpinH2">Julia Mreńca</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,350 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,570 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 74 | [NIE MA NIC ZA DARMO / MIEJSKI SYF](https://open.spotify.com/track/1gSyLEmBaTPUaIzrALt4Hr) | [$andro](https://open.spotify.com/artist/3qgIvOMz1aQ5LoWDTKxfbA), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [EFEKT MOTYLA](https://open.spotify.com/album/5nrsuDRFwagMoMTMyQc4Ip) | 3:37 |
 | 75 | [Stroboskopy \- Bootleg](https://open.spotify.com/track/20uKUjFaTHDRyjLjzfwRqB) | [Laudi](https://open.spotify.com/artist/3OYKPuAilTxyA2tsmnlTdQ) | [DDA](https://open.spotify.com/album/1XaVY88al8QdQLrWS45ld1) | 2:57 |
 
-Snapshot ID: `MCwzYTVhYjU4OTIxNTAyYTI3NGQxYTAwMmJhOGZkMDk1MjA2N2Y4Mzdh`
+Snapshot ID: `MCwyMTkxZWMzMWE0M2IyYWRlZjFjOGI0MGZjYTU2NTQ5ZWYyYmM0MjUw`

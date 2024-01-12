@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Eden Muños, Mau y Ricky
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,725 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,036 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Tres Vueltas](https://open.spotify.com/track/4onMxW09MJ3RZl7TEyMG7w) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG), [Escolta De Rancho](https://open.spotify.com/artist/4sVnHTEKDTqgT4EGDDvAgG) | [Tres Vueltas](https://open.spotify.com/album/5dgUjbChT1d4EPH3g4aWt8) | 2:34 |
 | 50 | [Escolta Personal \- En Vivo](https://open.spotify.com/track/5fVoYliFnvTx9KsB9oYOeP) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [ConBebio Culto \(En Vivo\)](https://open.spotify.com/album/674TPmkSQt1a1ZfbsmJv8d) | 3:07 |
 
-Snapshot ID: `MCxhM2I1ZTY1M2RhNzc1OGI2YTM0MDJkNzZlZTUzMWYxMWQyMTM4YzQ5`
+Snapshot ID: `MCw2N2YxOTI4NDdjMGJlM2VjMGE0MTRkNjBlZWM4N2U2Yjc2M2Y3NWNj`

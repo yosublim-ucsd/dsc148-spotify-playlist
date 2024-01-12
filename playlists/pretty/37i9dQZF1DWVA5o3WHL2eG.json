@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32879,
+  "num_followers": 32973,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
+  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "God Invented The Radio",
+        "url": "https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 137827,
+      "name": "God Invented The Radio",
+      "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "Planeten",
         "url": "https://open.spotify.com/album/7HXTvxsWlV3wARDKknHhM4"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "God Invented The Radio",
-        "url": "https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 137827,
-      "name": "God Invented The Radio",
-      "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "BLa*_*",
         "url": "https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 147692,
       "name": "BLa*_*",
       "url": "https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -291,22 +307,6 @@
       "duration_ms": 122034,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/203dC8cfQJfxcfqzKBppZZ"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 145057,
-      "name": "Angst",
-      "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Nina Hagen sings Larry Norman",
-        "url": "https://open.spotify.com/album/685AcFqtZ1ubHhdeoKQYf0"
-      },
-      "artists": [
-        {
-          "name": "Nina Hagen",
-          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
-        }
-      ],
-      "duration_ms": 177402,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/078TILT7Zgz4S0KMr03VLf"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "K\u00f6nigin Panik",
         "url": "https://open.spotify.com/album/0FhzRdQuWHDtftlHaaUeJe"
       },
@@ -515,38 +499,6 @@
       "duration_ms": 152682,
       "name": "K\u00f6nigin Panik",
       "url": "https://open.spotify.com/track/4kf6a1WQNY9d0F9GSn2QqX"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Rave the Planet: Supporter Series, Vol. 018",
-        "url": "https://open.spotify.com/album/6aPrAqD2WDtO24SwxTZ0Lx"
-      },
-      "artists": [
-        {
-          "name": "Sylvie Miles",
-          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
-        }
-      ],
-      "duration_ms": 353379,
-      "name": "I Love Berlin",
-      "url": "https://open.spotify.com/track/3MnNmJzqJoBPzlQna4lv9q"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "WASTE MY TIME",
-        "url": "https://open.spotify.com/album/1Nh0JWLhkFPCTlc5X1AKkp"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 312441,
-      "name": "WASTE MY TIME",
-      "url": "https://open.spotify.com/track/2kSWxkLgpYF6ewwhMzJ6fh"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -567,18 +519,34 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Just Us Going",
-        "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
+        "name": "Rave the Planet: Supporter Series, Vol. 018",
+        "url": "https://open.spotify.com/album/6aPrAqD2WDtO24SwxTZ0Lx"
       },
       "artists": [
         {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+          "name": "Sylvie Miles",
+          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Just Us Going",
-      "url": "https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym"
+      "duration_ms": 353379,
+      "name": "I Love Berlin",
+      "url": "https://open.spotify.com/track/3MnNmJzqJoBPzlQna4lv9q"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Nina Hagen sings Larry Norman",
+        "url": "https://open.spotify.com/album/685AcFqtZ1ubHhdeoKQYf0"
+      },
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
+        }
+      ],
+      "duration_ms": 177402,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/078TILT7Zgz4S0KMr03VLf"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -595,6 +563,38 @@
       "duration_ms": 162750,
       "name": "Bleiherz",
       "url": "https://open.spotify.com/track/7oz4i3wwMofltIsy1D8rc8"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "WASTE MY TIME",
+        "url": "https://open.spotify.com/album/1Nh0JWLhkFPCTlc5X1AKkp"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 312441,
+      "name": "WASTE MY TIME",
+      "url": "https://open.spotify.com/track/2kSWxkLgpYF6ewwhMzJ6fh"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Just Us Going",
+        "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Just Us Going",
+      "url": "https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "On My Radar",
-        "url": "https://open.spotify.com/album/62VvAr1P2Lsa97PHLjqmpZ"
-      },
-      "artists": [
-        {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
-        }
-      ],
-      "duration_ms": 365641,
-      "name": "On My Radar",
-      "url": "https://open.spotify.com/track/55gslzMpup4kGDVCpTGzaT"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Tattoos",
         "url": "https://open.spotify.com/album/2oXFCU5JqvO9cRZz5eyVhG"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 123866,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/6Ug1T5SL6Eou3nD5Iuzbaj"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "On My Radar",
+        "url": "https://open.spotify.com/album/62VvAr1P2Lsa97PHLjqmpZ"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "duration_ms": 365641,
+      "name": "On My Radar",
+      "url": "https://open.spotify.com/track/55gslzMpup4kGDVCpTGzaT"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/512flr0suH3At9PKk2ztGN"
+      },
+      "artists": [
+        {
+          "name": "NNOA",
+          "url": "https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft"
+        }
+      ],
+      "duration_ms": 159378,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4ABQB35Gb0lI21hjOLTD8f"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "Wie New York",
         "url": "https://open.spotify.com/album/52Nau5AyIfvUzSjgGEj97p"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 186636,
       "name": "Wie New York",
       "url": "https://open.spotify.com/track/7vP14AWYzBgM13lKtNsh50"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Phoenix Rising",
-        "url": "https://open.spotify.com/album/1p69I6bs1jTJ2m1CywyES0"
-      },
-      "artists": [
-        {
-          "name": "MARIA Die RUHE",
-          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
-        }
-      ],
-      "duration_ms": 257318,
-      "name": "Phoenix Rising",
-      "url": "https://open.spotify.com/track/2C27VRUbiIxPTuHsYpb6Dp"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -759,18 +759,34 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/512flr0suH3At9PKk2ztGN"
+        "name": "Phoenix Rising",
+        "url": "https://open.spotify.com/album/1p69I6bs1jTJ2m1CywyES0"
       },
       "artists": [
         {
-          "name": "NNOA",
-          "url": "https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft"
+          "name": "MARIA Die RUHE",
+          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
         }
       ],
-      "duration_ms": 159378,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4ABQB35Gb0lI21hjOLTD8f"
+      "duration_ms": 257318,
+      "name": "Phoenix Rising",
+      "url": "https://open.spotify.com/track/2C27VRUbiIxPTuHsYpb6Dp"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Look At How Much You've Grown",
+        "url": "https://open.spotify.com/album/5ukrYhdikrnAgz61SPjBD9"
+      },
+      "artists": [
+        {
+          "name": "ANOTHER NGUYEN",
+          "url": "https://open.spotify.com/artist/38bL6RPFPY14qTcIGIYyPM"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/3ZhTmiSBBK0TKjszVVYVOH"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -791,18 +807,18 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Look At How Much You've Grown",
-        "url": "https://open.spotify.com/album/5ukrYhdikrnAgz61SPjBD9"
+        "name": "Paralysed",
+        "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
       },
       "artists": [
         {
-          "name": "ANOTHER NGUYEN",
-          "url": "https://open.spotify.com/artist/38bL6RPFPY14qTcIGIYyPM"
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
         }
       ],
-      "duration_ms": 182000,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/3ZhTmiSBBK0TKjszVVYVOH"
+      "duration_ms": 161954,
+      "name": "Paralysed",
+      "url": "https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1"
     }
   ],
   "unique_name": "EQUAL GSA",

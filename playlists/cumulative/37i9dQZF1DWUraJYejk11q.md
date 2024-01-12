@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-249 songs - 19 hr 41 min
+250 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 | 2023-07-24 | 2023-10-28 |
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-09-21 | 2023-02-02 |
 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2022-09-21 |  |
-| [Calico](https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [kanashī](https://open.spotify.com/album/3y6f7n2bRBCXJLCrg3D4jp) | 4:51 | 2023-08-17 |  |
+| [Calico](https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [kanashī](https://open.spotify.com/album/3y6f7n2bRBCXJLCrg3D4jp) | 4:51 | 2023-08-17 | 2024-01-12 |
 | [Canone Infinito](https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito](https://open.spotify.com/album/6tbfwIkDEdGOURCQ2vMvYC) | 4:59 | 2021-10-15 | 2022-02-10 |
 | [Central Airport](https://open.spotify.com/track/2Lpy9IYrfMlWjWkugU2gdJ) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [BLESS Vol\. 2](https://open.spotify.com/album/0rXue3LLSLUXoMatPLmxuU) | 3:38 | 2021-10-15 | 2022-01-20 |
 | [Chaos Energy](https://open.spotify.com/track/1ADoaoyKY78CnBvsq6DqFG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Chaos Energy](https://open.spotify.com/album/2uEgm3sxH1gHPPHGcjvJXc) | 5:13 | 2022-06-08 | 2022-07-16 |
@@ -140,6 +140,7 @@
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-06-08 | 2022-08-12 |
 | [Los](https://open.spotify.com/track/4KjlO4yts8Oe8slM4aeCBe) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Los](https://open.spotify.com/album/2I8rQGhMfiaghzGshYvL2w) | 4:50 | 2021-10-15 | 2022-02-17 |
 | [Lost In Cyberspace](https://open.spotify.com/track/4jlg3sAomqzv3h0ccndkfa) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Lost In Cyberspace](https://open.spotify.com/album/60czEHzF6zWI3DA5vW1IPX) | 1:09 | 2022-01-11 | 2022-03-12 |
+| [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-11 |  |
 | [Magic Pony Ride \(Pt.1\)](https://open.spotify.com/track/2np71UUbhAVIJ61jkQDRDe) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/0bzc0YF4nKy4ZuJPO847uN) | 3:50 | 2022-06-20 | 2022-07-16 |
 | [Makeshift Tourniquet](https://open.spotify.com/track/4YrUH3TZazK6DC2w5qXryI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Makeshift Tourniquet](https://open.spotify.com/album/73T8ZTaxv3LBS4wQo9NW3n) | 5:17 | 2023-10-10 |  |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-11 | 2022-09-16 |

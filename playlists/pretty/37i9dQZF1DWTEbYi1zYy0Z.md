@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,394 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,439 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 76 | [All Love](https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [All Love](https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8) | 3:12 |
 | 77 | [Hello Beautiful \- radio single](https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Hello Beautiful](https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM) | 4:28 |
 | 78 | [H.A.D\. \(featuring Chieli Minucci\)](https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [H.A.D.](https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ) | 4:13 |
-| 79 | [Breakthrough \- Radio Version](https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Breakthrough \(Radio Version\)](https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt) | 4:12 |
+| 79 | [Breakthrough](https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Breakthrough](https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt) | 4:12 |
 | 80 | [Dirty Martini](https://open.spotify.com/track/5SM7Y1qawtGkIVqjqHNZrM) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds) | [Dirty Martini](https://open.spotify.com/album/5D69NbhIWwxFa3bHYMkS6K) | 3:35 |
 | 81 | [III](https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz) | [Marco Giubileo](https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ), [Kim Stone](https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3), [Roberto Soggetti](https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r), [Simone Boffa](https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR) | [III](https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU) | 3:51 |
 | 82 | [Del Mar](https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Del Mar](https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCw2ZDIyMTk2Nzg5ODQ2Nzg3OTc2MTVlZTExOTg1YzM5YjFkOGNkYWVi`
+Snapshot ID: `MCxiZTBhNTgwNTRhZTk1ZTJiMzM5NGU5YTkxOTZjZDE4OWM2NDkxOTAw`

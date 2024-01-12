@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Camilla Magli
 
-863 songs - 1 day 19 hr 19 min
+864 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Adèle](https://open.spotify.com/track/4Nb6iSfJYbk9HXNy4rkV32) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Adèle](https://open.spotify.com/album/6n5Dq23SoTNsXipIyPbp7v) | 3:22 | 2022-03-07 | 2022-05-04 |
 | [Allodole](https://open.spotify.com/track/3IlxlplFDSMwC3V1CBBLRy) | [Marta Tenaglia](https://open.spotify.com/artist/0WqwCCw0Rn6Egu9rFFPQNi) | [Allodole](https://open.spotify.com/album/0AJdi1MJLdIdkvDujgs9R7) | 2:30 | 2023-11-07 | 2024-01-10 |
 | [Almeno Stasera](https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [AŠ](https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE) | 2:18 | 2022-05-03 | 2022-06-03 |
+| [Alta Tensione](https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Alta Tensione](https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw) | 2:33 | 2024-01-11 |  |
 | [ALTALENE](https://open.spotify.com/track/67DW6e0ebgsIPpNdFlSd6j) | [FLAMINIA](https://open.spotify.com/artist/5SHeDn87rQaynVVBCZrMG5) | [XYZ](https://open.spotify.com/album/332JrH4mQUJoQwUfOXFOAR) | 2:46 | 2023-08-01 | 2023-09-07 |
 | [Altalene](https://open.spotify.com/track/4YkPqYmsEwKoLGmEtxE5cR) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Altalene](https://open.spotify.com/album/35hPuOluggIkzML91CWZwv) | 2:51 | 2023-02-09 | 2023-04-05 |
 | [AM](https://open.spotify.com/track/5PyORqpxrfSB7iMbitTBHF) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [nou](https://open.spotify.com/album/06jwpQC21cgnHAOeQ5EJ2k) | 3:08 | 2023-06-07 | 2023-07-06 |
@@ -225,7 +226,7 @@
 | [Cuddle \- Edit](https://open.spotify.com/track/11qteqHtkROcyTe9MbNqr5) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Cuddle \(Edit\)](https://open.spotify.com/album/3i4unTugJPI0gIv5gFBj61) | 3:15 | 2023-11-07 | 2023-11-30 |
 | [Cult](https://open.spotify.com/track/0LJI0x54X29TStopw2PzFG) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [Cult](https://open.spotify.com/album/2E7kATBLAHZJFnmOWZhjH8) | 2:45 | 2022-01-04 | 2022-02-03 |
 | [Cuore di scorta](https://open.spotify.com/track/2uU24j8AM2aY7LlbiEkLQZ) | [Johana](https://open.spotify.com/artist/2dco5qMuxiVnHMK2ROrD91) | [Cuore di scorta](https://open.spotify.com/album/1zBOs7rc3ryVdJB3Wf1uN5) | 2:34 | 2023-08-01 | 2023-09-07 |
-| [Cuore in Gola](https://open.spotify.com/track/6t4dhFqiP2W05yqPX4ebI4) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Cuore in Gola](https://open.spotify.com/album/6YOAAMsWhRujHGP7rPdG4G) | 3:02 | 2023-11-07 |  |
+| [Cuore in Gola](https://open.spotify.com/track/6t4dhFqiP2W05yqPX4ebI4) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Cuore in Gola](https://open.spotify.com/album/6YOAAMsWhRujHGP7rPdG4G) | 3:02 | 2023-11-07 | 2024-01-12 |
 | [Cuore sporco](https://open.spotify.com/track/1wI92huW17RYbTePnBVwV5) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Cuore sporco](https://open.spotify.com/album/4bwmxgnWdU2vUt6KtPGE0d) | 2:48 | 2022-08-02 | 2022-11-02 |
 | [Cura Di Me](https://open.spotify.com/track/12Gayc39zYtD4gqUbG9IGv) | [Nibirv](https://open.spotify.com/artist/6pG1ZVFN8KaauXU1ECwmC6) | [Cura Di Me](https://open.spotify.com/album/38dcAryFiy9oNIwCeFFnHS) | 3:29 | 2022-10-06 | 2022-12-01 |
 | [CuraMi](https://open.spotify.com/track/0nREprhuyJLfKN70qkj4M9) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [CuraMi](https://open.spotify.com/album/6hAQFMzyok7QGYRyBS9Z3H) | 2:24 | 2023-04-04 | 2023-05-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > ⭐⭐⭐ARTISTS TO WATCH 2024 EDITION⭐⭐⭐ Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,439 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,415 likes - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 89 | [Sparks](https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Sparks](https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG) | 3:38 |
 | 90 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 |
 
-Snapshot ID: `MCwxMjdjMWM1OGIyYzExYTkxOGMxYzRiZjkyZDg2MTFmYjI1OGZhMmQx`
+Snapshot ID: `MCwxYjRhMWM4YTNlODk2OTk4MzI3NTgyOGM2MjEyNjRiYWIxNWI2ZTU4`

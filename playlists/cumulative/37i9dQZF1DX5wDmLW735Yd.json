@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: goddard., Cat Burns\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Ella Henderson, Rudimental\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -288,6 +288,28 @@
       "duration_ms": 264827,
       "name": "Airplane (Culture Shock Remix)",
       "url": "https://open.spotify.com/track/65HLjHSipFfvIU3082WFmS"
+    },
+    {
+      "album": {
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
       "album": {
@@ -1926,7 +1948,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 147514,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6jJNiNyWspgKLVwe9vhHsc"
@@ -2871,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "Done With You (feat. Mila Falls)",
+        "url": "https://open.spotify.com/album/75XO9NnxwyhtacWrsBBBqC"
+      },
+      "artists": [
+        {
+          "name": "Waypoint",
+          "url": "https://open.spotify.com/artist/2cYKwh8BgTHvonjchKOIqn"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142068,
+      "name": "Done With You (feat. Mila Falls)",
+      "url": "https://open.spotify.com/track/4RcdOaS9En9fVFkeTBhXZm"
+    },
+    {
+      "album": {
         "name": "Double Rum",
         "url": "https://open.spotify.com/album/3Yj8cWXW4Bxu2AoAPJqrtu"
       },
@@ -3010,6 +3054,24 @@
       "duration_ms": 413320,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0qPV86ESeKaXVV8kPvHs1N"
+    },
+    {
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/1s18YEqZLke7AR9pZRjL6p"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/7cSIPXSNgMTZ8XKD1YHd7c"
     },
     {
       "album": {
@@ -5292,7 +5354,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 213793,
       "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
       "url": "https://open.spotify.com/track/0CkmD2L3xMeZTXOwlOCsVm"
@@ -6795,6 +6857,28 @@
     },
     {
       "album": {
+        "name": "Miss A Moment",
+        "url": "https://open.spotify.com/album/7GgilcQdvDY08B11ZPLkoO"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Miss A Moment",
+      "url": "https://open.spotify.com/track/7p2oHNSy9qMmxlB2vftYYG"
+    },
+    {
+      "album": {
         "name": "Troublesome Bubblers EP",
         "url": "https://open.spotify.com/album/264E73xcKhFFObUadgix4f"
       },
@@ -7074,6 +7158,28 @@
       "duration_ms": 148674,
       "name": "My Way",
       "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
+    },
+    {
+      "album": {
+        "name": "Nan Slapper",
+        "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263314,
+      "name": "Nan Slapper",
+      "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
     },
     {
       "album": {
@@ -7514,7 +7620,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 160116,
       "name": "Oh My (feat. Moby)",
       "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
@@ -10280,7 +10386,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 215327,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
@@ -11894,7 +12000,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 204137,
       "name": "Where Do We Go (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"

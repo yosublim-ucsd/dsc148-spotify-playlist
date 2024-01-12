@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Nonpalidece.
 
-231 songs - 15 hr 20 min
+232 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ama La Vida](https://open.spotify.com/track/0VOtT83hCUJ451SYlx88Xr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Nestor Ramljak](https://open.spotify.com/artist/5iYywbynu7nXtFE5A0OJHt) | [Un Mundo Mejor](https://open.spotify.com/album/3jGMw1w5diSypEeFNYcVoo) | 4:40 | 2022-05-06 | 2022-07-16 |
 | [Amares](https://open.spotify.com/track/0hM3wjGKeVuc8p20YNyNWv) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Amares](https://open.spotify.com/album/6q5zjSBR2FNNJpD78AFMjJ) | 3:31 | 2023-10-05 | 2023-12-30 |
 | [Amiga](https://open.spotify.com/track/2GbORltBraRqviBdSVzEYt) | [Vibracion Reggae](https://open.spotify.com/artist/49YZQ7AsgHVMEPQ3qJcexs) | [Hay Más para Escuchar](https://open.spotify.com/album/4nWBfcJch4Pd5P5nd1WPUd) | 4:18 | 2022-05-06 | 2022-07-16 |
+| [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 | 2024-01-11 |  |
 | [Aquí](https://open.spotify.com/track/19WsNAJsc47WcvNjgs8oux) | [Camaleonpaex](https://open.spotify.com/artist/2zZv6zsJTSl6flkBJFZCh5), [TBF](https://open.spotify.com/artist/0f6VqvmVA0kA7UtGehkNoX) | [Aquí](https://open.spotify.com/album/5o7nLsK9eATubVEy1NCdfv) | 3:35 | 2022-05-06 | 2022-06-23 |
 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 | 2022-05-06 |  |
 | [Ayer Verás Sentimientos](https://open.spotify.com/track/4bvplJJUj6JWYg7piTKUds) | [La Tony Montana](https://open.spotify.com/artist/08ZddYmzOfbK0TXexR8HZK) | [Ayer Verás Sentimientos](https://open.spotify.com/album/6k8ibSaUiuw01WVecgX8mF) | 3:30 | 2022-05-06 | 2022-06-21 |
@@ -87,7 +88,7 @@
 | [Feliz](https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:43 | 2022-05-06 | 2023-01-27 |
 | [Feliz \- Remaster 2023](https://open.spotify.com/track/4GHEj2oYCgQYqdQJSwLG70) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [SIG RAGGA \(Remaster 2023\)](https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy) | 5:44 | 2023-06-09 |  |
 | [Flaca huella](https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:07 | 2022-05-06 | 2022-07-29 |
-| [Flores y Burbujas](https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Flores y Burbujas](https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j) | 5:04 | 2022-05-06 |  |
+| [Flores y Burbujas](https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Flores y Burbujas](https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j) | 5:04 | 2022-05-06 | 2024-01-12 |
 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 | 2022-05-06 |  |
 | [Groove Me](https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groove Me](https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw) | 3:04 | 2022-05-06 | 2023-10-05 |
 | [Groovy Situation](https://open.spotify.com/track/7zM2gNp7NvfPjOhk4GnP02) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groovy Situation](https://open.spotify.com/album/4c5m1OxbeVq69jcWAAsBX1) | 3:45 | 2022-05-06 | 2022-07-06 |

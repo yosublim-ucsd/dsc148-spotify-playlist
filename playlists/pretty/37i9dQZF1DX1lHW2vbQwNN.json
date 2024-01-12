@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Soulja Boy",
-  "num_followers": 159753,
+  "num_followers": 160277,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2ViMzUxOTZjYmM5Yjc1OTc1NjEzNmJkYWU0N2E5MTcxOGJlNzE2",
+  "snapshot_id": "MCxjZjZjYjczZjkxMjYxODA2ZGRiMDdhNDlmYjgxMDA1YTRkNTg3N2Vi",
   "tracks": [
     {
       "added_at": "2023-12-01 19:18:59",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-12-01 19:18:59",
       "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 338853,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "added_at": "2023-12-01 19:18:59",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2023-12-01 19:18:59",
-      "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 338853,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
     },
     {
       "added_at": "2023-12-01 19:18:59",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-12-01 19:18:59",
       "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
+    },
+    {
+      "added_at": "2023-12-01 19:18:59",
+      "album": {
         "name": "It Ain't Safe No More. . .",
         "url": "https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 324306,
       "name": "I Know What You Want (feat. Flipmode Squad)",
       "url": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY"
-    },
-    {
-      "added_at": "2023-12-01 19:18:59",
-      "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Whatever You Like",
-      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
     },
     {
       "added_at": "2023-12-01 19:18:59",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-12-01 19:18:59",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Break Ya Neck",
-      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
-    },
-    {
-      "added_at": "2023-12-01 19:18:59",
-      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 298306,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
+    },
+    {
+      "added_at": "2023-12-01 19:18:59",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
     },
     {
       "added_at": "2023-12-01 19:18:59",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-12-01 19:18:59",
       "album": {
+        "name": "Blow The Whistle",
+        "url": "https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Blow the Whistle",
+      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
+    },
+    {
+      "added_at": "2023-12-01 19:18:59",
+      "album": {
         "name": "Rule 3:36",
         "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 262826,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
-    },
-    {
-      "added_at": "2023-12-01 19:18:59",
-      "album": {
-        "name": "Blow The Whistle",
-        "url": "https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Blow the Whistle",
-      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
     },
     {
       "added_at": "2023-12-01 19:18:59",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-12-01 19:18:59",
       "album": {
-        "name": "Thug Misses (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
-      },
-      "artists": [
-        {
-          "name": "Khia",
-          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "My Neck, My Back (Lick It)",
-      "url": "https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6"
-    },
-    {
-      "added_at": "2023-12-01 19:18:59",
-      "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 257133,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13"
+    },
+    {
+      "added_at": "2023-12-01 19:18:59",
+      "album": {
+        "name": "Thug Misses (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
+      },
+      "artists": [
+        {
+          "name": "Khia",
+          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "My Neck, My Back (Lick It)",
+      "url": "https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6"
     },
     {
       "added_at": "2023-12-01 19:18:59",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-12-01 19:18:59",
       "album": {
-        "name": "Blood In My Eye",
-        "url": "https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "Clap Back",
-      "url": "https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp"
-    },
-    {
-      "added_at": "2023-12-01 19:18:59",
-      "album": {
         "name": "The Dynasty: Roc La Familia",
         "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 227866,
       "name": "I Just Wanna Love U (Give It 2 Me)",
       "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
+    },
+    {
+      "added_at": "2023-12-01 19:18:59",
+      "album": {
+        "name": "Blood In My Eye",
+        "url": "https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "Clap Back",
+      "url": "https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp"
     },
     {
       "added_at": "2023-12-01 19:18:59",

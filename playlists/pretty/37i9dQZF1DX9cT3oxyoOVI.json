@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 125634,
+  "num_followers": 125593,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDc3NjZmY2ZjMmYzOGUwZmE1MTk1Yjc4ZmQ1NWZlNDE1NjFmMmFm",
+  "snapshot_id": "MCxlYmViZWYwODA5ODNmZTY1NGU1YTc2YzBhMDQ5MGUwYTRlYmEyZTM2",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 143181,
       "name": "friends",
       "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
     },
     {
       "added_at": "2023-01-30 15:22:38",

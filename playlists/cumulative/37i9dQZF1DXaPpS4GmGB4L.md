@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-190 songs - 11 hr 0 min
+192 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Hungry and Ready \(feat\. Melvin Taylor\)](https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Melvin Taylor](https://open.spotify.com/artist/2JBKZGnF8j5nadn67i5B10) | [The Sun is Shining Down](https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt) | 5:00 | 2022-02-04 |  |
 | [I Ain't Drunk](https://open.spotify.com/track/0NkbSdUKVUTouk8JLh9TjG) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/18XbxRCuvLeKk9zbmhyARH) | 4:07 | 2021-12-20 | 2022-07-29 |
 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 | 2022-07-08 |  |
-| [I Can't Wait](https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0) | [Diunna Greenleaf](https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb) | [Trying to Hold On](https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s) | 3:45 | 2023-09-15 |  |
+| [I Can't Wait](https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0) | [Diunna Greenleaf](https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb) | [Trying to Hold On](https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s) | 3:45 | 2023-09-15 | 2024-01-12 |
 | [I Cry For You \- Live](https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [I Cry For You \(Live\)](https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA) | 2:12 | 2023-01-27 |  |
 | [I Got Some, Pt\. 1](https://open.spotify.com/track/1voI9W1aIo4AgAhzdYMfI6) | [Billy Garner](https://open.spotify.com/artist/78ahOK93ZY5b6CjFHOwDu4) | [Brand New Girl / I Got Some, Pt\. 1](https://open.spotify.com/album/02lUPEvrMZtgN60vb4TawW) | 2:53 | 2023-08-18 |  |
 | [I Got the Walkin' Blues](https://open.spotify.com/track/4r57hl0xZ4re7wldHUBvOq) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 2:21 | 2023-08-18 |  |
@@ -136,6 +136,7 @@
 | [Pride and Joy](https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 3:39 | 2021-12-20 |  |
 | [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH) | [L.A\. Big Daddy's](https://open.spotify.com/artist/52F4si8QmpdcHrwAIOU5qE) | [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/album/7h1acEI8URAH1RNchZ8CNK) | 3:27 | 2022-07-08 | 2024-01-10 |
 | [Put It](https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Put It](https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5) | 3:30 | 2023-08-18 | 2024-01-05 |
+| [Put It](https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Upstate](https://open.spotify.com/album/6nySaFGbYGGVcR2CKGs64l) | 3:30 | 2023-11-24 |  |
 | [RED DRESS](https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb) | [Ethan Wilson](https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP) | [RED DRESS](https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA) | 3:16 | 2023-08-18 |  |
 | [Red Hot](https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Red Hot / No Greater Love](https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV) | 2:27 | 2023-08-18 |  |
 | [Reverse Engineer](https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 4:10 | 2022-11-17 |  |
@@ -152,6 +153,7 @@
 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 | 2022-08-18 |  |
 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 | 2022-05-27 |  |
 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 | 2023-08-18 |  |
+| [She's a Twister](https://open.spotify.com/track/3KQHzgBg8a5B5uVKnghe1K) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 3:16 | 2023-11-24 |  |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-03-03 |  |
 | [Short Dressed Woman](https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:30 | 2023-08-18 | 2024-01-03 |
 | [Shufflin' the Blues](https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:21 | 2021-12-20 |  |
@@ -174,7 +176,7 @@
 | [That's What You Do](https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:23 | 2022-05-27 |  |
 | [The Bait In The Snare](https://open.spotify.com/track/2jk8ZBsS18w67UjQO8u3qK) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [The Bait In The Snare](https://open.spotify.com/album/5JV5PJBe0MqEdiwLDbxN4H) | 3:00 | 2023-11-24 |  |
 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 | 2021-12-20 |  |
-| [The Boss](https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Deluxe Edition](https://open.spotify.com/album/396pJAs7awQ2WPVDHZLPRh) | 4:26 | 2021-12-20 |  |
+| [The Boss](https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Deluxe Edition](https://open.spotify.com/album/396pJAs7awQ2WPVDHZLPRh) | 4:26 | 2021-12-20 | 2024-01-12 |
 | [The Wrong Number](https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 2:50 | 2021-12-20 |  |
 | [They Call Me Mud](https://open.spotify.com/track/4RA6mNzd1GmecXAlQaZ6GK) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [They Call Me Mud](https://open.spotify.com/album/3BAjDAf2GWUYnpIebugxyP) | 4:00 | 2023-08-18 |  |
 | [Time to Get Movin'](https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Somebody Save Me](https://open.spotify.com/album/6is4NsogY9tsZX0vcQWCv2) | 3:37 | 2022-11-17 |  |

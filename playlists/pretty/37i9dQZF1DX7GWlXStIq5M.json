@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla",
-  "num_followers": 367423,
+  "num_followers": 367158,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTljMGRkOTc5YmZmMGM4MDc3YTY5MjNmN2NkNGU5YWExNTFmNWY5",
+  "snapshot_id": "MCwzNzljM2U4MzJhODk2OWFlYzYzMTYzMWQzNWZhODg5N2Q0OTNiOTc2",
   "tracks": [
     {
       "added_at": "2024-01-05 14:33:30",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
-        "name": "Falta De Aten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4Tk9B83h1srd2bSbQnE4lM"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 150142,
-      "name": "Falta De Aten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
         "name": "QUER DAN\u00c7AR",
         "url": "https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 130729,
       "name": "QUER DAN\u00c7AR",
       "url": "https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
+        "name": "Falta De Aten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4Tk9B83h1srd2bSbQnE4lM"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 150142,
+      "name": "Falta De Aten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -587,22 +587,22 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
-        "name": "Quase N\u00e3o Namoro",
-        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
       "artists": [
         {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         },
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 135456,
-      "name": "Quase N\u00e3o Namoro",
-      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -627,22 +627,22 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+        "name": "Quase N\u00e3o Namoro",
+        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
         },
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+      "duration_ms": 135456,
+      "name": "Quase N\u00e3o Namoro",
+      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        }
+      ],
+      "duration_ms": 251611,
+      "name": "31",
+      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
         "name": "LADY LESTE (AO VIVO)",
         "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 142765,
       "name": "ne-yo",
       "url": "https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
-        "name": "31",
-        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        }
-      ],
-      "duration_ms": 251611,
-      "name": "31",
-      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
-        "name": "Bomba",
-        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 136806,
-      "name": "Bomba",
-      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
         "name": "Tapa",
         "url": "https://open.spotify.com/album/2Jw3IHfgSzvibRiBW8zkJy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 109446,
       "name": "Tapa",
       "url": "https://open.spotify.com/track/0W2uU7LtdvoLCT6VpzYfSE"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
+        "name": "Bomba",
+        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 136806,
+      "name": "Bomba",
+      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -1379,30 +1379,6 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
-        "name": "Brigas Demais - Live",
-        "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 257216,
-      "name": "Brigas Demais - Live",
-      "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
         "name": "Sonhei com voc\u00ea / Me Amarro Nela",
         "url": "https://open.spotify.com/album/5jtqUMEDYPccKAPINHCm2o"
       },
@@ -1427,22 +1403,26 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
-        "name": "eu vivo negando o amor",
-        "url": "https://open.spotify.com/album/7tDyxAsTnW6ng3Ndh4ldGn"
+        "name": "Brigas Demais - Live",
+        "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
       },
       "artists": [
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 172308,
-      "name": "eu vivo negando o amor",
-      "url": "https://open.spotify.com/track/3dUjqZzAvcy7RQGJSDj1fi"
+      "duration_ms": 257216,
+      "name": "Brigas Demais - Live",
+      "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -1459,6 +1439,26 @@
       "duration_ms": 166315,
       "name": "ESTRANHO",
       "url": "https://open.spotify.com/track/35bXQjFxZwp40I1pwb7Jke"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
+        "name": "eu vivo negando o amor",
+        "url": "https://open.spotify.com/album/7tDyxAsTnW6ng3Ndh4ldGn"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 172308,
+      "name": "eu vivo negando o amor",
+      "url": "https://open.spotify.com/track/3dUjqZzAvcy7RQGJSDj1fi"
     },
     {
       "added_at": "2024-01-05 14:33:30",

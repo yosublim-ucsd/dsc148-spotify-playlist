@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Emanuele Aloia",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Sarah Toscano",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Baby Don't Cry",
+        "url": "https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Baby Don't Cry",
+      "url": "https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei"
+    },
+    {
+      "album": {
         "name": "Balla (come la domenica)",
         "url": "https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 146831,
       "name": "Buchi ai lobi",
       "url": "https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP"
@@ -1287,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Come il Reggaeton",
+        "url": "https://open.spotify.com/album/1UQQ6MUWMLQI4Sn78ERbMd"
+      },
+      "artists": [
+        {
+          "name": "G.bit",
+          "url": "https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137969,
+      "name": "Come il Reggaeton",
+      "url": "https://open.spotify.com/track/4QG9fmxzpSDeJdXoT4KZ72"
+    },
+    {
+      "album": {
         "name": "Come Marilyn",
         "url": "https://open.spotify.com/album/6lqeWrraxv3mCVWytlzBT0"
       },
@@ -1576,6 +1612,24 @@
       "duration_ms": 176190,
       "name": "Del + e del -",
       "url": "https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO"
+    },
+    {
+      "album": {
+        "name": "DIAMANTI",
+        "url": "https://open.spotify.com/album/21ZS1meqFOHjtm9uL85pK9"
+      },
+      "artists": [
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156171,
+      "name": "DIAMANTI",
+      "url": "https://open.spotify.com/track/4L55Pn45FpcUCrBH7EN24p"
     },
     {
       "album": {
@@ -2211,6 +2265,32 @@
     },
     {
       "album": {
+        "name": "GENNAIO 24",
+        "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130039,
+      "name": "GENNAIO 24",
+      "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
+    },
+    {
+      "album": {
         "name": "Giocattolo",
         "url": "https://open.spotify.com/album/1IGfJgpVrcUgQZa1zaC7HC"
       },
@@ -2696,7 +2776,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 178991,
       "name": "La mia canzone per te",
       "url": "https://open.spotify.com/track/5UeIcE8opHwuFFk6em1U0l"
@@ -3558,6 +3638,24 @@
       "duration_ms": 154642,
       "name": "Non Andare",
       "url": "https://open.spotify.com/track/73E25dgSkFaePbLHzJHrXF"
+    },
+    {
+      "album": {
+        "name": "Non dimenticare",
+        "url": "https://open.spotify.com/album/3vTRhTcI2ieRik3jcxw4er"
+      },
+      "artists": [
+        {
+          "name": "Aka 7even",
+          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Non dimenticare",
+      "url": "https://open.spotify.com/track/1cxwdeMHwOJx1L6U9UVEwx"
     },
     {
       "album": {
@@ -4476,7 +4574,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 146875,
       "name": "Promesse (from the original Netflix series \"DI4RI\")",
       "url": "https://open.spotify.com/track/1cSRzvNN1xMHpkgCBFAqIE"
@@ -5332,7 +5430,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 153658,
       "name": "TANANAI",
       "url": "https://open.spotify.com/track/0IFp7DNMUrHroGDK7GASC7"
@@ -5918,7 +6016,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 168095,
       "name": "VENERE",
       "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"

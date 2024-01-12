@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-472 songs - 20 hr 14 min
+473 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [And I Always Will](https://open.spotify.com/track/2ELwSFL1CGiJIlpHP3XFbZ) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [And I Always Will](https://open.spotify.com/album/6IMQgMaokDB7ZS5QkOJuoK) | 1:59 | 2021-12-07 | 2022-09-21 |
 | [And There You Were](https://open.spotify.com/track/0UqT57lsbRzjUt5lau8oLh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Until The Blissful Dawn](https://open.spotify.com/album/45UjPgFGq62QWAbmKiNxOM) | 2:24 | 2023-10-23 | 2023-11-08 |
 | [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 | 2023-09-11 | 2023-10-04 |
+| [And There You Were](https://open.spotify.com/track/20PEqypL4QvFNf8vZrEujy) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Close Your Eyes](https://open.spotify.com/album/5uIyKPIeVpqZFAdQPgKSa3) | 2:24 | 2024-01-05 |  |
 | [And There You Were](https://open.spotify.com/track/2B1QXUUeEdMoZ92ggrA1Rh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And We Eternal](https://open.spotify.com/album/7LNpuu6rkVrWpQ4zZJ8ST5) | 2:24 | 2023-11-07 | 2023-11-29 |
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-21 | 2023-08-30 |
 | [And There You Were](https://open.spotify.com/track/4pe4ikorUF17h8dplM2JKv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Where Love Is Endless](https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH) | 2:24 | 2023-11-07 | 2023-11-17 |
@@ -45,7 +46,7 @@
 | [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-26 | 2023-10-25 |
 | [And There You Were](https://open.spotify.com/track/6M7XzlMsertPBhysePSjhL) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Safe In Her Arms](https://open.spotify.com/album/2v0XpYcW0Rj9PyakkzeKUn) | 2:24 | 2023-12-19 | 2024-01-05 |
 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-07-25 | 2023-08-23 |
-| [And There You Were](https://open.spotify.com/track/6lOa2U2zqcE8fwLtFnVgkz) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Waltzing You To Sleep](https://open.spotify.com/album/1iq88GDKb5tTXkxQBOqdLD) | 2:24 | 2024-01-05 |  |
+| [And There You Were](https://open.spotify.com/track/6lOa2U2zqcE8fwLtFnVgkz) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Waltzing You To Sleep](https://open.spotify.com/album/1iq88GDKb5tTXkxQBOqdLD) | 2:24 | 2024-01-05 | 2024-01-12 |
 | [And There You Were](https://open.spotify.com/track/7bSLnYwRRxstyvCoqorAPU) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Of Great Expectations](https://open.spotify.com/album/3E1aUqQYMvCaOexhgq8V1Q) | 2:24 | 2023-08-21 | 2023-09-05 |
 | [And There You Were](https://open.spotify.com/track/7drtx97JQqC1zmb8AsrBuN) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [The Coldest Night](https://open.spotify.com/album/4F6VptSeANB6VQidKICIYn) | 2:24 | 2023-10-23 | 2023-11-06 |
 | [And There You Were](https://open.spotify.com/track/7gDVmrb3tdtCRWSkPyg4yP) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Theme For Nils](https://open.spotify.com/album/4yMPsNxmYZMLj9xmaFr59w) | 2:24 | 2023-11-20 | 2023-12-07 |

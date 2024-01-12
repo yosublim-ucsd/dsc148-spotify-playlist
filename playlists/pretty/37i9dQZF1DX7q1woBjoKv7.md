@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:47TMF0JlFsz01KilGzc5Ly">Kalan.FrFr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,653 likes - 56 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,674 likes - 56 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 55 | [Warmer with You](https://open.spotify.com/track/3FIU12rRLkfrHdA0vBIsHN) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Warmer with You](https://open.spotify.com/album/5SwM2wVqEX9FmRHgTOfuL5) | 2:17 |
 | 56 | [Amnesia](https://open.spotify.com/track/5epc7WKFAgcqJkfwBidCOM) | [Griff Tyler](https://open.spotify.com/artist/6haDJLArD4GA9AF3YM2EVS) | [When Summer's Over](https://open.spotify.com/album/6r3PvzOCS8xQUfBSmrBd2e) | 3:26 |
 
-Snapshot ID: `MCwyNjZlOWJiYjhiOThhMDY3NzBjODZjMDhmNzE3MmYxM2ExOWQ1ZmVi`
+Snapshot ID: `MCxiOWUxMzZhNmE0NjlhNjcxZGI1MGMzZmEzOTUwYjI1NzU0NGE0Yzc3`

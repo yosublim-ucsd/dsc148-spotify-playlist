@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 202367,
+  "2024-01-12": 202509,
   "date_first_scraped": "2023-11-11",
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
   "name": "This Is La Santa Grifa",
@@ -109,6 +109,24 @@
       "duration_ms": 227160,
       "name": "As\u00ed la Vivo Yo",
       "url": "https://open.spotify.com/track/4SYaEOPOUyeNkU7OQm97TQ"
+    },
+    {
+      "album": {
+        "name": "Aun Te Pienso",
+        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Aun Te Pienso",
+      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
     },
     {
       "album": {
@@ -369,7 +387,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 167000,
       "name": "La Cara de Loco",
       "url": "https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ"

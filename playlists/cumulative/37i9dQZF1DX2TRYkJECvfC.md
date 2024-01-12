@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-461 songs - 1 day 15 hr 51 min
+462 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 | 2021-12-08 |  |
 | [indulge](https://open.spotify.com/track/1xtAsTz9HdPJX20KUlQ3sB) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [indulge](https://open.spotify.com/album/1yOTjWiA4wQXKdZHiD07GA) | 4:27 | 2021-12-08 | 2023-08-05 |
 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 | 2023-04-04 |  |
-| [Inner Circle](https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Inner Circle](https://open.spotify.com/album/2M1BIG6uhYyndZdG7tEsNz) | 3:57 | 2023-02-03 |  |
+| [Inner Circle](https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Inner Circle](https://open.spotify.com/album/2M1BIG6uhYyndZdG7tEsNz) | 3:57 | 2023-02-03 | 2024-01-12 |
 | [Inspired](https://open.spotify.com/track/1Bii3LSvFNeRTrW4s0Kj4m) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS) | [Inspire](https://open.spotify.com/album/4fBLyRZWGvgptQHuFp3Q17) | 6:13 | 2021-12-08 | 2022-07-28 |
 | [Interlaced](https://open.spotify.com/track/4xwUt1Ukkfc0b3DwsB3f2b) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Interlaced](https://open.spotify.com/album/1LKwsKTXI8hvBmccPCXsec) | 5:04 | 2021-12-08 |  |
 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 | 2023-08-04 |  |
@@ -339,6 +339,7 @@
 | [Safe Place \- Mixed](https://open.spotify.com/track/4UVw2XBBjIZGErQUOAjAXS) | [Delano Smith](https://open.spotify.com/artist/2HadNlQJIJDPNJMtMQNQU4) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/3G96swfKatQvIVo4Fn6BcE) | 6:00 | 2022-01-14 | 2022-07-21 |
 | [Saltillo \- The Frenchies & Numa Lesage Remix Edit](https://open.spotify.com/track/3DQ3Bm7w1UagzKybe9X2PP) | [Scotty Boy](https://open.spotify.com/artist/4aRZU0BT7ZbfYPMG4DVT8s), [The Frenchies](https://open.spotify.com/artist/2dhfhqZkoKPdrIiGIaho5O), [Numa Lesage](https://open.spotify.com/artist/50JFlHcimGHy40JzLYVkQe) | [Saltillo](https://open.spotify.com/album/3OxUqrfuxobBYzWS8dlz3A) | 3:07 | 2022-05-03 | 2023-07-01 |
 | [Satellite Girl](https://open.spotify.com/track/3VedZEruDuibIF8oQONu5k) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Leee EP](https://open.spotify.com/album/14uk4vsUkGzG8rXM49jw1u) | 8:16 | 2021-12-08 | 2023-11-05 |
+| [Satellite Girl](https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Leee EP](https://open.spotify.com/album/1tRR9qjec2ibFz88OyTbjs) | 8:16 | 2023-12-15 |  |
 | [Saturday Morning](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Saturday Morning](https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu) | 2:40 | 2023-08-11 |  |
 | [Save Me](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Save Me](https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt) | 3:36 | 2023-11-24 |  |
 | [Savoy](https://open.spotify.com/track/715rpC66hIERTuMWlcBmBl) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Savoy](https://open.spotify.com/album/1R1viXeoCT5YC5py2e3OKb) | 5:23 | 2021-12-08 | 2023-04-28 |

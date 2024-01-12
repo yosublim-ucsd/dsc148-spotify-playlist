@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Houseium&\#x27;s BANGIN HOUSE is a playlist full of high energy house music! 📲 TikTok &amp; IG: @houseium
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,089 likes - 54 songs - 2 hr 51 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,085 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 296000,
       "name": "a beautiful day",
       "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
@@ -3898,7 +3898,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 266733,
       "name": "last night",
       "url": "https://open.spotify.com/track/4cP2zI7vcZgYnTJqeV7Bm9"
@@ -6997,6 +6997,24 @@
     },
     {
       "album": {
+        "name": "Story of Your Life",
+        "url": "https://open.spotify.com/album/0lzWuGfDwRhsNuQIChTO4S"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "Story of Your Life",
+      "url": "https://open.spotify.com/track/4euKZ2girgz0uU2yZjSgTl"
+    },
+    {
+      "album": {
         "name": "Horizon, Volume 1",
         "url": "https://open.spotify.com/album/0Tvs4LpQSHSH1gcfVdF3WV"
       },
@@ -8206,7 +8224,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 224298,
       "name": "vi (almost equal to) ix",
       "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
@@ -8394,7 +8412,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 193973,
       "name": "Weeping Willow / \u679d\u5782\u67f3",
       "url": "https://open.spotify.com/track/3jzFhXdkG5EPbF0TkbWDlj"
@@ -8672,7 +8690,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 306700,
       "name": "\u30b6\u30fb\u30df\u30e9\u30fc\u30b8\u30e5",
       "url": "https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ"

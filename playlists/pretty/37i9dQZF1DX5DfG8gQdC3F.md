@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tiësto & FAST BOY, Shubh, Jhené Aiko, Zeina and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,635 likes - 74 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,541 likes - 74 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 20 | [Greatest](https://open.spotify.com/track/2ZDDMKwqNWvcKm1psF82v6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Greatest](https://open.spotify.com/album/4gj2alDJCtP0ZeefbmbAD2) | 2:23 |
 | 21 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
 | 22 | [Feel The Vibe](https://open.spotify.com/track/2iaVTieMIIck9PjuQCZm1k) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Feel The Vibe](https://open.spotify.com/album/7cP4EVH1E2pYg4pB48MW37) | 3:06 |
-| 23 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [B HAM](https://open.spotify.com/artist/0pfOqJLCEaTlaiAZ7P4p5A), [Corey Cooper](https://open.spotify.com/artist/5JAROdWMgMH5zJjtE4AojW) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
+| 23 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 | 24 | [Hotta](https://open.spotify.com/track/5nRbUg6RP7LjGx9gDAxPOO) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Dancehall Riddim: Rush](https://open.spotify.com/album/0fLKkhsA6XpMtCoW5QZyOA) | 3:25 |
 | 25 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 |
 | 26 | [Skims](https://open.spotify.com/track/31yg6sxD3CKn5KfJxw9SUW) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Skims](https://open.spotify.com/album/7cbLBr6UAXKQ6QQmOQ4wVm) | 3:02 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 73 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 |
 | 74 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 
-Snapshot ID: `MCw4Y2Q2OTczYTZhYzk5ZGRjMzZkMTg1OTNlNGQzNGRkODY4ODgxY2Q2`
+Snapshot ID: `MCw2MGE5ZjU4NmY1Mjk5MDY3ZGIxMjIwMjI5MzUyODIyNWEyNGE5OGM0`

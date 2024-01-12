@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,430 songs - 3 day 2 hr 30 min
+1,431 songs - 3 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1045,7 +1045,7 @@
 | [PRIMADONNA](https://open.spotify.com/track/47aGU91Mqqjt1ZJ9NgQXqY) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [PRIMADONNA](https://open.spotify.com/album/7iZHtwqroxPl38CB1LRxpv) | 2:16 | 2022-09-24 | 2023-01-13 |
 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 | 2022-11-05 | 2022-11-07 |
 | [promise,](https://open.spotify.com/track/31Tauz6YbzCwWUyGJQWxdm) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [promise,](https://open.spotify.com/album/57Wk5bDtMhDhMwId6VCrF5) | 3:10 | 2021-12-25 | 2021-12-27 |
-| [Proud](https://open.spotify.com/track/43hgaexgdv1COrIJi5DlbN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Proud](https://open.spotify.com/album/3HEfD8zUlWj3BQtArGnx7Y) | 3:05 | 2024-01-06 |  |
+| [Proud](https://open.spotify.com/track/43hgaexgdv1COrIJi5DlbN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Proud](https://open.spotify.com/album/3HEfD8zUlWj3BQtArGnx7Y) | 3:05 | 2024-01-06 | 2024-01-12 |
 | [Psycho](https://open.spotify.com/track/2dc4WAziek7KxUufKrYh9Y) | [Myra](https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Psycho](https://open.spotify.com/album/5XOaMlJFS2WuNOoglgjocm) | 2:39 | 2022-01-03 | 2022-01-08 |
 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/73cnVqsbZygieKi8xF10sO) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:21 | 2022-04-09 | 2022-04-16 |
 | [Puppastemning](https://open.spotify.com/track/0u49ctvusRpTB7Zr0q3igQ) | [Spårtsklubben](https://open.spotify.com/artist/0WSZVhdjqDhQ9IrLn5yBNJ) | [Puppastemning](https://open.spotify.com/album/7f34WWUikPUau1E591ta3b) | 2:06 | 2021-09-10 | 2021-10-28 |
@@ -1350,6 +1350,7 @@
 | [Unnskyld, förlåt](https://open.spotify.com/track/6ebiZ791hh3KPSw8TcCPK7) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unnskyld, förlåt](https://open.spotify.com/album/4apzOYKZx2D4jnusHPf4C0) | 2:47 | 2024-01-06 | 2024-01-08 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-03-27\* | 2021-03-27 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-03 | 2023-03-12 |
+| [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-11 |  |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-02 | 2022-04-04 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-26 | 2023-09-17 |
 | [Used to love you](https://open.spotify.com/track/5lGIHa6sNRjFSoNuFqzHlC) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6OkMAm6ViqFfmRFo0clNHi) | 2:57 | 2023-06-25 | 2023-07-02 |

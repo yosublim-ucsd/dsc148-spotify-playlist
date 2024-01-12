@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGRkNThhOTY3MDQwYzljYzIzNjhhZjEyYjM4NzI2NTRiNzJmZWJh",
+  "snapshot_id": "MCxjODk1MDFhNGQ3MDhmZWYwMWY0MzIzODdlNTUxZDdhYTZjMTY4MDI1",
   "tracks": [
     {
       "added_at": "2023-08-08 08:47:20",
@@ -291,8 +291,8 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Demain",
-        "url": "https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn"
+        "name": "On a perdu la boussole",
+        "url": "https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh"
       },
       "artists": [
         {
@@ -300,25 +300,9 @@
           "url": "https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo"
         }
       ],
-      "duration_ms": 210152,
-      "name": "Toujours l\u00e0 pour toi",
-      "url": "https://open.spotify.com/track/0gJ1YOvvD5OIF8uG5G3Q7M"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "M\u00eame pas !",
-        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9li M\u00f4mes",
-          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
-        }
-      ],
-      "duration_ms": 181097,
-      "name": "Les ca\u0302lins",
-      "url": "https://open.spotify.com/track/6GpSt8mjG25ldFMKrGut6m"
+      "duration_ms": 180401,
+      "name": "Dans notre dictionnaire imaginaire",
+      "url": "https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -335,6 +319,22 @@
       "duration_ms": 85597,
       "name": "La journ\u00e9e des bisous",
       "url": "https://open.spotify.com/track/2jdi2xNuC8lSFQ7CM89ROa"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
+        "name": "M\u00eame pas !",
+        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9li M\u00f4mes",
+          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
+        }
+      ],
+      "duration_ms": 181097,
+      "name": "Les ca\u0302lins",
+      "url": "https://open.spotify.com/track/6GpSt8mjG25ldFMKrGut6m"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -387,8 +387,8 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "On a perdu la boussole",
-        "url": "https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh"
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo"
         }
       ],
-      "duration_ms": 180401,
-      "name": "Dans notre dictionnaire imaginaire",
-      "url": "https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98"
+      "duration_ms": 210152,
+      "name": "Toujours l\u00e0 pour toi",
+      "url": "https://open.spotify.com/track/0gJ1YOvvD5OIF8uG5G3Q7M"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Les comptines de Kikobert, vol. 1",
-        "url": "https://open.spotify.com/album/3WB5YjKoohtEqv62CfE2jr"
+        "name": "Au bonheur des m\u00f4mes",
+        "url": "https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS"
       },
       "artists": [
         {
-          "name": "Nicolas Berton",
-          "url": "https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr"
+          "name": "BAB et les chats",
+          "url": "https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG"
         }
       ],
-      "duration_ms": 95401,
-      "name": "A quoi r\u00eave t'il ?",
-      "url": "https://open.spotify.com/track/5R9PGIMpm2ZsLDY7Z5FfLV"
+      "duration_ms": 157560,
+      "name": "Diff\u00e9rents",
+      "url": "https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Les comptines de Kikobert, vol. 1",
+        "url": "https://open.spotify.com/album/3WB5YjKoohtEqv62CfE2jr"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Berton",
+          "url": "https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr"
+        }
+      ],
+      "duration_ms": 95401,
+      "name": "A quoi r\u00eave t'il ?",
+      "url": "https://open.spotify.com/track/5R9PGIMpm2ZsLDY7Z5FfLV"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Le patamodd",
         "url": "https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Au bonheur des m\u00f4mes",
-        "url": "https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS"
+        "name": "M\u00eame pas !",
+        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
       },
       "artists": [
         {
-          "name": "BAB et les chats",
-          "url": "https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG"
+          "name": "M\u00e9li M\u00f4mes",
+          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
         }
       ],
-      "duration_ms": 157560,
-      "name": "Diff\u00e9rents",
-      "url": "https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T"
+      "duration_ms": 225874,
+      "name": "Emoi et moi",
+      "url": "https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -507,22 +523,6 @@
       "duration_ms": 206280,
       "name": "Une colombe",
       "url": "https://open.spotify.com/track/5vVAWiCQWmdwMBpO3nkOCQ"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "M\u00eame pas !",
-        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9li M\u00f4mes",
-          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
-        }
-      ],
-      "duration_ms": 225874,
-      "name": "Emoi et moi",
-      "url": "https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -595,18 +595,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "M\u00eame pas !",
-        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
+        "name": "Super ego",
+        "url": "https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2"
       },
       "artists": [
         {
-          "name": "M\u00e9li M\u00f4mes",
-          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
+          "name": "Ego le cachalot",
+          "url": "https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX"
+        },
+        {
+          "name": "David Delabrosse",
+          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
         }
       ],
-      "duration_ms": 200740,
-      "name": "M\u00eame pas mal",
-      "url": "https://open.spotify.com/track/3eQ7o1gJqfTkd6GgrlX0Kw"
+      "duration_ms": 258933,
+      "name": "Super ego",
+      "url": "https://open.spotify.com/track/0CGmBHnvgvuUmadxtfyAPL"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -631,22 +635,18 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Super ego",
-        "url": "https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2"
+        "name": "M\u00eame pas !",
+        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
       },
       "artists": [
         {
-          "name": "Ego le cachalot",
-          "url": "https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX"
-        },
-        {
-          "name": "David Delabrosse",
-          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
+          "name": "M\u00e9li M\u00f4mes",
+          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Super ego",
-      "url": "https://open.spotify.com/track/0CGmBHnvgvuUmadxtfyAPL"
+      "duration_ms": 200740,
+      "name": "M\u00eame pas mal",
+      "url": "https://open.spotify.com/track/3eQ7o1gJqfTkd6GgrlX0Kw"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Super ego",
+        "url": "https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2"
+      },
+      "artists": [
+        {
+          "name": "Ego le cachalot",
+          "url": "https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX"
+        },
+        {
+          "name": "David Delabrosse",
+          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
+        }
+      ],
+      "duration_ms": 207173,
+      "name": "C'est qui qui ?",
+      "url": "https://open.spotify.com/track/17KU29ddpFt7Pz9ptp9KAD"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Au fil des \u00e9motions",
         "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
       },
@@ -711,38 +731,6 @@
       "duration_ms": 145453,
       "name": "Bienvenue \u00e0 toi",
       "url": "https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "M\u00eame pas !",
-        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9li M\u00f4mes",
-          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
-        }
-      ],
-      "duration_ms": 237351,
-      "name": "M\u00eame pas vrai",
-      "url": "https://open.spotify.com/track/7ELaCrdSeZaFeGTTKAoFCT"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "Les fulgurantes chansons de l'inqui\u00e9tant petit adorable fant\u00f4me !",
-        "url": "https://open.spotify.com/album/3Qx2WR8n0z1xSAqfLFEwf2"
-      },
-      "artists": [
-        {
-          "name": "Animau",
-          "url": "https://open.spotify.com/artist/0e31LJBC9curXXYmvF7xeV"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "La visite",
-      "url": "https://open.spotify.com/track/1VNVanWsdzlB4p6mZk9iGt"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -767,6 +755,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Les fulgurantes chansons de l'inqui\u00e9tant petit adorable fant\u00f4me !",
+        "url": "https://open.spotify.com/album/3Qx2WR8n0z1xSAqfLFEwf2"
+      },
+      "artists": [
+        {
+          "name": "Animau",
+          "url": "https://open.spotify.com/artist/0e31LJBC9curXXYmvF7xeV"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "La visite",
+      "url": "https://open.spotify.com/track/1VNVanWsdzlB4p6mZk9iGt"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Quand le chat n'est pas l\u00e0... \u00e7a part en live !",
         "url": "https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3"
       },
@@ -787,22 +791,18 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Super ego",
-        "url": "https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2"
+        "name": "M\u00eame pas !",
+        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
       },
       "artists": [
         {
-          "name": "Ego le cachalot",
-          "url": "https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX"
-        },
-        {
-          "name": "David Delabrosse",
-          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
+          "name": "M\u00e9li M\u00f4mes",
+          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
         }
       ],
-      "duration_ms": 207173,
-      "name": "C'est qui qui ?",
-      "url": "https://open.spotify.com/track/17KU29ddpFt7Pz9ptp9KAD"
+      "duration_ms": 237351,
+      "name": "M\u00eame pas vrai",
+      "url": "https://open.spotify.com/track/7ELaCrdSeZaFeGTTKAoFCT"
     },
     {
       "added_at": "2023-08-08 08:47:20",

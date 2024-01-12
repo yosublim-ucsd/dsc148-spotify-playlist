@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "six",
+        "url": "https://open.spotify.com/album/3WqiEqUvFbN7J9jG5y5N7I"
+      },
+      "artists": [
+        {
+          "name": "Credit Electric",
+          "url": "https://open.spotify.com/artist/5POatvLAZTsSIV7QYLMDXU"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189149,
+      "name": "$@Lt",
+      "url": "https://open.spotify.com/track/5hYRXOqi6jsxzlVUT76uYy"
+    },
+    {
+      "album": {
         "name": "The Dock of the Bay",
         "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
       },
@@ -13480,6 +13498,24 @@
       "duration_ms": 271888,
       "name": "Dream Song",
       "url": "https://open.spotify.com/track/7J6bBnnykhiGvw6zjBP423"
+    },
+    {
+      "album": {
+        "name": "Fire of Love",
+        "url": "https://open.spotify.com/album/0aMEDEKyABJnk6igBA7hZs"
+      },
+      "artists": [
+        {
+          "name": "Jen Rose",
+          "url": "https://open.spotify.com/artist/2uRNEKJ4eTL8K1GLnZrUTB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2RLgEm6CC7TJW4i0aiFRxA"
     },
     {
       "album": {
@@ -27862,7 +27898,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 343381,
       "name": "LIVING FOR THE LOVE",
       "url": "https://open.spotify.com/track/57ZfxwA7OVKLe8V3dr08VR"
@@ -33872,6 +33908,24 @@
       "duration_ms": 197419,
       "name": "Not Friends",
       "url": "https://open.spotify.com/track/4UblUBXSKAdFF64fKE39ll"
+    },
+    {
+      "album": {
+        "name": "Not Good For Me",
+        "url": "https://open.spotify.com/album/6qOl1bMpB3IbAZSPeDfi7D"
+      },
+      "artists": [
+        {
+          "name": "One Flew Over",
+          "url": "https://open.spotify.com/artist/1tq4sjvHnky5y5gzpYZayU"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234845,
+      "name": "Not Good For Me",
+      "url": "https://open.spotify.com/track/5vPV70YyCAjArhk4RWWz8P"
     },
     {
       "album": {
@@ -41408,7 +41462,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 243500,
       "name": "Show Yourself",
       "url": "https://open.spotify.com/track/18yoLoaIOeR2k7SFAhd5Pk"
@@ -48643,6 +48697,24 @@
     },
     {
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/4vTr5ugFmfIT4i2KaIAp4q"
+      },
+      "artists": [
+        {
+          "name": "Gio Mar",
+          "url": "https://open.spotify.com/artist/0RQ9DyaJZWWRzJYoG5YE5v"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156263,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/6k5k5MRp48mOPimCRCpfGk"
+    },
+    {
+      "album": {
         "name": "TRUTH",
         "url": "https://open.spotify.com/album/6T8OkIuEEOLr1v78XM5E66"
       },
@@ -49816,7 +49888,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 120000,
       "name": "Uup 870",
       "url": "https://open.spotify.com/track/5zQnfHKlnFok9MvDFb9VT3"

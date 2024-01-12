@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 330266,
+  "num_followers": 330293,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzNhYzkxYTZiZTAyYzE0YmYwMGIxZTIxMmM0Mjk3M2JhYzhjNDFl",
+  "snapshot_id": "MCwxNmM4NjkxNzljN2Q4OGQ4ZWY1ZDE1Y2E0MWZmOGNmMDU0NmM5YjBm",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -561,6 +561,30 @@
       "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
+      "added_at": "2024-01-11 03:28:19",
+      "album": {
+        "name": "Goodbye, Hotel Arkada",
+        "url": "https://open.spotify.com/album/26k4Yg7IX877sxz5mnoQBK"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        },
+        {
+          "name": "Rachel Goswell",
+          "url": "https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se"
+        },
+        {
+          "name": "Samara Lubelski",
+          "url": "https://open.spotify.com/artist/7m0vo8YcqFNXFOoKycpOES"
+        }
+      ],
+      "duration_ms": 538875,
+      "name": "Yesterday's Parties",
+      "url": "https://open.spotify.com/track/1QbsFvXo5XJXTbjvjvLU45"
+    },
+    {
       "added_at": "2022-03-11 05:43:48",
       "album": {
         "name": "Resonant Bodies",
@@ -827,22 +851,6 @@
       "duration_ms": 348131,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Life Of",
-        "url": "https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC"
-      },
-      "artists": [
-        {
-          "name": "Steve Tibbetts",
-          "url": "https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y"
-        }
-      ],
-      "duration_ms": 99400,
-      "name": "Bloodwork",
-      "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
     }
   ],
   "unique_name": "Deep Listening",

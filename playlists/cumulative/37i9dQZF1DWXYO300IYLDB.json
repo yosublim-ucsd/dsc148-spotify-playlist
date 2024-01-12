@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+    },
+    {
+      "album": {
         "name": "Aikotoba - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/4zdbvvWNE8I2iF7wUGDNrB"
       },
@@ -670,7 +688,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 185675,
       "name": "Boat",
       "url": "https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr"
@@ -2433,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "I Hold Something In My Hand",
+        "url": "https://open.spotify.com/album/5kqUxXj0Zwf0V5XIpUEtf6"
+      },
+      "artists": [
+        {
+          "name": "Bill Ryder-Jones",
+          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "I Hold Something In My Hand",
+      "url": "https://open.spotify.com/track/2BUu1OUVCYGDXyDEF0dQhF"
+    },
+    {
+      "album": {
         "name": "I like me better",
         "url": "https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz"
       },
@@ -3382,7 +3418,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 170853,
       "name": "Lucky (Jason's First Draft)",
       "url": "https://open.spotify.com/track/2zhuP2JZpqyTEwzTERNdHc"
@@ -4105,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Photographs",
+        "url": "https://open.spotify.com/album/6rs2QN468iECIWJ7tTJ6Ka"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "Photographs",
+      "url": "https://open.spotify.com/track/7KgqQSXtlh5WIAx1I1ojYG"
+    },
+    {
+      "album": {
         "name": "a girl a bottle a boat",
         "url": "https://open.spotify.com/album/26OJfCFh7u9WmHd3Y3q8IS"
       },
@@ -4228,7 +4282,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 189247,
       "name": "reckless driving",
       "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"

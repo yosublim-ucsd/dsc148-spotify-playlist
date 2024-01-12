@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,794 songs - 3 day 8 hr 20 min
+1,795 songs - 3 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,7 +882,7 @@
 | [Lilting Fields](https://open.spotify.com/track/6QayqmOU37gap6xzt1geL8) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:55 | 2021-03-07 | 2022-04-18 |
 | [Lily's Cradle](https://open.spotify.com/track/4UlarjdicLUPbdssOxWbYX) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Lily's Cradle](https://open.spotify.com/album/13dJnhdlZ7i32fxPeKvuKm) | 2:41 | 2021-04-26 | 2022-04-20 |
 | [Limerence](https://open.spotify.com/track/08Zvea0AtpczEW8MOC0i5g) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Limerence](https://open.spotify.com/album/4v9IiVyBUTq72QCXrvSkhN) | 1:51 | 2021-03-19 | 2022-04-04 |
-| [Liminal ride](https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Liminal ride](https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY) | 2:36 | 2022-12-22 |  |
+| [Liminal ride](https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Liminal ride](https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY) | 2:36 | 2022-12-22 | 2024-01-12 |
 | [Linger](https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL) | [Alexander Molina](https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW) | [Linger](https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI) | 2:43 | 2021-05-21 | 2022-04-18 |
 | [Linger On](https://open.spotify.com/track/0Uhd2WC2q53YCbZ5NVNYoB) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:41 | 2021-03-14 | 2022-06-29 |
 | [Lisa's waltz](https://open.spotify.com/track/7l2CT1m2Fr9p5aQEYV6TEj) | [Lisa Chong](https://open.spotify.com/artist/3CL1UCbfZQ39hc8pURmj38) | [Lisa's waltz](https://open.spotify.com/album/5fhdSt9Zu6tiFr1ZShXn2J) | 2:09 | 2021-04-22 | 2022-04-09 |
@@ -1679,6 +1679,7 @@
 | [Vals De Rodrigues](https://open.spotify.com/track/3I3WY0C7AQMe6Z6hMUQqd5) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Vals De Rodrigues](https://open.spotify.com/album/3q10Tg3kwZZmQYCLaCZos7) | 2:41 | 2021-04-13 | 2021-12-18 |
 | [Valse](https://open.spotify.com/track/0HUbTiZUqqQWmA4GKwJWOv) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Valse](https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK) | 2:11 | 2022-12-22 | 2023-02-27 |
 | [Valse Glacée](https://open.spotify.com/track/6nFq454HmDgKLSit00vniw) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Valse Glacée](https://open.spotify.com/album/6efs2LoTvfJFf3nMTM3l9W) | 3:00 | 2021-03-10 | 2022-04-19 |
+| [Valse lente](https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tailleferre: Valse lente](https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ) | 2:46 | 2024-01-11 |  |
 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 | 2021-05-19 | 2022-04-15 |
 | [Valse Mistral](https://open.spotify.com/track/6fnYjOnJIiCctDggEhTMti) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Valse Mistral](https://open.spotify.com/album/1Uq5YepxqDsJck7PQDbZid) | 2:52 | 2022-04-14 | 2022-04-20 |
 | [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 | 2023-05-30 |  |

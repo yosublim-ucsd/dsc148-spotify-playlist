@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-202 songs - 14 hr 15 min
+203 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [la fine](https://open.spotify.com/track/2tCmfrW1hVoD9MWndcuXif) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [non è la fine](https://open.spotify.com/album/1McKSuePf6bCk42GhMWHOR) | 3:11 | 2023-05-12 |  |
 | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/track/4fwX1pSp1mq9mRara9AekL) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/album/6dEL75aWdP45F8QR5COxHc) | 2:34 | 2023-05-12 |  |
 | [Le Musicien](https://open.spotify.com/track/0p7eGj7iQWV2471jXeMyit) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/0xTXEf18BW9CQ5VxZjVj6e) | 3:31 | 2022-01-28 | 2022-10-14 |
-| [Le Musicien](https://open.spotify.com/track/1SzTivReEYHIkPfBxnP5u6) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/6OAl3vN0bIULFGDvv22V4V) | 3:31 | 2022-09-30 |  |
+| [Le Musicien](https://open.spotify.com/track/1SzTivReEYHIkPfBxnP5u6) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/6OAl3vN0bIULFGDvv22V4V) | 3:31 | 2022-09-30 | 2024-01-12 |
+| [Le Musicien](https://open.spotify.com/track/3Tw3xTjwEgvZ2Qi2xRx8lT) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/46wYmPFcywGZDPLBmKdU1y) | 3:31 | 2023-12-22 |  |
 | [Lieder ohne Worte \(Songs without Words\), Book 2, Op\. 30: No\. 7 in E\-Flat Major, Op\. 30, No\. 1](https://open.spotify.com/track/00CXUMREit80f2McJsjcIz) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Péter Nagy](https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM) | [Mendelssohn, Felix: Songs Without Words, Vol\. 1](https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT) | 4:42 | 2022-01-28 |  |
 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:35 | 2022-01-28 |  |
 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 | 2022-01-28 | 2022-08-03 |

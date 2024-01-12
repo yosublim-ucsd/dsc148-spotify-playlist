@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-142 songs - 13 hr 39 min
+143 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ni Weve \- Mass Digital Remix](https://open.spotify.com/track/3B14Qdu65EWSrqcPkW2qWU) | [Urmet K](https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Mass Digital](https://open.spotify.com/artist/4XMP7ezajwUIjFKP2LHr3L) | [Ni Wewe \(Remixes\)](https://open.spotify.com/album/6vOjBJAmR0aj1vs1bGfj7v) | 3:44 | 2021-12-02 | 2023-02-10 |
 | [Nkanyezi](https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [My Story](https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge) | 5:04 | 2022-03-24 |  |
 | [Ntinga Ntaka](https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [THALITHA](https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg), [OBIE](https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC) | [Ntinga Ntaka](https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa) | 5:41 | 2023-02-09 |  |
+| [Nwenwela](https://open.spotify.com/track/1YyCmk4ix2BwZRJg4osM2x) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY), [IRENEE S](https://open.spotify.com/artist/1doNmBGMoB2AvFsp7DHQyp), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Nwenwela](https://open.spotify.com/album/4KZH6u22G4cvO1SPHLKbmy) | 3:36 | 2024-01-11 |  |
 | [OLOGO SPACE CADET](https://open.spotify.com/track/7v5FweJJVE9XAnHuEpQ6e9) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [TMX001: Alàdélọbà](https://open.spotify.com/album/1F7o30WrhraNnnTTRYLFJ6) | 2:24 | 2021-04-09 | 2023-02-10 |
 | [One Touch](https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [One Touch](https://open.spotify.com/album/2aYXVu6p7YCnCUmIwosOP7) | 5:52 | 2023-11-23 |  |
 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 | 2021-10-15 | 2023-02-10 |

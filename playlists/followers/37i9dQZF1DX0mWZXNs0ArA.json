@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 1886218,
+  "2024-01-12": 1887018,
   "date_first_scraped": "2022-06-22",
   "description": "150%",
   "name": "sped up songs",
@@ -2969,10 +2969,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 165427,
       "name": "LDR - Sped Up",
       "url": "https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd"
+    },
+    {
+      "album": {
+        "name": "Shoti Sped Up",
+        "url": "https://open.spotify.com/album/43KGg9deOHTDz5MBWPyQGp"
+      },
+      "artists": [
+        {
+          "name": "Shoti",
+          "url": "https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165427,
+      "name": "LDR - Sped Up",
+      "url": "https://open.spotify.com/track/6bLwOcpjZOL1GuCHBoB4VZ"
     },
     {
       "album": {

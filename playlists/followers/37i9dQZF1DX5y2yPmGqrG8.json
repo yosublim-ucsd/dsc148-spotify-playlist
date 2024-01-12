@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 330266,
+  "2024-01-12": 330293,
   "date_first_scraped": "2022-01-06",
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
   "name": "Deep Listening",
@@ -5509,7 +5509,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 135400,
       "name": "Melancholia VI",
       "url": "https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN"
@@ -5919,6 +5919,24 @@
       "duration_ms": 265467,
       "name": "Myth Machine",
       "url": "https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04"
+    },
+    {
+      "album": {
+        "name": "Sprig Songs",
+        "url": "https://open.spotify.com/album/4ct3nDg9TPM4vURcOQ9hfd"
+      },
+      "artists": [
+        {
+          "name": "ddwy",
+          "url": "https://open.spotify.com/artist/2WrVgrATbqKvkO3VmPSiy9"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415615,
+      "name": "Naini's Call",
+      "url": "https://open.spotify.com/track/2KI2fI3aggHeBM4PGyWLvE"
     },
     {
       "album": {

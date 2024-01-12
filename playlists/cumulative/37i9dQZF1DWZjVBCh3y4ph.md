@@ -2,12 +2,13 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Fanny J x Nesly
+> Les hits zouk du moment\. Photo : LÉA CHURROS
 
-77 songs - 4 hr 6 min
+79 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [ANTANANARIVO](https://open.spotify.com/track/2Gg8Cmnzoi2wbgRiVgTHWm) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Antananarivo](https://open.spotify.com/album/376mfcAcLzP0TuKmrzvX0R) | 3:00 | 2024-01-11 |  |
 | [Baby Oh](https://open.spotify.com/track/6w08Z9Jgjkh1A4jjbhZKZg) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Baby Oh](https://open.spotify.com/album/5Ru2z5Wz4hgmle5aexU4pM) | 2:37 | 2023-09-28 | 2023-11-24 |
 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 | 2023-11-23 |  |
 | [Blesser](https://open.spotify.com/track/5mlP39pwHpY1MjS3FFqXPq) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ), [Klowdy](https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY) | [Blesser](https://open.spotify.com/album/3ibvXKgaNmkFWxHOsT1bdG) | 3:11 | 2023-09-28 | 2023-12-22 |
@@ -68,8 +69,9 @@
 | [Sonje Mwen](https://open.spotify.com/track/4moodqGELYeoH8KJuJAMJy) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd), [Tayoo](https://open.spotify.com/artist/5cuJlJjmnzoiLcqYJ9Z0gn), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Sonje Mwen](https://open.spotify.com/album/5oKlINDbr58NjRWqtVONzC) | 3:34 | 2023-09-28 | 2023-10-20 |
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-09-28 |  |
 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 | 2023-10-05 | 2023-11-24 |
-| [STOP CA](https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0) | [Naya Subtil](https://open.spotify.com/artist/4VPAcrsBL7hbHYw3teVnyC) | [STOP CA](https://open.spotify.com/album/5eafYCtCmWYZNrpgRr3Y96) | 4:33 | 2023-12-21 |  |
-| [Sé Vou](https://open.spotify.com/track/7t2jOVBu8OMm567iQBVdO6) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Sé Vou](https://open.spotify.com/album/08wZlqOMwOQsAzkrkfYQmy) | 2:49 | 2023-12-21 |  |
+| [STOP CA](https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0) | [Naya Subtil](https://open.spotify.com/artist/4VPAcrsBL7hbHYw3teVnyC) | [STOP CA](https://open.spotify.com/album/5eafYCtCmWYZNrpgRr3Y96) | 4:33 | 2023-12-21 | 2024-01-12 |
+| [Sé Vou](https://open.spotify.com/track/7t2jOVBu8OMm567iQBVdO6) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Sé Vou](https://open.spotify.com/album/08wZlqOMwOQsAzkrkfYQmy) | 2:49 | 2023-12-21 | 2024-01-12 |
+| [Tellement doux](https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/1njifPExP5d1ZwFuOFXa5j) | 3:15 | 2024-01-11 |  |
 | [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 | 2023-11-16 |  |
 | [Tou Sa Ki Fo](https://open.spotify.com/track/3DZJQP0BrrpSWKPT8KXMQh) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Tou Sa Ki Fo](https://open.spotify.com/album/7cBHtC6kiiKJbmg4fFBco1) | 2:52 | 2023-09-28 |  |
 | [Tout donner](https://open.spotify.com/track/1WL8DMNBEMOmeNw2VuQYAq) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Tout donner](https://open.spotify.com/album/2SOS58yEkmW75KNeialOPY) | 3:09 | 2023-11-09 |  |

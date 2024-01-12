@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: HERMES",
+  "description": "Il meglio dell'R&B italiano. Cover: STE",
   "name": "anima R&B",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 184000,
       "name": "11:11",
       "url": "https://open.spotify.com/track/6vAWdsz8QiRgX8rVrfr6Vo"
+    },
+    {
+      "album": {
+        "name": "120 KM/H / GIACINTI",
+        "url": "https://open.spotify.com/album/13rVNvALnHWDKAZbCclUqD"
+      },
+      "artists": [
+        {
+          "name": "SANTO BLUE",
+          "url": "https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159579,
+      "name": "120 KM/H",
+      "url": "https://open.spotify.com/track/4otcjodGGKLZ7SjRIB8ET1"
     },
     {
       "album": {
@@ -136,6 +154,24 @@
       "duration_ms": 132941,
       "name": "5 minuti",
       "url": "https://open.spotify.com/track/4SJqYClpiN2aWMbn42fk9S"
+    },
+    {
+      "album": {
+        "name": "6MILABACI",
+        "url": "https://open.spotify.com/album/0VLPnw4d1h5uRORvsdjfSy"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cabrera",
+          "url": "https://open.spotify.com/artist/07sqjMSwJvfyYDkLhd7R3x"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173355,
+      "name": "6MILABACI",
+      "url": "https://open.spotify.com/track/3mqbhUtJZfgHKqfILez7BH"
     },
     {
       "album": {
@@ -690,6 +726,24 @@
       "duration_ms": 165527,
       "name": "BOLLICINE",
       "url": "https://open.spotify.com/track/3YNZBHzSKxfEvv801uyh72"
+    },
+    {
+      "album": {
+        "name": "BON TON",
+        "url": "https://open.spotify.com/album/4yQC91TGcqjcSy93larjNo"
+      },
+      "artists": [
+        {
+          "name": "Al Verde",
+          "url": "https://open.spotify.com/artist/5iKkYOCsHzdNtSMVMo2Hls"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "BON TON",
+      "url": "https://open.spotify.com/track/6GvnZ5lUX1368JcarLahXc"
     },
     {
       "album": {
@@ -3588,7 +3642,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 180000,
       "name": "Koala",
       "url": "https://open.spotify.com/track/3dvc2alQsbI9yOJgHCgGaD"
@@ -4782,6 +4836,24 @@
       "duration_ms": 171000,
       "name": "Mostro",
       "url": "https://open.spotify.com/track/7iR0VBMG8q5yQBAKyrHxzI"
+    },
+    {
+      "album": {
+        "name": "M\u2019AMA",
+        "url": "https://open.spotify.com/album/0dxzTx9DQbOdYHKRfH7umG"
+      },
+      "artists": [
+        {
+          "name": "Tho\u00e9",
+          "url": "https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205932,
+      "name": "M\u2019AMA",
+      "url": "https://open.spotify.com/track/4M9QcyOAf0dxDOzUr71DSS"
     },
     {
       "album": {
@@ -6624,7 +6696,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 165000,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/73JpGj55qaZvDHN6j0mHJo"
@@ -6958,7 +7030,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 230101,
       "name": "Sentieri",
       "url": "https://open.spotify.com/track/0mB4YXtu8J8Y3P8eDJ0kg3"
@@ -7102,10 +7174,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 175774,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/6rBZMRl4WssrTFcmr8evTL"
+    },
+    {
+      "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/7CLiWGzgYlMEyqBUO966aI"
+      },
+      "artists": [
+        {
+          "name": "Malakiia",
+          "url": "https://open.spotify.com/artist/0f86xQ9MwhbVSBpOaDc7mP"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Sogni lucidi",
+      "url": "https://open.spotify.com/track/3eEXsbKITTX3rxS6xan1nH"
     },
     {
       "album": {
@@ -7904,7 +7994,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 221370,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Hqrmiopo3VGV5BWUe1ThW"

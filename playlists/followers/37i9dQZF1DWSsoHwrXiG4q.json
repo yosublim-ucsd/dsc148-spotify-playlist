@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 24772,
+  "2024-01-12": 24877,
   "date_first_scraped": "2023-02-08",
   "description": "Deep sounds of liquid drum & bass to keep you in the flow.",
   "name": "Rapid Rhythm Focus",
@@ -633,7 +633,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 316300,
       "name": "Fire Lit Sky",
       "url": "https://open.spotify.com/track/1IgrS40KAa153OPwELpGOb"
@@ -655,6 +655,24 @@
       "duration_ms": 316300,
       "name": "Fire Lit Sky",
       "url": "https://open.spotify.com/track/2qDokZ8quVAjzfeBLF6hDY"
+    },
+    {
+      "album": {
+        "name": "First Discovery",
+        "url": "https://open.spotify.com/album/2cAG4dJa3YVz2SaeXeYxn9"
+      },
+      "artists": [
+        {
+          "name": "Insomnian",
+          "url": "https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149310,
+      "name": "First Discovery",
+      "url": "https://open.spotify.com/track/5yFc3n3ADLns8QlM8JyBXp"
     },
     {
       "album": {
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 275862,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/4nQ6FKHEX4YnZCvfAjQwYG"
@@ -1667,6 +1685,24 @@
       "duration_ms": 240710,
       "name": "Red Slogan",
       "url": "https://open.spotify.com/track/41chr9BH5daDinJZ2bkEki"
+    },
+    {
+      "album": {
+        "name": "Resplendent",
+        "url": "https://open.spotify.com/album/4GsQSucUSXAcAaXY3Brrbw"
+      },
+      "artists": [
+        {
+          "name": "IEU5",
+          "url": "https://open.spotify.com/artist/5TRnLPOrvYl9pAaU7gpICX"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144109,
+      "name": "Resplendent",
+      "url": "https://open.spotify.com/track/2Htfp5QDx54RaWmvNrKZAn"
     },
     {
       "album": {
@@ -2056,6 +2092,24 @@
     },
     {
       "album": {
+        "name": "searching forever",
+        "url": "https://open.spotify.com/album/43NkWLBNsiNxySeE3QjhPm"
+      },
+      "artists": [
+        {
+          "name": "dreem",
+          "url": "https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227223,
+      "name": "tough luck",
+      "url": "https://open.spotify.com/track/7CjYiNuSvxEwQl8zw849MJ"
+    },
+    {
+      "album": {
         "name": "Wild Grace",
         "url": "https://open.spotify.com/album/3h7IZ3GzubFZhAzDcx5kE9"
       },
@@ -2139,7 +2193,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 261528,
       "name": "Voice Note",
       "url": "https://open.spotify.com/track/20UKA9nmDp3T2v6GhiCoq5"

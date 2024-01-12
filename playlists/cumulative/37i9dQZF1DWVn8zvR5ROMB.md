@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Gabby Barrett, Graham Barham, Tigirlily Gold and more.
 
-5,452 songs - 12 day 10 hr 50 min
+5,453 songs - 12 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1278,7 +1278,8 @@
 | [Don't Tempt Me](https://open.spotify.com/track/5H6YabXRgTbGRWkZEgQoOG) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [One Of These Days](https://open.spotify.com/album/0DLyAwA8jwAwn8CK6VNT6E) | 3:04 | 2022-06-03 | 2022-06-11 |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-15 | 2022-04-23 |
 | [Don't Wanna Miss You](https://open.spotify.com/track/0ptZ2uLUECAx65X1FLEYbe) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Don't Wanna Miss You](https://open.spotify.com/album/6RY4TbvMtuEFo3mfvkFPs2) | 3:22 | 2023-10-27 | 2023-11-11 |
-| [Don’t Leave Me Loving You](https://open.spotify.com/track/5YTBeFxMYLEqkTtadRY0Ze) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QTUFjOPzU3hZFawaVRzNG) | 3:07 | 2024-01-05 |  |
+| [Don’t Leave Me Loving You](https://open.spotify.com/track/3RIRS2YNIyFCVAgSfzOzTC) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QpEKpAvnorJv91eZx53BP) | 3:07 | 2024-01-05 |  |
+| [Don’t Leave Me Loving You](https://open.spotify.com/track/5YTBeFxMYLEqkTtadRY0Ze) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QTUFjOPzU3hZFawaVRzNG) | 3:07 | 2024-01-05 | 2024-01-12 |
 | [Don’t Make Me Have To Come Down There](https://open.spotify.com/track/09KvWJRQrqRaTxvNNtJFc7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Don’t Make Me Have To Come Down There](https://open.spotify.com/album/57sOqzRyTNjSiHUIDviHwN) | 3:42 | 2023-01-20 | 2023-01-28 |
 | [Don’t Mess With Exes](https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Don’t Mess With Exes](https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956) | 3:27 | 2023-02-10 | 2023-02-18 |
 | [Doobie Like U Do](https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo) | [Cannabis Cowboys](https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB) | [Doobie Like U Do](https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg) | 3:47 | 2022-07-08 | 2022-07-16 |

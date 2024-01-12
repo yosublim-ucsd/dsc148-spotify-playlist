@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 353545,
+  "2024-01-12": 353423,
   "date_first_scraped": "2021-12-21",
   "description": "Country music to accompany you on the open road. Cover: Lainey Wilson",
   "name": "Country Drive",
@@ -573,6 +573,24 @@
       "duration_ms": 195053,
       "name": "Best Shot",
       "url": "https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ"
+    },
+    {
+      "album": {
+        "name": "Mercury Lane",
+        "url": "https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Best Shot",
+      "url": "https://open.spotify.com/track/3eDNb3ZG3gKgjAAgJBcOL8"
     },
     {
       "album": {
@@ -3065,7 +3083,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 199382,
       "name": "Knockin' Boots",
       "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"

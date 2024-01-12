@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 1593,
+  "2024-01-12": 1600,
   "date_first_scraped": "2023-12-09",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kay-on",
   "name": "+81 Connect FRESH",
@@ -705,10 +705,32 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 140952,
       "name": "Depressed & Pills",
       "url": "https://open.spotify.com/track/01xbmb6jZFpcgG0iddBD0M"
+    },
+    {
+      "album": {
+        "name": "Depressed & Pills",
+        "url": "https://open.spotify.com/album/3fqPHtHoAbYJSPWcrISn2a"
+      },
+      "artists": [
+        {
+          "name": "Bardin Beatz",
+          "url": "https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA"
+        },
+        {
+          "name": "Nia Varan",
+          "url": "https://open.spotify.com/artist/2cA365KqADueskrjJqSeBS"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Depressed & Pills",
+      "url": "https://open.spotify.com/track/4FStzexb85m932TwWU9KQl"
     },
     {
       "album": {
@@ -2112,6 +2134,24 @@
     },
     {
       "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J"
+    },
+    {
+      "album": {
         "name": "Ambivert Pt. 2",
         "url": "https://open.spotify.com/album/3hBY8A9UHCpHn7maPbPveH"
       },
@@ -2447,7 +2487,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 161176,
       "name": "Sh!t Talker",
       "url": "https://open.spotify.com/track/6OKWLgCbG4dV23hcnh3fyX"

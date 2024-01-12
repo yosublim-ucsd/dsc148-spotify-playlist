@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Born At Midnite
+> Montréal’s music scene, front and centre\. Cover: Born At Midnite
 
 412 songs - 23 hr 48 min
 

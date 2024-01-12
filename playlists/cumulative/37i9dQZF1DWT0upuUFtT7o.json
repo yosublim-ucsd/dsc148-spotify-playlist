@@ -11896,7 +11896,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 202193,
       "name": "Frog Rinse",
       "url": "https://open.spotify.com/track/3wiantdFsCOGIFOPoLwWBA"
@@ -17438,6 +17438,24 @@
       "duration_ms": 174198,
       "name": "infinity",
       "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
+    },
+    {
+      "album": {
+        "name": "Endless Affair",
+        "url": "https://open.spotify.com/album/4JweQP6Vps8p95F898fl0P"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206374,
+      "name": "Inhaling",
+      "url": "https://open.spotify.com/track/792XiFPcT0hrmjAy6mJa0F"
     },
     {
       "album": {

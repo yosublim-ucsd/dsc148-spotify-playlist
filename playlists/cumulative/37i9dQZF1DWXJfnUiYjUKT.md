@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-10,357 songs - 22 day 17 hr 14 min
+10,358 songs - 22 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1999,7 +1999,8 @@
 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 | 2023-04-14 | 2023-04-22 |
 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-02-24 | 2022-03-04 |
 | [Cry \(with Aluna\)](https://open.spotify.com/track/2HdEtRBwROKFsTiX2VTLCq) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Cry](https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo) | 2:49 | 2022-03-24 | 2022-04-01 |
-| [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw) | 4:32 | 2024-01-05 |  |
+| [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw) | 4:32 | 2024-01-05 | 2024-01-12 |
+| [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/6hOGZCEgzOEULm4lXk9SS2) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/60bBNV9rQfhoD8YnfbWTIq) | 4:32 | 2024-01-05 |  |
 | [Cry, Baby, Cry](https://open.spotify.com/track/6LBue8UFdVBxpf3mpbtIB8) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Cry, Baby, Cry](https://open.spotify.com/album/60j9wOkjIlDkSYvk2TShM1) | 3:33 | 2022-09-02 | 2022-09-10 |
 | [crybaby](https://open.spotify.com/track/6qdy9y84usFsxkfhNoGwik) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [crybaby](https://open.spotify.com/album/6p7i3bIGWalW3GAE1Gxgxe) | 3:24 | 2022-04-14 | 2022-04-22 |
 | [crying at the Orgy](https://open.spotify.com/track/67k9cC6UadKPmToT2OZm1D) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [crying at the Orgy](https://open.spotify.com/album/34KIJfUuoxN8NFgTrLsrp6) | 2:23 | 2023-11-17 | 2023-11-25 |
@@ -5053,7 +5054,7 @@
 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-09 | 2022-12-24 |
 | [La Noviecita](https://open.spotify.com/track/1LbrwVt7V2Qp3iJqo1a9h6) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Radio Güira](https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH) | 3:41 | 2023-11-03 | 2023-11-11 |
 | [LA On Acid](https://open.spotify.com/track/2QWMBe66DhsRwtn2BO9LTW) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [LA On Acid](https://open.spotify.com/album/3KJmODRcAwz06pK7gIiT0M) | 2:23 | 2023-07-07 | 2023-07-15 |
-| [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [B HAM](https://open.spotify.com/artist/0pfOqJLCEaTlaiAZ7P4p5A), [Corey Cooper](https://open.spotify.com/artist/5JAROdWMgMH5zJjtE4AojW) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 | 2024-01-05 |  |
+| [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 | 2024-01-05 |  |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-10 | 2023-03-18 |
 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 | 2022-09-23 | 2022-10-01 |
 | [La Single](https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Single](https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc) | 4:36 | 2023-03-31 | 2023-04-09 |

@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-322 songs - 1 day 3 hr 50 min
+323 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Between the Floating Mist](https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Between the Floating Mist](https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk) | 2:59 | 2021-10-06 |  |
 | [Between the Floating Mist](https://open.spotify.com/track/2onHlrzBTERSDk1BJhQu6Y) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Between the Floating Mist](https://open.spotify.com/album/3ZhHzKQmAvyiTVs6QHehJQ) | 2:59 | 2021-10-06 | 2022-07-27 |
 | [Bh](https://open.spotify.com/track/25SE1GVc8vorW752OaUT4J) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/285CZ1A51XV5i3UDNV4W7l) | 4:35 | 2021-10-06 | 2022-07-28 |
-| [Bh](https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 4:35 | 2021-10-06 |  |
+| [Bh](https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 4:35 | 2021-10-06 | 2024-01-12 |
 | [Birthmark](https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On) | [Minotauro](https://open.spotify.com/artist/25adRravBvCxFrjrs3527m) | [Birthmark](https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj) | 3:09 | 2021-10-06 | 2022-09-17 |
 | [Blonde](https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Blonde](https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl) | 4:10 | 2021-10-06 |  |
 | [Boo Boo Tannenbaum](https://open.spotify.com/track/1QC4gJrhknpzziXGMmnHHr) | [Casey Scott](https://open.spotify.com/artist/2sjwDJ8VpQ2Oj0YjctNxpC) | [Orrery](https://open.spotify.com/album/2iYGCxK8yrOIFmGXHPMyf4) | 5:18 | 2022-03-15 | 2022-07-29 |
@@ -157,6 +157,7 @@
 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 | 2021-10-06 |  |
 | [Lux1](https://open.spotify.com/track/5GWSvEJ9CLeg438Lc4h6gB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Starethrough EP](https://open.spotify.com/album/3zQKEOD2AsQDAzBPR2DVYD) | 6:03 | 2021-10-06 | 2022-07-15 |
 | [Ma germanes](https://open.spotify.com/track/2NDSJ3mZdo0tO9qvDkTACF) | [Ubaldo](https://open.spotify.com/artist/4gE3moa3VLhHqUrm1Rw5I3) | [Casa](https://open.spotify.com/album/22YaEKiumEvAKJesARqhfx) | 6:01 | 2021-12-15 | 2022-07-27 |
+| [Magic](https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv), [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By), [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Solar Bridge](https://open.spotify.com/album/5XvuOSe15rwQZdNUlaIrg7) | 12:30 | 2024-01-11 |  |
 | [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 | 2022-02-18 | 2022-08-25 |
 | [Melancholia II](https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 6:49 | 2023-04-21 |  |
 | [Melancholia II](https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 6:50 | 2021-10-06 | 2023-04-29 |

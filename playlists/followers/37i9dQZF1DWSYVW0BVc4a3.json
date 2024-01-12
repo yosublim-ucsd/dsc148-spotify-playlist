@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 113842,
+  "2024-01-12": 114141,
   "date_first_scraped": "2022-08-19",
   "description": "The stomping ground. ",
   "name": "Open Air",
@@ -5929,6 +5929,24 @@
       "duration_ms": 330724,
       "name": "Hypno Therapy",
       "url": "https://open.spotify.com/track/7nRA1ebc541cvTMXzNIz7O"
+    },
+    {
+      "album": {
+        "name": "I Can't Take No More",
+        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157784,
+      "name": "I Can't Take No More",
+      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
       "album": {
@@ -11905,7 +11923,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 417999,
       "name": "Slow Down - James Cole Remix",
       "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"

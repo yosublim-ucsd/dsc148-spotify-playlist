@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Royal Republic
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,314 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,449 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [Gargoyle](https://open.spotify.com/track/3ofByZxZGPzVrdjMMSqcbs) | [Flesh Tape](https://open.spotify.com/artist/2US2chOUWgrParRSXTZE3Z) | [Gargoyle](https://open.spotify.com/album/5RczoCCQlRaU5DHAe4Oe8Z) | 3:05 |
 | 40 | [Weavers' Weft](https://open.spotify.com/track/35kaYF2YEK74B0WOISySJc) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Weavers' Weft](https://open.spotify.com/album/6PpjfXaSeP2pYflV2kj6NX) | 9:41 |
 
-Snapshot ID: `MCwxNWYxNjI3Y2VmZDk5ZDA3OTdlOWY2ZTc1MmJkYzk3NGYyZDZmNTY5`
+Snapshot ID: `MCwxZTg5ODE2YjQwNzQ3ZDYzYzgyMDQ2ZGUzNjRmMmM2ZTE2NmQzNmNi`

@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 107998,
+  "2024-01-12": 107999,
   "date_first_scraped": "2019-09-29",
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
@@ -11324,6 +11324,24 @@
     },
     {
       "album": {
+        "name": "Dancing in the dark",
+        "url": "https://open.spotify.com/album/7AEJLWn9JbjUAkHZGsy44y"
+      },
+      "artists": [
+        {
+          "name": "Prima Apollinaare",
+          "url": "https://open.spotify.com/artist/3Xy1ZXp7yMsdiydU3bqSyR"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204828,
+      "name": "Dancing in the dark",
+      "url": "https://open.spotify.com/track/7xLJCz8cpzhVNpmKyaz0EJ"
+    },
+    {
+      "album": {
         "name": "Dancing In The Living Room",
         "url": "https://open.spotify.com/album/5j3H65YmgtQnZcystlhQFj"
       },
@@ -16465,6 +16483,10 @@
         {
           "name": "Ashdown",
           "url": "https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
         }
       ],
       "date_added": "2024-01-05",
@@ -17597,6 +17619,24 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. Jay-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
+    },
+    {
+      "album": {
+        "name": "Nightmares Through Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/1K73Scda05J5InTQUgFjhI"
+      },
+      "artists": [
+        {
+          "name": "DaboFlai",
+          "url": "https://open.spotify.com/artist/6DCwjQo8kEvTTnpnV1JJUo"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152971,
+      "name": "Frostbite!",
+      "url": "https://open.spotify.com/track/2k9a0YIsOzDemaKU8TgZkw"
     },
     {
       "album": {
@@ -24009,7 +24049,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 261209,
       "name": "Infidelidad",
       "url": "https://open.spotify.com/track/1sCPTrzvqgHHVVcXswPvF5"
@@ -33573,6 +33613,24 @@
     {
       "album": {
         "name": "No Worries",
+        "url": "https://open.spotify.com/album/6IAn7B6LduDnjHrCnlHhFB"
+      },
+      "artists": [
+        {
+          "name": "David Shabani",
+          "url": "https://open.spotify.com/artist/10tmEpWAvuar7nGsOeqdQN"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/2T332LRD02r4loxzwY4W48"
+    },
+    {
+      "album": {
+        "name": "No Worries",
         "url": "https://open.spotify.com/album/2tJiwcLiF2sDpIJdXbIzqB"
       },
       "artists": [
@@ -34655,6 +34713,24 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "album": {
+        "name": "Coast To Coast (Expanded)",
+        "url": "https://open.spotify.com/album/5sOmBWn4NopTNu5Hwg8dt3"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/32QHlLzPpISYgv8PzHYoiP"
     },
     {
       "album": {
@@ -46476,6 +46552,24 @@
     },
     {
       "album": {
+        "name": "The Real You Came Through",
+        "url": "https://open.spotify.com/album/503qyWZnM26PeiSs0dM9bp"
+      },
+      "artists": [
+        {
+          "name": "Murielle Pearl",
+          "url": "https://open.spotify.com/artist/7C5JGRXAWxmS35Xucs6aUH"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195381,
+      "name": "The Real You Came Through",
+      "url": "https://open.spotify.com/track/2uJOSo4T5oyF2HjMK5xF0K"
+    },
+    {
+      "album": {
         "name": "The Remedy",
         "url": "https://open.spotify.com/album/0Ec3s7mz36GG6Of4nxBwqg"
       },
@@ -47189,7 +47283,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 179310,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/0tFYw23ZdowOMjqbPdQzls"

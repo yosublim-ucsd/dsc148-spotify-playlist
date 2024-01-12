@@ -4,13 +4,14 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0yknvLWQZxwsMjhUhwWZQ8">41</a>
 
-1,478 songs - 2 day 18 hr 41 min
+1,479 songs - 2 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 | 2022-07-08 | 2022-07-16 |
 | [$1M](https://open.spotify.com/track/6EZevl0aJzkUmW0MUQKC1p) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [$1M](https://open.spotify.com/album/1BpLjNHS6EqNkrIaJ3otYr) | 1:50 | 2023-10-13 | 2023-12-09 |
 | [\(N\) INE](https://open.spotify.com/track/7lC2H90qclM4JgyQz6H1ys) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [RELAPSED](https://open.spotify.com/album/05CtRgycYQtDaDo80zxeQF) | 2:46 | 2022-07-08 | 2022-08-20 |
+| [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 | 2024-01-11 |  |
 | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ) | 1:36 | 2022-11-11 | 2023-02-04 |
 | [1, 2, 3](https://open.spotify.com/track/56E8mH7zuZYS07DbqfeTvT) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [1, 2, 3](https://open.spotify.com/album/0wPE7s12vVWFVuwScFUDtb) | 2:15 | 2022-06-10 | 2022-06-18 |
 | [1\-800\-Bad\-Bxtch](https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [1\-800\-Bad\-Bxtch](https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP) | 2:34 | 2023-03-24 | 2023-04-29 |
@@ -568,7 +569,7 @@
 | [High Price \(with Lil Tjay\)](https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [High Price \(with Lil Tjay\)](https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y) | 3:12 | 2023-03-31 | 2023-06-10 |
 | [Highly Performing](https://open.spotify.com/track/0JaoDZZej4Hwbn2FT0Nskn) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Humble As Ever](https://open.spotify.com/album/4Qv3R7YIc3LsYfO91qCiqE) | 3:25 | 2023-01-13 | 2023-05-20 |
 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 | 2023-09-08 | 2023-12-02 |
-| [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 | 2023-07-28 |  |
+| [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 | 2023-07-28 | 2024-01-12 |
 | [Hollywood Hills](https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Hollywood Hills](https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB) | 2:14 | 2022-02-18 | 2022-04-02 |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-02-15 | 2022-05-28 |
 | [HOME \- Remix](https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [HOME \(Remix\)](https://open.spotify.com/album/3DQqcMjcI066eFySU4whoW) | 3:15 | 2022-06-10 | 2022-08-27 |

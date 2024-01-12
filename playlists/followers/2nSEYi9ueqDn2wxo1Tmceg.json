@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 74427,
+  "2024-01-12": 74134,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -939,7 +939,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 217968,
       "name": "Armies Of The Dawn",
       "url": "https://open.spotify.com/track/3z7Vz5P3AFKwVBZ8GzACNu"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 310093,
       "name": "Bang",
       "url": "https://open.spotify.com/track/39Ys9oI5C9zzV4sccQJDSC"
@@ -2543,6 +2543,24 @@
       "duration_ms": 387520,
       "name": "Coyotes",
       "url": "https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku"
+    },
+    {
+      "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/6Lv6KtVqoeeNIsZQYvizcN"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189882,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M"
     },
     {
       "album": {
@@ -5766,6 +5784,24 @@
     },
     {
       "album": {
+        "name": "I Hold Something In My Hand",
+        "url": "https://open.spotify.com/album/5kqUxXj0Zwf0V5XIpUEtf6"
+      },
+      "artists": [
+        {
+          "name": "Bill Ryder-Jones",
+          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "I Hold Something In My Hand",
+      "url": "https://open.spotify.com/track/2BUu1OUVCYGDXyDEF0dQhF"
+    },
+    {
+      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
@@ -5973,7 +6009,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 245306,
       "name": "Ides",
       "url": "https://open.spotify.com/track/6rFwweh36fKLVMWBiJXYPn"
@@ -7095,7 +7131,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 217840,
       "name": "Leather Sky",
       "url": "https://open.spotify.com/track/4JstQBbvS6nc2jp8EhSbi9"
@@ -8292,6 +8328,24 @@
     },
     {
       "album": {
+        "name": "My Best Friend",
+        "url": "https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "My Best Friend",
+      "url": "https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2"
+    },
+    {
+      "album": {
         "name": "My Favourite Stranger (Remixes)",
         "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
       },
@@ -9226,6 +9280,24 @@
     },
     {
       "album": {
+        "name": "Cartwheel",
+        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135434,
+      "name": "Out of Town",
+      "url": "https://open.spotify.com/track/1DOyj5c8aV1cgmlEjSjSBU"
+    },
+    {
+      "album": {
         "name": "Out Of Town",
         "url": "https://open.spotify.com/album/2tsyNzu8IIjWLFhbSaRnWO"
       },
@@ -9527,6 +9599,28 @@
       "duration_ms": 475845,
       "name": "Picture This!",
       "url": "https://open.spotify.com/track/515VZ0TZNIe0n7G0qvBc7C"
+    },
+    {
+      "album": {
+        "name": "Plastic Pyramid",
+        "url": "https://open.spotify.com/album/6EwBOdpvB0ElEPN3Sbpgbv"
+      },
+      "artists": [
+        {
+          "name": "Omni",
+          "url": "https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9"
+        },
+        {
+          "name": "Izzy Glaudini",
+          "url": "https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205061,
+      "name": "Plastic Pyramid",
+      "url": "https://open.spotify.com/track/06SgGRLn7xmwCz8wIxIx8U"
     },
     {
       "album": {
@@ -9957,7 +10051,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 199769,
       "name": "Ready (feat. Art School Girlfriend) [Pretty Girl Remix]",
       "url": "https://open.spotify.com/track/7wdQ2iSmAO67B9sKeguajU"
@@ -11234,6 +11328,24 @@
     },
     {
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/4gFAFDnZ0ggEDAPpLHYPFp"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156397,
+      "name": "Stay Or Go",
+      "url": "https://open.spotify.com/track/5uZHEf7f6cYBaU01EXULQh"
+    },
+    {
+      "album": {
         "name": "Step By Step (Axel Boman\u2019s In The Air Version)",
         "url": "https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9"
       },
@@ -11483,7 +11595,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 352670,
       "name": "Sun Girl",
       "url": "https://open.spotify.com/track/0sMgwHapnEjJ7ixPHuvE8m"
@@ -11681,7 +11793,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 193800,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/6xh4LDq4j8YfCCWYVLVNx8"
@@ -12071,7 +12183,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 209727,
       "name": "The Race Is On, The King Is Dead",
       "url": "https://open.spotify.com/track/4rsSHeI0D0OsGcLSOnEemb"
@@ -13407,7 +13519,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 261959,
       "name": "Wee Rosebud",
       "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"

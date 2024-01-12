@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 25828,
+  "num_followers": 25846,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjNhYjYxY2M4OGI3YjM4N2U5NjkzYTRlMzQ3OWM4MWQ0ODc0Mjgx",
+  "snapshot_id": "MCwxZjZhZjViZTJjODEwOGY2NDViNzA0ZTRjNmM3NDViODY4MDE4ZTNk",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Righeira The 80's Hit Songs",
-        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Catherine Spaak",
         "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 129573,
       "name": "L'esercito del surf",
       "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Righeira The 80's Hit Songs",
+        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "MITO '60 la meravigliosa estate italiana Vol.1",
-        "url": "https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Pezzettini di bikini",
-      "url": "https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "La Partita",
         "url": "https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 135560,
       "name": "La Partita Di Pallone",
       "url": "https://open.spotify.com/track/6RVKSp5e4jOY8sQklLa297"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "MITO '60 la meravigliosa estate italiana Vol.1",
+        "url": "https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Pezzettini di bikini",
+      "url": "https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy"
     },
     {
       "added_at": "2023-06-05 07:42:38",

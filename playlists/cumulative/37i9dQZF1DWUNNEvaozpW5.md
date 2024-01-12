@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Robe.
 
-359 songs - 23 hr 26 min
+360 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 | 2022-05-19 |  |
 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 | 2022-06-09 | 2022-07-29 |
 | [Más que el tiempo](https://open.spotify.com/track/5z6ojHd8iKBuNtHovjHuMU) | [Sulivan? Nunca he estado ahí](https://open.spotify.com/artist/0qjulMsP59DrQJN1qLSuVw) | [Más que el tiempo](https://open.spotify.com/album/09q6zqJBmmeiM62ODkwpWB) | 4:36 | 2023-07-13 | 2023-07-28 |
+| [Nada podrá salvarte](https://open.spotify.com/track/2YE3RPCJ94TdJAHsrnbwXc) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr), [Igor Paskual](https://open.spotify.com/artist/54Jcsil8FDwDBNkkfcE9Ub) | [Nada podrá salvarte](https://open.spotify.com/album/36Q4MusSmNepwOFmatWmYs) | 3:37 | 2024-01-04 |  |
 | [Nada que perder](https://open.spotify.com/track/1N3wsfRTJrzibsiMyJo4e0) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Nada que perder](https://open.spotify.com/album/4PsfkuF6YOYrwD1Zn18RRG) | 6:10 | 2023-11-16 |  |
 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 | 2022-05-19 |  |
 | [Nelly](https://open.spotify.com/track/6E0pZMYmvV68vfmZhQiSSB) | [Alex O'Dogherty](https://open.spotify.com/artist/09L2UUFvhk6xuHoIbwNL4y), [La Bizarrería](https://open.spotify.com/artist/55c0gSmang0nLowAlPfh45) | [Nelly](https://open.spotify.com/album/1KKvE3lYoNvPoqaAt9tm5v) | 3:25 | 2023-06-01 | 2023-06-09 |
@@ -347,7 +348,7 @@
 | [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 | 2024-01-05 |
 | [Una Noche Sin Ti](https://open.spotify.com/track/3oUITstGqQVTlFyF32H1Un) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:19 | 2022-06-09 | 2022-07-13 |
 | [Urgente](https://open.spotify.com/track/6skMg3jxXmP2rYp5k7IIcY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Urgente](https://open.spotify.com/album/67ni11vAsCYVVuZgPkeigJ) | 4:19 | 2023-03-16 | 2023-03-31 |
-| [Uróboros](https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Uróboros](https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9) | 3:37 | 2023-07-13 |  |
+| [Uróboros](https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Uróboros](https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9) | 3:37 | 2023-07-13 | 2024-01-12 |
 | [Vallecas 1996](https://open.spotify.com/track/100JxlaUb7HyA8C43GtxcU) | [Topo](https://open.spotify.com/artist/6XC3SG7i2Eogjgm9uKPd8a) | [Vallecas 1996](https://open.spotify.com/album/6FUIhvAOaU8Bgycev7scOb) | 6:00 | 2023-08-10 | 2023-08-18 |
 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:42 | 2022-05-26 |  |
 | [Viajando por el interior](https://open.spotify.com/track/26vkdWyOHx3rBY2zTb7f8I) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Se nos lleva el aire](https://open.spotify.com/album/3V0gXpeLYWle5J3vy1O4Lu) | 6:55 | 2023-12-14 |  |

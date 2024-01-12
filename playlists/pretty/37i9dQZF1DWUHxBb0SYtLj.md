@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Camilla Magli
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,414 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,418 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cuore in Gola](https://open.spotify.com/track/6t4dhFqiP2W05yqPX4ebI4) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Cuore in Gola](https://open.spotify.com/album/6YOAAMsWhRujHGP7rPdG4G) | 3:02 |
+| 1 | [Alta Tensione](https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Alta Tensione](https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw) | 2:33 |
 | 2 | [MERCOLEDÌ MAI](https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [MERCOLEDÌ MAI](https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk) | 2:54 |
 | 3 | [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 |
 | 4 | [TOUCHÉ](https://open.spotify.com/track/2x5H6jg0wEXYR9a5Gxxbjq) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TOUCHÉ](https://open.spotify.com/album/54PgfzlzOhf2WwN8AUeS4y) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Maledetta nostalgia](https://open.spotify.com/track/1I25THbR7z0QIEvQoYQf3q) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw) | [Maledetta nostalgia](https://open.spotify.com/album/76YSYaGxqRYbXh35ib5pQX) | 3:50 |
 | 50 | [Femmena](https://open.spotify.com/track/2kk1qTOl3BGZTZWHQiP7Wn) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC) | [Femmena](https://open.spotify.com/album/48B8m0PJxV8wJcmMah500u) | 2:38 |
 
-Snapshot ID: `MCw4YzFkOGY1YzcyYmIwZTkwNTFmOWE0OTQ0NDhmYmQ4OGY2ODQ3Y2I1`
+Snapshot ID: `MCxjMmMwZDNlZWQ4ZjI4NzhiYjhhNjlkYjM1Y2IzYTNiM2RiNWFlMDI4`

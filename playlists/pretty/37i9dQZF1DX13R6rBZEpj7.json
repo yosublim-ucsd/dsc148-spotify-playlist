@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Dread MC",
-  "num_followers": 201437,
+  "num_followers": 201467,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjQxNGUwNmNhYTFhMDdkOTI5MTE3ZDU0ZDgyNjBiMzcwMzUyNjAx",
+  "snapshot_id": "MCwwNzA2NTU1ZDFhYmJmOWZlMjJjYzVlNGE2MGYwMWU4YWU4YjgxMDg0",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Can't Escape",
-        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 218899,
-      "name": "Can't Escape",
-      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 129625,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Can't Escape",
+        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 218899,
+      "name": "Can't Escape",
+      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -725,66 +725,6 @@
       "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Skanker",
-        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 227189,
-      "name": "Skanker",
-      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
-      },
-      "artists": [
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Deppz",
-          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
-        }
-      ],
-      "duration_ms": 198372,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
-    },
-    {
       "added_at": "2024-01-05 00:01:00",
       "album": {
         "name": "Friday Nights (efan Remix)",
@@ -807,6 +747,46 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Skanker",
+        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 227189,
+      "name": "Skanker",
+      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 216893,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Deppz",
+          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
+        }
+      ],
+      "duration_ms": 198372,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
+      },
+      "artists": [
+        {
+          "name": "Wittyboy",
+          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
+        }
+      ],
+      "duration_ms": 310909,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Came Here For",
         "url": "https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 214545,
       "name": "Came Here For",
       "url": "https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
-      },
-      "artists": [
-        {
-          "name": "Wittyboy",
-          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
-        }
-      ],
-      "duration_ms": 310909,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Barrington / Bodies",
-        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "Barrington",
-      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Don't Let Me Down (feat. Prima)",
         "url": "https://open.spotify.com/album/5dHxGwSxntnWNRQlDXMARR"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 208000,
       "name": "Don't Let Me Down (feat. Prima)",
       "url": "https://open.spotify.com/track/3kSxlCHp8Fsw9qYR0fI0lh"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Barrington / Bodies",
+        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Barrington",
+      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
     },
     {
       "added_at": "2023-12-22 00:01:00",

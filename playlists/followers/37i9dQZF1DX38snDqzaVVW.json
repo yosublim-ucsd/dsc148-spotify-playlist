@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 118420,
+  "2024-01-12": 118315,
   "date_first_scraped": "2021-12-29",
   "description": "Track from Muslims around the world. Cover: Maher Zain",
   "name": "Salam",
@@ -2839,7 +2839,7 @@
     {
       "album": {
         "name": "An Other Cup",
-        "url": "https://open.spotify.com/album/27glTwiq8qJBryD9w4SUdP"
+        "url": "https://open.spotify.com/album/4eKk8QRsQ9LMLO1vEzi4j8"
       },
       "artists": [
         {
@@ -2850,6 +2850,24 @@
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 291719,
+      "name": "The Beloved",
+      "url": "https://open.spotify.com/track/3ph7rjQcmF5vtqyzoc1NrH"
+    },
+    {
+      "album": {
+        "name": "An Other Cup",
+        "url": "https://open.spotify.com/album/27glTwiq8qJBryD9w4SUdP"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
       "duration_ms": 291719,
       "name": "The Beloved",
       "url": "https://open.spotify.com/track/68Joa2fqSoneTbPYlWCxqJ"

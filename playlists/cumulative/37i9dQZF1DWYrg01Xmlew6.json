@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Luch\u00e8 in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Vale Lambo in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -396,6 +396,28 @@
       "duration_ms": 135243,
       "name": "BABY LOVE ME (con Wako & Peppe Soks)",
       "url": "https://open.spotify.com/track/4IeFakToqcwNogAjNsPCuF"
+    },
+    {
+      "album": {
+        "name": "Lamborghini a Via Marina",
+        "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223360,
+      "name": "Baby U Want Me (feat. Geolier)",
+      "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
     },
     {
       "album": {
@@ -900,7 +922,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179863,
       "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
@@ -1511,6 +1533,32 @@
     },
     {
       "album": {
+        "name": "Via Piombai",
+        "url": "https://open.spotify.com/album/4RBnfg3OcCrv5a0J1FbNoQ"
+      },
+      "artists": [
+        {
+          "name": "Enzo Benz",
+          "url": "https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P"
+        },
+        {
+          "name": "47Milano",
+          "url": "https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1"
+        },
+        {
+          "name": "Vaz T\u00e8",
+          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153277,
+      "name": "Fino a quando non muoio (feat. Vaz T\u00e8)",
+      "url": "https://open.spotify.com/track/7aJUttpLAxSOrlCmYSVz5X"
+    },
+    {
+      "album": {
         "name": "Forever Alone",
         "url": "https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw"
       },
@@ -1791,6 +1839,32 @@
     },
     {
       "album": {
+        "name": "GUNDAM",
+        "url": "https://open.spotify.com/album/1dQRFh53er57NXlUdbfXLi"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Raimo",
+          "url": "https://open.spotify.com/artist/4dzoQsokmVsBXQf6VG80Hm"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132467,
+      "name": "GUNDAM",
+      "url": "https://open.spotify.com/track/1yEACt2XZhwPNQtt8U8jkT"
+    },
+    {
+      "album": {
         "name": "Hablan De Mi (Italian Remix)",
         "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
       },
@@ -1920,6 +1994,28 @@
       "duration_ms": 178316,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV"
+    },
+    {
+      "album": {
+        "name": "Lamborghini a Via Marina",
+        "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137186,
+      "name": "IAU (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/5kPRBzfbzjY2aHRWoo4scu"
     },
     {
       "album": {
@@ -2142,7 +2238,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 151386,
       "name": "KRIRM",
       "url": "https://open.spotify.com/track/0PupYO4b4ZA8tdihwNCUo9"
@@ -5524,7 +5620,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 193613,
       "name": "U&Me",
       "url": "https://open.spotify.com/track/6jueM7b7fc7eWQcgnTu9Rr"
@@ -5582,7 +5678,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 164583,
       "name": "Un Amaro o Ti Sparo",
       "url": "https://open.spotify.com/track/4CjFxG87FemEd0Qaz4t5T4"

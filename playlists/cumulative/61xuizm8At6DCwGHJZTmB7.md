@@ -4,7 +4,7 @@
 
 > Praise His holy name! Listen to the top Christian and Worship hits of 2024 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g">Brooke Ligertwood</a>
 
-360 songs - 1 day 10 hr 49 min
+361 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,8 @@
 | [A Love That Remains \- Live](https://open.spotify.com/track/1FdOOpG8dbKNtaYZoRyUaK) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [A Love That Remains \(Live\)](https://open.spotify.com/album/0YyW1L5DWyeiCQWV4pUfXY) | 8:30 | 2022-02-18 | 2022-04-05 |
 | [A Thousand Hallelujahs](https://open.spotify.com/track/51s1AhJAFMc8Yb3FitJc4r) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [A Thousand Hallelujahs](https://open.spotify.com/album/6cd1y3444OW0PCDI7CkQmS) | 4:00 | 2022-05-20 | 2023-01-05 |
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 | 2022-02-17 | 2022-03-16 |
-| [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 | 2022-03-15 | 2023-04-04 |
-| [A Thousand Hallelujahs \- Radio Version](https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 3:42 | 2023-02-10 |  |
+| [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 | 2022-03-15 |  |
+| [A Thousand Hallelujahs \- Radio Version](https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 3:42 | 2023-02-10 | 2024-01-12 |
 | [Abide \- Live](https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/5u3wyUEBom81pTF57qjwZW) | 6:00 | 2023-03-24 | 2023-04-20 |
 | [Abide \- Radio Version](https://open.spotify.com/track/4EzabOFNewxBmOUbVSg44o) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Abide \(Radio Version\)](https://open.spotify.com/album/2aKf7zp8X4MZ4Jgq7eg24i) | 3:13 | 2023-12-01 |  |
 | [Agenda \- Live At Sound Emporium](https://open.spotify.com/track/5XGd2fK0Zu9awD1ElMQUoz) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Songs You Maybe Didn't Know I Wrote And Some You Maybe Did \(Live At Sound Emporium\)](https://open.spotify.com/album/0mKL2b3HiljzTByxwUeoQu) | 6:40 | 2023-07-14 |  |
@@ -28,6 +28,7 @@
 | [Altar in the Valley](https://open.spotify.com/track/4hH18vTqOPYrQr5c7iNjoa) | [Ascent Project](https://open.spotify.com/artist/4r1FGzKdQcTiDDPesf9x7Z), [Matthew McGinley](https://open.spotify.com/artist/7lxa2m03JME8HxOMP6Aaq5) | [Altar in the Valley](https://open.spotify.com/album/369PdHuD41Xx9PiPSrOLp9) | 4:49 | 2023-08-25 | 2023-12-14 |
 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 | 2022-03-30 |  |
 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/56SvYdddE1igvBFZn17hRx) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:26 | 2023-03-31 |  |
+| [Another In The Fire](https://open.spotify.com/track/2Wh5hmw4afibksDICDu2ge) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [\(in the meantime\)](https://open.spotify.com/album/4Slh7GOXCskT0v8WDe7pjo) | 4:21 | 2024-01-11 |  |
 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 | 2022-02-17 | 2023-01-05 |
 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 | 2022-05-13 | 2023-04-15 |
 | [As You Can \- Live](https://open.spotify.com/track/4vguRbzcA2Ewj7tai8jerX) | [Jesus People](https://open.spotify.com/artist/35UBfTl4RQiyBsrZTbIBmp), [Adam Smucker](https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr) | [As You Can \(Live\)](https://open.spotify.com/album/4CM3QMzL3U0zhxTflYL0dF) | 10:19 | 2022-05-27 | 2023-01-05 |

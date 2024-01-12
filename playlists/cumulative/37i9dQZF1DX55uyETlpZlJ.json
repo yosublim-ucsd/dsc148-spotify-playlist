@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 188573,
       "name": "Manadaalada Maatu",
       "url": "https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY"
@@ -4350,6 +4350,24 @@
       "duration_ms": 116378,
       "name": "Ready (Kannada)",
       "url": "https://open.spotify.com/track/14zs6XjzSjwq0n7hriMaiO"
+    },
+    {
+      "album": {
+        "name": "Rocky Bhai 2.0",
+        "url": "https://open.spotify.com/album/7wxwmFKgiHQQTSm6Zb9DUc"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Rocky Bhai 2.0",
+      "url": "https://open.spotify.com/track/2HHM1OusTbVkYoN3Zu8x8T"
     },
     {
       "album": {

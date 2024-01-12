@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 957,
+  "num_followers": 959,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2E4ODc1YzYzY2NhMDNkZDY3ZDJiM2Q3NDIyZWNmZTAzZjYwYjRl",
+  "snapshot_id": "MCwzZjNmNTNhZmRhMmMyMDAwNzgwYmI2NjA5YjY0OTlmYzlhMWY2MjBi",
   "tracks": [
     {
       "added_at": "2023-11-24 04:39:56",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Tupaate",
-        "url": "https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "Wakikuba",
-      "url": "https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "Nkutuse",
         "url": "https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 189152,
       "name": "Nkutuse",
       "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "Tupaate",
+        "url": "https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Wakikuba",
+      "url": "https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Pull Up On Mi Bumpa",
-        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        }
-      ],
-      "duration_ms": 227896,
-      "name": "Pull Up On Mi Bumpa",
-      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 214729,
       "name": "LIFIST",
       "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "Pull Up On Mi Bumpa",
+        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+        }
+      ],
+      "duration_ms": 227896,
+      "name": "Pull Up On Mi Bumpa",
+      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Cindy Sanyu & Beenie Gunter",
+          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
+        }
+      ],
+      "duration_ms": 282215,
+      "name": "DanceHall",
+      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -915,42 +935,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
         },
         {
-          "name": "Cindy Sanyu & Beenie Gunter",
-          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
         }
       ],
-      "duration_ms": 282215,
-      "name": "DanceHall",
-      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "Bikole",
-        "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
-      },
-      "artists": [
-        {
-          "name": "Martha Mukisa",
-          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
-        },
-        {
-          "name": "Oma Afrikana",
-          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Bikole",
-      "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     }
   ],
   "unique_name": "Kidandali Parte",

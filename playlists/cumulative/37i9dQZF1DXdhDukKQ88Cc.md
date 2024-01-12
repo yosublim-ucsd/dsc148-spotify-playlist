@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap der holder det 100
+> Lams og Kundo holder det 100 🥶
 
-102 songs - 4 hr 22 min
+105 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/2s0v4Q14vbu2jUpuNTBcww) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 2:37 | 2024-01-04 |  |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 2:37 | 2023-11-10 | 2024-01-05 |
 | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/track/13ORFYlIGeLnai3mhgKFxZ) | [TV 2 Play](https://open.spotify.com/artist/0R3vuLe6DSrs1gpqOI27uO) | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ) | 2:42 | 2023-11-10 |  |
+| [AMAL PT\. 2](https://open.spotify.com/track/7zH44zeRQPJdkNmKJyNvrL) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [AMAL PT\. 2](https://open.spotify.com/album/1fxN0kfZA3pus0HH1LfCJi) | 3:14 | 2024-01-11 |  |
 | [ANDERLEDES](https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw) | [MEMZ](https://open.spotify.com/artist/6XvIKkATarRkAZppLCdLVY) | [ANDERLEDES](https://open.spotify.com/album/7azznQEPvB5GM2olU0M8X2) | 1:55 | 2023-11-10 | 2023-12-14 |
 | [Baby Mama](https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [Baby Mama](https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf) | 2:58 | 2023-09-21 |  |
 | [Baddies & Draris](https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Baddies & Draris](https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw) | 2:26 | 2023-09-21 | 2023-12-14 |
@@ -40,6 +41,7 @@
 | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/track/7kHon0ZXCxI7rwONmhS9Ax) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/album/3Y1sF71OVCLAPfwekAViUB) | 2:06 | 2023-09-21 |  |
 | [Early Morning](https://open.spotify.com/track/3LRm9sflmioeTgaiLVylmy) | [Chanelbigs](https://open.spotify.com/artist/4CIgpJioANhknACYsDfcKG), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa) | [Early Morning](https://open.spotify.com/album/5fR2lxQW91zljY6JYmFyTM) | 2:07 | 2023-11-16 |  |
 | [ELEVATOR \(feat\. Stepz\)](https://open.spotify.com/track/5KZqhvLLmjOXaFOP6jjaZa) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [ELEVATOR](https://open.spotify.com/album/6vqIrUHCsxp1iVLkZFkXkJ) | 2:19 | 2023-11-10 |  |
+| [Ensom](https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening…](https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9) | 2:20 | 2024-01-11 |  |
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 |  |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 | 2023-12-14 |
 | [Feeling Myself \- Shooter Gang Remix](https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Feeling Myself \(Shooter Gang Remix\)](https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS) | 3:32 | 2023-09-21 | 2023-11-11 |
@@ -66,6 +68,7 @@
 | [K\-City \(feat\. Stepz\)](https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR) | [EZ](https://open.spotify.com/artist/1KQsdrbzpa7RQfYq2U0ABb), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [K\-City \(feat\. Stepz\)](https://open.spotify.com/album/6DKZHaI2sj7p7rMxNnouhf) | 2:33 | 2023-09-21 |  |
 | [LAG PÅ LAG](https://open.spotify.com/track/3okKedyibuPyKZy16clOWH) | [Naoui](https://open.spotify.com/artist/0AvmzQcrG34vvnXwwXy06A), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [LAG PÅ LAG](https://open.spotify.com/album/7qgIprL7S4IdbsSgPsUtL0) | 2:15 | 2024-01-04 |  |
 | [Lean Back](https://open.spotify.com/track/3C5GTbN0DjMWqoW8MrfsaS) | [LEE](https://open.spotify.com/artist/0tQ5b76y1jrXNQ63299Sgv) | [Lean Back](https://open.spotify.com/album/2X19I3nqDmmzm0bhxS4ww0) | 1:55 | 2023-11-10 | 2023-12-14 |
+| [LEV I NUET](https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [LEV I NUET](https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ) | 2:16 | 2024-01-11 |  |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 |  |
 | [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 | 2023-11-16 |  |
 | [MDMA](https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Mange Døjer Med Angst](https://open.spotify.com/album/5txniOdxQFJAotpTiCJGUj) | 2:37 | 2023-10-12 | 2023-12-14 |

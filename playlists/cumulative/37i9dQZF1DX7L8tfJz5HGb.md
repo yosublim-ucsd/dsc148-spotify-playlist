@@ -4,7 +4,7 @@
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-173 songs - 9 hr 40 min
+174 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2023-06-01 | 2023-06-24 |
 | [Incredible \(feat.Quincy\)](https://open.spotify.com/track/4evcTna4ErgQut4QdwJ6OG) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [Quincy](https://open.spotify.com/artist/4fRfbdOrNz7rMisq8Ff78c) | [INCREDIBLE](https://open.spotify.com/album/7IURZsHK8uQc0hI5HJrc9a) | 3:15 | 2023-06-23 |  |
 | [internet crush](https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [internet crush](https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H) | 3:22 | 2023-06-01 | 2023-06-24 |
-| [Invitation](https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05) | [Uhm Jung Hwa](https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0) | [Invitation](https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB) | 3:53 | 2023-06-23 |  |
+| [Invitation](https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05) | [Uhm Jung Hwa](https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0) | [Invitation](https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB) | 3:53 | 2023-06-23 | 2024-01-12 |
+| [Invitation](https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Invitation](https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4) | 3:54 | 2023-06-26 |  |
 | [It's Okay](https://open.spotify.com/track/4TPXKIuXg411bVMZPZdYZl) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Complete](https://open.spotify.com/album/4Qouc2BnpMEPLXPWlq1dir) | 4:13 | 2023-06-23 |  |
 | [I’m Good \(Feat\. Sik\-K\)](https://open.spotify.com/track/1XU8ZM2uaEzVh3nZHmZfGl) | [BUMZU](https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf) | [BUMZU 3RD MINI ALBUM ‘27’](https://open.spotify.com/album/2d9Kz3dJLWF81WhdEaWV8z) | 3:06 | 2023-06-01 | 2023-06-24 |
 | [JUST](https://open.spotify.com/track/5NV8nfUZ5Y6RRQurcWGkzd) | [BUMZU](https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf) | [The 6th Digital Single \`JUST\`](https://open.spotify.com/album/4sLEucSQG2RGhF6aFk2vkh) | 3:13 | 2023-06-01 | 2023-06-24 |

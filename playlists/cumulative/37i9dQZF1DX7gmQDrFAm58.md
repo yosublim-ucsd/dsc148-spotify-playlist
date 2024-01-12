@@ -4,7 +4,7 @@
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-386 songs - 11 hr 19 min
+387 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Hug me](https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Hug me](https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu) | 1:35 | 2023-12-08 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/4MQtNTRVapyWkyKmL8Uy1M) | [Scarlet Sutton](https://open.spotify.com/artist/3uBIlLw3btitlfBAH34Hif) | [Humpty Dumpty](https://open.spotify.com/album/17Fo4tx58tyz7khFwtsk45) | 1:19 | 2023-12-08 |  |
 | [Hush Hush](https://open.spotify.com/track/4QOY64QuYpwPdWq3443dSM) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Hush Hush](https://open.spotify.com/album/3kgKC0ucg4dd5QufW7LQmq) | 2:13 | 2023-12-08 |  |
+| [Hush Little Baby](https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Hush Little Baby](https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze) | 1:44 | 2024-01-05 |  |
 | [Hush My Darling](https://open.spotify.com/track/4jggA9UxxTVj3L4nJkrqoA) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [Hush My Darling](https://open.spotify.com/album/5V5pR3LpovfAIFR6GeMuN7) | 1:29 | 2023-12-08 |  |
 | [Hush Now Little Baby](https://open.spotify.com/track/4zP8XMQnw6QGJZKVS0Wes3) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Hush Now Little Baby](https://open.spotify.com/album/3qp71hKEcuiDaiwVjtAICq) | 2:11 | 2023-12-08 |  |
 | [Hush Now, Little Tot](https://open.spotify.com/track/5ENUaPB0NQpAj5lISIWPRl) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Hush Now, Little Tot](https://open.spotify.com/album/2I9wQfhJT9bDyvyclgR2ZK) | 1:19 | 2023-12-22 |  |
@@ -245,7 +246,7 @@
 | [No Monsters Here](https://open.spotify.com/track/32H9k365lmxbzQekfaD9Ik) | [Florian Faerber](https://open.spotify.com/artist/0WajMfwxqxEpvc8X2cK1P2) | [No Monsters Here](https://open.spotify.com/album/3cE0uAci6D1uTs7pKs7dnJ) | 1:30 | 2023-12-08 |  |
 | [Northern Light](https://open.spotify.com/track/1c6T0UHkI3ZCJlH1RWpDMn) | [Rainbow Nights](https://open.spotify.com/artist/6lGpIWm6hgV92rnBgeZEXZ) | [Northern Light](https://open.spotify.com/album/3oDzCayWk70GnkWOMyYkQr) | 2:00 | 2023-12-08 |  |
 | [Old Macdonald Had A Farm](https://open.spotify.com/track/75apuD4FSexqsVIVE6czFc) | [Maverick Selby](https://open.spotify.com/artist/70qivo8pTGpQqrjHgWYvqO) | [Old Macdonald Had A Farm](https://open.spotify.com/album/2EGM0gLcMaipzCOQLx7Jg3) | 1:38 | 2023-12-08 |  |
-| [On My Chest](https://open.spotify.com/track/5ivcwAjEGrSiCIna2JISRC) | [Archie Brier](https://open.spotify.com/artist/5t49t4BTV7PlLZ5FbiQpES) | [On My Chest](https://open.spotify.com/album/5qKMZvBgtWWtRgTtZY5WbH) | 1:20 | 2023-12-08 |  |
+| [On My Chest](https://open.spotify.com/track/5ivcwAjEGrSiCIna2JISRC) | [Archie Brier](https://open.spotify.com/artist/5t49t4BTV7PlLZ5FbiQpES) | [On My Chest](https://open.spotify.com/album/5qKMZvBgtWWtRgTtZY5WbH) | 1:20 | 2023-12-08 | 2024-01-12 |
 | [Once Upon](https://open.spotify.com/track/2rfou3j13jIXEBvWoRRN60) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Once Upon](https://open.spotify.com/album/0nYLfxU39Hx9ArHkvZaklt) | 1:09 | 2023-12-08 |  |
 | [One Little Elephant](https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [One Little Elephant](https://open.spotify.com/album/3U1Xww56QKp1FKW4ZfLccv) | 1:22 | 2023-12-08 |  |
 | [One More, Mommy!](https://open.spotify.com/track/1f7HZs5cKbpjbwIb51koAC) | [Gabriella Chiado](https://open.spotify.com/artist/5qEqJaMiZWbCFsnbDVRqOH) | [One More, Mommy!](https://open.spotify.com/album/2WREGOUQDi9sAf4iwzSn05) | 1:58 | 2023-12-08 |  |

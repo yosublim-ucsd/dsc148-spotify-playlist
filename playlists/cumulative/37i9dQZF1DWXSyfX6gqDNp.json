@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Elegy",
+        "url": "https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj"
+      },
+      "artists": [
+        {
+          "name": "Buss Quartet",
+          "url": "https://open.spotify.com/artist/1OfER2aiowHuG93YnU0w7I"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY"
+    },
+    {
+      "album": {
         "name": "Easy Living",
         "url": "https://open.spotify.com/album/063dLcnFERUaDqum86A5eF"
       },

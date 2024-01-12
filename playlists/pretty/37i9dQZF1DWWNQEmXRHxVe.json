@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Rihanna",
-  "num_followers": 89669,
+  "num_followers": 89666,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTYxZTgwY2E0ODlkMTYwNmNkNzgxNTkxNGI5MTBmYzc4MzkwYjZl",
+  "snapshot_id": "MCw3NGVmMDc3OWI3NDUzZWM1ZjZkZTc0ZTRmNmUwMmE2NmQ3MzYyZTFh",
   "tracks": [
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Merry, Merry Christmas",
-        "url": "https://open.spotify.com/album/0Ttc1BQu1k3SfU02vn2cM5"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "This One's for the Children",
-      "url": "https://open.spotify.com/track/78bDGxqn2KF2VU1G3Kz6J0"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Back In The U.S.",
         "url": "https://open.spotify.com/album/0PoRrBKXrrsRTE4tyq45Xz"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 421026,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/6gAlATIOLSKLwGltB0HZ41"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Merry, Merry Christmas",
+        "url": "https://open.spotify.com/album/0Ttc1BQu1k3SfU02vn2cM5"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "This One's for the Children",
+      "url": "https://open.spotify.com/track/78bDGxqn2KF2VU1G3Kz6J0"
     },
     {
       "added_at": "2023-01-28 00:44:44",

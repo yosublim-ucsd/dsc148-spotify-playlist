@@ -533,6 +533,28 @@
     },
     {
       "album": {
+        "name": "DARLING DRIVE",
+        "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199497,
+      "name": "DARLING DRIVE",
+      "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/209ZTABY4BPxqSkUhWBRUl"
       },
@@ -544,7 +566,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 144242,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0uOQJSju3PCtfCqo86DEHd"
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 221890,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz"
@@ -1228,6 +1250,24 @@
       "duration_ms": 169814,
       "name": "Magic - Edit",
       "url": "https://open.spotify.com/track/2u5BsxcvX36t9ecVM70Ati"
+    },
+    {
+      "album": {
+        "name": "MARAGARITA",
+        "url": "https://open.spotify.com/album/0WmKyAG8q21joH2H3LIw21"
+      },
+      "artists": [
+        {
+          "name": "SWORRA",
+          "url": "https://open.spotify.com/artist/3CwBdFm87pJQZU7NgZae00"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215275,
+      "name": "MARAGARITA",
+      "url": "https://open.spotify.com/track/3a83gjRLze4P3CZXoI3qAP"
     },
     {
       "album": {
@@ -1582,7 +1622,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 180972,
       "name": "Our Place ft. Thom Gill",
       "url": "https://open.spotify.com/track/4fvyspoROGz30LjX2Fu47O"
@@ -1869,6 +1909,28 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/7EhmVD2B6kOvTQ2xOl7SJP"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        },
+        {
+          "name": "KOSE",
+          "url": "https://open.spotify.com/artist/1HSGRJxw8jvT82cfO1ye0q"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1esdfUNTx48Knns9wG9aDl"
+    },
+    {
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8"
       },
@@ -2078,6 +2140,24 @@
       "duration_ms": 257178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/076yQZmCYLr11TVMZZRvP3"
+      },
+      "artists": [
+        {
+          "name": "D3EPANK",
+          "url": "https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132004,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp"
     },
     {
       "album": {
@@ -2328,7 +2408,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 164705,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/4bDbcJrUfGXbgEpzzlGKOw"

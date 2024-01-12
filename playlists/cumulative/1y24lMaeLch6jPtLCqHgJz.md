@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-275 songs - 14 hr 11 min
+277 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Pages](https://open.spotify.com/track/4GZgln2CDUEQ0JVuPFaQK2) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Pages](https://open.spotify.com/album/602QhTBheuUjYdvY4IQOTY) | 3:15 | 2022-09-09 | 2022-12-17 |
 | [Paradise](https://open.spotify.com/track/2InkR3RbQnVc9EMHP9VRqY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Paradise](https://open.spotify.com/album/6tGXsBn9Oqo2uYcmILI6fb) | 3:16 | 2022-08-04 | 2023-09-09 |
 | [Paradise](https://open.spotify.com/track/4bruCU0ILLoOfF3iE27opD) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Paradise](https://open.spotify.com/album/7fshDHj8Sayc1AwggqjKot) | 3:22 | 2023-10-19 |  |
+| [Party People \- Giuseppe Ottaviani Retouch](https://open.spotify.com/track/7blISEsPn1iU2y3Cf8o7ua) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Ale Mora](https://open.spotify.com/artist/6bsbLjG9kdODP0wVaM1WXM), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Party People \(Giuseppe Ottaviani Retouch\)](https://open.spotify.com/album/0Al0nM4JKtlq0dAaM5Hbn9) | 3:13 | 2024-01-11 |  |
 | [Phoenix](https://open.spotify.com/track/2IsmnQVMlumwHQ4vAkaVIa) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq) | [Phoenix](https://open.spotify.com/album/6NPTOBUvyTYxn2X3Mo1taQ) | 3:15 | 2022-07-29 | 2023-04-14 |
 | [Piece Of Your Heart \- Alok Remix](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart \(Alok Remix\)](https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq) | 2:46 | 2023-12-08 |  |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-12-08 |  |
@@ -230,6 +231,7 @@
 | [Sweet Escape](https://open.spotify.com/track/0vnE0t35MhE3xsrlh2fzKz) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Slake Slagger](https://open.spotify.com/artist/72tp31XqMIjIopAqxgD9H2), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sweet Escape](https://open.spotify.com/album/6lK6ilzbP802Ohuycny92o) | 3:04 | 2022-07-29 | 2023-08-11 |
 | [Sweet Mistake](https://open.spotify.com/track/1VYHeY9ulPnsMHKvXPyG5H) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7) | [Sweet Mistake](https://open.spotify.com/album/35I9B0MgtuaTmkOCunJp0L) | 3:33 | 2022-07-29 | 2023-07-29 |
 | [Sweet Symphony](https://open.spotify.com/track/4piZuG5D7Krw2iUGk7PKYo) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Sweet Symphony](https://open.spotify.com/album/5ICeZU3A6DtzBKTmjTwLY3) | 2:22 | 2023-06-01 |  |
+| [Take Control](https://open.spotify.com/track/6iqJCu5hhdKko7ywoQgiDW) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [XavieR](https://open.spotify.com/artist/4eo8DUa8wEP7Uc1MaZ5IVT), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Take Control](https://open.spotify.com/album/59YRIcCaPVKoZAcuoz7rmE) | 2:27 | 2024-01-11 |  |
 | [Take Off](https://open.spotify.com/track/2wzwONRFtlmZRphlK9izyC) | [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Kamish](https://open.spotify.com/artist/0ug6E8PwKNjLAm4QNABTJF), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Take Off](https://open.spotify.com/album/2MS0WDP9ydUtoQkEPokkmr) | 3:16 | 2022-07-29 | 2023-06-23 |
 | [Techno Acid 303](https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Techno Acid 303](https://open.spotify.com/album/1qo26STwNIEujdeZ2S4IyG) | 3:50 | 2023-10-12 |  |
 | [Techno Music](https://open.spotify.com/track/0acYxnsfGsSbFMT3BSkeDX) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [Techno Music](https://open.spotify.com/album/28BurPQ6ef9puaN8AoHbOG) | 2:07 | 2023-12-22 |  |

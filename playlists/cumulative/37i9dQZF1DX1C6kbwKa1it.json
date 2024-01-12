@@ -183,6 +183,32 @@
     },
     {
       "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0vkDkHGPrIAlZ3xziYz3mF"
+      },
+      "artists": [
+        {
+          "name": "Fooligan Kevs",
+          "url": "https://open.spotify.com/artist/4bGHAmqEYRB5tsPiGjFH2g"
+        },
+        {
+          "name": "HARDIK",
+          "url": "https://open.spotify.com/artist/1xoqxlHKitOOQKSbkXa8X7"
+        },
+        {
+          "name": "King Roman",
+          "url": "https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148400,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2DSYENR4O6WmowMN8ZcVmQ"
+    },
+    {
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,866 likes - 105 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,811 likes - 105 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 23 | [潜意识](https://open.spotify.com/track/3q8jhLC6TAPJxijRnmyFDv) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [潜意识](https://open.spotify.com/album/1l5tA3wDHWO8Iy0dr1e6Xa) | 3:31 |
 | 24 | [你成為了誰的幸福](https://open.spotify.com/track/21ADSha2qwERtBVz3yzD76) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你成為了誰的幸福](https://open.spotify.com/album/1mQwjhCC8ua4FRtUy26ycY) | 4:17 |
 | 25 | [我們 \- Vicky版](https://open.spotify.com/track/4XnD0PA97QgSeaecGVXfFc) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我們 \(Vicky版\)](https://open.spotify.com/album/4DHZNSaC7EcF6HjxPTOJha) | 2:06 |
-| 26 | [北极星 \(MY LITTLE STAR\)](https://open.spotify.com/track/6ZyAlU7tYUGrto7hcCbWfK) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [在与生俱来的不平衡里 \(ALLURE\)](https://open.spotify.com/album/5CTJRLUpDnLXEXGllKcmeG) | 4:03 |
+| 26 | [北極星 \(MY LITTLE STAR\)](https://open.spotify.com/track/6ZyAlU7tYUGrto7hcCbWfK) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [在與生俱來的不平衡裡 \(ALLURE\)](https://open.spotify.com/album/5CTJRLUpDnLXEXGllKcmeG) | 4:03 |
 | 27 | [謝幕](https://open.spotify.com/track/7qqrbqHcX0UMSI1SsYVVf6) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [謝幕](https://open.spotify.com/album/0lkZgRyVYqPgQqe8z3N0Ls) | 4:03 |
 | 28 | [聽不見的愛情](https://open.spotify.com/track/51KUDLINaiFkOTelnkvGke) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [聽不見的愛情](https://open.spotify.com/album/3Re3xj4rs5hgbS4yFJVbwC) | 5:06 |
 | 29 | [Not Good Enough](https://open.spotify.com/track/48eKVc1WyOJyE6HDdTngCD) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [Not Good Enough](https://open.spotify.com/album/57RimKyMNZ8XfSqgWfj9GB) | 2:47 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [NYNM](https://open.spotify.com/track/4CO3fJ2VNNLcaGteallbV3) | [Wilke](https://open.spotify.com/artist/6IQTljXmg9iliuQo3g0WFQ), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ), [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau) | [NYNM](https://open.spotify.com/album/6c6b29r1CJbl537u7sDEEk) | 3:38 |
 | 105 | [I Hate Myself Sometimes](https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes](https://open.spotify.com/album/3hUr7wEoUWVlFeEV843iGT) | 2:54 |
 
-Snapshot ID: `MCxhY2ZhN2E4ZGE3ZTQ4ODc1MzkyNjJmZjA5YzI4ZjlhOTA1N2Y2OTBl`
+Snapshot ID: `MCwzMGEyNTZmZmI3ODUxMzE2MDQwNTQxNTVjODcyZWYzMGM1ZDVlNGJl`

@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Bdayat Shetaa",
+        "url": "https://open.spotify.com/album/0LaGyEKQ0qZCeZDkuHRApu"
+      },
+      "artists": [
+        {
+          "name": "Zayed Bin Saber",
+          "url": "https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs"
+        },
+        {
+          "name": "Sultan Ben Mreea",
+          "url": "https://open.spotify.com/artist/0vmJ2z07MzXKYFAPEgQkcJ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233904,
+      "name": "Bdayat Shetaa",
+      "url": "https://open.spotify.com/track/7IEG9EtW5Smb8IZ7No0Ogw"
+    },
+    {
+      "album": {
         "name": "Elly Tabeh",
         "url": "https://open.spotify.com/album/0VBlLnPK8yiqZi9LPMvoIF"
       },
@@ -258,6 +280,24 @@
       "duration_ms": 241148,
       "name": "Marhaba Bek",
       "url": "https://open.spotify.com/track/3dHSmw4UKtQkXDb7EQS19Y"
+    },
+    {
+      "album": {
+        "name": "Men Doon Ay Mogdmat",
+        "url": "https://open.spotify.com/album/5rOfIU1MqxplPDBdKHcoFP"
+      },
+      "artists": [
+        {
+          "name": "Hussain Moheb",
+          "url": "https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308010,
+      "name": "Men Doon Ay Mogdmat",
+      "url": "https://open.spotify.com/track/49Rug5MOJsNISOC8BH0dod"
     },
     {
       "album": {
@@ -1252,7 +1292,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 300000,
       "name": "\u0627\u0646\u0627 \u0645\u0633\u062a\u063a\u0631\u0628",
       "url": "https://open.spotify.com/track/0SVGqnBaDrCMYhGfERHdBu"
@@ -1700,6 +1740,24 @@
       "duration_ms": 220053,
       "name": "\u062e\u0627\u0648\u064a\u062a \u0630\u0643\u0631\u0627\u0647",
       "url": "https://open.spotify.com/track/73xOibl20hlunR0U0oYBA0"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0630\u0627\u0646\u064a \u0627\u0644\u0634\u0648\u0642",
+        "url": "https://open.spotify.com/album/47FXkqqo11NLkP4eQPQ3cL"
+      },
+      "artists": [
+        {
+          "name": "\u063a\u0631\u064a\u0628 \u0627\u0644 \u0645\u062e\u0644\u0635",
+          "url": "https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205335,
+      "name": "\u062e\u0630\u0627\u0646\u064a \u0627\u0644\u0634\u0648\u0642",
+      "url": "https://open.spotify.com/track/33EphTCfbZMceeIyCYt6b6"
     },
     {
       "album": {

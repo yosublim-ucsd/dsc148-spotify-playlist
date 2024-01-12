@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-462 songs - 1 day 0 hr 5 min
+466 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Am I Blue](https://open.spotify.com/track/1OYfanPIsbVYCvJYTDCjzz) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Am I Blue](https://open.spotify.com/album/7D6viYCA4iHApd0aQN2ALB) | 3:34 | 2023-08-10 |  |
 | [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-03-16 |  |
 | [Angel Eyes](https://open.spotify.com/track/26lMfUWnrXOXQb9XJpuy6F) | [Grace Wither](https://open.spotify.com/artist/2vGiqF0un3L1GYZZcu1Fs3) | [Angel Eyes](https://open.spotify.com/album/3VDsMjedDDreoeWb4THND9) | 2:32 | 2023-01-05 | 2023-05-05 |
+| [Another Night](https://open.spotify.com/track/67CMXgNv85npgVBdnnAmCp) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Another Night](https://open.spotify.com/album/1IwpbsnQGqr2pLaubVvXdG) | 2:25 | 2024-01-12 |  |
 | [Anya](https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Anya](https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f) | 3:43 | 2023-09-22 |  |
 | [Around Me](https://open.spotify.com/track/3GCaoFaGqlbsSXFCFrHozb) | [Frank Keme](https://open.spotify.com/artist/05C8tAFDHOzinIBu7qExmR) | [Around Me](https://open.spotify.com/album/6878HE0QBMwKRpceYf0U5z) | 2:42 | 2023-04-13 |  |
 | [As Time Goes By](https://open.spotify.com/track/1YGrZ7JjSgG0F5mkPTLJd1) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [As Time Goes By](https://open.spotify.com/album/7scZsHKFNYwwCD7S6U057m) | 4:02 | 2022-05-24 | 2023-02-17 |
@@ -258,6 +259,7 @@
 | [Midnight City Lights](https://open.spotify.com/track/3JFk3pN15IteQgQ4nUdib6) | [Kyrie Barnes](https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6) | [Midnight City Lights](https://open.spotify.com/album/2X7qsOAIRO17i3NIetHmwy) | 2:17 | 2023-08-10 |  |
 | [Misty](https://open.spotify.com/track/4Q7xH2yDR5grUNWulnE8U9) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Misty](https://open.spotify.com/album/6mSvYvkESutbofwdQ59pM3) | 2:44 | 2023-01-19 |  |
 | [Misty](https://open.spotify.com/track/12lnRDf58tQ4qvmaEROE5r) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:29 | 2022-04-12 | 2023-01-20 |
+| [Misty Mornings](https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Misty Mornings](https://open.spotify.com/album/4jZUkBLZ52yl1NXC4k4ZHq) | 4:03 | 2024-01-12 |  |
 | [Moon River](https://open.spotify.com/track/10OEBzzZQqTVrhkJet4S3i) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Moon River](https://open.spotify.com/album/5ZMjGQ6HeoyJyeD39rRmHL) | 3:13 | 2022-08-30 |  |
 | [Moonlight in the Bay](https://open.spotify.com/track/0HmhtdJkhRy6G6AhCcpaUU) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [Moonlight in the Bay](https://open.spotify.com/album/5nmlImnaGL2XEgqZ6gzyeW) | 2:29 | 2024-01-05 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Moonlight In Vermont](https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk) | 2:58 | 2023-06-15 |  |
@@ -429,6 +431,7 @@
 | [Unforgettable](https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Unforgettable](https://open.spotify.com/album/5E4LIM4elfmb0vKJShZP7X) | 1:57 | 2022-08-10 | 2023-08-26 |
 | [Velvet Reverie](https://open.spotify.com/track/07H8tef2AWRWeTUkvCgjej) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [Velvet Reverie](https://open.spotify.com/album/3yJlZjH3LO49AbvNBRdWvN) | 2:34 | 2023-10-13 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-04-12 |  |
+| [Vineyard](https://open.spotify.com/track/4267KrXCw7ginzMjtvwnMc) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [Vineyard](https://open.spotify.com/album/2krMn6Dx9QC5QTcORUfqAG) | 3:12 | 2024-01-12 |  |
 | [Violets for Your Furs](https://open.spotify.com/track/4TQmSFLxAR8ffhfIh7c7xg) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Violets for Your Furs](https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw) | 2:29 | 2022-08-10 | 2023-08-26 |
 | [Violets for Your Furs](https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Violets for Your Furs](https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM) | 3:24 | 2022-05-17 |  |
 | [Wake Up In Spring](https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [Wake Up In Spring](https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS) | 2:33 | 2023-02-02 |  |
@@ -456,6 +459,7 @@
 | [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-10 |  |
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 |  |
 | [Witness of Love](https://open.spotify.com/track/0sX45CnQ5ugC1yUzfiKCSB) | [Michael Stylez](https://open.spotify.com/artist/0pW8YnlmlVXiGBfDH3v8j7) | [Witness of Love](https://open.spotify.com/album/5vfklJRWFT9stLnbAh911T) | 1:56 | 2022-11-10 | 2023-08-26 |
+| [yalla](https://open.spotify.com/track/1MDVmD8jfZhFy084VF7hO4) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [yalla](https://open.spotify.com/album/3emFO8aqqG7TQiacdILJTc) | 3:14 | 2024-01-12 |  |
 | [Yesterdays](https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Yesterdays](https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr) | 2:37 | 2023-06-08 |  |
 | [You and I](https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD) | [Mason Olsen](https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET) | [You and I](https://open.spotify.com/album/6Iq2usdsUcLgrTBd2cDdOW) | 2:35 | 2023-11-24 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2022-04-12 |  |

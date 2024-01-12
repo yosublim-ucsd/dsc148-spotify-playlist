@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-324 songs - 22 hr 7 min
+325 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Come Fly With Me](https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Love Stories](https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N) | 5:52 | 2022-01-20 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml) | 3:23 | 2022-03-25 |  |
 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 | 2023-05-30 | 2023-12-24 |
-| [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 | 2022-08-29 |  |
+| [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 | 2022-08-29 | 2024-01-12 |
 | [C’est Magnifique](https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [C’est Magnifique](https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN) | 4:52 | 2022-05-24 | 2022-08-17 |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/69X2tFJnXPGGGvSOJdZ8ou) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love \(Deluxe Edition\)](https://open.spotify.com/album/51v8hjqV3KirevIh7jWI0H) | 3:57 | 2022-01-20 | 2022-05-25 |
 | [Darn That Dream](https://open.spotify.com/track/1bKYwMDGYIRbo2vqm8UCym) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [A Little Moonlight](https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s) | 4:46 | 2022-01-20 |  |
@@ -141,6 +141,7 @@
 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:42 | 2022-01-20 |  |
 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-04-27 |  |
 | [I Remember You](https://open.spotify.com/track/2VHSj38QBpDCqCrAYv5ErA) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 4:05 | 2022-09-27 | 2023-12-24 |
+| [I Remember You](https://open.spotify.com/track/6MRAq9ZKRtBV8NzWOcWLwy) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi) | 4:05 | 2023-12-28 |  |
 | [I Should Care](https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 3:17 | 2022-01-20 |  |
 | [I Was Just Thinking Of You](https://open.spotify.com/track/4mFgAoJyP4k8kjj9nuiS7B) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW), [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [Obsessed With The West](https://open.spotify.com/album/1n0Bze58qbam2IGRmSDUq8) | 4:04 | 2022-05-31 | 2022-08-31 |
 | [I Wish You Love](https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [I Wish You Love](https://open.spotify.com/album/6jmvc0SSvjpUSDwuxsFrSY) | 3:05 | 2022-08-29 |  |

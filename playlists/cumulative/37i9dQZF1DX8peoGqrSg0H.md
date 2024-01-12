@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
+> เพลย์ลิสต์พิเศษช่วงวันเด็กปีนี้! เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NuNew
 
-422 songs - 1 day 1 hr 20 min
+423 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1987](https://open.spotify.com/track/5xKPYDrSEwyRRtlxEOi0lQ) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [1987](https://open.spotify.com/album/1cxw73GpBf6KWNYQxqiH5D) | 4:16 | 2023-11-02 | 2023-11-10 |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-05-26 | 2022-07-31 |
 | [ACTION](https://open.spotify.com/track/2MaB2AGKCvcwhF7A7WPaae) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA) | [ACTION](https://open.spotify.com/album/6rHZhVtDDMBPhDyQ4n4Ydx) | 3:25 | 2023-12-07 | 2023-12-15 |
+| [ALALA \(To The Top\)](https://open.spotify.com/track/77Sye1USZZ2xmy18ln7dWe) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ALALA \(To The Top\) \- Single](https://open.spotify.com/album/2sLjFbcHqYmFW0ue0Ivlwl) | 3:06 | 2024-01-11 |  |
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
 | [ambulance](https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [ambulance](https://open.spotify.com/album/2TJb5ZrRwdPjo0GzDCJeo2) | 3:29 | 2022-09-29 | 2022-10-13 |
 | [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 | 2024-01-04 |
@@ -276,7 +277,7 @@
 | [รู้ตัวอีกที](https://open.spotify.com/track/6eAn3ifcCuuVDPwVhOyvDx) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [รู้ตัวอีกที](https://open.spotify.com/album/2CrWjZJNbi0sU4Xp2wpkxm) | 3:25 | 2022-05-26 | 2022-06-17 |
 | [รู้ตัวเมื่อสาย \(Wasn't Right\)](https://open.spotify.com/track/55Kh7kfVOwfheYSHpxBFYl) | [KIN](https://open.spotify.com/artist/1gRcxKiJMYrZX0Zo8s6J2B) | [Adrenaline](https://open.spotify.com/album/2Dgu5NI0GOxT6X9kYio5yL) | 3:53 | 2022-06-16 | 2022-07-02 |
 | [ร้องไห้ดังๆ \(Not A Chance\)](https://open.spotify.com/track/5j7vOGEPZsnigRggWqYQJr) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ร้องไห้ดังๆ \(Not A Chance\)](https://open.spotify.com/album/6YN30I26NVC54hlerjD8k6) | 3:55 | 2022-10-12 | 2022-10-27 |
-| [ร้ายกาจ Lifeguard](https://open.spotify.com/track/4kVNbGOSIcNpkS94R0NYFh) | [EVENING SUNDAY](https://open.spotify.com/artist/0e6n1eAbx8lGdusrlfiOwM) | [ร้ายกาจ Lifeguard](https://open.spotify.com/album/2ZqLx6n3R6m03g1CeMRYlz) | 3:47 | 2023-12-15 |  |
+| [ร้ายกาจ Lifeguard](https://open.spotify.com/track/4kVNbGOSIcNpkS94R0NYFh) | [EVENING SUNDAY](https://open.spotify.com/artist/0e6n1eAbx8lGdusrlfiOwM) | [ร้ายกาจ Lifeguard](https://open.spotify.com/album/2ZqLx6n3R6m03g1CeMRYlz) | 3:47 | 2023-12-15 | 2024-01-12 |
 | [ร้ายก็ได้ \(Don't Mind\)](https://open.spotify.com/track/7myYgpUsnTi9gZ7Q1J6RGH) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [ร้ายก็ได้ \(Don't Mind\) \- Single](https://open.spotify.com/album/4soh1kZrD4soADmcghnh4l) | 2:54 | 2023-11-02 | 2023-11-10 |
 | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/track/5AMYykC6sdveY7NfwHNUm4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/album/4eQhhdfCD27Z4Bqx3J8R23) | 3:44 | 2022-05-26 | 2022-07-24 |
 | [ลองคุย \(TRY\)](https://open.spotify.com/track/4Fengh8aD0M4QLZB21nloU) | [Baby Mic Candy](https://open.spotify.com/artist/77Z7s7XB4PIcoWQIoYK8ww) | [ลองคุย \(TRY\)](https://open.spotify.com/album/0AcOnm6igHeqUYQMtOShIQ) | 3:55 | 2022-11-18 | 2022-12-02 |

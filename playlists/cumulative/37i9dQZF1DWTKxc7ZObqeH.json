@@ -3923,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "A Night with Oscar Peterson",
+        "url": "https://open.spotify.com/album/3b1rFYBBbQkdi6a4IoNUe6"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "The Girl From Ipanema (Garota De Ipanema)",
+      "url": "https://open.spotify.com/track/5dK7scVeamyT7FcEMTMIzo"
+    },
+    {
+      "album": {
         "name": "We Get Requests",
         "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
       },
@@ -3952,7 +3970,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 231826,
       "name": "The Girl From Ipanema (Garota De Ipanema)",
       "url": "https://open.spotify.com/track/6YOo90JX9Yr0iSdgwkTgYL"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ\"> Y'akoto </a>",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP?si=xnTHW-tpR_ql_tcv1TnHjA\"> Darkua </a>",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 148235,
       "name": "Do (The Kids Are Watching)",
       "url": "https://open.spotify.com/track/72HKJ3tTJWao1YZIHUgjSg"
@@ -4006,7 +4006,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 168712,
       "name": "For You",
       "url": "https://open.spotify.com/track/7kwvdtVviGrOFVnxYvxgWa"
@@ -5565,6 +5565,28 @@
     },
     {
       "album": {
+        "name": "If They Are Real",
+        "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "If They Are Real",
+      "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
+    },
+    {
+      "album": {
         "name": "First & Foremost",
         "url": "https://open.spotify.com/album/10psdZIUlDoudXyGSWJzvB"
       },
@@ -6578,6 +6600,24 @@
       "duration_ms": 172950,
       "name": "Lethal",
       "url": "https://open.spotify.com/track/1wSCqDsbq40qjABlTj9e9G"
+    },
+    {
+      "album": {
+        "name": "Lets Get Away",
+        "url": "https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi"
+      },
+      "artists": [
+        {
+          "name": "Magana",
+          "url": "https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225974,
+      "name": "Lets Get Away",
+      "url": "https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL"
     },
     {
       "album": {
@@ -9781,6 +9821,24 @@
     },
     {
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167628,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2pnNn9p4qGkSApyBeMM2Gc"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x"
       },
@@ -10214,7 +10272,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 137680,
       "name": "RESET",
       "url": "https://open.spotify.com/track/2LrdfBR3PVdq4fc4cA4YuA"
@@ -10582,6 +10640,24 @@
       "duration_ms": 142372,
       "name": "Save Your Tears - Cover",
       "url": "https://open.spotify.com/track/0WGl0AtjfkuF0p20MzwEOP"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/2Nd7o5nJy7TyJ1VmEayTu7"
+      },
+      "artists": [
+        {
+          "name": "Darkua",
+          "url": "https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194057,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/1l1rEiJgKtxhadymv38HDn"
     },
     {
       "album": {
@@ -12494,7 +12570,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 163663,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM"

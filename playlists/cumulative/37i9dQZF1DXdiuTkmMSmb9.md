@@ -2,9 +2,9 @@
 
 ### [Afro Fusion](https://open.spotify.com/playlist/37i9dQZF1DXdiuTkmMSmb9)
 
-> Tropical jams to catch a vibe and whine to\. Cover: Wizkid
+> Tropical jams to catch a vibe and whine to\. Cover: Sarz, Asake, Gunna
 
-392 songs - 20 hr 11 min
+393 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [PRINCE AKEEM](https://open.spotify.com/track/1vPhCyISDkijD35w1o7ywY) | [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go) | [DON'T WORRY BOUT IT SWEETHEART \(DELUXE\)](https://open.spotify.com/album/1Nlyw13hIA79ingEOEIG4n) | 2:51 | 2023-06-29 | 2023-08-18 |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-07-18 | 2022-12-02 |
 | [Pumpkin \- Remix](https://open.spotify.com/track/28yPEYKvKjWkoZ3ke39AmG) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Pumpkin \(Remix\)](https://open.spotify.com/album/3dRHBEXer6pGbe1wLd8yle) | 2:47 | 2022-08-25 | 2022-09-09 |
+| [Rambo](https://open.spotify.com/track/77OeofqtNCyKBneFQINTY2) | [Ben Jones](https://open.spotify.com/artist/3Tdc4Os3L5gHDozXuubEcO) | [Rambo](https://open.spotify.com/album/7JKXmF7vfVWHhyGUuBwNeR) | 1:52 | 2024-01-11 |  |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-15 |  |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-05-04 |  |
 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-17 | 2023-09-01 |

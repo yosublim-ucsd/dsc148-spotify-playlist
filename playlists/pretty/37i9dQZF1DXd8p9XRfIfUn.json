@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: El Bogueto",
-  "num_followers": 69356,
+  "num_followers": 69350,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODg5NWRiNDNhMzdmZjE5OTJkMTQ3YzMwNWRkNTkyOTQyYTUzZWYz",
+  "snapshot_id": "MCw3MDRiOWMzYTBlNzE1OTc2ZGQwM2ZkM2U2MzYzMDE4N2E0NmRhNjRm",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Wapo y Mam\u00f3n",
-        "url": "https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Wapo y Mam\u00f3n",
-      "url": "https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Combi Nueva",
         "url": "https://open.spotify.com/album/3DbPnfLURW3fIHfnU2pyhI"
       },
@@ -1243,6 +1227,38 @@
       "duration_ms": 188360,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Pasame la Botella (Remix)",
+        "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        },
+        {
+          "name": "El Maniako The Boost",
+          "url": "https://open.spotify.com/artist/5lwU7m62FDvwm2hnNxfStO"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        }
+      ],
+      "duration_ms": 348013,
+      "name": "Pasame la Botella - Remix",
+      "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126959,
+  "num_followers": 126908,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUxMCw3YjYwMDJkY2QwMTZhMTBjYzA0NGYzMjBlYmRkOTk4NzM3NWZiYzI1",
+  "snapshot_id": "NDUxMiw2NjMyZTFhOTNkMTRlMmFjMGYwODUzM2M1NmI1M2ZjZDU2N2ZhM2Zm",
   "tracks": [
+    {
+      "added_at": "2024-01-11 18:01:02",
+      "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "dabl",
+          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
+        }
+      ],
+      "duration_ms": 196645,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig"
+    },
     {
       "added_at": "2024-01-10 14:43:12",
       "album": {
@@ -1123,26 +1143,6 @@
       "duration_ms": 157265,
       "name": "WAR",
       "url": "https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC"
-    },
-    {
-      "added_at": "2023-09-27 15:31:17",
-      "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/5NVU2QOuSudlGQhAZvlXKP"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        },
-        {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Justify",
-      "url": "https://open.spotify.com/track/61MeDNHGrA6WlaufVFebKC"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

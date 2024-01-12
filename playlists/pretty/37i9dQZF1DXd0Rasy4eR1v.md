@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Freshest of Pakistani discoveries\. Cover \- AUR
+> Freshest of Pakistani discoveries\. Cover \- Zeeshan Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,442 likes - 58 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,452 likes - 58 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
-| 2 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 |
-| 3 | [Dukh](https://open.spotify.com/track/1wvuVM4fOXU1TKvBJlSf64) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Dukh](https://open.spotify.com/album/0yrEDpjRcq8UV2rVDz6RQG) | 4:36 |
-| 4 | [Faithless](https://open.spotify.com/track/4UGTkKP8QENtNhKAWH6ys5) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Faithless](https://open.spotify.com/album/6lFAXr2v23txmFqjKlJRQG) | 3:43 |
-| 5 | [Absent](https://open.spotify.com/track/3QfYGmwgdT7B0h9Iy1jop0) | [TAHIR ABBAS](https://open.spotify.com/artist/4mBS6YbM7OV0XNIfwxaOpX) | [Absent](https://open.spotify.com/album/6qrBwieNtLtsZznNMu4PrX) | 3:09 |
-| 6 | [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 |
-| 7 | [Farzi](https://open.spotify.com/track/7gPW8y7DH08zvh1hlppkPe) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Farzi](https://open.spotify.com/album/74MsCeAfiK6697UL8n6yiH) | 3:07 |
+| 1 | [Dukh](https://open.spotify.com/track/1wvuVM4fOXU1TKvBJlSf64) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Dukh](https://open.spotify.com/album/0yrEDpjRcq8UV2rVDz6RQG) | 4:36 |
+| 2 | [Faithless](https://open.spotify.com/track/4UGTkKP8QENtNhKAWH6ys5) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Faithless](https://open.spotify.com/album/6lFAXr2v23txmFqjKlJRQG) | 3:43 |
+| 3 | [Absent](https://open.spotify.com/track/3QfYGmwgdT7B0h9Iy1jop0) | [TAHIR ABBAS](https://open.spotify.com/artist/4mBS6YbM7OV0XNIfwxaOpX) | [Absent](https://open.spotify.com/album/6qrBwieNtLtsZznNMu4PrX) | 3:09 |
+| 4 | [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 |
+| 5 | [Farzi](https://open.spotify.com/track/7gPW8y7DH08zvh1hlppkPe) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Farzi](https://open.spotify.com/album/74MsCeAfiK6697UL8n6yiH) | 3:07 |
+| 6 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
+| 7 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 |
 | 8 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 |
 | 9 | [Hai Qubool \(Dastakhat\)](https://open.spotify.com/track/5eRWQoC3Df2OmlZho4F7Y5) | [Adeel Ahmed](https://open.spotify.com/artist/4EggOBj94wNxaWXlKP2LaL) | [Hai Qubool \(Dastakhat\)](https://open.spotify.com/album/0Rjmymp1ocoIalgTtVntfb) | 2:22 |
 | 10 | [Par Tum Aaey Nahi](https://open.spotify.com/track/6aPDRyhFFkH1t6fPBmuUOs) | [The Haider](https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr) | [Par Tum Aaey Nahi](https://open.spotify.com/album/5dXgjlBEAy2fqR4lnQzFik) | 2:35 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 57 | [Gareeb Ka Bar](https://open.spotify.com/track/4L1dMJZvf70ULIdLT2yTPq) | [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv) | [Gareeb Ka Bar](https://open.spotify.com/album/1dPskfEvAix6d4tChcuWiC) | 2:47 |
 | 58 | [Raatain](https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x) | [Raatain](https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc) | 2:06 |
 
-Snapshot ID: `MCwyM2I2OGU0ZjgxOGNhOTM5NGIxYzRkYWNkNWM4OTEzMjBjZmNkYmJi`
+Snapshot ID: `MCw0Mjk4ZDBjNzI3NGU0YWJhNDBjZTMzOGM2N2IxNzI0MmJiMWRmMGM0`

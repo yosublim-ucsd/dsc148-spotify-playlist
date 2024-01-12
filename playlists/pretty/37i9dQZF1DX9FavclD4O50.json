@@ -1,12 +1,12 @@
 {
   "description": "Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument. Clara Rockmore on cover.",
-  "num_followers": 3173,
+  "num_followers": 3177,
   "original_name": "theremin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWMzM2VjMTMzYTI5M2Y1Y2IwODQ0ZjY4ZTQ2Y2JkZmYxYTNmMWFi",
+  "snapshot_id": "MCwyZmI5MTJlNjFlZGJhYjA0NjU3ZTk5YTkzYzZiMmY4NzNkMTQ4YjZl",
   "tracks": [
     {
       "added_at": "2021-08-17 02:35:20",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremin Vox Collection Vol.1",
-        "url": "https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu"
+        "name": "Music from the Ether: Original Works for Theremin",
+        "url": "https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE"
       },
       "artists": [
         {
-          "name": "Masami Takeuchi",
-          "url": "https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq"
+          "name": "Vladimir Komarov",
+          "url": "https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ"
+        },
+        {
+          "name": "Lydia Kavina",
+          "url": "https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv"
         }
       ],
-      "duration_ms": 182416,
-      "name": "\u8352\u57ce\u306e\u6708",
-      "url": "https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV"
+      "duration_ms": 527173,
+      "name": "Voice of Theremin",
+      "url": "https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49"
     }
   ],
   "unique_name": "theremin",

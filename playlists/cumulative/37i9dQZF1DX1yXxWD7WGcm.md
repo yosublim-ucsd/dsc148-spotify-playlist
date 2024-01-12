@@ -4,7 +4,7 @@
 
 > Les classiques du zouk\. Photo : Fanny J
 
-56 songs - 3 hr 56 min
+57 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Laisse parler les gens](https://open.spotify.com/track/3L3XmqvdOZiCoqpfASyoYh) | [Jocelyne Labylle](https://open.spotify.com/artist/6wWz1xebbpDxpRH7BniPwW), [Cheela](https://open.spotify.com/artist/3kWQOU1cd1vJXytVoWgJhy), [Jacob Desvarieux](https://open.spotify.com/artist/3rF9KKd6aPZvLa2NbQsiKH), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [An ti fanm Gwada](https://open.spotify.com/album/3Dy9RKhFkzhpFvVr7ORSc6) | 3:21 | 2023-03-23 |  |
 | [Le coup de soleil](https://open.spotify.com/track/1bL91d7y9VN31swIJEMCjl) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq) | [Mon univers](https://open.spotify.com/album/0McSv4UTXCH3oM77aL6kOq) | 4:26 | 2023-03-23 | 2023-12-02 |
 | [Lovinjitis \(Remix\)](https://open.spotify.com/track/2CsaAimiEwtki5Q5rZPimf) | [Wizboyy](https://open.spotify.com/artist/6eTEMo2irgozfqcK4dEUeE), [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Teeyah](https://open.spotify.com/artist/11N8QdhYGEkvG1WBEhNZ3O) | [Change Over](https://open.spotify.com/album/3BS0hRi3CN2SK3fcD07B65) | 4:38 | 2023-03-23 |  |
-| [Lè ou lov](https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld) | [Jean\-Michel Rotin](https://open.spotify.com/artist/11DvnOgfRFa9QTAnM8VbXo) | [Viens zouker, vol\. 5](https://open.spotify.com/album/4frSY8kCNasO8e5xmlT6WM) | 3:58 | 2023-03-23 |  |
+| [Lè ou lov](https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld) | [Jean\-Michel Rotin](https://open.spotify.com/artist/11DvnOgfRFa9QTAnM8VbXo) | [Viens zouker, vol\. 5](https://open.spotify.com/album/4frSY8kCNasO8e5xmlT6WM) | 3:58 | 2023-03-23 | 2024-01-12 |
+| [Lé ou lov'](https://open.spotify.com/track/117YPw9g56mMbnVbP8Z4tw) | [Jean\-Michel Rotin](https://open.spotify.com/artist/11DvnOgfRFa9QTAnM8VbXo) | [Une histoire de musique : History Groov](https://open.spotify.com/album/3HyB1RT37OKvsD2glcPuhm) | 3:58 | 2023-12-01 |  |
 | [Ma Reine \(Version Zouk\)](https://open.spotify.com/track/0xdigvJSNF5wrS8jxnBV9N) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [Ma Reine \(Version Zouk\)](https://open.spotify.com/album/5Z9yduOdAshhQFvjYogVTL) | 3:58 | 2023-03-23 |  |
 | [Ma vie sans toi](https://open.spotify.com/track/3vrjFilXfC0P53dOO15GIC) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Mes couleurs](https://open.spotify.com/album/7LE9C4LvYfBU6imab1TcMa) | 4:03 | 2023-03-23 |  |
 | [Maldòn \- Version originale](https://open.spotify.com/track/6YoBe1FqFL5w10bQbemW16) | [Zouk Machine](https://open.spotify.com/artist/7g4xlENR9dJm09i7ADhi21) | [Maldòn \(La musique dans la peau\)](https://open.spotify.com/album/7zrPW2t1vhy9fjOfopjQYN) | 4:05 | 2023-03-23 |  |

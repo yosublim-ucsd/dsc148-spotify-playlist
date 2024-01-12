@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL?si=aqRBYglrTTmXsoyZseKptw\">Henrisoul</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ?si=vie3G8x9RyWUY7hV9nricQ\">Sal Ly</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -2302,6 +2302,24 @@
       "duration_ms": 136056,
       "name": "Dear Father",
       "url": "https://open.spotify.com/track/3sgLZ9XrLCR2RBDxzfI3rm"
+    },
+    {
+      "album": {
+        "name": "Deliver Me",
+        "url": "https://open.spotify.com/album/5wIblLd3K3NNQ1PCAsEjV7"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216352,
+      "name": "Deliver Me",
+      "url": "https://open.spotify.com/track/5frHrrS1f3fLccLtJNw7Xv"
     },
     {
       "album": {
@@ -7897,6 +7915,24 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/2zhTFff14LRMDmYPC3WVhi"
+      },
+      "artists": [
+        {
+          "name": "Password",
+          "url": "https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM"
+    },
+    {
+      "album": {
         "name": "Oil Dey My Head (ODMH)",
         "url": "https://open.spotify.com/album/15yFu2Ygo8t87Kc2SNY8cB"
       },
@@ -8945,6 +8981,28 @@
     },
     {
       "album": {
+        "name": "Refine Me",
+        "url": "https://open.spotify.com/album/1mxg4nnwHYyZ5x2GxVvTAa"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "KIMAH",
+          "url": "https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119516,
+      "name": "Refine Me",
+      "url": "https://open.spotify.com/track/4WUliKC5cjJCFBxryBovip"
+    },
+    {
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/63C1WsLa9DWwtZx2xCTT1X"
       },
@@ -9597,6 +9655,24 @@
     },
     {
       "album": {
+        "name": "Standing",
+        "url": "https://open.spotify.com/album/1ea6xvfavGW8lf3Nlctwdm"
+      },
+      "artists": [
+        {
+          "name": "Uwa",
+          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Standing",
+      "url": "https://open.spotify.com/track/2W45FB4UIiwvqncPorC8vH"
+    },
+    {
+      "album": {
         "name": "Stay with Me",
         "url": "https://open.spotify.com/album/6RVjIyy8mtCOMHqERrnKEF"
       },
@@ -9914,6 +9990,32 @@
       "duration_ms": 155400,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
+    },
+    {
+      "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/3n4sFd0Yb6eHm1YVgALvXB"
+      },
+      "artists": [
+        {
+          "name": "Uchenna",
+          "url": "https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez"
     },
     {
       "album": {
@@ -10932,6 +11034,28 @@
       "duration_ms": 129000,
       "name": "Working In Me",
       "url": "https://open.spotify.com/track/4NrPDnJAh7oM2dQ1qcFYkJ"
+    },
+    {
+      "album": {
+        "name": "Worry About Nothing",
+        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204975,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
       "album": {

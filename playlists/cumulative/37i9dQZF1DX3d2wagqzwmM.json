@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "All Around The World (La La La La La)",
+        "url": "https://open.spotify.com/album/0Y8Eqjhf8X11esnBPRXpp7"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "All Around The World (La La La La La)",
+      "url": "https://open.spotify.com/track/6m4wKDh7iIqfgKRbrIPbz9"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj"
       },
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 97142,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT"
@@ -1619,6 +1637,32 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4WX2ORRvgvCCckSwgIliZd"
+      },
+      "artists": [
+        {
+          "name": "Juicy M",
+          "url": "https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6"
+        },
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "\u00c6LINN",
+          "url": "https://open.spotify.com/artist/6NsKMikdjKAce0fFJ7xvkw"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151363,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2uUCwUtdTzNda7D4y3W9RW"
+    },
+    {
+      "album": {
         "name": "Desperados",
         "url": "https://open.spotify.com/album/2RAmbNzSxiLvTviNhN3Txi"
       },
@@ -2024,7 +2068,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 185600,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A"
@@ -4057,6 +4101,28 @@
     },
     {
       "album": {
+        "name": "Make It Count",
+        "url": "https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Just_us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213327,
+      "name": "Make It Count",
+      "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
+    },
+    {
+      "album": {
         "name": "Make It Louder",
         "url": "https://open.spotify.com/album/1TyjMtZ1ZtzBc8hoqHHVip"
       },
@@ -5360,7 +5426,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 172700,
       "name": "Party Everyday",
       "url": "https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA"
@@ -5526,7 +5592,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 167460,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/5skiAxLWcY6CgiBBD3Ciyz"
@@ -6876,6 +6942,32 @@
       "duration_ms": 233587,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"
+    },
+    {
+      "album": {
+        "name": "Spiritum",
+        "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193528,
+      "name": "Spiritum",
+      "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
     },
     {
       "album": {

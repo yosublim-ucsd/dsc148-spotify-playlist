@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-310 songs - 1 day 1 hr 55 min
+311 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Perfidia \(feat\. Rose Max\)](https://open.spotify.com/track/289sCZRDXphyoRtkdCaxqw) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C), [Rose Max](https://open.spotify.com/artist/62j1XayHOw7rm9D0whDnVl) | [New Era](https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya) | 5:17 | 2021-12-09 | 2022-11-13 |
 | [Piscis](https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:34 | 2023-03-15 |  |
 | [Poinciana](https://open.spotify.com/track/1rxhAnn7mZAUwytVbBOLS3) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n) | 5:47 | 2021-12-09 | 2023-12-23 |
+| [Poinciana](https://open.spotify.com/track/41yKDBimCZAZiJN6u5YK2L) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/5gaFRux02LGMzIf71qegbl) | 5:47 | 2023-08-28 |  |
 | [Pretty World](https://open.spotify.com/track/0DEMZrWjiUNSpV75Msap7M) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [The Greatest Hits Of Sergio Mendes And Brasil '66](https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P) | 3:17 | 2022-08-31 | 2022-11-13 |
 | [Que Bonita Bandera](https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH) | [Stretch And Bobbito](https://open.spotify.com/artist/4gFujhX9cvrVpq2U5hOAQj), [The M19s Band](https://open.spotify.com/artist/4XjdMgBFds1IcaeshYjDgE), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL), [Jeimy Osorio](https://open.spotify.com/artist/7HNDChAMfH5OKlcFHUJrBv), [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [Que Bonita Bandera](https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9) | 4:50 | 2021-12-09 |  |
 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 | 2021-12-09 | 2023-03-16 |
@@ -250,7 +251,7 @@
 | [Scarborough Fair](https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [The Greatest Hits Of Sergio Mendes And Brasil '66](https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P) | 3:21 | 2021-12-09 |  |
 | [Se E Tarde, Me Perdoa](https://open.spotify.com/track/4WuM7C9XtbjcQPzNbM2Pk9) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 2:50 | 2021-12-09 | 2022-07-24 |
 | [Se E Tarde, Me Perdoa](https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Plays The Contemporary Music Of Mexico And Brazil](https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo) | 2:50 | 2022-08-31 |  |
-| [Se Te Olvida \(La Mentira\) / Sabor A Mi](https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP) | [Vanessa Perea](https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5) | [Se Te Olvida \(La Mentira\) / Sabor A Mi](https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40) | 5:53 | 2023-08-28 |  |
+| [Se Te Olvida \(La Mentira\) / Sabor A Mi](https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP) | [Vanessa Perea](https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5) | [Se Te Olvida \(La Mentira\) / Sabor A Mi](https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40) | 5:53 | 2023-08-28 | 2024-01-12 |
 | [Sería Una Pena](https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl) | [Pete Perignon](https://open.spotify.com/artist/1E4i7we9SQzGSyzoMh53RX), [Jeremy Bosch](https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD) | [Sería Una Pena](https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr) | 4:21 | 2022-07-26 | 2022-11-14 |
 | [Seven Steps To Heaven](https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 2:11 | 2021-12-09 |  |
 | [Si Tu Supieras](https://open.spotify.com/track/4zlNld3hi3hJaofNa02t0o) | [Joel Hierrezuelo](https://open.spotify.com/artist/5is0ekUanJcudSxgNsqxhl), [Pierre De Bethmann](https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2), [Felipe Cabrera](https://open.spotify.com/artist/4dUUZTPOISpCJRadklHYuv), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv) | [Asi de Simple](https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV) | 6:00 | 2021-12-09 | 2023-04-18 |

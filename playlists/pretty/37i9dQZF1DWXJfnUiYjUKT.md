@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,629 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,589 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 5 | [Good Intentions](https://open.spotify.com/track/29CGhjmcFBSC7D2zOwBNB5) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Good Intentions](https://open.spotify.com/album/3oEnNyKuyAZuKYoEAoX6YV) | 2:36 |
 | 6 | [P Fiction](https://open.spotify.com/track/3xLdrEayToxw9iPP45dl5t) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Paisley Dreams](https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS) | 3:25 |
 | 7 | [Apocalipsis](https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [RealG4Life Vol\. 4](https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx) | 2:23 |
-| 8 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [B HAM](https://open.spotify.com/artist/0pfOqJLCEaTlaiAZ7P4p5A), [Corey Cooper](https://open.spotify.com/artist/5JAROdWMgMH5zJjtE4AojW) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
+| 8 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 | 9 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 |
 | 10 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
 | 11 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 94 | [THE ANGEL IN THE SOUND](https://open.spotify.com/track/645X2TEySTA8mWUZOSp3VL) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [THE ANGEL IN THE SOUND](https://open.spotify.com/album/06h9yuZQNJYeLfe83CHRZY) | 3:18 |
 | 95 | [Fred Perry Girl](https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Fred Perry Girl](https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d) | 2:59 |
 | 96 | [bach \(God the Father in Eternity\)](https://open.spotify.com/track/3bbByZNj0PTEeVjBVRqW3G) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [bach \(God the Father in Eternity\)](https://open.spotify.com/album/112mfBtPfKiBSH0zyzz4oL) | 8:40 |
-| 97 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw) | 4:32 |
+| 97 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/6hOGZCEgzOEULm4lXk9SS2) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/60bBNV9rQfhoD8YnfbWTIq) | 4:32 |
 | 98 | [You're my heart](https://open.spotify.com/track/3CaaXDUncFQbGLgq5hrnYo) | [Beach Cowboys](https://open.spotify.com/artist/4fFR4MFp1iaTkBhRe27u3Z) | [You're my heart](https://open.spotify.com/album/5Q0iCV92mLpyXcQTKupyiK) | 3:54 |
 | 99 | [Maybe In The Summer](https://open.spotify.com/track/7foJ5hOQ0i4oJbgtjdUa0w) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Maybe In The Summer](https://open.spotify.com/album/349cHC0kfEg2nf5ixElOed) | 2:29 |
 | 100 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 |
 
-Snapshot ID: `MCwyN2ZjNGQxZTIzYmI3NzYxZDM1OWJiNmY2YTVhNTllZjA4Y2Q0MDQy`
+Snapshot ID: `MCwxNTJhZmFkMGIxZTU2YmJiYzg2YWI2YmU3OWQwZTQ0MTNiMzk3ODJh`

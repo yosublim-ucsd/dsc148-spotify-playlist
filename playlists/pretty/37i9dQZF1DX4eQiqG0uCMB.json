@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 27017,
+  "num_followers": 27044,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzg3ZTg5MzViMGIyODFhMjNiNGNjNWQyZTA5MTA0ZDdiMDMyMmM4",
+  "snapshot_id": "MCwyMmRhN2E1NTFiNmU4NWI3ZDkyNWZjYzUyNGRkNmYzM2IxZmI5NTE4",
   "tracks": [
     {
       "added_at": "2024-01-08 11:57:10",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-01-08 11:57:10",
       "album": {
+        "name": "Toxic Love Story (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
+      },
+      "artists": [
+        {
+          "name": "Jontae",
+          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Toxic Love Story - Acoustic Version",
+      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
+    },
+    {
+      "added_at": "2024-01-08 11:57:10",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 210346,
       "name": "Common Person",
       "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
-    },
-    {
-      "added_at": "2024-01-08 11:57:10",
-      "album": {
-        "name": "Toxic Love Story (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
-      },
-      "artists": [
-        {
-          "name": "Jontae",
-          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Toxic Love Story - Acoustic Version",
-      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
     },
     {
       "added_at": "2024-01-08 11:57:10",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-01-08 11:57:10",
       "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
       "added_at": "2024-01-08 11:57:10",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-01-08 11:57:10",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2024-01-08 11:57:10",

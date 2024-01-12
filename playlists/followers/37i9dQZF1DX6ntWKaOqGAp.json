@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 232547,
+  "2024-01-12": 232521,
   "date_first_scraped": "2023-01-14",
   "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: PEOPLE 1",
   "name": "J-Rock Now",
@@ -4994,6 +4994,24 @@
     },
     {
       "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/6H4Xeb4atKRrpojmtfiS3g"
+      },
+      "artists": [
+        {
+          "name": "Flying Kids",
+          "url": "https://open.spotify.com/artist/7okQeABLQpbyFXz1L9sTpd"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278587,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/4AadyyEVbQuhLV9FggUJPj"
+    },
+    {
+      "album": {
         "name": "JOHJI",
         "url": "https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt"
       },
@@ -8734,6 +8752,28 @@
     },
     {
       "album": {
+        "name": "SCREAM feat. Matsuo Remi",
+        "url": "https://open.spotify.com/album/17WqxkV1OdxdkUMg6ZaxGZ"
+      },
+      "artists": [
+        {
+          "name": "THE BAWDIES",
+          "url": "https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F"
+        },
+        {
+          "name": "Matsuo Remi",
+          "url": "https://open.spotify.com/artist/5vh7AkRVPMGrasDdho8UKp"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "SCREAM feat. Matsuo Remi",
+      "url": "https://open.spotify.com/track/6Q7cR3yBtqtfc679R9K8ON"
+    },
+    {
+      "album": {
         "name": "SCREAM feat. \u677e\u5c3e\u30ec\u30df",
         "url": "https://open.spotify.com/album/7pqJDusrGfWDA3CN9IWUQe"
       },
@@ -8749,7 +8789,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 222333,
       "name": "SCREAM feat. \u677e\u5c3e\u30ec\u30df",
       "url": "https://open.spotify.com/track/3s4buH4DNUePMsQofMRDSE"
@@ -8900,6 +8940,24 @@
     },
     {
       "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/1SfH4Io6Q518rAV3rmqoU1"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239970,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/10sPBoUKctG07bmRmhgcr6"
+    },
+    {
+      "album": {
         "name": "SHAKE",
         "url": "https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe"
       },
@@ -8911,7 +8969,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 239970,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
@@ -9740,6 +9798,24 @@
     },
     {
       "album": {
+        "name": "Sugoi Ai no Kotoba",
+        "url": "https://open.spotify.com/album/2GMxtLjEQooXPkPauHoW4y"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248853,
+      "name": "Sugoi Ai no Kotoba",
+      "url": "https://open.spotify.com/track/7outFZqATBx2c1Ly0XnjVt"
+    },
+    {
+      "album": {
         "name": "Sukijanaiyo",
         "url": "https://open.spotify.com/album/6ZkWBopcFVcuB2K8Gxj8r7"
       },
@@ -9841,10 +9917,28 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 231066,
       "name": "Super Express",
       "url": "https://open.spotify.com/track/2gM7IqtIFSU7M9KHwQlUHV"
+    },
+    {
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/3eOZSTk2k4cT874YBeanry"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231066,
+      "name": "Super Express",
+      "url": "https://open.spotify.com/track/3GlRLcA7sxJu6HtGH9CrAE"
     },
     {
       "album": {
@@ -10115,6 +10209,24 @@
       "duration_ms": 186520,
       "name": "Tears",
       "url": "https://open.spotify.com/track/5zYWxTEMDeydXj9Q4wZPSf"
+    },
+    {
+      "album": {
+        "name": "TENGOKUKAIDO",
+        "url": "https://open.spotify.com/album/5I5qUPmsIqYhpU0TZQkCI3"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "TENGOKUKAIDO",
+      "url": "https://open.spotify.com/track/2gY1SkSuWOGMKrbOZyHJdt"
     },
     {
       "album": {
@@ -10428,6 +10540,24 @@
     },
     {
       "album": {
+        "name": "Lonely Paradox",
+        "url": "https://open.spotify.com/album/3cUllXtHAkPuR9VTWz0OGg"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248098,
+      "name": "Tomodachi",
+      "url": "https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9"
+    },
+    {
+      "album": {
         "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
       },
@@ -10439,7 +10569,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 248098,
       "name": "TOMODACHI",
       "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
@@ -12179,7 +12309,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 278587,
       "name": "\u3058\u3083\u30fc\u306d",
       "url": "https://open.spotify.com/track/5DaC0EKHr7jwKusXnqurXc"
@@ -12197,7 +12327,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 248853,
       "name": "\u3059\u3054\u3044\u611b\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/5ARQXSHZ8kXCASUNloJR69"
@@ -17623,7 +17753,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 222666,
       "name": "\u5929\u56fd\u8857\u9053",
       "url": "https://open.spotify.com/track/6svY2OYpwFRP7UJwfzlaof"

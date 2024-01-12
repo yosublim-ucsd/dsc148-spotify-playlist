@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 15468,
+  "num_followers": 15478,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFlZDA4NGY4YjY0ZDAwMWVjNGMxOWVkYjRkNzE5MGMxY2ZkODQz",
+  "snapshot_id": "MCxiYWYwNWZmMmFiMzNlMjVjYTkxMjdjZDk4YTdkNzJiNjE2NTk5N2Ji",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
-      },
-      "artists": [
-        {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "Siempre Acampa",
-      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 141000,
       "name": "TRECE",
       "url": "https://open.spotify.com/track/6KlyjmAKmTzXdxhzA6DAh3"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+      },
+      "artists": [
+        {
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "Siempre Acampa",
+      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -223,18 +223,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
       "artists": [
         {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 173293,
-      "name": "Escafandra",
-      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
+      "duration_ms": 191000,
+      "name": "MATE",
+      "url": "https://open.spotify.com/track/6gmGCkSs5AA0FWwI2poY9Z"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -271,18 +271,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
         }
       ],
-      "duration_ms": 191000,
-      "name": "MATE",
-      "url": "https://open.spotify.com/track/6gmGCkSs5AA0FWwI2poY9Z"
+      "duration_ms": 173293,
+      "name": "Escafandra",
+      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
     },
     {
       "added_at": "2020-03-13 13:21:28",

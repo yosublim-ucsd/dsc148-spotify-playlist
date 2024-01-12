@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 227225,
       "name": "APEX",
       "url": "https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE"
@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "I'll go first, sorry",
+        "url": "https://open.spotify.com/album/2iqvVaNNtKCxEWKc9m3Xlz"
+      },
+      "artists": [
+        {
+          "name": "ALMONDot",
+          "url": "https://open.spotify.com/artist/5uijk6q2ZtAEm4K0pWZLdh"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182629,
+      "name": "I'll go first, sorry",
+      "url": "https://open.spotify.com/track/0sx8nNfNy3c6GYF77ptRwX"
+    },
+    {
+      "album": {
         "name": "\u544a\u767d",
         "url": "https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ"
       },
@@ -2144,6 +2162,24 @@
       "duration_ms": 229000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/52nVvFvwMUrX88UpFcZcl4"
+    },
+    {
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K"
+      },
+      "artists": [
+        {
+          "name": "Sable Hills",
+          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244288,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa"
     },
     {
       "album": {
@@ -3944,7 +3980,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 222479,
       "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
       "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
@@ -3980,7 +4016,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"

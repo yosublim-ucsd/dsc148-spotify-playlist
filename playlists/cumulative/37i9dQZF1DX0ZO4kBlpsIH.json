@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Comme je te disais",
+        "url": "https://open.spotify.com/album/0Kv07HzslMBTmh9dWPXHQg"
+      },
+      "artists": [
+        {
+          "name": "Cordeone",
+          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133173,
+      "name": "Comme je te disais",
+      "url": "https://open.spotify.com/track/2RciaGAEtLJk8u4LoCt9Zg"
+    },
+    {
+      "album": {
         "name": "Coquette",
         "url": "https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp"
       },
@@ -1846,6 +1864,24 @@
       "duration_ms": 234508,
       "name": "Le Printemps Me Manque",
       "url": "https://open.spotify.com/track/3sL8PRW9gZHGVqJiuBWnrJ"
+    },
+    {
+      "album": {
+        "name": "Le Vieux Moulin",
+        "url": "https://open.spotify.com/album/5t2X4RIkdsCrFMshfr3g6N"
+      },
+      "artists": [
+        {
+          "name": "Bateau Mouche",
+          "url": "https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "Le Vieux Moulin",
+      "url": "https://open.spotify.com/track/0gIYlhqKe0h8LRSOKMerU3"
     },
     {
       "album": {

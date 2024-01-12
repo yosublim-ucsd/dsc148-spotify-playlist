@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/3XoGsRn2xcL43iRKys8BTG"
+      },
+      "artists": [
+        {
+          "name": "Addy Ace",
+          "url": "https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "At Ease",
+      "url": "https://open.spotify.com/track/29lEQ7rsyme07uwxvyslVV"
+    },
+    {
+      "album": {
         "name": "Back to Summer",
         "url": "https://open.spotify.com/album/585JNE5aaruJLObK5M6Srj"
       },

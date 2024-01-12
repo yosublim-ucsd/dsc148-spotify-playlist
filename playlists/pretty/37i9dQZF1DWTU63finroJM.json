@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Yam\u00ea.",
-  "num_followers": 58337,
+  "num_followers": 58364,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDM3NTQ1OGQ5M2UxMjc1ZjZiZGU4NmQyOGVjM2NkOWViMjVhZWVk",
+  "snapshot_id": "MCwxYWRjZTdjYmI1YzBhMWJkYmY1YzQ3MTVjNWFiMmIxYzg4MWYyMDg4",
   "tracks": [
     {
       "added_at": "2023-10-05 08:01:42",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh"
     },
     {
-      "added_at": "2023-05-31 05:25:44",
-      "album": {
-        "name": "Del Corazon",
-        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 245201,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
-    },
-    {
       "added_at": "2023-08-18 06:00:00",
       "album": {
         "name": "SUN7",
@@ -527,6 +511,22 @@
       "duration_ms": 147692,
       "name": "SENSATION",
       "url": "https://open.spotify.com/track/0pIWSS7xmChrYzfNFEfdzn"
+    },
+    {
+      "added_at": "2023-05-31 05:25:44",
+      "album": {
+        "name": "Del Corazon",
+        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 245201,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
     },
     {
       "added_at": "2023-12-07 06:00:00",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/3XfngyuVjltVRHSsLjrCRO"
     },
     {
-      "added_at": "2023-09-01 09:20:13",
-      "album": {
-        "name": "Khamakhaa",
-        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
-      },
-      "artists": [
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
-        }
-      ],
-      "duration_ms": 179210,
-      "name": "Khamakhaa",
-      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
-    },
-    {
       "added_at": "2023-11-10 06:00:00",
       "album": {
         "name": "La loi du papillon",
@@ -999,6 +983,22 @@
       "duration_ms": 177266,
       "name": "La loi du papillon",
       "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
+    },
+    {
+      "added_at": "2023-09-01 09:20:13",
+      "album": {
+        "name": "Khamakhaa",
+        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "duration_ms": 179210,
+      "name": "Khamakhaa",
+      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
     },
     {
       "added_at": "2023-11-23 06:00:00",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 94925,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "Born To Win",
@@ -1087,6 +1071,22 @@
       "duration_ms": 251076,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 94925,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc"
     },
     {
       "added_at": "2023-12-01 06:29:10",
@@ -1409,26 +1409,6 @@
       "url": "https://open.spotify.com/track/5JZ5UvqUP7Rgip7jqBXQX6"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Una Cumbia Triste",
-        "url": "https://open.spotify.com/album/5HmM3U9Y5OIoloBfHAbza6"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "La Autorizaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "Una Cumbia Triste",
-      "url": "https://open.spotify.com/track/0aZTEC8uIFXLJpkYRby45Y"
-    },
-    {
       "added_at": "2023-06-09 08:10:55",
       "album": {
         "name": "Soul,PRESENT",
@@ -1459,6 +1439,26 @@
       "duration_ms": 282857,
       "name": "\u00c1nh \u0110\u00e8n Ph\u1ed1",
       "url": "https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Una Cumbia Triste",
+        "url": "https://open.spotify.com/album/5HmM3U9Y5OIoloBfHAbza6"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Autorizaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "Una Cumbia Triste",
+      "url": "https://open.spotify.com/track/0aZTEC8uIFXLJpkYRby45Y"
     },
     {
       "added_at": "2023-10-11 14:30:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-05-30 12:45:30",
       "album": {
+        "name": "Breaking Bad",
+        "url": "https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw"
+      },
+      "artists": [
+        {
+          "name": "VXON",
+          "url": "https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7"
+        }
+      ],
+      "duration_ms": 231103,
+      "name": "Breaking Bad",
+      "url": "https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
         "name": "Th\u1ebf Gi\u1edbi C\u1ee7a Em",
         "url": "https://open.spotify.com/album/0SkClw8Gjjd9EotloigIVT"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 216987,
       "name": "Th\u1ebf Gi\u1edbi C\u1ee7a Em",
       "url": "https://open.spotify.com/track/24DVKr1495WzRv1lNOlvRz"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Breaking Bad",
-        "url": "https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw"
-      },
-      "artists": [
-        {
-          "name": "VXON",
-          "url": "https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7"
-        }
-      ],
-      "duration_ms": 231103,
-      "name": "Breaking Bad",
-      "url": "https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -1713,6 +1713,22 @@
       "url": "https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73"
     },
     {
+      "added_at": "2023-06-09 08:10:55",
+      "album": {
+        "name": "Naakay",
+        "url": "https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        }
+      ],
+      "duration_ms": 158625,
+      "name": "Naakay",
+      "url": "https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA"
+    },
+    {
       "added_at": "2023-10-13 06:00:00",
       "album": {
         "name": "Esta Vez Fui Yo",
@@ -1731,22 +1747,6 @@
       "duration_ms": 177624,
       "name": "Esta Vez Fui Yo",
       "url": "https://open.spotify.com/track/57KSIZ2Sl7XyWySNlBbTdP"
-    },
-    {
-      "added_at": "2023-06-09 08:10:55",
-      "album": {
-        "name": "Naakay",
-        "url": "https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb"
-      },
-      "artists": [
-        {
-          "name": "Taha G",
-          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
-        }
-      ],
-      "duration_ms": 158625,
-      "name": "Naakay",
-      "url": "https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -1881,22 +1881,6 @@
       "url": "https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "TRIPPIN",
-        "url": "https://open.spotify.com/album/0r9CWKeNllgadGS079yej4"
-      },
-      "artists": [
-        {
-          "name": "DEREK DALI",
-          "url": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "TRIPPIN",
-      "url": "https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "LOOK AT ME",
@@ -1919,6 +1903,22 @@
       "duration_ms": 193000,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/0r9CWKeNllgadGS079yej4"
+      },
+      "artists": [
+        {
+          "name": "DEREK DALI",
+          "url": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS"
     },
     {
       "added_at": "2023-07-13 12:32:20",

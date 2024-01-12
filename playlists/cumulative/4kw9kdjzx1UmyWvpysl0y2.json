@@ -3317,6 +3317,28 @@
     },
     {
       "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "dabl",
+          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196645,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig"
+    },
+    {
+      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz"
       },
@@ -5876,7 +5898,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 251250,
       "name": "Justify",
       "url": "https://open.spotify.com/track/61MeDNHGrA6WlaufVFebKC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with VNSSA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,009,341 likes - 74 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,449 likes - 74 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 73 | [Tigh Pop](https://open.spotify.com/track/54oQyfr7as59L7u4yvHS3H) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Tigh Pop](https://open.spotify.com/album/3yQOXiQZJVFSyovlXUhulQ) | 4:13 |
 | 74 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 |
 
-Snapshot ID: `MCw5NjAyODAwZmQ1MWRjYTE2NGMxNThhNDE2ZjUyNWY2YmEwYTg3NmMx`
+Snapshot ID: `MCwzODc3NmEwN2M3MmJhNWIyNTdkYTY5NjM5YTM2ZDI4NTI2OTU2ZGE2`

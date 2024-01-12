@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 189217,
+  "num_followers": 189232,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTFlMDdiNTJiZDU1MzJlNWM4NTdlODgwOGMxNTMzM2E4MDUzMDA1",
+  "snapshot_id": "MCwyNzQ1ZjMxOWZkYTg4NzM5ZDQxY2NkZGU3Y2FlOWVlMWZiMWYzM2M5",
   "tracks": [
     {
       "added_at": "2023-01-25 16:56:24",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Spell 31",
-        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 228083,
-      "name": "Made of Gold",
-      "url": "https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 371520,
       "name": "Otomo",
       "url": "https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Spell 31",
+        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 228083,
+      "name": "Made of Gold",
+      "url": "https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "DC Rot",
-        "url": "https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "DC Rot",
-      "url": "https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Jagna",
         "url": "https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 221031,
       "name": "Jagna",
       "url": "https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "DC Rot",
+        "url": "https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "DC Rot",
+      "url": "https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Kis\u00e9",
-        "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 130472,
-      "name": "Kis\u00e9",
-      "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Life Is Infinite",
         "url": "https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 206798,
       "name": "Choose A Life",
       "url": "https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Kis\u00e9",
+        "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 130472,
+      "name": "Kis\u00e9",
+      "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
     },
     {
       "added_at": "2023-01-25 16:56:24",

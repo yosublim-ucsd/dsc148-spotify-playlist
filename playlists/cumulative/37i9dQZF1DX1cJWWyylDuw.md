@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-518 songs - 1 day 9 hr 36 min
+519 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,7 @@
 | [Synthetic Smile](https://open.spotify.com/track/6QrALflBXHCdDUPOgNViCe) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Synthetic Smile](https://open.spotify.com/album/1GTLz7qK0mKXXFLhKcNa2Y) | 3:02 | 2022-03-11 | 2022-07-27 |
 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 | 2021-12-17 | 2023-12-24 |
 | [Take Me To Hell](https://open.spotify.com/track/5rbK2Z6ufVtEFEnBeafhwB) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2vtORmA1SG9KAvzm95wao7) | 3:30 | 2023-12-13 |  |
-| [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 | 2021-12-31 |  |
+| [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 | 2021-12-31 | 2024-01-12 |
 | [Temporal Punishment](https://open.spotify.com/track/0BrMX9UdxQq20WLia3ttmF) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Temporal Punishment](https://open.spotify.com/album/6DmmmNr1IbT1k21NAdM3Ay) | 3:40 | 2021-12-17 | 2022-07-29 |
 | [The Abyss](https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [JT Cavey](https://open.spotify.com/artist/61VGyKqHM3JViWq8oZE33N) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:34 | 2023-03-24 |  |
 | [The Amygdala Chorus](https://open.spotify.com/track/5tmJCrDqstthNnM4MtWDk9) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [The Amygdala Chorus](https://open.spotify.com/album/5qOPQK5fz14mnJUlTA0Vwe) | 3:50 | 2021-12-17 |  |
@@ -457,6 +457,7 @@
 | [The Offering](https://open.spotify.com/track/7GFn2lantoamiDeQXir7Oy) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [The Offering](https://open.spotify.com/album/10rCu3ngUJo4967zPEepKz) | 3:59 | 2021-12-17 | 2023-08-07 |
 | [The Orphan](https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Orphan](https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62) | 6:23 | 2022-03-11 |  |
 | [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 | 2021-12-17 |  |
+| [The Reaper’s Servant](https://open.spotify.com/track/4VthhRk10PmO4INu1pPo3X) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Darius Tehrani](https://open.spotify.com/artist/6zgEcx3Zls6xVzT6lG2vH1) | [The Reaper’s Servant](https://open.spotify.com/album/64TpwPQttjjNVA4SjBGFaF) | 4:55 | 2023-12-13 |  |
 | [The Reaper’s Servant](https://open.spotify.com/track/6tt1I3KMJCLjKw4gTBoXHH) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Darius Tehrani](https://open.spotify.com/artist/6zgEcx3Zls6xVzT6lG2vH1) | [The Reaper’s Servant](https://open.spotify.com/album/5rfTMvJNvJyPdzxdyXfag8) | 4:55 | 2023-12-13 | 2023-12-24 |
 | [The Rot Within](https://open.spotify.com/track/0XYHZHX4evrMEPNzHnaZHF) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL), [Alex Teyen](https://open.spotify.com/artist/6BOFplMWu1WytZSucgGHVf) | [The Rot Within](https://open.spotify.com/album/1Fb70yxP3v8xGugOWiU38A) | 5:08 | 2021-12-17 | 2022-07-29 |
 | [The Sabbath](https://open.spotify.com/track/7HL0huoU88eTvZppMElAD6) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Sabbath](https://open.spotify.com/album/1ofDlelW6YGKcFO7A9qSsF) | 4:26 | 2021-12-31 | 2022-07-28 |

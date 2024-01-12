@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Henry Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,984 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,177 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 17 | [What's The Word, Early Bird?](https://open.spotify.com/track/4HcA9Hzgql98ttOv0Top91) | [Juke the Tiger](https://open.spotify.com/artist/4FYl5V6mg4Go8mqzIpWdNf) | [What's The Word, Early Bird?](https://open.spotify.com/album/7FzSxv8iP8fYGDztKFocig) | 2:21 |
 | 18 | [hahaha](https://open.spotify.com/track/4dGoPqkVE9GyJFA0TaEP40) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [hahaha](https://open.spotify.com/album/4c534WbdQk2RCMCdU3SGMS) | 3:05 |
 | 19 | [APRIL](https://open.spotify.com/track/6rahMtoVUKxrl38yK7UrMD) | [CHRLI](https://open.spotify.com/artist/4ZyVXjZdSsDSR5GCO8BUxx) | [APRIL](https://open.spotify.com/album/2G9BTHiVS5WorresXf182l) | 3:13 |
-| 20 | [All in <3](https://open.spotify.com/track/4DHrpnCIqMp7svRuwWZPVT) | [Maisie May](https://open.spotify.com/artist/2YyWc6vw5CgNO7sDdgA6tq) | [All in <3](https://open.spotify.com/album/4wjNuR1fPFuIVen4ioskEm) | 3:39 |
-| 21 | [What If I Told You?](https://open.spotify.com/track/63PQWwx7ekWrqxLCv5sf54) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [At What Cost?](https://open.spotify.com/album/3kzCt9OOpnLG1mzplqVaaE) | 2:22 |
-| 22 | [Moon Girl](https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ) | 3:26 |
-| 23 | [Frog Rinse](https://open.spotify.com/track/3wiantdFsCOGIFOPoLwWBA) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Frog Rinse](https://open.spotify.com/album/69OUeIaGazGGW776ytW1xa) | 3:22 |
+| 20 | [Inhaling](https://open.spotify.com/track/792XiFPcT0hrmjAy6mJa0F) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Endless Affair](https://open.spotify.com/album/4JweQP6Vps8p95F898fl0P) | 3:26 |
+| 21 | [All in <3](https://open.spotify.com/track/4DHrpnCIqMp7svRuwWZPVT) | [Maisie May](https://open.spotify.com/artist/2YyWc6vw5CgNO7sDdgA6tq) | [All in <3](https://open.spotify.com/album/4wjNuR1fPFuIVen4ioskEm) | 3:39 |
+| 22 | [What If I Told You?](https://open.spotify.com/track/63PQWwx7ekWrqxLCv5sf54) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [At What Cost?](https://open.spotify.com/album/3kzCt9OOpnLG1mzplqVaaE) | 2:22 |
+| 23 | [Moon Girl](https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ) | 3:26 |
 | 24 | [Laced](https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Laced](https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr) | 3:21 |
 | 25 | [choices choices choices](https://open.spotify.com/track/4buJICZdGDZf7hURkJ2rnQ) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [choices choices choices](https://open.spotify.com/album/5cMmhToNnO0pLKjdmgx9TL) | 1:28 |
 | 26 | [SeaStar](https://open.spotify.com/track/7F9iyJvGsClvRcDNpBXISZ) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [SeaStar](https://open.spotify.com/album/0X0Cxpfxn2dA7pjsHcViIb) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [I Don't Know How to Do All of That](https://open.spotify.com/track/3JWOHgSvzpHs5K3d0xpj9s) | [The Stingrays](https://open.spotify.com/artist/0A3Tb2Y2PfWwfRlA89oHCd) | [I Don't Know How to Do All of That](https://open.spotify.com/album/6pBRTBHEQQKAny43VVSlhI) | 1:31 |
 | 100 | [Lightning in a Bottle](https://open.spotify.com/track/1xSP4tf1KkkqfEss3TZ6fh) | [O\. Wake](https://open.spotify.com/artist/4OqPho4RgALBjUYcaRPvQ3) | [Henry David, Motivation Expert/Lightning in a Bottle](https://open.spotify.com/album/6ZAwW3FMBEzuFe3t5cdF1C) | 3:09 |
 
-Snapshot ID: `MCwwOWE0Mjk2MjJhMmY4ZWM2MTE2NDdmOTkwYTE3M2E0MTIxNTQ2MTQ2`
+Snapshot ID: `MCxjY2QzN2UzMmRhODRhMmMzOWI4M2E0YzM1ZjZiZjQzYzQzMzk5YWY4`

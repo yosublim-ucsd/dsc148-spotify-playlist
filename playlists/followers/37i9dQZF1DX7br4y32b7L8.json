@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 24858,
+  "2024-01-12": 24910,
   "date_first_scraped": "2023-02-25",
   "description": "songs voor je playlist!",
   "name": "Viral Hits NL",
@@ -1483,6 +1483,24 @@
       "duration_ms": 166000,
       "name": "Een Chick Als (Jade)",
       "url": "https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm"
+    },
+    {
+      "album": {
+        "name": "Een Teken",
+        "url": "https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132881,
+      "name": "Een Teken",
+      "url": "https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10"
     },
     {
       "album": {
@@ -3336,6 +3354,24 @@
     },
     {
       "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
+    },
+    {
+      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -4009,6 +4045,28 @@
       "duration_ms": 149538,
       "name": "Ongezien",
       "url": "https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ"
+    },
+    {
+      "album": {
+        "name": "Wonka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
+      },
+      "artists": [
+        {
+          "name": "Hugh Grant",
+          "url": "https://open.spotify.com/artist/0dtmYDbYpwcdHPBI1OJatT"
+        },
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64834,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/17bN37TI0A1ZqTB5XGvQj7"
     },
     {
       "album": {
@@ -5135,6 +5193,24 @@
       "duration_ms": 258693,
       "name": "Smooth Operator - Single Version",
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "Something That I Want",
+      "url": "https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa"
     },
     {
       "album": {

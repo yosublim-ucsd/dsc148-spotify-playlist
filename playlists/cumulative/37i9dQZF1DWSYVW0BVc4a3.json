@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "All Fckd Up",
+        "url": "https://open.spotify.com/album/4Umjb2JD5Gbw2Dtha919x0"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "All Fckd Up",
+      "url": "https://open.spotify.com/track/0rXwS3IGrRhVXSN3OODnA3"
+    },
+    {
+      "album": {
         "name": "All In A Dream (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/699Jw6f2UuWYYEKcrlda6l"
       },
@@ -514,7 +532,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 259838,
       "name": "All That I Lost",
       "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 354098,
       "name": "Amuse",
       "url": "https://open.spotify.com/track/1qK9yeRfOQop2yj6wOqoLv"
@@ -1435,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "Biggest Regret (feat. BbyAfricka)",
+        "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230613,
+      "name": "Biggest Regret (feat. BbyAfricka)",
+      "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
+    },
+    {
+      "album": {
         "name": "Biosph\u00e8re",
         "url": "https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO"
       },
@@ -1772,6 +1812,28 @@
       "duration_ms": 330500,
       "name": "Bro Wtf",
       "url": "https://open.spotify.com/track/6RFVEhmTcIYTyV4iTelALw"
+    },
+    {
+      "album": {
+        "name": "BroCode",
+        "url": "https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B"
+      },
+      "artists": [
+        {
+          "name": "DJ Merlon",
+          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299670,
+      "name": "BroCode",
+      "url": "https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x"
     },
     {
       "album": {
@@ -5632,7 +5694,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 211835,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4CEzuwFBhVZrsyN9dlXpbO"
@@ -5942,7 +6004,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
@@ -6450,7 +6512,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 196905,
       "name": "Into Dust",
       "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
@@ -7564,6 +7626,24 @@
       "duration_ms": 225980,
       "name": "Lonely River - P.O.S & anam\u0113 Remix",
       "url": "https://open.spotify.com/track/2kag3xPPs9qood7hBWGrlq"
+    },
+    {
+      "album": {
+        "name": "Look The Other Way",
+        "url": "https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI"
+      },
+      "artists": [
+        {
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213953,
+      "name": "Look The Other Way",
+      "url": "https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I"
     },
     {
       "album": {
@@ -9265,6 +9345,28 @@
     },
     {
       "album": {
+        "name": "No Reason (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257419,
+      "name": "No Reason - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
+    },
+    {
+      "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/78OyyeUJyyoYRHDLtBzsqi"
       },
@@ -10123,6 +10225,24 @@
     },
     {
       "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282247,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
+    },
+    {
+      "album": {
         "name": "Perfect Love (Biscits Remix)",
         "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
       },
@@ -10308,7 +10428,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 396167,
       "name": "Polifonia",
       "url": "https://open.spotify.com/track/7a6HNoZZMaKgwxtf3LBtxc"
@@ -11326,7 +11446,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 166625,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD"
@@ -13288,6 +13408,24 @@
       "duration_ms": 210156,
       "name": "The Dream (feat. Martina Camargo)",
       "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
+    },
+    {
+      "album": {
+        "name": "The Fight Goes On",
+        "url": "https://open.spotify.com/album/3i8j6ScRkL69iZo0K2r7yj"
+      },
+      "artists": [
+        {
+          "name": "Thabo Tonick",
+          "url": "https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332068,
+      "name": "The Fight Goes On",
+      "url": "https://open.spotify.com/track/79MiPqQ3hKFXUHSur45kOI"
     },
     {
       "album": {

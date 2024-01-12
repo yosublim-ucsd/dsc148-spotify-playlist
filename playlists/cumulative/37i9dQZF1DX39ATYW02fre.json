@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286333,
+      "name": "All Is Full Of Love",
+      "url": "https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/12xYo4U9LASuSrxTjFYpBW"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 233009,
       "name": "Dreaming (feat. Bruno Major)",
       "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"

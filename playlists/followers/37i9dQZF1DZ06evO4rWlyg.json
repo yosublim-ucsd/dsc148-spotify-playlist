@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 129474,
+  "2024-01-12": 129494,
   "date_first_scraped": "2023-11-11",
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
   "name": "This Is Bj\u00f6rk",
@@ -581,7 +581,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 368693,
       "name": "Lionsong",
       "url": "https://open.spotify.com/track/2ZW9hbML7eNemHLsak7zjF"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 386560,
       "name": "Notget",
       "url": "https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj"

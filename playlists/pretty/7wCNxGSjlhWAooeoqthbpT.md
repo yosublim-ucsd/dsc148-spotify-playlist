@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Check your vibe with Epic Records\. cover: Tyla
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,838 likes - 18 songs - 52 min 56 sec
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,834 likes - 18 songs - 52 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

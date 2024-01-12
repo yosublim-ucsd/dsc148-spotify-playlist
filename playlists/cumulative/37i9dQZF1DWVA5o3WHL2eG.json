@@ -14729,6 +14729,24 @@
     },
     {
       "album": {
+        "name": "Paralysed",
+        "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161954,
+      "name": "Paralysed",
+      "url": "https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/7JV9fu4Nb1Y9oXH8LCrxjn"
       },

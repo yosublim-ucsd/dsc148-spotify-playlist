@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Amble \| Visual Artist: Bailey Elder
 
-1,009 songs - 2 day 12 hr 19 min
+1,010 songs - 2 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Another Bird Song](https://open.spotify.com/track/7xSQ6R0eu3MKDwqoDB9OMz) | [Acre Memos](https://open.spotify.com/artist/4vMEEvFTmhgNByZsQrsSQ0), [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [A Collection of Bird Songs](https://open.spotify.com/album/5HoqTCeduVVCtb3VahyZ6J) | 3:26 | 2023-05-31 | 2023-07-27 |
 | [Another Lover](https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je) | [mary rose](https://open.spotify.com/artist/2xm9vvaxfhOaVQtDZP1z5d) | [Another Lover](https://open.spotify.com/album/3LIcHKcJvRF61TWPkvFABh) | 4:13 | 2023-08-30 | 2023-11-11 |
 | [Any Old Boat](https://open.spotify.com/track/131utMHDBR9KO1cbzhSuLu) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:50 | 2022-11-30 | 2023-01-12 |
+| [Anytime](https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe) | [Cameron Sonnier](https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw) | [Anytime](https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7) | 4:52 | 2024-01-11 |  |
 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 | 2023-05-03 | 2023-06-29 |
 | [Apathy](https://open.spotify.com/track/3LvULhkMInjjfKdaOpl6nP) | [Work Wife](https://open.spotify.com/artist/3uPvy8pktQ5n3mZCZzOew9) | [Quitting Season](https://open.spotify.com/album/1BMa8nQywkOL6p9OPiIUPQ) | 4:00 | 2023-01-11 | 2023-02-23 |
 | [Apology From Hades](https://open.spotify.com/track/1z8OSNeSVGqlJ3jiqKLc3R) | [Mother Juniper](https://open.spotify.com/artist/0shJpWV36dxbXdniaiXDm8) | [Apology From Hades](https://open.spotify.com/album/5Tbe6BM9sHpbI1cJ5vHOu1) | 2:33 | 2023-04-05 | 2023-05-18 |

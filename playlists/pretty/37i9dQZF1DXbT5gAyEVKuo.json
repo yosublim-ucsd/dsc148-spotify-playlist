@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 77314,
+  "num_followers": 77357,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTM5ZjY2NjRmYTcyMzFkYjM5NTg3ZmZhN2Y0YTdlZDUxZmY4NjAy",
+  "snapshot_id": "MCwwZTgwOTkyMThmMmJjZmE0NTQ0YjQwYzFmODQwNjMyNTk4YmE2MWRm",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 347106,
+      "name": "Why We Sing - Live",
+      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "The Essential John P. Kee",
         "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 326493,
       "name": "I Do Worship (feat. John P. Kee) - Live",
       "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 347106,
-      "name": "Why We Sing - Live",
-      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Playlist: The Very Best Of Byron Cage",
-        "url": "https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa"
-      },
-      "artists": [
-        {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
-        }
-      ],
-      "duration_ms": 317880,
-      "name": "I Will Bless the Lord - Live",
-      "url": "https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Setlist: The Very Best Of Kirk Franklin Live",
         "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 412200,
       "name": "Now Behold the Lamb - Live",
       "url": "https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Playlist: The Very Best Of Byron Cage",
+        "url": "https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "duration_ms": 317880,
+      "name": "I Will Bless the Lord - Live",
+      "url": "https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y"
     },
     {
       "added_at": "2023-02-18 05:28:04",

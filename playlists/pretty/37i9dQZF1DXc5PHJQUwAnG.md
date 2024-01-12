@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Robot95 y Lucho SSJ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,388 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,269 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 80 | [Medusa](https://open.spotify.com/track/3Lvzwly0sfaqJxeqFRbatz) | [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y), [Roylets](https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY) | [Medusa](https://open.spotify.com/album/7JcfQL1QHEyR3yqDYQZhEj) | 2:10 |
 | 81 | [Deja Vú](https://open.spotify.com/track/5Y0TXblxH8xcEF9ggXOL2E) | [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3), [Pepe Nungaray](https://open.spotify.com/artist/56CgM09yZsTWauH3l4CqKs), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Deja Vú](https://open.spotify.com/album/18ZffmxARUqg9VnptWX46I) | 2:14 |
 | 82 | [Contracorriente](https://open.spotify.com/track/3hKiiQ4sNkUpGR6zAxv0q7) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Contracorriente](https://open.spotify.com/album/3nncczUw88uWd2HqC2y0VI) | 2:15 |
-| 83 | [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 |
+| 83 | [Wapo y Mamón](https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/3W7MWJVkuX7CWc7QT3Wr2A) | 2:16 |
 | 84 | [Yo tmb me fui](https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Yo tmb me fui](https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo) | 2:21 |
 | 85 | [RAYBEN CAP 2: ALUXÍN](https://open.spotify.com/track/7GiPtQurXiFU3LTOStVkJM) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [RAYBEN CAP 2: ALUXÍN](https://open.spotify.com/album/0f09fmMpEI3A2XZdbbWB4y) | 2:22 |
 | 86 | [Kevin, Hugo & Jorge](https://open.spotify.com/track/0tT1SLOTZfEud3LB7JTgxv) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi) | [Kevin, Hugo & Jorge](https://open.spotify.com/album/4kzxuzLBkbGGnqeQ3dO8JT) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [Ferragamo](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ferragamo](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCwwYjMxNWM1ZWIyY2ZjY2JiNTQxMGRlMzU2NzMyYjMwYzQzYzlmZDAy`
+Snapshot ID: `MCxjYjU4MzU2MzNlOGQzMzgwNzAzMGQyNjQ1MDE2OTgzZWYzNTExOTQw`

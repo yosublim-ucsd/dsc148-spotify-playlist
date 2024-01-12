@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Best Day of my life",
+        "url": "https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr"
+      },
+      "artists": [
+        {
+          "name": "Altozano",
+          "url": "https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136391,
+      "name": "Best Day of my life",
+      "url": "https://open.spotify.com/track/4wtrK6RBsunXTxiKJqg1y8"
+    },
+    {
+      "album": {
         "name": "Big Girls Don't Cry (Bossanova)",
         "url": "https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL"
       },

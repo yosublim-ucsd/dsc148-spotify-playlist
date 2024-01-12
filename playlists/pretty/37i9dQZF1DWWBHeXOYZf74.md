@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Erick the Architect
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,173 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,175 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 2 | [Silver Thread Golden Needle](https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Silver Thread Golden Needle](https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1) | 9:56 |
 | 3 | [007 \(Jersey Mix\)](https://open.spotify.com/track/1qLBZLeGS6FEHgVKWqhuVv) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull DLX](https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm) | 2:40 |
 | 4 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
-| 5 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw) | 4:32 |
+| 5 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/6hOGZCEgzOEULm4lXk9SS2) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/60bBNV9rQfhoD8YnfbWTIq) | 4:32 |
 | 6 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
 | 7 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 | 8 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Makeshift Tourniquet](https://open.spotify.com/track/4YrUH3TZazK6DC2w5qXryI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Makeshift Tourniquet](https://open.spotify.com/album/73T8ZTaxv3LBS4wQo9NW3n) | 5:17 |
 | 100 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 
-Snapshot ID: `MCxmOWM2MmEzYjYxYmNiYTg5MDI3NTkzYzcyZDUzMDkyMjg3ZTdmZTZh`
+Snapshot ID: `MCxhMzNlMjhjZTA4YWFiOTMzNzkzOWZlNzViOWQ1YWFmZTFmZmQ3ZDdj`

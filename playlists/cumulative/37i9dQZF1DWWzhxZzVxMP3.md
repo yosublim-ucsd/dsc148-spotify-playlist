@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-191 songs - 11 hr 6 min
+192 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Aventura](https://open.spotify.com/track/0nz7WW70BXQo99EDZbHKws) | [Rita Passos](https://open.spotify.com/artist/1o1ogH8YykBhZPGMmXzoeO) | [Aventura](https://open.spotify.com/album/7B3thDDVEjdT2VhIyLt03b) | 3:50 | 2022-03-10 | 2023-05-17 |
 | [Bad Guy](https://open.spotify.com/track/1TNPHIgn83UN8r0qg8VMwS) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Bad Guy](https://open.spotify.com/album/75KEw2J5VlubFMIrKNwhec) | 3:10 | 2023-05-16 |  |
 | [Beautiful Girls \- Bossa Nova](https://open.spotify.com/track/3AVxDlk6ZEkqYTFZ4lxGzr) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Beautiful Girls \(Bossa Nova\)](https://open.spotify.com/album/3sTeLngydHmUMDr1mok0n0) | 3:59 | 2022-03-10 |  |
+| [Best Day of my life](https://open.spotify.com/track/4wtrK6RBsunXTxiKJqg1y8) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [Best Day of my life](https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr) | 2:16 | 2024-01-12 |  |
 | [Big Girls Don't Cry \- Bossanova](https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Big Girls Don't Cry \(Bossanova\)](https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL) | 4:29 | 2022-03-10 | 2023-05-17 |
 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 | 2023-05-16 |  |
 | [Boy's A Liar Pt\. 2](https://open.spotify.com/track/628N0m21u9FyGMIFV85HGt) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [Boy's A Liar Pt\. 2](https://open.spotify.com/album/4lVPIw5W56lJN0Tia74J0j) | 3:13 | 2023-06-01 |  |

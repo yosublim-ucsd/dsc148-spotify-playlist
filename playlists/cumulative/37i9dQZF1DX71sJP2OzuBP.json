@@ -8295,24 +8295,6 @@
     },
     {
       "album": {
-        "name": "\u5728\u4e0e\u751f\u4ff1\u6765\u7684\u4e0d\u5e73\u8861\u91cc (ALLURE)",
-        "url": "https://open.spotify.com/album/5CTJRLUpDnLXEXGllKcmeG"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243882,
-      "name": "\u5317\u6781\u661f (MY LITTLE STAR)",
-      "url": "https://open.spotify.com/track/6ZyAlU7tYUGrto7hcCbWfK"
-    },
-    {
-      "album": {
         "name": "\u5317\u6975\u661f",
         "url": "https://open.spotify.com/album/3aPsQrlww2nz3SBE5zEkUQ"
       },
@@ -8328,6 +8310,24 @@
       "duration_ms": 154482,
       "name": "\u5317\u6975\u661f",
       "url": "https://open.spotify.com/track/2nZrbgv7AF7NbG5pVogGtb"
+    },
+    {
+      "album": {
+        "name": "\u5728\u8207\u751f\u4ff1\u4f86\u7684\u4e0d\u5e73\u8861\u88e1 (ALLURE)",
+        "url": "https://open.spotify.com/album/5CTJRLUpDnLXEXGllKcmeG"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243882,
+      "name": "\u5317\u6975\u661f (MY LITTLE STAR)",
+      "url": "https://open.spotify.com/track/6ZyAlU7tYUGrto7hcCbWfK"
     },
     {
       "album": {

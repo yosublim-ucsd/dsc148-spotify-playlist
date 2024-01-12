@@ -10409,6 +10409,24 @@
     },
     {
       "album": {
+        "name": "Libert\u00e9",
+        "url": "https://open.spotify.com/album/28oWbTxa3wEEOyExJ1EQC4"
+      },
+      "artists": [
+        {
+          "name": "Les Frangines",
+          "url": "https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125450,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/1fGkIE1v5brFAtqg0OMik9"
+    },
+    {
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4m9jgGzDEXgF3jl75N9MoD"
       },

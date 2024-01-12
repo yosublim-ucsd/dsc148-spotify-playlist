@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "album": {
         "name": "Blowing Up Gates",
         "url": "https://open.spotify.com/album/4KexPUHmQNbhRY8c0873PS"
       },
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 246034,
       "name": "Dub Azucar",
       "url": "https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd"
@@ -4041,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/0VpCI9FcWXIPLOnq7Sj2wb"
+      },
+      "artists": [
+        {
+          "name": "Solovino",
+          "url": "https://open.spotify.com/artist/1tK101wDTXF3fmqGUAUYnA"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245365,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/3TaLLashha0SbJRIrEj5gZ"
+    },
+    {
+      "album": {
         "name": "Fly High",
         "url": "https://open.spotify.com/album/2P2mEfHVA713lsDSIs1Qkf"
       },
@@ -4402,6 +4438,24 @@
       "duration_ms": 357500,
       "name": "Gobi",
       "url": "https://open.spotify.com/track/5wxnKA9URyQmtdlnEIHj5z"
+    },
+    {
+      "album": {
+        "name": "Good Blood",
+        "url": "https://open.spotify.com/album/3m0uBQjlAC1dFyFmuYtKXd"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315483,
+      "name": "Good Blood",
+      "url": "https://open.spotify.com/track/0IhKRPBbC5vm3XIXT6bOtW"
     },
     {
       "album": {
@@ -9896,7 +9950,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179497,
       "name": "Shoreline Transit",
       "url": "https://open.spotify.com/track/3qo9MuJSAYzXSyxPmNN4HB"
@@ -10066,6 +10120,28 @@
       "duration_ms": 261839,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/3RaajzNOCvM1AHrroBgwOe"
+    },
+    {
+      "album": {
+        "name": "Smells Like You",
+        "url": "https://open.spotify.com/album/1uVLTR5cjjBE8eeRmXHoMM"
+      },
+      "artists": [
+        {
+          "name": "Orig\u0101mi",
+          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+        },
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269696,
+      "name": "Smells Like You",
+      "url": "https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6"
     },
     {
       "album": {
@@ -11846,7 +11922,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
@@ -12622,7 +12698,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 232500,
       "name": "\u00d1e\u00f1o",
       "url": "https://open.spotify.com/track/04wkclUopy6en6H0Fvqs9E"

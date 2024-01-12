@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 1573695,
+  "2024-01-12": 1572973,
   "date_first_scraped": "2021-12-21",
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
   "name": "Pure Rock & Roll",
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 163893,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
@@ -3655,7 +3655,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"

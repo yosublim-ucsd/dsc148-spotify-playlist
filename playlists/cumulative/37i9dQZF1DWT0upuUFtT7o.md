@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Henry Morris
 
-2,096 songs - 4 day 18 hr 39 min
+2,097 songs - 4 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,7 +658,7 @@
 | [Fragrance](https://open.spotify.com/track/2082vPorTG6ceIWBT0szPp) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:19 | 2023-06-05 | 2023-08-10 |
 | [French Bay Hotel](https://open.spotify.com/track/3ykTL9F2p7kEJOvhvDiAJG) | [The Ocho](https://open.spotify.com/artist/1RdUQWfNCqx6vHi96aWUt8) | [French Bay Hotel](https://open.spotify.com/album/0M6pUtNjLIb9r3h478bgxa) | 4:04 | 2024-01-10 |  |
 | [friends u had](https://open.spotify.com/track/2o9qiFBwKc9mDrllqPeWzD) | [Playdate](https://open.spotify.com/artist/6oIeF5buHoZuyuwiu4xz0B) | [friends u had](https://open.spotify.com/album/7CW6Wc25oHYouIaHbHKgsC) | 2:59 | 2022-08-24 | 2022-10-06 |
-| [Frog Rinse](https://open.spotify.com/track/3wiantdFsCOGIFOPoLwWBA) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Frog Rinse](https://open.spotify.com/album/69OUeIaGazGGW776ytW1xa) | 3:22 | 2024-01-10 |  |
+| [Frog Rinse](https://open.spotify.com/track/3wiantdFsCOGIFOPoLwWBA) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Frog Rinse](https://open.spotify.com/album/69OUeIaGazGGW776ytW1xa) | 3:22 | 2024-01-10 | 2024-01-12 |
 | [From Me to You](https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [From Me to You](https://open.spotify.com/album/333e8sycLvInCv5SVViLLt) | 3:16 | 2023-04-19 | 2023-05-18 |
 | [from outer space, with love](https://open.spotify.com/track/4X5XjFteQAlgZmtwKYFkv6) | [Jayomi](https://open.spotify.com/artist/6MVYxlLs0btUQrDIPFfGbI) | [from outer space, with love](https://open.spotify.com/album/7tLyf7RX25bdjiYHquhRpG) | 2:38 | 2022-05-19 | 2022-07-07 |
 | [From up Here](https://open.spotify.com/track/6rdHZ6VLgH52eARNMj5uPH) | [Sofia Wolfson](https://open.spotify.com/artist/5WPGc84zEZJXUIp2ELrNFN) | [From up Here](https://open.spotify.com/album/6Nv8R0f555sPwWA1B5lJEx) | 3:08 | 2023-06-27 | 2023-07-26 |
@@ -964,6 +964,7 @@
 | [INFATUATION](https://open.spotify.com/track/01ohSXFsSpf2tv0obiygSQ) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/1F0Rb7AUH5yMbLtIEdiNeL) | 2:02 | 2023-10-11 | 2023-11-30 |
 | [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 | 2023-10-11 | 2023-10-13 |
 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 | 2023-04-26 | 2023-05-31 |
+| [Inhaling](https://open.spotify.com/track/792XiFPcT0hrmjAy6mJa0F) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Endless Affair](https://open.spotify.com/album/4JweQP6Vps8p95F898fl0P) | 3:26 | 2024-01-11 |  |
 | [Insomniac](https://open.spotify.com/track/5XQfmxS3zpJG0ffSVMgI7q) | [Schur](https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7) | [Insomniac](https://open.spotify.com/album/2gIJz17anNib4YRhzKbOGz) | 3:14 | 2022-03-30 | 2022-04-27 |
 | [int4rmission!](https://open.spotify.com/track/34ny3BgOaSjeatdzabpOm9) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [int4rmission!](https://open.spotify.com/album/2WgKouC6NVfyZQLsgnp83l) | 3:12 | 2022-08-10 | 2022-09-29 |
 | [Internet Friends](https://open.spotify.com/track/79ySwa88xSWTcUGu6Nncvl) | [iamkyami](https://open.spotify.com/artist/65m2oSongX6P3iLDeI57U0) | [Internet Friends](https://open.spotify.com/album/3teRGF9ITfZinAcEe87jqb) | 3:17 | 2022-02-09 | 2022-02-23 |

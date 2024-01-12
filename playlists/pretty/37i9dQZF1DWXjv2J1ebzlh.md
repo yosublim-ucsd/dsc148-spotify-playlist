@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,416 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,435 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1162,7 +1162,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1152 | [Kiriê](https://open.spotify.com/track/3O2Y5GFEHVHBIEWpLQJYbJ) | [Georgette](https://open.spotify.com/artist/4heKLPz5UlbvH60TeoHmrq) | [A Moça do Mar](https://open.spotify.com/album/66ya4Ea3czVvUcIDCLOWrZ) | 3:25 |
 | 1153 | [Mi Querer](https://open.spotify.com/track/2o34LOZa6tpm0miOhoPbKb) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom), [Ramon Veloz](https://open.spotify.com/artist/3z21nEY2AtJEy2pKYdAGxM) | [Linda Guajira](https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80) | 2:25 |
 | 1154 | [Soul Brother](https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother](https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize) | 3:41 |
-| 1155 | [Guajida](https://open.spotify.com/track/06boJEDPuCNH8HpYUeUIzF) | [Jesus Acosta & The Professionals](https://open.spotify.com/artist/3oxUibMAtErJhtug1TjaIG) | [I Can See Clearly Now b/w Guajida](https://open.spotify.com/album/2xCS2lSm6rW9IkSBSpNJcB) | 3:13 |
+| 1155 | [Guajida](https://open.spotify.com/track/06boJEDPuCNH8HpYUeUIzF) | [Jesus Acosta](https://open.spotify.com/artist/2Azyp6K14Pip6uC8roo9OX), [Professionals](https://open.spotify.com/artist/0XBrvvqvFQ8CtBYjtUAMVe) | [I Can See Clearly Now b/w Guajida](https://open.spotify.com/album/2xCS2lSm6rW9IkSBSpNJcB) | 3:13 |
 | 1156 | [Guajira Ven](https://open.spotify.com/track/6vRCQCrFlrbNSqSUs8cUZ6) | [Etoile De Dakar](https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk) | [Guajira Ven](https://open.spotify.com/album/34Kc5EvPFj8PCfCsGTlaRI) | 4:19 |
 | 1157 | [Capital Cebuista](https://open.spotify.com/track/7tiWyF2rv4GJF8pZRz2gEP) | [Santander Flores](https://open.spotify.com/artist/63rHVcPDtmXdG3yGkgE9ha) | [La Edad De Oro De La Cumbia Colombiana, Vol\. 2](https://open.spotify.com/album/1sJyr6gkGhXkMP9DvYqREB) | 2:57 |
 | 1158 | [Cumbia Locura](https://open.spotify.com/track/0Hj9eBehL8C6z6FkZgPwJV) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [Kumbia Boruka](https://open.spotify.com/artist/3B7XF3wKmK3NFMO4AGfzd7) | [Cumbia Locura](https://open.spotify.com/album/4sYiCWDWYHmF48zZ5K5695) | 3:59 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`
+Snapshot ID: `MCw1Nzg5NTY5MmVmZDQzOTI5ZWFiZWNkYWVmYjFlNjUwY2E3MDIxOGM4`

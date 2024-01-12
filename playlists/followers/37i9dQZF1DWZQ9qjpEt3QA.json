@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 74635,
+  "2024-01-12": 74587,
   "date_first_scraped": "2022-06-09",
   "description": "Cruising through a shimmering night with the current City Pop wave from Asia.",
   "name": "Neon Lights",
@@ -515,6 +515,24 @@
       "duration_ms": 186260,
       "name": "Essential",
       "url": "https://open.spotify.com/track/5jtEduKSyyJXEE6IbZFLJR"
+    },
+    {
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/4R29MM1Qdq4ZlNSfldipEb"
+      },
+      "artists": [
+        {
+          "name": "Harra.",
+          "url": "https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248384,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/4lALjw6ugXYRubOBAIqP4b"
     },
     {
       "album": {
@@ -1967,6 +1985,28 @@
       "duration_ms": 293933,
       "name": "Terbanglah Lepas",
       "url": "https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un"
+    },
+    {
+      "album": {
+        "name": "Terdiam",
+        "url": "https://open.spotify.com/album/2uFVxEVwvGmEWAnrv6oVgu"
+      },
+      "artists": [
+        {
+          "name": "Vintonic",
+          "url": "https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW"
+        },
+        {
+          "name": "Teza Sumendra",
+          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212086,
+      "name": "Terdiam",
+      "url": "https://open.spotify.com/track/59i9WWRPt1SI7i52M9Uiqz"
     },
     {
       "album": {

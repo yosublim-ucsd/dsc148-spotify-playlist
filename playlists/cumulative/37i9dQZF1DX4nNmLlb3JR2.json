@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 137746,
       "name": "bad day",
       "url": "https://open.spotify.com/track/4HHoCZQ9v7agD2ZTq72q3Y"
@@ -1541,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "heartbreaker",
+        "url": "https://open.spotify.com/album/3uikouU6spEC8d5AT2su1F"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "heartbreaker",
+      "url": "https://open.spotify.com/track/3y9W9xOMC5tB8aAA3lIEOo"
+    },
+    {
+      "album": {
         "name": "Hedwig's Theme",
         "url": "https://open.spotify.com/album/5NBVyABkoyIRs5kjS7B9Cn"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 210969,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/43iChjuuKFSZw3LMLnrs2i"
@@ -3842,6 +3860,24 @@
       "duration_ms": 140979,
       "name": "waves",
       "url": "https://open.spotify.com/track/7piFPg3kuRbodjCBWjUsXS"
+    },
+    {
+      "album": {
+        "name": "We Are Family",
+        "url": "https://open.spotify.com/album/55G8HFz2yu9OoTavSMgRYj"
+      },
+      "artists": [
+        {
+          "name": "d'Addario",
+          "url": "https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108937,
+      "name": "We Are Family",
+      "url": "https://open.spotify.com/track/42XobImnQvdX9GUHqxnoPN"
     },
     {
       "album": {

@@ -426,6 +426,24 @@
     {
       "album": {
         "name": "ALORS BRAZIL",
+        "url": "https://open.spotify.com/album/6133HkdSpCx0s9wwtg3wAi"
+      },
+      "artists": [
+        {
+          "name": "Dethron",
+          "url": "https://open.spotify.com/artist/3OsbqsBUoYYQT76uOvO6SK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101494,
+      "name": "ALORS BRAZIL",
+      "url": "https://open.spotify.com/track/0rLQlq8mICVfHGBPSKgeon"
+    },
+    {
+      "album": {
+        "name": "ALORS BRAZIL",
         "url": "https://open.spotify.com/album/3WblrqsrqkJ72Lm09vAHE4"
       },
       "artists": [
@@ -498,7 +516,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 101262,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/4KXTlpfxEOGTdho5K2GmyG"

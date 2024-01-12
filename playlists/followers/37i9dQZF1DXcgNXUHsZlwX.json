@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 116815,
+  "2024-01-12": 116805,
   "date_first_scraped": "2021-01-03",
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
   "name": "Caf\u00e9 montr\u00e9alais",
@@ -749,7 +749,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
@@ -6573,7 +6573,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"

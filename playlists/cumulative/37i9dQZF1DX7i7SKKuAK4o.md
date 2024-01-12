@@ -2,7 +2,7 @@
 
 ### [Hits Banget](https://open.spotify.com/playlist/37i9dQZF1DX7i7SKKuAK4o)
 
-> Kumpulan lagu Hits hingga beberapa tahun lalu\. Cover: Nidji
+> Kumpulan lagu Hits hingga beberapa tahun lalu\. Cover: Geisha
 
 110 songs - 6 hr 38 min
 

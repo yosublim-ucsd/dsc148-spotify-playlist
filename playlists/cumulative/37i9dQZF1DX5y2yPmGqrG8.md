@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-538 songs - 2 day 3 hr 24 min
+539 songs - 2 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Black Is The Color Of My True Love's Hair](https://open.spotify.com/track/35HX8z7O4MaVVrT40YEujJ) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Bass Desires](https://open.spotify.com/album/3ENSb9BRGFVzNinQh8cFhg) | 7:07 | 2021-10-06 | 2022-04-14 |
 | [Blanket](https://open.spotify.com/track/4YRst0OXQoPEGMbrz4iwUX) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Permanest](https://open.spotify.com/album/73MXFAuug7MDjBPpt6yAhe) | 2:37 | 2022-03-30 | 2022-07-13 |
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-07-22 |
-| [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 |  |
+| [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 | 2024-01-12 |
 | [Bloom](https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 3:39 | 2023-06-07 | 2023-08-11 |
 | [Blue Ice Cave](https://open.spotify.com/track/6e4JrbtTPhWWDlbnRWey8F) | [Lektromonk](https://open.spotify.com/artist/47anoF4IxhwqttTUhvIfuO) | [Blue Ice Cave](https://open.spotify.com/album/25TFCFVn3NhLcmzxgBmXM2) | 3:15 | 2022-02-18 | 2022-07-27 |
 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 | 2023-01-01 |
@@ -539,6 +539,7 @@
 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 | 2023-04-13 | 2023-08-18 |
 | [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 | 2021-10-06 | 2023-05-17 |
 | [Yesterday](https://open.spotify.com/track/7aLQZTDhGcUOJCQinQbGWG) | [Kit Grill](https://open.spotify.com/artist/7Mq8bgNDcBNm7nAwFT3Zhz) | [Spirit](https://open.spotify.com/album/3ItdNpejzmrIcEtRRUjXgz) | 2:27 | 2022-02-18 | 2022-07-24 |
+| [Yesterday's Parties](https://open.spotify.com/track/1QbsFvXo5XJXTbjvjvLU45) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se), [Samara Lubelski](https://open.spotify.com/artist/7m0vo8YcqFNXFOoKycpOES) | [Goodbye, Hotel Arkada](https://open.spotify.com/album/26k4Yg7IX877sxz5mnoQBK) | 8:58 | 2024-01-11 |  |
 | [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 | 2022-03-30 | 2022-07-01 |
 | [You Do It](https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv) | [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [You Do It](https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ) | 7:21 | 2023-02-16 | 2023-04-14 |
 | [Zamami](https://open.spotify.com/track/7K8eTIxgAaPpmyg8bC17pi) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:05 | 2021-10-06 | 2022-06-17 |

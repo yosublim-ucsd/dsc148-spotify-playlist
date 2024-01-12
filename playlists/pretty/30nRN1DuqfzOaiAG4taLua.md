@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 
 > 
 
-[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 11 likes - 51 songs - 2 hr 42 min
+[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 11 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,6 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 | 49 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 |
 | 50 | [Illuminate](https://open.spotify.com/track/6yythpkfyJhdqRSrPjmsLN) | [STVN LEON](https://open.spotify.com/artist/67qaDEodmDODu7iHm0Atfs) | [Illuminate](https://open.spotify.com/album/3QyvGioO1kxAiTJ7XQmwcc) | 2:47 |
 | 51 | [T\-Rex](https://open.spotify.com/track/74oxccN8ED1w6OSJZIbs4E) | [Thomas Xavier](https://open.spotify.com/artist/5SsttdO7G9TeWBIZrhcoGZ) | [Pharaoh's Alchemist LP](https://open.spotify.com/album/4pM6BsEIAmXyfAaDAoboNc) | 3:20 |
+| 52 | [Tell Me](https://open.spotify.com/track/67flQc511s7u45O4Jrfp1G) | [FREMONT \(US\)](https://open.spotify.com/artist/7xxCVEdkHhrR3bpFfsA69v) | [Tell Me](https://open.spotify.com/album/47C9hANYlYm2np3n49aorb) | 2:54 |
 
-Snapshot ID: `NTYsYmFiZmQ2ZTMwNTk3OWMxNTk0NzM3NWRkMWU3NjE4M2VkMjJhMjQyZg==`
+Snapshot ID: `NTcsZGQ0OGY4MDcxMzZmY2I4NGRlNDg5NWJkNzZiYjRhNTMzOGNjY2VjYQ==`

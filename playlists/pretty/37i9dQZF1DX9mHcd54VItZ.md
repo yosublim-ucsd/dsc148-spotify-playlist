@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=fKODYe\_8T1yTmzhm70J3Cw">Fokofpolisiekar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,268 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,316 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 59 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
 | 60 | [Getting Hotter](https://open.spotify.com/track/4mal6jIqW8y7xOiEeqOHsC) | [Sons of Trout](https://open.spotify.com/artist/1z88VRzfLU6fS3EIYuP93b) | [Take Me to Your Fishmonger](https://open.spotify.com/album/3nrHBscoXDul2SqSGnBknO) | 3:17 |
 
-Snapshot ID: `MCxjMWZkMDBkZWU4MGViZjBjOWExMDZjYzE3OTJmZWJkZjdhNTI4ODY4`
+Snapshot ID: `MCxmZjVmZGE5NGNlYjg0NTk0YTc5ZjVjMmVkNDJiODFhN2QxOWMxODMz`

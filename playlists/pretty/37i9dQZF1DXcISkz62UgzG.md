@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,785 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,434 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 | 50 | [Only You](https://open.spotify.com/track/6OKKfwf75kQ4veyLktYV7F) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(A Netflix Original Series Score\)](https://open.spotify.com/album/3v0MbklWCM2hljImBwy7bA) | 3:04 |
 | 51 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 |
 
-Snapshot ID: `MCxmNWJjODcwYjA0ZGRhYzRiYzY3NmEzYTNjMmRkYzI4MzNmMDhmMDdi`
+Snapshot ID: `MCxiNTQ1NjJmYTBmMjhjNGYzNWZmNWVjYjNiM2Y1Zjc0MTIxM2I4ZDA2`

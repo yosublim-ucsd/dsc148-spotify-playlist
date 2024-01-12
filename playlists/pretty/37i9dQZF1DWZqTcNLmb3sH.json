@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56820,
+  "num_followers": 56822,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2ZmOGMwYzg5MTk3MGU2ZGEzMDQ4ODg5YzAxZjlhZjIwNDRiYTRm",
+  "snapshot_id": "MCw5MDIwNTk0ZjBjYzRjNWExYTgwN2MyZmZjZTYxNDU4N2UzNGQ5NTJj",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -55,6 +55,22 @@
       "duration_ms": 249931,
       "name": "Maleyanthe Nee Baa (from \"Sanju Weds Geetha 2\")",
       "url": "https://open.spotify.com/track/2N4RKXVjv7mG4YLfXsYjxC"
+    },
+    {
+      "added_at": "2024-01-11 09:54:49",
+      "album": {
+        "name": "Manasege Banthu Bittu Hogoke (from \"Kaatera\")",
+        "url": "https://open.spotify.com/album/4sibLVNGOypHI5NAqEvVxt"
+      },
+      "artists": [
+        {
+          "name": "Hemanth Kumar",
+          "url": "https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF"
+        }
+      ],
+      "duration_ms": 256281,
+      "name": "Manasege Banthu Bittu Hogoke (from \"Kaatera\")",
+      "url": "https://open.spotify.com/track/2f7ptNKrHYZCps9HpGIw67"
     },
     {
       "added_at": "2024-01-03 06:27:07",
@@ -1583,26 +1599,6 @@
       "duration_ms": 87633,
       "name": "Huli Nayaka - From \"Huli Nayaka\"",
       "url": "https://open.spotify.com/track/3t8egF8E8cLn1TQj5SxavR"
-    },
-    {
-      "added_at": "2023-11-06 09:49:24",
-      "album": {
-        "name": "Haneya Baraha (from \"Sugar Factory\")",
-        "url": "https://open.spotify.com/album/38Xo85cGY2zOE1yiuNLCey"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Kabir Rafi",
-          "url": "https://open.spotify.com/artist/2gx6BYmlzkiKtN5QlcUhm2"
-        }
-      ],
-      "duration_ms": 218736,
-      "name": "Haneya Baraha (from\"Sugar Factory\")",
-      "url": "https://open.spotify.com/track/2AP1qNR066qNFX3if5or0v"
     },
     {
       "added_at": "2023-11-06 09:50:44",

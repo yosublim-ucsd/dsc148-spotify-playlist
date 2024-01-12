@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-308 songs - 23 hr 6 min
+309 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [La ilusión que me condena](https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:00 | 2022-04-01 |  |
 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 | 2022-04-01 |  |
 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/3D8qailmmHjsok7TyOOQaT) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Recuerdos al Futuro \(En Vivo\)](https://open.spotify.com/album/1JuDBBHkcyPyyq2zZModr8) | 4:32 | 2022-04-01 | 2022-07-25 |
+| [La Parabellum del Buen Psicópata \- En Vivo](https://open.spotify.com/track/1i3tcCQHDYa1htkkkqmpUS) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo \(En Vivo\)](https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h) | 6:21 | 2023-12-22 |  |
 | [La Parabellum del Buen Psicópata \- En Vivo](https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo](https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE) | 6:21 | 2022-04-01 | 2024-01-04 |
 | [La Rueda Mágica \- En Vivo](https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:07 | 2022-04-01 |  |
 | [La Sombra \- En Vivo](https://open.spotify.com/track/0sh4llm7HyGdS6KWXWDNOT) | [IXTLAN](https://open.spotify.com/artist/1ggW9OH16Si4ciVPnhqs5S) | [Ixtlan \(Vivo en Niceto Club\)](https://open.spotify.com/album/5URnhh6d9kjC1XsHuiNM2f) | 3:01 | 2022-04-01 | 2022-07-06 |
@@ -257,7 +258,7 @@
 | [Sisters \- En Vivo](https://open.spotify.com/track/2aYsvqd1ZVh535accPDSSA) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Vivo Acá](https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY) | 6:36 | 2022-06-24 |  |
 | [Sola En Los Bares](https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [En Vivo En El Opera](https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG) | 3:18 | 2022-06-24 | 2023-10-07 |
 | [Sola En Los Bares](https://open.spotify.com/track/6x22cPAEzDYmbYEZoFsTUD) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [En Vivo En El Opera](https://open.spotify.com/album/1Tae82Dlm1lYWglbZZ7K8W) | 3:18 | 2022-04-01 | 2022-07-27 |
-| [Sola en los Bares \(En Vivo Estadio Obras\)](https://open.spotify.com/track/2YKniWmO0pqMXajnqrKpA3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Sola en los Bares \(En Vivo Estadio Obras\)](https://open.spotify.com/album/2m9MlSTsQ31vDsGtkNGcbG) | 3:41 | 2023-07-14 |  |
+| [Sola en los Bares \(En Vivo Estadio Obras\)](https://open.spotify.com/track/2YKniWmO0pqMXajnqrKpA3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Sola en los Bares \(En Vivo Estadio Obras\)](https://open.spotify.com/album/2m9MlSTsQ31vDsGtkNGcbG) | 3:41 | 2023-07-14 | 2024-01-12 |
 | [Solito Vas \- En Vivo Movistar Arena](https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Solito Vas \(En Vivo Movistar Arena\)](https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf) | 3:54 | 2023-11-17 |  |
 | [Solo](https://open.spotify.com/track/5FpCjtZiQ1fEBcsJFdOrtU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 3:52 | 2022-04-01 | 2022-07-20 |
 | [Solo \- En Vivo](https://open.spotify.com/track/1jWR7BjkDfuZ8pYI5XsspE) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 4:27 | 2022-06-24 | 2022-07-26 |

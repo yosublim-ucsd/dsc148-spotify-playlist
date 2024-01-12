@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,513,111 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511,520 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 93 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 |
 | 94 | [Estilo de Vida](https://open.spotify.com/track/1muTEUeGKeiS6PlVHFBIWq) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 2:21 |
 | 95 | [7D](https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [7D](https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS) | 3:56 |
-| 96 | [Merlina](https://open.spotify.com/track/6Ai42oZmF5kTfs8eGUpsmc) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Trap or Ween](https://open.spotify.com/album/2LfYNX1oJszU5Ua1Trj2G2) | 3:26 |
+| 96 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 |
 | 97 | [UuU](https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [UuU](https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq) | 2:55 |
-| 98 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 |
+| 98 | [Merlina](https://open.spotify.com/track/6Ai42oZmF5kTfs8eGUpsmc) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Trap or Ween](https://open.spotify.com/album/2LfYNX1oJszU5Ua1Trj2G2) | 3:26 |
 | 99 | [Gang Affiliated](https://open.spotify.com/track/6CowfoUU9CHy8oikWW0FYa) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [Gang Affiliated](https://open.spotify.com/album/2G2ee9kBGHYeydVSKFMAUY) | 3:00 |
 | 100 | [Conexiones](https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Conexiones](https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz) | 3:21 |
 
-Snapshot ID: `MCxkMDMyZWJmNTQyYTQ0ZTczMTlhNGMzYzk3ZTU3OWI3YWRhNmZiZjZl`
+Snapshot ID: `MCw0NGYxZjI1NjNmYWQ4Yzc0ZmMzNDhiMGY1NGY3YTUwMzQxMWMzY2Qz`

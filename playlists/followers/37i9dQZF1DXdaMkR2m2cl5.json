@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 73116,
+  "2024-01-12": 73139,
   "date_first_scraped": "2021-12-28",
   "description": "Soft, smoky undertones of singer-songwriter sounds give way to lingering notes of rich, earthy chamber folk. Cover: Glen Hansard.",
   "name": "Folk Feast",
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 198173,
       "name": "It Must Be Someone Else\u2019s Fault",
       "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
@@ -2647,6 +2647,24 @@
       "duration_ms": 268626,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+    },
+    {
+      "album": {
+        "name": "Nocturne - EP",
+        "url": "https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE?si=B9nqNMHqRz64G83NKUThtg">Arno Jordaan</a>
+> Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt?si=u8NseDH5Rfu7s\_Tn0jl1tA">Ryno Velvet</a>
 
-727 songs - 1 day 17 hr 5 min
+730 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Die Een](https://open.spotify.com/track/6M8I6dVjwXVdzJaQ3TjBh8) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Die Een](https://open.spotify.com/album/4WiSBEWYEPsJgTyM793XTA) | 3:44 | 2023-04-06 | 2023-05-06 |
 | [Die Een Wat Ek Liefhet](https://open.spotify.com/track/4bNu09KaKRYXcOj5Ehd1Nl) | [RICHELLE GRANT](https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H) | [Die Een Wat Ek Liefhet](https://open.spotify.com/album/0TmmdquKZCcoGHAbNFLRjn) | 4:52 | 2023-07-13 | 2023-07-28 |
 | [Die Einde](https://open.spotify.com/track/1WuPoDEk04VoisbtZGEbH9) | [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Die Einde](https://open.spotify.com/album/66s8ljFyFQkq7xOxlycstQ) | 3:18 | 2023-07-27 | 2023-09-08 |
-| [Die Goeie Ou Dae](https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ) | 3:09 | 2023-12-08 |  |
+| [Die Goeie Ou Dae](https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ) | 3:09 | 2023-12-08 | 2024-01-12 |
 | [Die Groot 5](https://open.spotify.com/track/6WxhGhjofeekFGv2cAev2d) | [ADAM](https://open.spotify.com/artist/486zoG8VpR4C1iQRLG4ywt) | [Die Groot 5](https://open.spotify.com/album/0Stac5DYWhAPidv1wDNVn3) | 3:33 | 2023-10-12 | 2023-12-01 |
 | [Die Laaste Keer](https://open.spotify.com/track/4igd3gDKp4OGAi9C2W4ovN) | [Giselle](https://open.spotify.com/artist/3q6m6kxjSndfgNlbd315ur) | [Die Laaste Keer](https://open.spotify.com/album/4xAsnq7uFDOQrlt2MXYuk2) | 3:21 | 2023-03-30 | 2023-04-14 |
 | [Die Langpad Gee Nie Om Nie](https://open.spotify.com/track/1MxOJWWOxVoORiLWiaprtE) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Die Langpad Gee Nie Om Nie](https://open.spotify.com/album/1WGbkqq67oUt7rHH9RyPXS) | 4:02 | 2023-07-27 | 2023-08-18 |
@@ -155,6 +155,7 @@
 | [Die Sonskyn en Die Reën](https://open.spotify.com/track/16msFCHm7rvxMKgVQnHRaX) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Die Sonskyn en Die Reën](https://open.spotify.com/album/1G1I8b6QO6p7r8IM94C0cR) | 3:05 | 2023-10-19 | 2023-11-03 |
 | [Die Vakansie Song](https://open.spotify.com/track/08Mazf5v3uQRhbS7y46wHn) | [Chris Duvenage](https://open.spotify.com/artist/1p3GqqXMmPVzDnpqhWCf6O) | [Die Vakansie Song \- Shokbasse Remix](https://open.spotify.com/album/3zUSxdod87bOZ8I8hNjU0O) | 3:40 | 2023-03-09 | 2023-03-25 |
 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 | 2023-03-09 | 2023-03-25 |
+| [Die Wors Song](https://open.spotify.com/track/2UCudHlzKNBcJ1QVhZuce5) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [Die Wors Song](https://open.spotify.com/album/3tKymqLeAllgjh0LCcgI7C) | 2:45 | 2024-01-11 |  |
 | [DieVeilingPitCrew](https://open.spotify.com/track/3vn8jIdO1p8LjnyMMn24Jt) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [DieVeilingPitCrew](https://open.spotify.com/album/7hFI51vZlEWWpjMogVbFU2) | 4:01 | 2023-12-21 | 2023-12-30 |
 | [Dis Jy](https://open.spotify.com/track/56YlDobcg3BNFPYpZItGks) | [Alouise](https://open.spotify.com/artist/7KInqkz6l03usNvPrh3jry) | [Dis Jy](https://open.spotify.com/album/1JOeC8VnA5FjRH9o33jfyX) | 2:53 | 2023-04-13 | 2023-05-05 |
 | [Dis net genade](https://open.spotify.com/track/42urV2zj1oB3PvUReuRs8g) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Dis net genade](https://open.spotify.com/album/2nol1nx1I6vJLA2FT9ADGs) | 3:49 | 2023-10-12 | 2023-10-27 |
@@ -424,7 +425,7 @@
 | [My Mense](https://open.spotify.com/track/0ixkzA6JwMNvrSo70IqUsV) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [My Mense](https://open.spotify.com/album/1u9Je4aCm8HUBixKTNC05x) | 3:34 | 2023-09-28 | 2023-11-24 |
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 | 2023-02-03 |
 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 | 2023-03-31 |
-| [My Rede](https://open.spotify.com/track/63FtCyJDSrX5V86Q1uxlzA) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [My Rede](https://open.spotify.com/album/63bjXAWDJMOr6G0jqzgVMH) | 3:39 | 2023-12-14 |  |
+| [My Rede](https://open.spotify.com/track/63FtCyJDSrX5V86Q1uxlzA) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [My Rede](https://open.spotify.com/album/63bjXAWDJMOr6G0jqzgVMH) | 3:39 | 2023-12-14 | 2024-01-12 |
 | [My Sonskyn](https://open.spotify.com/track/6LMmE9FaIYj7IxFJOopSwU) | [Etienne Steyn](https://open.spotify.com/artist/4dxKeBjgTEvUYgtS4oBi94) | [My Sonskyn](https://open.spotify.com/album/4y9x9OA3gego74lcp1bwPx) | 3:39 | 2023-12-29 | 2024-01-06 |
 | [My Sonskyn](https://open.spotify.com/track/2CktNfTd3lvPHwVfBaSGxR) | [Melissa van Jaarsveld](https://open.spotify.com/artist/1R2IoeZ8xw9Y35es1vZp4j) | [My Sonskyn](https://open.spotify.com/album/3Yd6n0KAvRrsuKOLlVlXPU) | 4:03 | 2022-12-08 | 2023-02-10 |
 | [My Tipe Dronk](https://open.spotify.com/track/48S2n4oh2TXCkuFeKvcmvp) | [Emil Paul](https://open.spotify.com/artist/1eLGnVNTlowcmg1Hhjv8os) | [Wit & Swart](https://open.spotify.com/album/2EhKUsAhmhbwWGyTaeNZRD) | 3:27 | 2023-07-13 | 2023-08-25 |
@@ -594,6 +595,7 @@
 | [Stella](https://open.spotify.com/track/7i6NZDKEjS9esM2FVUxgf0) | [Wouter Van De Venter](https://open.spotify.com/artist/3cZNCHI9iQev06QNIw1g7M) | [Stella](https://open.spotify.com/album/4AdJRlkC4cwGRhwtwHt4xz) | 3:25 | 2023-03-23 | 2023-04-28 |
 | [Stellenpotch](https://open.spotify.com/track/3cCrymy2s0f2cafWtY3O86) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN), [Wian](https://open.spotify.com/artist/2hCzV79fXHGVB6E1klk284) | [Stellenpotch](https://open.spotify.com/album/7iEr0RWnBeu6G8WlHQ6RqQ) | 3:08 | 2023-07-13 | 2023-08-11 |
 | [Sterre Brand](https://open.spotify.com/track/1xT34fo4r7js5GIDpybGgb) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Sterre Brand](https://open.spotify.com/album/6qh0I1uJKdu9mZMKUQBmDC) | 3:35 | 2022-12-27 | 2023-01-02 |
+| [Sterreval](https://open.spotify.com/track/6jueUMxROt1rtTW7mBM7Cs) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Sterreval](https://open.spotify.com/album/1yGzH2bIEChjXMqZnBUuvI) | 3:56 | 2024-01-11 |  |
 | [Stockholm Sindroom](https://open.spotify.com/track/3rSBfEao6GYdf9UwzY4bPX) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Stockholm Sindroom](https://open.spotify.com/album/57ijDsuH6BoMrIRI76cGD7) | 3:46 | 2023-07-20 | 2023-09-08 |
 | [Stout Vir ...](https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Stout Vir ...](https://open.spotify.com/album/44OnJYSwia2u2MUYgObohx) | 3:27 | 2023-06-22 | 2023-09-15 |
 | [Stoutgat](https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Stoutgat](https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw) | 3:10 | 2023-06-16 | 2023-10-20 |
@@ -677,7 +679,7 @@
 | [Vlam In Die Wind](https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Vlam In Die Wind](https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8) | 3:25 | 2023-06-08 | 2023-09-01 |
 | [Vleisvreters](https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h) | [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r) | [Vleisvreters](https://open.spotify.com/album/6wWrTYihuyhLCpz8C4OLxQ) | 3:07 | 2023-02-23 | 2023-06-17 |
 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 | 2023-11-30 |  |
-| [Voel](https://open.spotify.com/track/3nfvfPPlIamTKAARfxf7Bz) | [Elsje du Toit](https://open.spotify.com/artist/6miepPtiQawx256JNyCecF) | [Voel](https://open.spotify.com/album/03TSFVXzXPXbv2mosZ22Jd) | 2:58 | 2023-12-14 |  |
+| [Voel](https://open.spotify.com/track/3nfvfPPlIamTKAARfxf7Bz) | [Elsje du Toit](https://open.spotify.com/artist/6miepPtiQawx256JNyCecF) | [Voel](https://open.spotify.com/album/03TSFVXzXPXbv2mosZ22Jd) | 2:58 | 2023-12-14 | 2024-01-12 |
 | [Voel](https://open.spotify.com/track/7F1EttumpAy87V9GoihCKL) | [Pieter Marcato](https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA) | [Voel](https://open.spotify.com/album/1dwpZQO2f3cscZJytnlU3D) | 3:23 | 2023-11-30 | 2023-12-15 |
 | [Voel Dit](https://open.spotify.com/track/1ItavW0ZalPyj7vQO7KWRe) | [Tiffany Steyn](https://open.spotify.com/artist/59MpUgNuceaiVthUiMW9Uu) | [Voel Dit](https://open.spotify.com/album/6uFZ0N4CS799dzhJ9LLnvC) | 3:29 | 2023-09-28 | 2023-10-13 |
 | [Voel Jy My](https://open.spotify.com/track/5hh0AnEUkgTxDt3T2kjySl) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Voel Jy My](https://open.spotify.com/album/1Zc7U6baYLrCXX2WUrRC02) | 3:43 | 2022-10-20 | 2022-11-18 |
@@ -731,6 +733,7 @@
 | [Wolkedans](https://open.spotify.com/track/2X2QSGLuvsDZX7i0s2fXnC) | [Leon Gropp](https://open.spotify.com/artist/6IuWDLRpLJQk3xUQoTMuYU) | [Wolkedans](https://open.spotify.com/album/0NZATPM2wR2yYJuKy1sZsM) | 4:45 | 2022-10-27 | 2022-11-18 |
 | [Woorde in my Dagboek](https://open.spotify.com/track/5W6JnYqM94mrq4FcM9yAiG) | [Inspirasie Veelvoud](https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo) | [Woorde in my Dagboek](https://open.spotify.com/album/7gYORwa2NQqegNZBCywnUK) | 4:35 | 2022-10-20 | 2022-11-25 |
 | [Word Wakker](https://open.spotify.com/track/3wkrBIpOW3QqKBPdttq15r) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW) | [Die Liefde Album](https://open.spotify.com/album/3QTGnlJATDAMXUlCDKi38c) | 3:53 | 2022-12-27 | 2023-01-02 |
+| [Wyn](https://open.spotify.com/track/5BODeqZ9b4hekIqt465IU0) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Wyn](https://open.spotify.com/album/1aMOz9dCGypaewrzobd7dX) | 2:38 | 2024-01-11 |  |
 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 | 2023-05-11 | 2023-07-07 |
 | [Ys & Kafeïen](https://open.spotify.com/track/1zDE5g83DQbno2c0OamaIx) | [Anrich](https://open.spotify.com/artist/1myOo5BzIj6jqtMhk6AT77) | [Ys & Kafeïen](https://open.spotify.com/album/070NhdoMtGdP44PWGwaHkK) | 3:47 | 2023-08-24 | 2023-10-27 |
 | [Zaan Kultuur](https://open.spotify.com/track/1w8FbcPeQdKBb5pCEQGmov) | [Uncle Spike](https://open.spotify.com/artist/37f8YdGgf081bIjWe4eSs1) | [I in the Sky](https://open.spotify.com/album/2lZJA3EPcTxsKqWGkmvDC9) | 3:51 | 2022-12-27 | 2023-01-02 |

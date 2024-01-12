@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-228 songs - 14 hr 35 min
+229 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Dørstokkmila](https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s) | [Tre Små Kinesere](https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB) | [De aller beste fra Tre små kinesere](https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx) | 2:51 | 2022-03-03 | 2022-07-01 |
 | [E du nord](https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Og så kom resten av livet](https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN) | 5:11 | 2021-12-16 |  |
 | [E på vei](https://open.spotify.com/track/6f3slcMesa6WKwqw13Hjcb) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [E på vei](https://open.spotify.com/album/4ZrrylN5fV40fBe1OxdXOq) | 4:39 | 2022-03-23 | 2022-07-17 |
-| [Eg glemmer deg aldri](https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Eg Glemmer Deg Aldri](https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ) | 2:58 | 2023-01-19 |  |
+| [Eg glemmer deg aldri](https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Eg Glemmer Deg Aldri](https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ) | 2:58 | 2023-01-19 | 2024-01-12 |
 | [Ei kvinnehand](https://open.spotify.com/track/2uelFmwzrlRwkbfdcoPDTO) | [Maria Solheim](https://open.spotify.com/artist/50dO3ZgIhCt8OEmmMougtn) | [Ei kvinnehand](https://open.spotify.com/album/16xFeS64qgOjf0L6v0Nugg) | 4:04 | 2021-12-16 | 2022-07-29 |
 | [Ein far](https://open.spotify.com/track/0rtsAvuD9oIV95yxrZi9OF) | [Gilberdal](https://open.spotify.com/artist/76L0Tfa45gQ9PIM4YXwlvK) | [Ein far](https://open.spotify.com/album/1ON1aw20DSEExRZAE4Zyr4) | 3:02 | 2022-02-17 | 2022-07-21 |
 | [Ein farfar i livet](https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 3:45 | 2021-12-16 |  |
@@ -86,6 +86,7 @@
 | [Fordi eg elskar deg](https://open.spotify.com/track/2MkdeB9TXLBZpYHpXJECXe) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Fordi eg elskar deg](https://open.spotify.com/album/53dmlzt7IY86gQU3sObaPC) | 3:10 | 2023-01-12 | 2023-04-21 |
 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 | 2021-12-16 |  |
 | [Fremmed](https://open.spotify.com/track/2liMUVPm6WJu5dG2DD7ZRt) | [Terje Formoe](https://open.spotify.com/artist/6kD825qRQoUKwYKDar95SP) | [En Fremmed Banker På](https://open.spotify.com/album/6O1DlVAdXcMVuCOrfnl0nQ) | 2:59 | 2022-01-27 | 2022-01-29 |
+| [Frennings vei](https://open.spotify.com/track/3IiRhQoTkjEPd1Dwzh8nnm) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Stor gutt](https://open.spotify.com/album/7uLvStRUQ1E0VoUlnhRhwy) | 5:59 | 2024-01-11 |  |
 | [Få](https://open.spotify.com/track/4t2s5uZhLjwubLLZroiOr8) | [Jan Eggum](https://open.spotify.com/artist/1QfTCSQTI4rrK027UaiSQ6) | [Hold ut, hold på](https://open.spotify.com/album/1nsgKRyaiObJAN6CRRbLKh) | 3:29 | 2022-03-23 | 2022-07-26 |
 | [Gammel mann](https://open.spotify.com/track/3PfaXLH2xoMTWNKuFToiZl) | [Morten Abel](https://open.spotify.com/artist/60r4k4LiRa6wLr39Fc8Nrh) | [Gammel mann](https://open.spotify.com/album/4QN9cJ42L7pboyzUxPCe6F) | 3:19 | 2021-12-16 | 2022-07-06 |
 | [Glem ikkje](https://open.spotify.com/track/0jJfGO3RFH8cq3Y3Y6ylQH) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Det vi har](https://open.spotify.com/album/3UVZaTuwdmyjzuPHbHuf7L) | 4:44 | 2022-03-23 | 2022-07-18 |

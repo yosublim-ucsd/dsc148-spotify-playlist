@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296309,
+  "num_followers": 296311,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDk0ODlkOGEyMDdhMzRjNGU0NDU0NTMzYjE1ODE4MGQzOTFlNmVl",
+  "snapshot_id": "MCwzMjc0MDRmZTYxZmUyNmI3NmQwMjhmZGNmYjUyMjJiNjIwYzVkZTli",
   "tracks": [
     {
       "added_at": "2023-10-25 14:30:59",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Adelitas Way",
-        "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
-      },
-      "artists": [
-        {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Folie \u00e0 Deux",
         "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214493,
       "name": "I Don't Care - Single Version",
       "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Adelitas Way",
+        "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Pure Morning",
-      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "The Heroin Diaries Soundtrack",
         "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215000,
       "name": "Life is Beautiful",
       "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 254760,
+      "name": "Pure Morning",
+      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Pop Evil",
         "url": "https://open.spotify.com/album/3qytVWeUzpO3PkxPWurIfY"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 234837,
       "name": "Waking Lions",
       "url": "https://open.spotify.com/track/0ZeefLILl0MXQIE1Lm6mCh"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 222725,
-      "name": "Quiet - 2011 Remaster",
-      "url": "https://open.spotify.com/track/5h9qCxrIrS7atH6OEglH8X"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 209542,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/3xxM2OEHAAYnpr2KiPdW4B"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 222725,
+      "name": "Quiet - 2011 Remaster",
+      "url": "https://open.spotify.com/track/5h9qCxrIrS7atH6OEglH8X"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Who Needs Friends",
-      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Moral Panic (The Complete Edition)",
-        "url": "https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 180575,
-      "name": "Ce n'est Rien",
-      "url": "https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh"
+      "duration_ms": 190133,
+      "name": "Who Needs Friends",
+      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1627,6 +1611,22 @@
       "duration_ms": 254613,
       "name": "Rusted From the Rain",
       "url": "https://open.spotify.com/track/0tzWCL2uhb2xQDWgG259nU"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Moral Panic (The Complete Edition)",
+        "url": "https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 180575,
+      "name": "Ce n'est Rien",
+      "url": "https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh"
     }
   ],
   "unique_name": "Anger Management",

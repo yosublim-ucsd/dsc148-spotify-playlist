@@ -1,12 +1,12 @@
 {
   "description": "Music from Nicki Minaj, Drake and Jack Harlow.",
-  "num_followers": 15701655,
+  "num_followers": 15688234,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjIzNmViNjg3MmVmMzU1Y2ZlYjk4ZWJjZGIzOGY2N2NmOTRlMTNi",
+  "snapshot_id": "MCxkZjIwNGJhZjQ4MzBmNGNiNGRkOTNjNjQzMjFlZmM4YjAzNDhhZDVl",
   "tracks": [
     {
       "added_at": "2024-01-05 04:00:00",
@@ -175,6 +175,26 @@
       "duration_ms": 119015,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
+    },
+    {
+      "added_at": "2024-01-11 05:00:00",
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 228366,
+      "name": "First Off (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3WRIaWsws011vHMd9uzPjG"
     },
     {
       "added_at": "2024-01-05 04:00:00",

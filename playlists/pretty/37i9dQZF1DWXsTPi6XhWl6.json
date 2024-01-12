@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33716,
+  "num_followers": 33704,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmJjZTIxYzViODg0NzZjMWJiYzUyMWNhZTA2YjlhNWJiYzllNzg0",
+  "snapshot_id": "MCxiNzhlMWMyMTk4ODA0M2QwN2M4ZGUwZDBlY2RiYzdlNzFjNGM4Y2Rm",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "Why Do You Let Me Stay Here?",
+      "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 150506,
-      "name": "Why Do You Let Me Stay Here?",
-      "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Cease To Begin",
         "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Penny, Heads Up",
-      "url": "https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Asleep At Heaven's Gate (Remastered And Expanded Edition)",
         "url": "https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 228349,
       "name": "Lake Michigan",
       "url": "https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Penny, Heads Up",
+      "url": "https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg"
     },
     {
       "added_at": "2022-06-17 04:02:00",

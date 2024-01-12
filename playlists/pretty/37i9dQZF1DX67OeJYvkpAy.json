@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90364,
+  "num_followers": 90363,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDA5MTdkZGVhNDIzOWU5YWVlYjgwMDU5YjlkNmE1ZTM1ZGEwZGUz",
+  "snapshot_id": "MCxiODk5ODA1YWVjZjY2MTkzZGJiMWVhMjA5YTlmNGM3NjI4ZmNhZjY1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
-      },
-      "artists": [
-        {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
-        }
-      ],
-      "duration_ms": 161425,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "In my head",
         "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 155725,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161425,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Is it too much? (Pray things change)",
-        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
+        "name": "Retrospect (Season 2)",
+        "url": "https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM"
       },
       "artists": [
         {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        },
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 171678,
-      "name": "Is it too much? (Pray things change)",
-      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
+      "duration_ms": 181047,
+      "name": "Too Cold 4 You Here (Sweater Weather)",
+      "url": "https://open.spotify.com/track/2E8m0c6O141CrhoDGdTsDk"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1323,18 +1319,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Retrospect (Season 2)",
-        "url": "https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM"
+        "name": "Is it too much? (Pray things change)",
+        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        },
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
         }
       ],
-      "duration_ms": 181047,
-      "name": "Too Cold 4 You Here (Sweater Weather)",
-      "url": "https://open.spotify.com/track/2E8m0c6O141CrhoDGdTsDk"
+      "duration_ms": 171678,
+      "name": "Is it too much? (Pray things change)",
+      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1395,6 +1395,22 @@
       "duration_ms": 175774,
       "name": "Hearts Get Numb",
       "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Lowkey '",
         "url": "https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Angels Fly High",
-        "url": "https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Angels Fly High",
-      "url": "https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 199705,
       "name": "She Comes & Goes",
       "url": "https://open.spotify.com/track/70PZ5vXHGujPPDZ18mj6A1"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Angels Fly High",
+        "url": "https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Angels Fly High",
+      "url": "https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW"
     },
     {
       "added_at": "2023-08-01 17:14:44",

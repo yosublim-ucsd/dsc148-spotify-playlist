@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 
 > Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,112 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,177 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 49 | [Pequeños Sueños \(Feat\. Natalie Perez\)](https://open.spotify.com/track/2UivQh2IhQJ916OPqxptcz) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Pequeños Sueños \(Feat\. Natalie Perez\)](https://open.spotify.com/album/4vWpM1IlJRmmxtdKkKyU1d) | 3:50 |
 | 50 | [Por Amor al Arte](https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Reset](https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo) | 2:02 |
 
-Snapshot ID: `MCw5ZGI5ZGFlZWUwYmExNjE4NTI3ZDcyMDI3YjM0OWQyNTgxMWY4ZTkz`
+Snapshot ID: `MCwzYjA3NDJiM2RjZWE3MDhlYWE3OWJhMjAyMTZkZWI2MmVhOGRkYjM4`

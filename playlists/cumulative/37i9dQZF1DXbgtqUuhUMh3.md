@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-600 songs - 1 day 10 hr 38 min
+604 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-07-21 | 2023-05-13 |
 | [3ARI](https://open.spotify.com/track/4lyUy5RvVYTQAYWOGcehGA) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/0bOC0hLjsOTpfKEkWrNEFv) | 3:09 | 2022-03-10 | 2022-07-28 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2023-01-01 | 2024-01-11 |
+| [3Aysh Lehnafsy](https://open.spotify.com/track/69mIfXI3uoYJvgKmwqHAxk) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [3Aysh Lehnafsy](https://open.spotify.com/album/4wq5f62mIC99lciYBlZXUS) | 3:40 | 2024-01-11 |  |
 | [3ayza Ba7r](https://open.spotify.com/track/52WUBAeaELu5d39P1FlQdi) | [Shams](https://open.spotify.com/artist/5gH54npc6AzgNhSbArd6oe) | [3ayza Ba7r](https://open.spotify.com/album/4Cg0j4ZSVfmF5Wf1lUzM7L) | 3:49 | 2023-08-17 | 2023-10-03 |
 | [3azezy Elakt2ab](https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [3azezy Elakt2ab](https://open.spotify.com/album/7BJKAonV5Z0ilcWt3qyLhI) | 3:36 | 2023-05-18 | 2023-07-22 |
 | [7alti 7ala](https://open.spotify.com/track/4LWhfDV6erIgAPKDTFsWbZ) | [Tara Salah Moneka](https://open.spotify.com/artist/0Sw2vMYAGpfSHYhYVB5fcZ) | [7alti 7ala](https://open.spotify.com/album/1l9sj2T7Rx4bJxZtykaDQE) | 3:20 | 2021-12-23 | 2022-03-02 |
@@ -82,6 +83,7 @@
 | [Aref Leh](https://open.spotify.com/track/1X6eDYF6lQiUdoDUxk1h9U) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Aref Leh](https://open.spotify.com/album/2pmzX3NRSAlXLymwLpn95x) | 3:30 | 2021-12-23 | 2022-02-27 |
 | [Argaalo Tany](https://open.spotify.com/track/3JjzaCzQMnhTyxr3PXwZP8) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Argaalo Tany](https://open.spotify.com/album/5TtWODmnLMexwu9Fj8viaV) | 5:17 | 2021-12-30 | 2022-02-25 |
 | [Ashagtak](https://open.spotify.com/track/6zQ0pSIDb21ZYBu3VAroEO) | [Razan Ramzi](https://open.spotify.com/artist/3QeEcwuZhmhcghCmY06d1q) | [Ashagtak](https://open.spotify.com/album/7ckLl4DVDPzcPVhrnrAnoe) | 2:17 | 2021-12-23 | 2022-02-28 |
+| [Ashtakou Li Wajhika](https://open.spotify.com/track/7EjcCQH0yjIiGlB1uZ63gV) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ashtakou Li Wajhika](https://open.spotify.com/album/5Y6479pfO4KsRMpb0HhKwa) | 3:36 | 2024-01-11 |  |
 | [Ask the Birds in Cairo](https://open.spotify.com/track/0smhfpWtRIvkZfmSHtlqFP) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [MC Bolbol](https://open.spotify.com/artist/2pvO2XJbzr9F3kzPwPsZW3) | [Citadel](https://open.spotify.com/album/5R5Y42WWQaGI2ZLl9AUkeo) | 3:47 | 2021-12-30 | 2022-02-26 |
 | [Asli Barri](https://open.spotify.com/track/03KTLf6CPbn53mvq96zybI) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7), [Nancy Hawa](https://open.spotify.com/artist/6dFTgftg5qijJnLBRPqWUd), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Yusor Hamed](https://open.spotify.com/artist/6ed5NBGyvev1Q2JzDIS47x) | [Asli Barri](https://open.spotify.com/album/5fnQD9hhQa40g4Bk1xFdsX) | 3:32 | 2021-12-23 | 2022-03-02 |
 | [Atoul](https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Atoul](https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX) | 2:42 | 2022-03-03 | 2023-05-13 |
@@ -96,6 +98,7 @@
 | [Bad Trip](https://open.spotify.com/track/5Yn8SZfv3IYoS49jpomqS3) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [Bad Trip](https://open.spotify.com/album/6LZMuljvaHpZKQx8raK0Zq) | 2:32 | 2021-12-23 | 2022-03-02 |
 | [Badal Madi](https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Badal Madi](https://open.spotify.com/album/5htTIypAWNOYGcDkSWrsgv) | 2:48 | 2023-03-16 | 2023-07-14 |
 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-13 | 2022-11-08 |
+| [Bafaker Kteer \- acoustic](https://open.spotify.com/track/5BwYI8iMcBj43pXyHBvrFf) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer \(acoustic\)](https://open.spotify.com/album/09OvLdsXJZKIh4pcg0pole) | 2:44 | 2024-01-11 |  |
 | [Baghanny](https://open.spotify.com/track/6268FVFOesGcamWngDzyqv) | [Maryam Saleh](https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA), [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Baghanny](https://open.spotify.com/album/497WnlgFjsU8gMmpeUbL5o) | 4:16 | 2023-05-25 | 2023-08-02 |
 | [Baktom](https://open.spotify.com/track/00RZAphqszZAEbYc4iZIvv) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Baktom](https://open.spotify.com/album/3ewFQuhWCrQteYGg41IHez) | 3:10 | 2023-10-12 | 2023-12-09 |
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-03-01 | 2022-11-16 |
@@ -305,6 +308,7 @@
 | [Majrooh](https://open.spotify.com/track/52Sy82cr1pNYrtekkLIjIx) | [Marina Ndayra](https://open.spotify.com/artist/2Rqvvqs1oN7ENbboDpm61v) | [Majrooh](https://open.spotify.com/album/24qh3pDomlGZ6WJS5aQSqe) | 3:34 | 2023-10-12 | 2023-11-18 |
 | [Makanak Khali](https://open.spotify.com/track/47fiFvcSChzOIrvh1BnRlR) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Makanak Khali](https://open.spotify.com/album/1BxWhitrI65tgN8ciUyzjC) | 4:16 | 2023-02-23 | 2023-07-14 |
 | [Makanak Mbyen](https://open.spotify.com/track/0TzQ3u6VhbcxTcRN3zBi8a) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Haneen](https://open.spotify.com/album/5ogbgcC7gexEMspoSYTU8z) | 3:49 | 2022-07-06 | 2022-07-08 |
+| [Makhdoua](https://open.spotify.com/track/19A6iF6lCwziBxQaJERNR8) | [Fayrouz Arkan](https://open.spotify.com/artist/2HjZHaGEC7rAhbqxYBAS1e) | [Makhdoua](https://open.spotify.com/album/6oJrccX5eO78kesQonQMNj) | 4:33 | 2024-01-11 |  |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-11-01 | 2024-01-11 |
 | [Makhntny](https://open.spotify.com/track/7lddnpLYUOXG1P1pGbMlxQ) | [Meme](https://open.spotify.com/artist/3VebAr9PRCkjBiOeeK2Xr3) | [Makhntny](https://open.spotify.com/album/0zR7KLmcF1FrxJhTjxfJ7l) | 3:21 | 2021-12-23 | 2022-03-02 |
 | [Maksour Albi \- مكسور قلبي \- From Eshret Omor Series \- من مسلسل عشرة عمر](https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Maksour Albi \- مكسور قلبي \(From Eshret Omor Series \- من مسلسل عشرة عمر\)](https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2) | 2:41 | 2023-03-23 | 2024-01-11 |

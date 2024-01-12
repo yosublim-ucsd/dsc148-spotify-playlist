@@ -6794,8 +6794,8 @@
           "url": "https://open.spotify.com/artist/3UJfOrT4kZIoRtRfaCQgFp"
         },
         {
-          "name": "Shabaka Hutchings",
-          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
         },
         {
           "name": "Aniel Someillan",
@@ -17118,10 +17118,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206520,
       "name": "Pressure on the Pulse",
       "url": "https://open.spotify.com/track/1bzbo40agQ6NOQE0mHquEs"
+    },
+    {
+      "album": {
+        "name": "Diagnosis",
+        "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Pressure on the Pulse",
+      "url": "https://open.spotify.com/track/40MBOllKyanYQZ8vuexEXI"
     },
     {
       "album": {

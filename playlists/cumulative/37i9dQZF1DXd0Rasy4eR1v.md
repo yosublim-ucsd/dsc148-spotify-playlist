@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Freshest of Pakistani discoveries\. Cover \- AUR
+> Freshest of Pakistani discoveries\. Cover \- Zeeshan Ali
 
 656 songs - 1 day 11 hr 34 min
 

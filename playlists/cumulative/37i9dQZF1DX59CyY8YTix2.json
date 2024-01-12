@@ -4729,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "I'll go first, sorry",
+        "url": "https://open.spotify.com/album/2iqvVaNNtKCxEWKc9m3Xlz"
+      },
+      "artists": [
+        {
+          "name": "ALMONDot",
+          "url": "https://open.spotify.com/artist/5uijk6q2ZtAEm4K0pWZLdh"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182629,
+      "name": "I'll go first, sorry",
+      "url": "https://open.spotify.com/track/0sx8nNfNy3c6GYF77ptRwX"
+    },
+    {
+      "album": {
         "name": "I'm sure",
         "url": "https://open.spotify.com/album/7jJlrOPsCrLHoZvZ0eVrcn"
       },
@@ -21600,7 +21618,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 210120,
       "name": "\u6545\u306eLOVE",
       "url": "https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8"

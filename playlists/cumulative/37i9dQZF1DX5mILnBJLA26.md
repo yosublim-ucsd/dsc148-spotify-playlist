@@ -2,7 +2,7 @@
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=17R\-DXikTKmMRdckBlAi\-A">DJ Maphorisa</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb?si=MCJBZIHMTrerJA\_v3Ozj\-g">Ggoldie</a>
 
 1,162 songs - 5 day 0 hr 33 min
 

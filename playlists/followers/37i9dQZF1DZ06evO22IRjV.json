@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 28836,
+  "2024-01-12": 28834,
   "date_first_scraped": "2022-06-10",
   "description": "This is FLOW. The essential tracks, all in one playlist.",
   "name": "This Is FLOW",
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 227706,
       "name": "WORD OF THE VOICE",
       "url": "https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM"
@@ -1745,6 +1745,24 @@
       "duration_ms": 256160,
       "name": "\u6d41\u661f",
       "url": "https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v"
+    },
+    {
+      "album": {
+        "name": "\u70c8\u706b",
+        "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "\u70c8\u706b",
+      "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
     },
     {
       "album": {

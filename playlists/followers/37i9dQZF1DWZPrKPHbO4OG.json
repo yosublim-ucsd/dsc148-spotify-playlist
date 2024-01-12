@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 18797,
+  "2024-01-12": 18813,
   "date_first_scraped": "2023-07-25",
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
   "name": "Marathi Workout",
@@ -273,6 +273,28 @@
       "duration_ms": 214536,
       "name": "Dhuvun Taak",
       "url": "https://open.spotify.com/track/68NrdN8PgrBr3U4lQWGKCU"
+    },
+    {
+      "album": {
+        "name": "Jau Dya Na Balasaheb (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK"
+      },
+      "artists": [
+        {
+          "name": "Nagesh Morwekar",
+          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
+        },
+        {
+          "name": "Earl Edgar",
+          "url": "https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335658,
+      "name": "Dolby Walya",
+      "url": "https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR"
     },
     {
       "album": {
@@ -893,7 +915,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 165851,
       "name": "Punyachi Maina Remix",
       "url": "https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31"

@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-437 songs - 23 hr 56 min
+438 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Médicament](https://open.spotify.com/track/7zqDvIozUYDkUU2j61O9M8) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [1901 \- Part II](https://open.spotify.com/album/3KqY4Enmk7fHbjq7eIRmY2) | 3:22 | 2022-09-15 | 2022-11-11 |
 | [Médicament](https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Médicament](https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j) | 3:22 | 2021-12-16 | 2022-09-16 |
 | [Mélodie \(with DORA\)](https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Mélodie \(with DORA\)](https://open.spotify.com/album/2scI9aMrYO9fkaIba8tUhn) | 3:36 | 2023-03-02 | 2023-03-18 |
+| [Métaphores](https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Métaphores](https://open.spotify.com/album/12awGrBjFIJcRWGGrTqGAJ) | 3:21 | 2024-01-11 |  |
 | [Never Get Old](https://open.spotify.com/track/2JMSqKjWQYBhmWG8yWj7DE) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/4hhy0wVU3ktRB7Siiikk29) | 2:44 | 2023-06-01 | 2023-07-31 |
 | [Never Get Old](https://open.spotify.com/track/3yz5In41ReX8WHkRaAxuob) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/73XYoAKcZhb1cmt2simbJD) | 2:44 | 2023-07-27 | 2023-09-01 |
 | [Night Heights](https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw) | 4:09 | 2023-04-20 | 2023-12-08 |
@@ -356,7 +357,7 @@
 | [six summers ago](https://open.spotify.com/track/1gGMlQrApJ3eW2CNwI5FFA) | [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [september tape](https://open.spotify.com/album/1XWwaTQTCLUZh3AeBreQIr) | 2:59 | 2023-09-28 | 2023-10-20 |
 | [SMILE](https://open.spotify.com/track/6EQCByvO8WXdHYw6QLLXNI) | [Fantomes](https://open.spotify.com/artist/7HKyji7RprYFvPw3EaARgS) | [SMILE](https://open.spotify.com/album/4eCVIY1Y7nwewuyb4f0Phx) | 2:42 | 2023-06-08 | 2023-06-30 |
 | [Snake](https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Source](https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS) | 2:41 | 2022-05-12 | 2022-06-03 |
-| [sois en sûre](https://open.spotify.com/track/3tF6NK7UHgMhNZGRz0pirj) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/51qJqPSkLjZduPCVDFOJUc) | 2:53 | 2023-11-02 |  |
+| [sois en sûre](https://open.spotify.com/track/3tF6NK7UHgMhNZGRz0pirj) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/51qJqPSkLjZduPCVDFOJUc) | 2:53 | 2023-11-02 | 2024-01-12 |
 | [sois en sûre](https://open.spotify.com/track/4og5X5Y2gvX3UN80eWe46p) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/3I1vs7XOz164tMAaICcxi7) | 2:53 | 2023-05-04 | 2023-11-04 |
 | [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 | 2022-03-31 | 2022-05-13 |
 | [Soleil de minuit](https://open.spotify.com/track/3FzOlSWz0gKbthX0AJ6Vqw) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Soleil de minuit](https://open.spotify.com/album/1dB8roYaSN1rd7z1VSpnJK) | 3:11 | 2022-06-09 | 2022-06-24 |

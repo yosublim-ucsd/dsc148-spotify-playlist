@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lewis Capaldi, Green Day, Gabby Barrett, The Game and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,181,090 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,178,151 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 12 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
 | 13 | [Come Thru](https://open.spotify.com/track/6ch7VjsIzc4eoBoa616Lc6) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Come Thru](https://open.spotify.com/album/2JwbRTXFPFkNLQzL9E3Yvr) | 2:05 |
 | 14 | [Apocalipsis](https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [RealG4Life Vol\. 4](https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx) | 2:23 |
-| 15 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [B HAM](https://open.spotify.com/artist/0pfOqJLCEaTlaiAZ7P4p5A), [Corey Cooper](https://open.spotify.com/artist/5JAROdWMgMH5zJjtE4AojW) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
+| 15 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 | 16 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
 | 17 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 |
 | 18 | [I'm Sorry](https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry](https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f) | 3:23 |
@@ -103,11 +103,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 93 | [a new year's resolution](https://open.spotify.com/track/3juLcgdBXJfSfqo7P1B4al) | [Roofman](https://open.spotify.com/artist/1OHs0NYmF2L7fL2ELOIvPu) | [8 songs from the bathroom \(1\-4\)](https://open.spotify.com/album/2nLmVqfPUee5FS53QGaQ9w) | 2:09 |
 | 94 | [THE ANGEL IN THE SOUND](https://open.spotify.com/track/645X2TEySTA8mWUZOSp3VL) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [THE ANGEL IN THE SOUND](https://open.spotify.com/album/06h9yuZQNJYeLfe83CHRZY) | 3:18 |
 | 95 | [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 |
-| 96 | [Don’t Leave Me Loving You](https://open.spotify.com/track/5YTBeFxMYLEqkTtadRY0Ze) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QTUFjOPzU3hZFawaVRzNG) | 3:07 |
+| 96 | [Don’t Leave Me Loving You](https://open.spotify.com/track/3RIRS2YNIyFCVAgSfzOzTC) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QpEKpAvnorJv91eZx53BP) | 3:07 |
 | 97 | [bach \(God the Father in Eternity\)](https://open.spotify.com/track/3bbByZNj0PTEeVjBVRqW3G) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [bach \(God the Father in Eternity\)](https://open.spotify.com/album/112mfBtPfKiBSH0zyzz4oL) | 8:40 |
-| 98 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw) | 4:32 |
+| 98 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/6hOGZCEgzOEULm4lXk9SS2) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/60bBNV9rQfhoD8YnfbWTIq) | 4:32 |
 | 99 | [You're my heart](https://open.spotify.com/track/3CaaXDUncFQbGLgq5hrnYo) | [Beach Cowboys](https://open.spotify.com/artist/4fFR4MFp1iaTkBhRe27u3Z) | [You're my heart](https://open.spotify.com/album/5Q0iCV92mLpyXcQTKupyiK) | 3:54 |
 | 100 | [Maybe In The Summer](https://open.spotify.com/track/7foJ5hOQ0i4oJbgtjdUa0w) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Maybe In The Summer](https://open.spotify.com/album/349cHC0kfEg2nf5ixElOed) | 2:29 |
 | 101 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 |
 
-Snapshot ID: `MCxlZGNmNmQ0NzIzNTAxNzM1M2QzNmM5ZDQyMTFlNzA1MzQ1OGU1YTg4`
+Snapshot ID: `MCxkZDQxYzA0YjljNmFjMGUyNmY2NjU2MTVjMmE0YmUwODNmMDFhNzdm`

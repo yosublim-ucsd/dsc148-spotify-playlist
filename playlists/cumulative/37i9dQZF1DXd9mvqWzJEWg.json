@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "EGM",
+        "url": "https://open.spotify.com/album/2B45Vlv5hmsKXsVUWjF0E6"
+      },
+      "artists": [
+        {
+          "name": "Griffit Vigo",
+          "url": "https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464437,
+      "name": "EGM",
+      "url": "https://open.spotify.com/track/2xxlQN3Po6V8EOu0IY7bGH"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/0oR6mfFuulK6jJHX7Vi0Lk"
       },

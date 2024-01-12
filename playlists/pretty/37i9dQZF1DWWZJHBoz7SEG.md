@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Oro, incienso y rolitas nuevas para disfrutar la primera semana del 2024 🥰 Luis R\. Conriquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,234 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,907 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [La vida no quiso](https://open.spotify.com/track/7iM2xqfmBNUTqdd40jFFYX) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [La vida no quiso](https://open.spotify.com/album/7K9xzNL9smUXSpKAAg7Zzq) | 3:36 |
 | 50 | [casa de espejos](https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [casa de espejos](https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK) | 2:21 |
 
-Snapshot ID: `MCxhYmVjODhiMzNhOTMyNzg5Yzk2NWVkMzAzYTY4Mjg5OWExNzAxNjA3`
+Snapshot ID: `MCw4OGUyZWJlYTUxYTUzNDdmYWFmMjczODZhMmU3NTUwMWMxM2Q4NjJi`

@@ -6783,6 +6783,28 @@
     },
     {
       "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/4pdPy4J47C3lGIskADcPaF"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/5PL8dvsu2em4eVNYeCBlvb"
+    },
+    {
+      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/6EsDzq06dJ2b09OINEIyHS"
       },

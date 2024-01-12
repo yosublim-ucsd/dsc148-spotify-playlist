@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Ci\u00f2 che amo scompare",
+        "url": "https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r"
+      },
+      "artists": [
+        {
+          "name": "Rayan Seventeen17",
+          "url": "https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183642,
+      "name": "Ci\u00f2 che amo scompare",
+      "url": "https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574"
+    },
+    {
+      "album": {
         "name": "Fuori di me",
         "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
       },
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 132231,
       "name": "oggi ho pianto",
       "url": "https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C"

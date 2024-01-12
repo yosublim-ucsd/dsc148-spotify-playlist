@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Caro Raro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,361 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,375 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 74 | [panas](https://open.spotify.com/track/6Q8shVWdAEqy5oKx8rsTyf) | [javicrespo](https://open.spotify.com/artist/7E7nZ0jJEFOkZhEyz4RPMN) | [tinta permanente](https://open.spotify.com/album/3WcwPu1b76lBP5aHFyKqNg) | 3:20 |
 | 75 | [Unavailable](https://open.spotify.com/track/5A9Xt9C5BlNsmYJB5zjZAk) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Unavailable](https://open.spotify.com/album/5hGXOWscHcAcgdXCXNDhrc) | 2:29 |
 
-Snapshot ID: `MCwwZWY5NDY3OWVjNDc3YjFlODBkNzBmMDc1NTdlODZjM2FiYmM5MTE3`
+Snapshot ID: `MCwxMTliYTYxYzRkMmZiY2M0NzNjNjIwNzE3MDU3ODYyNzQwMDZmZThl`

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-558 songs - 2 day 5 hr 32 min
+559 songs - 2 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Ben Suliman](https://open.spotify.com/track/61K2ojT7cOXHEX6sPa0RTP) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i) | [Ben Suliman](https://open.spotify.com/album/3pGaHYcyYR5AK0dR5LzqET) | 7:47 | 2021-04-21 | 2022-07-24 |
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2023-12-15 |  |
 | [Better Left Unsaid](https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Better Left Unsaid](https://open.spotify.com/album/5IWlPDue4yjlDOWLJ9tNeJ) | 3:15 | 2023-09-29 | 2023-10-05 |
+| [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 5:02 | 2024-01-05 |  |
 | [Birdhouse](https://open.spotify.com/track/1ZVQwuH7hkZiT6XljB2Au3) | [Ykonosh](https://open.spotify.com/artist/2peTWb6ju8YmQQSw5LcA5C), [Mundai](https://open.spotify.com/artist/652ljuzwRVrf1Y1Ly6dVpi) | [Birdhouse](https://open.spotify.com/album/0tAg6GiHkEzpfN4mSyFBf8) | 6:40 | 2022-01-21 | 2022-07-25 |
 | [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 | 2021-06-04 | 2022-07-29 |
 | [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 | 2023-02-21 |
@@ -184,7 +185,7 @@
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2022-03-25 | 2023-09-30 |
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-01 |  |
 | [Forest Moon](https://open.spotify.com/track/5p7vUQP5xkQY6qP8SqqIlU) | [Quivver](https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD) | [Forest Moon](https://open.spotify.com/album/4lzTuaJRwJCb6CRjOv9j1L) | 6:47 | 2021-04-21 | 2022-07-16 |
-| [Fragile](https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9) | [Fragile](https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom) | 7:34 | 2023-04-21 |  |
+| [Fragile](https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9) | [Fragile](https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom) | 7:34 | 2023-04-21 | 2024-01-12 |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-08 | 2022-12-17 |
 | [Free Bird](https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Free Bird](https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ) | 3:43 | 2023-03-31 | 2023-05-02 |
 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 | 2022-07-01 | 2022-08-17 |

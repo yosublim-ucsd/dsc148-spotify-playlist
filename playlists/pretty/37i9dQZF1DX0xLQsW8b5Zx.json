@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 531966,
+  "num_followers": 531858,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWNhYzcxZDI4ODNhYjQxN2VlZGQ3OTk0MmMyMDZhNmVhMTJiODUx",
+  "snapshot_id": "MCxmNzA4ODkzOTRkOWE5OWM2Yjg1YTY1ZDFkYWM4YmUzNDdkMzQyN2My",
   "tracks": [
     {
       "added_at": "2023-10-27 12:44:19",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
+        "name": "The Playmate",
+        "url": "https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb"
+      },
+      "artists": [
+        {
+          "name": "Francine",
+          "url": "https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
         "name": "The Best Of Eddie Cochran",
         "url": "https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 153333,
       "name": "Rock Billy Boogie",
       "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
-        "name": "The Playmate",
-        "url": "https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb"
-      },
-      "artists": [
-        {
-          "name": "Francine",
-          "url": "https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY"
-        }
-      ],
-      "duration_ms": 234293,
-      "name": "Goodbye Forever",
-      "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Like, Mann: Carl Mann Sings",
-        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
       },
       "artists": [
         {
-          "name": "Carl Mann",
-          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
+          "name": "Jerry Jaye",
+          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
         }
       ],
-      "duration_ms": 146728,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
+      "duration_ms": 135666,
+      "name": "Redneck Rock",
+      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
+        "name": "Like, Mann: Carl Mann Sings",
+        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
       },
       "artists": [
         {
-          "name": "Jerry Jaye",
-          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
+          "name": "Carl Mann",
+          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
         }
       ],
-      "duration_ms": 135666,
-      "name": "Redneck Rock",
-      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
+      "duration_ms": 146728,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC"
-      },
-      "artists": [
-        {
-          "name": "The Buckaroos",
-          "url": "https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Our Brand",
         "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 149293,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC"
+      },
+      "artists": [
+        {
+          "name": "The Buckaroos",
+          "url": "https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Rockabilly Blues",
-        "url": "https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Rockabilly Blues (Texas 1955)",
-      "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Help Me Out",
         "url": "https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 179338,
       "name": "Help Me Out",
       "url": "https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Rockabilly Blues",
+        "url": "https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Rockabilly Blues (Texas 1955)",
+      "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
     }
   ],
   "unique_name": "Rockabilly Mania",

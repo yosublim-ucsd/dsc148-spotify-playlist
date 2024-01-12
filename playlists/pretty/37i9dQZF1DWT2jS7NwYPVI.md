@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet feat\. the 2024 Rock Artists to Watch  \| Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,558 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,645 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [MAKE IT UP](https://open.spotify.com/track/1zXefmngPj3d2nJEtwJNHd) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MAKE IT UP](https://open.spotify.com/album/6F4piW1oRQJIDtL7wEgxrm) | 2:58 |
 | 100 | [Big Air](https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Big Air](https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B) | 3:26 |
 
-Snapshot ID: `MCw5ZmU2ZDhmZDY2OWVhZTRlOWZiMzlhMDk0ODU1YjMwMTgwOTE2OTUx`
+Snapshot ID: `MCwxNDc2NzFjNzc1ZDdjMjM4MTFmZTNmODg3ZTNjMzZiMTY3ZDk1Yzhh`

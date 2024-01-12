@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 573489,
+  "num_followers": 573075,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjZhOTlhNmE3ZjJkZjdkODVmOTk2NmNjNDM5MjRkMWViOTM1MTU0",
+  "snapshot_id": "MCxmMmIxZjg3MzliNjA0ZTc2MjcwZjc4ZjBmYzhhMmQwYTBiMGRjZTYy",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Gente Impresentable",
-        "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "La senda del tiempo",
-      "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Barricada",
         "url": "https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 175333,
       "name": "No Hay Tregua",
       "url": "https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Gente Impresentable",
+        "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "La senda del tiempo",
+      "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1043,22 +1043,6 @@
       "duration_ms": 337666,
       "name": "Corazon de mimbre",
       "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Nos Vemos En Los Bares",
-        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "20 de abril - En directo 1997",
-      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 293533,
       "name": "El ritmo del garaje",
       "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Nos Vemos En Los Bares",
+        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "20 de abril - En directo 1997",
+      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1723,26 +1723,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Ur\u00f3boros",
-        "url": "https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9"
+        "name": "Nada podr\u00e1 salvarte",
+        "url": "https://open.spotify.com/album/36Q4MusSmNepwOFmatWmYs"
       },
       "artists": [
         {
-          "name": "Albertucho",
-          "url": "https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
         },
         {
-          "name": "Kutxi Romero",
-          "url": "https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY"
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
         },
         {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+          "name": "Igor Paskual",
+          "url": "https://open.spotify.com/artist/54Jcsil8FDwDBNkkfcE9Ub"
         }
       ],
-      "duration_ms": 217900,
-      "name": "Ur\u00f3boros",
-      "url": "https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX"
+      "duration_ms": 217052,
+      "name": "Nada podr\u00e1 salvarte",
+      "url": "https://open.spotify.com/track/2YE3RPCJ94TdJAHsrnbwXc"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

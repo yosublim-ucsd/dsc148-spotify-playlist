@@ -6273,7 +6273,7 @@
     },
     {
       "album": {
-        "name": "Company",
+        "name": "Company For Now",
         "url": "https://open.spotify.com/album/1kVdPf4akEAG56XYh1reG3"
       },
       "artists": [
@@ -6282,19 +6282,19 @@
           "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
         },
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
           "name": "Angel",
           "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183646,
-      "name": "Company",
+      "name": "Company For Now",
       "url": "https://open.spotify.com/track/6jGSAwnrXnIYPwhrvftCoB"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Renan Samam
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,354 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,186 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Não Me Esqueça Ao Amanhecer](https://open.spotify.com/track/1ZWSw6I6tY3nvVA95tz7cD) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV) | [Não Me Esqueça Ao Amanhecer](https://open.spotify.com/album/4nRVw34TEkjk4ww425I3oq) | 2:26 |
 | 75 | [TAÇA](https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 3:06 |
 
-Snapshot ID: `MCwyYTFhMjI4ZGQyZWZlOTkwNDY2Nzc1Y2ZhN2IxYTAxNTQ3NDBhZGM2`
+Snapshot ID: `MCxiZThmYjRkYTlhODMwZjgzNWJmZGU3ZWNhNTEwNTUxMjU1ZGVlMTJl`

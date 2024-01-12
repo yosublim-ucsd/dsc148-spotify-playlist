@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Bas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,156 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,071 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 35 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 |
 | 36 | [Shimmy \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1EY8nx5zKnaag1rlc2zNNd) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [College Park](https://open.spotify.com/album/7KcBjQ5f47uYAmvWCbB2FX) | 2:35 |
 | 37 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
-| 38 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 |
+| 38 | [Swerve](https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | ['95 Civic](https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T) | 3:19 |
 | 39 | [Fine Lines](https://open.spotify.com/track/45nzNqtVEn53J8h1qf8tkm) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 4:58 |
 | 40 | [Save Yours](https://open.spotify.com/track/20ONgMrt1QKEo1xRvyv8Jx) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Save Yours](https://open.spotify.com/album/3aNFCwqjk0FUqTC9ycTxZv) | 3:09 |
 | 41 | [All I Ask](https://open.spotify.com/track/4kBGRM65NpDywg6qvjmSz9) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R), [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju), [Michael Prince](https://open.spotify.com/artist/2fHlRBNOU7dkeZ2nOFBewO) | [FAMILY BUSINESS](https://open.spotify.com/album/3bEjPKZWHKsE3pEfyw8WD7) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Know It's Real](https://open.spotify.com/track/5pdicIOZXnQfHJBb62dCR2) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Know It's Real](https://open.spotify.com/album/0t7HLKbhaqd7VwhmWGLaEV) | 3:24 |
 | 100 | [Last Time](https://open.spotify.com/track/5lNWV5HwCCPbRX5OD1HcVt) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Holy Water](https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A) | 3:11 |
 
-Snapshot ID: `MCw5Mjk0ZmRhMTYwYTQ5OTc2NDBlYzU3YzIyZjc3Y2RhZjI1ZDZjOWM4`
+Snapshot ID: `MCw1MTU4MDAyY2E3MmE2YmM2ZWMwODQ3NDM4ODE0YzBiOGRjOWEwOWE1`

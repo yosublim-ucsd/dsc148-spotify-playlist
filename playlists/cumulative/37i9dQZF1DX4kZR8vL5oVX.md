@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Adé
 
-1,133 songs - 2 day 10 hr 47 min
+1,134 songs - 2 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Lettre à ma France](https://open.spotify.com/track/40dTql2m93kPKq97jiCDQv) | [AMALIA](https://open.spotify.com/artist/49Dd1MWoMus30BFKrzBSLZ) | [Lettre à ma France](https://open.spotify.com/album/3qHyPsmGPVMmCYXKvql6Kk) | 2:33 | 2023-07-04 | 2023-09-06 |
 | [Lettre à un homme](https://open.spotify.com/track/1e5w7Ww8kknDxb6ierwWV1) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Lettre à un homme](https://open.spotify.com/album/28jjles2QViG8W7vAaFLpQ) | 3:24 | 2022-03-07 | 2022-04-06 |
 | [Leçon2Princess](https://open.spotify.com/track/1NoqnhDb5sfoVzU7uQsa18) | [BabySolo33](https://open.spotify.com/artist/6OpHYcuQqOouW8AEwGc7SL) | [Leçon2Princess](https://open.spotify.com/album/5Av167ij9zDSuFCFGfcxQ6) | 2:43 | 2022-09-06 | 2022-10-05 |
+| [Liberté](https://open.spotify.com/track/1fGkIE1v5brFAtqg0OMik9) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Liberté](https://open.spotify.com/album/28oWbTxa3wEEOyExJ1EQC4) | 2:05 | 2024-01-09 |  |
 | [Libre](https://open.spotify.com/track/1d8NqBBBxXeaNMJ7XTOdCY) | [DÉLINQUANTE](https://open.spotify.com/artist/4uygGiozRtFse8xVXZTDwM) | [Libre](https://open.spotify.com/album/4m9jgGzDEXgF3jl75N9MoD) | 2:46 | 2022-05-03 | 2022-06-01 |
 | [LIBRE](https://open.spotify.com/track/2NeyWMKEEEYWXkOBxidh2J) | [Tallisker](https://open.spotify.com/artist/5kHKhgCMg9yezOrISm4wJH) | [LIBRE](https://open.spotify.com/album/4f6MSqV6PORwxv2eZeGY4B) | 3:29 | 2023-06-06 | 2023-07-05 |
 | [Licorne](https://open.spotify.com/track/05iVXUAuWWLtoCRIAGOb01) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Licorne](https://open.spotify.com/album/2yMEIyObwmJRzt6fCsm5u2) | 2:37 | 2023-08-01 | 2023-09-06 |

@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 213422,
+  "num_followers": 213492,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGMxOTU5NTk4ZDBkOWQ4YTg1MjFkMzAyY2I0OGNhN2EwZmM4OGE3",
+  "snapshot_id": "MCwzZGZlMDNkNjFhNWViNjBiN2JlN2FlNjMxMDZkNTM0MTFlNzkwZWM3",
   "tracks": [
     {
       "added_at": "2024-01-05 01:48:21",
@@ -39,6 +39,22 @@
       "duration_ms": 396071,
       "name": "EVER",
       "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
+    },
+    {
+      "added_at": "2024-01-11 22:38:24",
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 374468,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -127,6 +143,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Pure Smile Snake Venom",
+      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "trip9love...???",
         "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
       },
@@ -171,22 +203,6 @@
       "duration_ms": 273533,
       "name": "Moans",
       "url": "https://open.spotify.com/track/6HNKZARS17j6rToqn9fpjd"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Powders",
-        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Pure Smile Snake Venom",
-      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
-      },
-      "artists": [
-        {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 227212,
       "name": "Mata Hari",
       "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -295,6 +311,38 @@
       "duration_ms": 221379,
       "name": "Loba",
       "url": "https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Blood Be Fluid",
+        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "duration_ms": 227276,
+      "name": "Blood Be Fluid",
+      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -331,18 +379,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Blood Be Fluid",
-        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+        "name": "Atlantic Diva",
+        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
       "artists": [
         {
-          "name": "Julia Romana",
-          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 227276,
-      "name": "Blood Be Fluid",
-      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+      "duration_ms": 243921,
+      "name": "Atlantic Diva",
+      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -371,38 +419,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Atlantic Diva",
-        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Atlantic Diva",
-      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "I Hope You Can Forgive Me",
         "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
@@ -415,6 +431,22 @@
       "duration_ms": 55860,
       "name": "Deep Sea",
       "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -439,18 +471,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
       "artists": [
         {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
         }
       ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -467,22 +499,6 @@
       "duration_ms": 208458,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g"
+        "name": "After Dark 4",
+        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
       },
       "artists": [
         {
-          "name": "kraymira",
-          "url": "https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn"
+          "name": "Mesh Kimono",
+          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
         }
       ],
-      "duration_ms": 138588,
-      "name": "drowning",
-      "url": "https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi"
+      "duration_ms": 208000,
+      "name": "Afterburn",
+      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -711,22 +727,6 @@
       "duration_ms": 233610,
       "name": "Archeological Longing",
       "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "After Dark 4",
-        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
-      },
-      "artists": [
-        {
-          "name": "Mesh Kimono",
-          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Afterburn",
-      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "MY BLACK CAT",
-        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
-      },
-      "artists": [
-        {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "MY BLACK CAT",
-      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Crispy Moon",
         "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 363346,
       "name": "Makkuroi Mizu",
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "MY BLACK CAT",
+        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "MY BLACK CAT",
+      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Hotori",
+        "url": "https://open.spotify.com/album/1xDVA6oSMgse7hqqKoSFiP"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/7Kuucb5jItOXxUA4AG6wKt"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "Knitting night",
+      "url": "https://open.spotify.com/track/3W2O2Ysw9OhT39hVWyTmpU"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "LP.8",
         "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
       },
@@ -1023,26 +1039,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Little Floating Oracles",
-        "url": "https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4"
-      },
-      "artists": [
-        {
-          "name": "AT\u014cMI",
-          "url": "https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX"
-        },
-        {
-          "name": "Laura Masotto",
-          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
-        }
-      ],
-      "duration_ms": 410397,
-      "name": "Oracles",
-      "url": "https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Signal Remixes",
         "url": "https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ"
       },
@@ -1059,6 +1055,26 @@
       "duration_ms": 218000,
       "name": "Signal (Maral Remix)",
       "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Little Floating Oracles",
+        "url": "https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4"
+      },
+      "artists": [
+        {
+          "name": "AT\u014cMI",
+          "url": "https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX"
+        },
+        {
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+        }
+      ],
+      "duration_ms": 410397,
+      "name": "Oracles",
+      "url": "https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Hotori",
-        "url": "https://open.spotify.com/album/1xDVA6oSMgse7hqqKoSFiP"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/7Kuucb5jItOXxUA4AG6wKt"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "Knitting night",
-      "url": "https://open.spotify.com/track/3W2O2Ysw9OhT39hVWyTmpU"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 362108,
       "name": "Glossy Bingo Stain",
       "url": "https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 282863,
+      "name": "A Garden by the Sea",
+      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1239,38 +1255,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Vibra\u00e7\u00f5es de Prata",
-        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
-      },
-      "artists": [
-        {
-          "name": "Xexa",
-          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
-        }
-      ],
-      "duration_ms": 128750,
-      "name": "Assim",
-      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 282863,
-      "name": "A Garden by the Sea",
-      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Dois Litorais",
         "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 520719,
       "name": "Dois Litorais",
       "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Vibra\u00e7\u00f5es de Prata",
+        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
+      },
+      "artists": [
+        {
+          "name": "Xexa",
+          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
+        }
+      ],
+      "duration_ms": 128750,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     }
   ],
   "unique_name": "Terra Incognita",

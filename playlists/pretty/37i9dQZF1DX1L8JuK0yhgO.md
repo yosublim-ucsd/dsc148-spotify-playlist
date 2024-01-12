@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,342 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,334 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 5 | [HAPPENING](https://open.spotify.com/track/6Y3QDhjJv1zCQHYoXeGvBl) | [group\_inou](https://open.spotify.com/artist/2AshAnVKDPE6B69jkFZVPD) | [HAPPENING](https://open.spotify.com/album/5RGalgeDmGvCtYJT8JkYYM) | 2:43 |
 | 6 | [Run From My Pain](https://open.spotify.com/track/6Jj0C8PFJoTzcfIo4GW4my) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [Run From My Pain](https://open.spotify.com/album/6yP4FqzPk8cnLzToGv8Kza) | 3:02 |
 | 7 | [SUNSHINE](https://open.spotify.com/track/4FRgGLLg8soj4agVMau4Pt) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [SYNCHRONICITY 2](https://open.spotify.com/album/4oWNDEZmSKN64sw3TypAda) | 2:50 |
-| 8 | [ハレクラニ remix](https://open.spotify.com/track/4oBEhXGevwSszcndB5Zn86) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [Ritto](https://open.spotify.com/artist/0JfcwgDA6dft6cPZy1kyZZ), [NGONG](https://open.spotify.com/artist/2YnP9D6Xjf1U8HHSu9Lwmq) | [MINAMO](https://open.spotify.com/album/3ogJ3Fl65Fvt9r9wK5ofxs) | 5:03 |
+| 8 | [ハレクラニ Remix](https://open.spotify.com/track/4oBEhXGevwSszcndB5Zn86) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [Ritto](https://open.spotify.com/artist/0JfcwgDA6dft6cPZy1kyZZ), [NGONG](https://open.spotify.com/artist/2YnP9D6Xjf1U8HHSu9Lwmq) | [MINAMO](https://open.spotify.com/album/3ogJ3Fl65Fvt9r9wK5ofxs) | 5:03 |
 | 9 | [Backseat \(feat\. G.RINA, Kick a Show, ZEN\-LA\-ROCK & JUVENILE\)](https://open.spotify.com/track/0KHRem2sNG7J5vCFhEdjTT) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [G.RINA](https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS), [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG), [ZEN\-LA\-ROCK](https://open.spotify.com/artist/3VYznekAAwwqZpiYwuE34v), [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW) | [Backseat](https://open.spotify.com/album/6b6mqFLPPyzkJZLWBxqJud) | 4:02 |
 | 10 | [YEY!](https://open.spotify.com/track/3Hn8MwLoiiczn0gqsbm4aK) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo) | [mono](https://open.spotify.com/album/4FrNwkNGFo7f3TSxvu9qfh) | 3:28 |
 | 11 | [SOLLOW WHITE](https://open.spotify.com/track/02Zc9wkhjdprAUJBvEM8Mi) | [TeN](https://open.spotify.com/artist/13SGM3N74r68XG6d1OsECc) | [SOLLOW WHITE](https://open.spotify.com/album/4ZEbvrJ2uSYKUV7RhHEiky) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
 | 70 | [To\. Sora 3/3](https://open.spotify.com/track/5BHwbNFuwj2fEsF9G645W4) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW), [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Dispatched to Germany : To Sora](https://open.spotify.com/album/3b178N4ToXGVG203uAjGKc) | 3:36 |
 
-Snapshot ID: `MCxmMjIxZmYxZGViZjZlOTgyMmMxMDBlMzU2YzQ5NjQ2ZThmYmU5OWZj`
+Snapshot ID: `MCxhNWRiMmI1M2QzZDc1MTg5MmUwZmE0ZmQxYmYxZjYyMTUyNTI0MzU5`

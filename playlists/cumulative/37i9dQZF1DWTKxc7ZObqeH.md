@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-261 songs - 16 hr 43 min
+262 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,8 +223,9 @@
 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/08qZey59W5RWMp8vPTgE7U) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Volume: Oscar Peterson](https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ) | 3:51 | 2022-10-27 | 2023-01-10 |
 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/0JzKi2w03iILE5zrVm3Iss) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz in Autumn: Oscar Peterson](https://open.spotify.com/album/4ciNFo3mAg97yUGQwPRe5y) | 3:51 | 2023-09-08 | 2023-12-17 |
 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/2II4yguqIcnWdjot4l3C6c) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Catalogue of Jazz: Oscar Peterson](https://open.spotify.com/album/43yR0j2Rn6NcMZKpkolI76) | 3:51 | 2022-12-07 | 2023-02-10 |
+| [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/5dK7scVeamyT7FcEMTMIzo) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Night with Oscar Peterson](https://open.spotify.com/album/3b1rFYBBbQkdi6a4IoNUe6) | 3:51 | 2024-01-05 |  |
 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/5skmZMK4GOD729sJ1YeuLl) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 3:51 | 2022-06-28 | 2022-10-01 |
-| [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/6YOo90JX9Yr0iSdgwkTgYL) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 3:51 | 2022-09-29 |  |
+| [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/6YOo90JX9Yr0iSdgwkTgYL) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 3:51 | 2022-09-29 | 2024-01-12 |
 | [The Good Life \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 5:08 | 2022-02-16 | 2022-08-11 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-02-16 |  |
 | [The Light Over Chesapeake Bay](https://open.spotify.com/track/5ZU9TV5L4zo40G6VdXbLOQ) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [The Light Over Chesapeake Bay](https://open.spotify.com/album/0MBfcISYuV95heHB1Jkcgw) | 3:26 | 2024-01-05 |  |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "7 album dei Club Dogo, 7 giorni di hit rap italiane. Giorno 6: Noi Siamo Il Club",
-  "name": "Hit Rap Italiane: Club Dogo Takeover",
+  "description": "Solo hit rap italiane da ascoltare in loop. Cover: Club Dogo",
+  "name": "Hit Rap Italiane",
   "tracks": [
     {
       "album": {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 174727,
       "name": "10 RAGAZZE (con ERNIA)",
       "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 269386,
       "name": "All'Ultimo Respiro",
       "url": "https://open.spotify.com/track/4gXJIop7onForUMENJ7HjW"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 159840,
       "name": "Auto tedesca",
       "url": "https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 218695,
       "name": "Che Dio Mi Benedica",
       "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 184413,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 215013,
       "name": "Il Mio Mondo, Le Mie Regole",
       "url": "https://open.spotify.com/track/2bBW9JGz4N76FBc5ThkBqu"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 209080,
       "name": "Minchia Boh!",
       "url": "https://open.spotify.com/track/01tlLbZ6izg3BVoA8SykPi"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 264689,
       "name": "Note killer",
       "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 264200,
       "name": "Puro Bogot\u00e0",
       "url": "https://open.spotify.com/track/0GO0UbQoLP78jWf6lmwSbq"
@@ -3592,7 +3592,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 296853,
       "name": "Ragazzo Della Piazza",
       "url": "https://open.spotify.com/track/1ZapPOEUzycM2UgmizCdYY"
@@ -4580,7 +4580,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 202885,
       "name": "Una Volta Sola",
       "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
@@ -4788,6 +4788,24 @@
       "duration_ms": 170000,
       "name": "Wasabi 2.0",
       "url": "https://open.spotify.com/track/7KFV8DknfdYkdCNuAAChoc"
+    },
+    {
+      "album": {
+        "name": "Non Siamo Pi\u00f9 Quelli Di Mi Fist",
+        "url": "https://open.spotify.com/album/0lqi3jLSlGGvnPHMus3N3a"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221237,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6y4hHH7MZ8ifyJ78GxHFla"
     },
     {
       "album": {

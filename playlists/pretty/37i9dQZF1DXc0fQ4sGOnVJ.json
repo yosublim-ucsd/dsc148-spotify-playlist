@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 148749,
+  "num_followers": 148622,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWI5ZTFjZWI2NjlkY2M2ZDc0YmZjZGZlYzUyODNhOTI2OTk1YzZm",
+  "snapshot_id": "MCxmOTdlNjdmNzllYWJjZTNiM2M0NjVmMWRhMDIwMTkzMzgwZGQyZTYx",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -671,22 +671,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "The Colonel",
-        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
+        "name": "Time to Get Right",
+        "url": "https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB"
       },
       "artists": [
         {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+          "name": "Jessta James",
+          "url": "https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK"
         }
       ],
-      "duration_ms": 157367,
-      "name": "Good Vibes Only",
-      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
+      "duration_ms": 255426,
+      "name": "If That Ain't Country",
+      "url": "https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Time to Get Right",
-        "url": "https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB"
+        "name": "The Colonel",
+        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
       },
       "artists": [
         {
-          "name": "Jessta James",
-          "url": "https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK"
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
         }
       ],
-      "duration_ms": 255426,
-      "name": "If That Ain't Country",
-      "url": "https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN"
+      "duration_ms": 157367,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Hick Hop 101",
-        "url": "https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE"
-      },
-      "artists": [
-        {
-          "name": "Jawga Boyz",
-          "url": "https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Redneck Dirt Road Riders",
-      "url": "https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "American White Trash",
         "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 167392,
       "name": "White Trash",
       "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Hick Hop 101",
+        "url": "https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE"
+      },
+      "artists": [
+        {
+          "name": "Jawga Boyz",
+          "url": "https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Redneck Dirt Road Riders",
+      "url": "https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Mud Digger 5",
-        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
-      },
-      "artists": [
-        {
-          "name": "Gunnar & The Grizzly Boys",
-          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "Standard American",
-      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
         "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 208189,
       "name": "Slow Cookin'",
       "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Mud Digger 5",
+        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
+      },
+      "artists": [
+        {
+          "name": "Gunnar & The Grizzly Boys",
+          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "Standard American",
+      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
     },
     {
       "added_at": "2023-12-22 05:00:00",

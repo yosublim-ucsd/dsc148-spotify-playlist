@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-718 songs - 1 day 7 hr 5 min
+719 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,10 +662,11 @@
 | [Unspoken Declarations](https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Unspoken Declarations](https://open.spotify.com/album/5n8PoAzYh537L5XWWGvfz8) | 3:08 | 2021-12-07 | 2022-08-10 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/0H6sCVuzUEVuXwbeuChYvz) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:34 | 2023-11-20 | 2023-12-13 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/0kF1mTANh8DDXGqHANSodq) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Dream](https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh) | 2:34 | 2023-12-12 | 2023-12-22 |
+| [Until The Blissful Dawn](https://open.spotify.com/track/25jU6p4fimDfCRaqI6s262) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Close Your Eyes](https://open.spotify.com/album/5uIyKPIeVpqZFAdQPgKSa3) | 2:34 | 2024-01-04 |  |
 | [Until The Blissful Dawn](https://open.spotify.com/track/2Q2kTuZPYXsiRlNisH6oPV) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Where Love Is Endless](https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH) | 2:34 | 2023-11-07 | 2023-11-17 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/3OI2aqr0KvuMY5hwqbvtWh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Theme For Nils](https://open.spotify.com/album/4yMPsNxmYZMLj9xmaFr59w) | 2:34 | 2023-11-20 | 2023-12-07 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/3kqEGyRlhFVx269Ndkyt3o) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And We Eternal](https://open.spotify.com/album/7LNpuu6rkVrWpQ4zZJ8ST5) | 2:34 | 2023-11-07 | 2023-11-29 |
-| [Until The Blissful Dawn](https://open.spotify.com/track/3z2S1WPPDZFDz3kmKeSJo6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Waltzing You To Sleep](https://open.spotify.com/album/1iq88GDKb5tTXkxQBOqdLD) | 2:34 | 2024-01-04 |  |
+| [Until The Blissful Dawn](https://open.spotify.com/track/3z2S1WPPDZFDz3kmKeSJo6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Waltzing You To Sleep](https://open.spotify.com/album/1iq88GDKb5tTXkxQBOqdLD) | 2:34 | 2024-01-04 | 2024-01-12 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/4XmIwtJO8oy1R202pCKV2n) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Safe In Her Arms](https://open.spotify.com/album/2v0XpYcW0Rj9PyakkzeKUn) | 2:34 | 2023-12-21 | 2024-01-05 |
 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 | 2021-12-07 | 2022-09-13 |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-04-04 |  |

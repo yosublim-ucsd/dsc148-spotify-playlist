@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,991 likes - 107 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,001 likes - 107 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 106 | [King Bromeliad](https://open.spotify.com/track/6bN5bGdC7ze3JvWvPN67Op) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [King Bromeliad / Montparnasse](https://open.spotify.com/album/268qxT9wKnanAK5cePUek7) | 8:52 |
 | 107 | [Dancing Circles](https://open.spotify.com/track/6lNyT8TfnpMTRrmJRQKQC9) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:53 |
 
-Snapshot ID: `MCwzMzFmYjRhYzYzMjU2NmM3ODkwM2UwNTg0ODY5NTAzYTk5YmI5OGNm`
+Snapshot ID: `MCw1MDRhYTkzNTdlZTU1M2VmZjBjN2Y2YjUyMWQ5NmNiYzNmZDFmMTVh`

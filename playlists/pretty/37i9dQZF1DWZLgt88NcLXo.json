@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 11998,
+  "num_followers": 12001,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5",
+  "snapshot_id": "MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "The Summer House",
+        "url": "https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "duration_ms": 122449,
+      "name": "The Summer House",
+      "url": "https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 163097,
       "name": "I Close My Eyes To Find My place",
       "url": "https://open.spotify.com/track/27d0Kmy6IxFCfPjSXZn5eW"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "The Summer House",
-        "url": "https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH"
-      },
-      "artists": [
-        {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
-        }
-      ],
-      "duration_ms": 122449,
-      "name": "The Summer House",
-      "url": "https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n"
+      },
+      "artists": [
+        {
+          "name": "Alonso Librado",
+          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
+        }
+      ],
+      "duration_ms": 126496,
+      "name": "El Sabio",
+      "url": "https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Broken Sky",
         "url": "https://open.spotify.com/album/0TnxaPHs6kY6CpS1kT1xun"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 157164,
       "name": "Broken Sky",
       "url": "https://open.spotify.com/track/6AIGjxyH4CnUfBXR8LHn0n"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "El Sabio",
-        "url": "https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n"
-      },
-      "artists": [
-        {
-          "name": "Alonso Librado",
-          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
-        }
-      ],
-      "duration_ms": 126496,
-      "name": "El Sabio",
-      "url": "https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Keirin",
-        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
-      },
-      "artists": [
-        {
-          "name": "Paris Little",
-          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
-        }
-      ],
-      "duration_ms": 186092,
-      "name": "Keirin",
-      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Appalachian Hike",
         "url": "https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 136000,
       "name": "Appalachian Hike",
       "url": "https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Keirin",
+        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
+      },
+      "artists": [
+        {
+          "name": "Paris Little",
+          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
+        }
+      ],
+      "duration_ms": 186092,
+      "name": "Keirin",
+      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Reise um die Welt",
-        "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
       },
       "artists": [
         {
-          "name": "Tomas North",
-          "url": "https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF"
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
         }
       ],
-      "duration_ms": 171853,
-      "name": "Reise um die Welt",
-      "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1815,6 +1815,22 @@
       "duration_ms": 157941,
       "name": "The Hidden Valley",
       "url": "https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Reise um die Welt",
+        "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
+      },
+      "artists": [
+        {
+          "name": "Tomas North",
+          "url": "https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "Reise um die Welt",
+      "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2047,6 +2063,30 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
+        "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Lobo",
+          "url": "https://open.spotify.com/artist/2PCK6XMGC20HByGx578DQD"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "duration_ms": 216850,
+      "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
+      "url": "https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2"
       },
@@ -2075,30 +2115,6 @@
       "duration_ms": 136624,
       "name": "Solitaria",
       "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
-        "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Lobo",
-          "url": "https://open.spotify.com/artist/2PCK6XMGC20HByGx578DQD"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        },
-        {
-          "name": "Pl\u00ednio Fernandes",
-          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
-      "url": "https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2167,22 +2183,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Mirabella",
-        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
-      },
-      "artists": [
-        {
-          "name": "Oleks Rudenko",
-          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Mirabella",
-      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Romance Castellano",
         "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
       },
@@ -2195,6 +2195,22 @@
       "duration_ms": 135568,
       "name": "Romance Castellano",
       "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
+      },
+      "artists": [
+        {
+          "name": "Oleks Rudenko",
+          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2243,22 +2259,6 @@
       "duration_ms": 191308,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "A New Strange Feeling",
-        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
-      },
-      "artists": [
-        {
-          "name": "Aurelia",
-          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "A New Strange Feeling",
-      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Objects In The Mirror",
-        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Objects In The Mirror",
-      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Dreams We Share",
         "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 188000,
       "name": "The Dreams We Share",
       "url": "https://open.spotify.com/track/0Ov6sQ561WULCx9ixzMNzG"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Objects In The Mirror",
+        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Objects In The Mirror",
+      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
     },
     {
       "added_at": "2023-09-15 09:04:35",

@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Gekokujo",
+        "url": "https://open.spotify.com/album/6FPIlc5s7W17qNjFWobkcP"
+      },
+      "artists": [
+        {
+          "name": "RYUJIN",
+          "url": "https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287151,
+      "name": "Gekokujo",
+      "url": "https://open.spotify.com/track/4P5FLFEXubO1ubrCsd6xWW"
+    },
+    {
+      "album": {
         "name": "GIANT KILLING",
         "url": "https://open.spotify.com/album/47tD9GEsmupZendBdQChlz"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 186754,
       "name": "GODBLAST",
       "url": "https://open.spotify.com/track/7DQ5JwO0oEwm9IjYfaQGfB"
@@ -897,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K"
+      },
+      "artists": [
+        {
+          "name": "Sable Hills",
+          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244288,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa"
+    },
+    {
+      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -926,7 +962,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 202413,
       "name": "Rave-up Tonight",
       "url": "https://open.spotify.com/track/34iywbfxSn7AOaFoV7hixT"

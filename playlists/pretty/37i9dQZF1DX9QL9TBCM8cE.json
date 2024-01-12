@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 24867,
+  "num_followers": 24893,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjY4ZmQzZjIwNGMzNGQxYzdiNzJhZjE3MDcyNGU2ZjE5YzA5MDdl",
+  "snapshot_id": "MCxkNjhhOThiMTAxZGE3MGIzZmJmMjAzODNkYjM4MjE4N2NlZjhlMTMz",
   "tracks": [
     {
       "added_at": "2023-11-08 09:00:27",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-08 09:00:27",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
+        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
+      },
+      "artists": [
+        {
+          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
+          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "statice",
+      "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
+    },
+    {
+      "added_at": "2023-11-08 09:00:27",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 01",
         "url": "https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 241933,
       "name": "Killer\u00d7Mission",
       "url": "https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to"
-    },
-    {
-      "added_at": "2023-11-08 09:00:27",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
-        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
-      },
-      "artists": [
-        {
-          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
-          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "statice",
-      "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
     },
     {
       "added_at": "2023-11-08 09:00:27",

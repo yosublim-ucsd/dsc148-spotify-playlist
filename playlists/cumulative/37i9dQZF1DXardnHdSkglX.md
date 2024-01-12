@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-233 songs - 13 hr 51 min
+234 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bad Habits](https://open.spotify.com/track/5bFy4AS0cdJD2g3pJc0YSX) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y), [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87) | [Bad Habits](https://open.spotify.com/album/3etaCNOQTjjs4tFrm4A9zv) | 3:27 | 2023-04-20 |  |
 | [Beat It](https://open.spotify.com/track/6UWQ9q6gNZC8AQh3otkUFa) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 3:54 | 2021-12-09 | 2023-05-13 |
 | [Beautiful Girls \- Bossa Nova](https://open.spotify.com/track/3AVxDlk6ZEkqYTFZ4lxGzr) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Beautiful Girls \(Bossa Nova\)](https://open.spotify.com/album/3sTeLngydHmUMDr1mok0n0) | 3:59 | 2021-12-09 |  |
+| [Best Day of my life](https://open.spotify.com/track/4wtrK6RBsunXTxiKJqg1y8) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [Best Day of my life](https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr) | 2:16 | 2024-01-12 |  |
 | [Big Girls Don't Cry \- Bossanova](https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Big Girls Don't Cry \(Bossanova\)](https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL) | 4:29 | 2021-12-09 |  |
 | [Bleeding Love \(Bossa Version\)](https://open.spotify.com/track/6USGOSD8d9KCbpVsAMDpK6) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:45 | 2021-12-09 |  |
 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 | 2021-12-09 |  |

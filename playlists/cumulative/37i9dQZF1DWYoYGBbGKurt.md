@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,688 songs - 2 day 17 hr 13 min
+1,694 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Angel Number](https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Angel Number](https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f) | 2:26 | 2021-12-07 | 2022-07-01 |
 | [Animal Crackers](https://open.spotify.com/track/6zmL0Bh4xKcyLoTQmUyNjE) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Effervescence](https://open.spotify.com/album/6Y7FWY7v3ZJFhZB83WPWv0) | 2:29 | 2021-12-07 | 2022-04-22 |
 | [Another Dream](https://open.spotify.com/track/1prwLKcbevHh3roJBvZM1V) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Embers](https://open.spotify.com/album/093XnMFA71IuV7XFPBJEuR) | 1:24 | 2022-12-02 | 2023-08-22 |
+| [Anti\-Gravity](https://open.spotify.com/track/7bzarmiobBm1oOCSBmTevV) | [Space Time](https://open.spotify.com/artist/357YQNXCYAKT5NLytqNLs0) | [Anti\-Gravity](https://open.spotify.com/album/1SfGFTKbHjoYkPVcdAbV3a) | 2:18 | 2024-01-12 |  |
 | [Anywhere the Wind Blows](https://open.spotify.com/track/0ObXNS2YAEjoHO6knz0bTd) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Dan Gregory](https://open.spotify.com/artist/40OoU1mqsoy53I6Rw8gLBn) | [Anywhere the Wind Blows](https://open.spotify.com/album/45eqgbLS0Df9Ohnhl9dsav) | 1:50 | 2022-05-13 | 2022-11-12 |
 | [apollo](https://open.spotify.com/track/0uy2NMV7ALGlp1vAh2PRAj) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 | 2022-05-20 |  |
 | [April Snow](https://open.spotify.com/track/7aAeKms8QSD0VwsHJbhyOX) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [April Snow](https://open.spotify.com/album/1PhgAx4wCZ9Nx9bpd8bDdA) | 2:20 | 2022-04-15 | 2022-11-12 |
@@ -414,6 +415,7 @@
 | [Dream Canyon](https://open.spotify.com/track/7wwW2weaG0o43SN581vH7c) | [Backdoor Jesus](https://open.spotify.com/artist/5aokebFIGIK1DHblB80rdw) | [Dream Canyon](https://open.spotify.com/album/2FDdq2nTAxV0aHuOM051Z4) | 2:33 | 2021-12-07 | 2022-10-29 |
 | [dream in colour](https://open.spotify.com/track/4vMuEtxWV6bK0kHur1DDW2) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L) | [dream in colour](https://open.spotify.com/album/5OVCmEptLW71wOAD0VOZ1G) | 2:11 | 2022-11-25 | 2023-09-16 |
 | [Dream ON](https://open.spotify.com/track/6NLzpxi7PZH1K1tsLqpmeh) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Dream ON](https://open.spotify.com/album/1pCrJ0Ortb3rbhiUaWbkfU) | 1:47 | 2021-12-07 | 2022-04-08 |
+| [Dream Train](https://open.spotify.com/track/37HHr2vkEH7DTCDf6C8GPL) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Dream Train](https://open.spotify.com/album/5qHCl97YrFtVlwDNoIYfwC) | 2:14 | 2024-01-12 |  |
 | [Dreamcatcher](https://open.spotify.com/track/5UUkKg75wQ1qkAtmlLgmzB) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Dreamcatcher](https://open.spotify.com/album/2X2rw9XdWAX7q3XlENJnY4) | 1:52 | 2022-08-19 | 2022-11-12 |
 | [Dreamgate](https://open.spotify.com/track/6UYtgZeL9KWmYLtasfHPc3) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Dreamgate](https://open.spotify.com/album/3YYXwoFBVSfYlC0SOjMpTD) | 2:20 | 2022-12-16 | 2023-10-20 |
 | [Dreamin](https://open.spotify.com/track/6NCvbYAWB7fMzeZ1FZMAr7) | [Eugene](https://open.spotify.com/artist/3x3xKaexL2yN0OoGDrLHxR) | [Dreamin](https://open.spotify.com/album/3BIJqqYyyvVxGrbOWJU6XG) | 2:30 | 2022-09-09 | 2022-12-03 |
@@ -825,6 +827,7 @@
 | [less\-than\-flattering](https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [less\-than\-flattering](https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj) | 2:07 | 2023-10-13 | 2023-11-11 |
 | [Let it be](https://open.spotify.com/track/414H4dKl75OxP2JfgX8IqL) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Let it be](https://open.spotify.com/album/6Y6SgfEnUGDL6NBJfeRTfR) | 2:29 | 2022-10-28 | 2023-09-02 |
 | [Let's Fix Lena](https://open.spotify.com/track/4Twiq3qI0o8qCSfmIeXlxV) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Let's Fix Lena](https://open.spotify.com/album/3EB6tjO3o8GqRDgC3w6wOU) | 3:12 | 2024-01-05 |  |
+| [Let's Puddle](https://open.spotify.com/track/6yMtuNltStGSJyv6LLytcE) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Let's Puddle](https://open.spotify.com/album/6RDVlWP0D8qqH4n5FA91Gx) | 2:12 | 2024-01-12 |  |
 | [let's talk butterflies](https://open.spotify.com/track/4L9f3Jv0jzXE5tpTSvT27S) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [let's talk butterflies](https://open.spotify.com/album/5XfqShS1rruovODbxDcDAN) | 2:23 | 2022-09-16 |  |
 | [Letdown](https://open.spotify.com/track/27Yu59D18hcYTp03CAo3vY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Letdown](https://open.spotify.com/album/36rlZHCSOIgwDvQSjXa282) | 2:40 | 2022-07-01 | 2022-11-26 |
 | [Let´s Play](https://open.spotify.com/track/0L8fCyz1smqzs4yYdJTVOZ) | [sonolon](https://open.spotify.com/artist/1y3NpCoVmVh5gLL0uGKv5t) | [Let´s play](https://open.spotify.com/album/2uVvASRGh2wUKHAu29D9un) | 2:28 | 2023-02-17 |  |
@@ -956,6 +959,7 @@
 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 | 2022-09-02 | 2023-09-02 |
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2023-10-13 | 2023-11-11 |
+| [Melted Sidewalk](https://open.spotify.com/track/0d4ZPBFr0vTDQcKj8sAVwt) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [Melted Sidewalk](https://open.spotify.com/album/1ELHePM6qlzvB0I5l9rDTL) | 3:20 | 2024-01-12 |  |
 | [Melting](https://open.spotify.com/track/27Y8SVpM3t1Ni8nbnKsaRW) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Melting](https://open.spotify.com/album/0h4nSIq7YwurSAqTruXNh4) | 1:50 | 2022-07-08 | 2022-11-26 |
 | [Memo](https://open.spotify.com/track/3YP2LaZbzhhzDc5TygZU7f) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj) | [Memo](https://open.spotify.com/album/1RzfR4p1OLXzoJ7U7TJ3w2) | 3:00 | 2022-11-25 | 2023-09-22 |
 | [Memoire](https://open.spotify.com/track/0Bfv7idX2ZYxiGlxZ6CZn8) | [Shibamasen](https://open.spotify.com/artist/4bJ4PUtHA50B23InpLsY5C) | [Memoire](https://open.spotify.com/album/4Ei6jmxNj3XWIvdaGv9IPx) | 2:14 | 2022-11-11 | 2023-09-02 |
@@ -1188,6 +1192,7 @@
 | [Rainy Road Trip](https://open.spotify.com/track/6oj8qrYPXoC6zfFhRkuIRs) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Rainy Road Trip](https://open.spotify.com/album/0S3p6gcsNbYZBfDdIa7Fee) | 2:39 | 2022-11-11 | 2023-04-21 |
 | [Ramen Cafe](https://open.spotify.com/track/22ohVZStzrEFHvzKSIgVB3) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo) | [Ramen Cafe](https://open.spotify.com/album/4hgAl2UlqbP3IZlCEiMazv) | 2:12 | 2022-10-28 | 2023-09-16 |
 | [Rare Rocks That Look Like David Letterman](https://open.spotify.com/track/5tHoLQiFtgJLLSsRIS2YqK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Fuchsia Badusha](https://open.spotify.com/album/3OPJ6lE0knNq6E7q5YSITv) | 2:29 | 2021-12-07 | 2022-07-01 |
+| [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 | 2024-01-12 |  |
 | [Rebrov](https://open.spotify.com/track/4iBjkytItSWcqF0Na6LcNL) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Rebrov](https://open.spotify.com/album/1MCAd7spOJILM7kYtU8PUN) | 2:12 | 2023-08-21 |  |
 | [Recline](https://open.spotify.com/track/0Y8P2H4bpffasm29zQX9yp) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Campsite Snoozin](https://open.spotify.com/album/2HVRqebZ0uIOpz5phHwtTv) | 2:26 | 2021-12-07 | 2022-06-10 |
 | [Recollect](https://open.spotify.com/track/5GTOEsVsbky5UWwdtRut1F) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [Recollect](https://open.spotify.com/album/6zg5JmEHQEDJrFhW6redDJ) | 2:41 | 2022-08-12 | 2022-10-29 |
@@ -1631,6 +1636,7 @@
 | [Water](https://open.spotify.com/track/4VSiIh1FpXbAOzu06XJ6L8) | [Kiki\_Q](https://open.spotify.com/artist/3xcD6O97TEOXcX1TCYYhAj) | [Water](https://open.spotify.com/album/5PwnbkmoRtJW6wXqpHaQXA) | 1:53 | 2022-09-30 |  |
 | [Water On Mars](https://open.spotify.com/track/0GI9BVvpUZgLEtN3sIWFlz) | [Thankyou](https://open.spotify.com/artist/3vCDftvjT8v9dN8Bmn7h36) | [Water On Mars](https://open.spotify.com/album/17HHdiUcF3si6Sb0S2sFfW) | 2:13 | 2022-10-07 | 2022-12-24 |
 | [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 | 2023-12-15 |  |
+| [Waterfall o' Seven](https://open.spotify.com/track/1uuXYvIJFFiOHkq2QPAS8F) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Waterfall O' Seven](https://open.spotify.com/album/1vIrOuDR3z6c9NzC5BU1Kb) | 2:01 | 2024-01-12 |  |
 | [Watermelon](https://open.spotify.com/track/68gR19ZxmZuAGrNl4qiKCK) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Watermelon](https://open.spotify.com/album/4NADxBm2HCKJpdSSIE6tnT) | 2:03 | 2022-06-10 | 2022-11-26 |
 | [Wavelenght](https://open.spotify.com/track/27qmIjf5nzZXiTAz2mVp06) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:27 | 2021-12-07 | 2022-07-01 |
 | [Waves](https://open.spotify.com/track/1sv9a2DenuK90P0rBkXKEe) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Waves](https://open.spotify.com/album/4RE8BchKFFeqiijkE965MR) | 2:31 | 2023-04-03 |  |

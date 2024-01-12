@@ -2,7 +2,7 @@
 
 ### [Deep Focus](https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ)
 
-> Keep calm and focus with ambient and post\-rock music.
+> Relájate y concéntrate con música ambient y post\-rock.
 
 633 songs - 1 day 10 hr 10 min
 

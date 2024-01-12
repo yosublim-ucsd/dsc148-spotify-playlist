@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/1IwpbsnQGqr2pLaubVvXdG"
+      },
+      "artists": [
+        {
+          "name": "Lucas Collins",
+          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145326,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/67CMXgNv85npgVBdnnAmCp"
+    },
+    {
+      "album": {
         "name": "Anya",
         "url": "https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f"
       },
@@ -4505,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Misty Mornings",
+        "url": "https://open.spotify.com/album/4jZUkBLZ52yl1NXC4k4ZHq"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243759,
+      "name": "Misty Mornings",
+      "url": "https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u"
+    },
+    {
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/5ZMjGQ6HeoyJyeD39rRmHL"
       },
@@ -7583,6 +7619,24 @@
     },
     {
       "album": {
+        "name": "Vineyard",
+        "url": "https://open.spotify.com/album/2krMn6Dx9QC5QTcORUfqAG"
+      },
+      "artists": [
+        {
+          "name": "Christian Glass",
+          "url": "https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192238,
+      "name": "Vineyard",
+      "url": "https://open.spotify.com/track/4267KrXCw7ginzMjtvwnMc"
+    },
+    {
+      "album": {
         "name": "Violets for Your Furs",
         "url": "https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw"
       },
@@ -8066,6 +8120,24 @@
       "duration_ms": 116393,
       "name": "Witness of Love",
       "url": "https://open.spotify.com/track/0sX45CnQ5ugC1yUzfiKCSB"
+    },
+    {
+      "album": {
+        "name": "yalla",
+        "url": "https://open.spotify.com/album/3emFO8aqqG7TQiacdILJTc"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "yalla",
+      "url": "https://open.spotify.com/track/1MDVmD8jfZhFy084VF7hO4"
     },
     {
       "album": {

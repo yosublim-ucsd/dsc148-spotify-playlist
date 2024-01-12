@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 9774,
+  "2024-01-12": 9800,
   "date_first_scraped": "2023-06-10",
   "description": "All juice",
   "name": "juice",
@@ -181,7 +181,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 209454,
       "name": "A Little Bit",
       "url": "https://open.spotify.com/track/7za8623cNib4zIP9wKw9Ps"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Down On My Love",
       "url": "https://open.spotify.com/track/4h8xS99iATPsBHqowFFF5U"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 186231,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 306666,
       "name": "Hotel Pool (DJ SWISHERMAN & Boys Noize Remix)",
       "url": "https://open.spotify.com/track/5hucgLqffUmI3YidSsUS0t"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 175653,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 170434,
       "name": "MISS U - Glimji Remix",
       "url": "https://open.spotify.com/track/10ScB3ISReMgZtTsxhDbyo"
@@ -1971,7 +1971,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 171470,
       "name": "Moss",
       "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
@@ -2341,7 +2341,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 345797,
       "name": "Peach VIP",
       "url": "https://open.spotify.com/track/35P8wQxbmltmHvawUxk6Uu"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 209142,
       "name": "Phantom SP",
       "url": "https://open.spotify.com/track/0P3IOtdSrOlNYBbfbcsyrL"
@@ -2589,7 +2589,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 200856,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0oiyjQRetrFXfRdWVjS2UR"
@@ -2845,7 +2845,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 295198,
       "name": "Simply Won't Do - DJ BORING Remix",
       "url": "https://open.spotify.com/track/6u7QJ9AVsSzkCGJZTzHQtC"
@@ -3005,7 +3005,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 210635,
       "name": "STUCK ON U",
       "url": "https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT"
@@ -3135,7 +3135,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 281689,
       "name": "The Sea - TDJ Remix",
       "url": "https://open.spotify.com/track/1LSczPyZiwY661qgwcM8d2"
@@ -3251,7 +3251,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "U Want It",
       "url": "https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8"
@@ -3471,7 +3471,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 263180,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/0XnRWy3S3OmqRPmow4JqWB"
@@ -3583,7 +3583,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 213655,
       "name": "We Were In Love - Narciss Remix",
       "url": "https://open.spotify.com/track/4SqIAZdRaaDMEbz1UDSSmo"
@@ -3671,7 +3671,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 164826,
       "name": "While U Sleep",
       "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
@@ -3769,7 +3769,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 341151,
       "name": "ZiGGY (DJ-Kicks)",
       "url": "https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e"

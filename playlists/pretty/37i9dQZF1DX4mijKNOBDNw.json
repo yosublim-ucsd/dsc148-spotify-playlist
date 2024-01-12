@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 54774,
+  "num_followers": 54781,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjUwNjI2YTU1NzFkZmIzMWE4ZTA3MDM5ZmE5YzJhZTBjODI1YmZi",
+  "snapshot_id": "MCwwYTcyZGE1YWRmODJiNzE4ZDdjODI5MTUxYmZkYmJlOWE4OTk5ZmI2",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Dignificada",
-      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Dignificada",
+      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "somos flores",
-        "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 206727,
-      "name": "somos flores",
-      "url": "https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Nos Queremos Vivas",
         "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 220576,
       "name": "Nos Queremos Vivas",
       "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "somos flores",
+        "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 206727,
+      "name": "somos flores",
+      "url": "https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1143,6 +1143,30 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        },
+        {
+          "name": "Sof Tot",
+          "url": "https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj"
+        },
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        }
+      ],
+      "duration_ms": 265500,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/3SW2TbBtYupZDVeHiiAku5"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "No Ves",
         "url": "https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC"
       },
@@ -1175,30 +1199,6 @@
       "duration_ms": 245441,
       "name": "Mi Fuerza Es Tuya",
       "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        },
-        {
-          "name": "Sof Tot",
-          "url": "https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj"
-        },
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/3SW2TbBtYupZDVeHiiAku5"
     },
     {
       "added_at": "2023-12-15 03:00:00",

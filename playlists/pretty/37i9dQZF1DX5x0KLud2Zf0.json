@@ -1,12 +1,12 @@
 {
   "description": "La pluma sensible detr\u00e1s de tus favoritas de regional mexicano.",
-  "num_followers": 102225,
+  "num_followers": 102201,
   "original_name": "Cancionero Horacio Palencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4",
+  "snapshot_id": "MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm",
   "tracks": [
     {
       "added_at": "2021-11-11 19:24:28",
@@ -767,6 +767,22 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 235253,
+      "name": "Odio la Distancia",
+      "url": "https://open.spotify.com/track/0WLSLR4GcF1JU09schUMoY"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Traviesa",
         "url": "https://open.spotify.com/album/3FS698TPVnjeDFGljfBQlc"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 159973,
       "name": "Traviesa",
       "url": "https://open.spotify.com/track/2kzGqaTfgJaNb02qcnMpV9"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 235253,
-      "name": "Odio la Distancia",
-      "url": "https://open.spotify.com/track/0WLSLR4GcF1JU09schUMoY"
     },
     {
       "added_at": "2021-11-11 19:24:28",

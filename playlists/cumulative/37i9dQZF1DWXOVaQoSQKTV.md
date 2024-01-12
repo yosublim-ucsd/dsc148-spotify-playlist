@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-195 songs - 11 hr 32 min
+196 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Fade Into You](https://open.spotify.com/track/4h7WDNloLUhJgPPuqgaMS7) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Fade Into You](https://open.spotify.com/album/2ELqd8jEtBWMidcQsERbqk) | 3:46 | 2023-06-08 |  |
 | [Faster](https://open.spotify.com/track/0fbxkVJjBAv6MYUgXJNnRB) | [Orlean](https://open.spotify.com/artist/0CMi4bdgWM5KaUWQ5Wt6RO) | [Faster](https://open.spotify.com/album/1y4klEfZXHcvBgdIzHfFsv) | 3:04 | 2023-06-08 |  |
 | [Feels like Summer \- Lhotse Remix](https://open.spotify.com/track/1LnceISmVaEQUcNI8EAhLz) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb), [Lhotse](https://open.spotify.com/artist/5CFO1lbjoMQ8NqmjnKURx5) | [Feels like Summer \(Lhotse Remix\)](https://open.spotify.com/album/2VwgoDnK5A2OVOoURGPgGw) | 3:26 | 2023-06-08 |  |
-| [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 | 2023-06-08 |  |
+| [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 | 2023-06-08 | 2024-01-12 |
+| [Feels Right](https://open.spotify.com/track/226kedQbsIsYmkylaxPzcV) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 4:34 | 2023-06-08 |  |
 | [Finding You](https://open.spotify.com/track/6aKBO7LneC2thOQmSlkHml) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Sanctuary Point](https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN) | 3:42 | 2023-06-08 |  |
 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 | 2023-06-08 |  |
 | [Floating \- Kabul Fire RMX](https://open.spotify.com/track/5TvjvDPTBv2DDao0dVCReQ) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK), [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt), [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k) | [Reality Check](https://open.spotify.com/album/7wddEpL1aMf3LFdzt85AcG) | 2:40 | 2023-06-08 |  |

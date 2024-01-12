@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,342 songs - 2 day 22 hr 9 min
+1,343 songs - 2 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 | 2021-07-18 | 2021-08-01 |
 | [Fly Away](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away](https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq) | 2:58 | 2021-03-27\* | 2021-07-18 |
 | [Flytter Bjerge \(feat\. Branco\)](https://open.spotify.com/track/1Xer1Y9qrReXcVk2qmsYOP) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:39 | 2023-02-11 | 2023-03-27 |
-| [Flyvende Faduma](https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:18 | 2022-10-22 |  |
+| [Flyvende Faduma](https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:18 | 2022-10-22 | 2024-01-12 |
 | [Flyvende Faduma](https://open.spotify.com/track/5iqWgicPaUYWjxORp5iagj) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Flyvende Faduma](https://open.spotify.com/album/378mNzVXnrWbOyFknDXy4c) | 3:18 | 2022-08-06 | 2022-10-23 |
 | [Fløjt'ne \(feat\. DJ Aligator & KIDD\)](https://open.spotify.com/track/2V7HzIGAeYnkxfePD0FK0E) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J), [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Fløjt'ne \(feat\. DJ Aligator & KIDD\)](https://open.spotify.com/album/6zo0lEn5DVXVHLp4n6rwWf) | 2:35 | 2023-10-28 | 2023-11-20 |
 | [FOKUS](https://open.spotify.com/track/3msgo1KYsxvVw7BMhihpIS) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [JAMO](https://open.spotify.com/album/6f4qhLPJtFcEjMwKEw2VFa) | 2:44 | 2022-07-16 | 2022-07-18 |
@@ -767,6 +767,7 @@
 | [Looking For Love](https://open.spotify.com/track/6FsZlxF0yLO434i3GJQYgv) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Looking For Love](https://open.spotify.com/album/0qEUsdb7akyiQiiXuVxgC0) | 2:34 | 2022-06-04 | 2022-06-19 |
 | [Lord I Need You](https://open.spotify.com/track/5YRFttxjAEgm2nq5Z2tlqK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:42 | 2021-08-31 | 2021-09-04 |
 | [Lose](https://open.spotify.com/track/7nVERWQXlgZRQsYw4fHf3b) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lose](https://open.spotify.com/album/2KiivxtQQDKP8TfdXEfECf) | 3:25 | 2021-08-08 | 2021-08-21 |
+| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2024-01-11 |  |
 | [Lost](https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx) | 3:54 | 2022-01-17 | 2022-03-05 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-04 | 2023-01-07 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-19 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 117472,
+  "2024-01-12": 117487,
   "date_first_scraped": "2023-01-15",
   "description": "Boss music for boss people. Cover: The Vaccines ",
   "name": "Proper Belters",
@@ -1396,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl"
       },
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC"
@@ -2082,7 +2100,7 @@
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 283593,
+      "duration_ms": 284324,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8"
     },

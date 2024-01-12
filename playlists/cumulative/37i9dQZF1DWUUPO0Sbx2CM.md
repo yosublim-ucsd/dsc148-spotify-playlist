@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-392 songs - 21 hr 48 min
+393 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Battle Cry](https://open.spotify.com/track/6blYxHNuDNBvT3vtvKUA1B) | [The Two Fake Blondes](https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi) | [Out of the Darkness](https://open.spotify.com/album/5cRBn6W2LfmGFjVQIVzuQ1) | 2:56 | 2021-10-31 | 2023-02-08 |
 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 | 2023-02-07 |  |
 | [Be Kind](https://open.spotify.com/track/35Rv7CrSzt4McenP0Cb7Xi) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Be Kind](https://open.spotify.com/album/2GbksNrWXt7UVM8fm9HVjV) | 3:38 | 2023-02-07 | 2023-11-22 |
+| [Be Kind](https://open.spotify.com/track/3gDhXk7X0o3IhtCO6MZBXs) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Land Of The Living](https://open.spotify.com/album/5L8kyQqKEvjOZVP0Oj4RiH) | 3:38 | 2023-02-07 |  |
 | [Be the Light \(Radio Edit\)](https://open.spotify.com/track/62O09SIJyoBvEEvI8XnJtl) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Be the Light \(Radio Edit\)](https://open.spotify.com/album/3gRP24p18Mq0q31FsvZiBi) | 3:33 | 2021-10-31 | 2022-06-06 |
 | [Beautiful Chaos](https://open.spotify.com/track/0WnYgsf5qsiIoRArSrelF9) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Beautiful Chaos](https://open.spotify.com/album/6pZR3NDVJRHuPQbgDoBLnU) | 3:06 | 2021-10-31 | 2022-07-29 |
 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 | 2021-10-31 | 2023-02-08 |
@@ -326,7 +327,7 @@
 | [Stained Glass](https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It \(Deluxe Edition\)](https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz) | 3:16 | 2023-02-07 |  |
 | [State Of Mind \- Live](https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:41 | 2021-10-31 | 2022-07-28 |
 | [Stay \(feat\. Eris Ford\) \- Remix](https://open.spotify.com/track/6jxmiJbjn6pH8nxEKCFw72) | [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z), [GIDI](https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Stay \(Remix\) \[feat\. Eris Ford\]](https://open.spotify.com/album/6cZRxLsUIWMricmggksk3T) | 3:28 | 2021-10-31 | 2022-07-22 |
-| [Step Into The Fight \- Gregatron Remix](https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Step Into The Fight \(Gregatron Remix\)](https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk) | 3:33 | 2023-02-07 |  |
+| [Step Into The Fight \- Gregatron Remix](https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Step Into The Fight \(Gregatron Remix\)](https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk) | 3:33 | 2023-02-07 | 2024-01-12 |
 | [STICKS & STONES](https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [GENESIS](https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5) | 3:22 | 2021-10-31 | 2022-11-13 |
 | [Stranger](https://open.spotify.com/track/1PqDvk6t4pI1kAWWjvxVYU) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Stranger](https://open.spotify.com/album/4VBXA24rGMiOJEviWRofgS) | 3:19 | 2021-10-31 | 2022-07-27 |
 | [Streams](https://open.spotify.com/track/5pGOK0d3Ls6ikio9oQYkLC) | [Austin & Lindsey Adamec](https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r) | [Streams](https://open.spotify.com/album/2UZ3kOA1L3lJapkpfPzbBV) | 4:00 | 2021-10-31 | 2023-02-08 |

@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا
 
-213 songs - 13 hr 55 min
+216 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 | 2023-02-22 |  |
 | [Bas Wenh](https://open.spotify.com/track/50b8yDKb6RDZtaxMYN3PUe) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Bas Wenh](https://open.spotify.com/album/4esCyXD8PmyQ2ctfE0asUA) | 4:47 | 2022-08-31 |  |
 | [Basmetak Lee](https://open.spotify.com/track/5Yf4UF6cYLsoG6ePHDC1ec) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Basmetak Lee](https://open.spotify.com/album/73clqKMKrQ3WZOBZbqPYOU) | 3:37 | 2023-02-22 |  |
+| [Bdayat Shetaa](https://open.spotify.com/track/7IEG9EtW5Smb8IZ7No0Ogw) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs), [Sultan Ben Mreea](https://open.spotify.com/artist/0vmJ2z07MzXKYFAPEgQkcJ) | [Bdayat Shetaa](https://open.spotify.com/album/0LaGyEKQ0qZCeZDkuHRApu) | 3:53 | 2024-01-11 |  |
 | [Elly Tabeh](https://open.spotify.com/track/5ufm6qAEgQW5rHFHsCipnt) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Elly Tabeh](https://open.spotify.com/album/0VBlLnPK8yiqZi9LPMvoIF) | 2:37 | 2022-03-30 | 2023-02-23 |
 | [Enheyar](https://open.spotify.com/track/5b5zrTUzRp5KJOoL2OQIgO) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Enheyar](https://open.spotify.com/album/0Vc6YHz9gYi7XibM8GJiw9) | 4:14 | 2022-03-30 | 2023-02-23 |
 | [Enta Omry](https://open.spotify.com/track/5zteb7rFbPUsL5QdB1nlKh) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [Enta Omry](https://open.spotify.com/album/0wlscyFHNbfziYc5D2tBvF) | 4:26 | 2023-05-22 |  |
@@ -22,6 +23,7 @@
 | [La tadeay Belmahabeh](https://open.spotify.com/track/6LTjugDnOwFFlLy8mfCWJN) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [La tadeay Belmahabeh](https://open.spotify.com/album/3KABKr2xB3xOR6UlTtip5L) | 3:04 | 2023-02-22 | 2023-10-25 |
 | [Le Hosadi](https://open.spotify.com/track/77jg1uFolRcsVD2FUEjHmv) | [Badr Alsheafani](https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB) | [Le Hosadi](https://open.spotify.com/album/4cGSE40V1ayfvCeNWYQ992) | 4:42 | 2023-05-12 | 2023-09-02 |
 | [Marhaba Bek](https://open.spotify.com/track/3dHSmw4UKtQkXDb7EQS19Y) | [Fahd Bn Fasla](https://open.spotify.com/artist/7KcsMljHCItOCLGI8BDGZ4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [Marhaba Bek](https://open.spotify.com/album/6vBMUU5OMyieheEZofvPB7) | 4:01 | 2023-04-26 | 2023-05-23 |
+| [Men Doon Ay Mogdmat](https://open.spotify.com/track/49Rug5MOJsNISOC8BH0dod) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [Men Doon Ay Mogdmat](https://open.spotify.com/album/5rOfIU1MqxplPDBdKHcoFP) | 5:08 | 2024-01-11 |  |
 | [Msahat Alahlam](https://open.spotify.com/track/0CpKjyK98dwLyDuZX68BxD) | [Saleh Alyami](https://open.spotify.com/artist/0EHQN1RzPBV4c1iPv8m5ln) | [Msahat Alahlam](https://open.spotify.com/album/0b3vh1sUThYMn2P21ZLGVQ) | 5:49 | 2023-02-22 | 2023-02-25 |
 | [Sheila Sattar](https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh), [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Abdulaziz Al Shehri](https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 1:39 | 2023-02-22 | 2023-09-02 |
 | [Taht Almatar](https://open.spotify.com/track/6BrH7iaWBkHlmuKfTulkC1) | [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Waleed Al Labeed](https://open.spotify.com/artist/54WeFgRgJGUZIWEYmcyUMf) | [Taht Almatar](https://open.spotify.com/album/4tcggWhIWquh4TLAk1IOnT) | 3:52 | 2023-02-22 | 2023-05-23 |
@@ -74,7 +76,7 @@
 | [امر تدلل](https://open.spotify.com/track/6PaTGersLXEns3SZCWw4fU) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [امر تدلل](https://open.spotify.com/album/2SkzGMdkdB7xT7vwDXOc4N) | 3:44 | 2023-07-11 |  |
 | [انا المخطي](https://open.spotify.com/track/2swUzeYPuT4sM5fOF3fWhF) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/3BSglbJHaNmKZLmkAJRU11) | 3:32 | 2022-03-30 | 2022-11-02 |
 | [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 | 2022-08-31 | 2023-04-23 |
-| [انا مستغرب](https://open.spotify.com/track/0SVGqnBaDrCMYhGfERHdBu) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [انا مستغرب](https://open.spotify.com/album/7jkatJdfKoVj5MYrCkjfYf) | 5:00 | 2023-09-22 |  |
+| [انا مستغرب](https://open.spotify.com/track/0SVGqnBaDrCMYhGfERHdBu) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [انا مستغرب](https://open.spotify.com/album/7jkatJdfKoVj5MYrCkjfYf) | 5:00 | 2023-09-22 | 2024-01-12 |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-03-30 | 2022-11-02 |
 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 | 2022-08-31 | 2023-04-06 |
 | [تجاهلني](https://open.spotify.com/track/6R6zmKXsboLCYQ3hMNJlD4) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz), [عمار الكوفي](https://open.spotify.com/artist/1YN0hBRFU0rGPgvr0aMmHs) | [تجاهلني](https://open.spotify.com/album/5xjGNzBxIQXVliqj7TKoG6) | 2:58 | 2022-08-31 | 2022-11-02 |
@@ -99,6 +101,7 @@
 | [حياة وروح](https://open.spotify.com/track/35k78NeGmBsfvnVRBri4H9) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [حياة وروح](https://open.spotify.com/album/0PwVtQ4mTqkXQj00Bz1S6w) | 3:15 | 2022-03-30 | 2022-12-22 |
 | [حياة وروح](https://open.spotify.com/track/4zEEvdJ6LEm2qMxeLg1kMI) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [حياة وروح](https://open.spotify.com/album/0TJIwfyGTMec9Bs9pcs2f1) | 3:15 | 2022-12-13 | 2023-02-23 |
 | [خاويت ذكراه](https://open.spotify.com/track/73xOibl20hlunR0U0oYBA0) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [خاويت ذكراه](https://open.spotify.com/album/64jWjJ9jxpM4spXX9QDqaf) | 3:40 | 2023-03-03 | 2024-01-04 |
+| [خذاني الشوق](https://open.spotify.com/track/33EphTCfbZMceeIyCYt6b6) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [خذاني الشوق](https://open.spotify.com/album/47FXkqqo11NLkP4eQPQ3cL) | 3:25 | 2024-01-11 |  |
 | [خلها عندك](https://open.spotify.com/track/7xacUqlArDz5o2zObr0nOa) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [خلها عندك](https://open.spotify.com/album/3C1CXr8nHw7H0tHJmtF0gi) | 3:15 | 2023-09-01 |  |
 | [ذبلت أوراقه](https://open.spotify.com/track/6iHq7qqQxFpMfjjEOKtxKi) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ذبلت أوراقه](https://open.spotify.com/album/1XECmAKz1cFsbG3KWo2LCt) | 2:44 | 2024-01-04 |  |
 | [ذكريات](https://open.spotify.com/track/5F00O9CiGm2ypY18sRafTF) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/4oISxuxitXee2lekdanshZ) | 4:05 | 2022-03-30 | 2022-06-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Mata",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Szpaku",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 183157,
       "name": "Bunt (Piep*zy\u0107 Mickiewicza Soundtrack)",
       "url": "https://open.spotify.com/track/5fM9DVKjOZahXsMLeFb9Zd"
@@ -730,6 +730,28 @@
       "duration_ms": 134693,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/381u1jM3XFxE23cdQzep4k"
+    },
+    {
+      "album": {
+        "name": "Ca\u0142y Na Bia\u0142o",
+        "url": "https://open.spotify.com/album/1rv3anlVyHry5sK30uojbt"
+      },
+      "artists": [
+        {
+          "name": "Wac Toja",
+          "url": "https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv"
+        },
+        {
+          "name": "K\u00f8Di",
+          "url": "https://open.spotify.com/artist/2BRzhd3vpEd2pYMueGVoEG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173959,
+      "name": "Ca\u0142y Na Bia\u0142o",
+      "url": "https://open.spotify.com/track/2bZEBBLHvXKgCv9KtGKEIS"
     },
     {
       "album": {
@@ -1860,7 +1882,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 143505,
       "name": "lec\u0119",
       "url": "https://open.spotify.com/track/7s2nsZ2FiavIHo9kzikcXB"
@@ -1926,7 +1948,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 166551,
       "name": "LUBI\u0118 WIDZIE\u0106 JAK KTO\u015a KRWAWI",
       "url": "https://open.spotify.com/track/7ppZkw4HFDqU9ngyHV4qIv"
@@ -2520,6 +2542,28 @@
       "duration_ms": 142857,
       "name": "NIE OTWIERAJ DRZWI",
       "url": "https://open.spotify.com/track/3xMn54eE8d34T9lcsuWLey"
+    },
+    {
+      "album": {
+        "name": "Niebezpiecznie",
+        "url": "https://open.spotify.com/album/69P4WKZ24Dibry7bhdpT5D"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Szamz",
+          "url": "https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Niebezpiecznie",
+      "url": "https://open.spotify.com/track/3wx8tIIDVJZRLN85B4TNxa"
     },
     {
       "album": {
@@ -3722,6 +3766,28 @@
       "duration_ms": 278333,
       "name": "W KRAJU SCHABOWYCH KOTLET\u00d3W",
       "url": "https://open.spotify.com/track/2r0tCQsTvEwkKEcZ9pYwZt"
+    },
+    {
+      "album": {
+        "name": "W PROJEKTACH",
+        "url": "https://open.spotify.com/album/5FVsCe42q3KfaXH5jXiWFJ"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "LEENY",
+          "url": "https://open.spotify.com/artist/0JNiE5PtIz3q5dWEeyGsym"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139680,
+      "name": "W PROJEKTACH",
+      "url": "https://open.spotify.com/track/4Qi4hdAvkQKWcyANYeCx7K"
     },
     {
       "album": {

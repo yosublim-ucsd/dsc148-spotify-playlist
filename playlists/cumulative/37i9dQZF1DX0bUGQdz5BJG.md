@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Brittney Spencer
 
-1,819 songs - 4 day 1 hr 37 min
+1,820 songs - 4 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [Don't Tell Her I Told You](https://open.spotify.com/track/6w7SfFq7SIwI3vCD0dY2VF) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['23](https://open.spotify.com/album/7xlgfA4BqOu3SDWqaJF6i6) | 2:58 | 2024-01-05 |  |
 | [Don't Tempt Me](https://open.spotify.com/track/5H6YabXRgTbGRWkZEgQoOG) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [One Of These Days](https://open.spotify.com/album/0DLyAwA8jwAwn8CK6VNT6E) | 3:04 | 2022-06-03 | 2022-09-03 |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-15 | 2022-05-07 |
-| [Don’t Leave Me Loving You](https://open.spotify.com/track/5YTBeFxMYLEqkTtadRY0Ze) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QTUFjOPzU3hZFawaVRzNG) | 3:07 | 2024-01-05 |  |
+| [Don’t Leave Me Loving You](https://open.spotify.com/track/3RIRS2YNIyFCVAgSfzOzTC) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QpEKpAvnorJv91eZx53BP) | 3:07 | 2024-01-05 |  |
+| [Don’t Leave Me Loving You](https://open.spotify.com/track/5YTBeFxMYLEqkTtadRY0Ze) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QTUFjOPzU3hZFawaVRzNG) | 3:07 | 2024-01-05 | 2024-01-12 |
 | [Don’t Mess With Exes](https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Don’t Mess With Exes](https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956) | 3:27 | 2023-02-10 | 2023-03-25 |
 | [Down Here](https://open.spotify.com/track/3EEaGE74mn7l9pGynEjYIj) | [Josie](https://open.spotify.com/artist/0lkn1fc0HZVVtrl8otRdT1) | [Down Here](https://open.spotify.com/album/0FC44XRBIHsLBg32HpFHTL) | 3:41 | 2023-09-01 |  |
 | [Down Home](https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Down Home](https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf) | 3:21 | 2022-03-11 | 2022-04-02 |

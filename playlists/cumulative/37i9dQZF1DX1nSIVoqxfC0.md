@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-347 songs - 23 hr 49 min
+348 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-23 |  |
 | [Driving To Heaven](https://open.spotify.com/track/4By7H4fvXagLSbDmm0bQbs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements Of Life](https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF) | 4:42 | 2022-07-28 | 2023-04-20 |
 | [Driving To Heaven](https://open.spotify.com/track/57bZyLSHVspK6fw333UWXf) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements of Life](https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is) | 4:42 | 2020-10-20\* | 2022-07-29 |
+| [Drums \(Feat\. Kim Petras\) \- Tiësto Remix](https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drums \(Feat\. Kim Petras\) \[Tiesto Remix\]](https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2) | 2:52 | 2024-01-11 |  |
 | [Echoes](https://open.spotify.com/track/3kmFq8gtzOTxOw4HkbjjAm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:59 | 2020-10-20\* | 2023-04-20 |
 | [Elements Of A New Life](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs) | [VER:WEST](https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements Of A New Life](https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd) | 3:25 | 2021-07-16 |  |
 | [Elements Of Life](https://open.spotify.com/track/6VM07TmzYJWb4MUEkxRplr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements Of Life](https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF) | 8:25 | 2022-07-28 |  |

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YANGHONGWON\(양홍원\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,067 songs - 2 day 10 hr 33 min
+1,068 songs - 2 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Monet](https://open.spotify.com/track/2AIdJeRi6mlNXhJRdqlm0A) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 2:38 | 2023-07-18 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2023-11-10 | 2023-12-27 |
 | [MONEY](https://open.spotify.com/track/7ifLrhXBoQ5MDFTRpIYkfA) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 2:48 | 2021-12-18 | 2022-07-07 |
+| [Money Bag](https://open.spotify.com/track/4GkgHODPGClQyzDEN4tTGO) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Money Bag](https://open.spotify.com/album/0hDEcd0coq8QIe5FL736TV) | 3:08 | 2024-01-11 |  |
 | [MONEY GAME](https://open.spotify.com/track/3I0U0qLpokurgArQly7sk3) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [MONEY GAME](https://open.spotify.com/album/0SLApxKJwQWBvXdrtkBS4p) | 3:50 | 2021-12-21 | 2022-06-04 |
 | [Money Only Shows Hustle \(M.O.S.H\) \(Feat\. The Quiett, GongGongGoo009\)](https://open.spotify.com/track/1wnKbX1GeF7bZREbxYfuQc) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY) | [TO GO](https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm) | 2:47 | 2023-04-03 | 2023-09-15 |
 | [Money Warfare \(Feat\. Royal 44\)](https://open.spotify.com/track/4bF12yPC7eLWokTFYmhehx) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Gangnam EP](https://open.spotify.com/album/37UlgFjxwn0Q67WCJOqnvF) | 2:46 | 2022-08-15 | 2022-11-02 |

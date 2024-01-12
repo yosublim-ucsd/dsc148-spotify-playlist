@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 43610,
+  "2024-01-12": 43608,
   "date_first_scraped": "2022-06-10",
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
   "name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 146760,
       "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc\uff01",
       "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 216586,
       "name": "\u597d\u304d\u306b\u306a\u3063\u3066\u3044\u3044\u3088\u306d\uff1f",
       "url": "https://open.spotify.com/track/6qH3GeLHag5sqicN7FDuce"

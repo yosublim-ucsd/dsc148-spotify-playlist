@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 18213,
+  "2024-01-12": 18240,
   "date_first_scraped": "2022-08-06",
   "description": "Smooth soul-inspired tracks ",
   "name": "Cocoa Butter ",
@@ -1751,6 +1751,32 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
+      "album": {
+        "name": "Diani",
+        "url": "https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu"
+      },
+      "artists": [
+        {
+          "name": "Iyanah",
+          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
+        },
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        },
+        {
+          "name": "Supadrum",
+          "url": "https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180007,
+      "name": "Diani",
+      "url": "https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd"
     },
     {
       "album": {
@@ -9297,7 +9323,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 240261,
       "name": "Why Evils",
       "url": "https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r"

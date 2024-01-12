@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 70005,
+  "num_followers": 70070,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTM2YmU1MjI5M2UzNjcxMDczMjk1OTg3MTJjZTQ5MTlmMDgxNjAy",
+  "snapshot_id": "MCxlODhkN2NjMDZiNjVkNzA1NmE3N2JmODM0M2IyZWExYmNiZDJiYjBl",
   "tracks": [
     {
       "added_at": "2023-11-13 15:26:06",
@@ -851,6 +851,30 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 154378,
+      "name": "Essa Noite",
+      "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 154378,
-      "name": "Essa Noite",
-      "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
-        "name": "Outras Vidas",
-        "url": "https://open.spotify.com/album/6wb4X7EEXq5e9EGtTjT31P"
-      },
-      "artists": [
-        {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
-        }
-      ],
-      "duration_ms": 169845,
-      "name": "Outras Vidas",
-      "url": "https://open.spotify.com/track/70TOq8IEGaLgTum1SEu59X"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
         "name": "Moletom",
         "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
       },
@@ -1059,6 +1043,38 @@
       "duration_ms": 334153,
       "name": "Moletom",
       "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "Outras Vidas",
+        "url": "https://open.spotify.com/album/6wb4X7EEXq5e9EGtTjT31P"
+      },
+      "artists": [
+        {
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+        }
+      ],
+      "duration_ms": 169845,
+      "name": "Outras Vidas",
+      "url": "https://open.spotify.com/track/70TOq8IEGaLgTum1SEu59X"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "Tudo No Priv\u00ea",
+        "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Tudo No Priv\u00ea",
+      "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -1135,22 +1151,6 @@
       "duration_ms": 610515,
       "name": "Love - Ac\u00fastico",
       "url": "https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "Tudo No Priv\u00ea",
-        "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Tudo No Priv\u00ea",
-      "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
     },
     {
       "added_at": "2023-11-13 15:26:06",

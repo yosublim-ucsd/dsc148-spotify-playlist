@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-970 songs - 2 day 7 hr 21 min
+971 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [レモンの花](https://open.spotify.com/track/70AT1JCm28kVWclugOUbeM) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [レモンの花](https://open.spotify.com/album/02rdR2S8XYznEiYEQqTFvm) | 3:36 | 2023-04-13 | 2023-04-26 |
 | [ロアーズ](https://open.spotify.com/track/1sS8qMEm9hjHfKaZxjrHI0) | [アニマル教団](https://open.spotify.com/artist/7ooWBDJNhv1KUH07mrhVc0) | [参上!アニマル教団!](https://open.spotify.com/album/1DhGLgkbbbYdHiI8zDn4vm) | 3:39 | 2022-10-12 | 2022-10-19 |
 | [ロストボーイズ](https://open.spotify.com/track/7dTVamzAYrDWiK0s1k8ruu) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [七号線ロストボーイズ](https://open.spotify.com/album/0pqrWNxpcWBvR9A5A9JHHl) | 5:46 | 2022-06-23 | 2022-06-29 |
+| [ロックオン](https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [ロックオン](https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx) | 2:47 | 2024-01-11 |  |
 | [ワガママガール](https://open.spotify.com/track/61DrEjRAFDBijE25tqcTv3) | [音莉飴](https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ) | [ワガママガール](https://open.spotify.com/album/29f2Dt73aVSEzJYfpfcGVa) | 3:27 | 2023-10-05 | 2023-10-13 |
 | [ワンダーライフ](https://open.spotify.com/track/74XDwLSzztj27oM6KUcC1g) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Solution](https://open.spotify.com/album/5PmNfGLBaymlpqQh7m9vrX) | 3:41 | 2022-06-21 | 2022-07-07 |
 | [ヴァンパイア](https://open.spotify.com/track/4M0ojH6RFhKdxbzLVwlk00) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [ヴァンパイア](https://open.spotify.com/album/0x1iJ5uy1vZdGiWG9BOUcx) | 3:05 | 2022-09-29 | 2022-10-05 |
@@ -859,7 +860,7 @@
 | [猫かぶり](https://open.spotify.com/track/63YKp0qJprGUxgK5fl5bCz) | [雨宿り](https://open.spotify.com/artist/59BLjrTwyCqE9R4W1BovYK) | [猫かぶり](https://open.spotify.com/album/6dYJSeGgkI6kF3FeR8eapR) | 3:47 | 2022-12-27 | 2023-01-04 |
 | [猫リセット](https://open.spotify.com/track/68TwxeHi1pyFDRIKHxSArM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [猫リセット](https://open.spotify.com/album/5UYCMMhY28GdZa56yEQGV9) | 4:07 | 2022-06-09 | 2022-07-24 |
 | [猫被り](https://open.spotify.com/track/3ZzcCGmLtedAge5b1eWZZ0) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [猫被り](https://open.spotify.com/album/3nk5STrK5pfQrB2oy2TbkV) | 3:02 | 2022-06-09 | 2022-07-25 |
-| [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-17 |  |
+| [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-17 | 2024-01-12 |
 | [甘やかな毒 \- feat\. EMA](https://open.spotify.com/track/2mQ0PT8ssxO2tyKzTBRgxN) | [Goat](https://open.spotify.com/artist/4mfb1N5wHaJn88xVYvHq8H), [EMA](https://open.spotify.com/artist/23rpDPnKdY96j4smcpPTJT) | [甘やかな毒 \(feat\. EMA\)](https://open.spotify.com/album/2wDhn1gtxadLTmv1uWpEUz) | 2:45 | 2022-06-09 | 2022-06-14 |
 | [生きるってなんだよ](https://open.spotify.com/track/6DCEStYSd9lfZ9M3Bkjj2l) | [朝ノ瑠璃](https://open.spotify.com/artist/584gKp2bM8dnPO7AyJ17Vc) | [生きるってなんだよ](https://open.spotify.com/album/7CRmjkc9j2Whe39gfZshic) | 4:01 | 2024-01-04 | 2024-01-06 |
 | [生きるよすが](https://open.spotify.com/track/1SLtDIhXQG2ud0AXrb2fn8) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [生きるよすが](https://open.spotify.com/album/3jZ6QhG9rcrPxxMxJbBNko) | 4:04 | 2022-06-09 | 2022-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,143 likes - 181 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,695 likes - 181 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 11 | [Bless Your Heart pt\. 2 \(Ft\. Baby Rose\)](https://open.spotify.com/track/1cTp43BLzPouiJEow6oB2T) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Bless Your Heart pt\. 2 \(Ft\. Baby Rose\)](https://open.spotify.com/album/31NMNfrjGa6KYidmiMTTQH) | 4:03 |
 | 12 | [Baby Blue](https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Baby Blue](https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW) | 3:03 |
 | 13 | [Good & Great](https://open.spotify.com/track/3Iy2NBkFdAmv8lipqrCELH) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Good & Great](https://open.spotify.com/album/1oKWdztnVhen1p8Irs5sJ5) | 3:27 |
-| 14 | [Company](https://open.spotify.com/track/6jGSAwnrXnIYPwhrvftCoB) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Company](https://open.spotify.com/album/1kVdPf4akEAG56XYh1reG3) | 3:03 |
+| 14 | [Company For Now](https://open.spotify.com/track/6jGSAwnrXnIYPwhrvftCoB) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Company For Now](https://open.spotify.com/album/1kVdPf4akEAG56XYh1reG3) | 3:03 |
 | 15 | [Run It Back](https://open.spotify.com/track/2dSkLQLd2roPXtd8JePLqp) | [Ryan Leslie](https://open.spotify.com/artist/3aTMDZLtkFlYQfQL7bzccp) | [Run It Back](https://open.spotify.com/album/0tVOPNZO4KTdb03rWuXjYC) | 3:50 |
 | 16 | [You See Me \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/7y4Vr30vLgR0o5Pzr3Lj4z) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You See Me \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2vaz5XRZkVOgiuTMSqqnwK) | 3:11 |
 | 17 | [Take It Personal](https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Take It Personal](https://open.spotify.com/album/4n4InJrgimhQkVcyEvo85K) | 2:45 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 180 | [Fake Love](https://open.spotify.com/track/5EqNG2VsfilMEadJzoh6Af) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Fake Love](https://open.spotify.com/album/5uXuP0rY36kFwr3Ea2mBXF) | 2:55 |
 | 181 | [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 |
 
-Snapshot ID: `MCw3ZTZhMzg4MzkyYWFkNmJmMDljYzg0M2Q4ZDkzNzQ0NWExMTVmM2I4`
+Snapshot ID: `MCw5ZmVjZDAwNDg1MDM3NjU0ZTdjY2Y5YmY0MzAyYTEzMGVjYzE4OTUy`

@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 514244,
+  "2024-01-12": 514296,
   "date_first_scraped": "2023-01-15",
   "description": "Classic anthems from a classic era. Cover: Wookie",
   "name": "UK Garage Classics",
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 391293,
       "name": "Kung-Fu",
       "url": "https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 389600,
       "name": "Masquerade - MJ Cole Vocal",
       "url": "https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ"

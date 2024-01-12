@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,953 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,805 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 26 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
 | 27 | [Lounge Lizard](https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Lounge Lizard](https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0) | 3:49 |
 | 28 | [black joy](https://open.spotify.com/track/77iu6yezCTvVSrikAWivdX) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF) | [when the poems do what they do](https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk) | 6:16 |
-| 29 | [Encantados](https://open.spotify.com/track/4yTafI7wbjy1VtThovqmXF) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679), [Hamid Drake](https://open.spotify.com/artist/3UJfOrT4kZIoRtRfaCQgFp), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o), [Aniel Someillan](https://open.spotify.com/artist/7sOXF3R6ECCpyeItRgqIAk) | [Encantados](https://open.spotify.com/album/2TgHSNAZ2hQgnjEOh2t9Bh) | 9:42 |
+| 29 | [Encantados](https://open.spotify.com/track/4yTafI7wbjy1VtThovqmXF) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679), [Hamid Drake](https://open.spotify.com/artist/3UJfOrT4kZIoRtRfaCQgFp), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [Aniel Someillan](https://open.spotify.com/artist/7sOXF3R6ECCpyeItRgqIAk) | [Encantados](https://open.spotify.com/album/2TgHSNAZ2hQgnjEOh2t9Bh) | 9:42 |
 | 30 | [The Comeback](https://open.spotify.com/track/0MOCXlySxIos7wMFITLore) | [J\-Rod Sullivan](https://open.spotify.com/artist/3sQFyYXUd3ATfqB8ASEy1u) | [The Comeback](https://open.spotify.com/album/1gh0ayHtxAjp2PaX9fJivk) | 6:05 |
 | 31 | [Akka\-Safad](https://open.spotify.com/track/29Pk4XB98ecmEFZXKyQNfj) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Akka\-Safad](https://open.spotify.com/album/1ZyeuEB5sVY0h5na75PeOF) | 3:43 |
 | 32 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 97 | [Final Voyage](https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Southern Suite](https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr) | 6:18 |
 | 98 | [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 |
 | 99 | [STOP CALLING ME](https://open.spotify.com/track/314r69preySjrl67vpaEI8) | [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [Stop Calling Me](https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B) | 5:27 |
-| 100 | [Pressure on the Pulse](https://open.spotify.com/track/1bzbo40agQ6NOQE0mHquEs) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Pressure on the Pulse](https://open.spotify.com/album/04Hx1mBLrSy5mXbwqvDLcv) | 3:26 |
+| 100 | [Pressure on the Pulse](https://open.spotify.com/track/40MBOllKyanYQZ8vuexEXI) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd) | 3:26 |
 
-Snapshot ID: `MCwyMTg2YjlkMzFmOWFmNmFjODVlYjk2NTM1MGU1ZTY2Nzc3Y2I0M2Nm`
+Snapshot ID: `MCxmNTM1YjlmNzdjMjNhMDUwNzJmZGY0ZWIwMTM4ZDJiOTJkNWM3MDEw`

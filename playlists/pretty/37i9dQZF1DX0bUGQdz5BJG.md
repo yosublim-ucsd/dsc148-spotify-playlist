@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Brittney Spencer
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,557 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,578 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 20 | [What Do I Know](https://open.spotify.com/track/2wVD8vcsuEyaoXlElfCSAw) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6yezH6J5KimsNRljf5WOUV) | 3:52 |
 | 21 | [Living Don't Cost a Lot](https://open.spotify.com/track/5FaouE0oUkLV2SQbDsBjGh) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Love Every Minute](https://open.spotify.com/album/7Mkqjn18c0OK3lA3QnXsOE) | 3:10 |
 | 22 | [I Kissed Your Boyfriend](https://open.spotify.com/track/7odGIMD8OkodZTyRQg7LQ4) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [I Kissed Your Boyfriend](https://open.spotify.com/album/1eQy1INIuDbSPjHvSjoiWJ) | 3:08 |
-| 23 | [Don’t Leave Me Loving You](https://open.spotify.com/track/5YTBeFxMYLEqkTtadRY0Ze) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QTUFjOPzU3hZFawaVRzNG) | 3:07 |
+| 23 | [Don’t Leave Me Loving You](https://open.spotify.com/track/3RIRS2YNIyFCVAgSfzOzTC) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Don't Leave Me Loving You](https://open.spotify.com/album/0QpEKpAvnorJv91eZx53BP) | 3:07 |
 | 24 | [Wanderin' arounders](https://open.spotify.com/track/6LjH5UOVlRV79JBH68Oqtj) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Dear Me](https://open.spotify.com/album/06tODvTM3ow58i4pVy71M7) | 3:33 |
 | 25 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
 | 26 | [GOOD SINNER](https://open.spotify.com/track/0MmsRfYkWF4s9ecr3rha16) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [GOOD SINNER](https://open.spotify.com/album/4d8lt7Q5Kk6FJ8JqYrrsIw) | 3:15 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Ain’t Thinkin’ Bout You](https://open.spotify.com/track/7dmA9608TJjycVFNBeLtQZ) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Ain’t Thinkin’ Bout You](https://open.spotify.com/album/5uiGWVQ4E7oDrfUKkpb3Fj) | 2:30 |
 | 200 | [Sober Thing](https://open.spotify.com/track/6seAvadjjutVTkggYOh1to) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Sober Thing](https://open.spotify.com/album/6EY0avx8oulWJ9vSOB3oUZ) | 4:32 |
 
-Snapshot ID: `MCxlMzRlYjY2ZGIyYjAyODgyMmY1NGFiMGNjMGY4ZjIyNGM4NmUyNTMx`
+Snapshot ID: `MCw2YTlhZTIyMGU2OGJmZjVkZjQwODY3NjQ2NjY1MWNkYmU4NzEyZmJh`

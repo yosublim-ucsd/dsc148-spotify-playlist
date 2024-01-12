@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=HHAOxpV0RDaz5tPsmjJQGQ">Anendlessoncean</a>
 
-404 songs - 1 day 10 hr 48 min
+405 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Fix My Eyes On You](https://open.spotify.com/track/01681YDSzn0mtZJoXHzcuG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Fix My Eyes On You](https://open.spotify.com/album/6A2omubxXwPF8fveDc1dNy) | 5:33 | 2020-04-13 | 2022-07-29 |
 | [For Me](https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [For Me](https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA) | 3:21 | 2023-03-31 | 2023-05-12 |
 | [For my mind](https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [For my mind](https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm) | 2:33 | 2023-05-12 | 2023-05-26 |
+| [Fragrance](https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance](https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV) | 4:27 | 2024-01-12 |  |
 | [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 | 2023-12-31 | 2024-01-04 |
 | [Give Me Time \(Gimme\)](https://open.spotify.com/track/5xrlv9xFTnzqraUOtStgCD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Give Me Time \(Gimme\)](https://open.spotify.com/album/21ICHmCBp2my574mRH2otm) | 3:00 | 2023-08-25 | 2023-09-01 |
 | [God Has Been Good](https://open.spotify.com/track/5WpB9rh1D2mRCnHZNZDZJf) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [House Victimz](https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr) | [The Gospel According To Artwork Sounds Chapter II](https://open.spotify.com/album/29GVpaBSSetPQ38LohweSs) | 6:52 | 2023-04-28 | 2023-05-19 |

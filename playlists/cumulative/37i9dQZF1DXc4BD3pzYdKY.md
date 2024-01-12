@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a>
 
-882 songs - 1 day 19 hr 54 min
+883 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Ghost](https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Ghost](https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq) | 2:25 | 2022-10-29 | 2022-12-04 |
 | [Giants](https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Giants](https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg) | 2:43 | 2023-08-25 |  |
 | [GIRLGANG Freestyle](https://open.spotify.com/track/2MV1HLZpmWM6GNGIvX38Ki) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mykiiie](https://open.spotify.com/artist/4JSnrso8KwkOdVhYh7iFTE) | [GIRLGANG Freestyle](https://open.spotify.com/album/47ak5YwAJltPiEntEH2CNt) | 2:46 | 2022-06-25 | 2022-08-09 |
-| [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 | 2023-12-15 |  |
+| [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 | 2023-12-15 | 2024-01-12 |
 | [Give You My Last](https://open.spotify.com/track/7BaTq18k26aXmT0FJMCudt) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Give You My Last](https://open.spotify.com/album/5JrgdyLCtCwoNmVCFkiOZC) | 2:52 | 2022-06-25 | 2022-07-18 |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-05-28 | 2023-12-16 |
 | [Glory](https://open.spotify.com/track/1wj7byFCa1wtrOyLJagRoM) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Disciple Theory](https://open.spotify.com/artist/7963a7BIGR9VOUXhGQrC2p) | [Built Different](https://open.spotify.com/album/1LgsK7B03yMxBfSfPfXtOy) | 3:42 | 2023-03-25 | 2023-04-11 |
@@ -654,6 +654,7 @@
 | [RESPECT](https://open.spotify.com/track/7KUeFWTXZAiq1v5Y0lBxaK) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [RESPECT](https://open.spotify.com/album/75ILqfSbQN5CzVjpXLzthl) | 2:49 | 2022-02-04 | 2022-08-07 |
 | [Respect My Team](https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Respect My Team](https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe) | 3:47 | 2022-06-25 | 2023-12-16 |
 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 | 2022-09-11 | 2023-12-16 |
+| [RESURFACED TRAUMA](https://open.spotify.com/track/6hbuCWny8JGHXvSYimzpN7) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [RESURFACED TRAUMA](https://open.spotify.com/album/77OaAFdQFbXFbX5vvaGsjp) | 2:29 | 2024-01-05 |  |
 | [Revival Kit](https://open.spotify.com/track/26xlwzknPED0ayPpT4jsRv) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Dkg Kie](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [Revival Kit](https://open.spotify.com/album/3C40cKOTnmts3tkttmFtY2) | 2:52 | 2023-12-15 |  |
 | [Revolutionary](https://open.spotify.com/track/5OWrZi4Upp6cwY1UirDx6X) | [Cephas](https://open.spotify.com/artist/6ullBRZTTK0lT7fUqbgbKD) | [Revolutionary](https://open.spotify.com/album/2L0DCHnVmCvz5xuZpBqpXM) | 2:20 | 2022-02-04 | 2022-03-15 |
 | [RICH](https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [RICH](https://open.spotify.com/album/5P1RmCAG4yB80keglreodA) | 2:42 | 2023-08-25 |  |

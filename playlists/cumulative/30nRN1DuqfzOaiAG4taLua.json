@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/47C9hANYlYm2np3n49aorb"
+      },
+      "artists": [
+        {
+          "name": "FREMONT (US)",
+          "url": "https://open.spotify.com/artist/7xxCVEdkHhrR3bpFfsA69v"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/67flQc511s7u45O4Jrfp1G"
+    },
+    {
+      "album": {
         "name": "The Bassline",
         "url": "https://open.spotify.com/album/0OtNTTOpVum1PlOxLaD6GR"
       },

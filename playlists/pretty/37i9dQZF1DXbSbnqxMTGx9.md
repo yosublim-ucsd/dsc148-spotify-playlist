@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,808,256 likes - 250 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,807,146 likes - 250 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 62 | [Pirate](https://open.spotify.com/track/7aqQQLEMPcDJiqyyXIf7Mt) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA), [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Soul Syndicate](https://open.spotify.com/artist/1ymkV8bESlRIIueJhmrYik) | [Treasure Isle Presents: Original Reggae](https://open.spotify.com/album/6UcNoS9BMXSv092UOFuVFL) | 2:32 |
 | 63 | [Simmer Down Quashie](https://open.spotify.com/track/3P5RPybCLmhgJO8PRR9C60) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Battle of the Giants](https://open.spotify.com/album/7ENwAj0FAfUmFQ98fiiYae) | 1:57 |
 | 64 | [Come We Go Moonwalk](https://open.spotify.com/track/10K4PY9KClshvydqdNUNTH) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Sufferer](https://open.spotify.com/album/7ehpPYN8eVWgvn4ezalkkm) | 2:56 |
-| 65 | [Working On a Groovy Thing](https://open.spotify.com/track/2yTRupUlFEWvzJSA3SwRkq) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/7LiL2GcXVkttPp9LtCBFvY) | 4:12 |
+| 65 | [Working On a Groovy Thing](https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0) | 4:12 |
 | 66 | [Peace in Your Mind \(Peace of Mind\)](https://open.spotify.com/track/42SUfZvm3Xka2vfvu1hYCG) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Young, Gifted & Black](https://open.spotify.com/album/0Vzuuk08qIyyAb8LQPQFRe) | 2:26 |
 | 67 | [Sun Moon and Star](https://open.spotify.com/track/6DrCrMuZBQIxcSdc6Anpz5) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [The Best of The Maytals](https://open.spotify.com/album/07vKVYq96EdCHfqQ47aJSo) | 3:14 |
 | 68 | [Artibella](https://open.spotify.com/track/0vnzp4WlA4giLm9anau8VS) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Who Gets Your Love](https://open.spotify.com/album/0fSvh9zLAMyooFqcqXLdXB) | 2:20 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/7xDi25m7Kcc9rPs7zMA2zN) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/0l8YHHDWRH6dPBpp0V0sYb) | 3:44 |
 | 250 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 
-Snapshot ID: `MCw3NjE5YjViMzJlYjNjYTZjMWUwNzdjNTNiZDJmNjhiM2NlN2VkOGQ4`
+Snapshot ID: `MCw0NmQ0M2I1NWYxNTlmNDExMDFkMjI1YTYyZWFhYjY4MjFiZjNjMDgy`

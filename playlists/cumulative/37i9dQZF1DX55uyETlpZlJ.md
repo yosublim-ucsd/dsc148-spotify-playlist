@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-244 songs - 13 hr 15 min
+245 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Maha Ganapathim](https://open.spotify.com/track/0DY2HqSTGGBtTFKfsshNYd) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Maha Ganapathim](https://open.spotify.com/album/4CHgztUDbbXxRZSTohaQvQ) | 4:09 | 2023-01-18 | 2023-08-25 |
 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 | 2023-07-10 |  |
 | [Mallige Hoova](https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Ashika Ranganath](https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp) | [Mallige Hoova](https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt) | 2:57 | 2022-09-09 | 2023-07-18 |
-| [Manadaalada Maatu](https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd) | [Manadaalada Maatu](https://open.spotify.com/album/0LmYdvdjouZveQPz7pl8F3) | 3:08 | 2023-06-06 |  |
+| [Manadaalada Maatu](https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd) | [Manadaalada Maatu](https://open.spotify.com/album/0LmYdvdjouZveQPz7pl8F3) | 3:08 | 2023-06-06 | 2024-01-12 |
 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 | 2023-09-13 |  |
 | [Manaseega Birukagidhe](https://open.spotify.com/track/7CAbO29cTqanGs20E0PTDn) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Manaseega Birukagidhe](https://open.spotify.com/album/2PwFQISQAug99Eh7fizHMX) | 3:59 | 2023-10-07 |  |
 | [Manasindha](https://open.spotify.com/track/4Xx16ZaD0LW0svsyWx6c3x) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Manasindha](https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p) | 4:37 | 2023-05-02 | 2023-07-04 |
@@ -212,6 +212,7 @@
 | [RCB 12th Man Army](https://open.spotify.com/track/3w0i0dc5rDKfpBTp3e3k07) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [RCB 12th Man Army \- Single](https://open.spotify.com/album/7i4SqRm106EdOoeU7koGbP) | 2:39 | 2023-04-05 | 2023-12-09 |
 | [RCB ANTHEM \- Version 2023](https://open.spotify.com/track/34U20Qg8DoIBp7taWrKZAL) | [YASHICA RAJ](https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd) | [RCB ANTHEM \(Version 2023\)](https://open.spotify.com/album/4IFnYU4QYdbvUWSpSCKGzC) | 2:32 | 2023-04-28 | 2023-06-08 |
 | [Ready \(Kannada\)](https://open.spotify.com/track/14zs6XjzSjwq0n7hriMaiO) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Viggu](https://open.spotify.com/artist/1SDkJl8i6RxJw0l7EHQvB7) | [Ready \(Kannada\)](https://open.spotify.com/album/2NkcrgFx5vDRtuTbOBovMW) | 1:56 | 2023-09-06 |  |
+| [Rocky Bhai 2.0](https://open.spotify.com/track/2HHM1OusTbVkYoN3Zu8x8T) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Rocky Bhai 2.0](https://open.spotify.com/album/7wxwmFKgiHQQTSm6Zb9DUc) | 2:18 | 2024-01-11 |  |
 | [Rodane](https://open.spotify.com/track/7LIK9xkO8r5KUsKw7UTz9O) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Rodane](https://open.spotify.com/album/3jU6zKe1cZbEUjMtScTZDo) | 5:25 | 2023-02-27 | 2023-12-08 |
 | [Saagu Nee](https://open.spotify.com/track/5LHpNNd7MqPfYUAzcAQj2Y) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Saagu Nee](https://open.spotify.com/album/0REHSlVg6yr2q0bv1grZ4w) | 2:43 | 2022-09-19 | 2023-07-04 |
 | [Saako Maani Odiddu](https://open.spotify.com/track/0UayXJ56vraoYYvkgtOvcz) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Saako Maani Odiddu](https://open.spotify.com/album/73QiTb4EmS5ca6BlWWllAt) | 3:13 | 2023-02-15 | 2023-06-20 |

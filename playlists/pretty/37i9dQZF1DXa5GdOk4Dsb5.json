@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 125995,
+  "num_followers": 126060,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWQ4NWZmZTQ4Nzk2YTJkNTE4YmZlMGE0NmM5YWU5YmI5ZTJlMmQ0",
+  "snapshot_id": "MCxkM2IwMzIwN2E0YzRiOTJiMmFjNTFkMmQ3NDkyMmY2ZTliMjM1ZTI1",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "2 Veces",
         "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 189066,
       "name": "2 Veces",
       "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Lo Mejor de Luis Alberto Posada",
-        "url": "https://open.spotify.com/album/1kcSXGjtHiIY7kcQ89H5Tf"
+        "name": "Las Grandes Norte\u00f1as De Los Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL"
       },
       "artists": [
         {
-          "name": "Luis Alberto Posada",
-          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 209867,
-      "name": "El Precio de Tu Error",
-      "url": "https://open.spotify.com/track/6hQkxhWRLgNRwqMmbuDxSN"
+      "duration_ms": 157826,
+      "name": "Ni Parientes Somos",
+      "url": "https://open.spotify.com/track/1aGGmppBvTHztso2ENKqwh"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Las Grandes Norte\u00f1as De Los Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL"
+        "name": "Lo Mejor de Luis Alberto Posada",
+        "url": "https://open.spotify.com/album/1kcSXGjtHiIY7kcQ89H5Tf"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Luis Alberto Posada",
+          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Ni Parientes Somos",
-      "url": "https://open.spotify.com/track/1aGGmppBvTHztso2ENKqwh"
+      "duration_ms": 209867,
+      "name": "El Precio de Tu Error",
+      "url": "https://open.spotify.com/track/6hQkxhWRLgNRwqMmbuDxSN"
     },
     {
       "added_at": "2023-04-14 06:00:00",

@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Robot95 y Lucho SSJ en portada.
 
-221 songs - 10 hr 21 min
+222 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Verde](https://open.spotify.com/track/5tze5L2cxNRp4qBTJQD94k) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh), [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Verde](https://open.spotify.com/album/2yHAABT6RPFulcihhh7uL1) | 2:15 | 2023-06-09 | 2023-12-09 |
 | [Voa Morir Joven](https://open.spotify.com/track/2PNu7tmV4dEr7AwVb3XT7o) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [Voa Morir Joven](https://open.spotify.com/album/7E7t9lerMjQfgI5FU1vSo0) | 3:38 | 2023-06-09 | 2023-07-01 |
 | [Vuelo para Uno](https://open.spotify.com/track/3BmFZQWviHYsNKGaoPuBEF) | [B.Costa](https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i) | [Una Vida Nueva](https://open.spotify.com/album/4lpYiLl5a3nPN4B5j9QKb9) | 2:55 | 2023-12-01 |  |
-| [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 | 2023-06-09 |  |
+| [Wapo y Mamón](https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/3W7MWJVkuX7CWc7QT3Wr2A) | 2:16 | 2024-01-03 |  |
+| [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 | 2023-06-09 | 2024-01-12 |
 | [Waze](https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:01 | 2023-06-09 |  |
 | [why?](https://open.spotify.com/track/3eNAjO88QTdxdDyAFVUnEJ) | [Brokeboi Rubio](https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX) | [why?](https://open.spotify.com/album/04jGMZtjIz0RxunjQXl2E0) | 1:14 | 2023-06-09 |  |
 | [YANOSE+](https://open.spotify.com/track/6aRH1wULqL60eu4tnD7Hjx) | [jorjais zerotres](https://open.spotify.com/artist/5umEL3FJi93772szQJQ5en), [N o m o o d](https://open.spotify.com/artist/7eapcdTGTUub9A0mrrDK6h), [Max Vallejo](https://open.spotify.com/artist/24DfufMsr8s4oOjr6W94is) | [YANOSE+](https://open.spotify.com/album/6Xc3L4wNLJgkuivTpmpmGo) | 3:55 | 2023-07-28 | 2023-09-05 |

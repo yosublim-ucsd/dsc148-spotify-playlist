@@ -1,5 +1,5 @@
 {
-  "2024-01-11": 129392,
+  "2024-01-12": 129363,
   "date_first_scraped": "2022-10-24",
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
   "name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
@@ -755,6 +755,24 @@
       "duration_ms": 264545,
       "name": "Comfort",
       "url": "https://open.spotify.com/track/7CU1CM6k3f50TFJUwzZUgC"
+    },
+    {
+      "album": {
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238858,
+      "name": "cuz",
+      "url": "https://open.spotify.com/track/4s3kcmPWMIxf7LmWF4F80m"
     },
     {
       "album": {
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 232946,
       "name": "IDEN",
       "url": "https://open.spotify.com/track/5nXb09reEw4Iat5wLkSgaU"
@@ -1920,6 +1938,28 @@
     },
     {
       "album": {
+        "name": "Kimi to Watashi no Uta (featuring LIBERA)",
+        "url": "https://open.spotify.com/album/5RWz3Rndy12YnYjxsiXlx4"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Yakushimaru",
+          "url": "https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE"
+        },
+        {
+          "name": "LIBERA",
+          "url": "https://open.spotify.com/artist/0wHSkXXRiwrmE9MzF8e4sK"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301266,
+      "name": "Kimi to Watashi no Uta (featuring LIBERA)",
+      "url": "https://open.spotify.com/track/4lyt57nzowtyz4NvQ3Dhq5"
+    },
+    {
+      "album": {
         "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
         "url": "https://open.spotify.com/album/1IL41vFj4phgdUsajpKFa1"
       },
@@ -1985,7 +2025,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 356973,
       "name": "Lady - 2020",
       "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
@@ -2437,6 +2477,24 @@
       "duration_ms": 195555,
       "name": "MOON",
       "url": "https://open.spotify.com/track/4aEv1igs7UqxBEHdicIcZV"
+    },
+    {
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167885,
+      "name": "Moon Dance",
+      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
     },
     {
       "album": {
@@ -3077,6 +3135,24 @@
       "duration_ms": 410761,
       "name": "Quai",
       "url": "https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb"
+    },
+    {
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128291,
+      "name": "Quarantine Mood",
+      "url": "https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw"
     },
     {
       "album": {
@@ -4495,7 +4571,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 301266,
       "name": "\u304d\u307f\u3068\u308f\u305f\u3057\u306e\u3046\u305f\uff08featuring LIBERA\uff09",
       "url": "https://open.spotify.com/track/2vvgDDC4fIEQCicXApxX9z"
@@ -4863,7 +4939,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 231640,
       "name": "\u307e\u306a\u3056\u3057",
       "url": "https://open.spotify.com/track/3r4cXJvkEStMje809wYpyf"
@@ -5755,6 +5831,24 @@
       "duration_ms": 264006,
       "name": "\u591c\u660e\u3051",
       "url": "https://open.spotify.com/track/4jbPItzP0AV4r6Hd81CW8H"
+    },
+    {
+      "album": {
+        "name": "\u591c\u7a7a",
+        "url": "https://open.spotify.com/album/0jUNTykn9v1VLuJGkE42d7"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249317,
+      "name": "\u591c\u7a7a",
+      "url": "https://open.spotify.com/track/1rWp9c9Po0i4lAfCJYOoBh"
     },
     {
       "album": {
@@ -6817,7 +6911,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"

@@ -1,13 +1,29 @@
 {
   "description": "The freshest tech house &amp; techno music \ud83d\udd25\ud83d\udd0a | tech house - house - techno - rave - party - bangers - tiktok techno - dance | Submit via Instagram: @subshiftmusic",
-  "num_followers": 7373,
+  "num_followers": 7416,
   "original_name": "Tech House Shifters",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "ODIzMCwwZGExMGY0Njc3ZGJhYmExMDViN2QwYTM4YTQ1Mjg1ZWY0MGQ3MjMz",
+  "snapshot_id": "ODIzNSw4YmQ4YzlmNWRhNmE3YTY0NjIwNTQ4MjczZTQwZTMwNjhmNTBjYmRk",
   "tracks": [
+    {
+      "added_at": "2024-01-12 00:02:36",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/1lkizjmEM7phja1LAX1WS7"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 154941,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ"
+    },
     {
       "added_at": "2024-01-05 23:02:31",
       "album": {
@@ -891,6 +907,42 @@
       "duration_ms": 173000,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/5snRNP8U03CUKr9DykgZQU"
+    },
+    {
+      "added_at": "2024-01-12 00:23:17",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/4ZYruk1RlMCjBgkukDfvoi"
+      },
+      "artists": [
+        {
+          "name": "Ale Mora",
+          "url": "https://open.spotify.com/artist/6bsbLjG9kdODP0wVaM1WXM"
+        },
+        {
+          "name": "J. Griffie",
+          "url": "https://open.spotify.com/artist/5oaAcs07c8BZlczQX6VI1Z"
+        }
+      ],
+      "duration_ms": 204635,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/7qJrtFPmAQQFfVh5oF9xTP"
+    },
+    {
+      "added_at": "2024-01-12 00:25:33",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/3peHUT5LQsxRi0j9CzMrNx"
+      },
+      "artists": [
+        {
+          "name": "Astro Dime",
+          "url": "https://open.spotify.com/artist/72Ihe48Gv2vGegVKA6khvx"
+        }
+      ],
+      "duration_ms": 367500,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/7BgspyMhItnR6FtkQvlZdi"
     }
   ],
   "unique_name": "Tech House Shifters",

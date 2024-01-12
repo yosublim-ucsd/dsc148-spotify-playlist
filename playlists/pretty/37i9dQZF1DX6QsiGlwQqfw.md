@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,419 likes - 50 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,429 likes - 50 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 11 | [Dhun in Raga Mishra Pilu](https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS), [Rajiv Chaurasia](https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Raga Darbari Kannada & Dhun in Rag Mishra Pilu](https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9) | 15:09 |
 | 12 | [Megh](https://open.spotify.com/track/3lRuxLVLB1nk60BzxhWegW) | [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl), [Anubrata Chatterjee](https://open.spotify.com/artist/1MLZspgw3JzCsQg8R8zEf4), [Indrajit Indro Dey](https://open.spotify.com/artist/2tVkkTDeui1w14sm3q6C3O) | [The Megh Project](https://open.spotify.com/album/1I6WVjNt53hFy2k1y8s8Qx) | 3:40 |
 | 13 | [Bhairavi](https://open.spotify.com/track/41qRjfa7Lpxs9nN0RdFAfZ) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:48 |
-| 14 | [Gat Drut](https://open.spotify.com/track/1tNhPY0R3XT6ShwSgpwZJX) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Classical Instrumental \- Pt\. Shivkumar Sharma](https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF) | 5:45 |
+| 14 | [Gat Drut](https://open.spotify.com/track/3Npm1niuDdxYMnOJ5mpgad) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Classical Instrumental](https://open.spotify.com/album/6H53Hp1GQvOJLxbZ4sI5am) | 5:45 |
 | 15 | [Rachna Mishra Khamaj \(From "A Sublime Trance"\)](https://open.spotify.com/track/0qvkFBUyu1Ze5vCI5UJSSG) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Indian Classical Instrumental \- Pandit Shiv Kumar Sharma Special](https://open.spotify.com/album/63P7cBmEFfK72zbWGZJFtQ) | 6:21 |
 | 16 | [Raga Purvi](https://open.spotify.com/track/3MggyCyjiU4wxbKtrgV6kn) | [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Young Masters \- Kala Ramnath](https://open.spotify.com/album/3Cw8FheJhkCRk5a2QDQIhW) | 9:46 |
 | 17 | [Raga Mishra Shivaranjani](https://open.spotify.com/track/3YLqvI4mIynHBm5oZd3kcp) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Young Masters](https://open.spotify.com/album/1NgIYpOmbekiKquc6Luxvn) | 7:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 49 | [Jugalbandi in Teen Taal](https://open.spotify.com/track/6KsPQBR6qHXn60g6VDP6Oi) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Together](https://open.spotify.com/album/0Gjp6bjN1furRn7bHAIsdi) | 15:47 |
 | 50 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
 
-Snapshot ID: `MCwwN2U4MzUyYmIwYTEwZGY3MDE1OWRiODFiOTBhYzRiNjNlNmIxZDVk`
+Snapshot ID: `MCw5MzczZTllNGM0MGI2MGNlYWUxNmMyZTQyNzlhMjBhNjM1N2ZhYTM5`

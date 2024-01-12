@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,357 songs - 2 day 14 hr 41 min
+1,358 songs - 2 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [BLIND SPOT](https://open.spotify.com/track/6uVpG6300TODQGjOAtXJjh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:20 | 2023-11-11 | 2023-11-13 |
 | [BLIND ZONE](https://open.spotify.com/track/7LZASxrRvmjRh9ulycrSY6) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:05 | 2021-03-27 | 2021-03-31 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2021-09-10 |
+| [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-11 |  |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-11-29 | 2023-02-02 |
 | [BOMB](https://open.spotify.com/track/3UmNBB7JCoVOo88xZJUsxR) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [BOMB](https://open.spotify.com/album/5XWAziTsC6dMurKzU0LaL1) | 2:19 | 2021-03-27 | 2021-03-29 |
 | [BOMB](https://open.spotify.com/track/5H4gHz16ELn3tFgvVIfApZ) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:19 | 2021-04-11 | 2021-04-13 |
@@ -934,7 +935,7 @@
 | [Зеркало](https://open.spotify.com/track/2PpAAi4RMQKof0Ya3JEJfU) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Зеркало](https://open.spotify.com/album/7p849Qjq6hhIAh1XyYgTXf) | 2:32 | 2023-05-13 | 2023-08-13 |
 | [зима](https://open.spotify.com/track/0cOftxEWGyu4XAqEsqmdWS) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:28 | 2021-06-27 | 2021-08-31 |
 | [зима](https://open.spotify.com/track/3y1fkvCTbBhNXQpR56KXYC) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [зима](https://open.spotify.com/album/0uf1pLGBYv0IG1tFusaueA) | 2:28 | 2021-05-11 | 2021-06-27 |
-| [Зима в сердце](https://open.spotify.com/track/6awpF8KkBWuZr1ElN2xkaW) | [Moya Mishel](https://open.spotify.com/artist/28oFVU5sNejm6p76RkSwtQ) | [Из цветов и темноты](https://open.spotify.com/album/5Psqb8umHXgLiEXpkAsYl4) | 4:05 | 2023-10-21 |  |
+| [Зима в сердце](https://open.spotify.com/track/6awpF8KkBWuZr1ElN2xkaW) | [Moya Mishel](https://open.spotify.com/artist/28oFVU5sNejm6p76RkSwtQ) | [Из цветов и темноты](https://open.spotify.com/album/5Psqb8umHXgLiEXpkAsYl4) | 4:05 | 2023-10-21 | 2024-01-12 |
 | [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 | 2023-10-13 |  |
 | [Знайди мене \- KAVA Remix](https://open.spotify.com/track/4RhA4AQeBc29toklGPMJUk) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [KAVA](https://open.spotify.com/artist/3TPf0u6jcGKKpzYn0A57ye) | [Знайди мене \(KAVA Remix\)](https://open.spotify.com/album/4TFNfO3cTkY7Ajgzf4cyZM) | 2:18 | 2023-10-20 | 2023-12-26 |
 | [Зоопарк](https://open.spotify.com/track/777TceiGuC1kjvAiVAHvTo) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Зоопарк](https://open.spotify.com/album/7boVn0Y3wxQDfmxQFO6FXG) | 3:00 | 2021-09-19 | 2021-10-23 |

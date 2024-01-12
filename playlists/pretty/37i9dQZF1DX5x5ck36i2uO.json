@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 2041,
+  "num_followers": 2049,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWJiZjMyNTM0MjQxODUxNWJjNjE2YTdiNWZkZTJmNzMwODRmYzdh",
+  "snapshot_id": "MCw4OWQyNmNmM2E2ODQxZDI3ZmJkMGFiZGFkODdmZWI0MTkwOTE4OGUx",
   "tracks": [
     {
       "added_at": "2023-11-08 07:39:22",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 158106,
       "name": "Leica (Feat. KIM SAWOL)",
       "url": "https://open.spotify.com/track/2gatbbWP4sb3ASVCQH2nPN"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
         "name": "Party Forever",
         "url": "https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h"
       },
@@ -267,22 +251,6 @@
       "duration_ms": 202083,
       "name": "Party Forever",
       "url": "https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "merlot",
-      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -307,6 +275,22 @@
       "duration_ms": 159230,
       "name": "Color (Feat. youra)",
       "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "merlot",
+      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -347,6 +331,22 @@
       "duration_ms": 195083,
       "name": "In The Morning (Feat. Bryn)",
       "url": "https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
-        "name": "Show Me the Money 8 Final",
-        "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 182868,
-      "name": "10",
-      "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 233376,
       "name": "Mannequin (Feat. Beenzino & SURAN)",
       "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
+        "name": "Show Me the Money 8 Final",
+        "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 182868,
+      "name": "10",
+      "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
+        "name": "THE SOLOEST",
+        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "duration_ms": 179925,
+      "name": "Fake Flower (feat. Nucksal)",
+      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
         "name": "RANDOM BOX",
         "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 175160,
       "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
-        "name": "THE SOLOEST",
-        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
-        }
-      ],
-      "duration_ms": 179925,
-      "name": "Fake Flower (feat. Nucksal)",
-      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -847,30 +847,6 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
-        "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
-        "url": "https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO"
-      },
-      "artists": [
-        {
-          "name": "Hanhae",
-          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
-        },
-        {
-          "name": "YODAYOUNG",
-          "url": "https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w"
-        },
-        {
-          "name": "LOTTE DEPARTMENT STORE",
-          "url": "https://open.spotify.com/artist/7FbR9D27sMAlG0D2e4By2h"
-        }
-      ],
-      "duration_ms": 209205,
-      "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
-      "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
         "name": "Life+unconsciousness",
         "url": "https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
+        "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
+        "url": "https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO"
+      },
+      "artists": [
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        },
+        {
+          "name": "YODAYOUNG",
+          "url": "https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w"
+        },
+        {
+          "name": "LOTTE DEPARTMENT STORE",
+          "url": "https://open.spotify.com/artist/7FbR9D27sMAlG0D2e4By2h"
+        }
+      ],
+      "duration_ms": 209205,
+      "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
+      "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
     },
     {
       "added_at": "2023-11-08 07:39:22",

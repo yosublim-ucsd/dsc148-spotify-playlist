@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: Alice Merton
 
-1,255 songs - 2 day 17 hr 11 min
+1,256 songs - 2 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -812,6 +812,7 @@
 | [PANIK](https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [KAAS](https://open.spotify.com/artist/6Rej5jPj4nu1O8hW04Iffk) | [PANIK](https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc) | 3:23 | 2023-01-03 | 2023-02-01 |
 | [Paradies](https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 3:57 | 2023-06-06 | 2024-01-10 |
 | [Paradies](https://open.spotify.com/track/12cUrqvuiDOPWiHaEl6Ao0) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Paradies](https://open.spotify.com/album/0TVfcTOcm74TMCRLZEDAqn) | 3:57 | 2023-01-31 | 2023-03-01 |
+| [Paralysed](https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Paralysed](https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U) | 2:41 | 2024-01-09 |  |
 | [Paranoia](https://open.spotify.com/track/4QxyXgtswtWEIFAEJ49oPe) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Paranoia](https://open.spotify.com/album/7JV9fu4Nb1Y9oXH8LCrxjn) | 3:43 | 2022-05-31 | 2022-07-06 |
 | [Paula](https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Paula](https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS) | 3:16 | 2023-09-05 | 2023-10-04 |
 | [PDReplay](https://open.spotify.com/track/1oG9rmMnphj5CWtTQWmXbx) | [Aysar](https://open.spotify.com/artist/1NwgjGe4PKnpX1lSV2d2Vo) | [PDReplay](https://open.spotify.com/album/4GZIkdivbkR2uTAw0aIKtW) | 2:02 | 2023-01-31 | 2023-03-01 |

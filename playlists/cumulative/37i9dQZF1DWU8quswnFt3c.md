@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Céline Dion
 
-1,666 songs - 3 day 19 hr 48 min
+1,667 songs - 3 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Alles gleich](https://open.spotify.com/track/1X06guJcCRZWf3wAAypBiU) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Alles gleich](https://open.spotify.com/album/1YUm7AIgpPjXsY2nnY1tAD) | 2:53 | 2022-01-05 | 2022-02-03 |
 | [Alles Vergeven](https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles Vergeven](https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg) | 2:49 | 2023-07-05 | 2023-08-03 |
 | [Alles Weggegeven](https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Alles Weggegeven](https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp) | 4:05 | 2023-09-06 | 2023-10-05 |
+| [Alta Tensione](https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Alta Tensione](https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw) | 2:33 | 2024-01-10 |  |
 | [am i not enough for now?](https://open.spotify.com/track/3WLaizg8lVLa2JCMbtVseD) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [am i not enough for now?](https://open.spotify.com/album/3Oowpwv5xOA7SjxqQCL47e) | 3:54 | 2022-05-04 | 2022-06-01 |
 | [Ama Fygeis](https://open.spotify.com/track/3a25lrQ9qsJQPj3gNSC7wJ) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ama Fygeis](https://open.spotify.com/album/3NLU6sOMtaSYuaDdYVVH3u) | 3:03 | 2023-04-05 | 2024-01-11 |
 | [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 | 2022-10-04 | 2022-11-03 |
