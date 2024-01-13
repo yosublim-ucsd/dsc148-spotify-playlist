@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 189416,
       "name": "Donde Mueren Todos",
       "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Puro Espejo",
+        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187124,
+      "name": "G\u00e1rgolas",
+      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
+    },
+    {
+      "album": {
         "name": "Hace 10 A\u00f1os",
         "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
       },
@@ -4008,7 +4026,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 241500,
       "name": "Las Piedras",
       "url": "https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005"
@@ -4391,6 +4409,24 @@
     },
     {
       "album": {
+        "name": "Manso visto",
+        "url": "https://open.spotify.com/album/5meY39uO4BMufhk0S3e9E9"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168725,
+      "name": "Manso visto",
+      "url": "https://open.spotify.com/track/5Te3UMQrCSS0WmvY9mzH0A"
+    },
+    {
+      "album": {
         "name": "Maricoteca",
         "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
       },
@@ -4554,7 +4590,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 260962,
       "name": "Medianeras",
       "url": "https://open.spotify.com/track/7qGj9ul5qnpApUFj2niril"
@@ -6114,6 +6150,28 @@
       "duration_ms": 291000,
       "name": "Provincia",
       "url": "https://open.spotify.com/track/582VsBLMS0DkFoyf62jofJ"
+    },
+    {
+      "album": {
+        "name": "p\u00e9talos",
+        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
+      },
+      "artists": [
+        {
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210330,
+      "name": "p\u00e9talos",
+      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
     },
     {
       "album": {

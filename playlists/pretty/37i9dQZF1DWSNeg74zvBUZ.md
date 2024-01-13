@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Morning's silent dew, ambient whispers unfold,<br/>zen echoes on play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,263 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,258 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 13 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 14 | [\#17](https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 2:05 |
 | 15 | [Lake Of Gold](https://open.spotify.com/track/0fI8RRzQhbc92lhT8bN7xr) | [Kirk Barley](https://open.spotify.com/artist/35yKqbBahxH38GhRc0vFrg) | [Lake Of Gold](https://open.spotify.com/album/4lJ3k8ZmLfvu7Voy8EJw6d) | 4:41 |
-| 16 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 |
+| 16 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
 | 17 | [Arrivederci](https://open.spotify.com/track/1tiAjr01WxvhtvGUQhwxxv) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Lol Tolhurst](https://open.spotify.com/artist/0dpt5MouO4U9l189E5CIoN) | [Goodbye, Hotel Arkada](https://open.spotify.com/album/26k4Yg7IX877sxz5mnoQBK) | 5:11 |
 | 18 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
-| 19 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
+| 19 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 |
 | 20 | [Awaken \- Alternate Version](https://open.spotify.com/track/3pLlcz1uuEqas5TkVzGiRe) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo) | [Awaken \(Alternate Version\)](https://open.spotify.com/album/3kYwh0bf99WWYjgUEoksXp) | 6:33 |
 | 21 | [The Hostess](https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL) | [E Ruscha V](https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE) | [Who Are You](https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F) | 2:04 |
 | 22 | [Tracing Nature](https://open.spotify.com/track/1eDoSWD7lXxrLAGGpLDjx4) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [An Ever Changing View](https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0) | 1:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Gradual of Image](https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 3:08 |
 | 50 | [Cigarra](https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q) | [Fabio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica: Conversas de um Piano Com a Fauna Brasileira](https://open.spotify.com/album/5YNZYOdNSUDyMfJu0exTeb) | 4:59 |
 
-Snapshot ID: `MCxmNTBmZTVlYmM3OTRiMzliYzNjNzQwNTljY2M4NjVmOTM4ZmZiNWRk`
+Snapshot ID: `MCw5OTkzZTZkNGIzYzdhM2EyNjVlZGQyNDNhNzE5M2FlNmRkMDc5ZTU1`

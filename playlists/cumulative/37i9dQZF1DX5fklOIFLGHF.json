@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 265159,
       "name": "Condenado El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0cjvmRCpbGRkpCPylAziqZ"
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221843,
       "name": "Las Palomas",
       "url": "https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l"
@@ -3644,7 +3644,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 204480,
       "name": "Paint It, Black - Mono",
       "url": "https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL"
@@ -4986,6 +4986,24 @@
     {
       "album": {
         "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+    },
+    {
+      "album": {
+        "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
       },
       "artists": [
@@ -5094,7 +5112,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 202376,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7"

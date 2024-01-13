@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: The Oozes
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,625 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,722 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 22 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
 | 23 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 |
 | 24 | [Things Still Left to Say](https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [Pity Boy](https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5) | 2:31 |
-| 25 | [Pigs Is Pigs](https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 1:56 |
+| 25 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
 | 26 | [Heart Throb \- Album Version \(Edited\)](https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Awkward](https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398) | 2:11 |
-| 27 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
+| 27 | [Pigs Is Pigs](https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 1:56 |
 | 28 | [the kids aren't alright](https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:16 |
 | 29 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
 | 30 | [I Saw Jesus Hanging on a Basketball Hoop](https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 1:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 45 | [Quitter](https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn) | 3:02 |
 | 46 | [Lovers Lane](https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [Too Young To Be In Love](https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP) | 3:35 |
 | 47 | [Always Happy](https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy](https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa) | 2:38 |
-| 48 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
-| 49 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
+| 48 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
+| 49 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
 | 50 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Model Citizen](https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5) | 3:03 |
 | 51 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
 | 52 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 75 | [Girls With Glasses](https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq) | [Partyline](https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA) | [Girls With Glasses](https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY) | 2:09 |
 | 76 | [Divine Violence](https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl) | [itoldyouiwouldeatyou](https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe) | [Divine Violence](https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4) | 3:22 |
 | 77 | [Eden on Acid](https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Home Recordings 2020 \- 2021](https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE) | 1:26 |
-| 78 | [House Party](https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 1:53 |
-| 79 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
-| 80 | [Sissy Fists](https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ) | [Queen Zee](https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL) | [Queen Zee](https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk) | 2:23 |
+| 78 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
+| 79 | [Sissy Fists](https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ) | [Queen Zee](https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL) | [Queen Zee](https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk) | 2:23 |
+| 80 | [Dream Partner](https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3) | [Wolf Girl](https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX) | [Every Now and Then](https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt) | 2:34 |
 
-Snapshot ID: `MCw1YjcwYWQ3MjJmMjVmOTBjNzQ5NGNlNTdmYWQ2ZDMyN2UwOGM0ZDE5`
+Snapshot ID: `MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5`

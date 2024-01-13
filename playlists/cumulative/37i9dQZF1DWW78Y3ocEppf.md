@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-582 songs - 1 day 6 hr 21 min
+583 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-05-06 | 2022-10-15 |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/77nSU6xoiBDJZAMqBSxLav) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 3:56 | 2022-03-25 | 2022-04-21 |
 | [Blame Yourself](https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Blame Yourself](https://open.spotify.com/album/6vTOLZuBKqosKg2lSUKcR6) | 4:09 | 2023-09-01 | 2023-12-17 |
+| [Blame Yourself](https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr) | 4:09 | 2023-09-01 |  |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-15 | 2022-07-18 |
 | [Blue Mercedes](https://open.spotify.com/track/017Eh4VHT4kkOu65GuSg1H) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Blue Mercedes](https://open.spotify.com/album/1LitlkT715pr7BolzIvrf7) | 3:07 | 2022-02-04 | 2022-04-21 |
 | [Bout Mine](https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Bout Mine](https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK) | 2:27 | 2022-10-28 |  |
@@ -351,7 +352,7 @@
 | [New Nigga](https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 2:29 | 2023-02-24 |  |
 | [No Drama](https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [No Drama](https://open.spotify.com/album/0i7WmU3wYCP6DL0Mybqwda) | 3:09 | 2022-08-05 | 2023-07-29 |
 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 | 2022-03-25 | 2022-08-06 |
-| [No Rules \(Slut Me Out\)](https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0), [Paxquiao](https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd) | [No Rules \(Slut Me Out\) \(Single\)](https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd) | 2:52 | 2023-09-08 |  |
+| [No Rules \(Slut Me Out\)](https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0), [Paxquiao](https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd) | [No Rules \(Slut Me Out\) \(Single\)](https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd) | 2:52 | 2023-09-08 | 2024-01-13 |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2021-12-15 | 2022-08-06 |
 | [Not Another Love Song](https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Not Another Love Song](https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p) | 3:37 | 2021-12-15 | 2023-03-18 |
 | [Not Mine](https://open.spotify.com/track/3nTJgNAH9A2oRA9IprpTl1) | [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Not Mine](https://open.spotify.com/album/2UOCKgxyChxxG7Xfm4RkjE) | 2:14 | 2022-12-02 | 2023-02-18 |

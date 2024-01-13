@@ -4,7 +4,7 @@
 
 > na sua opinião, qual foi a trend do ano????
 
-483 songs - 1 day 0 hr 33 min
+484 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Delírios](https://open.spotify.com/track/546KHf7B5TeIifYB1gVZ9E) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Djair Voz Cristalina](https://open.spotify.com/artist/1qzYDddfeFcW5LbpjIvxLz) | [BAILE](https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i) | 2:42 | 2023-10-02 |  |
 | [Dengo](https://open.spotify.com/track/2Udojaa4kCFg7vBbcIEzHK) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Dengo](https://open.spotify.com/album/4YzaJCrhY1JAiPfU1BqgOu) | 3:34 | 2022-10-27 | 2023-04-27 |
 | [Dengo \(Lo\-Fi Remix\)](https://open.spotify.com/track/4IhbAaOLugP1ojXT7BaB3v) | [Lebline Chill](https://open.spotify.com/artist/3wPKkWWElH0a9xfxP5nnyE) | [Dengo \(Lo\-Fi Remix\)](https://open.spotify.com/album/6NLE0S9sPvazvMXp2fLweU) | 2:16 | 2022-10-18 | 2022-10-28 |
-| [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 | 2023-08-30 |  |
+| [DENTRO DA HILUX](https://open.spotify.com/track/3jTyFoGeD3DTu9cnnctMWN) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [DENTRO DA HILUX](https://open.spotify.com/album/2piVofKb5EGkez3IH91OsJ) | 2:43 | 2024-01-08 |  |
+| [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 | 2023-08-30 | 2024-01-13 |
 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 | 2022-11-01 | 2022-12-07 |
 | [Descontrolada](https://open.spotify.com/track/1KVg1Mc3zFmZP5QnKuYjG0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/5bqZKSkxw0vPEBTJbLtTHc) | 2:42 | 2022-09-26 | 2022-10-15 |
 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 | 2022-08-19 | 2022-09-10 |

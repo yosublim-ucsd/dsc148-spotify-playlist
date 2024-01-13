@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Jasmine Kelly
 
-854 songs - 2 day 0 hr 26 min
+855 songs - 2 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [hold on](https://open.spotify.com/track/1tOoCgu8aSXnB7eJxrKulV) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [hold on](https://open.spotify.com/album/0g4lKZRyv4ulV6HgVuaxKo) | 3:01 | 2022-09-01 | 2023-01-06 |
 | [HOMEBODY](https://open.spotify.com/track/4oEDQ1HvhZcLNsf1IYwLPB) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/2YbralF8avxuxNeV8UhLwK) | 2:33 | 2023-05-18 | 2023-09-01 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-10 |
+| [Hopeless](https://open.spotify.com/track/5fXo4rlRxbgw8lE0TogTPf) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [Hopeless](https://open.spotify.com/album/6RehbNgSMLkcf6k2ifnU9c) | 3:00 | 2024-01-11 |  |
 | [Horizon](https://open.spotify.com/track/7vROJMPklHwGy39TIIXIDq) | [TL30](https://open.spotify.com/artist/5OJgCWA1KBzYsgD0ZdOusO), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd) | [Horizon](https://open.spotify.com/album/0k2Ordg2lCvAQDMGPJA5ho) | 2:56 | 2023-06-08 | 2023-09-15 |
 | [Hot Cocoa](https://open.spotify.com/track/0P860fWaQufIrjYPRbUKoc) | [RUMBU](https://open.spotify.com/artist/0KxIN3aA64bE2qIRJwLL3Z) | [Hot Cocoa](https://open.spotify.com/album/7GdOPwDjLRIX9OOXpxAp6t) | 3:02 | 2022-10-13 | 2023-02-03 |
 | [Hotel V](https://open.spotify.com/track/1WhCMZuYVLqRoSHFTYkYCi) | [Distant Vega](https://open.spotify.com/artist/3nj7zqPOrLe1f2lPZN3W0U) | [Hotel V](https://open.spotify.com/album/4iLFOuFjU5pQfxjnNdHcki) | 3:23 | 2022-05-26 | 2022-09-09 |

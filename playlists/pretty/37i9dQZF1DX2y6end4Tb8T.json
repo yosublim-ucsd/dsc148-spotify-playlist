@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 57969,
+  "num_followers": 58000,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmVjYmVjMjFjNDU2N2RkZDgyYWUwM2Y0ZDkzMDY4ZWRkMThiNWZl",
+  "snapshot_id": "MCw5NjU3NGNmZWRjNTIwYzU5MmYxMzA0OGQzMGU5MGQ2MWFlZjI4ODg1",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -475,6 +475,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 283285,
+      "name": "Excitement",
+      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 283285,
-      "name": "Excitement",
-      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "B.B. King Freestyle",
-        "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
+        "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
+        "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
         }
       ],
-      "duration_ms": 222801,
-      "name": "B.B. King Freestyle (with Drake)",
-      "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
+      "duration_ms": 141320,
+      "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
+      "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
-        "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
+        "name": "B.B. King Freestyle",
+        "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 141320,
-      "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
-      "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
+      "duration_ms": 222801,
+      "name": "B.B. King Freestyle (with Drake)",
+      "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
     },
     {
       "added_at": "2023-09-01 14:43:51",

@@ -6,7 +6,7 @@
     "name": "BLK OUT",
     "url": "https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla"
   },
-  "snapshot_id": "NTcsZGQ0OGY4MDcxMzZmY2I4NGRlNDg5NWJkNzZiYjRhNTMzOGNjY2VjYQ==",
+  "snapshot_id": "NTksOTFhY2IyMWE5NjExMTg1NzMwN2JjNTZhNjZkNmI3ZTE4ZDI2MDZhMQ==",
   "tracks": [
     {
       "added_at": "2023-12-12 17:15:50",
@@ -979,6 +979,38 @@
       "duration_ms": 174720,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/67flQc511s7u45O4Jrfp1G"
+    },
+    {
+      "added_at": "2024-01-12 16:09:27",
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/2PGry3FEMPn9VBFcr6FODv"
+      },
+      "artists": [
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/0TCa6Fxfk2eht9jKeeqfiq"
+    },
+    {
+      "added_at": "2024-01-12 19:20:55",
+      "album": {
+        "name": "Lake Lorenzo",
+        "url": "https://open.spotify.com/album/5S3zS6x4F0afskN0s6EJWX"
+      },
+      "artists": [
+        {
+          "name": "Fuzz Worth",
+          "url": "https://open.spotify.com/artist/5tkYOJa2DXCCLTnQMfq8tG"
+        }
+      ],
+      "duration_ms": 365400,
+      "name": "Lake Lorenzo",
+      "url": "https://open.spotify.com/track/2GeYOgUbbCvyeVEuovhpRm"
     }
   ],
   "unique_name": "Work From House",

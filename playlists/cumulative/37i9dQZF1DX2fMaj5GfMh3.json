@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 205017,
       "name": "anxiety",
       "url": "https://open.spotify.com/track/2WmB3XShEry2bfysbdv03Z"
@@ -1090,6 +1090,24 @@
       "duration_ms": 170102,
       "name": "Call on Me",
       "url": "https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186599,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
     },
     {
       "album": {
@@ -2630,10 +2648,28 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "album": {
+        "name": "Girl In The Mirror",
+        "url": "https://open.spotify.com/album/7MohXA18YgyFLQThDzZa7Z"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Girl In The Mirror",
+      "url": "https://open.spotify.com/track/0EUG6aR5MMgsw5tJ89gson"
     },
     {
       "album": {
@@ -2984,6 +3020,24 @@
       "duration_ms": 174633,
       "name": "happy for you",
       "url": "https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1"
+    },
+    {
+      "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
     },
     {
       "album": {
@@ -4154,7 +4208,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 214935,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6"
@@ -4396,7 +4450,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 114233,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
@@ -4666,7 +4720,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 178453,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh"
@@ -5186,7 +5240,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 160949,
       "name": "No Room 4 U",
       "url": "https://open.spotify.com/track/6oqnGzKVZ6UAw2qRLxCIco"
@@ -6624,7 +6678,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 175833,
       "name": "Someone I Used to Know",
       "url": "https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw"
@@ -6862,7 +6916,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 152139,
       "name": "Stay (Never Leave)",
       "url": "https://open.spotify.com/track/6zDitZRQadPCyaVl4u6OJy"
@@ -7457,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7"
+    },
+    {
+      "album": {
         "name": "Ugly Crier",
         "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
       },
@@ -7937,6 +8009,24 @@
     },
     {
       "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
       },
@@ -8112,7 +8202,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 179517,
       "name": "You're Hired (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"

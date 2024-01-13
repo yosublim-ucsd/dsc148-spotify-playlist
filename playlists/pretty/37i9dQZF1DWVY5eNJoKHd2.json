@@ -1,12 +1,12 @@
 {
   "description": "Music that makes you feel like you're levitating",
-  "num_followers": 1205666,
+  "num_followers": 1212482,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTg0NDA1ZDc2ZGM2MTU1N2ZiYWQ0YjZkMDQxMGNjMWIxZDlhZTAx",
+  "snapshot_id": "MCwzYTRlNWIxZWQ2YjI3NjdhMWQyOTJjZGJhMDI3NjBmNTk5YjAzYjg1",
   "tracks": [
     {
       "added_at": "2024-01-09 16:25:25",
@@ -75,26 +75,6 @@
     {
       "added_at": "2024-01-09 16:25:25",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 547733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
-    },
-    {
-      "added_at": "2024-01-09 16:25:25",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -109,20 +89,24 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2024-01-09 16:28:42",
+      "added_at": "2024-01-12 15:41:53",
       "album": {
-        "name": "drifting",
-        "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
+        "name": "Lego Ring",
+        "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 212440,
-      "name": "drifting",
-      "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
+      "duration_ms": 163228,
+      "name": "Lego Ring",
+      "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
     },
     {
       "added_at": "2024-01-09 16:25:25",
@@ -147,6 +131,26 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "added_at": "2024-01-09 16:25:25",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 547733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
       "added_at": "2024-01-09 16:25:25",
@@ -665,6 +669,22 @@
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
+      "added_at": "2024-01-09 16:28:42",
+      "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
       "added_at": "2024-01-09 16:25:25",
       "album": {
         "name": "Pure Heroine",
@@ -711,22 +731,6 @@
       "duration_ms": 212736,
       "name": "Gilded Lily",
       "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
-    },
-    {
-      "added_at": "2024-01-09 16:28:42",
-      "album": {
-        "name": "act ii: date @ 8",
-        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "act ii: date @ 8",
-      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
       "added_at": "2024-01-09 16:28:42",
@@ -1155,22 +1159,6 @@
     {
       "added_at": "2024-01-09 16:25:25",
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
-    },
-    {
-      "added_at": "2024-01-09 16:25:25",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -1183,6 +1171,22 @@
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "added_at": "2024-01-09 16:25:25",
+      "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
       "added_at": "2024-01-09 16:25:25",
@@ -1267,26 +1271,6 @@
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
-    },
-    {
-      "added_at": "2024-01-11 22:25:15",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
-        }
-      ],
-      "duration_ms": 234909,
-      "name": "Never Be Like You (feat. Kai)",
-      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
       "added_at": "2024-01-09 16:25:25",
@@ -1563,22 +1547,6 @@
     {
       "added_at": "2024-01-09 16:25:25",
       "album": {
-        "name": "love you more than me",
-        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 141081,
-      "name": "love you more than me",
-      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
-    },
-    {
-      "added_at": "2024-01-09 16:25:25",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1591,6 +1559,22 @@
       "duration_ms": 214293,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+      "added_at": "2024-01-09 16:25:25",
+      "album": {
+        "name": "love you more than me",
+        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 141081,
+      "name": "love you more than me",
+      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
     },
     {
       "added_at": "2024-01-09 16:28:42",
@@ -1611,22 +1595,6 @@
     {
       "added_at": "2024-01-09 16:25:25",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 345186,
-      "name": "Veridis Quo",
-      "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
-    },
-    {
-      "added_at": "2024-01-09 16:25:25",
-      "album": {
         "name": "Walking On A Dream",
         "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
       },
@@ -1639,6 +1607,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
+    },
+    {
+      "added_at": "2024-01-09 16:25:25",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 345186,
+      "name": "Veridis Quo",
+      "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
     },
     {
       "added_at": "2024-01-09 16:25:25",
@@ -1687,6 +1671,30 @@
       "duration_ms": 131586,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58"
+    },
+    {
+      "added_at": "2024-01-09 16:25:25",
+      "album": {
+        "name": "Settle (The Remixes)",
+        "url": "https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 282812,
+      "name": "You & Me - Flume Remix",
+      "url": "https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw"
     }
   ],
   "unique_name": "Levitate",

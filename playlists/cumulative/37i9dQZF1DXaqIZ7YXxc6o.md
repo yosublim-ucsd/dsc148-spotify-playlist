@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Logic1000
 
-1,870 songs - 4 day 7 hr 52 min
+1,872 songs - 4 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,7 +603,8 @@
 | [Forever](https://open.spotify.com/track/1g28qxrvdh7ob5rTEHiFEc) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo) | [Forever](https://open.spotify.com/album/3npL0gyCZVtbqA9dysCfSq) | 3:28 | 2023-04-20 | 2023-05-12 |
 | [Forever](https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RobbieG](https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda) | [Forever](https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb) | 3:01 | 2023-12-21 |  |
 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 | 2023-06-08 | 2023-07-07 |
-| [Forever \(Stay Like This\)](https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:32 | 2024-01-11 |  |
+| [Forever \(Stay Like This\)](https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:32 | 2024-01-11 | 2024-01-13 |
+| [Forever \(Stay Like This\)](https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm) | 2:32 | 2024-01-11 |  |
 | [Forever Young](https://open.spotify.com/track/3qeOGehqNBHJK2koLInZDI) | [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF) | [Forever Young](https://open.spotify.com/album/7kUKCFRDgXORCERi864sPn) | 2:28 | 2023-06-29 | 2023-07-21 |
 | [Forever Young](https://open.spotify.com/track/7HKs9OIcK4S6P8nJ4CvxIP) | [Havana Brown](https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM) | [Forever Young](https://open.spotify.com/album/08WDbywVnyUgZkp9zxwwNq) | 3:16 | 2023-10-06 | 2023-10-30 |
 | [Forever Young \- Krunk! Remix](https://open.spotify.com/track/1h8l4ji32G2N1IcNL7Lw2h) | [Havana Brown](https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM), [Krunk!](https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa) | [Forever Young \(Krunk! Remix\)](https://open.spotify.com/album/3CEE6lNtmAliedHtZxDhYq) | 2:48 | 2023-12-19 | 2023-12-23 |
@@ -1845,6 +1846,7 @@
 | [Ye Track](https://open.spotify.com/track/6bUmmGz4X1QgOeBkXqYSbb) | [Martyn Bootyspoon](https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC) | [Ye Track](https://open.spotify.com/album/7ryM1zv0kHzX25vaBZxKoO) | 4:38 | 2023-03-03 | 2023-03-18 |
 | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tenchi](https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs) | 2:38 | 2023-02-09 | 2023-03-10 |
 | [Yella](https://open.spotify.com/track/6wvetY2EVIM7uq3j9Xt3w1) | [Jordan Love \(UK\)](https://open.spotify.com/artist/4ebCHAca9fgqTGpZcLYtiV), [Tommy Trax](https://open.spotify.com/artist/1rbZW7z8ISGk84qfrSHoUf) | [Yella](https://open.spotify.com/album/4Sk944HCQ1PA1MTHrWHjQP) | 2:58 | 2023-03-31 | 2023-04-21 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [Yesterday](https://open.spotify.com/track/7ar5VLrVTyXPmJpyfzzAa6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Yesterday](https://open.spotify.com/album/7013wm9XVP8PgvytXjKRug) | 2:20 | 2023-06-01 | 2023-06-30 |
 | [Yield](https://open.spotify.com/track/0nBj151JdB5Cp7RYM5pDU8) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 4:16 | 2023-07-06 | 2023-07-28 |
 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-01-19 | 2023-02-10 |

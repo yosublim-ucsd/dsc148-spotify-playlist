@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Sam Barber
 
-396 songs - 1 day 0 hr 21 min
+398 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Another Day Down](https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Another Day Down](https://open.spotify.com/album/253qdf33LlE8VpEnmg0KO8) | 3:37 | 2022-05-13 | 2022-10-01 |
 | [Arlo](https://open.spotify.com/track/6g8TfaY4o7uzIDHOqXFsxg) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Arlo](https://open.spotify.com/album/4QdNH73Llt7pENDkJfXl0V) | 4:10 | 2022-11-11 | 2023-01-21 |
 | [Ave H Blue](https://open.spotify.com/track/49kM29AjpsB9Zv444PnvED) | [NUTANA](https://open.spotify.com/artist/2IlotRrtfpIKvTZhXoXDH0) | [NUTANA](https://open.spotify.com/album/6wwhPFPCp19M47e19Y8oK0) | 3:23 | 2023-04-07 | 2023-04-22 |
-| [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 | 2023-04-28 |  |
+| [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 | 2023-04-28 | 2024-01-13 |
 | [Baby, You're a Gun](https://open.spotify.com/track/6yk3E2nQ2VNEJynMzQTEgg) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Baby, You're a Gun](https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk) | 3:29 | 2022-05-13 | 2023-04-22 |
 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 | 2022-09-25 |
 | [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 | 2022-11-14 |
@@ -188,6 +188,7 @@
 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/34wCPaOE7dhUUg8DlR5NQ5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [If The Loneliness Don't Kill Me](https://open.spotify.com/album/4ulfhgsUVauXUbSFLJzQiC) | 3:03 | 2022-10-28 | 2023-01-16 |
 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/6vkbnhLvFFkK9dvxeqnus3) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I'm Not Crying, You're Crying](https://open.spotify.com/album/2yNUReN1do8Qbg6xkfJiw6) | 3:03 | 2022-12-16 | 2023-04-22 |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2023-04-21 |  |
+| [In Emerald](https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [In Emerald](https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI) | 3:30 | 2024-01-12 |  |
 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 | 2022-07-22 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-07-28 |  |
 | [Ink & the Ash](https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR) | [JJ and The Pillars](https://open.spotify.com/artist/79g9vsMMooAco9g2SGq4ja) | [Ink & the Ash](https://open.spotify.com/album/61FTErQNMScnIupkWWDwo7) | 3:38 | 2022-05-13 | 2023-01-21 |
@@ -232,7 +233,7 @@
 | [Make This Better](https://open.spotify.com/track/5LLA7OrEC2ouVUt6419VeN) | [Lydia Hol](https://open.spotify.com/artist/7hFH2Id7zwVCr9MWYyK0Y9) | [Some Dreamers of the Golden Dream](https://open.spotify.com/album/3ZEkYEtst5mhOV5KeTTjeG) | 3:42 | 2022-05-13 | 2022-08-20 |
 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 | 2022-09-23 | 2023-08-05 |
 | [Maritime](https://open.spotify.com/track/084tzm3DFNpiUL4jIVbph2) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/4TUXE6sdbgtLZo80omZ4hX) | 4:38 | 2022-05-13 | 2022-07-29 |
-| [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 | 2022-07-22 |  |
+| [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 | 2022-07-22 | 2024-01-13 |
 | [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2022-05-13 | 2022-09-24 |
 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-06-23 |  |
 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 | 2022-10-28 | 2023-08-26 |
@@ -295,6 +296,7 @@
 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 | 2023-08-25 |  |
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-18 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-05-13 | 2022-09-24 |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-12 |  |
 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 | 2023-04-21 |  |
 | [Right On Woman](https://open.spotify.com/track/6yOtSNbJdzeoAoDeTW8IzR) | [Jason Collett](https://open.spotify.com/artist/4uuXjSga3HgpAETXd0UpxW) | [Right On Woman](https://open.spotify.com/album/5D7IvAJ4l9ggV8X5csz0ga) | 2:42 | 2022-10-28 | 2023-04-22 |
 | [Rise from the Wreck](https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Rise from the Wreck](https://open.spotify.com/album/13v4v7CGKvH6Iap0p2d5SF) | 4:41 | 2022-06-03 | 2022-09-17 |

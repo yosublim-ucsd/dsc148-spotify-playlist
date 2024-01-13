@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,952 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,167 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 25 | [El Ahualulco](https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Que Bonito Es Lo Bonito](https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl) | 2:46 |
 | 26 | [Huapango el Pistolero](https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 3:20 |
 | 27 | [Arriba Pichataro](https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg) | [Banda La Jaripera](https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX) | [Banda La Jaripera Vol.1](https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn) | 2:25 |
-| 28 | [A Quién No Le Gusta Eso](https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Con Sangre Ranchera](https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4) | 2:16 |
-| 29 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
+| 28 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
+| 29 | [A Quién No Le Gusta Eso](https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Con Sangre Ranchera](https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4) | 2:16 |
 | 30 | [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 |
 | 31 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
 | 32 | [Por Una Lagrima](https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:58 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 73 | [Volveré](https://open.spotify.com/track/6EcODHnvkLbnm8sXPqq8qT) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Volveré](https://open.spotify.com/album/0wfZvpbKHbH6ChRnZKQs0x) | 2:27 |
 | 74 | [Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Piña \- En Vivo](https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Banda la Fregona: Primer Aniversario \(En Vivo\)](https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4) | 7:41 |
 | 75 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
-| 76 | [El Tecolotito](https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Arriba Mi Rancho](https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ) | 3:45 |
-| 77 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
-| 78 | [El Sauce y la Palma](https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:15 |
-| 79 | [El Toro Requeson](https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 3:31 |
+| 76 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
+| 77 | [El Tecolotito](https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Arriba Mi Rancho](https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ) | 3:45 |
+| 78 | [El Toro Requeson](https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 3:31 |
+| 79 | [El Sauce y la Palma](https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:15 |
 | 80 | [El Olotito \- En Vivo](https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt) | 2:47 |
 | 81 | [Popurrí: Bésame Morenita / La Loba del Mal / Las Guilotas](https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV) | [Banda Cruz De La Candelaria](https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr) | [Y de Aquí Pal Real \- La Herencia del Rey](https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR) | 4:34 |
 | 82 | [Los Once Pueblos](https://open.spotify.com/track/3r6RZczKIOru45X6M7YzQQ) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [La Vaquilla, El Pájaro Chogüi](https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 5:00 |
 | 100 | [El Colirio](https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:07 |
 
-Snapshot ID: `MCwxOGI2NWU2MGE2ZmYwODg2ZTVkMTI2ZjczM2ZhZGMxZjczYjM2NGI0`
+Snapshot ID: `MCwwMjg1MzNjNDdkNzEzOWY2ZDZmYjUzMjUyYjE4ZGU4MWRiNjhmNDRi`

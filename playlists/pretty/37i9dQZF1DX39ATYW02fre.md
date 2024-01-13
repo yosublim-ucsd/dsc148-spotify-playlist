@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,706 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,768 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [All Is Full Of Love](https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Family Tree](https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV) | 4:46 |
 | 50 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 
-Snapshot ID: `MCxiZTI2ZmY0MjZhYWM0YzRjYTI5NzUzMDJiYmU3MzY0NGIwZjEyZjAz`
+Snapshot ID: `MCxmODY2NWNjY2YxMTcyNWYxY2ZkZTgxZTkzMmExY2MyMjZlYmQ1MGZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34ez51Qa142eo2zewgoonx">Mbryo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 22 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 157 likes - 22 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 | 9 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 |
 | 10 | [All Over](https://open.spotify.com/track/394IT4yrYjwT65ePqKLFbq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 2:55 |
 | 11 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/6pz1iqWlBwYXiAzJB7OAZY) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:09 |
-| 12 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
+| 12 | [Pick Up](https://open.spotify.com/track/4TPHKyxcyVz8PhMHkIUszq) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/5ooUZoFI88Ns7qscRY0ndN) | 2:33 |
 | 13 | [FOR THE ROAD](https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:27 |
 | 14 | [GODFATHER](https://open.spotify.com/track/6Tf5WfhWbg8wRkox9bXHPd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:50 |
 | 15 | [Options](https://open.spotify.com/track/7LDEyNrNzlMTroxfyyPj7R) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [No Bad Vibes](https://open.spotify.com/album/7Isz78RyCrtTdtVBexTV0E) | 2:55 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 | 21 | [ova](https://open.spotify.com/track/7JiUP2DdahoHnWd5B5C0rG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Before We Fall Asleep](https://open.spotify.com/album/4Zwk9buqpxEt6AutfRspHd) | 3:23 |
 | 22 | [Kayama](https://open.spotify.com/track/7I7aUudSiVMZPj5gqGcbTG) | [DNA](https://open.spotify.com/artist/1FlxUQ2UXUNGGXqJipuytq) | [Gemini EP](https://open.spotify.com/album/4YikoYZN8EAjWlBw3763sU) | 2:56 |
 
-Snapshot ID: `Mjg0MTcxMDAsMDAwMDAwMDAxYjY3YWI3YzczNTE0ZTczMTllMTZjYmMzYmJkMjAyOQ==`
+Snapshot ID: `Mjg0MTg1NDAsMDAwMDAwMDA5ZTUyYWU0YjE2YzQ0NjJhMTM0ZTQ0Zjc4N2IxM2Q0Zg==`

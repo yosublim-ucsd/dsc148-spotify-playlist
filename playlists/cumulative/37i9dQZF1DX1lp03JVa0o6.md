@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Lance Savali
 
-456 songs - 23 hr 32 min
+457 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2023-06-01 | 2023-09-01 |
 | [YALLAH!](https://open.spotify.com/track/35xJ6qdU2LpbeQ6xODmraE) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [YALLAH!](https://open.spotify.com/album/2xXrc2ZU2tAu6V9P7nPbBz) | 2:37 | 2023-01-19 | 2023-05-26 |
 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 | 2022-12-08 | 2023-02-03 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 | 2023-08-10 | 2023-09-01 |
 | [You Belong To Me](https://open.spotify.com/track/0L9oRCTObdZLvYOAljy7BD) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ) | [You Belong To Me](https://open.spotify.com/album/61zTk4TnNbUMlQIPQAJC27) | 2:42 | 2023-02-23 | 2023-06-30 |
 | [You Don't Even Know Me](https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [You Don’t Even Know Me](https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn) | 2:31 | 2023-11-16 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 70236,
+  "2024-01-13": 70351,
   "date_first_scraped": "2022-05-26",
   "description": "Cool down with these chill beats",
   "name": "lofi cool down",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 124734,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/5LwxaewIXhdkWL0EDncFwY"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 137879,
       "name": "Atrial",
       "url": "https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 172307,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 160540,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 143376,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
@@ -781,6 +781,24 @@
       "duration_ms": 122740,
       "name": "cabin in the woods",
       "url": "https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY"
+    },
+    {
+      "album": {
+        "name": "calathea",
+        "url": "https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd"
+      },
+      "artists": [
+        {
+          "name": "Kolorama",
+          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106946,
+      "name": "calathea",
+      "url": "https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H"
     },
     {
       "album": {
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 168103,
       "name": "Day At The Beach",
       "url": "https://open.spotify.com/track/2uwZFVIBJ4XpXV2NNoiZPx"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "golota",
       "url": "https://open.spotify.com/track/1dmaAgL4fAmVdAouTVGThj"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 163805,
       "name": "Haru",
       "url": "https://open.spotify.com/track/0fLIRPJy4J2JXZXy80Oaek"
@@ -2672,6 +2690,24 @@
     },
     {
       "album": {
+        "name": "memories",
+        "url": "https://open.spotify.com/album/7mqeSfjOtjCkMPBZo6WE94"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134545,
+      "name": "memories",
+      "url": "https://open.spotify.com/track/2g0Tf1lNH2EDt2Evci01Xj"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5ai7eCCSVhagmLwUAWCObs"
       },
@@ -2709,7 +2745,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 153253,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp"
@@ -2991,7 +3027,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 189136,
       "name": "night walk",
       "url": "https://open.spotify.com/track/12Q21aqqo0oggpqlkP0nOt"
@@ -3701,7 +3737,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 153417,
       "name": "Sesame",
       "url": "https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV"
@@ -3849,6 +3885,24 @@
       "duration_ms": 103544,
       "name": "Single Phial",
       "url": "https://open.spotify.com/track/67R6DqIitHxBe2wJYC0FZK"
+    },
+    {
+      "album": {
+        "name": "Sleep Under My Eyes",
+        "url": "https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138275,
+      "name": "Sleep Under My Eyes",
+      "url": "https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV"
     },
     {
       "album": {
@@ -4055,7 +4109,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 153549,
       "name": "Somewhere Else",
       "url": "https://open.spotify.com/track/5djyaDp1Antker31qnLCiv"
@@ -4509,7 +4563,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/44js4MOnD3UwxXchgek0C9"
@@ -4647,7 +4701,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 150507,
       "name": "The Soul of Things",
       "url": "https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj"
@@ -4869,7 +4923,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 155200,
       "name": "Umbrellas",
       "url": "https://open.spotify.com/track/5PwVDKa5tAPIYRiRF21pnC"

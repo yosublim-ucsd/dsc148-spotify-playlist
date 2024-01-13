@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44376,
+  "num_followers": 44365,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQzNiw0NGQ4NWI2YTJiZTU4ZDU0ZDk1ODUyMGZlYThlYTkzMDdhYTdjOTZk",
+  "snapshot_id": "NjQzOSw5NjZmNzhkZTVlOGE2NDVjOTMzY2E0ZmY5Yzk4YzA3M2I4MGE1YzI4",
   "tracks": [
+    {
+      "added_at": "2024-01-12 18:14:47",
+      "album": {
+        "name": "To The Beat",
+        "url": "https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 154672,
+      "name": "To The Beat",
+      "url": "https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX"
+    },
+    {
+      "added_at": "2024-01-12 18:14:28",
+      "album": {
+        "name": "Want Me Back (feat. Karl Bo\u00ebthius)",
+        "url": "https://open.spotify.com/album/1WtgdAm11KzOWkcKAGz46a"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Karl Bo\u00ebthius",
+          "url": "https://open.spotify.com/artist/0hLyLBaXRFkieljmWoYkIh"
+        }
+      ],
+      "duration_ms": 113869,
+      "name": "Want Me Back (feat. Karl Bo\u00ebthius)",
+      "url": "https://open.spotify.com/track/4T5txIj8NX26C5j6hb3Gi5"
+    },
     {
       "added_at": "2024-01-05 18:04:37",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56822,
+  "num_followers": 56816,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDIwNTk0ZjBjYzRjNWExYTgwN2MyZmZjZTYxNDU4N2UzNGQ5NTJj",
+  "snapshot_id": "MCxhNDE0MmI3ZDVkMjhkMDVkZjcyNjQ2MGM3OWU1YmNkYzAyZDgzN2Yz",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -37,6 +37,30 @@
       "url": "https://open.spotify.com/track/3dOC21UqMoJqIE2rjOGE7W"
     },
     {
+      "added_at": "2024-01-12 12:29:03",
+      "album": {
+        "name": "Aaram Aravinda Swamy (From \"Aaram Aravinda Swamy\")",
+        "url": "https://open.spotify.com/album/2B1wY3R2lCml9kZG0bRdZ8"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        }
+      ],
+      "duration_ms": 202335,
+      "name": "Aaram Aravinda Swamy (From \"Aaram Aravinda Swamy\")",
+      "url": "https://open.spotify.com/track/0nlZkaJG7P5Y9NFxG7u5Vh"
+    },
+    {
       "added_at": "2024-01-03 12:04:09",
       "album": {
         "name": "Maleyanthe Nee Baa (from \"Sanju Weds Geetha 2\")",
@@ -55,22 +79,6 @@
       "duration_ms": 249931,
       "name": "Maleyanthe Nee Baa (from \"Sanju Weds Geetha 2\")",
       "url": "https://open.spotify.com/track/2N4RKXVjv7mG4YLfXsYjxC"
-    },
-    {
-      "added_at": "2024-01-11 09:54:49",
-      "album": {
-        "name": "Manasege Banthu Bittu Hogoke (from \"Kaatera\")",
-        "url": "https://open.spotify.com/album/4sibLVNGOypHI5NAqEvVxt"
-      },
-      "artists": [
-        {
-          "name": "Hemanth Kumar",
-          "url": "https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF"
-        }
-      ],
-      "duration_ms": 256281,
-      "name": "Manasege Banthu Bittu Hogoke (from \"Kaatera\")",
-      "url": "https://open.spotify.com/track/2f7ptNKrHYZCps9HpGIw67"
     },
     {
       "added_at": "2024-01-03 06:27:07",
@@ -139,6 +147,54 @@
       "duration_ms": 234610,
       "name": "Yakovosi Manasu ( From \"Mandyahaida\")",
       "url": "https://open.spotify.com/track/6n5j9ObE6k1fDjjhWetRjV"
+    },
+    {
+      "added_at": "2024-01-12 04:30:01",
+      "album": {
+        "name": "Rise of Miller (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/14cnjzMNWxTiYOYobdzs2E"
+      },
+      "artists": [
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Pramod Jois",
+          "url": "https://open.spotify.com/artist/2df2v0cykufkVCZP0TNn9f"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Rise of Miller (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/3vD690JxNiwBofoPC4j1Ce"
+    },
+    {
+      "added_at": "2024-01-12 10:33:41",
+      "album": {
+        "name": "Villain Yaarava [From \"Leo (Kannada)\"]",
+        "url": "https://open.spotify.com/album/1k4LKD2UsKTnNCaKrfi1Xl"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Sampath GK",
+          "url": "https://open.spotify.com/artist/6u3gttrS6xGDiQGEUVSRls"
+        }
+      ],
+      "duration_ms": 185801,
+      "name": "Villain Yaarava (From \"Leo (Kannada)\")",
+      "url": "https://open.spotify.com/track/1q9J80snLlKn7Vx3fH2fSk"
     },
     {
       "added_at": "2024-01-08 12:26:21",
@@ -1601,30 +1657,6 @@
       "url": "https://open.spotify.com/track/3t8egF8E8cLn1TQj5SxavR"
     },
     {
-      "added_at": "2023-11-06 09:50:44",
-      "album": {
-        "name": "Upadhyaksha (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6wsYGhuawNalhEO4qEtrEx"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Rakshita Suresh",
-          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        }
-      ],
-      "duration_ms": 219074,
-      "name": "Nanage Neenu",
-      "url": "https://open.spotify.com/track/0aouyG3UrHLmbRjgzN7OKZ"
-    },
-    {
       "added_at": "2023-11-07 09:55:15",
       "album": {
         "name": "Mr.Natwarlal (Original Motion Picture Soundtrack)",
@@ -1667,26 +1699,6 @@
       "duration_ms": 176470,
       "name": "Savi Mohave",
       "url": "https://open.spotify.com/track/0xSlAOwa5kiVu9VceqgJnI"
-    },
-    {
-      "added_at": "2023-11-07 12:28:11",
-      "album": {
-        "name": "Yaava Mohana Murali Kareithu Title Track (from \"Yaava Mohana Murali Kareithu\")",
-        "url": "https://open.spotify.com/album/2njIvFnEeZv2m2hgUFGqMC"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Anil CJ",
-          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
-        }
-      ],
-      "duration_ms": 263810,
-      "name": "Yaava Mohana Murali Kareithu Title Track (from \"Yaava Mohana Murali Kareithu\")",
-      "url": "https://open.spotify.com/track/1qIKw5S8H0ucqVYpIgIGAK"
     }
   ],
   "unique_name": "Latest Kannada",

@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s Only Rock 'n' Roll (But We Like It)! \ud83d\udd25 Cover: The Beatles",
-  "num_followers": 366329,
+  "num_followers": 366191,
   "original_name": "Rock: i Classici",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzE3MDgwYTkwNzkyNjU3MDY0YmNiZmM1YmFlNzA0NjJiZDZkMTYy",
+  "snapshot_id": "MCwxMDg1MjFkN2Q5ZWZlMTk1MDM2NWQ1MjhkMjY5NmEzM2I5YWQyOWU0",
   "tracks": [
     {
       "added_at": "2023-11-15 15:49:24",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -587,6 +571,22 @@
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 257826,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 270773,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Purple (2019 Remaster)",
         "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 194853,
       "name": "Interstate Love Song - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
     },
     {
       "added_at": "2023-10-19 22:01:00",

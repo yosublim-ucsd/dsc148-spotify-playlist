@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,203 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,027 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 5 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 |
 | 6 | [River](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:36 |
 | 7 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
-| 8 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
-| 9 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
+| 8 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
+| 9 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 10 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 11 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 | 12 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 42 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
 | 43 | [Slow Mover](https://open.spotify.com/track/2lfr66vjbblfcA12mv0O9P) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:10 |
 | 44 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
-| 45 | [TRUE](https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v) | 3:06 |
-| 46 | [Burn](https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 2:51 |
+| 45 | [Burn](https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 2:51 |
+| 46 | [TRUE](https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v) | 3:06 |
 | 47 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
 | 48 | [Never Tear Us Apart](https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Never Tear Us Apart](https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k) | 3:50 |
 | 49 | [Lover, Come Back to Me](https://open.spotify.com/track/3fHNB84PvpQfXsqb6d7Tyv) | [Me and My Friends](https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3) | [Before I Saw the Sea](https://open.spotify.com/album/2x4B2C7AS2acuzB8myRKQ6) | 4:53 |
 | 50 | [Craving](https://open.spotify.com/track/1JFIggpK5qun8s9gcHvWn9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 2:43 |
 
-Snapshot ID: `MCxkMTMzYTc0YzRhZWFmZGIyNDRkOTZhNWUyMGI0ODViOWE4YTI2NmVl`
+Snapshot ID: `MCw2Y2YxODExMjcyNDgxNmE0NDNiNWM3OTQ2ODA0NDMxNTgxNzZjOGYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,377,472 likes - 47 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,377,812 likes - 47 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 46 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 |
 | 47 | [Only 1 \(Interlude\) \(with Travis Scott\)](https://open.spotify.com/track/4cEqoGTqPRZy76Yl3ymj3V) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 1:20 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBlOTllZWU0ODk2NjNjZTQzMTA1MTJhYWJjZDgxN2JjYQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDAxOTcxZjA5ZjU1YTAzOTBhMWI2NzI0OGJhNTY4MTkzMg==`

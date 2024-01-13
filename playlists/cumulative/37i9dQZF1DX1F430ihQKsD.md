@@ -4,7 +4,7 @@
 
 > Montréal’s music scene, front and centre\. Cover: Born At Midnite
 
-412 songs - 23 hr 48 min
+413 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 | 2023-07-07 |  |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-03-25 | 2022-04-16 |
 | [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 | 2023-05-27 |
-| [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 | 2022-12-09 |  |
+| [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 | 2022-12-09 | 2024-01-13 |
 | [Alison](https://open.spotify.com/track/13aJkLI6FTqT6CdyqxfTt2) | [Mouth Breather](https://open.spotify.com/artist/7hew569XYqIKGOGTfd5esn) | [The Mouth of Monte Cristo](https://open.spotify.com/album/5Kakth9mCCQob7NRrzSUGg) | 3:10 | 2022-03-25 | 2022-05-07 |
 | [All Fucking Weekend](https://open.spotify.com/track/2S6Vm1e6C5r4yOeLk8sZAt) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 3:42 | 2022-04-18 | 2022-05-28 |
 | [All Fucking Weekend](https://open.spotify.com/track/6qfwBFEZnmakt7GGXdsYzb) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [All Fucking Weekend](https://open.spotify.com/album/5DjP8o0NVjn6LrjxtGqUio) | 3:42 | 2022-04-15 | 2022-04-19 |
@@ -80,6 +80,7 @@
 | [Citadelle](https://open.spotify.com/track/4j4dIhycDWkN85AiuaiUFT) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 4:11 | 2023-09-08 | 2023-09-30 |
 | [CLOSER TO MY DREAMS](https://open.spotify.com/track/5Do0RgImAao120hKTxnhW8) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [JAYLIEN](https://open.spotify.com/artist/6t3YMGSTDtFDBUFfUHsJS0) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:29 | 2022-03-25 | 2022-09-24 |
 | [CNQDL](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [CNQDL](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 | 2022-05-06 | 2023-03-11 |
+| [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 | 2024-01-12 |  |
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2022-05-13 | 2023-05-20 |
 | [Cold](https://open.spotify.com/track/181IvC53BYaus1aK7cZ3ID) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY) | 2:59 | 2022-03-25 | 2022-07-29 |
 | [Cold](https://open.spotify.com/track/1tiX1UC9gFJtHqCPNCu8WN) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Happy Thanksgiving D\*\*\*heads](https://open.spotify.com/album/7nBxHzpHOCkV4aVZMsi9xH) | 2:59 | 2022-10-28 | 2022-11-13 |

@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "VIBE IN PRAHA",
+        "url": "https://open.spotify.com/album/4OCkcwSER9boDvzxEdlh6c"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239680,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/61LkLrMVjwO4Rzk3deOw0n"
+    },
+    {
+      "album": {
         "name": "Son Dam Bi Mini Album vol. 2",
         "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
       },
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 195508,
       "name": "Tell Me One More Time",
       "url": "https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ"

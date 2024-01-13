@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,620 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,652 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 38 | [El Amante Apasionado](https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Éxitos Inolvidables](https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq) | 3:33 |
 | 39 | [La Guaracha del Fay Fay](https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt) | [Rene Inostroza](https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O) | [Lo Mejor 25 Éxitos](https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4) | 2:34 |
 | 40 | [Deja de Llorar](https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2) | [Los Bohemios de Chile](https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS) | 4:12 |
-| 41 | [Tus Mentiras](https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:33 |
-| 42 | [Tus Maletas Ya Estás en la Puerta](https://open.spotify.com/track/62udtrscsiWeJSONUvIZ0U) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 5:03 |
+| 41 | [Tus Maletas Ya Estás en la Puerta](https://open.spotify.com/track/62udtrscsiWeJSONUvIZ0U) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 5:03 |
+| 42 | [Tus Mentiras](https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:33 |
 | 43 | [La Mesa 20](https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Por una Yegua No Se para la Trilla](https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm) | 3:13 |
 | 44 | [Mentirosa](https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [En 3d y a Todo Color](https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80) | 3:43 |
 | 45 | [El R 15](https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Aliado del Tiempo](https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ) | 3:06 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 67 | [Te Lavaste la Cara y el Mono No](https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 2:49 |
 | 68 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 |
 | 69 | [Sombrero Vaquero](https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 2:49 |
-| 70 | [Vivo la Vida](https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:12 |
-| 71 | [El Lirio](https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Ayer, Hoy y Siempre](https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ) | 2:48 |
-| 72 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 |
+| 70 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 |
+| 71 | [Vivo la Vida](https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:12 |
+| 72 | [El Lirio](https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Ayer, Hoy y Siempre](https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ) | 2:48 |
 | 73 | [Los Vampiros](https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Camino al Éxito](https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR) | 3:31 |
 | 74 | [Sola Con Mi Soledad / Y Voy a Ser Feliz](https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 4:27 |
 | 75 | [Ay Soledad](https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbia y Sabor](https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9) | 4:05 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 79 | [Sin Coronas Ni Reinas](https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Para Nuestra Gente](https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK) | 3:20 |
 | 80 | [Vuelvo a las Cantinas](https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 4:18 |
 | 81 | [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 |
-| 82 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 |
-| 83 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 |
-| 84 | [El Sol No Regresa](https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Sol No Regresa](https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH) | 2:54 |
+| 82 | [El Sol No Regresa](https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Sol No Regresa](https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH) | 2:54 |
+| 83 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 |
+| 84 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 |
 | 85 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 |
 | 86 | [Maldita Sea la Primera Vez](https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre Villanos](https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E) | 3:40 |
 | 87 | [Cantina de Mi Barrio](https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Relatos de Mi Vida](https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g) | 4:24 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 97 | [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 |
 | 98 | [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 |
 | 99 | [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 |
-| 100 | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut) | 11:24 |
+| 100 | [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 |
 
-Snapshot ID: `MCwyZmMzNjM2MTZkMWNhYWI3NDU1YWNiYzhmZmM1OWUyNmU4NjQwMjEx`
+Snapshot ID: `MCw4NjlmMTgwZWFmMDc3MjI1NzBlMWFlZTI1MzhlNWNmZTQyNDhlZmUw`

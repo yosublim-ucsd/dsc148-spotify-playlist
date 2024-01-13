@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más placosas y llegadoras de nuestra música! Al millón con Peso Pluma, Junior H & Oscar Maydon.
+> ¡Las más placosas y llegadoras de nuestra música! Al millón con Luis R Conriquez.
 
 424 songs - 22 hr 17 min
 

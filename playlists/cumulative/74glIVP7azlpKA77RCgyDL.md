@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Brand of Sacrifice
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Splitknuckle
 
-586 songs - 1 day 13 hr 32 min
+592 songs - 1 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ypHme2lqJbZQjk3LOAqPD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [BATTERY NOT INCLUDED](https://open.spotify.com/album/1eDCjMOm70DpKkzw2mxfhx) | 2:53 | 2022-01-21 | 2023-07-15 |
 | [Become So Small](https://open.spotify.com/track/4YRVTUim5llCpn8KFQbxjO) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [God Made Me An Animal](https://open.spotify.com/album/5BhklHDhaR6bzbELNrNKU2) | 3:01 | 2023-07-07 |  |
 | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD) | 3:43 | 2023-02-24 |  |
+| [Behavioral Health](https://open.spotify.com/track/3Q97IaeG9q7gi31e66OIxL) | [Ameonna](https://open.spotify.com/artist/4ZmEpcMFWAfiL6jLLEPkbO) | [Behavioral Health](https://open.spotify.com/album/22K06LWqdTmYxstH8YUaRF) | 3:15 | 2024-01-12 |  |
 | [Behind Closed Doors](https://open.spotify.com/track/40bblUc6CcCwM8jaZ9r9Rf) | [Wormrot](https://open.spotify.com/artist/3vMnvW7u5207ATyxTQIxNz) | [Behind Closed Doors](https://open.spotify.com/album/57hOF9F8e7ww6Q5PJyWes6) | 1:27 | 2022-03-18 | 2023-07-15 |
 | [Best Before: Death](https://open.spotify.com/track/2uTahQV0g3RtBUysdYdXLZ) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Best Before: Death](https://open.spotify.com/album/5SQIF1zQZk1kmiReGa3Kh7) | 3:33 | 2023-03-03 |  |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-15 | 2023-07-15 |
@@ -107,6 +108,7 @@
 | [Crawl Space](https://open.spotify.com/track/0pV3HjvJ2nKCiRueKe5SId) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Crawl Space](https://open.spotify.com/album/0Cy99fFT5llj7iYW0jkldr) | 1:31 | 2023-06-23 |  |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 | 2023-07-15 |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 | 2023-07-15 |
+| [Cut The Cord](https://open.spotify.com/track/5X6VrWoMKlHOR774CZB21s) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Cut The Cord/Shame's Mirror](https://open.spotify.com/album/4n74DoC0rdpxrNOi2mgEa7) | 3:21 | 2024-01-12 |  |
 | [CUT.BLEED.REPEAT](https://open.spotify.com/track/7DECB48H9EToEwvpd0Cxf3) | [PROJECT: VENGEANCE](https://open.spotify.com/artist/7HcrrlXGMsiC4nteuArgi9), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [CUT.BLEED.REPEAT](https://open.spotify.com/album/1R9xrOaKyMkGxBFD4fYYY8) | 3:34 | 2023-03-10 |  |
 | [Cycle Killer](https://open.spotify.com/track/1CQOTxF4mHUnj0eVoVAZVK) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Boomerang / Cycle Killer](https://open.spotify.com/album/78DHoATuJeFLEWNG8iqm8z) | 2:06 | 2023-04-07 |  |
 | [Dagger Dragger](https://open.spotify.com/track/3I0iaBY4eNmJJlCgu86ppw) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Dagger Dragger](https://open.spotify.com/album/6qHj91jBNyU856zUf8O6yb) | 4:00 | 2023-03-03 |  |
@@ -405,6 +407,7 @@
 | [Reign of Terror](https://open.spotify.com/track/12RtrL5GqsYvtTQhlNzxMN) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Reign of Terror](https://open.spotify.com/album/2V8KRphUa4Vp18I5IviUGi) | 3:46 | 2022-05-27 | 2023-07-15 |
 | [Relic of Damnation](https://open.spotify.com/track/3RH9ZlJDOphL9ZAZUS9t36) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Relic of Damnation](https://open.spotify.com/album/17Z9CfhKDSBBUdoPE6EvgC) | 2:27 | 2022-10-28 | 2023-07-15 |
 | [Removed Their Hooks](https://open.spotify.com/track/0ggiwvRZnn8g3mJoLq91In) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [Removed Their Hooks](https://open.spotify.com/album/2WEqK1EqFvKmM9rfNREcnf) | 3:21 | 2023-09-01 |  |
+| [Resurrected](https://open.spotify.com/track/68XdsXMEEhP6SOkpj4FNrG) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Resurrected](https://open.spotify.com/album/2hnXIMJc9CNCdTsVyTO3d7) | 2:11 | 2024-01-12 |  |
 | [Resurrection II](https://open.spotify.com/track/4vLJYJjWCRAsfpvl31AYTa) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Resurrection II](https://open.spotify.com/album/7HVjB5TNxYYKv7CTQfcZMY) | 3:02 | 2023-03-10 |  |
 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-13 |  |
 | [Rise from the Grave](https://open.spotify.com/track/3Uo3xhqUJG9EHTtdlBbEm4) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Rise from the Grave](https://open.spotify.com/album/4rTmT4RMbmdNHid4lgighZ) | 3:35 | 2022-01-21 | 2023-07-15 |
@@ -440,6 +443,7 @@
 | [Snapshot](https://open.spotify.com/track/3FyGUTC41cUpXhugPyQaz6) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:29 | 2023-09-29 |  |
 | [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-06-30 |  |
 | [Social Grace](https://open.spotify.com/track/7aOPJzvWO4RrUOpEemI15I) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Social Grace](https://open.spotify.com/album/6T0UIDL3VPU5byHMcV19jV) | 3:01 | 2023-10-20 |  |
+| [Societal Bile](https://open.spotify.com/track/0caF9S71yIZl43EbGCn85u) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Societal Bile](https://open.spotify.com/album/6Huux7HHfhFuKtTAd1zL5v) | 3:00 | 2024-01-12 |  |
 | [Society of Spectres](https://open.spotify.com/track/1elp1yGhshhtbkCYLY7lQj) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Society of Spectres](https://open.spotify.com/album/1fAyzRm8MazuxTW1dE90Ui) | 4:10 | 2023-01-13 |  |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-17 |  |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 | 2023-07-15 |
@@ -455,6 +459,7 @@
 | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52) | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z) | 3:54 | 2023-07-07 |  |
 | [STRAITJACKET AFTERBIRTH](https://open.spotify.com/track/1XpGYpAK3SvsMIJv0zKfsM) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR), [SCARAB](https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX) | [AUTOMATIC DEATH PROTOCOL](https://open.spotify.com/album/3TV7pYsruvNpnvcWU5UiOc) | 3:29 | 2023-12-08 |  |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2023-07-15 |
+| [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 | 2024-01-12 |  |
 | [such.a.shame](https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [such.a.shame](https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw) | 3:18 | 2022-02-25 | 2023-07-15 |
 | [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-06-09 |  |
 | [Summerslam](https://open.spotify.com/track/21ReFyyiE5xQbVX6CUgUha) | [Jobber](https://open.spotify.com/artist/6Qfu29KtPFPfCedfmgpTh9) | [Summerslam](https://open.spotify.com/album/1UKV7T6J2gqHgHNxmTrJiN) | 5:02 | 2023-08-04 |  |
@@ -563,6 +568,7 @@
 | [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 | 2023-07-15 |
 | [We Don’t Need Another Hero](https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:10 | 2023-05-19 |  |
 | [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 |  |
+| [We Share Blood \(Not Love\)](https://open.spotify.com/track/5GaBRiiXjAGvhfiVCs1U5W) | [Splitknuckle](https://open.spotify.com/artist/4IEv1LeXgymlFLG41BS4Kk), [Pest Control](https://open.spotify.com/artist/06NrwSBss5Imv1Se0Hlv5Y) | [Breathing Through The Wound](https://open.spotify.com/album/4N1QBT0JUgvZLEHQ5foSqQ) | 6:22 | 2024-01-12 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2023-07-15 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2023-07-15 |
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 | 2023-07-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 111646,
+  "num_followers": 111497,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzNmODA0N2UyNGVlMmU4MDcyMTY1NDZiMmZkZDljYzFmYmZkNmEw",
+  "snapshot_id": "MCwyNmI4M2M5ZTE2ZGVmNDg0ZDI5OWM3YWVlZTgyOWVkYjAwODY5OTdi",
   "tracks": [
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1531,38 +1531,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "EXIST \u2013 The 7th Album",
-        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 185320,
-      "name": "Cream Soda",
-      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "CHESHIRE",
         "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
       },
@@ -1579,6 +1547,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 185320,
+      "name": "Cream Soda",
+      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 180988,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "Not Shy",
         "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 195813,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160371,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 190941,
       "name": "Talk Saxy",
       "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 229678,
-      "name": "I Will Go To You Like the First Snow",
-      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 191695,
+      "name": "STEREOTYPE",
+      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "NCT 2018 EMPATHY",
         "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 210641,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "STEREOTYPE",
-        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 191695,
-      "name": "STEREOTYPE",
-      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "RUN2U",
+      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 205133,
       "name": "Beatbox",
       "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "WHY..",
-        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "But Sometimes",
-      "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2315,18 +2315,18 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "YOUNG-LUV.COM",
-        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+        "name": "WHY..",
+        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 213426,
-      "name": "RUN2U",
-      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+      "duration_ms": 175106,
+      "name": "But Sometimes",
+      "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "I burn",
         "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "Teddy Bear",
-        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Teddy Bear",
-      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "mono.",
-        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
-      },
-      "artists": [
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        }
-      ],
-      "duration_ms": 275954,
-      "name": "seoul (prod. HONNE)",
-      "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 196160,
       "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 275954,
+      "name": "seoul (prod. HONNE)",
+      "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "Glitch Mode - The 2nd Album",
-        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Glitch Mode",
-      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 178013,
       "name": "Memories",
       "url": "https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Glitch Mode",
+      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -3159,22 +3159,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "MOTH",
-        "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
-      },
-      "artists": [
-        {
-          "name": "WOOSUNG",
-          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
-        }
-      ],
-      "duration_ms": 154003,
-      "name": "Phase Me",
-      "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "Lion Heart - The 5th Album",
         "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
@@ -3187,6 +3171,22 @@
       "duration_ms": 224257,
       "name": "Lion Heart",
       "url": "https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "MOTH",
+        "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "duration_ms": 154003,
+      "name": "Phase Me",
+      "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
     },
     {
       "added_at": "2023-11-04 06:02:51",

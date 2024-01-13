@@ -2,9 +2,9 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Dua Lipa
+> Voici les hits du moment\. Photo: Noah Kahan
 
-346 songs - 18 hr 17 min
+348 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 | 2022-07-09 | 2023-01-28 |
 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 | 2023-09-08 | 2023-09-16 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-03-10 | 2023-03-25 |
+| [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-01-12 |  |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-08-29 | 2023-02-18 |
 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 | 2022-07-09 | 2022-07-23 |
 | [Hooked](https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Hooked](https://open.spotify.com/album/3yhKFjz9G1bZRWpIVXjkH8) | 2:26 | 2024-01-05 |  |
@@ -268,7 +269,7 @@
 | [Rainbow](https://open.spotify.com/track/6Ly6HlobduwBpOfKA9gcBA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Rainbow](https://open.spotify.com/album/75SJrS0P39Dbsze4inc81k) | 3:07 | 2023-08-18 | 2023-09-30 |
 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-10-26 |
 | [RIP, Love](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 2:53 | 2022-07-09 | 2022-07-30 |
-| [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 | 2023-06-03 |  |
+| [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 | 2023-06-03 | 2024-01-13 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-09-16 | 2023-06-07 |
 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 | 2022-07-09 | 2022-07-23 |
 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 | 2023-04-07 | 2023-04-29 |
@@ -325,7 +326,7 @@
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-17 | 2023-07-08 |
 | [Tu t’en iras](https://open.spotify.com/track/273vXUGkKr04KJUPvWD16Y) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Traîtrise](https://open.spotify.com/album/6bddo91xZo2y4MdeMc0Jxz) | 3:26 | 2022-07-09 | 2023-02-25 |
 | [Un jour je marierai un ange](https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 2:45 | 2022-07-25 |  |
-| [Un peu trop](https://open.spotify.com/track/3jiS0ETithGTKn2uGT6dbF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 2:34 | 2023-11-17 |  |
+| [Un peu trop](https://open.spotify.com/track/3jiS0ETithGTKn2uGT6dbF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 2:34 | 2023-11-17 | 2024-01-13 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-07-07 |  |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-02 | 2023-01-06 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 | 2023-02-04 |
@@ -352,6 +353,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-28 | 2023-05-24 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-19 |  |
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2023-03-24 | 2023-05-27 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-12 |  |
 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 | 2022-10-14 | 2023-01-28 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-02-24 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Merton
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,973 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,998 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 5 | [Stadt Gespräch](https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Stadt Gespräch](https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI) | 2:10 |
 | 6 | [Nie Alleine](https://open.spotify.com/track/1xDGU2uFva0NWwQwjabhzR) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Nie Alleine](https://open.spotify.com/album/2ANwVGIl6ZHIXlR1rHp4Cf) | 2:19 |
 | 7 | [Otherside](https://open.spotify.com/track/7e8yTde0qmrUdh7h6S1Xz2) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC) | [Otherside](https://open.spotify.com/album/3AeUihEHsegTh9VO7xGktG) | 2:45 |
-| 8 | [Tochter meiner Mutter](https://open.spotify.com/track/2XHxp4USQsAVkW1jujOmQa) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Tochter meiner Mutter](https://open.spotify.com/album/4WgxOMvuJWVLNvYdzTzOXo) | 2:40 |
-| 9 | [Not For The Ewigkeit](https://open.spotify.com/track/693iZrYelWorntvBaZWbpn) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Not For The Ewigkeit](https://open.spotify.com/album/091kq1LRtonE14VbqpoIeb) | 4:10 |
-| 10 | [Sneaky Link](https://open.spotify.com/track/0PEYid7Dm4o9ZfAkuPIArI) | [Aze](https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1) | [Sneaky Link](https://open.spotify.com/album/1VkdTHNIYBnTCsPcdwr244) | 2:37 |
-| 11 | [God Invented The Radio](https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [God Invented The Radio](https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au) | 2:17 |
+| 8 | [Not For The Ewigkeit](https://open.spotify.com/track/693iZrYelWorntvBaZWbpn) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Not For The Ewigkeit](https://open.spotify.com/album/091kq1LRtonE14VbqpoIeb) | 4:10 |
+| 9 | [Tochter meiner Mutter](https://open.spotify.com/track/2XHxp4USQsAVkW1jujOmQa) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Tochter meiner Mutter](https://open.spotify.com/album/4WgxOMvuJWVLNvYdzTzOXo) | 2:40 |
+| 10 | [God Invented The Radio](https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [God Invented The Radio](https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au) | 2:17 |
+| 11 | [Sneaky Link](https://open.spotify.com/track/0PEYid7Dm4o9ZfAkuPIArI) | [Aze](https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1) | [Sneaky Link](https://open.spotify.com/album/1VkdTHNIYBnTCsPcdwr244) | 2:37 |
 | 12 | [Planeten](https://open.spotify.com/track/5QwZgAHfElm5zdU4luWU3E) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Planeten](https://open.spotify.com/album/7HXTvxsWlV3wARDKknHhM4) | 2:37 |
 | 13 | [Es zieht im Paradies](https://open.spotify.com/track/72japCviuui2IqOffiZurS) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es zieht im Paradies](https://open.spotify.com/album/1gK7m86MSO7JTqmlO7DKvM) | 3:05 |
 | 14 | [Liebe ist laut](https://open.spotify.com/track/4LsesejjZmoZgxdbrO5vGf) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Liebe ist laut](https://open.spotify.com/album/1TRfC92EI3Hu8nQFzZINMA) | 2:29 |
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [Welt Ohne Dich](https://open.spotify.com/track/0syXVKe7WAHa8VmA3ftDTM) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Hauptgewinn](https://open.spotify.com/album/3QpMThEvkqJHHVvfqluIqi) | 2:02 |
 | 20 | [Golf Coupé](https://open.spotify.com/track/2tRpnq9Wvl4jPiO4mUgAPk) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Golf Coupé](https://open.spotify.com/album/5WPi1LUinz4TBLT1oSOIxw) | 2:47 |
 | 21 | [CRISIS QUEEN](https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [TROUBLESHOOTER](https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t) | 2:20 |
-| 22 | [Places](https://open.spotify.com/track/3KDIIbqxuaTwsmPjXefx30) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout](https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb) | 3:14 |
-| 23 | [Beissgirls](https://open.spotify.com/track/3CKijp3ojfoXWep6bxDFaV) | [SHARI](https://open.spotify.com/artist/3zPLWKxB7XvaA9ezRwhkW8) | [Beissgirls](https://open.spotify.com/album/3a9omO9IvUCY8yWS9Cd2aM) | 2:38 |
-| 24 | [Wuz poppin](https://open.spotify.com/track/0VwSCUl9wvV2McHly3VTW3) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Wuz poppin](https://open.spotify.com/album/5qxriuwicjI98My7Z52bJK) | 2:28 |
-| 25 | [Spinning](https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk) | [Willow Parlo](https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa) | [See U Whenever](https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt) | 3:40 |
-| 26 | [Atlantis](https://open.spotify.com/track/37KFF19iUOsht1gc9qyrH5) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Atlantis](https://open.spotify.com/album/1EVoP9HiCAtz1f8aIGyjJ3) | 2:56 |
+| 22 | [Spinning](https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk) | [Willow Parlo](https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa) | [See U Whenever](https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt) | 3:40 |
+| 23 | [Places](https://open.spotify.com/track/3KDIIbqxuaTwsmPjXefx30) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout](https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb) | 3:14 |
+| 24 | [Beissgirls](https://open.spotify.com/track/3CKijp3ojfoXWep6bxDFaV) | [SHARI](https://open.spotify.com/artist/3zPLWKxB7XvaA9ezRwhkW8) | [Beissgirls](https://open.spotify.com/album/3a9omO9IvUCY8yWS9Cd2aM) | 2:38 |
+| 25 | [Atlantis](https://open.spotify.com/track/37KFF19iUOsht1gc9qyrH5) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Atlantis](https://open.spotify.com/album/1EVoP9HiCAtz1f8aIGyjJ3) | 2:56 |
+| 26 | [Wuz poppin](https://open.spotify.com/track/0VwSCUl9wvV2McHly3VTW3) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Wuz poppin](https://open.spotify.com/album/5qxriuwicjI98My7Z52bJK) | 2:28 |
 | 27 | [Nothing's Set In Stone](https://open.spotify.com/track/6s76u76W9kFp87XdvOXRsd) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Nothing's Set In Stone](https://open.spotify.com/album/3XMG68ynUfyh6P3FftvIDc) | 3:19 |
 | 28 | [Take a While](https://open.spotify.com/track/3DTaMVWs1eDCQCj6fl1lEq) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Take a While](https://open.spotify.com/album/2Ce7sXWqwSRzmsKcvQjVtd) | 3:47 |
 | 29 | [Allerletzter Tag](https://open.spotify.com/track/0ScRAPcV190fYvLeSAIVZw) | [AYMZ](https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z) | [Allerletzter Tag](https://open.spotify.com/album/6nemsAh2qUgGijKAoAjIfm) | 2:59 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [WASTE MY TIME](https://open.spotify.com/track/2kSWxkLgpYF6ewwhMzJ6fh) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [WASTE MY TIME](https://open.spotify.com/album/1Nh0JWLhkFPCTlc5X1AKkp) | 5:12 |
 | 36 | [Just Us Going](https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Just Us Going](https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92) | 3:21 |
 | 37 | [Love](https://open.spotify.com/track/3tCANWqIjNDN73UXiEE9qV) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Love](https://open.spotify.com/album/1NuUBi58WVMyF9lC5UiIse) | 3:13 |
-| 38 | [Cocoon](https://open.spotify.com/track/3lVMgj0NUTy5KjFPZk8eyv) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Cocoon](https://open.spotify.com/album/5oTSOIBTT3JllUgEWXezoB) | 3:05 |
-| 39 | [Mayday](https://open.spotify.com/track/1e1snBkwEaoXaW6LYt8lSE) | [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Mayday](https://open.spotify.com/album/1owrZgF2mos1oWCpsnA3Ly) | 2:20 |
+| 38 | [Mayday](https://open.spotify.com/track/1e1snBkwEaoXaW6LYt8lSE) | [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Mayday](https://open.spotify.com/album/1owrZgF2mos1oWCpsnA3Ly) | 2:20 |
+| 39 | [Cocoon](https://open.spotify.com/track/3lVMgj0NUTy5KjFPZk8eyv) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Cocoon](https://open.spotify.com/album/5oTSOIBTT3JllUgEWXezoB) | 3:05 |
 | 40 | [Tattoos](https://open.spotify.com/track/6Ug1T5SL6Eou3nD5Iuzbaj) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Tattoos](https://open.spotify.com/album/2oXFCU5JqvO9cRZz5eyVhG) | 2:03 |
 | 41 | [On My Radar](https://open.spotify.com/track/55gslzMpup4kGDVCpTGzaT) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [On My Radar](https://open.spotify.com/album/62VvAr1P2Lsa97PHLjqmpZ) | 6:05 |
 | 42 | [Rifle Club](https://open.spotify.com/track/1rbi6zbXWPPHR96m8SyI6p) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Rifle Club](https://open.spotify.com/album/5WOonPCMK2Bjs2GpJmUv41) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Up & Down](https://open.spotify.com/track/3HGMq458kM7EqMATTj3hHC) | [Yeshi](https://open.spotify.com/artist/4n4EtEvCABdRWbhGtre2v9) | [Up & Down](https://open.spotify.com/album/4tfcu5MC02QiiC6qbdtmdE) | 3:03 |
 | 50 | [Paralysed](https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Paralysed](https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U) | 2:41 |
 
-Snapshot ID: `MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh`
+Snapshot ID: `MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0`

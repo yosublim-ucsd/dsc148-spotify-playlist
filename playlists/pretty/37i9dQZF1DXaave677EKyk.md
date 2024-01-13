@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Undisputed Anthems from professional party starters\. Cover: Joel Corry
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,614 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,648 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 65 | [In My Head \(feat\. Shayan\)](https://open.spotify.com/track/41ftjwBKEn5vjMslWMA195) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [In My Head \(feat\. Shayan\)](https://open.spotify.com/album/0mV5yjkvo3rjFGMhduzsIh) | 2:50 |
 | 66 | [Rude Boy](https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt) | [Rude Boy](https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl) | 2:31 |
 | 67 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
-| 68 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
-| 69 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
+| 68 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
+| 69 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 | 70 | [Every Little Thing](https://open.spotify.com/track/2ovlaCF5IsApzvIpa5k64l) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Every Little Thing](https://open.spotify.com/album/3mWwqrqWfnmSRKTxtvSfDI) | 2:38 |
 | 71 | [Balling](https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Balling](https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv) | 3:40 |
 | 72 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [WFT](https://open.spotify.com/track/3KcvhdB2XV8U0s6PbIy1bc) | [Subtrax](https://open.spotify.com/artist/1li6c6TniSl5U8ABWQCNAD) | [WFT](https://open.spotify.com/album/4sXH8U0BPsKRPBBcEhAxGA) | 3:31 |
 | 80 | [Memories \(Burning in Time\)](https://open.spotify.com/track/5vwcuTK4QMBIY14CulbeKo) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Memories \(Burning in Time\)](https://open.spotify.com/album/2Lt2eRqMeVMr0ayksEh7mD) | 2:33 |
 
-Snapshot ID: `MCw4NjQyYTg2MGJiNGY0NTZkZGEyNWEyNDlkMjNjNzgzOTYyOWY1ZmNl`
+Snapshot ID: `MCw1M2FkODE0MDlkMDQ4MDFhYTM2YTIyMzRmY2IyYTcwYmQxOWQ3Mjhi`

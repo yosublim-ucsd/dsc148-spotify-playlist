@@ -1,13 +1,49 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 62218,
+  "description": "The best newly released songs of the week. Cover: Ariana Grande",
+  "num_followers": 62079,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTUyNWE1YzExYmIyYzM5YjNhZjkwMmJiZTUyNDZmM2QxM2I4Mzdh",
+  "snapshot_id": "MCxlYzdjZjU2MmI3YzUyMTY0ZDI1ZDcwNzY5YzVlNDQ3OGFhNGM3MWM1",
   "tracks": [
+    {
+      "added_at": "2024-01-11 16:00:00",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "added_at": "2024-01-11 16:00:00",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
+    },
     {
       "added_at": "2024-01-11 16:00:00",
       "album": {
@@ -123,8 +159,8 @@
     {
       "added_at": "2024-01-11 16:00:00",
       "album": {
-        "name": "World Burn",
-        "url": "https://open.spotify.com/album/7pISfAjwsGSIO6NLhoFWMN"
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0WSPg07gRVxFdY1esBAIOc"
       },
       "artists": [
         {
@@ -138,7 +174,7 @@
       ],
       "duration_ms": 215936,
       "name": "World Burn",
-      "url": "https://open.spotify.com/track/41G077moVwIPkFSO4Bt00L"
+      "url": "https://open.spotify.com/track/2vJ87WiYmOXYd1EE7hysVb"
     },
     {
       "added_at": "2024-01-11 16:00:00",
@@ -643,8 +679,8 @@
     {
       "added_at": "2024-01-11 16:00:00",
       "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
+        "name": "Forever (Stay Like This)",
+        "url": "https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm"
       },
       "artists": [
         {
@@ -658,7 +694,7 @@
       ],
       "duration_ms": 152535,
       "name": "Forever (Stay Like This)",
-      "url": "https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n"
+      "url": "https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl"
     },
     {
       "added_at": "2024-01-11 16:00:00",
@@ -1199,6 +1235,22 @@
     {
       "added_at": "2024-01-11 16:00:00",
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-01-11 16:00:00",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/58UHfHzT9zqjvSWbC06Bcn"
       },
@@ -1307,6 +1359,26 @@
       "duration_ms": 208125,
       "name": "Where Do We Go?",
       "url": "https://open.spotify.com/track/58iFwOGqLUV8dB7vN6K4Ph"
+    },
+    {
+      "added_at": "2024-01-11 16:00:00",
+      "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/6RehbNgSMLkcf6k2ifnU9c"
+      },
+      "artists": [
+        {
+          "name": "niko rain",
+          "url": "https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV"
+        },
+        {
+          "name": "j\u00f8no",
+          "url": "https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/5fXo4rlRxbgw8lE0TogTPf"
     },
     {
       "added_at": "2024-01-11 16:00:00",

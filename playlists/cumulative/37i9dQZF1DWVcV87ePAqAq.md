@@ -4,7 +4,7 @@
 
 > Den enda spellistan du behöver för en bra fest\. Gott nytt år!
 
-431 songs - 1 day 0 hr 21 min
+432 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2022-01-03 | 2022-11-13 |
 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/65OXGbKBQ8gUyJvUd0jNpf) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [Greatest Hits!](https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a) | 3:22 | 2020-12-31 | 2022-07-03 |
 | [Boten Anna \- Radio edit](https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 3:27 | 2020-12-31 | 2022-07-26 |
-| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-12-20 |  |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-12-20 | 2024-01-13 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-12-31 | 2023-01-10 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-12-29 | 2023-09-23 |
 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 | 2020-12-31 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [Don't Start Now \- Pink Panda Remix](https://open.spotify.com/track/0MciUrJaj9OZoAuGUU40Wr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 2:05 | 2020-12-31 | 2021-12-23 |
 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 | 2022-01-03 | 2022-11-13 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2020-12-31 | 2023-12-11 |
+| [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2023-12-28 |  |
 | [Don't Stop The Music](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:27 | 2022-01-03 | 2022-11-13 |
 | [Don't Stop The Music](https://open.spotify.com/track/62LHRv9uwSNlBmByQF5jdE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN) | 4:27 | 2022-01-03 | 2022-07-24 |
 | [Don't Worry \(with Ray Dalton\) \- Radio Edit](https://open.spotify.com/track/63CSozvYUEudPp12679UVF) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Don't Worry \(feat\. Ray Dalton\)](https://open.spotify.com/album/7rtYhYGbnV4OPbqIhendi8) | 3:34 | 2020-12-31 | 2022-07-29 |

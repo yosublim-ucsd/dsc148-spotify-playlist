@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 20787,
+  "2024-01-13": 20790,
   "date_first_scraped": "2023-09-01",
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
   "name": "This Is Gustavo Santaolalla",
@@ -256,6 +256,24 @@
     },
     {
       "album": {
+        "name": "21 Grams (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4VjqWzO8AsxgpOhjnbzJTr"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79000,
+      "name": "Can Things Be Better?",
+      "url": "https://open.spotify.com/track/4picv6NPkhMDEBNTk8uenV"
+    },
+    {
+      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
@@ -367,7 +385,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 199106,
       "name": "Coyita",
       "url": "https://open.spotify.com/track/016vA5iOfrn9LdFWpoIYr3"

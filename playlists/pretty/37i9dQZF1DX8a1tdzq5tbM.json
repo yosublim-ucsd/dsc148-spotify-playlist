@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1447984,
+  "num_followers": 1448098,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTYxYTBiMDQ2NmY3NzAwODEzYTU4ZjI4MjdjMjc0OWM1ODVlNWY0",
+  "snapshot_id": "MCxkMzA1ZDljNDI0ZTcyYjMyMTM0M2RmNTk3M2Q1MjQ3YmVkMzQwMTMz",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -723,30 +723,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Guetta Blaster",
-        "url": "https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn"
-      },
-      "artists": [
-        {
-          "name": "Joachim Garraud",
-          "url": "https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2"
-        },
-        {
-          "name": "JD Davis",
-          "url": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "The World Is Mine",
-      "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 208026,
       "name": "Baby When the Light (feat. Cozi)",
       "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Guetta Blaster",
+        "url": "https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn"
+      },
+      "artists": [
+        {
+          "name": "Joachim Garraud",
+          "url": "https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2"
+        },
+        {
+          "name": "JD Davis",
+          "url": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "The World Is Mine",
+      "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -903,26 +903,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
       "artists": [
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Shifty Shellshock",
-          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 228493,
-      "name": "Starry Eyed Surprise",
-      "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
+      "duration_ms": 283040,
+      "name": "I Remember (Strobelight Edit)",
+      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -943,22 +939,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         },
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Shifty Shellshock",
+          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 283040,
-      "name": "I Remember (Strobelight Edit)",
-      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
+      "duration_ms": 228493,
+      "name": "Starry Eyed Surprise",
+      "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1035,26 +1035,6 @@
       "duration_ms": 199320,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3SbCWIF7UaSewGfGHkFEI2"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Asher D",
-          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Ready Steady Go - Extended Mix",
-      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1155,6 +1135,26 @@
       "duration_ms": 250440,
       "name": "You're Not Alone - Radio Edit",
       "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Asher D",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Ready Steady Go - Extended Mix",
+      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Army Of Two",
-        "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
-      },
-      "artists": [
-        {
-          "name": "UMEK",
-          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
-        },
-        {
-          "name": "Beltek",
-          "url": "https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Army Of Two - Radio Version",
-      "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Girlfriend (2008 Remix)",
         "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 435986,
       "name": "Girlfriend - 2008 Remix",
       "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Army Of Two",
+        "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        },
+        {
+          "name": "Beltek",
+          "url": "https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Army Of Two - Radio Version",
+      "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
     },
     {
       "added_at": "2023-03-22 14:00:00",

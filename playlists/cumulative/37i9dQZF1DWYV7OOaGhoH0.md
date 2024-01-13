@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Hollow Coves
+> The best in folk & acoustic today featuring music from Mon RovÎa
 
-485 songs - 1 day 6 hr 8 min
+487 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Church Street Blues](https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Church Street Blues](https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU) | 2:33 | 2021-12-10 | 2022-02-12 |
 | [cigarette holes](https://open.spotify.com/track/4WxxPiwiWxrhnJPnsNoOLO) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Bad For Me](https://open.spotify.com/album/76v1LQXUBTB1tmqYrTohmv) | 2:26 | 2022-07-29 | 2022-10-01 |
 | [cigarette holes](https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [cigarette holes](https://open.spotify.com/album/1nuf7xVIP1J9rpeGje6zLD) | 2:26 | 2022-04-01 | 2022-08-04 |
+| [City On A Hill](https://open.spotify.com/track/4eklSuk7sHcFDVLQR74QLn) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [City On A Hill](https://open.spotify.com/album/14QqcZuUzIMFOFfphJq4Y4) | 2:50 | 2024-01-12 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-10-27 |  |
 | [Coast](https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq) | [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5), [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [2030](https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw) | 3:29 | 2021-12-10 | 2022-05-20 |
 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 | 2022-06-03 | 2023-01-06 |
@@ -261,7 +262,7 @@
 | [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 | 2023-12-11 | 2024-01-07 |
 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 | 2023-12-15 |  |
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2021-12-10 | 2022-05-20 |
-| [Lonesome & Mad](https://open.spotify.com/track/43cdY9ASMvp94qmVuLEoxd) | [Under The Rug](https://open.spotify.com/artist/4cTkErT8j7NvsTEmgPkGT2), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Homesick for Another World](https://open.spotify.com/album/4rxbgmrhbG44B0DiOwa9g4) | 3:57 | 2023-03-03 |  |
+| [Lonesome & Mad](https://open.spotify.com/track/43cdY9ASMvp94qmVuLEoxd) | [Under The Rug](https://open.spotify.com/artist/4cTkErT8j7NvsTEmgPkGT2), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Homesick for Another World](https://open.spotify.com/album/4rxbgmrhbG44B0DiOwa9g4) | 3:57 | 2023-03-03 | 2024-01-13 |
 | [Long Journey Home](https://open.spotify.com/track/72c8xtBefXffG64Dymjti5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Me / And / Dad](https://open.spotify.com/album/3sEnM8BV4F3dQno5rFzdW1) | 2:57 | 2022-12-02 | 2023-06-24 |
 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-15 |  |
 | [Looking For Love](https://open.spotify.com/track/02URvOPqbVEmLOCXvLH5Op) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Looking For Love](https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW) | 3:35 | 2023-04-14 | 2023-04-26 |
@@ -346,6 +347,7 @@
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2021-12-10 | 2022-02-19 |
 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Resentment \(New Feelings Version\)](https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv) | 2:52 | 2022-02-18 | 2022-07-16 |
 | [RHODODENDRON](https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [RHODODENDRON](https://open.spotify.com/album/0jd1zjfrmUwnYgKaHU0WSp) | 3:34 | 2021-12-10 | 2022-04-16 |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-12 |  |
 | [ROLLERCOASTER](https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:48 | 2022-01-14 | 2022-01-22 |
 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 | 2022-01-07 | 2022-07-16 |
 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 | 2023-02-10 |  |
@@ -400,7 +402,7 @@
 | [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 | 2022-03-04 | 2022-04-29 |
 | [That's How I Got To Memphis](https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [That's How I Got To Memphis](https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI) | 3:41 | 2022-08-05 | 2023-05-06 |
 | [That's on You, That's on Me](https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [That's On You, That's On Me](https://open.spotify.com/album/5Ry6LXvOutD0knHfrZr0y0) | 3:09 | 2023-05-05 | 2023-06-10 |
-| [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-05-05 |  |
+| [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-05-05 | 2024-01-13 |
 | [The Blues Have Blown Away](https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [The Blues Have Blown Away](https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b) | 2:47 | 2021-12-10 | 2022-06-04 |
 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 | 2023-03-10 |  |
 | [The End](https://open.spotify.com/track/7qkX2mHStdrHVC2NFWqwpo) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/12FtJ1DgVIT12XlvPRxtMb) | 3:10 | 2023-01-20 | 2023-03-11 |

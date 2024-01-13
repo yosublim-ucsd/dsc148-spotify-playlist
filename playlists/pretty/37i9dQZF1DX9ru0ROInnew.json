@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 112356,
+  "num_followers": 112387,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzk3MWNkZWVmMTQyOTIxOGM5Mjk3Y2YzMmE1N2ZjNTEyZWFiODEx",
+  "snapshot_id": "MCwzMDQ5MDUxNWYxNmUwYTU4M2JiNjU1NThjNDM4NjBhYmI3YjRjMjUx",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 222376,
-      "name": "Condenado Para El Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 222376,
+      "name": "Condenado Para El Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1623,18 +1623,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "A Mi Manera",
-        "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
       },
       "artists": [
         {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
         }
       ],
-      "duration_ms": 158786,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
+      "duration_ms": 226324,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1659,6 +1663,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "A Mi Manera",
+        "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 240360,
       "name": "Oscuridad (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
-      },
-      "artists": [
-        {
-          "name": "Tali Goya",
-          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Fulete",
-        "url": "https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 226263,
-      "name": "Fulete",
-      "url": "https://open.spotify.com/track/5fpyo29qRpzaj3jx6bMdCM"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "WOW",
         "url": "https://open.spotify.com/album/1zMywfOyuIoKbX4EvBcK4S"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 217130,
       "name": "WOW",
       "url": "https://open.spotify.com/track/6ACqSGveBeaP18uquq5lNC"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Fulete",
+        "url": "https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 226263,
+      "name": "Fulete",
+      "url": "https://open.spotify.com/track/5fpyo29qRpzaj3jx6bMdCM"
     },
     {
       "added_at": "2023-05-25 17:50:01",

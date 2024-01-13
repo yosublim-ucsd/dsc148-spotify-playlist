@@ -1,12 +1,12 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2059236,
+  "num_followers": 2056988,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjZkMzRlMzU1NzM5NGY5OWE4ZmE2YWI5YjY3NGZkMjAzY2E1YmFk",
+  "snapshot_id": "MCwwYWYyZTdjODIyYjdlYzBkZGZmZjA4Y2RiNzNlMzYyMDRhYmNlMWI2",
   "tracks": [
     {
       "added_at": "2023-02-02 23:24:59",
@@ -25,24 +25,36 @@
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2024-01-12 05:56:25",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL"
+        "name": "Pull Over",
+        "url": "https://open.spotify.com/album/0t7F6632fADm90Kbd1V25j"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 221448,
+      "name": "Pull Over",
+      "url": "https://open.spotify.com/track/2Z8Bs1coB5jruX75pmBG7F"
+    },
+    {
+      "added_at": "2022-08-17 16:54:21",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
       "artists": [
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
         }
       ],
-      "duration_ms": 152913,
-      "name": "Best Ever (feat. Maeta)",
-      "url": "https://open.spotify.com/track/3bBJwS2VX6G0L4wnOtrYUS"
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -59,30 +71,6 @@
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Zodiac Freak",
-        "url": "https://open.spotify.com/album/3QwCf3r23fbYvusjmghBn4"
-      },
-      "artists": [
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        },
-        {
-          "name": "DCMBR",
-          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
-        },
-        {
-          "name": "RyFy",
-          "url": "https://open.spotify.com/artist/1HxDh7kU4XVr7JcQOMD1Ex"
-        }
-      ],
-      "duration_ms": 232778,
-      "name": "Zodiac Freak",
-      "url": "https://open.spotify.com/track/5XbkYMeg7g7Tt7XMcBHGiJ"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -183,22 +171,6 @@
       "duration_ms": 204316,
       "name": "Hrs & Hrs",
       "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
-    },
-    {
-      "added_at": "2022-08-17 16:54:21",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -315,22 +287,6 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
         "name": "Ctrl (Deluxe)",
         "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
       },
@@ -359,6 +315,38 @@
       "duration_ms": 245933,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "Garden Kisses",
+        "url": "https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 195405,
+      "name": "Garden Kisses",
+      "url": "https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -407,22 +395,6 @@
       "duration_ms": 291400,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "Garden Kisses",
-        "url": "https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 195405,
-      "name": "Garden Kisses",
-      "url": "https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL"
     },
     {
       "added_at": "2022-12-02 10:44:11",
@@ -511,22 +483,6 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -539,6 +495,22 @@
       "duration_ms": 203240,
       "name": "CPR",
       "url": "https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -637,6 +609,22 @@
       "url": "https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe"
     },
     {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 122813,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
+    },
+    {
       "added_at": "2023-02-12 15:52:33",
       "album": {
         "name": "Comfortable",
@@ -655,18 +643,18 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 122813,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
+      "duration_ms": 262480,
+      "name": "living room flow - Bonus",
+      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -707,22 +695,6 @@
       "duration_ms": 143493,
       "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "living room flow - Bonus",
-      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -919,26 +891,6 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 157293,
-      "name": "Paradise (feat. Yung Bleu)",
-      "url": "https://open.spotify.com/track/2xc1rXfo3Yn20n7wIzmjeu"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -967,6 +919,26 @@
       "duration_ms": 233493,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "Paradise (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/2xc1rXfo3Yn20n7wIzmjeu"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1109,6 +1081,26 @@
       "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
     },
     {
+      "added_at": "2024-01-12 05:56:25",
+      "album": {
+        "name": "Full Circle: Sonic Book Two",
+        "url": "https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "duration_ms": 229838,
+      "name": "Taking Off",
+      "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
+    },
+    {
       "added_at": "2023-02-12 15:52:33",
       "album": {
         "name": "All I Have",
@@ -1125,6 +1117,26 @@
       "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Best Ever (feat. Maeta)",
+      "url": "https://open.spotify.com/track/3bBJwS2VX6G0L4wnOtrYUS"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Archives & Lullabies",
@@ -1139,26 +1151,6 @@
       "duration_ms": 131538,
       "name": "Moan",
       "url": "https://open.spotify.com/track/3xRue8c0zDkTWZ9fdDdz0u"
-    },
-    {
-      "added_at": "2023-02-02 23:24:59",
-      "album": {
-        "name": "3000\u00b0",
-        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 202755,
-      "name": "I'm Baby (ft. Jvck James)",
-      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
       "added_at": "2022-12-02 10:44:11",
@@ -1181,20 +1173,24 @@
       "url": "https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz"
     },
     {
-      "added_at": "2023-02-12 15:52:33",
+      "added_at": "2023-02-02 23:24:59",
       "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
       },
       "artists": [
         {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 245893,
-      "name": "Signs of Love Makin'",
-      "url": "https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl"
+      "duration_ms": 202755,
+      "name": "I'm Baby (ft. Jvck James)",
+      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
       "added_at": "2023-02-03 17:30:27",
@@ -1211,6 +1207,22 @@
       "duration_ms": 279360,
       "name": "Can U Handle It?",
       "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
+    },
+    {
+      "added_at": "2023-02-12 15:52:33",
+      "album": {
+        "name": "I Wanna Go There",
+        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 245893,
+      "name": "Signs of Love Makin'",
+      "url": "https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1249,6 +1261,26 @@
       "url": "https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y"
     },
     {
+      "added_at": "2024-01-12 05:56:25",
+      "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        },
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "duration_ms": 138393,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70"
+    },
+    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "PARTYMOBILE",
@@ -1263,42 +1295,6 @@
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        }
-      ],
-      "duration_ms": 193962,
-      "name": "A Night Off (feat. Lloyd)",
-      "url": "https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6"
-    },
-    {
-      "added_at": "2023-02-12 15:52:33",
-      "album": {
-        "name": "Heaux Tales, Mo' Tales: The Deluxe",
-        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "BPW",
-      "url": "https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7"
     }
   ],
   "unique_name": "Silk Sheets",

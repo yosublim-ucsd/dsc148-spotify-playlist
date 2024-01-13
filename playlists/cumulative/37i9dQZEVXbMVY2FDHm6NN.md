@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-280 songs - 16 hr 30 min
+283 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [As If It's Your Last](https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [As If It's Your Last](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) | 3:33 | 2023-03-24 | 2023-04-01 |
 | [ASAP](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:14 | 2023-07-28 | 2023-08-12 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-09-30 | 2023-03-04 |
-| [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-20 |  |
+| [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-20 | 2024-01-13 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-12-08 |  |
 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-11 | 2023-08-19 |
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-07 | 2022-10-22 |
@@ -90,6 +90,7 @@
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-09-30 | 2022-10-15 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-14 | 2023-10-21 |
 | [Letting Go](https://open.spotify.com/track/6FSOibqLCbhFrmGdqMbwiZ) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [說到愛](https://open.spotify.com/album/4yAISmg3ZMOxPM3t4wTrVn) | 4:23 | 2022-09-30 | 2023-11-04 |
+| [Like I Do](https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ) | [Like I Do](https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ) | 2:29 | 2024-01-12 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-09-30 | 2022-12-19 |
 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-11-03 | 2023-11-11 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-18 |  |
@@ -132,7 +133,7 @@
 | [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-07-14 | 2023-07-29 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-08 | 2023-12-09 |
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-19 | 2023-07-08 |
-| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-10 |  |
+| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-10 | 2024-01-13 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-01-27 | 2023-06-24 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2022-09-30 | 2023-02-01 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-02-03 | 2023-02-11 |
@@ -196,6 +197,7 @@
 | [又到天黑](https://open.spotify.com/track/2TYYKysNZDTFzrm7Mr443o) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:49 | 2023-02-17 | 2023-03-11 |
 | [又到天黑](https://open.spotify.com/track/3uvoZKtpufJ9F2ETKGPlh5) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [又到天黑](https://open.spotify.com/album/0BJ6iLH2EvtD0ukvsReMAp) | 4:50 | 2023-02-10 | 2023-02-18 |
 | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [赵露思](https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv) | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX) | 3:14 | 2023-07-14 | 2023-08-05 |
+| [听说你](https://open.spotify.com/track/4PKU5mPzC5lEDOLvVJ04As) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs), [李艺皓](https://open.spotify.com/artist/3RkdkgucsJ7p8wSphxSHT8) | [听说你](https://open.spotify.com/album/4uxaFMLh7LkIAWWAWDwulj) | 3:59 | 2024-01-12 |  |
 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 | 2023-10-13 | 2023-11-11 |
 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 | 2022-09-30 | 2023-03-04 |
 | [喜歡你](https://open.spotify.com/track/3492WnE9Bt9Ek20mpe60o2) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [喜歡你](https://open.spotify.com/album/28K6BO4fYxKi3xD6sgQWWb) | 2:22 | 2023-12-15 |  |
@@ -248,7 +250,7 @@
 | [最好的時光](https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:55 | 2023-07-07 | 2023-10-28 |
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-09-30 |  |
 | [最後一次心碎](https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [最後一次心碎](https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD) | 2:48 | 2022-11-25 | 2022-12-10 |
-| [最後一次心碎](https://open.spotify.com/track/5a0LiXM4FmxsR5zj8CDKLo) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [去妳的假日](https://open.spotify.com/album/0xfotxxAto1JKcCwrI0oZv) | 2:48 | 2023-12-22 |  |
+| [最後一次心碎](https://open.spotify.com/track/5a0LiXM4FmxsR5zj8CDKLo) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [去妳的假日](https://open.spotify.com/album/0xfotxxAto1JKcCwrI0oZv) | 2:48 | 2023-12-22 | 2024-01-13 |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2022-11-04 | 2023-12-30 |
 | [毒药](https://open.spotify.com/track/60PL1vtOCFBXwwZeQlVHN9) | [周星星](https://open.spotify.com/artist/21G0EtHm49HAvOa0Au4PMp) | [毒药](https://open.spotify.com/album/6h13XN1vwTxWQTaxuWogGg) | 3:35 | 2023-09-22 | 2023-10-14 |
 | [毒藥](https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [狂人](https://open.spotify.com/album/0fJuIuYXDPonlFi7gUe3ol) | 3:25 | 2023-04-28 |  |
@@ -258,6 +260,7 @@
 | [為你寫下這首情歌](https://open.spotify.com/track/7nQUCbkxmQpuhXLugmLffu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [為你寫下這首情歌](https://open.spotify.com/album/7clyQmQE4BgF0XULsArbiZ) | 4:01 | 2022-12-23 | 2023-01-21 |
 | [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-03 |  |
 | [白日夢](https://open.spotify.com/track/5zpFUmekUFVlDjKDTuCbtl) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:44 | 2023-05-26 | 2023-06-10 |
+| [真心話](https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 4:03 | 2024-01-12 |  |
 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 | 2022-12-30 |  |
 | [石橋](https://open.spotify.com/track/1GSaEKLXJMbgS25vLiC1or) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [安泰](https://open.spotify.com/album/3HA5af27JDxCKKncQpdNLY) | 3:40 | 2023-04-07 | 2023-07-01 |
 | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/track/3eab5IX1gKr3UOfk3zV06e) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/album/5Y6JkAQCHC2TYmkzMNzPwi) | 4:06 | 2022-11-18 | 2022-12-10 |

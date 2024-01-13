@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,298 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,303 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 |
 | 17 | [Ganadora](https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:56 |
 | 18 | [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 |
-| 19 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
-| 20 | [Adentro](https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
+| 19 | [Adentro](https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
+| 20 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
 | 21 | [Me Enamore De Mi](https://open.spotify.com/track/5Ollqs3igkGH8yxiAyCjj1) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 2:48 |
 | 22 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 |
 | 23 | [El Compromiso](https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 2:51 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 26 | [Kintsugi](https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Kintsugi](https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J) | 3:15 |
 | 27 | [Ice](https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Ice](https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR) | 4:15 |
 | 28 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 |
-| 29 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
-| 30 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
+| 29 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
+| 30 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
 | 31 | [Naughty Girl](https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 |
 | 32 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
 | 33 | [YA NO SOY TU BABY](https://open.spotify.com/track/3AIZ7XY0YxZHJ2Ao6d0YSg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [YA NO SOY TU BABY](https://open.spotify.com/album/3nkkxVQVdD6LrC0pxPhJY3) | 2:52 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 40 | [Loba](https://open.spotify.com/track/2ZsaELRssZxDlUYcGu7tTK) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Loba](https://open.spotify.com/album/4NADnupTb3PMgvlU5sxSSv) | 3:16 |
 | 41 | [Centenas De Miles De Años](https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Centenas De Miles De Años](https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9) | 3:12 |
 | 42 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 |
-| 43 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
-| 44 | [Al Fin Te Encontre](https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy) | [Camila Silva](https://open.spotify.com/artist/729RhSgVpFUGyfQpiRHadP) | [Camila Silva](https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y) | 3:23 |
+| 43 | [Al Fin Te Encontre](https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy) | [Camila Silva](https://open.spotify.com/artist/729RhSgVpFUGyfQpiRHadP) | [Camila Silva](https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y) | 3:23 |
+| 44 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
 | 45 | [Qué Más Quieres de Mí](https://open.spotify.com/track/4ja24P4mH0J8YijrErAQAh) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 5:10 |
 | 46 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
 | 47 | [El Regalito](https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [El Regalito](https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl) | 2:31 |
-| 48 | [Jugando Con Fuego](https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
+| 48 | [A Veces Tú](https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Maleza](https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd) | 3:28 |
 | 49 | [Bendiciones](https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Bendiciones](https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p) | 2:53 |
-| 50 | [A Veces Tú](https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Maleza](https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd) | 3:28 |
+| 50 | [Jugando Con Fuego](https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
 
-Snapshot ID: `MCxmMmY5NjQ2NDgwNmIxNjhkYWFkOWQwNjMyMzFjMTY0ZTIxNzU1MjI2`
+Snapshot ID: `MCw0ZmJlMDdjYmMxMzA5ODlhOWUyNWZlY2U2ZWRlODFkYzlkZTNlMDQ3`

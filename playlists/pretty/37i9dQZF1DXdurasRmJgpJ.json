@@ -1,12 +1,12 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 273327,
+  "num_followers": 273519,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzEzNTM0YTc5ZGNjMjhjODlhY2Y5MDUxYWY0ZGY1ZmRlZGIzZDI1",
+  "snapshot_id": "MCw4YzEwODE0ODhlY2Y3NjY2ZmZjZTNkNzViMWIzZGIyZWNmYTBjNjk0",
   "tracks": [
     {
       "added_at": "2024-01-10 15:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 173134,
-      "name": "FLOWER",
-      "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
-    },
-    {
-      "added_at": "2024-01-10 15:00:00",
-      "album": {
         "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
       },
@@ -623,18 +607,34 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+        "name": "ME",
+        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         }
       ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+      "duration_ms": 173134,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
+    },
+    {
+      "added_at": "2024-01-10 15:00:00",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2024-01-10 15:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2024-01-10 15:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
-    },
-    {
-      "added_at": "2024-01-10 15:00:00",
-      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "added_at": "2024-01-10 15:00:00",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
     },
     {
       "added_at": "2024-01-10 15:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
-        "name": "\u52c7\u8005",
-        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 194164,
-      "name": "\u52c7\u8005",
-      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
-    },
-    {
-      "added_at": "2024-01-10 15:00:00",
-      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 189772,
       "name": "Show",
       "url": "https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN"
+    },
+    {
+      "added_at": "2024-01-10 15:00:00",
+      "album": {
+        "name": "\u52c7\u8005",
+        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 194164,
+      "name": "\u52c7\u8005",
+      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
     },
     {
       "added_at": "2024-01-10 15:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 203216,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
-    },
-    {
-      "added_at": "2024-01-10 15:00:00",
-      "album": {
         "name": "\u4e00\u9014",
         "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 190606,
       "name": "\u4e00\u9014",
       "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "added_at": "2024-01-10 15:00:00",
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "added_at": "2024-01-10 15:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
-        "name": "Mainstream",
-        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+        "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
+        "url": "https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI"
       },
       "artists": [
         {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 207053,
-      "name": "Mainstream",
-      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
+      "duration_ms": 242912,
+      "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
+      "url": "https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM"
     },
     {
       "added_at": "2024-01-10 15:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
-        "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
-        "url": "https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI"
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 242912,
-      "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
-      "url": "https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM"
+      "duration_ms": 207053,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
     },
     {
       "added_at": "2024-01-10 15:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-01-10 15:00:00",
       "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "Life Is Still Going On",
+      "url": "https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0"
+    },
+    {
+      "added_at": "2024-01-10 15:00:00",
+      "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
       },
@@ -1479,6 +1495,22 @@
       "duration_ms": 166946,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+    },
+    {
+      "added_at": "2024-01-10 15:00:00",
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
       "added_at": "2024-01-10 15:00:00",
@@ -1499,38 +1531,6 @@
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
-    },
-    {
-      "added_at": "2024-01-10 15:00:00",
-      "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "Life Is Still Going On",
-      "url": "https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0"
-    },
-    {
-      "added_at": "2024-01-10 15:00:00",
-      "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
       "added_at": "2024-01-10 15:00:00",

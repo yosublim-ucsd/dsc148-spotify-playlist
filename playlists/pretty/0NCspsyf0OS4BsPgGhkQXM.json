@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2042061,
+  "num_followers": 2039078,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQzODcsMzc4MDRiMzc2ZWE5MzllNzMzYWU4MWZjNTYxM2I1ZjYxZmVmM2IyNw==",
+  "snapshot_id": "MTQzOTMsMzIwYjQyZmVkMTQ5MjMzZDhhMDc3MGVlZWE5NTZiY2M2YTdmNTZhYw==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -321,6 +321,30 @@
       "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
     },
     {
+      "added_at": "2024-01-12 19:33:25",
+      "album": {
+        "name": "Outta my head",
+        "url": "https://open.spotify.com/album/0xsbdCQqV9Rl4K0d82aOe0"
+      },
+      "artists": [
+        {
+          "name": "Omido",
+          "url": "https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh"
+        },
+        {
+          "name": "Rick Jansen",
+          "url": "https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz"
+        },
+        {
+          "name": "Ordell",
+          "url": "https://open.spotify.com/artist/1sQcw2YF60pAu0HYJzUhKN"
+        }
+      ],
+      "duration_ms": 161772,
+      "name": "Outta my head",
+      "url": "https://open.spotify.com/track/1joXqptvn9OgoDbXA1S3p7"
+    },
+    {
       "added_at": "2023-12-08 18:59:19",
       "album": {
         "name": "Jinx",
@@ -523,6 +547,30 @@
       "duration_ms": 250285,
       "name": "Blue KNY Factory Remix - KNY Factory Remix",
       "url": "https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2"
+    },
+    {
+      "added_at": "2024-01-12 16:18:58",
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 132682,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -1655,6 +1703,26 @@
       "duration_ms": 217411,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
+    },
+    {
+      "added_at": "2024-01-12 16:30:52",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/7dPKU6ZFLyksrpl91GSiCw"
+      },
+      "artists": [
+        {
+          "name": "GRNVLR",
+          "url": "https://open.spotify.com/artist/4aaQYGwOiRziwpCHESkOT7"
+        },
+        {
+          "name": "Zy\u00f8n",
+          "url": "https://open.spotify.com/artist/3AprVFRf5ymyrlzuHrLPsQ"
+        }
+      ],
+      "duration_ms": 126269,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0TxC0eTLobYUCFKoFDnzAJ"
     },
     {
       "added_at": "2023-11-11 04:51:47",

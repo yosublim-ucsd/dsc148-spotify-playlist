@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,603 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,629 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 52 | [Eterno Amor](https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Eterno Amor](https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg) | 4:08 |
 | 53 | [Canción de Lejos](https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:49 |
 | 54 | [Al Soñarte](https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Los Del Portezuelo](https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47) | 3:23 |
-| 55 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
+| 55 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
 | 56 | [Tanto Amor](https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Tanto Amor](https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5) | 3:46 |
-| 57 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
+| 57 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
 | 58 | [Quisiera](https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 4:09 |
 | 59 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
 | 60 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 71 | [Serenata Otoñal / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoración / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila](https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Serenata Otoñal / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoración / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila](https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0) | 12:38 |
 | 72 | [Nunca Olvides](https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 3:53 |
 | 73 | [No Dejare de Amarte](https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Fe](https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu) | 4:08 |
-| 74 | [No Quisiera Quererte](https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Origen](https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK) | 3:47 |
-| 75 | [Entrega de Amor](https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Entrega de Amor](https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq) | 3:05 |
+| 74 | [Entrega de Amor](https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Entrega de Amor](https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq) | 3:05 |
+| 75 | [No Quisiera Quererte](https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Origen](https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK) | 3:47 |
 | 76 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 |
 | 77 | [Ella](https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Ella](https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J) | 3:05 |
 | 78 | [Flor Palida](https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 4:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
 | 90 | [Bien o Mal](https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Bien o Mal](https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg) | 3:30 |
 
-Snapshot ID: `MCxhNTgzMzI4NGY3ODFkMTY2OGU4MjE4YzIwOTVhNzJhMzc5OWJiNmVi`
+Snapshot ID: `MCw1ODgwZDMxODE4ZGQyMzk2NWI1YTVmYzYwZjkwODg1ZWQxYWEwYWFj`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Pepe Aguilar y Aleks Syntek en portada.",
-  "num_followers": 80586,
+  "num_followers": 80620,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYThhM2E1MDQxNDEwM2I2M2Q0NmQxZDk1ZjY3YTk0Y2JiYmUxNmFi",
+  "snapshot_id": "MCw5ZTY2NjUzOGFlOGU4NTUwMTNmZmZkM2Q2MWY2NTE4YzYxMWI3NjNj",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -835,22 +835,18 @@
     {
       "added_at": "2023-10-27 00:00:00",
       "album": {
-        "name": "A Las 3",
-        "url": "https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge"
+        "name": "sanvalent\u00edn:(",
+        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
       },
       "artists": [
         {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 162259,
-      "name": "A Las 3",
-      "url": "https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr"
+      "duration_ms": 242424,
+      "name": "sanvalent\u00edn:(",
+      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
     },
     {
       "added_at": "2023-10-27 00:00:00",
@@ -891,18 +887,22 @@
     {
       "added_at": "2023-10-27 00:00:00",
       "album": {
-        "name": "sanvalent\u00edn:(",
-        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
+        "name": "A Las 3",
+        "url": "https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 242424,
-      "name": "sanvalent\u00edn:(",
-      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
+      "duration_ms": 162259,
+      "name": "A Las 3",
+      "url": "https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr"
     },
     {
       "added_at": "2023-10-27 00:00:00",

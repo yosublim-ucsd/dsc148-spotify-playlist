@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 119999,
       "name": "omg",
       "url": "https://open.spotify.com/track/3wgNPlMJXtoc7H8o4aG9cN"
@@ -2824,6 +2824,24 @@
       "duration_ms": 148297,
       "name": "Onjo",
       "url": "https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn"
+    },
+    {
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "album": {

@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 166353,
       "name": "Chiengrat",
       "url": "https://open.spotify.com/track/0RdIxxFuZelZ9Vo2sAWZZ7"
@@ -8206,6 +8206,32 @@
       "duration_ms": 255059,
       "name": "OPPRESS\u00c9",
       "url": "https://open.spotify.com/track/19yP0Tz8r7kDTNzOa39Ksk"
+    },
+    {
+      "album": {
+        "name": "Oseille Des Francs-Ma\u00e7ons",
+        "url": "https://open.spotify.com/album/49LrhWQdrDcGQrIrFQemTw"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193070,
+      "name": "Oseille Des Francs-Ma\u00e7ons",
+      "url": "https://open.spotify.com/track/2q2LV84PZrUt7CkcmzOVeN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-103 songs - 6 hr 24 min
+104 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,10 +35,11 @@
 | [Don't Matter](https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:53 | 2022-03-14 |  |
 | [Don't Matter](https://open.spotify.com/track/12yGwtB2h9NlzeOKYfVYTF) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:53 | 2021-12-28 | 2022-03-15 |
 | [Enjoy That](https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3pk4icDs1qwl90Q2ZYPMqT) | 3:03 | 2022-08-27 | 2022-10-18 |
+| [Enjoy That](https://open.spotify.com/track/0vzRLVEArgzEl2FUHj9xYA) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/1QOorpfl2WDbirKrMsXG5D) | 3:03 | 2024-01-12 |  |
 | [Enjoy That](https://open.spotify.com/track/1r3YLVQ9Tdc8edwu5NtbX2) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK) | 3:03 | 2022-10-17 | 2023-12-20 |
 | [Enjoy That \- Remix](https://open.spotify.com/track/1daeMUyT9Tt7KTTjA50wQ5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [Enjoy That](https://open.spotify.com/album/77gBpDJwRBd1edfN7xxsNw) | 4:36 | 2023-08-13 | 2023-10-11 |
 | [Fair To You](https://open.spotify.com/track/4asiXFMoANXo6RWb8elStT) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 3:19 | 2022-03-09 | 2022-04-29 |
-| [Far Away](https://open.spotify.com/track/6hEmaiW6JJFfpbl9xivcmn) | [AMIRROR](https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Far Away](https://open.spotify.com/album/38H4x7UIrFplrNLMbauOTX) | 3:49 | 2023-11-10 |  |
+| [Far Away](https://open.spotify.com/track/6hEmaiW6JJFfpbl9xivcmn) | [AMIRROR](https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Far Away](https://open.spotify.com/album/38H4x7UIrFplrNLMbauOTX) | 3:49 | 2023-11-10 | 2024-01-13 |
 | [Gangsta Bop](https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:06 | 2022-03-18 |  |
 | [Gangsta Bop](https://open.spotify.com/track/4iGgy19GEnx8ztNomBTbHt) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:06 | 2021-12-28 | 2022-03-14 |
 | [GET MONEY](https://open.spotify.com/track/7LUYiyveoCa10mdkdFW7gZ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [GET MONEY](https://open.spotify.com/album/0Zd0IXMziasEGSDrWXRk33) | 3:41 | 2021-12-30 | 2022-09-09 |

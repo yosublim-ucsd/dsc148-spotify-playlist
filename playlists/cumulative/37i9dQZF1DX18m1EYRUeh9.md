@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-190 songs - 12 hr 41 min
+192 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Apho](https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 2:58 | 2023-08-10 | 2023-08-18 |
 | [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/5G6tjnJ2ec5NngphDaWR0w) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Zango](https://open.spotify.com/album/7ffV0jqo0UdneN6sdjNiGc) | 3:55 | 2023-08-10 | 2023-09-01 |
 | [Bad State](https://open.spotify.com/track/2V4vuCR0VyMyq2zyb0Ou0u) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Bad State](https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R) | 2:23 | 2023-10-12 | 2023-11-06 |
-| [Bad State](https://open.spotify.com/track/5CiWTX6qSqNtHIAUcRaSmS) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/1KE5ZOll4qVQTZNLOjp3qa) | 2:23 | 2023-10-19 |  |
+| [Bad State](https://open.spotify.com/track/5CiWTX6qSqNtHIAUcRaSmS) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/1KE5ZOll4qVQTZNLOjp3qa) | 2:23 | 2023-10-19 | 2024-01-13 |
+| [Bad State](https://open.spotify.com/track/60HUBKxo7tMHPLbLCEK2XQ) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd) | 2:23 | 2024-01-12 |  |
 | [balloons \(feat\. Jay Electronica & Eryn Allen Kane\)](https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:44 | 2023-08-10 | 2023-11-10 |
 | [BAM!](https://open.spotify.com/track/47ddPZaTtDaZXsSlN7odQP) | [KELSON](https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [BAM!](https://open.spotify.com/album/3St5wcjIfM2X6TunSCs8d3) | 2:12 | 2023-08-10 | 2023-09-29 |
 | [Be Easy](https://open.spotify.com/track/0NMukraEM5cTE6xRhKqJik) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Be Easy](https://open.spotify.com/album/6EM0HNbNcofoF9Ih78GS6E) | 3:59 | 2023-08-10 | 2023-09-15 |
@@ -67,6 +68,7 @@
 | [Find My Way](https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Find My Way](https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe) | 3:42 | 2023-08-10 |  |
 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 | 2023-10-13 |  |
 | [FUGAZI](https://open.spotify.com/track/5xWvtdIspTn4RK8Ki3IjtR) | [Boyboy](https://open.spotify.com/artist/3atKvJHxeZCllkWawVbmXc) | [FUGAZI](https://open.spotify.com/album/782lLDVj2EifDWu5JAgGgh) | 3:05 | 2023-08-24 |  |
+| [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 | 2024-01-12 |  |
 | [Good Hair Day \- Harvey Sutherland Remix](https://open.spotify.com/track/1iHtGA7VOlHET7JScO42vB) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Good Hair Day \(Harvey Sutherland Remix\)](https://open.spotify.com/album/6Tzr0ct0zPtuUWU5tyFg0B) | 4:27 | 2023-08-10 | 2023-09-08 |
 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 | 2023-09-28 |  |
 | [Habibi](https://open.spotify.com/track/5jnbywCzkcLKBjUqVRiJpO) | [Horatio Luna](https://open.spotify.com/artist/2J1cLnr7Zips2B4hfMxdqk) | [Habibi](https://open.spotify.com/album/4WIZcuQmryKVoltVHn7alR) | 4:22 | 2023-08-10 | 2023-08-25 |

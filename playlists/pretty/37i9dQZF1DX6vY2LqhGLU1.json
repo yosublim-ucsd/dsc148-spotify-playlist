@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
-  "num_followers": 79316,
+  "num_followers": 79288,
   "original_name": "Christmas Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTVlYzliMTZjZjZhMzljOWYwMjI0ODcwOTY5Yjc5N2MwZjdhZGMy",
+  "snapshot_id": "MCw3OGRiN2UxMTg0YjY2ZWI2MjBhM2IxNTNmMTVhOGJmYWM3MzAwNjYy",
   "tracks": [
     {
       "added_at": "2023-12-15 05:18:31",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
+        "name": "O What A King",
+        "url": "https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "O What A King",
+      "url": "https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
         "name": "Gloria (Live)",
         "url": "https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 201340,
       "name": "Joy (To the World) (feat. Ryan Ellis) - [Live]",
       "url": "https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
-        "name": "O What A King",
-        "url": "https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "O What A King",
-      "url": "https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Crown Him (Glory in the Highest)",
-        "url": "https://open.spotify.com/album/16IA6igILbx316CPY6CwjP"
-      },
-      "artists": [
-        {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 312526,
-      "name": "Crown Him (Glory in the Highest)",
-      "url": "https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa",
         "url": "https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 341146,
       "name": "Come Adore The Humble King",
       "url": "https://open.spotify.com/track/5JOINq9OjzQuJLHfVC6eJx"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Crown Him (Glory in the Highest)",
+        "url": "https://open.spotify.com/album/16IA6igILbx316CPY6CwjP"
+      },
+      "artists": [
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 312526,
+      "name": "Crown Him (Glory in the Highest)",
+      "url": "https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 288920,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Good News, Great Joy",
         "url": "https://open.spotify.com/album/2gDxjKGJVyzirwudkdQJON"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 247000,
       "name": "Good News, Great Joy",
       "url": "https://open.spotify.com/track/6P8BlFm8laPgMoQgvmoMnS"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 288920,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Joy to the World",
-        "url": "https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM"
-      },
-      "artists": [
-        {
-          "name": "Chicago Mass Choir",
-          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
-        }
-      ],
-      "duration_ms": 244462,
-      "name": "Joy to the World",
-      "url": "https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Adore Him",
         "url": "https://open.spotify.com/album/06MeFxZ2kmyEzuwgxJYmi9"
       },
@@ -2015,6 +1999,42 @@
       "duration_ms": 270163,
       "name": "Adore Him",
       "url": "https://open.spotify.com/track/3dp6fAwRQ5MYNmJTWdYVhD"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM"
+      },
+      "artists": [
+        {
+          "name": "Chicago Mass Choir",
+          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
+        }
+      ],
+      "duration_ms": 244462,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Advent: Here Now",
+        "url": "https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan"
+      },
+      "artists": [
+        {
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Abby Vaughn",
+          "url": "https://open.spotify.com/artist/4km5sv7zwBA6fsuOnPsEJn"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "Prince of Peace (feat. Abby Vaughn)",
+      "url": "https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2047,26 +2067,6 @@
       "duration_ms": 167558,
       "name": "Great Christmas",
       "url": "https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
-        "name": "Advent: Here Now",
-        "url": "https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Abby Vaughn",
-          "url": "https://open.spotify.com/artist/4km5sv7zwBA6fsuOnPsEJn"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Prince of Peace (feat. Abby Vaughn)",
-      "url": "https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2463,26 +2463,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "O Little Town Of Bethlehem",
-        "url": "https://open.spotify.com/album/0cSQ0JTIPidDhcsIUgowRJ"
-      },
-      "artists": [
-        {
-          "name": "David Brymer",
-          "url": "https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap"
-        },
-        {
-          "name": "Chris Beland",
-          "url": "https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT"
-        }
-      ],
-      "duration_ms": 325314,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Adore Him (Vineyard Worship Christmas)",
         "url": "https://open.spotify.com/album/2RCocGj4TJb3vs9goPVnVG"
       },
@@ -2499,6 +2479,26 @@
       "duration_ms": 360704,
       "name": "A Great Light",
       "url": "https://open.spotify.com/track/2AO9r5sEWxrKf1n7XwdgsS"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "O Little Town Of Bethlehem",
+        "url": "https://open.spotify.com/album/0cSQ0JTIPidDhcsIUgowRJ"
+      },
+      "artists": [
+        {
+          "name": "David Brymer",
+          "url": "https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap"
+        },
+        {
+          "name": "Chris Beland",
+          "url": "https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT"
+        }
+      ],
+      "duration_ms": 325314,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ"
     },
     {
       "added_at": "2023-12-15 05:18:31",

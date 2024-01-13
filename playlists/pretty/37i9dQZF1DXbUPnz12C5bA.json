@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar. Conmemorando la vida de Diomedes D\u00edaz este 22 de Diciembre.",
-  "num_followers": 95681,
+  "num_followers": 95715,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDUzZWU2YjQ1YmEyOWIwMjk0ZWRkOGVhYjJhOTU0NGI4NjcyZDg0",
+  "snapshot_id": "MCxhZTljZGQyZGY5NmU0MGQ2YTVlZjVlZjQyNTFjY2Q4ZGIzMDU1ZWFj",
   "tracks": [
     {
       "added_at": "2023-12-21 21:42:36",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
+        "name": "Con Aroma de Mujer",
+        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
+      },
+      "artists": [
+        {
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "Todo Daria por Ti",
+      "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
         "name": "El Caballero Del Vallenato",
         "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 247813,
       "name": "Traga'O De T\u00ed",
       "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
-        "name": "Con Aroma de Mujer",
-        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "Todo Daria por Ti",
-      "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
     },
     {
       "added_at": "2023-12-21 21:42:36",

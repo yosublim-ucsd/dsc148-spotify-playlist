@@ -1659,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "Dark Void EP",
+        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Dark Void - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
+    },
+    {
+      "album": {
         "name": "Day One (Machinedrum Remix)",
         "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
       },
@@ -6680,7 +6702,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,978 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,832 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 45 | [Bellakosa](https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN) | [Sailorfag](https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE) | [Bellakosa](https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc) | 2:53 |
 | 46 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
 | 47 | [Sueños](https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Sueños](https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V) | 3:45 |
-| 48 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
-| 49 | [no cambies tu andar](https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [no cambies tu andar](https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1) | 3:16 |
+| 48 | [no cambies tu andar](https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [no cambies tu andar](https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1) | 3:16 |
+| 49 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
 | 50 | [La Custodia](https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [La Custodia](https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb) | 3:47 |
 | 51 | [Amuleto](https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:45 |
 | 52 | [REPROGRAMAR](https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:34 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 71 | [La Noche](https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [La Noche](https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU) | 2:43 |
 | 72 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
 | 73 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
-| 74 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
-| 75 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
+| 74 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
+| 75 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
 | 76 | [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 |
 | 77 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
 | 78 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 87 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
 | 88 | [kiss my friends](https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kiss my friends](https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA) | 2:42 |
 | 89 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
-| 90 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
-| 91 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
+| 90 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
+| 91 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
 | 92 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
 | 93 | [Encontrándome](https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr), [Gamay](https://open.spotify.com/artist/2Ezs1vBEQVtHYz2OfersAa) | [Encontrándome](https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq) | 2:55 |
 | 94 | [Como Cantan Las Aves](https://open.spotify.com/track/2zMSofXM1VvN7UMxhTkGrA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Como Cantan Las Aves](https://open.spotify.com/album/12uRIWcRGrO7iNwQfRFWLP) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 99 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
 | 100 | [Pollo Frito](https://open.spotify.com/track/4cIDGn1x13O1Zva3TUu4TM) | [Diamante Merybrown](https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9), [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [Pollo Frito](https://open.spotify.com/album/4wBHZdKOUiy9QBck34QdL2) | 2:45 |
 
-Snapshot ID: `MCw2MmE0ZGQwMTUwYTI4MmRkMTViOTE2ZDg5NmJmZmY1OTJkZTczN2Zm`
+Snapshot ID: `MCwzN2MwNWJlYTJiMTZjYmIwOWJjZjY3MDRlYzA5OTU4Y2IzMzkzYzA1`

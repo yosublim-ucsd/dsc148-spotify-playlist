@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,597 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,666 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 7 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 |
 | 8 | [A Dona Aranha](https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:04 |
 | 9 | [Coração Sertanejo / Onde Haja Sol \- Ao Vivo](https://open.spotify.com/track/1lCwNTcAWUyeA210RpLCzd) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo\)](https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu) | 4:29 |
-| 10 | [Cê Não Me Superou \- Ao Vivo](https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Continua, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe) | 2:48 |
-| 11 | [Abismo](https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Abismo](https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57) | 3:27 |
+| 10 | [Abismo](https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Abismo](https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57) | 3:27 |
+| 11 | [Cê Não Me Superou \- Ao Vivo](https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Continua, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe) | 2:48 |
 | 12 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
 | 13 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 |
 | 14 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCxiMjljNzkzYzJkODc1YzE0YzRkN2NhMGZlZGRmNDk4NTczNjAzZjQ0`
+Snapshot ID: `MCxhMGQ2NWQ0NGFmMTQzN2FiYTNiNTAzYmFjODhiZmUzZDA1ZjIwYzRh`

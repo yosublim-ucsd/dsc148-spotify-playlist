@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Tedua
 
-148 songs - 7 hr 41 min
+149 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 | 2023-08-28 | 2023-09-08 |
 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 | 2022-05-03 |  |
 | [Parole di ghiaccio](https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [L'erba cattiva](https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH) | 3:51 | 2022-05-03 |  |
-| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 |  |
+| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 | 2024-01-12 |  |
+| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-13 |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-03 | 2022-07-29 |
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
 | [Password](https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:45 | 2022-11-03 |  |

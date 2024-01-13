@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: Warface
 
-727 songs - 1 day 15 hr 40 min
+728 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Alive](https://open.spotify.com/track/7pq0Ysbjxmp1dMqLEiNIHz) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Kane Scott](https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu) | [Alive](https://open.spotify.com/album/7fuqjlFjMIap3DDWz46zIV) | 2:59 | 2023-12-01 | 2023-12-30 |
 | [All Of The Lights](https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [All Of The Lights](https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov) | 4:01 | 2023-01-26 | 2023-04-21 |
 | [All Or Nothing](https://open.spotify.com/track/2fxxoz9144dKpJagVIgqcR) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [All Or Nothing](https://open.spotify.com/album/1V5KArjxaOgT16SMThlzh1) | 4:05 | 2023-06-08 | 2023-09-08 |
-| [All over Again](https://open.spotify.com/track/0LufEDayNb84PT2Vn2E7Gl) | [Summa Jae](https://open.spotify.com/artist/1fftC0CPDPyJOjJQRLRNnM), [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE) | [All over Again](https://open.spotify.com/album/2S1HbHrxjz2xZiPrnAJ06K) | 2:44 | 2024-01-11 |  |
+| [All over Again](https://open.spotify.com/track/0LufEDayNb84PT2Vn2E7Gl) | [Summa Jae](https://open.spotify.com/artist/1fftC0CPDPyJOjJQRLRNnM), [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE) | [All over Again](https://open.spotify.com/album/2S1HbHrxjz2xZiPrnAJ06K) | 2:44 | 2024-01-11 | 2024-01-13 |
+| [All Over Again](https://open.spotify.com/track/20G9QEycg5HZOsJEbB35JW) | [Summa Jae](https://open.spotify.com/artist/1fftC0CPDPyJOjJQRLRNnM), [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE) | [All Over Again](https://open.spotify.com/album/16bK5p33etOPrPTg31uRIV) | 2:44 | 2024-01-11 |  |
 | [ALLERLAATSTE FEESTJE](https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [ALLERLAATSTE FEESTJE](https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3) | 3:03 | 2023-10-06 |  |
 | [Alone](https://open.spotify.com/track/5MnWyrdtbs9iRv54D1bVvx) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Alone](https://open.spotify.com/album/1uWlyajmUxyaYhn8q6o2x1) | 2:20 | 2023-04-13 | 2023-07-14 |
 | [Alternate Identity](https://open.spotify.com/track/2q1pC7BEokX7owoPOKnr7A) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Alternate Identity](https://open.spotify.com/album/6jEORpipAoRwakwFZX9A9W) | 3:15 | 2023-03-30 | 2023-06-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,478 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,053 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 39 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 40 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 |
 | 41 | [Black Catcher](https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:16 |
-| 42 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 |
-| 43 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 |
+| 42 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 |
+| 43 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 |
 | 44 | [Call of Silence](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:58 |
 | 45 | [BLOODY STREAM](https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [BLOODY STREAM](https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW) | 4:21 |
 | 46 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 58 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
 | 59 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 |
 | 60 | [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 |
-| 61 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
+| 61 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 |
 | 62 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 |
-| 63 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 |
+| 63 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 64 | [ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [赤い罠\(who loves it?\) / ADAMAS](https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo) | 3:45 |
 | 65 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
 | 66 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 93 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 |
 | 94 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 |
 | 95 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 |
-| 96 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
-| 97 | [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 |
+| 96 | [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 |
+| 97 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 | 98 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 |
 | 99 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 |
 | 100 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
 
-Snapshot ID: `MCw4N2ZkYTc2OTc1OTA3ZTlhZjE0YTExNmVhMWJhZmU0NmUwMjdkYTg1`
+Snapshot ID: `MCwwYTBlOWM2N2Q3M2MxMDM2OWU5YjE5OTVlZWQ2Nzk4Y2FkYjk1NzRi`

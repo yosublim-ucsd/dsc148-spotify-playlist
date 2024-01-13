@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: DEAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,595 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,466 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 99 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 |
 | 100 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
 
-Snapshot ID: `MCwxMGZlZDM5ZTMxNmEyNzY5MjMxOTcwOTM5OGNiNzg0ZjExNDI1NmE5`
+Snapshot ID: `MCxiZjFlOTgzMzk5YWM5OTMyZmMzMjkxZmI4ZjJiNWMxYmI5ZjY5NTc4`

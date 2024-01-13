@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 
 > La pluma sensible detrás de tus favoritas de regional mexicano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,201 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,079 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
-| 2 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 |
+| 2 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 |
 | 3 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 |
 | 4 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
 | 5 | [Por Ejemplo \- Versión Banda](https://open.spotify.com/track/53PxyMdMIFOG4VhuA1N1bC) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Por Ejemplo](https://open.spotify.com/album/2hPh0n7Rf4pk5lrgsiTLCM) | 3:02 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 9 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
 | 10 | [Sigue](https://open.spotify.com/track/3xFlC7hbHZdXEIVDjpCbTR) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Mi Razón De Ser](https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw) | 2:17 |
 | 11 | [Una Mujer Como Tú](https://open.spotify.com/track/6hCYbclCzcFrI9BnD2VGat) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Una Mujer Como Tú](https://open.spotify.com/album/7wU69O8VpNqX6vhE4Oc0PQ) | 2:49 |
-| 12 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 |
+| 12 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 |
 | 13 | [Mi Segunda Vida](https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:07 |
 | 14 | [Tú Ya Eres Cosa Del Pasado](https://open.spotify.com/track/781lqqMzOTUPNl21JdgaLS) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Sinaloense Hasta Las Cachas](https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf) | 2:54 |
 | 15 | [Escondidos](https://open.spotify.com/track/6zTtNPcDqmpOOWmjQAVR6Z) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 99 | [De Ti Exclusivo](https://open.spotify.com/track/5jTONxXzG2oRzc6gveGELN) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Singles](https://open.spotify.com/album/3XiBZ63yqMHNklPLIiIAMx) | 3:17 |
 | 100 | [Te Prometo](https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:42 |
 
-Snapshot ID: `MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm`
+Snapshot ID: `MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4`

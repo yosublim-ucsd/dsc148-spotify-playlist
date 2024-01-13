@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2080364,
+  "num_followers": 2078528,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjQyZTU3Njk5YmNmODA1NjEyMDk5NDkxMDA1YzgzNTJkMTczNzFj",
+  "snapshot_id": "MCw5NTM4ZmI5ZmFhOTM5ZGE3Y2UzMGI2ODJkMGQwNWRmNDZjZjllODc3",
   "tracks": [
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 214666,
       "name": "Heart's Content",
       "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 210895,
       "name": "Take Some Time",
       "url": "https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Be OK",
         "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 148080,
       "name": "Be OK",
       "url": "https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Lilacs",
-      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -1867,38 +1867,6 @@
       "duration_ms": 193786,
       "name": "sunday",
       "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
-        "name": "Work Hard and Be Nice",
-        "url": "https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 216098,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 206903,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1927,18 +1895,18 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+        "name": "Work Hard and Be Nice",
+        "url": "https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR"
       },
       "artists": [
         {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
         }
       ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+      "duration_ms": 216098,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1955,6 +1923,38 @@
       "duration_ms": 160006,
       "name": "A Couple Things",
       "url": "https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Stay For Something",
-        "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 216946,
-      "name": "Stay For Something",
-      "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Amidst the Chaos (Bonus Version)",
         "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Stay For Something",
+        "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 216946,
+      "name": "Stay For Something",
+      "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
     },
     {
       "added_at": "2023-11-10 19:54:35",

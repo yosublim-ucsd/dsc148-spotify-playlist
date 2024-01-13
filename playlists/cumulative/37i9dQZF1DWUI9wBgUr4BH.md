@@ -4,7 +4,7 @@
 
 > Les hits de demain sont déjà ici\. Photo : Lil Nas X
 
-224 songs - 11 hr 5 min
+225 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-27 | 2023-09-06 |
 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 | 2023-11-09 | 2023-12-08 |
 | [XOXO](https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [XOXO](https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N) | 3:03 | 2023-11-23 |  |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-24 |
 | [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-10-20 | 2023-12-08 |
 | [You Don't Ignore \(Too Late\)](https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You Don't Ignore \(Too Late\)](https://open.spotify.com/album/5zzxMokPf1XRxfM1n6NnFB) | 3:10 | 2023-07-27 | 2023-09-01 |

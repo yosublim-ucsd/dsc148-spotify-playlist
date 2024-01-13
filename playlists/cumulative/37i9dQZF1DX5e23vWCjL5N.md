@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Guè
 
-148 songs - 7 hr 57 min
+149 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Non Parlarmi \(Outro\)](https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Non Parlarmi \(Outro\)](https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB) | 3:31 | 2023-11-30 |  |
 | [Outro Purgatorio](https://open.spotify.com/track/4FN1moouQXRI7k6Gs3rDZl) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 4:44 | 2023-06-01 |  |
 | [OUV3RTURE](https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [OUV3RTURE](https://open.spotify.com/album/67H0MkQF8hYsPkh69BcdkM) | 2:52 | 2022-04-15 |  |
-| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 |  |
+| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 | 2024-01-12 |  |
+| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-13 |
 | [Peccati](https://open.spotify.com/track/26VKv5ZFXCdpF54mfoH4MS) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:16 | 2023-11-30 |  |
 | [Players Club '23 \(Knights of the Posse\) \(feat\. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi\)](https://open.spotify.com/track/2tlHNbWsOphjepsOTyv55Y) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Players Club '23 \(Knights of the Posse\) \(feat\. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi\)](https://open.spotify.com/album/1Df8xOZdbcPDUdOPsTrEVC) | 5:58 | 2023-04-21 | 2023-05-05 |
 | [Pochette \(feat\. Noyz Narcos\)](https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 |  |

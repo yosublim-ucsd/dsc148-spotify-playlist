@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-267 songs - 10 hr 47 min
+268 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Blinds](https://open.spotify.com/track/6H91Px6JI4cnXDxLMH7Pja) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/2QJjsfcyX01dtcSQhmfBgv) | 2:39 | 2020-11-12 |  |
 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 | 2020-11-12 | 2023-09-16 |
 | [bloom](https://open.spotify.com/track/2xiOB4lyPl1V9901Gv3UDv) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [bloom EP](https://open.spotify.com/album/7aFj2Ju5lZVHRFvYRqNzYp) | 2:12 | 2023-10-27 |  |
-| [Blossom](https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Blossom](https://open.spotify.com/album/3uaI4KOw8ZLAOxuHMEdk8F) | 2:40 | 2022-03-18 | 2024-01-12 |
+| [Blossom](https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Blossom](https://open.spotify.com/album/3uaI4KOw8ZLAOxuHMEdk8F) | 2:40 | 2022-03-18 |  |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-10-27 |  |
 | [Blue Haze](https://open.spotify.com/track/1mxjvX6NeHYGSW7bpgtRfy) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/45VGwNszNhpqKcYgo3dpZg) | 2:37 | 2020-11-12 | 2023-10-29 |
 | [blue haze](https://open.spotify.com/track/5465onzVgsFEbvIylMC0Cc) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/58CozCODSGKsDCPzjO0rw5) | 2:37 | 2020-11-12 | 2022-11-20 |
@@ -49,7 +49,7 @@
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 |  |
 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 | 2020-11-12 | 2024-01-12 |
 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 | 2023-10-27 |  |
-| [calathea](https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [calathea](https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd) | 1:46 | 2024-01-12 |  |
+| [calathea](https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [calathea](https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd) | 1:46 | 2024-01-12 | 2024-01-13 |
 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 | 2023-10-27 |  |
 | [calm the mind](https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [calm the mind](https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S) | 2:22 | 2023-10-27 |  |
 | [cat's meow](https://open.spotify.com/track/21SuoiM0AgOCdQmt2umHuP) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6tSQljcscqaCqsCBetZbHP) | 1:33 | 2020-11-12 | 2022-07-29 |
@@ -137,6 +137,7 @@
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2023-10-27 |  |
 | [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 | 2020-11-12 |  |
 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2023-10-27 |  |
+| [Level 2](https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Level 2](https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr) | 3:11 | 2024-01-12 |  |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-10-27 |  |
 | [lightweight](https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [lightweight](https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD) | 2:00 | 2023-10-27 |  |
 | [Lofi Jazz Beat](https://open.spotify.com/track/5eIHjYXJqCYHgTWqd5boz1) | [Dan Dinero](https://open.spotify.com/artist/0KM3ubPiglpZ7jsJsvywps), [letmechill](https://open.spotify.com/artist/3MruTrdkzhB7TlstDmRhF6), [Lofi Radio](https://open.spotify.com/artist/0MQ5Kh5Tg64RUWtucOB965) | [Lofi Jazz Beat](https://open.spotify.com/album/6tD9gk6nNl9GOJW3YLtJjZ) | 1:40 | 2022-05-27 | 2022-12-08 |
@@ -211,7 +212,7 @@
 | [Single Phial](https://open.spotify.com/track/0ShdJEt3nvxq8WNDgYLzWm) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:43 | 2020-11-12 | 2023-09-16 |
 | [Single Phial](https://open.spotify.com/track/58THvMRNJ37sxB2g8p5Z5E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX) | 1:43 | 2020-11-12 | 2023-12-15 |
 | [Single Phial](https://open.spotify.com/track/67R6DqIitHxBe2wJYC0FZK) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/6XyaVDkZeCWf14x0eESZdl) | 1:43 | 2020-11-12 | 2022-07-29 |
-| [Sleep Under My Eyes](https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Sleep Under My Eyes](https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz) | 2:18 | 2024-01-12 |  |
+| [Sleep Under My Eyes](https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Sleep Under My Eyes](https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz) | 2:18 | 2024-01-12 | 2024-01-13 |
 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 | 2023-10-27 |  |
 | [slow move](https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [slow move](https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf) | 2:22 | 2023-10-27 |  |
 | [SLOWLY](https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ) | [Sorsele](https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw) | [Slowly](https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej) | 2:19 | 2023-10-27 |  |

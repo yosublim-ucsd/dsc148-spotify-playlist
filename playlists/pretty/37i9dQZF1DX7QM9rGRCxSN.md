@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,121 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,139 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 15 | [Ver a Través de tus Ojos](https://open.spotify.com/track/1vyqlRBQeFFfbL1l6d43yD) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Ver a Través de tus Ojos](https://open.spotify.com/album/3LyFxQOJRwWCzhHjqp4fHL) | 2:40 |
 | 16 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 |
 | 17 | [Purpura](https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 2:54 |
-| 18 | [Jupiter and Beyond the Infinite](https://open.spotify.com/track/3ZrFLt8CMFvkccp9a0tcHe) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK), [Erik Urano](https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN) | [Jupiter and Beyond the Infinite](https://open.spotify.com/album/0Ja2oZzhaZlxHck3liBo9I) | 3:55 |
-| 19 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
+| 18 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
+| 19 | [Jupiter and Beyond the Infinite](https://open.spotify.com/track/3ZrFLt8CMFvkccp9a0tcHe) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK), [Erik Urano](https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN) | [Jupiter and Beyond the Infinite](https://open.spotify.com/album/0Ja2oZzhaZlxHck3liBo9I) | 3:55 |
 | 20 | [violeta](https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [violeta](https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI) | 2:45 |
 | 21 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 22 | [Santos Que Yo Te Pinte](https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Unidad De Desplazamiento](https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz) | 4:39 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 26 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
 | 27 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 28 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
-| 29 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
-| 30 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
+| 29 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
+| 30 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
 | 31 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
 | 32 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
 | 33 | [Especial](https://open.spotify.com/track/1nkXSpEZCAHEI7yTxm5ZZp) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/5KeUNMEECvCWzmtJSmXprZ) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
 | 50 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
 
-Snapshot ID: `MCxmODQ2NjY2ODU0YzRlMTdkNmRmOTk1MzYyNjA0NzNjNTljOThiOWUy`
+Snapshot ID: `MCw2ZmE5YmJhZTY1N2NiMWVjMzA5ZjgxYTlkNTM5ZjZiMzc3MmIxY2Zm`

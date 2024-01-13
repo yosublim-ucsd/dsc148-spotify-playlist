@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,267 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,360 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 36 | [La Burra Orejona](https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Las Mamirriquis](https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I) | 2:44 |
 | 37 | [Arriba Pichataro \(En Vivo\)](https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:25 |
 | 38 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
-| 39 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 |
+| 39 | [El Torito de Petate \- La Fiesta del Carnaval](https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [Y Seguimos Loqueando!](https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq) | 4:04 |
 | 40 | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv) | 4:37 |
-| 41 | [El Torito de Petate \- La Fiesta del Carnaval](https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [Y Seguimos Loqueando!](https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq) | 4:04 |
-| 42 | [El Huitzuqueño](https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko \(Serie Titanium\)](https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo) | 3:07 |
+| 41 | [El Huitzuqueño](https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko \(Serie Titanium\)](https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo) | 3:07 |
+| 42 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 |
 | 43 | [La Conga Roja \(En Vivo\)](https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:55 |
 | 44 | [Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Piña \- En Vivo](https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Banda la Fregona: Primer Aniversario \(En Vivo\)](https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4) | 7:41 |
 | 45 | [El Pistolero \- Son, Huapangobanda](https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz) | [Banda Corona de Michoacan](https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy) | [La Fiera 2018](https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg) | 3:38 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 56 | [Cinco Trancazos](https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Para Ti](https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr) | 2:46 |
 | 57 | [El Ahualoca](https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 3:34 |
 | 58 | [Popurrí Costeño: Pinotepa / San Marqueña / Son Costeño](https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ) | [La Picosa Hernández Banda](https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2) | [Una Leyenda](https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf) | 5:25 |
-| 59 | [Zapateando Con La Banda](https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Mas Zacatecano Que Nunca](https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH) | 2:34 |
-| 60 | [La Mariquita](https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [La Mariquita](https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ) | 3:18 |
-| 61 | [El Sonao](https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 4:21 |
+| 59 | [El Sonao](https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 4:21 |
+| 60 | [Zapateando Con La Banda](https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Mas Zacatecano Que Nunca](https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH) | 2:34 |
+| 61 | [La Mariquita](https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [La Mariquita](https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ) | 3:18 |
 | 62 | [Son de la Raza](https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac) | [Banda La Mera Mera](https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c) | [Son de la Raza](https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk) | 3:37 |
 | 63 | [El Pato Asado, El Ahualulco \(En Vivo\)](https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 5:25 |
 | 64 | [Carnavaleando](https://open.spotify.com/track/2J0zZ1yfeibAX3LCdJe8j9) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [¡La Mera Mera! \(10 Aniversario\) \[La Historia Continúa\]](https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK) | 5:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \(En Vivo\)](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCxmYjM1MTI4MzMwYTI2MWFhMTFiYmI2YjM5NDQ0NzhhZmY0ODVhNmY0`
+Snapshot ID: `MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1`

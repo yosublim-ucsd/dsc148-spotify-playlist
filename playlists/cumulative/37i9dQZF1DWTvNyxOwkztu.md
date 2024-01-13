@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-299 songs - 16 hr 32 min
+300 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Furui ki](https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Furui ki](https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG) | 3:05 | 2022-10-07 | 2023-04-15 |
 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 | 2023-04-14 | 2023-12-27 |
 | [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 | 2022-03-25 | 2022-07-28 |
-| [Get Down](https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Get Down](https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa) | 3:20 | 2023-04-14 |  |
+| [Get Down](https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Get Down](https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa) | 3:20 | 2023-04-14 | 2024-01-13 |
 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 | 2022-08-05 |  |
 | [Glass and Plastic \(Instrumental Version\)](https://open.spotify.com/track/2yfAkyDlAzx3zuMvgC0N9g) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Glass and Plastic](https://open.spotify.com/album/6OvqhTnUPNZ2GSPzp5x8WP) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [Glassy Haze](https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6) | [Kubicova](https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr) | [Glassy Haze](https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf) | 2:33 | 2022-11-25 | 2023-11-16 |
@@ -225,6 +225,7 @@
 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 | 2021-12-09 |  |
 | [Save Me](https://open.spotify.com/track/0b9MqeWjghs4O1cAptp2B8) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Save Me](https://open.spotify.com/album/01Ii2jp1VFeowA7DKgC9B0) | 2:46 | 2022-03-25 | 2022-04-22 |
 | [Save Me](https://open.spotify.com/track/4026Fe9zj6dpBLo8JIxyEv) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Save Me](https://open.spotify.com/album/0jbNTgNi0kQTmvmFFtXS5H) | 2:46 | 2023-06-30 |  |
+| [Saving My Love](https://open.spotify.com/track/1T4250qLd3U3QaxaiuIs1U) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Saving My Love](https://open.spotify.com/album/5Ly76xr6QfD8jin4iGITV6) | 4:52 | 2023-11-27 |  |
 | [Saving My Love](https://open.spotify.com/track/3je1VcyoT3FEH6AbttouZj) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Saving My Love](https://open.spotify.com/album/2nUiM1iTSLxDIvvohxrKl8) | 4:52 | 2022-01-21 | 2023-12-10 |
 | [Schwimmend](https://open.spotify.com/track/21h7q9ltYVFeHZKNRhqsec) | [Karl Rosskopf](https://open.spotify.com/artist/4kpLFREUgmoCqpRrAjYhRw) | [Schwimmend](https://open.spotify.com/album/4ybnnLESuLEhUtEFq1W5WP) | 4:25 | 2021-12-09 | 2022-04-22 |
 | [Sea Roses](https://open.spotify.com/track/4EruKoCJQHvgnsRMS8tf5V) | [VieVie](https://open.spotify.com/artist/0MVywHu6BOHRljtmeeUE9l) | [Sea Roses](https://open.spotify.com/album/2HcnVH4G2SeqYQpyJiBSgs) | 2:32 | 2021-12-09 | 2022-09-13 |

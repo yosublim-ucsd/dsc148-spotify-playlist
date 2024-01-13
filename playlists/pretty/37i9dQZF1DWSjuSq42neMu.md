@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 
 > todo un mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,617 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,526 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 79 | [Respuesta Cero](https://open.spotify.com/track/07piZvs54drv7466oPLTt0) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [BlueFire](https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n) | [Respuesta Cero](https://open.spotify.com/album/0WmmOyzqhYtW0Pg2Pnhwhk) | 3:23 |
 | 80 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 |
 | 81 | [Bellaquita \- Remix](https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Bellaquita \(Remix\)](https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB) | 5:04 |
-| 82 | [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 |
-| 83 | [No Te Enamores \- Remix](https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Remix\)](https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk) | 4:49 |
+| 82 | [No Te Enamores \- Remix](https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Remix\)](https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk) | 4:49 |
+| 83 | [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 |
 | 84 | [Rojo](https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rojo](https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C) | 2:30 |
 | 85 | [En Tu Cuerpo \- Remix](https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [En Tu Cuerpo \(Remix\)](https://open.spotify.com/album/4IoXqa2p31wSTnOIYppcG3) | 5:10 |
 | 86 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 99 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 |
 | 100 | [Qué Más Pues](https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:23 |
 
-Snapshot ID: `MCw0MDdkNTY3NWRkMWY0OWRhN2Y3ZmQ1MjgzZTQ0ZGY4MWFiMjVlMzNl`
+Snapshot ID: `MCwyYmM0YTBhMDI1ODZkOGViYTIwMzM5Y2I5MmI5YTI5OTAyYjYyZWZm`

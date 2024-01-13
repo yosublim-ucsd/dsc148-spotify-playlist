@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58775,
+  "num_followers": 58778,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4",
+  "snapshot_id": "MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Hymns for Eventide (Eventide Mix)",
+        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 213370,
+      "name": "Nearer My God to Thee - Eventide Mix",
+      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hymns for Eventide (Eventide Mix)",
-        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
       },
       "artists": [
         {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
         }
       ],
-      "duration_ms": 213370,
-      "name": "Nearer My God to Thee - Eventide Mix",
-      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
+      "duration_ms": 213333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -499,22 +515,6 @@
       "duration_ms": 392790,
       "name": "Like a Fire (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/67CPUTw6oKStnmrIc0En6p"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
         }
       ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
       },
       "artists": [
         {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
         }
       ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "You & I Again",
-        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 160264,
-      "name": "You & I Again",
-      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Psalm 68",
         "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 252000,
       "name": "Psalm 68",
       "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "You & I Again",
+        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "You & I Again",
+      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Echoes Of Wonder",
-        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Grunewald Church Session",
         "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 418995,
       "name": "Without Shelter",
       "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Echoes Of Wonder",
+        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "playing pretend",
-        "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "playing pretend",
-      "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Fields",
         "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 411933,
       "name": "Every Mountain View",
       "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "playing pretend",
+        "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 236546,
+      "name": "playing pretend",
+      "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "A Search for Somewhere Else",
-        "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
-      },
-      "artists": [
-        {
-          "name": "Daniel Jorgensen",
-          "url": "https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ"
-        }
-      ],
-      "duration_ms": 152444,
-      "name": "A Dream Familiar",
-      "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Love Has a Name",
         "url": "https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 270500,
       "name": "Weight of Heaven",
       "url": "https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "A Search for Somewhere Else",
+        "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jorgensen",
+          "url": "https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ"
+        }
+      ],
+      "duration_ms": 152444,
+      "name": "A Dream Familiar",
+      "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
+        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
+        "url": "https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4"
       },
       "artists": [
         {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
+          "name": "SpiritFit Music",
+          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
         }
       ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
+      "duration_ms": 346773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
-        "url": "https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4"
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
       },
       "artists": [
         {
-          "name": "SpiritFit Music",
-          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
         }
       ],
-      "duration_ms": 346773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK"
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",

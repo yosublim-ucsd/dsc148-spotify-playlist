@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 191410,
+  "2024-01-13": 191348,
   "date_first_scraped": "2023-01-19",
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
   "name": "This Is A Boogie Wit da Hoodie",
@@ -606,6 +606,28 @@
     },
     {
       "album": {
+        "name": "Head Melodies",
+        "url": "https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Head Melodies",
+      "url": "https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -871,7 +893,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 153735,
       "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"

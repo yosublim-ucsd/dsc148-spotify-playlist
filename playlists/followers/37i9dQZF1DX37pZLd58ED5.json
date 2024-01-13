@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 288693,
+  "2024-01-13": 288760,
   "date_first_scraped": "2022-05-12",
   "description": "Solo beat e rime avvolgenti. Cover: Geolier",
   "name": "Mezzanotte Chill Rap",
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 211626,
       "name": "Apnea",
       "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 198154,
       "name": "Bipolare",
       "url": "https://open.spotify.com/track/1hJdbytR4TMoQ2ZTWhpoJY"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 157168,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 164726,
       "name": "Il Salto (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/4MWheZrBYkqaDsJ57aqajS"
@@ -1547,6 +1547,24 @@
       "duration_ms": 200514,
       "name": "Immortale (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3UZkuJS1tn3jNYHcxJcNzH"
+    },
+    {
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "Indelebili",
+      "url": "https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq"
     },
     {
       "album": {
@@ -1851,6 +1869,24 @@
       "duration_ms": 188426,
       "name": "m12ano - feat. Mara Sattei",
       "url": "https://open.spotify.com/track/0LfMuWu6FKNSDHEoxHu9iK"
+    },
+    {
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168130,
+      "name": "Malafede",
+      "url": "https://open.spotify.com/track/0bSEor7VCHPuRiwyT6dvTM"
     },
     {
       "album": {
@@ -2283,6 +2319,28 @@
       "duration_ms": 160374,
       "name": "Morto Mai (Piano Solo)",
       "url": "https://open.spotify.com/track/4vuQhmBVvyy4Zau0Ypv738"
+    },
+    {
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226732,
+      "name": "Nato Per Questo (feat. Marracash)",
+      "url": "https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 282792,
+  "num_followers": 282727,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmUwODBmZTZhNjhiY2RhOWFlZmQ2NDliMzU3YTEwYzI5NjRkOGE5",
+  "snapshot_id": "MCxmYmQ5ZmExNGQwOWU5NTIwNDdiOWUzZDEwN2U3NzU1MDg1ZGU1NGY1",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Like Me, Like Me",
-        "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Like Me, Like Me",
-      "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "This Mixtape is Fire TOO",
         "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 239047,
       "name": "buttons! (with Knock2)",
       "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Like Me, Like Me",
+        "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Like Me, Like Me",
+      "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1687,7 +1687,7 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "locket",
+        "name": "Locket",
         "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
       },
       "artists": [
@@ -1697,7 +1697,7 @@
         }
       ],
       "duration_ms": 104850,
-      "name": "locket",
+      "name": "Locket",
       "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
     },
     {
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "can't get over it",
-        "url": "https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 132902,
-      "name": "can't get over it",
-      "url": "https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/6vzZymCJxleZ6bRSqACu0h"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 108140,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/7a2UmwAVHBHa9enFYVyzfm"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "can't get over it",
+        "url": "https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 132902,
+      "name": "can't get over it",
+      "url": "https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "like everyone else",
+        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "like everyone else",
+      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "love letters to u (EP)",
         "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 157377,
       "name": "love of my life",
       "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "The Great Escape Of Our Time",
-        "url": "https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 192599,
-      "name": "The Great Escape Of Our Time",
-      "url": "https://open.spotify.com/track/3mrheKW3UCynKimx0O7rEd"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2131,18 +2131,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "like everyone else",
-        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
+        "name": "The Great Escape Of Our Time",
+        "url": "https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
         }
       ],
-      "duration_ms": 201133,
-      "name": "like everyone else",
-      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
+      "duration_ms": 192599,
+      "name": "The Great Escape Of Our Time",
+      "url": "https://open.spotify.com/track/3mrheKW3UCynKimx0O7rEd"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "I Just Wanna Know",
-        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "I Just Wanna Know",
-      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 196075,
       "name": "Leave With Me",
       "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "I Just Wanna Know",
+        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "After You",
-        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
-      },
-      "artists": [
-        {
-          "name": "Julius Black",
-          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
-        }
-      ],
-      "duration_ms": 203058,
-      "name": "After You",
-      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Bloomingtale",
         "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "A PROPHECY",
-        "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
+        "name": "After You",
+        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
       },
       "artists": [
         {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+          "name": "Julius Black",
+          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
         }
       ],
-      "duration_ms": 148303,
-      "name": "BUTTERFLY \ub098\ube44",
-      "url": "https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1"
+      "duration_ms": 203058,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2327,6 +2311,22 @@
       "duration_ms": 105266,
       "name": "Where'd The Time Go?",
       "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "A PROPHECY",
+        "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 148303,
+      "name": "BUTTERFLY \ub098\ube44",
+      "url": "https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2387,6 +2387,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Don't Step On My Nikes",
+        "url": "https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Carta",
+          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Don't Step On My Nikes",
+      "url": "https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
         "url": "https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh"
       },
@@ -2411,26 +2431,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Don't Step On My Nikes",
-        "url": "https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        },
-        {
-          "name": "Carta",
-          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Don't Step On My Nikes",
-      "url": "https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Thinkin Of U",
         "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
       },
@@ -2447,6 +2447,22 @@
       "duration_ms": 121682,
       "name": "Thinkin Of U",
       "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2471,18 +2487,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
+        "name": "Summer went and came around",
+        "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
       },
       "artists": [
         {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
         }
       ],
-      "duration_ms": 145057,
-      "name": "Angst",
-      "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
+      "duration_ms": 168000,
+      "name": "Summer went and came around",
+      "url": "https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2503,22 +2519,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Summer went and came around",
-        "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
-      },
-      "artists": [
-        {
-          "name": "Kaz Moon",
-          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Summer went and came around",
-      "url": "https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "ANGEL",
         "url": "https://open.spotify.com/album/7dpjceNDgV9U67hEfAkEKO"
       },
@@ -2535,6 +2535,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Flying Fish",
         "url": "https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 181935,
       "name": "Flying Fish",
       "url": "https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "OUT OF BODY",
-        "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 127985,
-      "name": "OUT OF BODY",
-      "url": "https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w"
     }
   ],
   "unique_name": "Jasmine",

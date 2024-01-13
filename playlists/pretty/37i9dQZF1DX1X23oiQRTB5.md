@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Kerchak x Ziak au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,571 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,478,043 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [LOYAL](https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LOYAL](https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf) | 3:48 |
 | 40 | [Les Flammes](https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:13 |
 
-Snapshot ID: `MCw3MzQwZTA2MDcwYmUzNWI1YTUyYTBmNThjYTM0MzNkOTFkMmE1MDBl`
+Snapshot ID: `MCw1OGZlM2Q3ZjY2NzljOTQ3N2JkZWQ2YTM5ODNmNjViZGFiNTRkY2U2`

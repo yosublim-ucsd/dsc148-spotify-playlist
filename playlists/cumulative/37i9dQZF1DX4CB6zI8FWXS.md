@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Kali Uchis
 
-314 songs - 17 hr 2 min
+315 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2023-03-23 | 2023-05-05 |
 | [I don't care](https://open.spotify.com/track/31mcHhrlzBMtRCWdmpm2uw) | [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL), [FOFU](https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U) | [I don't care](https://open.spotify.com/album/6vx87qHXfuGHuqFpwXRSKp) | 2:36 | 2023-06-29 | 2023-07-28 |
 | [I Need U \~君に頼ってもいい?\~](https://open.spotify.com/track/5UyJogrgcVhrP3auoMpRVI) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [I Need U \~君に頼ってもいい?\~](https://open.spotify.com/album/5R0qqaGPA0rGhpmzehMjOr) | 3:37 | 2023-03-16 | 2023-03-25 |
-| [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 | 2024-01-11 |  |
+| [I Pray](https://open.spotify.com/track/2fAI3SPRCSXmR8rplvuPg9) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P) | 3:22 | 2024-01-11 |  |
+| [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 | 2024-01-11 | 2024-01-13 |
 | [I WANT U](https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [I WANT U](https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI) | 1:55 | 2023-03-16 | 2023-05-26 |
 | [I Want You Now](https://open.spotify.com/track/4DTcVyrT0du8tj6269X34o) | [TJ Jackson](https://open.spotify.com/artist/7vznzOtCXE8ZlP7E8ipg2T), [Melanie Pfirrman](https://open.spotify.com/artist/0uioawxHyc6pgvbUCq510I), [Que Parks](https://open.spotify.com/artist/4dAfBjRmZ3v6kakh2NgWpW) | [I Want You Now](https://open.spotify.com/album/5P8fMpytwAMtik2cGzjOdn) | 3:18 | 2023-10-19 | 2023-11-03 |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-03-16 | 2023-04-07 |

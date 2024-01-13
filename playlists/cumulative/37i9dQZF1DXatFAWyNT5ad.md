@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Knox
 
-694 songs - 1 day 11 hr 59 min
+696 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [All You Ever Wanted](https://open.spotify.com/track/2kBKorwFFeinUr5KwGeBmk) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [All You Ever Wanted](https://open.spotify.com/album/3b8Z3Rdgam0S8ynVeYlp1B) | 3:06 | 2022-03-24 | 2022-04-20 |
 | [All You Ever Wanted](https://open.spotify.com/track/7nX1m12HTyIyiATwrcHCUh) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 3:06 | 2022-07-07 | 2022-08-06 |
 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 | 2022-07-07 | 2023-12-16 |
-| [Already Dead](https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:39 | 2023-12-06 |  |
+| [Already Dead](https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:39 | 2023-12-06 | 2024-01-13 |
 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 | 2023-03-17 | 2023-11-21 |
 | [Alter Ego](https://open.spotify.com/track/4WkwaDueMMiU1bKHh31B6C) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Alter Ego](https://open.spotify.com/album/0C0fEWm9CaCishihwPOluu) | 4:08 | 2022-03-24 | 2022-04-21 |
 | [Amen](https://open.spotify.com/track/4NxrAZwdMG9pThRYql6MfF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Amen](https://open.spotify.com/album/31SPurHzla1Hs0x1zu6Dz4) | 2:59 | 2022-03-24 | 2022-04-21 |
@@ -92,6 +92,7 @@
 | [Big Vibe](https://open.spotify.com/track/2PngCwZWLZNCu7c0hXc4jm) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Big Vibe](https://open.spotify.com/album/0gUxDoPxN62xIQrtbWeCCS) | 3:38 | 2022-03-24 | 2022-07-19 |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2022-03-17 | 2022-07-29 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2022-07-07 | 2023-03-18 |
+| [Bitter Sweet Love](https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF) | 2:45 | 2024-01-12 |  |
 | [blame](https://open.spotify.com/track/6KiqAya4ntBbCLyH7Rf2Sk) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [The Maine](https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM) | 3:10 | 2023-08-11 |  |
 | [Bleed](https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Bleed](https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq) | 2:25 | 2023-03-17 |  |
 | [Bleeding](https://open.spotify.com/track/5VWpLgNkNFnbZPQ7BdW3lP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Bleeding](https://open.spotify.com/album/5RlbvRCxFxbLpJaJ0GUyDh) | 3:05 | 2022-03-24 | 2022-04-20 |
@@ -235,7 +236,7 @@
 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH) | 2:31 | 2022-03-17 | 2022-08-10 |
 | [Flavor of the Month](https://open.spotify.com/track/5cCuxmNLdzcPZT7hUsOQ6j) | [Hailey Haus](https://open.spotify.com/artist/5ohxvcrwDPxDTbl2fcwfUL) | [Flavor of the Month](https://open.spotify.com/album/1Uwr253jrhyi6VwSUwz5RO) | 2:20 | 2022-06-16 | 2022-07-23 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-03-17 | 2023-03-25 |
-| [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-15 |  |
+| [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-15 | 2024-01-13 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2022-03-24 | 2023-03-25 |
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2022-03-17 | 2023-03-18 |
 | [Forget to Forget You](https://open.spotify.com/track/2d72tfHrceo8IRrQYsh5Ye) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Forget to Forget You](https://open.spotify.com/album/3K5fQsYTJeax7eJ7KxQSim) | 3:24 | 2022-03-24 | 2022-04-12 |
@@ -641,6 +642,7 @@
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:11 | 2022-09-01 |  |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-09-09 |
 | [TRAVIS](https://open.spotify.com/track/7or0qYep2EYHNYOtMugkJq) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [TRAVIS](https://open.spotify.com/album/2Ot8UD3DUyO3K3zAKlZxmK) | 2:21 | 2022-03-17 | 2022-07-29 |
+| [Triumph](https://open.spotify.com/track/7lSTs6DLjCP2oqib43vyGB) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Triumph](https://open.spotify.com/album/6gnZgEs6IZaBrJWO8I6HSb) | 2:38 | 2024-01-12 |  |
 | [Trouble](https://open.spotify.com/track/2ykra0cL6PrW0LfeWCQWIs) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Trouble](https://open.spotify.com/album/73CoOwSVliNmVBwXuXM7GW) | 3:05 | 2022-03-24 | 2022-04-19 |
 | [Turn It Up \(feat\. Tommy Cash\)](https://open.spotify.com/track/1LqGBnl9m1duX1XWopugaf) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Turn It Up \(feat\. Tommy Cash\)](https://open.spotify.com/album/6QtloaQlP1TQEDBMJsTtG8) | 2:09 | 2022-03-24 | 2022-04-03 |
 | [Twinkle Twinkle](https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW) | 2:36 | 2023-09-08 | 2023-11-18 |

@@ -4,7 +4,7 @@
 
 > Open that sh\*t up!
 
-53 songs - 2 hr 13 min
+54 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Kome On](https://open.spotify.com/track/4wC7ol2740ZTBMUX8QCA3J) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mafia Musik](https://open.spotify.com/album/3S9jhXK2F3LMMKFWFs5MEU) | 2:14 | 2023-12-01 |  |
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-12-01 |  |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-12-01 |  |
+| [Lyfe](https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA) | [teefaygoo](https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV), [prodbysky](https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh) | [Lyfe \- Instrumental](https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5) | 2:55 | 2024-01-12 |  |
 | [MBGB2](https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [MBGB2](https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t) | 1:43 | 2023-12-01 |  |
 | [Miss The Rage](https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:56 | 2023-12-01 |  |
 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 | 2023-12-01 |  |
@@ -40,7 +41,7 @@
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2023-12-01 |  |
 | [Off The Map](https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [After Me](https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg) | 2:21 | 2023-12-01 |  |
 | [on dat shit](https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [on dat shit](https://open.spotify.com/album/4GA1Wxbvo1S9MBV1HYD5cE) | 2:58 | 2023-12-01 | 2024-01-06 |
-| [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2023-12-18 |  |
+| [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2023-12-18 | 2024-01-13 |
 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2023-12-01 |  |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-12-01 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/0p761VSAObNRJF855bIHRF) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:06 | 2023-12-01 |  |

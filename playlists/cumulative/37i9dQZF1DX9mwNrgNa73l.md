@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-163 songs - 18 hr 31 min
+164 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,5 +171,6 @@
 | [Ya Ali Ya Ali Haidri Haidri](https://open.spotify.com/track/3jLQPgPcY78eYpPVpKyVV5) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Ya Ali Ya Ali Haidri Haidri](https://open.spotify.com/album/7ckz2vdC4h1WI2rlm8y3ik) | 9:47 | 2023-03-16 | 2023-11-18 |
 | [Ya Nabi](https://open.spotify.com/track/1KZAeHjpdAP54WFXecMdGj) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Ya Nabi](https://open.spotify.com/album/4PssxHy2Gc54Tx8rQOiNqG) | 3:03 | 2022-06-21 | 2022-10-25 |
 | [Yeh Jo Halka Halka Suroor Hai](https://open.spotify.com/track/3nsG910SMV4odWqxMKqGRS) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers](https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp) | 23:14 | 2022-08-02 | 2022-10-25 |
+| [Zihal E Miskin](https://open.spotify.com/track/2tkaoCKZzlORo0rgu05SLA) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Adil Mansoor](https://open.spotify.com/artist/43QMyHpr3TE9pml9jYHpXl), [Ameer Khusru](https://open.spotify.com/artist/1tD31KaLQ9cOKlKCa7DQyI) | [Zihal E Miskin](https://open.spotify.com/album/6vaoawmWLkMHlNO4Fg6OHc) | 5:54 | 2024-01-12 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

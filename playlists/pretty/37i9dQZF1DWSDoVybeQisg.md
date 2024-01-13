@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,558 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,290 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 59 | [Incense And Peppermints](https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense & Peppermints](https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5) | 2:49 |
 | 60 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
 | 61 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
-| 62 | [The Sky Children](https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN) | [Kaleidoscope](https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy) | [Tangerine Dream](https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z) | 8:00 |
-| 63 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 |
+| 62 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 |
+| 63 | [The Sky Children](https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN) | [Kaleidoscope](https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy) | [Tangerine Dream](https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z) | 8:00 |
 | 64 | [Lost Women \- The Mono Album](https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 3:15 |
 | 65 | [I Walk on Guilded Splinters](https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 7:46 |
 | 66 | [San Francisco Girls \(Return Of The Native\)](https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6) | [Fever Tree](https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc) | [Fever Tree](https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6) | 4:02 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 70 | [Evil \- Single Version](https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj), [Gene Paul](https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto), [Jackson Howe](https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA) | [Cactology "The Cactus Collection"](https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ) | 3:16 |
 | 71 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
 | 72 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/27aeWRq1h65omUnS16hciN) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc) | 2:02 |
-| 73 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
-| 74 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
+| 73 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
+| 74 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
 | 75 | [Sit With The Guru](https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Wake Up...It's Tomorrow](https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm) | 3:02 |
 
-Snapshot ID: `MCxmM2MyMGY5MTQwMGNiM2E3MTI0NzYwZTFkNGJhYzczNGNhYmE3ZTU5`
+Snapshot ID: `MCw1NjA3MGIxZWM2OWM1YzRlNDRhNjI3NzlhMDM4OWM5N2M2MmYzZTdi`

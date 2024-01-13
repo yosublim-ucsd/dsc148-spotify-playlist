@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 263120,
+  "num_followers": 262950,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzMwMWQ5YjMzMjY0MjNlYzE3MDM1ZDM5ZDdlZThkMjEyMmYzYzQx",
+  "snapshot_id": "MCwwZDY3NGFkYzhhZjFhNWYxZjQwY2E5NTQyYzZmMWE3OWFkZDc4MjE5",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Human Nature (Acoustic)",
+        "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        },
+        {
+          "name": "Alex Francis",
+          "url": "https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa"
+        }
+      ],
+      "duration_ms": 227763,
+      "name": "Human Nature - Acoustic",
+      "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
         "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 132727,
       "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
       "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Human Nature (Acoustic)",
-        "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        },
-        {
-          "name": "Alex Francis",
-          "url": "https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa"
-        }
-      ],
-      "duration_ms": 227763,
-      "name": "Human Nature - Acoustic",
-      "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "Elastic Heart - Live from The Village",
+      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
         "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 138348,
       "name": "Love Me Now (feat. FAST BOY) - Acoustic",
       "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "Elastic Heart - Live from The Village",
-      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
     },
     {
       "added_at": "2023-12-01 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1077470,
+  "num_followers": 1076077,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTUwODVkYzQ3ZDQwNjA5NDllYjE2OThiZDFjNjgxMzYyNjllOWMw",
+  "snapshot_id": "MCwwMGRmZjA2MDU1ODhiOTVmNTIwMGZlNzIzZDNhZjNjZGU1MDNhMzcy",
   "tracks": [
     {
       "added_at": "2022-02-25 03:00:00",
@@ -307,6 +307,34 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
+        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "WATT",
+          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -335,34 +363,6 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
-        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "WATT",
-          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -447,30 +447,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 166451,
       "name": "Piece Of Your Heart - Alok Remix",
       "url": "https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
         "name": "Tuesday (feat. Danelle Sandoval)",
         "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 241874,
       "name": "Tuesday (feat. Danelle Sandoval)",
       "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Sour Candy (with BLACKPINK)",
-        "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "Sour Candy (with BLACKPINK)",
-      "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 159535,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "Sour Candy (with BLACKPINK)",
+        "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "Sour Candy (with BLACKPINK)",
+      "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
     },
     {
       "added_at": "2022-02-25 03:00:00",

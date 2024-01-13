@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,658 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,662 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 10 | [Emma Pearl](https://open.spotify.com/track/2emuoLR0tnu15tsP8KuHzG) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g) | [All the Way](https://open.spotify.com/album/6gXDMZMiNUz6A7BnquTxhG) | 5:36 |
 | 11 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 12 | [Mama](https://open.spotify.com/track/4qrbq2Cnq8Ns2cTcxYojge) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Here's A Blessing For You](https://open.spotify.com/album/4XrUwhhwqU5RrQG7alP4qi) | 3:04 |
-| 13 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
-| 14 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:53 |
+| 13 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:53 |
+| 14 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
 | 15 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
 | 16 | [Priceless](https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:28 |
 | 17 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 52 | [Footprints in the Sand \- Single Mix](https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:56 |
 | 53 | [Slow Down](https://open.spotify.com/track/5ih42me52UDonDOMv1gl7o) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [The Unmaking](https://open.spotify.com/album/5Hbn1AQBK8wzLX5OBe0v0x) | 3:58 |
 | 54 | [Love God Love People \- Radio Version](https://open.spotify.com/track/4AzZt81qe4U17x6LFBj10S) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Love God Love People \(Radio Version\)](https://open.spotify.com/album/1vopwBYonLDhkmOfDcJGNG) | 3:12 |
-| 55 | [Help Us To Love](https://open.spotify.com/track/6LPnHQr7o95lezO5Y6qJVE) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:45 |
+| 55 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
 | 56 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
-| 57 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
+| 57 | [Help Us To Love](https://open.spotify.com/track/6LPnHQr7o95lezO5Y6qJVE) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:45 |
 | 58 | [I Remember Mama](https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:22 |
 | 59 | [Hello Beautiful](https://open.spotify.com/track/1l8lZRPPZHthXeyZHaujqe) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 3:19 |
 | 60 | [All the Poor and Powerless](https://open.spotify.com/track/23aRQxzv8AbUOAV4czlNmp) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Brokenness Aside EP No\. 1](https://open.spotify.com/album/4vSGmXFf0i2RVYAj03pKha) | 5:42 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 84 | [Mama \(Sentimental\)](https://open.spotify.com/track/4G9s3pYrx3TgnHZa92dVON) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Mama \(Sentimental\)](https://open.spotify.com/album/57ybSKXLHW8E6Ioo96OMKM) | 3:26 |
 | 85 | [You Have Provided](https://open.spotify.com/track/00bTXTGgdFZDo46TmY52Rv) | [David Walker](https://open.spotify.com/artist/5EnYAzla5xYZmVnTyx7qv4), [10,000 Fathers](https://open.spotify.com/artist/48jeM9IfFZT9LpKKkN076l) | [You Have Provided](https://open.spotify.com/album/5eecteiGogxClzN7fKHQkE) | 3:47 |
 
-Snapshot ID: `MCw1NDVlYmIzODcwMWUwMGZjMzQwZmZhZmZjMjEwODRhZWI0NDM4YjFl`
+Snapshot ID: `MCw1NTY3YzdmNGQ4MzBhZGQzOGNiOTUwZDM5NjVjOGM3Y2NkNjQ1Nzkz`

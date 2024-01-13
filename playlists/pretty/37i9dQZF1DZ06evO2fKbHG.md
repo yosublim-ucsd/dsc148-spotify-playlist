@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,246 likes - 42 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,249 likes - 42 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 35 | [Stay Free \- Remastered](https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:40 |
 | 36 | [Armagideon Time](https://open.spotify.com/track/2hOi0U15nSrV9ueYLCtvE2) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:51 |
 | 37 | [Inoculated City \- Remastered](https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 2:42 |
-| 38 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
+| 38 | [1977](https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 1:40 |
 | 39 | [Gates of the West](https://open.spotify.com/track/62QXkCDecDXfW95CzjmegU) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Cost of Living \- EP](https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u) | 3:25 |
 | 40 | [Clash City Rockers](https://open.spotify.com/track/7KMOrq5bPFiEQPmxsYvJ2C) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:56 |
 | 41 | [All the Young Punks \(New Boots and Contracts\) \- Remastered](https://open.spotify.com/track/153E8CZ5kCe6KkCHS8mZtS) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 4:58 |
-| 42 | [1977](https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 1:40 |
+| 42 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAyNjFiNzI0MTliYjNmZDM3OTg2MjM2YmMzZDIwYWJiZQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDBlOTlhNmQ2Nzg0YjlhYTU3MGY0ZGZhZjQ2MTYwOTQ4Yw==`

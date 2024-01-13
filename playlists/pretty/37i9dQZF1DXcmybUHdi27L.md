@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 
 > Catch your biggest flex to these summer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,589 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,581 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 | 44 | [Lemon Pepper Freestyle \(feat\. Rick Ross\)](https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 6:23 |
 | 45 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 |
 | 46 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
-| 47 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
-| 48 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
+| 47 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
+| 48 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
 | 49 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 50 | [Commitment Issues](https://open.spotify.com/track/5w3CtwPT5e0k8zg2LyjvNN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Commitment Issues](https://open.spotify.com/album/0RHc0eLRmJ7dFidneiGXeX) | 2:30 |
 
-Snapshot ID: `MCxmOWMxYjQyNzNlNjk4NDI2NjcyZWVhNTI2OTIxOTViODVhYzllMTcx`
+Snapshot ID: `MCwwYTJhNTk0Y2YyM2NhODQzMDU2ODI3ODViNjg5YjhhZTBjZmY3NTc5`

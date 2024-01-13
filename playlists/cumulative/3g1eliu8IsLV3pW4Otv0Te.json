@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169990,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+    },
+    {
+      "album": {
         "name": "Blinding",
         "url": "https://open.spotify.com/album/5UIoVFQSTRve8tHCkdKCT1"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring ke onda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,099 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,093 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 57 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
 | 58 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 59 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
-| 60 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 |
-| 61 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
+| 60 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
+| 61 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 |
 | 62 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
 | 63 | [la danza de las brujas](https://open.spotify.com/track/0WVwnORcbVnUvE0ZenLa1i) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [la danza de las brujas](https://open.spotify.com/album/5G9dSXTq6rvS4J5DSyRtS1) | 4:15 |
 | 64 | [Me Gustas Tanto](https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Me Gustas Tanto](https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg) | 3:02 |
 | 65 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
 | 66 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
-| 67 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
-| 68 | [VHS](https://open.spotify.com/track/4k34WNz27uYpifsREylsyx) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [VHS](https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI) | 2:56 |
+| 67 | [VHS](https://open.spotify.com/track/4k34WNz27uYpifsREylsyx) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [VHS](https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI) | 2:56 |
+| 68 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
 | 69 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 |
 | 70 | [flores](https://open.spotify.com/track/2MoR9GfTdSDB7G7WyMHhkh) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [flores](https://open.spotify.com/album/0qouFgwgCJc7UINaEZmKYq) | 3:13 |
 | 71 | [tus mensajes](https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [clásico vol\. 1](https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 |
 | 75 | [Cuando se trata conmigo](https://open.spotify.com/track/09apv88GVTMrW6ctM8WAqU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:18 |
 
-Snapshot ID: `MCxhZTI5M2ViZDg3YjlhM2NiOGFjZmUwMDYxNGQ4YTcyODdkYWUyOGJi`
+Snapshot ID: `MCw3MDM3NjM0ZjUwYTkwNzhmNWMwNmVmZWYxNWNhMDI2OGVlNmJlYTRh`

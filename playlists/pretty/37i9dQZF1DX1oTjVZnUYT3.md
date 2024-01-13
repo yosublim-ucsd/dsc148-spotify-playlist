@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,963 likes - 57 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,931 likes - 57 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 29 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
 | 30 | [Palco](https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Luar](https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L) | 4:26 |
 | 31 | [Faixa Amarela](https://open.spotify.com/track/3Rp4m03mbhlYgIeSWNP9xm) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Hoje É Dia De Festa](https://open.spotify.com/album/4CGL4rqypX9EGhPcXcDqlp) | 4:56 |
-| 32 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 |
-| 33 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
-| 34 | [Os Alquimistas Estão Chegando Os Alquimistas](https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:15 |
+| 32 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
+| 33 | [Os Alquimistas Estão Chegando Os Alquimistas](https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:15 |
+| 34 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 |
 | 35 | [Banho de Folhas](https://open.spotify.com/track/1RJJN0Q4lAwh13t2keNEFK) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 6:29 |
 | 36 | [Não Me Entrego Pros Caretas](https://open.spotify.com/track/6pok4kgIWSBFIoPZeKrv7L) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Não Me Entrego Pros Caretas](https://open.spotify.com/album/560jeL82N1TmKINoprN8P2) | 3:16 |
 | 37 | [Meu Jeito de Amar](https://open.spotify.com/track/08HdbdAWWqSyliHjMG6XmH) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Lux & Tróia](https://open.spotify.com/artist/6Zs3uSwGgMtxNu7HKGjrgw) | [Meu Jeito de Amar](https://open.spotify.com/album/6lcjkroMzWo3lcrtT1Nfbb) | 2:48 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 50 | [Trem Das Onze](https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 3:05 |
 | 51 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
 | 52 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
-| 53 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
-| 54 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
+| 53 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
+| 54 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
 | 55 | [Vou Festejar \- Ao Vivo](https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo](https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc) | 3:15 |
 | 56 | [Velha Roupa Colorida](https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:14 |
 | 57 | [À Francesa](https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Próxima Parada](https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP) | 4:07 |
 
-Snapshot ID: `MCxkZTNmNWVjZjQzMjMwNDM3OWFjNTdkOTU3ZTkzYTJmMjFlOGEyYTIz`
+Snapshot ID: `MCw1ZWUxNTYyYjc2ZTM2ODQyOWMwZTJmOTZkYjBjZmM3YmM3NTc3OGNh`

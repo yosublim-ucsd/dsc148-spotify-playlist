@@ -1,12 +1,12 @@
 {
   "description": "(Taylor's Version)",
-  "num_followers": 531179,
+  "num_followers": 531328,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWRlZWNlYzU0YzlhNGY2YWIxZjFlMGM3YjU0YTk1YWExOGU1ZmQ1",
+  "snapshot_id": "MCwyMzhmMWJmOGYzYTQ2ZTk0N2YxZTMwMWNjYmI0ZWFiNmZiYjZhYmZk",
   "tracks": [
     {
       "added_at": "2024-01-04 02:54:50",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
-      },
-      "artists": [
-        {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "i was all over her",
-      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 229953,
-      "name": "Take Two",
-      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -1283,6 +1267,22 @@
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
     },
     {
       "added_at": "2024-01-04 02:54:50",

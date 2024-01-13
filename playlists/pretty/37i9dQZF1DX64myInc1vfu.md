@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,876 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,941 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 11 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
 | 12 | [la luna enamorada](https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:50 |
 | 13 | [Seguir Vivo No Es Vivir](https://open.spotify.com/track/24jRdELbkS9YkBiaOZs60Q) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Seguir Vivo No Es Vivir](https://open.spotify.com/album/6MipZF5QpxUVITYdqNrvea) | 3:48 |
-| 14 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 |
-| 15 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
+| 14 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
+| 15 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 |
 | 16 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
-| 17 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
-| 18 | [Gualero REFF12.31](https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Gualero REFF12.31](https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH) | 3:21 |
+| 17 | [Gualero REFF12.31](https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Gualero REFF12.31](https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH) | 3:21 |
+| 18 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
 | 19 | [Dulcito e Coco](https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:09 |
 | 20 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 |
 | 21 | [que te pedí//](https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:44 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 39 | [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 |
 | 40 | [Volverás](https://open.spotify.com/track/2KGTRMBVuBjYrsjIgBPApK) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [COMO ARRUINARTE LA VIDA](https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z) | 3:39 |
 | 41 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
-| 42 | [Loco](https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Loco](https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9) | 3:29 |
-| 43 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
+| 42 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
+| 43 | [Loco](https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Loco](https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9) | 3:29 |
 | 44 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 |
 | 45 | [Piensa en Mí](https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt) | 3:46 |
 | 46 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
 | 60 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 |
 
-Snapshot ID: `MCxkMDVmNTZlYjNlNmQzMWQzOGY0NjhkNThhYTZjNDZjYTUxOGNhMTRi`
+Snapshot ID: `MCwxMTU5MGNiZDc2MzEzNDk1YjRmYzFjN2RlMWY4NGRiNTcxYjA5Yzdm`

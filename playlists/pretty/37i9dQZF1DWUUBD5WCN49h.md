@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP?si=xnTHW\-tpR\_ql\_tcv1TnHjA"> Darkua </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,710 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,723 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 9 | [Problems](https://open.spotify.com/track/2pnNn9p4qGkSApyBeMM2Gc) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Problems](https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12) | 2:47 |
 | 10 | [Home](https://open.spotify.com/track/5XA5kCHbrnwNYGrcUXxHak) | [Shaun Mbah](https://open.spotify.com/artist/2DVTucl8LFfbSZXbMZdvWb) | [Home](https://open.spotify.com/album/38ltBimsfXSIt42l5wXP9W) | 2:53 |
 | 11 | [Maria](https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Maria](https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF) | 2:59 |
-| 12 | [Toxic Love Story \- Acoustic Version](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story \(Acoustic Version\)](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
+| 12 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
 | 13 | [Broken](https://open.spotify.com/track/3bU7GrpH4mhfJhE4TOA6NA) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [KOLLIDE](https://open.spotify.com/album/0KVVA3dYvH3ppczV0CWQdC) | 2:32 |
 | 14 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 |
 | 15 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Temptation \(Crazy\)](https://open.spotify.com/track/17dakSfRLaNL4T8GbqakLi) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd), [Lyandra](https://open.spotify.com/artist/5QD1WYJJuEmR4i1zjYeEq2) | [Aphropop Vol.2](https://open.spotify.com/album/6B62GpntVq9fI3EXBd9byX) | 2:36 |
 | 80 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 |
 
-Snapshot ID: `MCw0MWRkNGY5YmI4ZTkwMzZhZTk2YjYwODNmMDllNzUwNGMxNDYzZDJl`
+Snapshot ID: `MCwxYmFiZjY5M2FhZjJiOTU1NWU5ZTQwODE2YzhjZWUxOWY4NDg4MmRm`

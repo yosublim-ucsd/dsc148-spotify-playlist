@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: boerd & Boko Yout
 
-1,032 songs - 2 day 9 hr 6 min
+1,033 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,8 @@
 | [HIT ME WHERE IT HURTS](https://open.spotify.com/track/6fAwBpGmBPKKbzEVxr9yQp) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [HIT ME WHERE IT HURTS](https://open.spotify.com/album/41SI7xpsMBIipn4HPsWDo1) | 4:22 | 2023-09-29 | 2023-11-10 |
 | [HITA](https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [HITA](https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM) | 2:35 | 2024-01-11 |  |
 | [Ho Chi Minh](https://open.spotify.com/track/5dUgDQ6uQtbtqPYZGB3Ql6) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Ho Chi Minh](https://open.spotify.com/album/0DbBwvyGnhfdRNl8e9xq7B) | 2:03 | 2023-08-31 | 2023-10-27 |
-| [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/track/3pFYuXwv3UwhwAe0IsuyqD) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/album/1OQlENDsvmiRYDM3WTBXhy) | 3:22 | 2024-01-11 |  |
+| [Hocus Pocus](https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 3:22 | 2024-01-11 |  |
+| [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/track/3pFYuXwv3UwhwAe0IsuyqD) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/album/1OQlENDsvmiRYDM3WTBXhy) | 3:22 | 2024-01-11 | 2024-01-13 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-04 | 2023-05-19 |
 | [Hollywood Cole](https://open.spotify.com/track/6bjLhHlrrTD7ezp6DKgagN) | [Måns Glaeser](https://open.spotify.com/artist/7MYk0rmOHa5cBrHeq5J6Ct), [Basement Space](https://open.spotify.com/artist/3zUIykp07M770o2itKvysM) | [Hollywood Cole](https://open.spotify.com/album/6Xizyuy1S4enPLIwH9NdUn) | 4:05 | 2023-10-05 | 2023-10-13 |
 | [Holograms](https://open.spotify.com/track/4pVudhub5wGBFAGp8nxtXz) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Holograms](https://open.spotify.com/album/6TkBfw7hE2NCyHHidoqK0M) | 2:23 | 2022-12-08 | 2023-01-27 |

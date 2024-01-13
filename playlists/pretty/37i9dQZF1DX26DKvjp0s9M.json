@@ -1,12 +1,12 @@
 {
   "description": "The best of the best from oldies to new classics. Cover: Mac DeMarco",
-  "num_followers": 948633,
+  "num_followers": 948670,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDIyNWE0NjRmOTY5ZmI1YWFkN2Y5Y2Q5MDhlNjhkZjM4ZTBkNTE5",
+  "snapshot_id": "MCw4YTAyNjIwODQ2NjBiMjdlNjM5NzIxM2VmZTA3ZmM5ODIwOGFmM2Fi",
   "tracks": [
     {
       "added_at": "2023-04-21 01:33:59",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
-      "added_at": "2023-11-09 23:57:06",
-      "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
-    },
-    {
       "added_at": "2023-04-21 01:33:59",
       "album": {
         "name": "Don't Forget About Me, Demos",
@@ -643,6 +627,22 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2023-11-09 23:57:06",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
+      "added_at": "2023-11-09 23:57:06",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
+    },
+    {
       "added_at": "2023-04-21 01:33:59",
       "album": {
         "name": "Strange Trails",
@@ -771,22 +787,6 @@
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
-      "added_at": "2023-11-09 23:57:06",
-      "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 202653,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 262231,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
     },
     {
       "added_at": "2023-05-30 16:37:30",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     }
   ],
   "unique_name": "Essential Indie",

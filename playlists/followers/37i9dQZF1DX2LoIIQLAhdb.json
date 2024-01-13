@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 170253,
+  "2024-01-13": 170365,
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lyna Mahyem",
   "name": "R&Bae",
   "tracks": [
     {
@@ -571,7 +571,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 223073,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 154285,
       "name": "Comme toi (Acoustique)",
       "url": "https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX"
@@ -2649,6 +2649,24 @@
     {
       "album": {
         "name": "Mama",
+        "url": "https://open.spotify.com/album/7sWLVrQIi4JujdLhuNmdXB"
+      },
+      "artists": [
+        {
+          "name": "Dieson Samba",
+          "url": "https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/3mBj1U1FgqYSPFjiOw3MTO"
+    },
+    {
+      "album": {
+        "name": "Mama",
         "url": "https://open.spotify.com/album/3zGYkyHUsFj4WNxKcZ7ktn"
       },
       "artists": [
@@ -3067,10 +3085,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 182426,
       "name": "On s'fait du mal (feat. Dadju)",
       "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
+    },
+    {
+      "album": {
+        "name": "On sait jamais",
+        "url": "https://open.spotify.com/album/6s5BcLYgORt6uvUbSVb7mL"
+      },
+      "artists": [
+        {
+          "name": "Driks",
+          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168998,
+      "name": "On sait jamais",
+      "url": "https://open.spotify.com/track/3KJ09hhKE2fLIxcoLS4sAD"
     },
     {
       "album": {
@@ -3606,6 +3642,24 @@
     },
     {
       "album": {
+        "name": "PSG OM (QUAND T\u2019ES IVRE)",
+        "url": "https://open.spotify.com/album/5u8SX1dpN4wONPYmRQu5QH"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "PSG OM (QUAND T\u2019ES IVRE)",
+      "url": "https://open.spotify.com/track/1Xzoc0xyurzRuLzHODfDAC"
+    },
+    {
+      "album": {
         "name": "Quart d\u2019heure",
         "url": "https://open.spotify.com/album/7mg7WFBAuTHetVMBrvHfFR"
       },
@@ -4135,7 +4189,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 175058,
       "name": "Ta queen",
       "url": "https://open.spotify.com/track/0mc5DjPqI8lGnoybr4YU9L"
@@ -4258,6 +4312,28 @@
     },
     {
       "album": {
+        "name": "Ton ami",
+        "url": "https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Ton ami",
+      "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
+    },
+    {
+      "album": {
         "name": "Tous les m\u00eames",
         "url": "https://open.spotify.com/album/0qwV8NjYwXfFAB9lMafnSz"
       },
@@ -4291,6 +4367,24 @@
       "duration_ms": 158971,
       "name": "Tout",
       "url": "https://open.spotify.com/track/5Lz5K5wFwBIkUYnzNTEdpA"
+    },
+    {
+      "album": {
+        "name": "TPMP",
+        "url": "https://open.spotify.com/album/4Z2k0UlODEiPW49gbqL7AT"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162453,
+      "name": "TPMP",
+      "url": "https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb"
     },
     {
       "album": {

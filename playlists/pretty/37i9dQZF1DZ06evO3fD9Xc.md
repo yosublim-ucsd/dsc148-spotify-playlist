@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,996 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,968 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 13 | [Háblame de Ti](https://open.spotify.com/track/0LmqvjaR1jom4ThUPqAmgV) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 3:02 |
 | 14 | [A Lo Mejor](https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:33 |
 | 15 | [Me Hubieras Dicho](https://open.spotify.com/track/2QWxAkrTH97GmRhnaFJ6Vi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:06 |
-| 16 | [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 |
-| 17 | [Mi Razón de Ser](https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:40 |
+| 16 | [Mi Razón de Ser](https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:40 |
+| 17 | [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 |
 | 18 | [No Le Hago Falta](https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 2:33 |
 | 19 | [La Mejor Versión de Mí](https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:28 |
 | 20 | [Complicado](https://open.spotify.com/track/41nkvQRQEdwl7xXV6SOLEQ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Complicado](https://open.spotify.com/album/1ah2JVpqSNdjezgxYgmQlC) | 3:01 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 48 | [Me Va A Extrañar](https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 4:09 |
 | 49 | [Hoy Más Que Nunca](https://open.spotify.com/track/5tzFhFJLFWuuLvlqgWi7uK) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Hoy Más Que Nunca](https://open.spotify.com/album/1rDuAQCkEgIQlI8c6MIN97) | 5:56 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBhNTY0MjhhNjY0MjlkYzMxODhmMGM0ZTdiN2EwMzUxZg==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDBlOGIxYjMxODg5YzI2ODIyYmZiZTlhYjIyNmFkYThiNg==`

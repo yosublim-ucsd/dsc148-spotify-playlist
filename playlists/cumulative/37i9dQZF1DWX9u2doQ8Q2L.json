@@ -12926,7 +12926,7 @@
     {
       "album": {
         "name": "Railway",
-        "url": "https://open.spotify.com/album/5wMH0FfCB5YXgLD0x07QWQ"
+        "url": "https://open.spotify.com/album/6b7FR3UIlTfI4m8u5QaE9W"
       },
       "artists": [
         {
@@ -12941,6 +12941,28 @@
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226456,
+      "name": "Railway",
+      "url": "https://open.spotify.com/track/3fVcu9RJB3XyMxzDypFIJe"
+    },
+    {
+      "album": {
+        "name": "Railway",
+        "url": "https://open.spotify.com/album/5wMH0FfCB5YXgLD0x07QWQ"
+      },
+      "artists": [
+        {
+          "name": "OHTORA",
+          "url": "https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
       "duration_ms": 226456,
       "name": "Railway",
       "url": "https://open.spotify.com/track/7iYheHCJUnQwWe8HojM8bV"

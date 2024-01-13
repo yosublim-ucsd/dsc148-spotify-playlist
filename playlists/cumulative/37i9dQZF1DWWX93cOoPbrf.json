@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2023. El Rabbanito en portada.",
-  "name": "Corridos 2023",
+  "description": "Lo m\u00e1s fresco de la cosecha 2023. Los Dareyes de la Sierra, Tito Double P en portada.",
+  "name": "Corridos 2024",
   "tracks": [
     {
       "album": {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 167408,
       "name": "6 Colores",
       "url": "https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi"
@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 200093,
       "name": "El cantador - En vivo",
       "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
@@ -5323,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "El De Seattle",
+        "url": "https://open.spotify.com/album/7gmE1YqlmDzBnakVjOWEp5"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163714,
+      "name": "El De Seattle",
+      "url": "https://open.spotify.com/track/0WClo6HlsIYv9eVLPkvdiP"
+    },
+    {
+      "album": {
         "name": "El Del Bullying",
         "url": "https://open.spotify.com/album/6QDasIA7BuqFVNgIiKl50J"
       },
@@ -5940,7 +5958,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 161606,
       "name": "El Freddy (En Vivo)",
       "url": "https://open.spotify.com/track/4jPCeYi7uGROvnGvqdoU0s"
@@ -6716,7 +6734,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 229381,
       "name": "El Mago",
       "url": "https://open.spotify.com/track/7ljJdUGtNh7abU4idp6mYT"
@@ -7656,6 +7674,28 @@
       "duration_ms": 173806,
       "name": "El Regreso Del \"M\" Gordo",
       "url": "https://open.spotify.com/track/12tfY8R6B70c1wPOH7AAoV"
+    },
+    {
+      "album": {
+        "name": "EL RELOJITO",
+        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189027,
+      "name": "EL RELOJITO",
+      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
     },
     {
       "album": {
@@ -10627,6 +10667,28 @@
     },
     {
       "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/2xKPvHGkn4lEXbU1GHezoe"
+      },
+      "artists": [
+        {
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157915,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3XoulLjDwUr15dxttX9G5X"
+    },
+    {
+      "album": {
         "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
         "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
       },
@@ -11850,7 +11912,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 179441,
       "name": "La Urus",
       "url": "https://open.spotify.com/track/7d6KZoWfcTMOtFfGIAqfgW"
@@ -13490,6 +13552,44 @@
       "duration_ms": 212640,
       "name": "Medell\u00edn, Tierra de Grandes",
       "url": "https://open.spotify.com/track/4FmQlP25QvgeXizGc9EXOQ"
+    },
+    {
+      "album": {
+        "name": "Mente en Blanco (En Vivo)",
+        "url": "https://open.spotify.com/album/3tFIEwCvbt8XYl6vS7KCq1"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        },
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        },
+        {
+          "name": "Angel Saucedo",
+          "url": "https://open.spotify.com/artist/687gwLWI3e34xv2Blz8VAs"
+        },
+        {
+          "name": "Grupo Vanguardia",
+          "url": "https://open.spotify.com/artist/5qrmJRfUakYkbZZPXdD2FE"
+        },
+        {
+          "name": "Nueva Partida",
+          "url": "https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR"
+        },
+        {
+          "name": "Nelson Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0YWSpMQXpphjWLYt2TOdrs"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242556,
+      "name": "Mente en Blanco - En Vivo",
+      "url": "https://open.spotify.com/track/4PD9At46wz3RECvgg3WtBF"
     },
     {
       "album": {
@@ -15532,7 +15632,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 181948,
       "name": "PXRRX",
       "url": "https://open.spotify.com/track/1xlpYlfTmPKP9m6ORRuqRv"
@@ -16540,6 +16640,28 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "album": {
+        "name": "Si No Es Fresita Mejor Nada",
+        "url": "https://open.spotify.com/album/1o1uKcFxoB8JGKYLEzSy7x"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167853,
+      "name": "Si No Es Fresita Mejor Nada",
+      "url": "https://open.spotify.com/track/5vNnmrhaYgLp1GcQTqQ80e"
     },
     {
       "album": {
@@ -17639,6 +17761,24 @@
     },
     {
       "album": {
+        "name": "Trokonas",
+        "url": "https://open.spotify.com/album/1so9tNAWwyNtjBrqS6SXWz"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Ayon",
+          "url": "https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190632,
+      "name": "Trokonas",
+      "url": "https://open.spotify.com/track/0ZUAFqyhSY9aYijKDDWxa6"
+    },
+    {
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. 3",
         "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
       },
@@ -18518,7 +18658,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 200800,
       "name": "Yo Soy L\u00edder",
       "url": "https://open.spotify.com/track/6tevajwYffeYQ4oUIxEQEy"
@@ -18580,6 +18720,24 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
+    },
+    {
+      "album": {
+        "name": "Zero Miedo",
+        "url": "https://open.spotify.com/album/3gqgPjk4hr7lMdSqiNThaD"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208452,
+      "name": "Zero Miedo",
+      "url": "https://open.spotify.com/track/20FlfAVPC5gjuPDdzhvX9t"
     },
     {
       "album": {

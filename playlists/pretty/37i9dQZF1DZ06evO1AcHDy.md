@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,997 likes - 37 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,998 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 36 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
 | 37 | [Who?](https://open.spotify.com/track/2gdn1IDxIjjsiXFpfdwfRw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 2:21 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBhNDFiZjE5NjFmM2JhMTQ1NTY4YjZlZWZiNzI5NTBjMQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA2ZTRkZjY3MmExZGI5ZGRlZmFjNGI0OTg2Nzk2MzZiYQ==`

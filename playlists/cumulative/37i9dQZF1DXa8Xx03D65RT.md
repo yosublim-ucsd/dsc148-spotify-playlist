@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-756 songs - 1 day 7 hr 49 min
+757 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [die kleine Raupe](https://open.spotify.com/track/4x0UFoPofsiqTndmsZpG2h) | [Tristen Longfellow](https://open.spotify.com/artist/7peSX5RUOIXrawTG5Ax3Lv) | [die kleine Raupe](https://open.spotify.com/album/627NSKjlFXyOS3AX801vp3) | 2:37 | 2022-05-27 | 2022-07-21 |
 | [Die Spieluhr](https://open.spotify.com/track/5nhgTDW8J5y8ZsoVm58hGv) | [Sebastian Brehm](https://open.spotify.com/artist/2nateaCtBWxcGrxgNPPjoX) | [Die Spieluhr](https://open.spotify.com/album/4LeNmjBqKBkNNSlUT10knC) | 2:39 | 2022-05-27 | 2022-09-24 |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-05-27 | 2023-12-02 |
-| [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2022-05-27 |  |
+| [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2022-05-27 | 2024-01-13 |
 | [Dinant](https://open.spotify.com/track/6OMDq58l1Aj0NfutF14Kcq) | [Willa Jacobs](https://open.spotify.com/artist/3kC9ly7aDuSfEPXmPIemvc) | [Dinant](https://open.spotify.com/album/2KaWMPt1cekOlzNy3H47fG) | 2:11 | 2022-05-27 | 2023-10-02 |
 | [Distance](https://open.spotify.com/track/3NywRjjYjyrTjCvV1CcPjD) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Distance](https://open.spotify.com/album/3Jal7rGnVgw21HuUs14Knd) | 2:26 | 2022-05-27 | 2022-08-10 |
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-05-27 | 2022-08-10 |
@@ -589,6 +589,7 @@
 | [Simple Nights](https://open.spotify.com/track/5atpQjPe6EBTV3RkXyUgif) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Simple Nights](https://open.spotify.com/album/52zSWXHn5n3faaxoSStFa0) | 2:45 | 2023-07-24 |  |
 | [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 | 2022-05-27 | 2022-09-24 |
 | [Sioux](https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:06 | 2022-05-27 | 2023-05-28 |
+| [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 | 2024-01-08 |  |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-05-27 |  |
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-07-18 |  |
 | [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-03-13 | 2023-07-04 |

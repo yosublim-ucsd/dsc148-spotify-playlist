@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,477 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,769 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 45 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 |
 | 46 | [Libero](https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:06 |
 | 47 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 |
-| 48 | [Lumiere](https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Lumiere](https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3) | 2:48 |
-| 49 | [Afternoon Spirits](https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 3:31 |
+| 48 | [Afternoon Spirits](https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 3:31 |
+| 49 | [Lumiere](https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Lumiere](https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3) | 2:48 |
 | 50 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 |
 | 51 | [Shamanic](https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Shamanic](https://open.spotify.com/album/4ptdOCuO7fl9SOgnDAKHKy) | 2:43 |
 | 52 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 54 | [Softly](https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Softly](https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin) | 2:25 |
 | 55 | [Hibernia Sleep](https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:26 |
 | 56 | [Forests](https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Meadow / Forests](https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur) | 2:20 |
-| 57 | [Precious 432 hz](https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 2:40 |
-| 58 | [Sandscape](https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Sandscape](https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga) | 2:48 |
-| 59 | [Sonata Pathétique](https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 2:50 |
+| 57 | [Sandscape](https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Sandscape](https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga) | 2:48 |
+| 58 | [Sonata Pathétique](https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 2:50 |
+| 59 | [Precious 432 hz](https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 2:40 |
 | 60 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 |
 | 61 | [Minism](https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Somi](https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU) | 3:47 |
 | 62 | [Whispers](https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Whispers](https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9) | 3:08 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 67 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 |
 | 68 | [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 |
 | 69 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 |
-| 70 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 |
-| 71 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 |
+| 70 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 |
+| 71 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 |
 | 72 | [Time Capsule](https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Time Capsule](https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ) | 2:09 |
 | 73 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 |
 | 74 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 80 | [Flow](https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Flow](https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz) | 2:55 |
 | 81 | [Pavane, Op\. 50](https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 3:28 |
 | 82 | [Ali](https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p) | [Caleufu](https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4) | [Caleufu](https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12) | 2:07 |
-| 83 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 |
-| 84 | [Longevity](https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Longevity](https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ) | 3:34 |
+| 83 | [Longevity](https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Longevity](https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ) | 3:34 |
+| 84 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 |
 | 85 | [Aion](https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf) | [Kolorascze](https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ) | [Aion](https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh) | 2:04 |
 | 86 | [Bodh Gaya](https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tao of Flow](https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr) | 2:01 |
 | 87 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
 | 88 | [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 |
-| 89 | [Tensions](https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Tensions](https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh) | 2:36 |
-| 90 | [Mysterium](https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:47 |
-| 91 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
-| 92 | [Into Gratitude \- Stripped](https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Into Gratitude](https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS) | 3:07 |
+| 89 | [Mysterium](https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:47 |
+| 90 | [Tensions](https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Tensions](https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh) | 2:36 |
+| 91 | [Song For Wermland](https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4) | [Rasmus Jenzen](https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc) | [Song For Wermland](https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA) | 3:46 |
+| 92 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
 | 93 | [Aragorn](https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Tenebris](https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza) | 3:53 |
-| 94 | [Song For Wermland](https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4) | [Rasmus Jenzen](https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc) | [Song For Wermland](https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA) | 3:46 |
-| 95 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 |
-| 96 | [Liquid Air](https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:33 |
+| 94 | [Into Gratitude \- Stripped](https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Into Gratitude](https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS) | 3:07 |
+| 95 | [Liquid Air](https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:33 |
+| 96 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 |
 | 97 | [Winter Night Mist](https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Winter Night Mist](https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s) | 3:13 |
 | 98 | [Gotham \(acoustic\)](https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [Gotham](https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c) | 2:30 |
 | 99 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 |
 | 100 | [Friends for Life](https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Friends for Life](https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0) | 2:16 |
 
-Snapshot ID: `MCwzMGU4NzZiNTcxZGY0Yjg3NTE3YjJiZTMzOWIxZTU0MzlkNWU2YjE0`
+Snapshot ID: `MCw2NzUyM2M1N2MxZTk0YjA5YmYwYzg2NmQ0NDVjYjJlOThlZmU4OTBh`

@@ -627,6 +627,32 @@
     },
     {
       "album": {
+        "name": "B de Bellako",
+        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
+    },
+    {
+      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB"
       },
@@ -3331,6 +3357,28 @@
     },
     {
       "album": {
+        "name": "Ese Guille",
+        "url": "https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154462,
+      "name": "Ese Guille",
+      "url": "https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt"
+    },
+    {
+      "album": {
         "name": "Esta Vida",
         "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
@@ -3588,7 +3636,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 151612,
       "name": "FREAKY FREAKY",
       "url": "https://open.spotify.com/track/4VpTPw4gPDdhSITd3okIaZ"
@@ -4256,7 +4304,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 240000,
       "name": "INSTAL\u00c1RTELO (feat. Sleezy O & Young Gallo)",
       "url": "https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS"
@@ -7101,6 +7149,28 @@
     },
     {
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188268,
+      "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
+    },
+    {
+      "album": {
         "name": "No Me Controles",
         "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
       },
@@ -9028,7 +9098,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 393103,
       "name": "Romperte (feat. Brray, Juanka & Nio Garcia) - Remix",
       "url": "https://open.spotify.com/track/2zAjYhUMZ833CvbDeE6aSf"
@@ -9252,6 +9322,24 @@
       "duration_ms": 183414,
       "name": "Santo",
       "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+    },
+    {
+      "album": {
+        "name": "SANTOBELLAKO",
+        "url": "https://open.spotify.com/album/41HE8taCCJIQEysYp0nEzd"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156537,
+      "name": "SANTOBELLAKO",
+      "url": "https://open.spotify.com/track/1CbyWChnprjBBbPFAQXllE"
     },
     {
       "album": {
@@ -9996,7 +10084,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 161877,
       "name": "Ta Buena",
       "url": "https://open.spotify.com/track/3ABFUL12VDbwlvFvAwBnYd"

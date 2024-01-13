@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,593 likes - 56 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,669 likes - 56 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 4 | [NANGU](https://open.spotify.com/track/6MfeG4Wwwl6j8oWlPavQ2v) | [Ian Kenzof](https://open.spotify.com/artist/1uijT40SRsvnlbyFa2Zcfa), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [NANGU](https://open.spotify.com/album/6YMxy4HsHrfDveZ4QuGT5R) | 6:08 |
 | 5 | [For You](https://open.spotify.com/track/0obPwk1OrhPBYXKLfOqRl6) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [For You](https://open.spotify.com/album/3w9NkVTOW9G5pkw4l4AYQ3) | 4:02 |
 | 6 | [Ulele](https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt) | [Respect The Drumboss \(3 Step Edition\)](https://open.spotify.com/album/1gYcrQzMkSsXhmJpo7Z8eX) | 6:33 |
-| 7 | [Nwenwela](https://open.spotify.com/track/1YyCmk4ix2BwZRJg4osM2x) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY), [IRENEE S](https://open.spotify.com/artist/1doNmBGMoB2AvFsp7DHQyp), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Nwenwela](https://open.spotify.com/album/4KZH6u22G4cvO1SPHLKbmy) | 3:36 |
+| 7 | [Nwenwela](https://open.spotify.com/track/2drbYRYGC55fHOuMu12420) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY), [IRENEE S](https://open.spotify.com/artist/1doNmBGMoB2AvFsp7DHQyp), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Nwenwela](https://open.spotify.com/album/2n1pmgUzfsq8KAihRhLuKi) | 3:36 |
 | 8 | [Ntinga Ntaka](https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [THALITHA](https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg), [OBIE](https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC) | [Ntinga Ntaka](https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa) | 5:41 |
 | 9 | [Yaze Yamnandi](https://open.spotify.com/track/1KvukmWKoW88NnECROFg2y) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Deep Narratives](https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f) | [Yaze Yamnandi](https://open.spotify.com/album/7qhOVWZl80LdsOpAsc5eHc) | 7:19 |
 | 10 | [Show My Love](https://open.spotify.com/track/2mgtkgv8s7i6uDn0LSy1YA) | [Sabrina](https://open.spotify.com/artist/5xJfSowQoxaxY4DCVLTfr5), [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [Show My Love](https://open.spotify.com/album/6LbJQnb7CZptFcllASE3g2) | 5:34 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 55 | [Paradise \- Original Mix](https://open.spotify.com/track/53yxAa22DUXebnM9AgjIu2) | [MotiveSoul](https://open.spotify.com/artist/7vQ9Hj8uAGMPOaeIr8nUP2), [The Siege DJ](https://open.spotify.com/artist/39KVav2Jh3upmt7K4U5Dk1) | [Paradise](https://open.spotify.com/album/35AqDrNNmgk59eFfU1Awvf) | 7:49 |
 | 56 | [Angimazi Ubabalo](https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Terrance Motsepe](https://open.spotify.com/artist/3TRjJTgBK1Mfb9exYwiq4C), [Eltonnick](https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G) | [Angimazi Ubabalo](https://open.spotify.com/album/0zRbVHjRimy7UEN5cmWJZP) | 7:39 |
 
-Snapshot ID: `MCxjOGY1YTlhNTY4NzQ3NTc0MmU0YzM5YzUzNzc4NmQwMDVlNWIyYmNi`
+Snapshot ID: `MCw0MzgzMzZiNGI5NWIwNzFkZmNlNDYxMjE2NGJlZmI3ZDliM2IxNTMw`

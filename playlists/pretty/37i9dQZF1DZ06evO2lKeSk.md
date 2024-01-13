@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,197 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,092 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 31 | [Volver, Volver](https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:14 |
 | 32 | [Sin Problemas](https://open.spotify.com/track/4HwzXu4xaoUQUb4SFq3CPl) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:32 |
 | 33 | [Un Viejo Amor](https://open.spotify.com/track/3DReAwTPRU1HNKEhLK09iU) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:17 |
-| 34 | [Huelo a Soledad](https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Huelo a Soledad](https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe) | 4:18 |
-| 35 | [Parece Que Fue Ayer](https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:09 |
+| 34 | [Parece Que Fue Ayer](https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:09 |
+| 35 | [Huelo a Soledad](https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Huelo a Soledad](https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe) | 4:18 |
 | 36 | [Medley Ranchero: Mi Talismán/No Entiendo/Hechizo \- Altos De Chavón Live Version](https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Un Mariachi En Altos De Chavón](https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB) | 7:55 |
 | 37 | [Amigo Mío \(Homenaje a Juan Gabriel\)](https://open.spotify.com/track/0AVNZGGgCp8YCwWOZWQ2PH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:39 |
 | 38 | [Amor](https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 49 | [Paz en Este Amor](https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:31 |
 | 50 | [Pacto de Amor](https://open.spotify.com/track/1rbcpg93budzDfOKQ2CAOb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 3:22 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBjZjRjNDEzZjliZGVjZGEwMWIxZjgyMzdmZTI1Y2QwOQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA4MmNkNTE4NTc2OGUzMDIyMjZkMDIzNzE3OGE4OGFhOA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,296 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,716 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 53 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 |
 | 54 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 |
 | 55 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
-| 56 | [Kita usahakan rumah itu](https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:31 |
-| 57 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
+| 56 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
+| 57 | [Kita usahakan rumah itu](https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:31 |
 | 58 | [Rumpang](https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rumpang](https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ) | 5:23 |
 | 59 | [Fana Merah Jambu](https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 5:58 |
 | 60 | [Selimut Hati](https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 4:39 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 68 | [Semoga, Ya](https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Dadang Sh Pranoto](https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3), [Deny Surya](https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf) | [Ini Bukan Nosstress](https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy) | 3:33 |
 | 69 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
 | 70 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 |
-| 71 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
-| 72 | [Putus Atau Terus](https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Putus Atau Terus](https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW) | 4:08 |
+| 71 | [Putus Atau Terus](https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Putus Atau Terus](https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW) | 4:08 |
+| 72 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
 | 73 | [Rasa Cinta Ini](https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Rasa Cinta Ini](https://open.spotify.com/album/7G0jQf7djccY6OsKIPu3Df) | 4:01 |
 | 74 | [Pegang Tanganku](https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Perspektif Bodoh, Vol\. 2](https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1) | 5:08 |
 | 75 | [Menuju Senja](https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:06 |
 
-Snapshot ID: `MCw5NTQwMGM3NzM0M2Y0YTczNDUyYjYxZWM1MzI3MDMxMWY0ZTUzM2Uz`
+Snapshot ID: `MCwyZDhkNGU2ODdkZDZjZDFlYWQ5NDA5NzQ0ZDg5ZjZjZmI0NjZiOGNh`

@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: B1A4\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-526 songs - 1 day 5 hr 25 min
+527 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [GAMBLER](https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:33 | 2022-03-22 | 2022-04-11 |
 | [Gas Pedal](https://open.spotify.com/track/0IYOm3308cQ6drkr4M92WE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 1 \[The Awakening: Written In The Stars\]](https://open.spotify.com/album/7CtpVv2DV2DXiZxjsf6jEo) | 3:17 | 2022-02-15 | 2022-07-19 |
 | [GEMINI](https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GEMINI](https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH) | 3:46 | 2022-03-31 | 2022-04-02 |
+| [Get A Guitar](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 2:40 | 2024-01-08 |  |
 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2023-09-04 | 2023-12-09 |
 | [Get Away](https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES ‘O’ \[ROUND 1 : HALL\]](https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE) | 3:20 | 2022-03-31 | 2022-04-04 |
 | [Ghost Town](https://open.spotify.com/track/11zk9584jNu1WoxWEeMWWj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Ghost Town](https://open.spotify.com/album/04UAzxqWOm1fb63qG1G1Ng) | 3:09 | 2022-02-15 | 2022-07-18 |
@@ -235,7 +236,7 @@
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [Horololo](https://open.spotify.com/track/6u2lCxHSfDki4rhl9pkI0C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [MAGIC](https://open.spotify.com/album/2NbpxzWVFJfUuNXbIVeWhd) | 3:12 | 2022-04-04 | 2022-04-14 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-30 |  |
-| [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 |  |
+| [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 | 2024-01-13 |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
 | [HWEEK](https://open.spotify.com/track/7muY2OFMX8iuDqk1wP10kn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [4SHO](https://open.spotify.com/album/0RPXqJPuiBeXYkjpqDd7YU) | 3:18 | 2023-07-04 | 2023-07-21 |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |

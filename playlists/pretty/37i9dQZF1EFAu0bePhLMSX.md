@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561 likes - 154 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 562 likes - 154 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 1 | [Wannabe](https://open.spotify.com/track/3d9IACwloug2vIlFvdIsh0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Wannabe](https://open.spotify.com/album/7JbMuSOQlSQCYYUZovodR9) | 3:56 |
 | 2 | [Lights \- Single Version](https://open.spotify.com/track/7gUpO6td4OOnu0Lf9vhcIV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:31 |
 | 3 | [One More Sleep](https://open.spotify.com/track/2jqXzaPkPbdiXFCZIQ2RDf) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [One More Sleep \(Official Video\)](https://open.spotify.com/album/4aAbT8kUrf1fYRUPC4U8PN) | 2:47 |
 | 4 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 9 | [Lights \- Bassnectar Remix \- Bonus Track](https://open.spotify.com/track/4qxUFzBKlmP98kIRKFszju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Lights](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) | 4:36 |
 | 10 | [Viva Forever](https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 5:10 |
 | 11 | [Love at First Sight](https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t) | 3:58 |
-| 12 | [Change Your Life](https://open.spotify.com/track/1nDQ9EvOmLj1dYKRbbqcoU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:25 |
+| 12 | [Change Your Life](https://open.spotify.com/track/0swoSbCOJsRbr17YYRcmcF) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Change Your Life](https://open.spotify.com/album/0oIMhTC9WT3aQfzqck8tBL) | 3:21 |
 | 13 | [18](https://open.spotify.com/track/3CHwhGXeK1kCzxfbmoRK1d) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:09 |
 | 14 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 |
 | 15 | [Say Something](https://open.spotify.com/track/36c6rs6PqirxSqm1TVLzKl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/0KTmxgfwMFOBXmajMpjlkB) | 3:33 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 39 | [Who I Am](https://open.spotify.com/track/2cbm6J75mCLGczjTnPEyrB) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:32 |
 | 40 | [Headlines \(Friendship Never Ends\) \- Radio Version](https://open.spotify.com/track/1oDPAM1Jq4vNBWXlkUKr0C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/4YAKYUz7HDhP8J6TcxjqjE) | 3:29 |
 | 41 | [Amazing](https://open.spotify.com/track/6UkNsqoCVz68fWlq8Dez3V) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 3:59 |
-| 42 | [Heavenly](https://open.spotify.com/track/7Dq8M4iWryFiA0r6W2rZMm) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:44 |
-| 43 | [Bittersweet](https://open.spotify.com/track/5lmD16muawJeLxpEPCEre9) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p) | 3:28 |
+| 42 | [Bittersweet](https://open.spotify.com/track/5lmD16muawJeLxpEPCEre9) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p) | 3:28 |
+| 43 | [Heavenly](https://open.spotify.com/track/7Dq8M4iWryFiA0r6W2rZMm) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:44 |
 | 44 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 |
 | 45 | [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 |
 | 46 | [Please Stay](https://open.spotify.com/track/53GIGtgIkuYUDhdXoDFU0l) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 4:08 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 86 | [Stay The Same](https://open.spotify.com/track/5Xh20CzoddxdZN0yoy6lbJ) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:48 |
 | 87 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
 | 88 | [Starlite](https://open.spotify.com/track/50FsLjyg3LAjEyaw3IWt7R) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Prismophonic](https://open.spotify.com/album/5dx4v0NMzf2O6TCgfGrt0r) | 3:32 |
-| 89 | [New York City Lights](https://open.spotify.com/track/43BdxxkR8UP1pJFcwJp1hG) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic \(International Version\)](https://open.spotify.com/album/5OVV3C55OWKmHHP9eY3s74) | 3:52 |
+| 89 | [New York City Lights](https://open.spotify.com/track/4axKdZZxEJ82NuhAtCTfLu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:52 |
 | 90 | [Battlestar](https://open.spotify.com/track/4WU919gMaUvTlR7xXQHjgN) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 4:07 |
 | 91 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
 | 92 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 153 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 154 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `Mjg0MTcwOTAsMDAwMDAwMDBjZjhmYzFkYTUwYzVmZjBmZDc0N2I5ZTdkMGQ1NjA1Mw==`
+Snapshot ID: `Mjg0MTg1MzAsMDAwMDAwMDAwYzU2NTUxYzU1Y2NmNmY0ZmI5OTQyYmVjNzg1MDc3ZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,574 likes - 52 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,664 likes - 52 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 51 | [El Tony](https://open.spotify.com/track/4nPvBCUA5Oo47v4z6i1VfM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Paramos de Chambear](https://open.spotify.com/album/1ktHCfbNTgJqNskCciws97) | 3:14 |
 | 52 | [Ay mamá por dios](https://open.spotify.com/track/1GYBUOYZaFzrOJTj7vsysI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ay mamá por dios](https://open.spotify.com/album/1Vdp87oXiKBfEG6Q8CyVRS) | 3:11 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA2ZjQ0NzViMmIzZmY2NWQxMzAwMDYwN2NmNDcwNDFmNw==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAyZDg4ODEyYjJmMmIzNDM2YWQ4YjExYWFhMWI0NWFhMw==`

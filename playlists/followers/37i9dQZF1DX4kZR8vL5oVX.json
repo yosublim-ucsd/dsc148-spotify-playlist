@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 193879,
+  "2024-01-13": 193627,
   "date_first_scraped": "2022-01-21",
   "description": "Les femmes montent le son. Photo : Ad\u00e9",
   "name": "EQUAL France",
@@ -10407,6 +10407,24 @@
       "duration_ms": 163000,
       "name": "Le\u00e7on2Princess",
       "url": "https://open.spotify.com/track/1NoqnhDb5sfoVzU7uQsa18"
+    },
+    {
+      "album": {
+        "name": "Libert\u00e9",
+        "url": "https://open.spotify.com/album/28oWbTxa3wEEOyExJ1EQC4"
+      },
+      "artists": [
+        {
+          "name": "Les Frangines",
+          "url": "https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125450,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/1fGkIE1v5brFAtqg0OMik9"
     },
     {
       "album": {

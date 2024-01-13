@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,405 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,446 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 49 | [Puppets](https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Puppets](https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw) | 2:29 |
 | 50 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
 
-Snapshot ID: `MCw4MTc1MjZkOTA5ZmUyMmRmNDY1YTBlZjdjNDc2YzJhMDNiODI0YzUz`
+Snapshot ID: `MCxiYzEyM2U5NDk1OTZhNDIxZDA3OGY4MTljNGVjOTYyYzBlNjI0Yzdi`

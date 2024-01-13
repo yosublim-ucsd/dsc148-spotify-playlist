@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,573 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,564 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 3 | [Encontrarte](https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:00 |
 | 4 | [Te Cambio El Domicilio](https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:12 |
 | 5 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 |
-| 6 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 |
+| 6 | [Lo Que Pienso De Ti](https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:34 |
 | 7 | [La Historia De Mis Manos](https://open.spotify.com/track/1lAfPGUKAQ0tW1TZeRBLkp) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:52 |
-| 8 | [Lo Que Pienso De Ti](https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:34 |
+| 8 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 |
 | 9 | [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 |
 | 10 | [Olvidarte No Será Sencillo](https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 3:46 |
 | 11 | [La Doble Cara](https://open.spotify.com/track/0PX1p94jkveuUOZ31rjHak) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:34 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 41 | [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 |
 | 42 | [Joaquín](https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos De Alto Calibre \(Vol\. II\)](https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk) | 3:06 |
 | 43 | [El Prisionero De La Celda 909](https://open.spotify.com/track/5U8ZVNyGoGD32pBeEJ3Px5) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 3:41 |
-| 44 | [El Número 1](https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 2:43 |
+| 44 | [Profundamente](https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Profundamente](https://open.spotify.com/album/6PjcA0YN8Tz9JcVjOeWid0) | 3:11 |
 | 45 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
-| 46 | [Cosas De La Peda](https://open.spotify.com/track/0756e1uD52MeG9AaRir5tF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Cosas De La Peda](https://open.spotify.com/album/4eyKTMJHSOkBASyTf2fDnr) | 2:44 |
-| 47 | [El Coyotito Medley \- En Vivo/Medley](https://open.spotify.com/track/0dmv8pv7JhxIJtaukiBeGJ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 5:54 |
-| 48 | [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 |
+| 46 | [El Número 1](https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 2:43 |
+| 47 | [Cosas De La Peda](https://open.spotify.com/track/0756e1uD52MeG9AaRir5tF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Cosas De La Peda](https://open.spotify.com/album/4eyKTMJHSOkBASyTf2fDnr) | 2:44 |
+| 48 | [El Coyotito Medley \- En Vivo/Medley](https://open.spotify.com/track/0dmv8pv7JhxIJtaukiBeGJ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 5:54 |
 | 49 | [Se Vale Enamorarse](https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Vale Enamorarse](https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY) | 2:56 |
 | 50 | [Entre Ella Y Tú](https://open.spotify.com/track/2HavagLtOTS95ZX8Fmyz6z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:32 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBmNzJkMjQ1YzVjNzUyZWM5MzhmYzc3YTJlNzUwZDU4Mg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBhNWJkOTdkMzkwYjQ5ZGNiOGJjZjBjYjg2ODNlZWRhNw==`

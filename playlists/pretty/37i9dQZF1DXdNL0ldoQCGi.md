@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > na sua opinião, qual foi a trend do ano????
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,953 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,154 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 28 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
 | 29 | [Google da Minha Vida](https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Google da Minha Vida](https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa) | 2:17 |
 | 30 | [barbie de chapéu \- funk](https://open.spotify.com/track/4MB8rQqtjrIrQw4ThCPf8e) | [Dj Paiva](https://open.spotify.com/artist/2383IwhdilQ7mXGRSR5VvM) | [barbie de chapéu \(funk\)](https://open.spotify.com/album/2gMfiCskXsisEV7LsqFLaB) | 2:33 |
-| 31 | [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 |
+| 31 | [DENTRO DA HILUX](https://open.spotify.com/track/3jTyFoGeD3DTu9cnnctMWN) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [DENTRO DA HILUX](https://open.spotify.com/album/2piVofKb5EGkez3IH91OsJ) | 2:43 |
 | 32 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 |
 | 33 | [Daqui pra Sempre](https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Daqui pra Sempre](https://open.spotify.com/album/3dxJyVfI7myBAZjiekJCto) | 3:22 |
 | 34 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 49 | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Thaysa Maravilha](https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc) | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw) | 2:56 |
 | 50 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCxhMGFhYTc1MmQ5OTUzNDEzOTI2ZWVlZjkwOTBhMDg2OTE0MmU5ODcw`
+Snapshot ID: `MCw3M2I4MWViODAxODNlNTJlOWM0MzUyNGJkMDJlNDRkYTE2ZDBjMjIy`

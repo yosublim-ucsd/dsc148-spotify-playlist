@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 46252,
+  "num_followers": 46274,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDg3MTE4MmFhM2M5ZDY5OWU4ZjViYmUyMzM2ZTVjNGFhNDZiOTcy",
+  "snapshot_id": "MCwzYmJkM2QxYzdiNjVlODMwYjlmODdjZjgzZDQ1MTFiMzUwNGFmNmE0",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 260863,
-      "name": "Coming Down from Green Mountain",
-      "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Stealing Second",
         "url": "https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 192733,
       "name": "Golden Pond",
       "url": "https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 260863,
+      "name": "Coming Down from Green Mountain",
+      "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "The Muscle Shoals Recordings",
+        "url": "https://open.spotify.com/album/2DuNtjQfVV7VqRFH6r0Bta"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 167498,
+      "name": "California Chainsaw",
+      "url": "https://open.spotify.com/track/3B20mh33uwC6kq1TF3sxwH"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 198478,
       "name": "Crooked Mind",
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 212164,
-      "name": "Cattle in the Cane",
-      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Muscle Shoals Recordings",
-        "url": "https://open.spotify.com/album/2DuNtjQfVV7VqRFH6r0Bta"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 167498,
-      "name": "California Chainsaw",
-      "url": "https://open.spotify.com/track/3B20mh33uwC6kq1TF3sxwH"
+      "duration_ms": 212164,
+      "name": "Cattle in the Cane",
+      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
-      },
-      "artists": [
-        {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Double Banjo Bluegrass Spectacular",
         "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 180493,
       "name": "Bon Aqua Blues",
       "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+      },
+      "artists": [
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Cold Hard Facts",
-        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Baltimore Johnny",
-      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "30 Turkeys",
         "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 140970,
       "name": "30 Turkeys",
       "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "The Cold Hard Facts",
+        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Baltimore Johnny",
+      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 292614,
-      "name": "Creatures of Havoc",
-      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Bluegrass 96",
         "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 292614,
+      "name": "Creatures of Havoc",
+      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
         "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Decembering",
         "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
@@ -1563,42 +1547,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/6Ct3ce7bGWB9mnsx9LXjbr"
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
       "artists": [
         {
-          "name": "firekid",
-          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
-        },
-        {
-          "name": "Jo Cleary",
-          "url": "https://open.spotify.com/artist/4T2E85yw2EpDhmxN0wvAZg"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 200768,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Chasin' Skies",
-        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
-      },
-      "artists": [
-        {
-          "name": "Tessa Lark",
-          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Chasin' Skies",
-      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1635,6 +1595,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/6Ct3ce7bGWB9mnsx9LXjbr"
+      },
+      "artists": [
+        {
+          "name": "firekid",
+          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
+        },
+        {
+          "name": "Jo Cleary",
+          "url": "https://open.spotify.com/artist/4T2E85yw2EpDhmxN0wvAZg"
+        }
+      ],
+      "duration_ms": 200768,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Crossing the Junction / Deer River",
         "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
       },
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Chasin' Skies",
+        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
+      },
+      "artists": [
+        {
+          "name": "Tessa Lark",
+          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Chasin' Skies",
+      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1731,34 +1715,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
       "artists": [
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Tsali's Run",
-        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
-      },
-      "artists": [
-        {
-          "name": "Carley Arrowood",
-          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Tsali's Run",
-      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1815,6 +1783,38 @@
       "duration_ms": 200360,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/5otblW4llxlwTInmYeBFn3"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Tsali's Run",
+        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+      },
+      "artists": [
+        {
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Tsali's Run",
+      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     },
     {
       "added_at": "2023-11-24 05:00:00",

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadhif Basamalah
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Projector Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,479 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,448 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
 | 2 | [Dawai \(From "Air Mata Di Ujung Sajadah"\)](https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Dawai \(From "Air Mata Di Ujung Sajadah"\)](https://open.spotify.com/album/4eRO6qTZCzTqibBy1j9lHz) | 4:39 |
-| 3 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
-| 4 | [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 |
-| 5 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 |
-| 6 | [Sinar Pelangi](https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb) | 3:28 |
+| 3 | [Sinar Pelangi](https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb) | 3:28 |
+| 4 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
+| 5 | [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 |
+| 6 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 |
 | 7 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 |
 | 8 | [MAJAL](https://open.spotify.com/track/2Pbyp4hWzGILfOe8L7ol7C) | [Swanz](https://open.spotify.com/artist/3Azc9GjO06m477OscwDHkZ), [ASMAI](https://open.spotify.com/artist/7nYdWVbFI4ZwjInvOwsG5e) | [MAJAL](https://open.spotify.com/album/3GQDvnnYHG85S7P5SWz9VX) | 3:42 |
 | 9 | [Gelora](https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Gelora](https://open.spotify.com/album/1ZO8DsyDKeG3SPU5Uoggjc) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [INI MASA AKU](https://open.spotify.com/track/1F2mblK5PB6KoUd6qfKNBV) | [Deejyn](https://open.spotify.com/artist/2uYpUwuCRkel0KzDdwiyF0), [Reedzwann](https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok) | [INI MASA AKU](https://open.spotify.com/album/4k0mjYfIUk7qckspnMVyDV) | 2:27 |
 | 50 | [Api \- From The Cadets Original Soundtrack](https://open.spotify.com/track/3ksPYRSsFmygVddzKEtLYY) | [Kmy Kmo](https://open.spotify.com/artist/43ZXvAH7c6jRsqNIRWft4P), [Luca Sickta](https://open.spotify.com/artist/3pTnpQxoPsO7pptxSxA7yG) | [Api \(From The Cadets Original Soundtrack\)](https://open.spotify.com/album/5oLzRKysU8eR66ayOeWPPy) | 2:56 |
 
-Snapshot ID: `MCwxOWY0Mzk3MDY5MzBiZDYxMDg3MGExYWVkMGY5NjI3ODY5N2RlOGM1`
+Snapshot ID: `MCw0MDdkYzUyYWIzODU4OTVlNzdkMzk1NzIzNDI2MzE3MTc5ZTM2NzIx`

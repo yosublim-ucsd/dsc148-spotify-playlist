@@ -4,11 +4,12 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-189 songs - 12 hr 36 min
+190 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-23 |  |
+| [1001 Nuits \- Radio Edit](https://open.spotify.com/track/74JKZeV9CIFMFu7xKtasi4) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt) | [1001 Nuits \(Extended Mix\)](https://open.spotify.com/album/71DuLGOJwXTcvUzgndjClw) | 4:28 | 2024-01-12 |  |
 | [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 | 2022-12-04 | 2023-06-24 |
 | [7 Seconds](https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Pape Diouf](https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA) | [7 Seconds](https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ) | 5:15 | 2023-06-23 |  |
 | [7elm B3eed](https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [7elm B3eed](https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH) | 5:16 | 2022-03-30 | 2022-11-26 |
@@ -58,7 +59,7 @@
 | [El Youm El Helw Dah \(AFROJACK MDLBEAST Remix\)](https://open.spotify.com/track/3p4spHhAQaOcmGTrctyN65) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [El Youm El Helw Dah \(AFROJACK MDLBEAST Remix\)](https://open.spotify.com/album/1j7gep9a3d4zXgtRRefZvM) | 4:03 | 2023-09-05 |  |
 | [Elli Baana](https://open.spotify.com/track/6mPvxcBg9C5Msy6sJQtLdQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Elli Baana \(RANDALL Remix\)](https://open.spotify.com/album/0nScFV3dpOKHTivxuxAFqg) | 3:22 | 2022-03-30 | 2023-06-24 |
 | [Enta Eli Hweyt](https://open.spotify.com/track/5stEpLG1ZgM1NgBFdLtC1h) | [Dj Dhaker](https://open.spotify.com/artist/1ax0bpZCDJJUtboJscmVlT), [Garmi](https://open.spotify.com/artist/00YDvtHd6GtfpKNHwJoF4o) | [Enta Eli Hweyt](https://open.spotify.com/album/2GZP4oD2TiwkzUxQGymvQy) | 3:45 | 2022-03-30 | 2022-11-26 |
-| [Entaha \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/track/19k16k7aJEjAkOnSxKxyc7) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Entaha \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/album/5tM7NQ9Bmwxe2HMUf44ltE) | 3:49 | 2023-08-16 |  |
+| [Entaha \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/track/19k16k7aJEjAkOnSxKxyc7) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Entaha \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/album/5tM7NQ9Bmwxe2HMUf44ltE) | 3:49 | 2023-08-16 | 2024-01-13 |
 | [Enti Malathi](https://open.spotify.com/track/4HoXdGDFqgDkUAOPoBAEOi) | [Khair Music \- جماعة خير](https://open.spotify.com/artist/31qZDM1859ctdIDL4ClF0g) | [A Curse](https://open.spotify.com/album/72cv8te4gVqt65jQCgQBE2) | 4:23 | 2022-03-30 | 2022-11-26 |
 | [Enty We Ana](https://open.spotify.com/track/0FAabsNs2RITfLn3JWr9Hk) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathallah](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Enty We Ana](https://open.spotify.com/album/0ndoSnI8RohdBRCmlXfdBH) | 5:05 | 2022-03-30 | 2022-08-23 |
 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 | 2022-11-08 | 2023-06-24 |

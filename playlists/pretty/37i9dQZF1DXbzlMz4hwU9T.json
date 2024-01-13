@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 78782,
+  "num_followers": 78873,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTI5NDllMGM4Mjc0ODA4MjY3NDgzNjZmY2M0NDAyMzY4NThkMjcx",
+  "snapshot_id": "MCwxYWM4MjY0YTEwMWFkOGVlYzhiMGI2MTEwZjJkMWEwNTIzNThhZDQ5",
   "tracks": [
     {
       "added_at": "2023-02-24 17:37:22",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Vida De Perros",
-        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Llueve Sobre La Ciudad",
-      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "The Slow Rush B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "No Choice",
+      "url": "https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "El Arte de Saltar",
         "url": "https://open.spotify.com/album/6ZCnNpmcsTnDbQ8FcXqVGj"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 221893,
       "name": "Por Tu Olor",
       "url": "https://open.spotify.com/track/69gBnFLDtc2lub6xL0sfi9"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "The Slow Rush B-Sides & Remixes",
-        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "No Choice",
-      "url": "https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "Poverty",
+        "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
+      },
+      "artists": [
+        {
+          "name": "Motorama",
+          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
+        }
+      ],
+      "duration_ms": 209002,
+      "name": "Heavy Wave",
+      "url": "https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "Azulejos",
         "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 191924,
       "name": "Batismo",
       "url": "https://open.spotify.com/track/6UDWsYMH2MwgOxOS9sbnwC"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "Poverty",
-        "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
-      },
-      "artists": [
-        {
-          "name": "Motorama",
-          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
-        }
-      ],
-      "duration_ms": 209002,
-      "name": "Heavy Wave",
-      "url": "https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
     },
     {
-      "added_at": "2023-08-29 00:21:01",
-      "album": {
-        "name": "Tenochtitl\u00e1n",
-        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Tenochtitl\u00e1n",
-      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
-    },
-    {
       "added_at": "2023-02-24 17:37:22",
       "album": {
         "name": "Efecto Domin\u00f3",
@@ -1411,6 +1395,22 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
+    },
+    {
+      "added_at": "2023-08-29 00:21:01",
+      "album": {
+        "name": "Tenochtitl\u00e1n",
+        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Tenochtitl\u00e1n",
+      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 212229,
+      "name": "KIL\u00d3METROS",
+      "url": "https://open.spotify.com/track/7bxKcnzYjeuuMxw3LWnQoM"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "Se Me Pas\u00f3",
         "url": "https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 239500,
       "name": "Se Me Pas\u00f3",
       "url": "https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 212229,
-      "name": "KIL\u00d3METROS",
-      "url": "https://open.spotify.com/track/7bxKcnzYjeuuMxw3LWnQoM"
     },
     {
       "added_at": "2023-02-24 17:37:22",

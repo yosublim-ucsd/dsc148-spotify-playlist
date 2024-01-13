@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,424 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,517 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 28 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 |
 | 29 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 |
 | 30 | [Take a Breath](https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Take a Breath](https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu) | 2:50 |
-| 31 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 |
-| 32 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 |
+| 31 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 |
+| 32 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 |
 | 33 | [Lily's Arrival](https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lily's Arrival](https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z) | 2:58 |
 | 34 | [meloh](https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [meloh](https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd) | 3:00 |
-| 35 | [Sacred](https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Sacred](https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3) | 2:29 |
-| 36 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 |
+| 35 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 |
+| 36 | [Sacred](https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Sacred](https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3) | 2:29 |
 | 37 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 |
 | 38 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 |
 | 39 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 |
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 82 | [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 |
 | 83 | [...comes sunshine](https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [...comes sunshine](https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm) | 3:07 |
 | 84 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 |
-| 85 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 |
-| 86 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 |
+| 85 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 |
+| 86 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 |
 | 87 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 |
 | 88 | [Nota Placidità](https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Nota Placidità](https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC) | 2:31 |
-| 89 | [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 |
-| 90 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 |
-| 91 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 |
-| 92 | [The Sparrow](https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [The Old Grandfather Clock](https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu) | 3:12 |
-| 93 | [Heart of Hearts](https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI) | [Eliza Kloppers](https://open.spotify.com/artist/7FtlLUFJoqOM8Q4ZIYlNcF) | [Heart of Hearts](https://open.spotify.com/album/5WIM8iKTO78MHDDYFF6D0A) | 2:08 |
+| 89 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 |
+| 90 | [Noruega](https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noruega](https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx) | 3:45 |
+| 91 | [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 |
+| 92 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 |
+| 93 | [The Sparrow](https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [The Old Grandfather Clock](https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu) | 3:12 |
 | 94 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 |
-| 95 | [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 |
-| 96 | [Noruega](https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noruega](https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx) | 3:45 |
-| 97 | [Carpology](https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Carpology](https://open.spotify.com/album/2HVhkzOKtK1M5yvbRfZdek) | 2:03 |
-| 98 | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI) | 3:04 |
+| 95 | [Heart of Hearts](https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI) | [Eliza Kloppers](https://open.spotify.com/artist/7FtlLUFJoqOM8Q4ZIYlNcF) | [Heart of Hearts](https://open.spotify.com/album/5WIM8iKTO78MHDDYFF6D0A) | 2:08 |
+| 96 | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI) | 3:04 |
+| 97 | [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 |
+| 98 | [Carpology](https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Carpology](https://open.spotify.com/album/2HVhkzOKtK1M5yvbRfZdek) | 2:03 |
 | 99 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 |
 | 100 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 |
 
-Snapshot ID: `MCwzYzhkM2NjNGExNDlmYWM0MDJiOWQ5ODM0NTdjMWZiMjQ4ZWViMTVm`
+Snapshot ID: `MCwxOGFmNjhlN2UzZWU0Y2JiNWUwMTgyMGQ4Njc0YTBlMTNiMzM4MzRj`

@@ -4,7 +4,7 @@
 
 > 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-98 songs - 6 hr 40 min
+99 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 | 2023-12-12 |  |
 | [Solitude](https://open.spotify.com/track/5NXQt7YkV2ElktdAhL1QWk) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Solitude](https://open.spotify.com/album/4CqXQpyqMQYffpTR0HFzp4) | 2:56 | 2023-12-12 | 2023-12-20 |
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 |  |
-| [Stuck In The Middle](https://open.spotify.com/track/68k2pbbQ6zkg07nvFlyLW0) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle](https://open.spotify.com/album/6zATR2IR42heoEaNMjz63p) | 3:24 | 2024-01-11 |  |
+| [Stuck In The Middle](https://open.spotify.com/track/68k2pbbQ6zkg07nvFlyLW0) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle](https://open.spotify.com/album/6zATR2IR42heoEaNMjz63p) | 3:24 | 2024-01-11 | 2024-01-13 |
+| [Stuck In The Middle](https://open.spotify.com/track/6niBwol34bKc0LXRRHHIGD) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle](https://open.spotify.com/album/4UNEF0Hg8VPo86RAaa9Hba) | 3:24 | 2024-01-11 |  |
 | [Sukijanaiyo](https://open.spotify.com/track/1e83LbYSYSdqwcYsuq3sA8) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 4:46 | 2023-12-12 |  |
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 |  |
 | [Tampopo](https://open.spotify.com/track/0ykZ3mzjgdnrTEzj2Q09L3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/73wIJr5w62OjFZhctd8lfh) | 4:13 | 2023-12-12 |  |

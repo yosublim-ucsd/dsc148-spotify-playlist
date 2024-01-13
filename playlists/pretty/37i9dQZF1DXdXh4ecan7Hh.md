@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,005 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,957 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 21 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
 | 22 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 |
 | 23 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
-| 24 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 |
-| 25 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
+| 24 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
+| 25 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 |
 | 26 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
 | 27 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
 | 28 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 35 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
 | 36 | [Queen Of Me \- Spotify Singles](https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:35 |
 | 37 | [Mercy \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 4:13 |
-| 38 | [Love Someone \(feat\. Sabina Ddumba\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2Em5ZsKqKHwGa2gM5JznZf) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Spotify Singles](https://open.spotify.com/album/7nOgjBllSIbcsJN5CYSrwU) | 3:28 |
-| 39 | [Before You Called Me Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:45 |
+| 38 | [Before You Called Me Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:45 |
+| 39 | [Love Someone \(feat\. Sabina Ddumba\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2Em5ZsKqKHwGa2gM5JznZf) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Spotify Singles](https://open.spotify.com/album/7nOgjBllSIbcsJN5CYSrwU) | 3:28 |
 | 40 | [My Old Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 3:54 |
 | 41 | [I Feel It Coming \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB) | 4:03 |
 | 42 | [Whiskey \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7KeNKDufYkAf3VKOumK12r) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 69 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 | 70 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 
-Snapshot ID: `MCxhNzVlMDI3NWM4MjczZjQ5OTY1ZWM5OWFiZjA0NzZmMTc3MjA1ZDA4`
+Snapshot ID: `MCw4YjM0ZGRmZWNkOTY2NWJkOWNlZjgwODA4OWQxNmY1NzMwMjY3MjM1`

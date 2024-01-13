@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,343 songs - 2 day 22 hr 12 min
+1,344 songs - 2 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,7 +603,7 @@
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2022-01-01 | 2024-01-04 |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-01-10 | 2023-02-14 |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-27 | 2023-01-11 |
-| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-27 |  |
+| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-27 | 2024-01-13 |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-02 | 2022-03-12 |
 | [Ibiza](https://open.spotify.com/track/2GajeoOS17ifAmYX8xxPZw) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Mere End Musik](https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9) | 3:39 | 2021-06-20 | 2023-01-05 |
 | [ICEKIID x DSB \- Aldrig Glemt](https://open.spotify.com/track/5cHxOKkPyCrpqRG2fP4zBi) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ICEKIID x DSB \- Aldrig Glemt](https://open.spotify.com/album/2ZiKQxvo3m3PoZlI1mTaaL) | 2:40 | 2021-08-22 | 2021-08-30 |
@@ -858,6 +858,7 @@
 | [Mucki Bar](https://open.spotify.com/track/4XhW9iOypxiiNyIMpirPFv) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:59 | 2022-10-22 | 2024-01-04 |
 | [Mumler For Meget \(Artigeardit X Lamin\)](https://open.spotify.com/track/60OuNllvEgzkONpbhBd63M) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 2:11 | 2021-10-17 | 2021-11-02 |
 | [Mums](https://open.spotify.com/track/2UsR5UxsuKwJ2OovutZsjV) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Mums](https://open.spotify.com/album/6u6jhjQf7JGaC2C2TcwHR3) | 2:29 | 2021-04-11 | 2021-06-01 |
+| [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-12 |  |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-06-05 |
 | [My Bae](https://open.spotify.com/track/2CdOcwr7nEy7Rho5rslAiX) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Diplomático](https://open.spotify.com/album/5QaCWC5VBE7B0VA7bbCLhZ) | 2:12 | 2021-10-10 | 2021-10-11 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-08-11 |

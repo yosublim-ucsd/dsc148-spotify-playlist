@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,703 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,707 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 29 | [No Va a Matarme Tu Amor](https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [No Va a Matarme Tu Amor](https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX) | 3:09 |
 | 30 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 |
 | 31 | [Amor Imposible](https://open.spotify.com/track/6QxIAW54300NHUEpSCOfRq) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 2:54 |
-| 32 | [Trienta Cartas](https://open.spotify.com/track/2h2e7oQQrXOMFSy4ttLaLU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Exitos En Vivo Vol\. 2](https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW) | 2:37 |
+| 32 | [No volveré](https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o) | [Banda 89](https://open.spotify.com/artist/6obOm55X77MaT63vvPielg), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [No volveré](https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn) | 2:40 |
 | 33 | [Mi Corazón Te Quiere](https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 2:44 |
-| 34 | [No volveré](https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o) | [Banda 89](https://open.spotify.com/artist/6obOm55X77MaT63vvPielg), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [No volveré](https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn) | 2:40 |
+| 34 | [Trienta Cartas](https://open.spotify.com/track/2h2e7oQQrXOMFSy4ttLaLU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Exitos En Vivo Vol\. 2](https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW) | 2:37 |
 | 35 | [Verdad](https://open.spotify.com/track/6eSHAK97hICMhLd6UWbPGM) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 3:19 |
 | 36 | [Alla En El Rancho Grande](https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Lo Basico](https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS) | 3:12 |
 | 37 | [Atrapado](https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/5P1Fm2SSTWfcRmpCCjxwHd) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/6jWO1gpaKRmFOkankuNGqK) | 2:43 |
 | 50 | [Esperanza Valero](https://open.spotify.com/track/6YERvxBDNRxomS8A4YYR8i) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Profundamente](https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i) | 2:16 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA0NGM4MWQ3M2E4OWQwNTQwMTMzMjlhYjE3ZjI3OGRjOQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBlZjgyYzU1NTkxYWI2ZjM0NmQxMGM1ZjAwZGMwZmQ3YQ==`

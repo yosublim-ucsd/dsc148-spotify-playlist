@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,807 likes - 40 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,725 likes - 40 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 19 | [Eskandarany](https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Layalyki](https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq) | 3:48 |
 | 20 | [El Ayam El Helwa](https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI) | 3:45 |
 | 21 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
-| 22 | [A'lbal](https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [A'lbal](https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0) | 5:53 |
-| 23 | [Nafs El Makan](https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 4:35 |
-| 24 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Ali Hemeida](https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
+| 22 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Ali Hemeida](https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
+| 23 | [ياعمرنا](https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ذكريات](https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9) | 4:31 |
+| 24 | [A'lbal](https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [A'lbal](https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0) | 5:53 |
 | 25 | [Efred](https://open.spotify.com/track/2G9gFbESJG8K8PmrPrxBDI) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Efred](https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI) | 4:52 |
 | 26 | [مواعدانى](https://open.spotify.com/track/6nLo8pZ7r5dPZnlEGBchip) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [مشينا](https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7) | 4:17 |
 | 27 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
 | 28 | [Layali El Shouq](https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:51 |
 | 29 | [Didi](https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [1, 2, 3 Soleils](https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO) | 6:08 |
 | 30 | [Marasil](https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Marasil](https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss) | 5:09 |
-| 31 | [ياعمرنا](https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ذكريات](https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9) | 4:31 |
+| 31 | [Nafs El Makan](https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 4:35 |
 | 32 | [Ah Bahibbak](https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Rouhi](https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr) | 4:13 |
 | 33 | [Ahl El Malama](https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Roh Alby](https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9) | 4:37 |
 | 34 | [Nour El Chams](https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Nour El Chams](https://open.spotify.com/album/6eugJv6YMD7lrYasmyOWOf) | 4:33 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 39 | [Sahrany](https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI) | 4:19 |
 | 40 | [Keda Keda Ya Terella](https://open.spotify.com/track/3wlbAd9KLt8UcaZk0Vq5XB) | [Vicka](https://open.spotify.com/artist/1DvYjKqpI2Y3xP0hsqt29n) | [Nubian Legends](https://open.spotify.com/album/2tkQvpsJdhTkF11z83PPuf) | 4:42 |
 
-Snapshot ID: `MCxjMzI5MWFmMDk3ZDYwMWUzNWYxMmFiNjMzNjQ5NWVmNTJjODY5Mzgy`
+Snapshot ID: `MCxlZDE0ZWFlNzZjNzU4YjcyZjI5YWIyNjI4ZTg3ZTQxZWIzYTllNWFh`

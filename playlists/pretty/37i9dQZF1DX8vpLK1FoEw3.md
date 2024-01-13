@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 ### [pensando meus pensamentos](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 
-> o q se passa na cabeça dela?????? \#MeuSpotify com Giselle Pinscher \(e Luísa Sonza\)
+> o q se passa na cabeça dela....\#MeuSpotify com Giselle Pinscher \(e Luísa Sonza\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,707 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,526 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 |
 | 50 | [You Don't Know Me](https://open.spotify.com/track/5SGGqrMHP2ZJ1xmaSFzUE0) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Transa](https://open.spotify.com/album/49cBF5iGpJ7nx6EAR8BLga) | 3:48 |
 
-Snapshot ID: `MCxjZmE3NmMzNjc3ODA1MTllNzRjMjMyMmViMThiNmIyY2U5OWFlNzc1`
+Snapshot ID: `MCxjODk3MWEwMWQwMWFjNWQ0YzhjMjM1ZTFhM2JiZTY5ODNlZDZiYWM2`

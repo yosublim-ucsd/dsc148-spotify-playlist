@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 3348235,
+  "2024-01-13": 3347442,
   "date_first_scraped": "2021-12-21",
   "description": "You say guilty, we say non stop bangers!",
   "name": "Guilty Pleasures",
@@ -4453,7 +4453,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 192426,
       "name": "It's Gonna Be Me",
       "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
@@ -6975,6 +6975,24 @@
       "duration_ms": 227067,
       "name": "Sweat (A La La La La Long)",
       "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
+    },
+    {
+      "album": {
+        "name": "Sweat (A La La La La Long)",
+        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
     },
     {
       "album": {

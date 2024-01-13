@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3351667,
+  "num_followers": 3349793,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDcyYjRmOTIxODgxYmZjMWI0NjBjMzNjYWEwYzJiMjVhMWZmNzlh",
+  "snapshot_id": "MCw5NzkzNjNlOTQ5NWZhNTU3YTI2YmU5ZjBlMTY1MTQ1ODRjNGNiYzY0",
   "tracks": [
     {
       "added_at": "2023-04-07 20:03:50",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
-      "added_at": "2023-11-08 15:43:13",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
-    },
-    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
         "name": "All The Little Lights",
@@ -619,6 +603,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+    },
+    {
+      "added_at": "2023-11-08 15:43:13",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 196421,
       "name": "I Could Use a Love Song",
       "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 223213,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2041,22 +2041,6 @@
       "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
     },
     {
-      "added_at": "2023-06-16 07:56:00",
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 181900,
-      "name": "405",
-      "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
-    },
-    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
         "name": "The Thrill Of It All (Special Edition)",
@@ -2075,6 +2059,22 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2023-06-16 07:56:00",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 181900,
+      "name": "405",
+      "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Chandelier - Piano Version",
-      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 203289,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Chandelier - Piano Version",
+      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "added_at": "2023-04-07 20:03:50",

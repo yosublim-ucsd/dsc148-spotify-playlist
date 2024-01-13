@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-320 songs - 19 hr 26 min
+321 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-07-08 |  |
 | [Beyond](https://open.spotify.com/track/4jdddqrYIZjKf8YeJly1QG) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [R&B Summer Mix](https://open.spotify.com/album/5vWkCTOFti5ycfczgo389O) | 4:00 | 2022-10-28 | 2022-11-13 |
 | [Beyond](https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beyond](https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ) | 4:00 | 2021-10-26 | 2022-07-29 |
-| [Bottles](https://open.spotify.com/track/3RxGQIPIfdlJbUxoNsOPrN) | [RIKII](https://open.spotify.com/artist/7ieHamtUN3p1EgneRvtZBZ) | [Bottles](https://open.spotify.com/album/6ocdZHo1C445pmeiqfYvrB) | 2:29 | 2022-05-25 |  |
+| [Bottles](https://open.spotify.com/track/3RxGQIPIfdlJbUxoNsOPrN) | [RIKII](https://open.spotify.com/artist/7ieHamtUN3p1EgneRvtZBZ) | [Bottles](https://open.spotify.com/album/6ocdZHo1C445pmeiqfYvrB) | 2:29 | 2022-05-25 | 2024-01-13 |
 | [Bridge Back to Your Heart](https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk) | [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Bridge Back to Your Heart](https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA) | 4:21 | 2021-10-26 |  |
 | [Can You Take It](https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Can You Take It](https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG) | 3:01 | 2023-01-20 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC) | [Jessie Kol](https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf) | [Can't Help Falling in Love](https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw) | 2:58 | 2021-10-26 |  |
@@ -208,6 +208,7 @@
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2021-10-26 | 2022-07-29 |
 | [Nice and Slow](https://open.spotify.com/track/3EfqfnRqI4Tq2RZVRHvgoM) | [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8) | [Trill RNB](https://open.spotify.com/album/2gMRm8weTdryJsOJGxCpvi) | 3:33 | 2022-06-02 | 2022-11-13 |
 | [Night](https://open.spotify.com/track/24DijqYX42rkMGuHYKF0nc) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Night](https://open.spotify.com/album/7o87JfkKQnw0Z9u4AKhYkj) | 3:21 | 2022-03-18 | 2023-12-09 |
+| [Night](https://open.spotify.com/track/7jTiglRi4jwmq5Juixsk7G) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Night](https://open.spotify.com/album/3F1hX3PSva5Juqmgq1chey) | 3:21 | 2023-02-10 |  |
 | [no ill](https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ) | [deadmen](https://open.spotify.com/artist/1kH6sqipWrJUF1AAeSskjl), [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [No Ill](https://open.spotify.com/album/0t2ZDNsrg9DbGT0TfhtPEK) | 2:59 | 2022-05-16 | 2022-11-13 |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-09-30 |  |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2021-11-17 | 2022-10-13 |

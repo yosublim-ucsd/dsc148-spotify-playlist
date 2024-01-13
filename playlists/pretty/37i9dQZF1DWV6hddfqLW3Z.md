@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,011 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,685 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 66 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
 | 67 | [Eu sei que vou te amar](https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 3:49 |
 | 68 | [Grão de Amor](https://open.spotify.com/track/6WuPQbkxEi5xyBtlvvFjQm) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Saiba](https://open.spotify.com/album/68Yj9neF1g9YG1Joo1noqM) | 3:05 |
-| 69 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
-| 70 | [Não É um Bolero](https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M) | 4:21 |
+| 69 | [Não É um Bolero](https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M) | 4:21 |
+| 70 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
 
-Snapshot ID: `MCw3MTM1ZmZhMWFlMzgxODU1Mzc5ODhhMDAyOWUzMzI5OGUyNjFiNjU2`
+Snapshot ID: `MCxjYjI2M2U1MjQ3YTZmZDFlNWUxNTRhMDc5NjcyYTMzMDkyYTkyMTEz`

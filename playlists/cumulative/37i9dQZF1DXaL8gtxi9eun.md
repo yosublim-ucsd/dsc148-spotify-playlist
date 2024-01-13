@@ -2,9 +2,9 @@
 
 ### [Fresh Arabic Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Stay up to date with the freshest Arabic Pop Songs\. Cover: Ramy Sabry
+> Stay up to date with the freshest Arabic Pop Songs\. Cover: Tamer Hosny
 
-268 songs - 16 hr 8 min
+270 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Aam Faker Fiya](https://open.spotify.com/track/03QwVOvP2mrb870634I6yi) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Aam Faker Fiya](https://open.spotify.com/album/4F3ad3v2zB6nNri9P0rpke) | 2:48 | 2023-05-30 | 2023-08-28 |
 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 | 2023-05-17 | 2023-07-12 |
 | [Adda El Kalam](https://open.spotify.com/track/4IMYgmXkjzzOmbDNbQZnVe) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Adda El Kalam](https://open.spotify.com/album/20mYdMqyWHW5TiQwhB8FKC) | 3:32 | 2022-05-04 | 2022-07-15 |
-| [Adeit](https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Adeit](https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv) | 2:50 | 2023-08-18 |  |
+| [Adeit](https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Adeit](https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv) | 2:50 | 2023-08-18 | 2024-01-13 |
 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 | 2023-02-15 | 2023-07-12 |
 | [Agaby](https://open.spotify.com/track/3nkxT86Yig9jbqxfPj8aEz) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Tooma](https://open.spotify.com/artist/06DFi3gbAAErstJENtIa5z) | [Agaby](https://open.spotify.com/album/6tJgJlVAZD9fom15faEf1y) | 3:51 | 2022-05-04 | 2022-07-15 |
 | [Ah Min Hawak](https://open.spotify.com/track/2wHlTSI4jl7LXjQ8u8eCYy) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:44 | 2023-05-17 | 2023-07-12 |
@@ -105,7 +105,7 @@
 | [Halet Ektaab](https://open.spotify.com/track/47nco5gKSaLGcLrkLTGz0L) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc), [Karim Sabry](https://open.spotify.com/artist/0I6c2FOqX5ioxRelCgkY1O) | [Halet Ektaab](https://open.spotify.com/album/3GieRFjlHGGXPOQalxWriH) | 4:29 | 2022-05-04 | 2022-07-14 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2022-05-04 | 2022-12-24 |
 | [Hatwhashna](https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Hatwhashna](https://open.spotify.com/album/2SpDaTDqpebKTgQyKtf51j) | 3:20 | 2022-11-07 | 2023-07-12 |
-| [Hawwa](https://open.spotify.com/track/1y3sV7iuYh4RYZcCvHuVMQ) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hawwa](https://open.spotify.com/album/7n5q111QMBAd1ZlO0sRk4S) | 3:07 | 2023-08-18 |  |
+| [Hawwa](https://open.spotify.com/track/1y3sV7iuYh4RYZcCvHuVMQ) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hawwa](https://open.spotify.com/album/7n5q111QMBAd1ZlO0sRk4S) | 3:07 | 2023-08-18 | 2024-01-13 |
 | [Hayatak Fi Sora](https://open.spotify.com/track/5v5DvfdykdjmzgA3t9pnGg) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Hayatak Fi Sora](https://open.spotify.com/album/2LE4wOXSuqwPXyY22h1ad1) | 2:49 | 2022-05-04 | 2022-07-15 |
 | [Heeya](https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Heeya](https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX) | 3:33 | 2023-05-30 | 2023-08-28 |
 | [Helween](https://open.spotify.com/track/5WWolYQgJB3fCwRiLxiPHQ) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo), [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG) | [Helween](https://open.spotify.com/album/4LgGKDj1hfjBMni5QrwUfV) | 4:01 | 2022-05-04 | 2022-11-08 |
@@ -141,6 +141,7 @@
 | [MAMA EH](https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [MAMA EH](https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO) | 2:31 | 2023-07-11 |  |
 | [Manga](https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:19 | 2023-10-01 |  |
 | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/album/1rZN80PcHL3z8cS9X0RyAx) | 4:00 | 2023-05-17 | 2023-07-18 |
+| [Mawahashtkesh !!? \- From Hormone El Saada Album](https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Mawahashtkesh !!?](https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk) | 5:27 | 2024-01-12 |  |
 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 | 2023-08-27 |  |
 | [Men Ghir Mogamla](https://open.spotify.com/track/5ZPaDUntiwcY86bPeFi22x) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Men Ghir Mogamla](https://open.spotify.com/album/5A4ZBCwAsBVmsp305BAo9R) | 3:35 | 2022-05-04 | 2022-07-13 |
 | [Men Kan Yesda2](https://open.spotify.com/track/0fbkNOvYVWwdxfi2Yixpb3) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Men Kan Yesda2](https://open.spotify.com/album/6yW8Ll16re8wsQA4N2hS0g) | 3:28 | 2023-08-18 |  |
@@ -272,6 +273,7 @@
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 | 2023-06-23 | 2023-08-19 |
 | [هنيالو](https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX) | [أروى](https://open.spotify.com/artist/6Rl7uv3qQrsZOhgu7Xj9Zj) | [هنيالو](https://open.spotify.com/album/24San4mNpcyhkYH4oiu0iO) | 3:40 | 2023-01-10 | 2023-05-18 |
 | [هيبدأ يتكلم](https://open.spotify.com/track/1WZj20KRIEm6EyJwbtt2kf) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هيبدأ يتكلم](https://open.spotify.com/album/0T84o5dPeM7uRabHJVioSs) | 2:46 | 2023-09-22 | 2024-01-05 |
+| [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 | 2024-01-12 |  |
 | [وسط الوشوش \- تتر مسلسل بنون](https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وسط الوشوش \(تتر مسلسل بنون\)](https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx) | 4:29 | 2023-06-08 | 2023-07-26 |
 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-05-17 | 2023-07-11 |
 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-01-11 | 2023-07-12 |

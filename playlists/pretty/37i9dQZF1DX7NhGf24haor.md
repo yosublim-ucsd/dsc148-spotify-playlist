@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Warface
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,549 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,772 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 12 | [Get Stompin](https://open.spotify.com/track/7xss5lFXrXr1lD4oqvfFUo) | [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Get Stompin](https://open.spotify.com/album/5PFPqNAQ7TPziUoWiINBbK) | 3:06 |
 | 13 | [Before It All Started](https://open.spotify.com/track/5Rc2js5P8GT3X4ePqVTBXB) | [Solstice](https://open.spotify.com/artist/6Czf2AVSww2aOhW4M6QNHT) | [Before It All Started](https://open.spotify.com/album/2hLgkCah5oCim6YLbYZs4h) | 3:24 |
 | 14 | [Team No Sleep](https://open.spotify.com/track/3khsjS0d0qOwB3x8k5gVca) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Team No Sleep](https://open.spotify.com/album/2e7vCfR5fupyZR9REwk00X) | 2:48 |
-| 15 | [All over Again](https://open.spotify.com/track/0LufEDayNb84PT2Vn2E7Gl) | [Summa Jae](https://open.spotify.com/artist/1fftC0CPDPyJOjJQRLRNnM), [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE) | [All over Again](https://open.spotify.com/album/2S1HbHrxjz2xZiPrnAJ06K) | 2:44 |
+| 15 | [All Over Again](https://open.spotify.com/track/20G9QEycg5HZOsJEbB35JW) | [Summa Jae](https://open.spotify.com/artist/1fftC0CPDPyJOjJQRLRNnM), [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE) | [All Over Again](https://open.spotify.com/album/16bK5p33etOPrPTg31uRIV) | 2:44 |
 | 16 | [Back Around](https://open.spotify.com/track/2bQRk8KtUSsR87dV1DqGRu) | [AZ tronaut](https://open.spotify.com/artist/5O7NMHlC7wQqJHcvU5tznT), [Madshifta](https://open.spotify.com/artist/29joYwMagQUJ4UmKaeqca9), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Back Around](https://open.spotify.com/album/3Fv8MqBRe02B5SYssYucaL) | 4:04 |
 | 17 | [Watch Me Break Free](https://open.spotify.com/track/7AfY7tbTfL5l74UOafmyZD) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Watch Me Break Free](https://open.spotify.com/album/33ZxKF1zK5V3lsrvRaIiwW) | 2:41 |
 | 18 | [Tequila \- 15 Years Mix](https://open.spotify.com/track/1gmwTxnQB5sIRoyuYmV7fE) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [15 Years Da Tweekaz EP](https://open.spotify.com/album/6JbIWQYDfOET1qOPnHcZwf) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [XTC](https://open.spotify.com/track/7yeMfRQjzbyUn3c9TV3KGh) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Verox](https://open.spotify.com/artist/1YxEjbsVeq02klNTE7PFFD) | [XTC](https://open.spotify.com/album/1tWFh0S0BpKy0Ozpm2fBj4) | 2:42 |
 | 100 | [The Fallout](https://open.spotify.com/track/6gQN8T6FQdzXOnHMNRSOwT) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [The Fallout](https://open.spotify.com/album/73xvvycqNUu0WBmVF0AlEz) | 3:29 |
 
-Snapshot ID: `MCw2ZDczZmRiOTBkOTUwZTNkZjMyOGIxYWM5NDIxNzhiNGI5MTZiYzM2`
+Snapshot ID: `MCxmM2Y0MWU3MDY3MzVhMTI3Zjk2YzU5NDg4NWQ5YzRhNDM0ZDg2YmFh`

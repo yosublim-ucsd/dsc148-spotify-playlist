@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 760029,
+  "2024-01-13": 760361,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Leo",
   "name": "Hot Hits Tamil",
@@ -2519,6 +2519,28 @@
       "duration_ms": 176345,
       "name": "Two Two Two (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/6C8JJFoGC4dkVtAHVK3iif"
+    },
+    {
+      "album": {
+        "name": "Chithha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4N2LYZUpZRdVq2344dCeGO"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Dhvani Kailas",
+          "url": "https://open.spotify.com/artist/66wcf4Q64sXblp7ZHTaJC7"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216214,
+      "name": "Unakku Thaan",
+      "url": "https://open.spotify.com/track/7xnSWKXH8XVc8vML9132SZ"
     },
     {
       "album": {

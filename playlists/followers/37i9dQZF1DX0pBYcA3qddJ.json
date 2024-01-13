@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 52046,
+  "2024-01-13": 52024,
   "date_first_scraped": "2022-10-24",
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
   "name": "\u9759\u5bc2\u3068\u9ec4\u660f",
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 254920,
       "name": "Bardenkl\u00e4nge, Book 3: No. 1, An die Entfernte",
       "url": "https://open.spotify.com/track/5Yuwz1gwWZp37ldoSzB0eZ"
@@ -4573,7 +4573,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
@@ -6865,7 +6865,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 380266,
       "name": "PAVANE POUR UNE INFANTE DEFUNTE",
       "url": "https://open.spotify.com/track/6q0hW1XoEdPXCRCXHqGosw"
@@ -8265,7 +8265,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 199136,
       "name": "Shroud of Night",
       "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
@@ -9750,6 +9750,28 @@
     },
     {
       "album": {
+        "name": "Tailleferre: Valse lente",
+        "url": "https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ"
+      },
+      "artists": [
+        {
+          "name": "Germaine Tailleferre",
+          "url": "https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Valse lente",
+      "url": "https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz"
+    },
+    {
+      "album": {
         "name": "Vampire Empire",
         "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
@@ -10187,6 +10209,24 @@
       "duration_ms": 72000,
       "name": "Where'd You Put Me",
       "url": "https://open.spotify.com/track/3UluQekxnRJ32AwobjW1hB"
+    },
+    {
+      "album": {
+        "name": "White Ribbons",
+        "url": "https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264698,
+      "name": "White Ribbons",
+      "url": "https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k"
     },
     {
       "album": {

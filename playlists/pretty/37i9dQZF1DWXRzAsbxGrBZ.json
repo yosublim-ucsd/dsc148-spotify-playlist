@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 40754,
+  "num_followers": 40907,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWVjNzY0ZGVhNWNmZTIwNDc1MDcwYmUxYWZjNjE2NWUzOTlkY2Q1",
+  "snapshot_id": "MCwyMWIzNDk0MzgyMzVmYzJhODJkNjJlYzI0MGVmNmQ3MzgyMzM3MDhm",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -939,18 +939,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Dusty Streets",
-        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+        "name": "Seeking",
+        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
       "artists": [
         {
-          "name": "Eddvin",
-          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+          "name": "Buder Prince",
+          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
+        },
+        {
+          "name": "Ruthes Ma",
+          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
         }
       ],
-      "duration_ms": 386525,
-      "name": "Dusty Streets",
-      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
+      "duration_ms": 397355,
+      "name": "Seeking",
+      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
     }
   ],
   "unique_name": "Deep House Session",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 > This is Central Cee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,940 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,076 likes - 44 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,6 +52,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 42 | [MOVIE \(feat\. Central Cee\)](https://open.spotify.com/track/57fle7Lnf7lOXNf76r2x6C) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [MOVIE \(feat\. Central Cee\)](https://open.spotify.com/album/0fV9Q0CVKecmGnN6hA2OTC) | 3:15 |
 | 43 | [Anthracite](https://open.spotify.com/track/5gPLFBWGzFwOa3uxioiaxk) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Anthracite](https://open.spotify.com/album/1XfQIpBAJPDqT2tWPfCIss) | 2:56 |
 | 44 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
-| 45 | [Next Up \- S2\-E39, Pt\. 1](https://open.spotify.com/track/50Wk2hG12oK5hNqd6NVQSu) | [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Next Up \- S2\-E39](https://open.spotify.com/album/1YcZcfxHqE5lDkfrWxHvbO) | 2:27 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA4OWU2M2YxYWExNzNmOGExNWExNTZhODZhYmUyYjYwNw==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBhYjJiMzIwOWRlMjJmM2JkNGQ3NGQ0OWI1NDMyMGQ3Yw==`

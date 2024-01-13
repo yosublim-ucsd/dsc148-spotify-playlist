@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: FZMZ + icy
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,858 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,882 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 30 | [Odyssey](https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K) | 4:04 |
 | 31 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
 | 32 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 |
-| 33 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
+| 33 | [Kanzen kankaku Dreamer](https://open.spotify.com/track/1XT0cpl9g0GuRQJao2nqXd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:12 |
 | 34 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 35 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
 | 36 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 41 | [sugar cannon ball](https://open.spotify.com/track/6KF2HG0q8q7xighJaoKPvU) | [インディアカヌー](https://open.spotify.com/artist/1KNT3mnqMTCRXaDHkGcm7r) | [sugar cannon ball / alcohol](https://open.spotify.com/album/3s1VTJFQN3viRC9NEh2mfU) | 5:18 |
 | 42 | [風の日](https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELLEGARDEN BEST 1999\-2008](https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK) | 4:12 |
 | 43 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
-| 44 | [Kanzen kankaku Dreamer](https://open.spotify.com/track/1XT0cpl9g0GuRQJao2nqXd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:12 |
+| 44 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
 | 45 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 46 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 |
 | 47 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:42 |
@@ -59,24 +59,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 49 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 |
 | 50 | [恋のメガラバ](https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [恋のメガラバ / G'old〜en〜Guy \(D×D remix\) \[feat\. Misaki\]](https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU) | 5:24 |
 | 51 | [The Autumn Song](https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Missing](https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY) | 3:01 |
-| 52 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
-| 53 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 |
+| 52 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 |
+| 53 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
 | 54 | [Wonder \- Japanese Version](https://open.spotify.com/track/6hZA6dmEWKd7CVCT0FVFZO) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease \(Japanese Version\)](https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD) | 3:47 |
 | 55 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
 | 56 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
 | 57 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
 | 58 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 |
 | 59 | [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 |
-| 60 | [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 |
-| 61 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
+| 60 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
+| 61 | [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 |
 | 62 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 63 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 |
 | 64 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 |
 | 65 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
 | 66 | [Your Head](https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Inside Your Head](https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd) | 3:34 |
-| 67 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
-| 68 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 |
-| 69 | [Enchant](https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Enchant](https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG) | 2:44 |
+| 67 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 |
+| 68 | [Enchant](https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Enchant](https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG) | 2:44 |
+| 69 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
 | 70 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
 | 71 | [Face My Fate](https://open.spotify.com/track/4lrmQhbKY9PSZ4DyepfHvj) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [Face My Fate](https://open.spotify.com/album/40YpB1ShKLeVkWnvvUiyWC) | 3:30 |
 | 72 | [Seaside](https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b) | [THE NOVEMBERS](https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF) | [The Novembers](https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 99 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
 | 100 | [APEX](https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [APEX](https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2) | 3:47 |
 
-Snapshot ID: `MCxhYTVlY2JmYTNhYjg5NTUyMjFiN2QyYzMzMjdkNGE2MzlmNDA2MzMz`
+Snapshot ID: `MCwwMjg0ZGEyYTQ2YjM2YjgzOTk2MTI0ZDRkNjhiODRiZjY4YTJlNjVk`

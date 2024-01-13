@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-525 songs - 1 day 9 hr 34 min
+526 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Beautiful Friendship](https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Beautiful Friendship](https://open.spotify.com/album/5XHl4NgUdeKlyqB8igiTEb) | 3:18 | 2023-09-22 |  |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 |  |
 | [Behind The Counter](https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Behind The Counter](https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6) | 3:22 | 2023-06-21 |  |
+| [Beloved Dance](https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Beloved Dance](https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1) | 3:03 | 2024-01-12 |  |
 | [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 | 2023-08-17 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP) | 3:04 | 2020-11-05 |  |
 | [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-04-26 |  |
@@ -205,7 +206,7 @@
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/4VtPmMgXpruDnONGVxpMk5) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/3SP5ljNhXHuCk3cnoTZEu3) | 3:57 | 2023-09-22 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/3QU0LuySpN6J3jZUb9XYFv) | [Loretta Scott](https://open.spotify.com/artist/0aqKvHRVIcAor1S7jxLvyx) | [Nardis](https://open.spotify.com/album/1llSYGLKfSsFhHPeBdJTRJ) | 3:48 | 2020-10-20\* | 2020-12-09 |
 | [I'm Glad There's You](https://open.spotify.com/track/46xwl2PYDmeEnYGdXnvW2g) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:01 | 2022-09-20 |  |
-| [I'm Old Fashioned](https://open.spotify.com/track/5qaAnqAeGIGJeAl4mEl2CF) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I'm Old Fashioned](https://open.spotify.com/album/2VAEK52l7TchRl2CKfFK4M) | 2:26 | 2024-01-12 |  |
+| [I'm Old Fashioned](https://open.spotify.com/track/5qaAnqAeGIGJeAl4mEl2CF) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I'm Old Fashioned](https://open.spotify.com/album/2VAEK52l7TchRl2CKfFK4M) | 2:26 | 2024-01-12 | 2024-01-13 |
 | [I'm Old Fashioned](https://open.spotify.com/track/2yOraIy6RgkENDX4Wo2z33) | [Tonya Malone](https://open.spotify.com/artist/3uC9zMR3YcPCLX47MTDq6N) | [All Blues](https://open.spotify.com/album/6fC5AN5GxERt3MSZcie5eB) | 3:59 | 2020-10-20\* | 2021-01-21 |
 | [I'm Through With Love](https://open.spotify.com/track/38DuwiVs95AQqNTYTJLJFe) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [I'm Through With Love](https://open.spotify.com/album/1468tP4UUGtE9dHEKSBnbq) | 4:44 | 2022-08-17 |  |
 | [i've got a crush on you](https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [i've got a crush on you](https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4) | 3:36 | 2023-02-16 |  |

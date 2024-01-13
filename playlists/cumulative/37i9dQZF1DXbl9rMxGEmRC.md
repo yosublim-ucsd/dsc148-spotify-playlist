@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-575 songs - 2 day 1 hr 1 min
+576 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Funeral Fog](https://open.spotify.com/track/2lXi7xN0MiTfLb2DW7H9UT) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 5:47 | 2022-07-13 | 2023-02-16 |
 | [Galactic Order](https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Galactic Order](https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt) | 5:22 | 2023-05-12 |  |
 | [Gamle\-Erik](https://open.spotify.com/track/1NI0lQb4FXqGutjDePCaRI) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Helvegr](https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM) | 3:46 | 2023-06-30 | 2023-09-03 |
+| [Gangandi](https://open.spotify.com/track/4AnR4EB1BIn481mcPalt44) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Gangandi](https://open.spotify.com/album/45VQnapn0ZwF6JV2HvAiZ9) | 7:10 | 2024-01-11 |  |
 | [Gehenna](https://open.spotify.com/track/3x2A8myfYInyflbGmZKQDD) | [Se, Josta Ei Puhuta](https://open.spotify.com/artist/1n64pzlYBm5zq9Mvf8C0dk) | [Gehenna](https://open.spotify.com/album/6BFtNQI9JIkLEmcrlWLRdi) | 4:12 | 2021-12-17 | 2022-07-27 |
 | [God Is Wasted](https://open.spotify.com/track/3dX9IN7FSVn1fQZotgM0KU) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/5A0LRCVTtoyd5EWpHdwB11) | 4:18 | 2022-07-13 | 2022-07-29 |
 | [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 | 2022-07-13 | 2023-02-16 |
@@ -249,7 +250,7 @@
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 |  |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
-| [Hybrid Stigmata \- The Apostasy \- Remixed & Remastered](https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Hybrid Stigmata \- The Apostasy \(Remixed & Remastered\)](https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ) | 6:59 | 2022-09-16 |  |
+| [Hybrid Stigmata \- The Apostasy \- Remixed & Remastered](https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Hybrid Stigmata \- The Apostasy \(Remixed & Remastered\)](https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ) | 6:59 | 2022-09-16 | 2024-01-13 |
 | [I](https://open.spotify.com/track/00UC3Q9hxjfgvBzkUpxe3o) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [I](https://open.spotify.com/album/2xjnI3kZzDTIjUe1Zcwb2G) | 9:08 | 2023-10-06 | 2023-11-18 |
 | [I](https://open.spotify.com/track/20Ixhug1ZV3n3XXeB71kDF) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Nattens Madrigal](https://open.spotify.com/album/1Hod8O8aRjCE5RG6aI1GKl) | 6:16 | 2022-07-13 | 2022-09-02 |
 | [I Am Abomination](https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Hellfire](https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2) | 4:10 | 2022-07-13 | 2023-05-05 |

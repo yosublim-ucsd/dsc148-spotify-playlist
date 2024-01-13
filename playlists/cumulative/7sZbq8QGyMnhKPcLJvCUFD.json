@@ -4395,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "I Like It With You",
+        "url": "https://open.spotify.com/album/6Zgev7ySrbUwKAqL10ofNV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175350,
+      "name": "I Like It With You",
+      "url": "https://open.spotify.com/track/5P8vqkiF7Wek3iPOVJmqr0"
+    },
+    {
+      "album": {
         "name": "14/02",
         "url": "https://open.spotify.com/album/49L9LPfiRFp334a9If9igo"
       },
@@ -6254,7 +6272,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 153088,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/4vAze2mrHQgy44qRuz1rCm"
@@ -6312,7 +6330,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 230625,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda"
@@ -9082,6 +9100,32 @@
       "duration_ms": 198620,
       "name": "twenty five",
       "url": "https://open.spotify.com/track/6uFAPsfbzY0oed5p2LH5OR"
+    },
+    {
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/50PnhUD4Z1qTrgDLOgfcXV"
+      },
+      "artists": [
+        {
+          "name": "Lost Sky",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        },
+        {
+          "name": "Chris Linton",
+          "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196847,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/7ImmvnWXfjXGPecqo9eUVt"
     },
     {
       "album": {

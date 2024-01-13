@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-649 songs - 1 day 1 hr 7 min
+650 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [Lost In The Woods](https://open.spotify.com/track/0JaOvwTpEqTo5c28HiEAmg) | [Remizid](https://open.spotify.com/artist/7m4jP3wjMZToVAWAaLUDmA) | [Lost In The Woods](https://open.spotify.com/album/5Gn1a4kRwO4QjcahzNp9gv) | 2:12 | 2022-07-15 | 2022-08-13 |
 | [Lost Lots](https://open.spotify.com/track/6aBgRUf60WTnjOVOMevjkf) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [Lost Lots](https://open.spotify.com/album/5yOedjAsOSa4SkHR3CqNXr) | 2:33 | 2022-11-18 | 2023-09-08 |
 | [lost my color](https://open.spotify.com/track/0z7i8XntrHsfZvkRdJ6EMY) | [Sleepy Numbat](https://open.spotify.com/artist/56NwFpEtEcw83To4Cdzp3v) | [lost my color](https://open.spotify.com/album/1l3LL90YUxY40jZfmHKtNh) | 1:25 | 2022-09-02 | 2023-09-29 |
-| [low spirits](https://open.spotify.com/track/4DQGBbczwjoW0gqEhVC7WT) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/5DeqIVKsD4SzPNPYssdYIg) | 2:06 | 2022-10-14 |  |
+| [low spirits](https://open.spotify.com/track/4DQGBbczwjoW0gqEhVC7WT) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/5DeqIVKsD4SzPNPYssdYIg) | 2:06 | 2022-10-14 | 2024-01-13 |
+| [low spirits](https://open.spotify.com/track/4JEmKIfm4kATo3W58dpmHq) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/2NXoPsYF6q8oNROXkhW8SO) | 2:06 | 2024-01-09 |  |
 | [Low Tension](https://open.spotify.com/track/55MKPPyzRXKgLYPkWXWhZc) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Low Tension](https://open.spotify.com/album/4qIPpwbfTuy8jNPEzI9Jmp) | 2:57 | 2023-01-06 |  |
 | [Low Tide](https://open.spotify.com/track/2AYtdz8to1h6ZAOUaG0BaU) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Low Tide](https://open.spotify.com/album/3TQI5JVPLXrw7cdrSNdqPz) | 2:37 | 2022-07-15 | 2023-01-20 |
 | [Lucid Dream](https://open.spotify.com/track/0ESvr3vqkGTKqyTI35LIEA) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Lucid Dream](https://open.spotify.com/album/0o4EfuIuCZFgiEv26JUzky) | 2:37 | 2022-10-07 |  |

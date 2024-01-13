@@ -1,12 +1,12 @@
 {
   "description": "Son los 90 y prendes la radio.",
-  "num_followers": 32305,
+  "num_followers": 32373,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTczYWQzNjY0ZTdhMjUzMGE3MGM4MzZkNDFmMWFmY2E5ZDY0YmYz",
+  "snapshot_id": "MCxjNDY4ZmRiYzAxOTg3OWQwN2IzNDkzYWRmNmE3NTM4NjRjY2UxMTI3",
   "tracks": [
     {
       "added_at": "2021-12-26 17:51:11",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 357266,
-      "name": "Bitter Sweet Symphony - Remastered 2016",
-      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 274706,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 187666,
       "name": "Te Quiero Tanto, Tanto",
       "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
-      },
-      "artists": [
-        {
-          "name": "Calo",
-          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "Formas De Amor",
-      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 164280,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
+      },
+      "artists": [
+        {
+          "name": "Calo",
+          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "Formas De Amor",
+      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "En Extasis",
-        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 282893,
-      "name": "Piel Morena",
-      "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 322000,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "En Extasis",
+        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 282893,
+      "name": "Piel Morena",
+      "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
     },
     {
       "added_at": "2021-12-26 17:51:11",

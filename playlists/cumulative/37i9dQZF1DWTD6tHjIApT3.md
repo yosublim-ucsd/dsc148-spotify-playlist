@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: ヨルシカ
 
-2,090 songs - 5 day 14 hr 49 min
+2,091 songs - 5 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,8 @@
 | [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 | 2023-10-10 | 2024-01-12 |
 | [I Need U \~君に頼ってもいい?\~](https://open.spotify.com/track/5UyJogrgcVhrP3auoMpRVI) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [I Need U \~君に頼ってもいい?\~](https://open.spotify.com/album/5R0qqaGPA0rGhpmzehMjOr) | 3:37 | 2023-02-14 | 2023-03-15 |
 | [I Never Knew](https://open.spotify.com/track/0FF3Bm8sXxAAbIOD9u4KQh) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [I Never Knew](https://open.spotify.com/album/0LhkREYkYry4cV3wWDbNGJ) | 4:11 | 2022-05-29 | 2022-07-29 |
-| [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 | 2024-01-11 |  |
+| [I Pray](https://open.spotify.com/track/2fAI3SPRCSXmR8rplvuPg9) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P) | 3:22 | 2024-01-11 |  |
+| [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 | 2024-01-11 | 2024-01-13 |
 | [I think I like you](https://open.spotify.com/track/6BKXFIaRSatVeyqtaMmaJl) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [I think I like you](https://open.spotify.com/album/52PFimJPWcCvwn493rRgDv) | 4:05 | 2022-05-31 | 2022-07-13 |
 | [I WANNA 罠?](https://open.spotify.com/track/4s88PpuZHrawbHyEUfwyAy) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [I WANNA 罠?](https://open.spotify.com/album/5cUdH3PrCI4qwIw7oyyoAp) | 3:57 | 2023-08-01 | 2023-08-16 |
 | [I want to be loved like "Sakuranbo"](https://open.spotify.com/track/1wYhLZQ6UaYh287OmZjNEj) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [I want to be loved like "Sakuranbo"](https://open.spotify.com/album/2FtZL6TkQ0a51twIavqPMJ) | 3:29 | 2023-06-27 | 2023-07-05 |

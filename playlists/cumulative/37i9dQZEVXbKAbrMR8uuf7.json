@@ -5840,7 +5840,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 143413,
       "name": "Dif\u00edcil De Reemplazar",
       "url": "https://open.spotify.com/track/1FmVaCRBb2eNOv6SBdFl6I"
@@ -6108,6 +6108,24 @@
       "duration_ms": 149953,
       "name": "Dimelo Bless Vol2",
       "url": "https://open.spotify.com/track/45mag7rLJ1gF0Bm1cac818"
+    },
+    {
+      "album": {
+        "name": "DIOS ES LA VUELTA",
+        "url": "https://open.spotify.com/album/7jcY9hxNX20j36kKiHTPtp"
+      },
+      "artists": [
+        {
+          "name": "El Profeta N",
+          "url": "https://open.spotify.com/artist/32e2ebHcCkrlcighh0bxS4"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166367,
+      "name": "DIOS ES LA VUELTA",
+      "url": "https://open.spotify.com/track/55anYzcOm2t9iICDhiaHbj"
     },
     {
       "album": {
@@ -9470,7 +9488,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 231693,
       "name": "Holanda",
       "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
@@ -19038,7 +19056,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 241855,
       "name": "Qu\u00e9 Chimba!",
       "url": "https://open.spotify.com/track/0jhU9qQxWCMTNriBRauELk"
@@ -20914,7 +20932,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -22572,7 +22590,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 354784,
       "name": "TELEFONO NUEVO",
       "url": "https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY"
@@ -23920,7 +23938,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 165582,
       "name": "UN PREVIEW",
       "url": "https://open.spotify.com/track/5ixdmTpCmH5diBA1j154wN"
@@ -25400,6 +25418,28 @@
       "duration_ms": 199887,
       "name": "YOU THE VIBE",
       "url": "https://open.spotify.com/track/4PFDWganGuWDjkTe5W5Cfw"
+    },
+    {
+      "album": {
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
     },
     {
       "album": {

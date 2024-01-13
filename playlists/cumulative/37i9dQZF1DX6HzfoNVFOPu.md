@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-532 songs - 1 day 10 hr 26 min
+534 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Heaven](https://open.spotify.com/track/2MZ8MnTfejq0uEBCApD8tf) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Birds Of Pray](https://open.spotify.com/album/3L5Trg8OhCuCvu0T0brOi4) | 3:49 | 2022-01-05 | 2022-05-25 |
 | [Hell Yeah](https://open.spotify.com/track/2qABxQZhfAthNxszLiSsUw) | [Rev Theory](https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l) | [Light It Up](https://open.spotify.com/album/5EgFhEPaTv1PmbTd46uTPG) | 4:07 | 2022-01-05 |  |
 | [Henrietta](https://open.spotify.com/track/69h2mpzNUmdEg5egeNa1ki) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6YYhMNDgi37WNGtCDis6PT) | 3:32 | 2022-01-05 | 2022-07-29 |
-| [Here Is Gone](https://open.spotify.com/track/4KqTGPPmXowMPEoShSVOta) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 3:58 | 2022-01-05 |  |
+| [Here Is Gone](https://open.spotify.com/track/4KqTGPPmXowMPEoShSVOta) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 3:58 | 2022-01-05 | 2024-01-13 |
 | [Here to Stay](https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:30 | 2022-01-05 |  |
 | [Here To Stay](https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ) | 4:30 | 2022-01-05 | 2022-07-29 |
 | [Here's to the Night](https://open.spotify.com/track/4tgeQrPu5xkrnwErym2JsJ) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Horrorscope](https://open.spotify.com/album/2aO4ZbunEAG1iaw45Aiosv) | 4:09 | 2022-01-05 | 2022-05-25 |
@@ -431,6 +431,7 @@
 | [Spread Your Love](https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 3:45 | 2022-01-05 | 2023-01-28 |
 | [Staring At The Sun](https://open.spotify.com/track/3wsrqktCCole14XYvLCVzo) | [Simple Kid](https://open.spotify.com/artist/4ZWhakcHJNYrw1hMX3pAV3) | [1](https://open.spotify.com/album/1SnbtxrCHGOXpnOi7B0FsF) | 4:02 | 2022-04-08 | 2022-07-29 |
 | [Stiff Upper Lip](https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Stiff Upper Lip](https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ) | 3:34 | 2022-01-05 |  |
+| [Stockholm Syndrome](https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:56 | 2023-01-18 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/5VVWgWH8HFLAtM8lbttvn9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 4:57 | 2022-01-05 | 2023-12-11 |
 | [Strawberry Swing](https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:09 | 2022-01-05 | 2022-07-25 |
 | [Sucker Train Blues](https://open.spotify.com/track/3IOkrpU4MvCUif4W4ifspF) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE) | 4:27 | 2022-01-05 | 2022-07-29 |
@@ -483,6 +484,7 @@
 | [These Days](https://open.spotify.com/track/75POD9WZXaGavNVyR0LHt4) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:58 | 2022-01-05 | 2023-03-08 |
 | [This Fire](https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 4:14 | 2022-01-05 | 2023-08-27 |
 | [This Modern Love](https://open.spotify.com/track/1798MQBd3lfqa7joQ0ZAEF) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/1VpqO2dBJdAS3YAimXlhEM) | 4:25 | 2022-01-05 | 2022-07-29 |
+| [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 | 2023-01-18 |  |
 | [This Picture](https://open.spotify.com/track/5he7AYCR3MGloRnuWEMroT) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq) | 3:34 | 2022-01-05 | 2022-10-13 |
 | [This Picture](https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 3:34 | 2023-01-18 |  |
 | [Three Seed](https://open.spotify.com/track/7N0p8fqIkwVpTTXSV3V19e) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:40 | 2022-01-05 | 2022-07-20 |
@@ -496,7 +498,7 @@
 | [Too Much, Too Young, Too Fast](https://open.spotify.com/track/2LQbBzrXkgQHnCDUmHjReH) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:46 | 2022-01-05 |  |
 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 | 2022-01-05 | 2022-11-13 |
 | [Troublemaker](https://open.spotify.com/track/31YAGNsQQNl53C05GJKpvF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/58UmKPMguFuYtGMVNol95V) | 2:44 | 2022-01-05 | 2022-07-29 |
-| [Try Honesty](https://open.spotify.com/track/3fPSHjVO4iwwGEhHvTwlNb) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent](https://open.spotify.com/album/4Z4FErymthnN4ctJdKRgko) | 4:15 | 2022-01-05 |  |
+| [Try Honesty](https://open.spotify.com/track/3fPSHjVO4iwwGEhHvTwlNb) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent](https://open.spotify.com/album/4Z4FErymthnN4ctJdKRgko) | 4:15 | 2022-01-05 | 2024-01-13 |
 | [Turnin On The Screw](https://open.spotify.com/track/23GhH0GUzYH7YpkTYUYkO4) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 5:17 | 2022-01-05 | 2022-07-29 |
 | [Ulysses](https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:13 | 2022-01-05 | 2022-07-29 |
 | [Vagabond](https://open.spotify.com/track/37OBhWRMPAvFdxGaNrDg16) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0NV96Rqo10ytbCHlR14E8r) | 3:54 | 2022-01-05 | 2022-07-27 |

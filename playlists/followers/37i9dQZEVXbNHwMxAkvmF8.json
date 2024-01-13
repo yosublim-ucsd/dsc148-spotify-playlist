@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 71718,
+  "2024-01-13": 71654,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Hungary.",
   "name": "Top 50 - Hungary",
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 128580,
       "name": "24 kar\u00e1t",
       "url": "https://open.spotify.com/track/4f1ZqRQsjJq06CHmpvju2p"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 210230,
       "name": "ahogy \u00f6regsz\u00fcnk",
       "url": "https://open.spotify.com/track/2mK7viQsQ73aM9GOGqRO9D"
@@ -4921,7 +4921,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 113842,
       "name": "Eldor\u00e1d\u00f3",
       "url": "https://open.spotify.com/track/7BeoO0doT2iLnmY6wnnexQ"
@@ -11057,7 +11057,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Mes\u00e9lek a bornak",
       "url": "https://open.spotify.com/track/7guuxhxRSe7SDCYIkxodUx"
@@ -13465,7 +13465,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 159637,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/0pWGWWJ9ER9OwUewhBrsi2"
@@ -15759,7 +15759,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 144000,
       "name": "Smash!",
       "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 
 > When someone you love becomes a memory..\. find solace in these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,534 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,308 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 11 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
 | 12 | [Candle In The Wind \- Remastered 2014](https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:48 |
 | 13 | [Tears in Heaven](https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 4:31 |
-| 14 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
-| 15 | [Gone Away \- 1997](https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 4:28 |
-| 16 | [The Prayer](https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:28 |
-| 17 | [I Can Only Imagine](https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh) | 4:08 |
+| 14 | [Gone Away \- 1997](https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 4:28 |
+| 15 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
+| 16 | [I Can Only Imagine](https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh) | 4:08 |
+| 17 | [The Prayer](https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:28 |
 | 18 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
 | 19 | [Run](https://open.spotify.com/track/6kesIBNAY17BoAz28pnWMC) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Final Straw](https://open.spotify.com/album/6rnHGj9PUHcEQCp4xdjbeJ) | 5:54 |
 | 20 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 44 | [Who You'd Be Today](https://open.spotify.com/track/5Vkdh8GfdXmwyJjzPewMWM) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 4:14 |
 | 45 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
 | 46 | [When I Look to the Sky](https://open.spotify.com/track/3h0NvxPV2wiENW2ieih9DL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [My Private Nation](https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1) | 4:04 |
-| 47 | [One More Day](https://open.spotify.com/track/5mcWdITson4DJcYtH5xo0f) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [16 Biggest Hits](https://open.spotify.com/album/09lZwjsn0t2T62XaGUqfwP) | 3:36 |
-| 48 | [Light Up the Sky](https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:41 |
+| 47 | [Light Up the Sky](https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:41 |
+| 48 | [One More Day](https://open.spotify.com/track/5mcWdITson4DJcYtH5xo0f) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [16 Biggest Hits](https://open.spotify.com/album/09lZwjsn0t2T62XaGUqfwP) | 3:36 |
 | 49 | [What Sarah Said](https://open.spotify.com/track/2JFrlsJBH4IDt3Suot97dP) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 6:20 |
 | 50 | [Black Balloon](https://open.spotify.com/track/3kI8fSpOQmL5ax63lBOuH3) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:10 |
 
-Snapshot ID: `MCxhYTJhY2NjZjg4Zjc4NDBiMzEzODZmNWE4NjVlNTljZGE0ZWNlZThl`
+Snapshot ID: `MCw2OWFlOWU3MjQ4NDExNGI0ZGU4YjBjM2U2ZTgwYzJmNmQzYTMyMjZj`

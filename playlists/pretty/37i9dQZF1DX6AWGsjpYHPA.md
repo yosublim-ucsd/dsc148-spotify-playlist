@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,259 likes - 75 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,335 likes - 75 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 19 | [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 |
 | 20 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
 | 21 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
-| 22 | [I Won't Hurt You](https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 2:24 |
-| 23 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
+| 22 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
+| 23 | [I Won't Hurt You](https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 2:24 |
 | 24 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
 | 25 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
 | 26 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 38 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 39 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
 | 40 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
-| 41 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 |
-| 42 | [Imagineering](https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 4:34 |
+| 41 | [Imagineering](https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 4:34 |
+| 42 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 |
 | 43 | [Summon The Fire](https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 3:55 |
 | 44 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
 | 45 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 51 | [Constant Surprises](https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Little Dragon](https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I) | 4:33 |
 | 52 | [Flowers](https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [Flowers](https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks) | 8:52 |
 | 53 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
-| 54 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
-| 55 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
+| 54 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
+| 55 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 | 56 | [Jazz, Vol\. 1](https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Jazz, Vol\. 1](https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA) | 6:37 |
 | 57 | [Dearest Alfred \(MyJoy\)](https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 3:15 |
 | 58 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
 | 75 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 |
 
-Snapshot ID: `MCw1ODEyMTM5Yjk5ZDdmZTliZDk0ODI4ZWVlNWRmOWY0NjAyMjYxNDU3`
+Snapshot ID: `MCxjYTlkOWU1YjhkY2VlYjc0ODIwZDRiZWFhMTVlZWUzYjQzZDYyMjg1`

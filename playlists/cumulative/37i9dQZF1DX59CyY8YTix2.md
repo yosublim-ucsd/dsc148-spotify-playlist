@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: SHISHAMO
 
-1,386 songs - 3 day 14 hr 49 min
+1,387 songs - 3 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,7 +1182,8 @@
 | [想うということ](https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [想うということ](https://open.spotify.com/album/0gGycLeZb40DxSr1dohdiH) | 3:18 | 2024-01-09 |  |
 | [愛ある世界](https://open.spotify.com/track/2LHR0pUDiYc4NiFhnp7YCt) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [愛ある世界](https://open.spotify.com/album/1WUEaIFtxxrkK1PNVhWy7O) | 3:16 | 2022-09-06 | 2022-09-09 |
 | [愛が夢](https://open.spotify.com/track/4tUzXhaC4ZUtMzsfW9FLje) | [°Cーwant you !](https://open.spotify.com/artist/16XQemIhSZIxjm9iycnjk5), [ミートザホープス](https://open.spotify.com/artist/4mEH3Bhaql8KdeDSNBgUZJ) | [愛が夢](https://open.spotify.com/album/7LSVOl48tKIOUauaiI2Lzv) | 5:00 | 2022-06-16 | 2022-06-22 |
-| [愛しあって](https://open.spotify.com/track/2yMAXDukJfVv1TM6a7rJmY) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [愛しあって](https://open.spotify.com/album/05a9A2UpRjQEPEKM55E6yi) | 3:12 | 2023-12-19 |  |
+| [愛しあって](https://open.spotify.com/track/2KYz9ITVEqqkiV9K4zWVxK) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Empire](https://open.spotify.com/album/3eOZSTk2k4cT874YBeanry) | 3:12 | 2024-01-11 |  |
+| [愛しあって](https://open.spotify.com/track/2yMAXDukJfVv1TM6a7rJmY) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [愛しあって](https://open.spotify.com/album/05a9A2UpRjQEPEKM55E6yi) | 3:12 | 2023-12-19 | 2024-01-13 |
 | [愛しあって](https://open.spotify.com/track/4vSE76Coc1app2dPycOuqC) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [愛しあって](https://open.spotify.com/album/477dbCeNtYb10c1ZSFp6B5) | 3:12 | 2023-12-19 | 2023-12-21 |
 | [愛してると言ってくれ](https://open.spotify.com/track/5WC2UZQK9GpAdUI0zSJDeu) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [愛してると言ってくれ](https://open.spotify.com/album/5MjSrfPBQmjEqXwkmUT6LB) | 3:58 | 2022-06-02 | 2022-07-11 |
 | [愛してるよ](https://open.spotify.com/track/20XDiNijvoYBs3ncO2eN4h) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [愛してるよ](https://open.spotify.com/album/0Jx0U0yHSHvX5mCf1T8Fkr) | 3:39 | 2023-12-19 |  |

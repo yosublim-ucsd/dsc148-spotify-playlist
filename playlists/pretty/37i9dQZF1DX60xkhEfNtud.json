@@ -1,12 +1,12 @@
 {
   "description": "Whale song from the deep underwater world of the oceans",
-  "num_followers": 172429,
+  "num_followers": 172542,
   "original_name": "Whale Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWY0MDdjOGE1MTVlMzBiYWI0NTkwNzRkNzdlNTRmMmE1NzBhMTdi",
+  "snapshot_id": "MCwyNjI5MDJlMDM1YmNjODZhODY3ZGY3MjViM2RlOWE5MWRmZTY0NTRm",
   "tracks": [
     {
       "added_at": "2023-06-20 11:32:10",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-06-20 11:32:10",
       "album": {
-        "name": "Tone of Whales",
-        "url": "https://open.spotify.com/album/58OJVATeFUfAFaiWwK7Idc"
+        "name": "Whales in the Wild",
+        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
       },
       "artists": [
         {
-          "name": "Majestic Waters",
-          "url": "https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk"
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
         }
       ],
-      "duration_ms": 132332,
-      "name": "Tone of Whales",
-      "url": "https://open.spotify.com/track/6iRuWHZOz2GH35ljcNqt3i"
+      "duration_ms": 197822,
+      "name": "Whales Singing",
+      "url": "https://open.spotify.com/track/15kTpHlXT02GbofofDh7n5"
     },
     {
       "added_at": "2023-06-20 11:32:10",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-06-20 11:32:10",
       "album": {
-        "name": "Whales in the Wild",
-        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+        "name": "Tone of Whales",
+        "url": "https://open.spotify.com/album/58OJVATeFUfAFaiWwK7Idc"
       },
       "artists": [
         {
-          "name": "Memorable",
-          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+          "name": "Majestic Waters",
+          "url": "https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk"
         }
       ],
-      "duration_ms": 197822,
-      "name": "Whales Singing",
-      "url": "https://open.spotify.com/track/15kTpHlXT02GbofofDh7n5"
+      "duration_ms": 132332,
+      "name": "Tone of Whales",
+      "url": "https://open.spotify.com/track/6iRuWHZOz2GH35ljcNqt3i"
     },
     {
       "added_at": "2023-06-20 11:32:10",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-20 11:32:10",
       "album": {
-        "name": "Whales in the Wild",
-        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
-      },
-      "artists": [
-        {
-          "name": "Memorable",
-          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Whales Communicate",
-      "url": "https://open.spotify.com/track/2ELSswCIzVqnjev2HWrhNk"
-    },
-    {
-      "added_at": "2023-06-20 11:32:10",
-      "album": {
         "name": "Ambient Whale Sounds",
         "url": "https://open.spotify.com/album/2pWbLGvbfu7tSMdSb4ACq7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 140675,
       "name": "Mindfulness Whale Singing",
       "url": "https://open.spotify.com/track/0EvS5F9cdN51uyxc7zD0jc"
+    },
+    {
+      "added_at": "2023-06-20 11:32:10",
+      "album": {
+        "name": "Whales in the Wild",
+        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+      },
+      "artists": [
+        {
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Whales Communicate",
+      "url": "https://open.spotify.com/track/2ELSswCIzVqnjev2HWrhNk"
     },
     {
       "added_at": "2023-06-20 11:32:10",
@@ -475,8 +475,24 @@
     {
       "added_at": "2023-06-20 11:32:10",
       "album": {
-        "name": "Whales in the Deep",
-        "url": "https://open.spotify.com/album/5wprN3cK2FQ9JP9XzKVlPj"
+        "name": "Whales in the Wild",
+        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+      },
+      "artists": [
+        {
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+        }
+      ],
+      "duration_ms": 203862,
+      "name": "North Atlantic Whales",
+      "url": "https://open.spotify.com/track/43RXQFu2Iu62DWhpBXvSOY"
+    },
+    {
+      "added_at": "2023-06-20 11:32:10",
+      "album": {
+        "name": "Whale Songs",
+        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
         }
       ],
-      "duration_ms": 189599,
-      "name": "Whispering Whales",
-      "url": "https://open.spotify.com/track/7zshAhxZAFYlG1XGwXKGIP"
+      "duration_ms": 196721,
+      "name": "Whale Song I",
+      "url": "https://open.spotify.com/track/1200m91gtne5JWrxvRaslI"
     },
     {
       "added_at": "2023-06-20 11:32:10",
@@ -503,22 +519,6 @@
       "duration_ms": 168181,
       "name": "Singing Whales",
       "url": "https://open.spotify.com/track/4migfa50Z5BlG56vAQuS2y"
-    },
-    {
-      "added_at": "2023-06-20 11:32:10",
-      "album": {
-        "name": "Whales in the Wild",
-        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
-      },
-      "artists": [
-        {
-          "name": "Memorable",
-          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
-        }
-      ],
-      "duration_ms": 203862,
-      "name": "North Atlantic Whales",
-      "url": "https://open.spotify.com/track/43RXQFu2Iu62DWhpBXvSOY"
     },
     {
       "added_at": "2023-06-20 11:32:10",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-20 11:32:10",
       "album": {
-        "name": "Whale Songs",
-        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
-      },
-      "artists": [
-        {
-          "name": "Underwater Sound",
-          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Whale Song I",
-      "url": "https://open.spotify.com/track/1200m91gtne5JWrxvRaslI"
-    },
-    {
-      "added_at": "2023-06-20 11:32:10",
-      "album": {
         "name": "Binaural Whales Sound",
         "url": "https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b"
       },
@@ -603,22 +587,6 @@
     {
       "added_at": "2023-06-20 11:32:10",
       "album": {
-        "name": "Whale Sounds",
-        "url": "https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk"
-      },
-      "artists": [
-        {
-          "name": "Weather Batches",
-          "url": "https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT"
-        }
-      ],
-      "duration_ms": 172889,
-      "name": "Ocean Atmosphere",
-      "url": "https://open.spotify.com/track/2gNaYeNB0U0f1YTRESqp6L"
-    },
-    {
-      "added_at": "2023-06-20 11:32:10",
-      "album": {
         "name": "Songs Of The Sea",
         "url": "https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 180000,
       "name": "Balaenoptera Musculus",
       "url": "https://open.spotify.com/track/2AxtKjQpaxjSpNDP8cvTAZ"
+    },
+    {
+      "added_at": "2023-06-20 11:32:10",
+      "album": {
+        "name": "Whales in the Deep",
+        "url": "https://open.spotify.com/album/5wprN3cK2FQ9JP9XzKVlPj"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "duration_ms": 189599,
+      "name": "Whispering Whales",
+      "url": "https://open.spotify.com/track/7zshAhxZAFYlG1XGwXKGIP"
     },
     {
       "added_at": "2023-06-20 11:32:10",
@@ -667,22 +651,6 @@
     {
       "added_at": "2023-06-20 11:32:10",
       "album": {
-        "name": "Underwater Orchestra",
-        "url": "https://open.spotify.com/album/6kx2CDWAq6wuT3dBPSe1XD"
-      },
-      "artists": [
-        {
-          "name": "The Marine Mammals",
-          "url": "https://open.spotify.com/artist/1tkLiFoRextGEuUEjc5QcQ"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "Underwater Orchestra",
-      "url": "https://open.spotify.com/track/6WRf9XzUcFR9UUwPFkeaHe"
-    },
-    {
-      "added_at": "2023-06-20 11:32:10",
-      "album": {
         "name": "Whales in the Sea",
         "url": "https://open.spotify.com/album/4Oo0VSZpJ0RjsaJf3oSQhW"
       },
@@ -695,6 +663,38 @@
       "duration_ms": 192000,
       "name": "Whales in the Sea II",
       "url": "https://open.spotify.com/track/6eO4YceIq0yZFphCJ7ca57"
+    },
+    {
+      "added_at": "2023-06-20 11:32:10",
+      "album": {
+        "name": "Whale Sounds",
+        "url": "https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk"
+      },
+      "artists": [
+        {
+          "name": "Weather Batches",
+          "url": "https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT"
+        }
+      ],
+      "duration_ms": 172889,
+      "name": "Ocean Atmosphere",
+      "url": "https://open.spotify.com/track/2gNaYeNB0U0f1YTRESqp6L"
+    },
+    {
+      "added_at": "2023-06-20 11:32:10",
+      "album": {
+        "name": "Underwater Orchestra",
+        "url": "https://open.spotify.com/album/6kx2CDWAq6wuT3dBPSe1XD"
+      },
+      "artists": [
+        {
+          "name": "The Marine Mammals",
+          "url": "https://open.spotify.com/artist/1tkLiFoRextGEuUEjc5QcQ"
+        }
+      ],
+      "duration_ms": 138760,
+      "name": "Underwater Orchestra",
+      "url": "https://open.spotify.com/track/6WRf9XzUcFR9UUwPFkeaHe"
     },
     {
       "added_at": "2023-06-20 11:32:10",

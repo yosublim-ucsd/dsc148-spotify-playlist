@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: YANGHONGWON(\uc591\ud64d\uc6d0) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Fleeky Bang) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -5366,6 +5366,32 @@
       "duration_ms": 204120,
       "name": "Direction (Feat. GARY)",
       "url": "https://open.spotify.com/track/5YoVoe2bz3x1Ls9ZiDEjL4"
+    },
+    {
+      "album": {
+        "name": "The Predator 2: FLEEKY SYNDROME",
+        "url": "https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G"
+      },
+      "artists": [
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "Polodared",
+          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166305,
+      "name": "DIRTY GANG (Feat. UNEDUCATED KID, Polodared)",
+      "url": "https://open.spotify.com/track/75ifFs7smPWBsraGudDWBC"
     },
     {
       "album": {
@@ -18503,6 +18529,28 @@
     },
     {
       "album": {
+        "name": "The Predator 2: FLEEKY SYNDROME",
+        "url": "https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G"
+      },
+      "artists": [
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "Rosy Barbie",
+          "url": "https://open.spotify.com/artist/6rTUpaGDseTWJW7f1NA4bT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185772,
+      "name": "SAUSAGE (Feat. Rosy Barbie)",
+      "url": "https://open.spotify.com/track/7tH7fYy9TueKzOMVyXUB2L"
+    },
+    {
+      "album": {
         "name": "Save me",
         "url": "https://open.spotify.com/album/5FsoX7fLiz8Nn1r7riC0Zl"
       },
@@ -21650,6 +21698,32 @@
       "duration_ms": 196703,
       "name": "To the Moon (Feat. UNEDUCATED KID)",
       "url": "https://open.spotify.com/track/6MVhgdbH0AKZlEef2dgJ92"
+    },
+    {
+      "album": {
+        "name": "The Predator 2: FLEEKY SYNDROME",
+        "url": "https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G"
+      },
+      "artists": [
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "GOSEGU",
+          "url": "https://open.spotify.com/artist/5MWI1GAHdIrJOGzK4Iu8FI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169339,
+      "name": "TOKYO (Feat. BIG Naughty, GOSEGU)",
+      "url": "https://open.spotify.com/track/6zhleOVaPb0lpwQU8YjlTH"
     },
     {
       "album": {

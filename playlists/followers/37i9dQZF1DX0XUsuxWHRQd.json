@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 15688234,
+  "2024-01-13": 15664014,
   "date_first_scraped": "2019-05-26",
   "description": "Music from Nicki Minaj, Drake and Jack Harlow.",
   "name": "RapCaviar",
@@ -10903,6 +10903,28 @@
       "duration_ms": 322360,
       "name": "First Impression (feat. Quavo & Yung Miami)",
       "url": "https://open.spotify.com/track/605q55PSYbR26lHjamODIz"
+    },
+    {
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228366,
+      "name": "First Off (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3WRIaWsws011vHMd9uzPjG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,535 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,471 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 99 | [Si Estuvieras Conmigo \- Dueto Con Grupo Bryndis](https://open.spotify.com/track/4JgxmSC0CvOZ4WOzNxS2S7) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:40 |
 | 100 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 
-Snapshot ID: `MCxmMjE4YzMwYmQ5MjE1YzAzMDk4MzJhZWQ2Yjk4NDk1MjVhYjhiZmFm`
+Snapshot ID: `MCw4ZDY4OGVhZWZiNDE5Zjk5MDU0NzBmZDdjZGEzNTliZjc2YTNiMmNh`

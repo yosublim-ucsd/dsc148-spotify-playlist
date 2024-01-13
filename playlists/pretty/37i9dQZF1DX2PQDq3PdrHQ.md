@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,466 likes - 311 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,785 likes - 311 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,7 +266,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 256 | [Astral](https://open.spotify.com/track/3HJ6JN74qPgFyC396Qhxou) | [Amesyt](https://open.spotify.com/artist/1JL3JvqNgLxd2S0q5m29Ei), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Astral](https://open.spotify.com/album/3qbkBSdvA8JMGmL3Db1eDM) | 1:49 |
 | 257 | [Colours of Morning](https://open.spotify.com/track/0VCX4S2oVF0xTQ4RlIYZO9) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM), [Arbee](https://open.spotify.com/artist/4jO3BZbmJcXOlIrIsWPSqo) | [Merging Day Into Night](https://open.spotify.com/album/4BVIzjIvLHYp5L9L6sZAMd) | 2:00 |
 | 258 | [a soft storm](https://open.spotify.com/track/0DXnOFTqbfl1pfddteGhs8) | [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [and the rain fell slow](https://open.spotify.com/album/5wPQHvfVceXmWIb8fdwLXa) | 2:00 |
-| 259 | [low spirits](https://open.spotify.com/track/4DQGBbczwjoW0gqEhVC7WT) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/5DeqIVKsD4SzPNPYssdYIg) | 2:06 |
+| 259 | [low spirits](https://open.spotify.com/track/4JEmKIfm4kATo3W58dpmHq) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/2NXoPsYF6q8oNROXkhW8SO) | 2:06 |
 | 260 | [Creatures of Light](https://open.spotify.com/track/5xSStEolYgOteKxDDWtoUU) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Creatures of Light](https://open.spotify.com/album/2A8wMYxaQzcBefrhWwZ0kZ) | 2:22 |
 | 261 | [Breathe](https://open.spotify.com/track/3a1lBgKjKl5z8LokIJSVlq) | [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo), [RdBeats](https://open.spotify.com/artist/77kFStmiMsr6uQ7w2GE5X9), [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Breathe](https://open.spotify.com/album/2E89y3o5xw7ajlEhIltbM7) | 1:34 |
 | 262 | [swanage](https://open.spotify.com/track/4Rvc8667nOikvZhs34TOY5) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi) | [swanage](https://open.spotify.com/album/6zBJwLCjdnrwNucTgvbvP2) | 2:35 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 310 | [Fireflies](https://open.spotify.com/track/30RBPOOwjABC3G1k0QXsfj) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Fireflies](https://open.spotify.com/album/4ZHqOdkFxvVhispfS44eKC) | 2:51 |
 | 311 | [Empyreal](https://open.spotify.com/track/1pvSMxjRqHzDDwSdjOwLbX) | [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Empyreal](https://open.spotify.com/album/75kTZInzYeaqpZstd13B0e) | 2:23 |
 
-Snapshot ID: `MCxlYWNmY2RhYTFhZWUzNzcwOWNmOWUwZWQ4Y2RmM2Y3MzQyMWUyZTE0`
+Snapshot ID: `MCw3ZTQ1ZmY5Mjc1OGE4YTViODczNDk2NmMzMWU4NjVkNzZjMTQ3NGJh`

@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Unknown T
 
-1,637 songs - 3 day 11 hr 25 min
+1,638 songs - 3 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,7 +674,8 @@
 | [Hikikomori](https://open.spotify.com/track/43OWoYeFKJZ2C3uwgn1dVa) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Secure The Bag! 2](https://open.spotify.com/album/3wgVOOs4MJKntqP8nZmZYu) | 3:20 | 2020-11-28 | 2021-01-23 |
 | [Hindsight \(feat\. Nines\)](https://open.spotify.com/track/52xgT8Z0oeyUbGLxvBELVx) | [Little Torment](https://open.spotify.com/artist/5HMjCvzpYeCoeUcpU5g93t), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Lonely Road](https://open.spotify.com/album/51DYuLBFLhRltTINXzmQmJ) | 3:16 | 2021-02-09 | 2021-03-14 |
 | [Hit by a Train](https://open.spotify.com/track/2PqQVRDFYSwfu1nEbt990q) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Hit by a Train](https://open.spotify.com/album/5qt68cDWMBlA86IH2AigFB) | 3:08 | 2021-10-09 | 2021-10-22 |
-| [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/track/3pFYuXwv3UwhwAe0IsuyqD) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/album/1OQlENDsvmiRYDM3WTBXhy) | 3:22 | 2024-01-12 |  |
+| [Hocus Pocus](https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 3:22 | 2024-01-12 |  |
+| [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/track/3pFYuXwv3UwhwAe0IsuyqD) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/album/1OQlENDsvmiRYDM3WTBXhy) | 3:22 | 2024-01-12 | 2024-01-13 |
 | [Hold It Down](https://open.spotify.com/track/3IjlT2JvAXQSl4l3DwnHlg) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Hold It Down](https://open.spotify.com/album/4b4GechkOz1R2G78aeBQLX) | 2:13 | 2022-04-11 | 2022-05-14 |
 | [Hole In One \(feat\. Billy Billions\)](https://open.spotify.com/track/6XBK2SD8U0zv2eYZZlI2hz) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8) | [Hole In One \(feat\. Billy Billions\)](https://open.spotify.com/album/45vpYSUdAeOa0Hva9BnhTg) | 3:33 | 2021-06-26 | 2021-08-03 |
 | [Hollows](https://open.spotify.com/track/3S5QlSVPAatCWNnVaAI102) | [CB](https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [bkayproducer](https://open.spotify.com/artist/4XuCohRQfXJKVtmlFu34wv) | [A Drillers Perspective 2.7](https://open.spotify.com/album/66VJMqcCT2UWLul7ZHyjvF) | 3:04 | 2023-12-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,526 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,459 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 52 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
 | 53 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
 | 54 | [My Funny Valentine](https://open.spotify.com/track/0uqoRVmmU2WM9iDgQBf23R) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:55 |
-| 55 | [The Very Thought Of You](https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 4:16 |
-| 56 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
+| 55 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
+| 56 | [The Very Thought Of You](https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 4:16 |
 | 57 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
 | 58 | [Recipe For Love](https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:34 |
 | 59 | [Blue Moon](https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 3:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 84 | [Luck Be A Lady](https://open.spotify.com/track/6WAoKqfh8CAqTbjiLkM4q1) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:35 |
 | 85 | [After Hours](https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 2:54 |
 
-Snapshot ID: `MCw5YjNiYzc4NWZjODc2ZDA1YzY2YTNlNzM3ZmQwYjUyY2QxNGYzZDg4`
+Snapshot ID: `MCw3MDhhNDliYzViNTNmMTc3NjUxZWFiNjNiOTcxOTE0NzUxMTJkOWJk`

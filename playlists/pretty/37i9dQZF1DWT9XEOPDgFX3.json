@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
-  "num_followers": 87582,
+  "num_followers": 87659,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmRiNTExOGEwZjc5YTJjMWE0N2ZmNjY0NzU4OTRlYTRlNDE3YmQw",
+  "snapshot_id": "MCw3ZWNhNmQ5MTJlYjRlNmNhZGE4MmNmNzQwNGZjNTY0ODMyMWYzOTVh",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Worst Case Kid",
         "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Broadview",
-      "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -639,22 +655,6 @@
       "duration_ms": 163384,
       "name": "whore",
       "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "The Ballad of Betty and Barney Hill",
-        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 196755,
-      "name": "The Ballad of Betty and Barney Hill",
-      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Vanilla Sky",
-        "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "King Street",
-      "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Vanilla Sky",
+        "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "King Street",
+      "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Shove",
-        "url": "https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb"
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
       "artists": [
         {
-          "name": "Mali Velasquez",
-          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 159852,
-      "name": "Shove",
-      "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
+      "duration_ms": 462500,
+      "name": "Mohabbat",
+      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Vulture Prince",
-        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+        "name": "Shove",
+        "url": "https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb"
       },
       "artists": [
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
         }
       ],
-      "duration_ms": 462500,
-      "name": "Mohabbat",
-      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+      "duration_ms": 159852,
+      "name": "Shove",
+      "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 210173,
       "name": "Is There Something in the Movies?",
       "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 174465,
-      "name": "It's Infinite",
-      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Forever Turned Around",
         "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 190466,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "It's Infinite",
+      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "my house is warm",
-        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "my house is warm",
-      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "my house is warm",
+        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "my house is warm",
+      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1263,6 +1263,38 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -1275,6 +1307,22 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 221415,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1299,38 +1347,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Planet Song",
         "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
       },
@@ -1343,6 +1359,22 @@
       "duration_ms": 210281,
       "name": "Planet Song",
       "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Kansas",
+        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 211734,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1379,22 +1411,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Kansas",
-        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 211734,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Rare Feeling",
         "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 245849,
       "name": "Dear Mexico (Thank You for Joyce)",
       "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "I Promise",
-        "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
-      },
-      "artists": [
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 221415,
-      "name": "I Promise",
-      "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Why You?",
-      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "I'm Green",
         "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "what we leave behind",
-        "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 259314,
-      "name": "bloomington",
-      "url": "https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6"
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Sundowner",
-        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
+        "name": "what we leave behind",
+        "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 319053,
-      "name": "Campfire",
-      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
+      "duration_ms": 259314,
+      "name": "bloomington",
+      "url": "https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 218413,
       "name": "Polly",
       "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Sundowner",
+        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Mozart in My Mind",
+        "url": "https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
+      "duration_ms": 186050,
+      "name": "Mozart in My Mind",
+      "url": "https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mozart in My Mind",
-        "url": "https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ"
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
       "artists": [
         {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 186050,
-      "name": "Mozart in My Mind",
-      "url": "https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8"
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "The Cabin",
-        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
-      },
-      "artists": [
-        {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
-        }
-      ],
-      "duration_ms": 237547,
-      "name": "The Cabin",
-      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Shell",
         "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
       },
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
+        "name": "The Cabin",
+        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
         }
       ],
-      "duration_ms": 217293,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+      "duration_ms": 237547,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1779,6 +1763,22 @@
       "duration_ms": 139559,
       "name": "Cheese",
       "url": "https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Come June",
-        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 216964,
-      "name": "Come June",
-      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Blue Moon (with paris jackson)",
         "url": "https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 149680,
       "name": "Blue Moon (with paris jackson)",
       "url": "https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Come June",
+        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 216964,
+      "name": "Come June",
+      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "the sum of the in-between",
         "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 167426,
       "name": "eight hours",
       "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
     }
   ],
   "unique_name": "Folk Arc",

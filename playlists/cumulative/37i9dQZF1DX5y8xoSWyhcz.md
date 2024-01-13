@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,151 songs - 2 day 11 hr 5 min
+1,153 songs - 2 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 | 2021-10-09 | 2021-10-30 |
 | [CHARGER](https://open.spotify.com/track/0iBBOvVQ8QCK7F95boCn3C) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can You Hear Me Now?](https://open.spotify.com/album/54AUddF7LyGKylFLSNoK8g) | 2:29 | 2021-01-23 | 2021-04-24 |
 | [cheap flowers](https://open.spotify.com/track/6NsU8OFGg51u3nMKmb7Old) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [a teenage diary](https://open.spotify.com/album/1e8SCLzmt8yJUi831rSfha) | 3:26 | 2021-07-24 | 2021-09-18 |
-| [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 | 2023-11-24 |  |
+| [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 | 2023-11-24 | 2024-01-13 |
 | [cheerios](https://open.spotify.com/track/3TAvhqb2YtfR4J7ejniBg2) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [postcard from Milan](https://open.spotify.com/album/6m86vj4gewDwcEL95tm2j2) | 3:38 | 2022-01-07 | 2022-05-14 |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/1PZDyestTVydtHpaIcfUJg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/5p5cFBRERDfiNJlfABACP0) | 4:31 | 2021-01-15 | 2021-03-19 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-01-14 | 2022-01-22 |
@@ -221,7 +221,7 @@
 | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS) | 3:01 | 2021-08-07 | 2021-10-02 |
 | [dancefloor](https://open.spotify.com/track/7byjPy9Cz5tsCIBREaQcL7) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/36yeo4rBQT3gYI905d5lHd) | 3:22 | 2020-10-29\* | 2020-11-04 |
 | [Dancing in My Room](https://open.spotify.com/track/7CCCX50zGHMTuHsyKQy03l) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/0dwXkSf1hMjZgqKUkeoR4l) | 3:00 | 2020-11-03 | 2021-04-24 |
-| [dancing in the dark](https://open.spotify.com/track/0GWGdtHDEWTmt7iCc1A9DM) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [a happy medium](https://open.spotify.com/album/7kibZ3ebsdQwbKNEJ0q3xP) | 3:09 | 2022-09-02 |  |
+| [dancing in the dark](https://open.spotify.com/track/0GWGdtHDEWTmt7iCc1A9DM) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [a happy medium](https://open.spotify.com/album/7kibZ3ebsdQwbKNEJ0q3xP) | 3:09 | 2022-09-02 | 2024-01-13 |
 | [Dancing on This Line](https://open.spotify.com/track/2TzNaQPMjpt2XdEXu3iaWa) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Dancing on This Line](https://open.spotify.com/album/6HCkTmHUKeQ52BVaptGU8e) | 4:12 | 2022-05-06 | 2022-07-16 |
 | [dancing with the dead](https://open.spotify.com/track/3kHeyz9qENrscXY4tBpdS7) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [dancing with the dead](https://open.spotify.com/album/0MfaLfmENi9IrSSNTtZ6UK) | 3:41 | 2021-10-30 | 2021-11-20 |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-07 | 2023-02-11 |
@@ -686,6 +686,7 @@
 | [my life is boring](https://open.spotify.com/track/5OstHpGQNqun8D10ToLuzM) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [my life is boring](https://open.spotify.com/album/0tEIZbCGdcGATBeSO6rT8i) | 2:19 | 2021-09-04 | 2021-12-24 |
 | [my love](https://open.spotify.com/track/69psSAnAf9PdNniP0MKIqL) | [rchel](https://open.spotify.com/artist/26wnM2YSYsE3xg8mC6PvPK) | [my love](https://open.spotify.com/album/5VvQykTIFWCeue4uPMfYKC) | 2:35 | 2020-12-19 | 2021-03-14 |
 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 | 2021-12-11 | 2022-04-29 |
+| [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 |  |
 | [Never Be Okay](https://open.spotify.com/track/3suBx1FwnByNTLB0ba8LOA) | [Lilianna Wilde](https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY) | [Never Be Okay](https://open.spotify.com/album/5aE1KqucFKgRHuusbV1S1P) | 2:16 | 2022-03-18 | 2023-02-17 |
 | [Never Ending](https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:57 | 2022-03-04 | 2022-03-19 |
 | [Never Had](https://open.spotify.com/track/6BUZERWFUMJmiWyMW0qH1p) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Never Had](https://open.spotify.com/album/2ZvYrGPgoLTN7SM7JAys7V) | 2:32 | 2020-10-29\* | 2021-01-27 |
@@ -723,6 +724,7 @@
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-05-29 | 2021-11-20 |
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-04-15 | 2023-04-09 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 |  |
+| [Oddly Enough](https://open.spotify.com/track/0wTRA4l4kRHoG7qR29vvXi) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Oddly Enough](https://open.spotify.com/album/2mwK3K2XDwk1U0umEjtS9b) | 2:45 | 2024-01-12 |  |
 | [off](https://open.spotify.com/track/0ZaoyHVn2qHN7NoTqH2qbK) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Good Karma](https://open.spotify.com/artist/3e1VExchYabwD6b6QDe4rI) | [off](https://open.spotify.com/album/3hq0lrG23NHRQmMmuLlDmF) | 2:31 | 2023-02-10 | 2023-04-01 |
 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 | 2021-05-15 | 2021-06-27 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4syyKlhOWbsZUsZ4DwmJxH) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Oh shit…are we in love?](https://open.spotify.com/album/48w4LOmCFBERYFr7QkT4VA) | 2:35 | 2021-09-04 | 2022-01-15 |

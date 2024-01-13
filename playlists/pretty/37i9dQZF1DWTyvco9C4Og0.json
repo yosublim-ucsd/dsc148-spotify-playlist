@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed: Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 900319,
+  "num_followers": 898492,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTA1MTZjMWVjODNmMmJkNmU0NWM5MmNjYzVjMmYxNzBhYWQwM2Vh",
+  "snapshot_id": "MCxjY2NkNjYxOTU3Y2YzMjQ0NmUzZTc0MTJkNGVjY2Q3N2EzYTk4YWY0",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "Perd\u00ed la Pose",
+      "url": "https://open.spotify.com/track/2CPydcSEGdoMbcWj48fsia"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "A la Medida",
         "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 157840,
-      "name": "Perd\u00ed la Pose",
-      "url": "https://open.spotify.com/track/2CPydcSEGdoMbcWj48fsia"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
-        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 147514,
-      "name": "El Rey de Mil Coronas - En VIvo",
-      "url": "https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 132773,
       "name": "Ya No Vuelvo a Molestarte",
       "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
+        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 147514,
+      "name": "El Rey de Mil Coronas - En VIvo",
+      "url": "https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Qu\u00e9 Ganas De Verte",
         "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
-      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
+      "duration_ms": 206800,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 173407,
       "name": "No Hay Quinto Malo",
       "url": "https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/5NPYJpOYIFV1cx0suyWsTi"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Se Vei\u0301a Venir",
-      "url": "https://open.spotify.com/track/13id1MDO0sh4k3Gf9tNHMi"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida",
         "url": "https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu"
       },
@@ -1331,22 +1315,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Acar\u00edciame El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "Debajo Del Sombrero",
-      "url": "https://open.spotify.com/track/4znumtgYaw6lsfJ7Jo910g"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Lo Mejor De Lucha Villa",
         "url": "https://open.spotify.com/album/05yE3cp9cIYw1aJjE8ybgs"
       },
@@ -1359,6 +1327,54 @@
       "duration_ms": 178584,
       "name": "Amanec\u00ed En Tus Brazos",
       "url": "https://open.spotify.com/track/6Yzyvz6Pujj7a3FgdNlSuD"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/5NPYJpOYIFV1cx0suyWsTi"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Se Vei\u0301a Venir",
+      "url": "https://open.spotify.com/track/13id1MDO0sh4k3Gf9tNHMi"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 114733,
+      "name": "Ases y Tercia de Reyes",
+      "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Acar\u00edciame El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "Debajo Del Sombrero",
+      "url": "https://open.spotify.com/track/4znumtgYaw6lsfJ7Jo910g"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 186626,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 114733,
-      "name": "Ases y Tercia de Reyes",
-      "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Es La Diferencia",
-        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 144360,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Es La Diferencia",
+        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
     },
     {
       "added_at": "2023-09-01 06:00:00",

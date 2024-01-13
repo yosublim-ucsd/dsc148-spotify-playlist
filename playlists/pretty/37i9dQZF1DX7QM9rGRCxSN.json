@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 29121,
+  "num_followers": 29139,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODQ2NjY2ODU0YzRlMTdkNmRmOTk1MzYyNjA0NzNjNTljOThiOWUy",
+  "snapshot_id": "MCw2ZmE5YmJhZTY1N2NiMWVjMzA5ZjgxYTlkNTM5ZjZiMzc3MmIxY2Zm",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Sintetica",
+        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
+      },
+      "artists": [
+        {
+          "name": "Nudozurdo",
+          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+        }
+      ],
+      "duration_ms": 273493,
+      "name": "Mil Espejos",
+      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
+    },
+    {
       "added_at": "2023-11-24 06:00:00",
       "album": {
         "name": "Jupiter and Beyond the Infinite",
@@ -307,22 +323,6 @@
       "duration_ms": 235015,
       "name": "Jupiter and Beyond the Infinite",
       "url": "https://open.spotify.com/track/3ZrFLt8CMFvkccp9a0tcHe"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Sintetica",
-        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
-      },
-      "artists": [
-        {
-          "name": "Nudozurdo",
-          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
-        }
-      ],
-      "duration_ms": 273493,
-      "name": "Mil Espejos",
-      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Jungla",
-        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
-      },
-      "artists": [
-        {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Mapas",
-      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Sigo",
         "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 199294,
       "name": "Sigo",
       "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Jungla",
+        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+      },
+      "artists": [
+        {
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Mapas",
+      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
     },
     {
       "added_at": "2023-05-05 06:00:00",

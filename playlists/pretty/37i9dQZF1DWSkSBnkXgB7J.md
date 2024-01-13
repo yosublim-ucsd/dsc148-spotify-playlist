@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,508 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,512 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7 PM](https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/6X1pSxDd8HhPgB1li6YHXB) | 2:36 |
 | 2 | [Ountha](https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg) | 3:27 |
-| 3 | [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 |
+| 3 | [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 |
 | 4 | [AMANA](https://open.spotify.com/track/0DAnkEea6lZ0CFlZMHWop0) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/2TkMBE1z1BwYwuir446P1r) | 2:46 |
 | 5 | [Habba Fo2](https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Habba Fo2](https://open.spotify.com/album/2qLsLY0ElXdXYY9iDiAjYw) | 2:59 |
 | 6 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 9 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 |
 | 10 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 |
 | 11 | [عشانك](https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/56AVpqfi0bb5Er9csg3gnk) | 3:07 |
-| 12 | [لا تغيبي](https://open.spotify.com/track/1TllJwxsdASrBOUec8JFlV) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bilal Derky](https://open.spotify.com/artist/7E3aW1jsT4X56lJObxhXKp) | [لا تغيبي](https://open.spotify.com/album/0rjh2wonHJmoQ5O2RLvua1) | 3:38 |
+| 12 | [لا تغيبي](https://open.spotify.com/track/1TllJwxsdASrBOUec8JFlV) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bilal Derky](https://open.spotify.com/artist/7E3aW1jsT4X56lJObxhXKp) | [لا تغيبي](https://open.spotify.com/album/0rjh2wonHJmoQ5O2RLvua1) | 3:38 |
 | 13 | [Manni Asef](https://open.spotify.com/track/27Xo0Tkk9E8OftqyR98wXx) | [Ahmad Akkad](https://open.spotify.com/artist/38KYoTxMDeNvGClVdMVc7q) | [Manni Asef](https://open.spotify.com/album/0fEh4DmXGE7SIT7RudtOwo) | 3:30 |
 | 14 | [يا باغية](https://open.spotify.com/track/3LoGJ6zyg8fjU6VUZrY22J) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [يا باغية](https://open.spotify.com/album/1Irq3gHlsgtZ8uP4trE6Bd) | 3:17 |
 | 15 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 22 | [my secrets](https://open.spotify.com/track/2FUMEJlBFVUaa8ikJD29lF) | [1Take](https://open.spotify.com/artist/52NTEGHT81WhaH9Npafc0G) | [my secrets](https://open.spotify.com/album/0OOKu50qAAcHsgNUUvHXI1) | 4:32 |
 | 23 | [ولا صحبه احلى](https://open.spotify.com/track/5abjiC8O2jUGyXhFozLhOc) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [ولا صحبه احلى](https://open.spotify.com/album/4SP39vn0J6IBX3HlnPNqGO) | 3:21 |
 | 24 | [Kam Molahza](https://open.spotify.com/track/4ZCLvKj9wtAX5HE0TWBihS) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [كام ملاحظة](https://open.spotify.com/album/4N1Lhxoue6GRiMnUtaWrIk) | 3:15 |
-| 25 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 |
+| 25 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 |
 | 26 | [Dounya](https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG) | [othmanouilki](https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5) | [Dounya](https://open.spotify.com/album/7wPcqrlsQuPXO15iysENkm) | 3:35 |
 | 27 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 |
 | 28 | [Sebak \- سيبك](https://open.spotify.com/track/1cNljxhP45g5o2RLN92MTZ) | [Kabalo](https://open.spotify.com/artist/5cEoeRMApsZrnKkonrfXdX) | [Sebak \- سيبك](https://open.spotify.com/album/16WxAua0GVxd1VQvdm701k) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 49 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
 | 50 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 |
 
-Snapshot ID: `MCxjYzc2YmQ2ZDAwY2JjNGYwYzBkNTY0ODA4MjU2OTYxMDg3MWU3ZTdh`
+Snapshot ID: `MCw5ZGNhMzJhNWRkOTJiOGM5YThhY2NiYmRlZWI1NGVlMGU5ZGExNjM4`

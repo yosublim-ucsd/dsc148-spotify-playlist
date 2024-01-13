@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,189 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,234 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 14 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 15 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 16 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
-| 17 | [Capable of love](https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 3:43 |
-| 18 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
+| 17 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
+| 18 | [Capable of love](https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 3:43 |
 | 19 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 |
 | 20 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 21 | [the ride\-](https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:10 |
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 29 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
 | 30 | [Who He Iz](https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:01 |
 | 31 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
-| 32 | [Selfish Soul](https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:22 |
-| 33 | [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 |
+| 32 | [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 |
+| 33 | [Selfish Soul](https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:22 |
 | 34 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
-| 35 | [Basquiat](https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [The End of the World](https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i) | 3:55 |
-| 36 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
+| 35 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
+| 36 | [Basquiat](https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [The End of the World](https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i) | 3:55 |
 | 37 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 |
 | 38 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 39 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 40 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 |
 | 41 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 |
 | 42 | [Wish](https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:01 |
-| 43 | [Devotion](https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 2:45 |
-| 44 | [enknee1](https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:44 |
-| 45 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
+| 43 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
+| 44 | [Devotion](https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 2:45 |
+| 45 | [enknee1](https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:44 |
 | 46 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
 | 47 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 48 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
 | 49 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
 | 50 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
 
-Snapshot ID: `MCxiZmQyZWZjNGRiZDM5NmNkOTY1MDE4OWM4ZTRkNzA3YjllNzEwZDJi`
+Snapshot ID: `MCxhMDRhZjcwNjM5ZmMzYTNkZjUzYzQ0ZDMwNGU2ODA0YWU4Zjc5ZTc1`

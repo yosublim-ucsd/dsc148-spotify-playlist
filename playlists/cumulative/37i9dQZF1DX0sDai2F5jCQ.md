@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: ONEFOUR
+> Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: 21 Savage
 
-148 songs - 7 hr 21 min
+149 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-10-19 | 2023-12-01 |
 | [Mask On \[Feat\. Joey BadA$$\]](https://open.spotify.com/track/3ICvetSViYp5NedhfHCq6i) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 2:52 | 2023-10-12 | 2023-11-03 |
 | [More Life](https://open.spotify.com/track/2seoURSCaa0mVLqodKvnTF) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [More Life](https://open.spotify.com/album/2LPnUdCOWHiKa8doWVtHum) | 3:08 | 2023-09-22 | 2023-11-17 |
+| [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-12 |  |
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2023-12-08 |  |
 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 | 2023-09-22 | 2023-10-13 |
 | [No Reason](https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO) | [808Riot](https://open.spotify.com/artist/3gnDrRehqMUXOrKU6mBUOe), [JAKOBI](https://open.spotify.com/artist/3IeagIAbCK3T2TRQUO0Wwt) | [No Reason](https://open.spotify.com/album/5Mrxmb4rgY5yFs6wQy9UCB) | 2:04 | 2024-01-04 |  |

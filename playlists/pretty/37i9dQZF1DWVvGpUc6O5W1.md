@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,880 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,904 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 28 | [Pa' Que No Me Andén Contando](https://open.spotify.com/track/6WmDxFQYvdt6Ecy6M9tVgf) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Clase de Historia](https://open.spotify.com/album/0P9LadsczPB6D05zC4Ifat) | 2:44 |
 | 29 | [Si No Es Contigo](https://open.spotify.com/track/6zwhKdzJ4NXdY4HLU7pjns) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 3:02 |
 | 30 | [La Magia de Tus Ojos](https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 2:49 |
-| 31 | [Vas A Recordarme](https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Vas A Recordarme](https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV) | 3:56 |
+| 31 | [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 |
 | 32 | [Quiero Que Vuelvas](https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quiero Que Vuelvas](https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX) | 2:36 |
-| 33 | [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 |
+| 33 | [Vas A Recordarme](https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Vas A Recordarme](https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV) | 3:56 |
 | 34 | [Ojos En Blanco](https://open.spotify.com/track/5bURAR8Tswhcj1DAwCtoac) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:24 |
 | 35 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/5EQDA6xM2wUfrKOoT6QoRn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Cuánto A Que Te Olvido](https://open.spotify.com/album/7FkvXmGwNgh74yRwVAaQRw) | 3:23 |
 | 36 | [Verme Brillar](https://open.spotify.com/track/6ze9VusaYl2wjZjDAik7dr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 2:50 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 76 | [Pa' No Quedarme Con las Ganas](https://open.spotify.com/track/4mgFxkomGzWG5V0wD2FsFI) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Mano a Mano](https://open.spotify.com/album/36VIysGLIhLjb7m1kU8dBn) | 2:56 |
 | 77 | [Me Empezó A Valer](https://open.spotify.com/track/5D3X775rPruzExNKev9yD3) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Me Empezó A Valer](https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb) | 2:35 |
 | 78 | [La Historia Que Tu Cuentas](https://open.spotify.com/track/20zFEDfhs3OCEFkACT1W0U) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [La Verdadera Joya](https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF) | 3:11 |
-| 79 | [A los 18](https://open.spotify.com/track/63tmXHQtTfG81P34RwPltx) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Mi Vicio y Mi Adiccion](https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG) | 2:40 |
-| 80 | [Si el Destino Quiso](https://open.spotify.com/track/62VNhuQWOjgBuEgMnqanjx) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Todo Va Estar Bien](https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ) | 3:14 |
+| 79 | [Si el Destino Quiso](https://open.spotify.com/track/62VNhuQWOjgBuEgMnqanjx) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Todo Va Estar Bien](https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ) | 3:14 |
+| 80 | [A los 18](https://open.spotify.com/track/63tmXHQtTfG81P34RwPltx) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Mi Vicio y Mi Adiccion](https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG) | 2:40 |
 | 81 | [Amigo del Amigo](https://open.spotify.com/track/0chWKhxxtVg4UqcBLcxZn3) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Clase de Historia](https://open.spotify.com/album/0P9LadsczPB6D05zC4Ifat) | 2:55 |
 | 82 | [No Te Hagas La Fuerte](https://open.spotify.com/track/1L8T5KEkPQq9cjlFIBNy1U) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [La Vida Del Rey](https://open.spotify.com/album/6f90dt695TsUJxfrumZi1H) | 3:34 |
 | 83 | [Si Te Ven Conmigo \(Version Mariachi\)](https://open.spotify.com/track/61sfDlvI3C1bBPzuWLoNrR) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Eternamente Mexicano](https://open.spotify.com/album/0xYEnJYnRgad7itSBrVQiT) | 2:43 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 85 | [Me Enamoras](https://open.spotify.com/track/3UHdYZVfVsWVpPtv0k5JQm) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Quiero Ser Tu Dueño](https://open.spotify.com/album/6Tvn0zXKNlKZUisPepycYG) | 2:52 |
 | 86 | [Invítame](https://open.spotify.com/track/2aC9VOfADBeuWNkWkbjUD8) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Invítame](https://open.spotify.com/album/6tdBpuY7xprf7sJ2FEn0WQ) | 2:37 |
 | 87 | [Claro](https://open.spotify.com/track/3nztdzVzO5c4tn2fHMCw7l) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 3:41 |
-| 88 | [Me Dolio](https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Con la Misma Sangre](https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO) | 3:00 |
-| 89 | [No Pidas Tantos Besos](https://open.spotify.com/track/4DqWHaLn57FD9pjA6XskNe) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [La Verdadera Joya](https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF) | 2:42 |
+| 88 | [No Pidas Tantos Besos](https://open.spotify.com/track/4DqWHaLn57FD9pjA6XskNe) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [La Verdadera Joya](https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF) | 2:42 |
+| 89 | [Me Dolio](https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Con la Misma Sangre](https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO) | 3:00 |
 | 90 | [Para Que No Te Lo Imagines](https://open.spotify.com/track/18pl2xFm8lYKPzqwktYeoz) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Para Que No Te Lo Imagines](https://open.spotify.com/album/1nOxhTNxrg8S4k9kzFexlr) | 3:00 |
 | 91 | [No Es Un Juego](https://open.spotify.com/track/4brAkdbamMA7UuS0IEjiRZ) | [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [No Es Un Juego](https://open.spotify.com/album/0H8HvLS6Gv0ZStVuZiz9jD) | 3:36 |
 | 92 | [Tu Frágil Desnudez](https://open.spotify.com/track/2X7pK6x3eAR8hP0Lg4Ejb7) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 3:03 |
@@ -112,11 +112,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 102 | [Dos Extraños](https://open.spotify.com/track/1ZBVlahbKua4iyDDbHnkEZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd) | 2:25 |
 | 103 | [Porque No Nos Damos](https://open.spotify.com/track/6c97taRbeED76s2Y0v5B9G) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:03 |
 | 104 | [Lo Que Hacemos En Tu Cama](https://open.spotify.com/track/01U82GCUOncrdHenabtlDk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 2:26 |
-| 105 | [Buenos Días Mi Amor](https://open.spotify.com/track/7E0SZ6IsOiI4luYGSZFdk7) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [El Hijo Del Desierto](https://open.spotify.com/album/4Ei1NhM8VkWmoiNXkazooV) | 3:07 |
-| 106 | [Las Matemáticas](https://open.spotify.com/track/56fkIibWkNf9VeCBqxAS5t) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Ahora Soy Yo](https://open.spotify.com/album/7rKufttsZYMnWMhrTWm6Xl) | 3:11 |
+| 105 | [Las Matemáticas](https://open.spotify.com/track/56fkIibWkNf9VeCBqxAS5t) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Ahora Soy Yo](https://open.spotify.com/album/7rKufttsZYMnWMhrTWm6Xl) | 3:11 |
+| 106 | [Buenos Días Mi Amor](https://open.spotify.com/track/7E0SZ6IsOiI4luYGSZFdk7) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [El Hijo Del Desierto](https://open.spotify.com/album/4Ei1NhM8VkWmoiNXkazooV) | 3:07 |
 | 107 | [Haciendo Historia](https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:20 |
-| 108 | [Dejando Huella](https://open.spotify.com/track/30t4VO3UfXfmXacza0226g) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Dejando Huella](https://open.spotify.com/album/1Z3AtcwaeDnEbeWamC9545) | 3:30 |
-| 109 | [No Consigo Olvidarte](https://open.spotify.com/track/3qxqgXhdqXutYKeOQmphCG) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6) | [No Consigo Olvidarte](https://open.spotify.com/album/7Mv0GXTjDXE3aH8sekxGf3) | 3:49 |
+| 108 | [No Consigo Olvidarte](https://open.spotify.com/track/3qxqgXhdqXutYKeOQmphCG) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6) | [No Consigo Olvidarte](https://open.spotify.com/album/7Mv0GXTjDXE3aH8sekxGf3) | 3:49 |
+| 109 | [Dejando Huella](https://open.spotify.com/track/30t4VO3UfXfmXacza0226g) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Dejando Huella](https://open.spotify.com/album/1Z3AtcwaeDnEbeWamC9545) | 3:30 |
 | 110 | [Sin Afán de Ofender](https://open.spotify.com/track/4hNkHR6txWI3dIv9bDTYty) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Sin Presumir](https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi) | 3:41 |
 | 111 | [Cada Vez Que Te Quiero Olvidar](https://open.spotify.com/track/6efn9mwd36AdpXeX7e51o1) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Abrázame](https://open.spotify.com/album/5pfEUz1jaF88mRe24DX89e) | 3:25 |
 | 112 | [Vivir En Pecado](https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD) | [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA) | [Vivir En Pecado](https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC) | 3:12 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 149 | [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 |
 | 150 | [Pude](https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA) | [Gabriel Diaz](https://open.spotify.com/artist/4FqkFAlXmpAJGOsc9k4GBO) | [Prohibido El Amor](https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9) | 3:20 |
 
-Snapshot ID: `MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4`
+Snapshot ID: `MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0`

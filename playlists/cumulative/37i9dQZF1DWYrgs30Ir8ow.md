@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Lil Nas X
 
-414 songs - 19 hr 56 min
+416 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Flip Flops](https://open.spotify.com/track/6uVTOJ519YPiVjQqV52nse) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Flip Flops](https://open.spotify.com/album/357TcCWG8M77WVXX1xXWmY) | 3:29 | 2023-10-05 | 2023-11-03 |
 | [Florida 2009](https://open.spotify.com/track/23M2pHxtt3QACQJKSYd69Y) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Fryslân](https://open.spotify.com/album/0EUaEFRUhjmGkIPaEoEGIY) | 2:03 | 2023-12-13 | 2023-12-22 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-23 | 2023-03-02 |
-| [Forever \(Stay Like This\)](https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:32 | 2024-01-11 |  |
+| [Forever \(Stay Like This\)](https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:32 | 2024-01-11 | 2024-01-13 |
+| [Forever \(Stay Like This\)](https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm) | 2:32 | 2024-01-11 |  |
 | [Friends ;\)](https://open.spotify.com/track/49SNbAIw8fVt05OzBArbr7) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Friends ;\)](https://open.spotify.com/album/5CrUfeMnviNo7PA8j3lMDk) | 2:33 | 2023-02-23 | 2023-03-28 |
 | [Friesenjung](https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:26 | 2023-12-12 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-08-03 | 2023-09-01 |
@@ -410,6 +411,7 @@
 | [Witte Duiven](https://open.spotify.com/track/2Kc3Zqu8hzWJBsJgnBtbGa) | [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm) | [Witte Duiven](https://open.spotify.com/album/2CAsrEQhyk7i7T1ouGbhU0) | 2:39 | 2023-03-30 | 2023-05-05 |
 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-02-23 | 2023-03-31 |
 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 | 2023-06-30 | 2023-08-18 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [You and I](https://open.spotify.com/track/6XXSyQ7oyblFvOrx6lLA7j) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [You and I](https://open.spotify.com/album/1I3wKoVk918S6AYkqyYpy3) | 2:25 | 2023-09-07 | 2023-10-06 |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-30 |  |
 | [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/track/3oZYSdQ1tCqi8uoRqGAext) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/album/6dCuGy0Vmc6QQkeW5zZroi) | 4:11 | 2023-05-04 | 2023-06-06 |

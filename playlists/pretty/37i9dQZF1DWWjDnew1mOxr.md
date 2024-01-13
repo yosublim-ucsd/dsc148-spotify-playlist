@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: The Vaccines
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,487 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,505 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 17 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
 | 18 | [You Change with the Seasons](https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Get Away from the Feeling](https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC) | 3:50 |
 | 19 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 |
-| 20 | [Do You Want It?](https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Do You Want It?](https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4) | 3:10 |
-| 21 | [Hometown](https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR) | 4:53 |
-| 22 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
+| 20 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
+| 21 | [Do You Want It?](https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Do You Want It?](https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4) | 3:10 |
+| 22 | [Hometown](https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR) | 4:53 |
 | 23 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 24 | [Lucy](https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Lucy](https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf) | 4:20 |
 | 25 | [How Do You Sleep At Night?](https://open.spotify.com/track/2K37XDEcpev2hUDbb14XGd) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [How Do You Sleep At Night?](https://open.spotify.com/album/49TAgh1ogazJrsGUvgp5tu) | 3:28 |
 | 26 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 |
-| 27 | [Chancer](https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/0FscsScxqerBl7PldWu0dv) | 3:15 |
-| 28 | [I'm a Liar](https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shaking Hips and Crashing Cars](https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5) | 3:39 |
+| 27 | [I'm a Liar](https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shaking Hips and Crashing Cars](https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5) | 3:39 |
+| 28 | [Chancer](https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/0FscsScxqerBl7PldWu0dv) | 3:15 |
 | 29 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 |
 | 30 | [Fickle Fran \(feat\. Billy Bragg\)](https://open.spotify.com/track/0mX9xhRMwmx6qvqRzHLXlj) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS), [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Fickle Fran \(feat\. Billy Bragg\)](https://open.spotify.com/album/5AO5eNGtaNBXnN0gwnrkJP) | 3:45 |
 | 31 | [Yesterday Is Gone](https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Yesterday Is Gone](https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo) | 3:16 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 51 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
 | 52 | [What a Shame](https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [What a Shame](https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb) | 2:58 |
 | 53 | [Cavalryman](https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt) | 3:13 |
-| 54 | [Find My Way Around](https://open.spotify.com/track/4R9aYkJz3drmXGdETRnndb) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Find My Way Around](https://open.spotify.com/album/6sE8AmGoJcgIHTTKtKC40n) | 3:15 |
-| 55 | [Brakelights](https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brakelights](https://open.spotify.com/album/1PrcKV1b7YuPD7HgTq9mFo) | 3:20 |
+| 54 | [Brakelights](https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brakelights](https://open.spotify.com/album/1PrcKV1b7YuPD7HgTq9mFo) | 3:20 |
+| 55 | [Find My Way Around](https://open.spotify.com/track/4R9aYkJz3drmXGdETRnndb) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Find My Way Around](https://open.spotify.com/album/6sE8AmGoJcgIHTTKtKC40n) | 3:15 |
 | 56 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
 | 57 | [Black Cat](https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Black Cat](https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb) | 2:20 |
 | 58 | [One More Night With No One](https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [One More Night With No One](https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7) | 3:20 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 60 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
 | 61 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 |
 | 62 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 |
-| 63 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 |
-| 64 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
+| 63 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
+| 64 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 |
 | 65 | [Wave](https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V) | 3:08 |
 | 66 | [Godless](https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Godless](https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs) | 3:19 |
 | 67 | [MESSED UP KIDS](https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MESSED UP KIDS](https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L) | 2:57 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 71 | [Going Nowhere](https://open.spotify.com/track/07PfgizN70SFfSP134eAU2) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [People Like Me & You](https://open.spotify.com/album/5CctSFDfkZCmQOp5vMfGA4) | 3:56 |
 | 72 | [No Guilt](https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [No Guilt](https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9) | 2:04 |
 | 73 | [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 |
-| 74 | [Hardly News](https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [2](https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe) | 3:22 |
-| 75 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 |
+| 74 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 |
+| 75 | [Hardly News](https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [2](https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe) | 3:22 |
 | 76 | [Just Move](https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6) | 3:06 |
 | 77 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 |
 | 78 | [Hold Yr Horses](https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Hold Yr Horses](https://open.spotify.com/album/20OuG64r08ZIIaxArM2Spc) | 2:32 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 88 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 |
 | 89 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 |
 | 90 | [Female of the Species](https://open.spotify.com/track/2K8kox96chIc5gFJVRWJgg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [A Sense Of Doubt](https://open.spotify.com/album/7rarto0TdC6zceBil7cgxK) | 3:06 |
-| 91 | [We'll Be Alreet](https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [We'll Be Alreet](https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6) | 2:57 |
-| 92 | [PRAWN SOUP](https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [Prawn Soup](https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y) | 2:33 |
+| 91 | [PRAWN SOUP](https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [Prawn Soup](https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y) | 2:33 |
+| 92 | [We'll Be Alreet](https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [We'll Be Alreet](https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6) | 2:57 |
 | 93 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 |
 | 94 | [Isn't](https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Isn't](https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv) | 3:47 |
 | 95 | [Fading Away](https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fading Away](https://open.spotify.com/album/5VbFZPiASp3zmXHDVIcG3V) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 99 | [Hummus and Pitta](https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Hummus and Pitta](https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v) | 2:17 |
 | 100 | [Patsy Decline](https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0) | [RATS](https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0) | [Jenny / Patsy Decline](https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD) | 2:46 |
 
-Snapshot ID: `MCwwNDY0MTRiZDFlNTc4Yzg0NjIxYjdmYzA1YTY4MDkxNTM2MTNmNGVk`
+Snapshot ID: `MCw4MDg5Mzc0YzljMDVmNGUyZDU3YjliNDBmNTY4MmRiMjFlYTM3ZjVi`

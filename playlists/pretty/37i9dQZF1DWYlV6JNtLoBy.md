@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,374 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,379 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 46 | [Promesse](https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Trip of the Faith](https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF) | 3:15 |
 | 47 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 |
 | 48 | [Tumeshinda](https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4), [Godwill Babette](https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X) | [Tumeshinda](https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9) | 6:05 |
-| 49 | [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 |
+| 49 | [Everything \(Amen\)](https://open.spotify.com/track/0fMFygZkl6SxSgYbXNQZME) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/2nF5JgRAYmjOPTsRVnHX9Q) | 3:57 |
 | 50 | [Sweetie Sweetie](https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sweetie Sweetie](https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg) | 5:16 |
 
-Snapshot ID: `MCwzYzBlZDhmMTdjNDg3NDRkODQ0NDMxMTk1NDFkY2NkM2M2MDIyZWEw`
+Snapshot ID: `MCwwOTBiNjk2MWQ3MmFmODFjMmNmMGU5YWExOTExNmI5NTJlYWU5YjQz`

@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: asiris
 
-335 songs - 19 hr 16 min
+336 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Runaway](https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc) | 4:32 | 2022-03-12 |  |
 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 | 2023-03-24 | 2023-05-14 |
 | [same old eyes](https://open.spotify.com/track/6nrtAP312bEU352crkOQtu) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [same old eyes](https://open.spotify.com/album/037rgatHuGpK38geQio3H0) | 3:10 | 2023-12-01 |  |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-12 |  |
 | [Searching](https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Searching](https://open.spotify.com/album/6b4Az2MguoWdDlB9Jm2815) | 2:24 | 2021-11-12 | 2022-12-31 |
 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 | 2021-11-12 | 2023-11-23 |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-11-12 | 2023-04-01 |
@@ -295,7 +296,7 @@
 | [Thinking 'Bout Love](https://open.spotify.com/track/3d3LHam2Lc5ADEyJxG3fXE) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/7cbcg2z1LuCJ2rxAtBRxHt) | 3:19 | 2021-11-12 | 2022-07-29 |
 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 | 2022-03-12 |  |
 | [This Could Be Good](https://open.spotify.com/track/3QQE11HFATxA6PnlixpMcg) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [This Could Be Good](https://open.spotify.com/album/3RnoFLcycTpSUc675Iwqjv) | 3:00 | 2021-11-12 | 2022-07-29 |
-| [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 | 2022-03-12 |  |
+| [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 | 2022-03-12 | 2024-01-13 |
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-03-10 | 2023-09-28 |
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:51 | 2023-09-22 |  |
 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 | 2021-11-12 | 2023-08-26 |

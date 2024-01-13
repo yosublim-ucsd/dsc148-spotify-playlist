@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,813 likes - 40 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,839 likes - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 19 | [Kombdi Palali \- From "Jatra"](https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 5:06 |
 | 20 | [Aapli Yaari \(feat\. Adarsh Shinde & Sonali Sonawane\)](https://open.spotify.com/track/22nv3KXCCog0nWTljg60ax) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc) | [Aapli Yaari \(feat\. Adarsh Shinde & Sonali Sonawane\)](https://open.spotify.com/album/37wGTZ4QC8wVqmIRr8x5Ha) | 4:54 |
 | 21 | [Ved Lavlay](https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR) | 3:51 |
-| 22 | [Baaygo Baaygo](https://open.spotify.com/track/5fd9sY2cFgVGhCc1popLbY) | [Ajay](https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH), [Atul Gogavale](https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob) | [Ringa Ringa](https://open.spotify.com/album/5AUCIkaMURDFGsS6ycGlPe) | 4:32 |
+| 22 | [Baaygo Baaygo \- From "Ringa Ringa"](https://open.spotify.com/track/5clzHGXtLse37TfRK3puiq) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 4:32 |
 | 23 | [Mi Naadkhula](https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Vishal Phale](https://open.spotify.com/artist/5WRKRK4jQ2b1fGYLLDOmqo), [Pratibha Joshi](https://open.spotify.com/artist/50Uud5UqMWgsGHqqUoMTcx) | [Mi Naadkhula](https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l) | 4:19 |
 | 24 | [Malhar](https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Zindagi Virat](https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra) | 4:09 |
 | 25 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 39 | [Dolby Walya](https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Earl Edgar](https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS) | [Jau Dya Na Balasaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK) | 5:35 |
 | 40 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 
-Snapshot ID: `MCw4NDBkZDJkYzZmZjI0NjUzOTA5MTZkNjk4NmIyYjNmYzhmYzE3ZGEx`
+Snapshot ID: `MCwwMGMzNWVmMDJlMDhiNWJkODliM2M4ZTljZDI0YjZmOTFkMDgwZTU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,713 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,780 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 44 | [Cagoule](https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 3:06 |
 | 45 | [4 PREZ](https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [4 PREZ](https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll) | 2:29 |
 | 46 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
-| 47 | [UDNTLUVME](https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0) | 2:18 |
-| 48 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
+| 47 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
+| 48 | [UDNTLUVME](https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0) | 2:18 |
 | 49 | [Leave](https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo) | [The Szns](https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU), [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Leave](https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs) | 2:54 |
 | 50 | [Who You Touch Pt\. 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Defiant Presents: Jiggy In Jersey](https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v) | 2:18 |
 | 51 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 74 | [Ick](https://open.spotify.com/track/3gZilge8NsINDKKlZD03Zg) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Ick](https://open.spotify.com/album/3u1Xhy32TsbVeuVknYfrLE) | 1:55 |
 | 75 | [Need \(Bonus Track\)](https://open.spotify.com/track/01aojvlRe3mwlEwTnLVUbs) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 2:37 |
 
-Snapshot ID: `MCw1MTgwNjlhOTgyOTU4MmJiZjk4YTgxNDM2YTBmZWRjYmJlMzhjMDJk`
+Snapshot ID: `MCw3ZDBkMTU5MzE0OGJkNWJiM2Q5YzQ3NzkwOTM3Nzc5M2E5YWQ1YmY1`

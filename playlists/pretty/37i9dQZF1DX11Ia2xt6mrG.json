@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55756,
+  "num_followers": 55752,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWMzMjBiMWVlZWFhOTAwNmExNWJmYjU3MzllM2I3ZjhmYTk2NjM5",
+  "snapshot_id": "MCxmODI2NDNmODk4MTdhN2VmMjU1MDZmMTQ3NmIzYzRjOWM4MDhmYjM1",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -907,30 +907,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/3P5litolcBSrBCXCOijk0A"
       },
@@ -955,6 +931,30 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "MASERATI",
         "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 166611,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "El Pana Dero",
         "url": "https://open.spotify.com/album/5B1upn3tokanXGtSeSuGHM"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 164160,
       "name": "El Pana Dero",
       "url": "https://open.spotify.com/track/6rlhaRVuyfMEbLqdY7iWEP"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "This Generation",
+        "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
+      },
+      "artists": [
+        {
+          "name": "Tadeo Fernandez",
+          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "This Generation",
+      "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Brake Test",
         "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 137812,
       "name": "Brake Test",
       "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "This Generation",
-        "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
-      },
-      "artists": [
-        {
-          "name": "Tadeo Fernandez",
-          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "This Generation",
-      "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "M13D0!!!",
+        "url": "https://open.spotify.com/album/4aTl3DWFahOvOjDALn1hgp"
+      },
+      "artists": [
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        },
+        {
+          "name": "Mikeanyway",
+          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
+        }
+      ],
+      "duration_ms": 213031,
+      "name": "M13D0!!!",
+      "url": "https://open.spotify.com/track/3Z9FCYR83E8qPTOp8CPmaO"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
       },
@@ -1495,26 +1515,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "M13D0!!!",
-        "url": "https://open.spotify.com/album/4aTl3DWFahOvOjDALn1hgp"
-      },
-      "artists": [
-        {
-          "name": "Tzunami",
-          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
-        },
-        {
-          "name": "Mikeanyway",
-          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
-        }
-      ],
-      "duration_ms": 213031,
-      "name": "M13D0!!!",
-      "url": "https://open.spotify.com/track/3Z9FCYR83E8qPTOp8CPmaO"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Empty Words",
         "url": "https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 167500,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Baby 'O",
-        "url": "https://open.spotify.com/album/4hwb8VxXw7wek68HBzxEYk"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Baby 'O",
-      "url": "https://open.spotify.com/track/6GA3AQKqCvdzfsqNFGfbrL"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 150966,
       "name": "Agua Pa Beber",
       "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Baby 'O",
+        "url": "https://open.spotify.com/album/4hwb8VxXw7wek68HBzxEYk"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Baby 'O",
+      "url": "https://open.spotify.com/track/6GA3AQKqCvdzfsqNFGfbrL"
     },
     {
       "added_at": "2023-12-22 06:00:00",

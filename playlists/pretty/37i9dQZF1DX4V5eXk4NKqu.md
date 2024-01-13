@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks of today, featuring Silvestre y La Naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,014 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,929 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 15 | [Fresh](https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fresh](https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD) | 2:45 |
 | 16 | [Meu Amore](https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Meu Amore](https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ) | 3:09 |
 | 17 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 |
-| 18 | [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 |
-| 19 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
+| 18 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
+| 19 | [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 |
 | 20 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
 | 21 | [Dime pa saber](https://open.spotify.com/track/1HF4LhWOji1ukadhdnC1Py) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Dime pa saber](https://open.spotify.com/album/4UEhJl0egkIvQyRFMS6Egg) | 2:53 |
 | 22 | [Se Te Nota](https://open.spotify.com/track/5kokNg16pOhrirK3kmgbQ4) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:50 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 49 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
 | 50 | [LA RUTA NATURAL](https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF) | 3:17 |
 | 51 | [A carta cabal](https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 4:29 |
-| 52 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 |
-| 53 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
+| 52 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
+| 53 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 |
 | 54 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 |
 | 55 | [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 |
 | 56 | [Fake News](https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Fake News + Alba](https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 |
 | 75 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
 
-Snapshot ID: `MCw3MDViZDAzM2JlZDQ2NDdhYTNhOWU1NDBiZDJiYmQ3ZDU5ZTQ3MGE5`
+Snapshot ID: `MCw2YTA1ZTk1MDZjYWFiODE5NTYxYWRjNzFmYTE5YWIxYzJmNDE5NWRh`

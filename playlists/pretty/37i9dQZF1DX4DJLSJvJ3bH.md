@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,550 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,503 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 48 | [The Twelve Days of Christmas](https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 4:00 |
 | 49 | [The Holly and the Ivy](https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 1:30 |
 | 50 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
-| 51 | [The Christmas Song](https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [A Joyful Holiday](https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU) | 3:26 |
-| 52 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
+| 51 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
+| 52 | [The Christmas Song](https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [A Joyful Holiday](https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU) | 3:26 |
 | 53 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
 | 54 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 55 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 87 | [Christmas Blues](https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:47 |
 | 88 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 4:27 |
 | 89 | [A Child Is Born](https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [A Child Is Born](https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW) | 3:19 |
-| 90 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Ultimate Jazz Christmas](https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL) | 2:17 |
-| 91 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
+| 90 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
+| 91 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Ultimate Jazz Christmas](https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL) | 2:17 |
 | 92 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 |
 | 93 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
 | 94 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/6YlfwPv17X9gr6K22dR3QY) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 3:20 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 124 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [We Wish You A Merry Christmas](https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg) | 2:41 |
 | 125 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
 
-Snapshot ID: `MCw2YTYxZDdkZWNjNWY0NDdiOGM5ZWI1ZDg1M2ZjZTJkYmIxYzhlNGRi`
+Snapshot ID: `MCw2YjljM2Y2OTgyNTkyMGIxZGQ1MzQ4ZWQzNTBmMjNjY2JlODc2NzFl`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-823 songs - 1 day 17 hr 23 min
+824 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,7 @@
 | [Küçük Bir Yol](https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Küçük Bir Yol](https://open.spotify.com/album/7jaKipywn8miD34MQ6G946) | 4:40 | 2022-09-09 | 2022-09-24 |
 | [Kılıçdaroğlu](https://open.spotify.com/track/7Fcd576Wwi9R70D1xtHtm9) | [Onur Akın](https://open.spotify.com/artist/4CQctd09SRWjRoo3G7QBZf) | [Kılıçdaroğlu](https://open.spotify.com/album/2l6dmbCmOruZ5vnO3Bip9X) | 3:55 | 2023-05-15 | 2023-05-17 |
 | [Kısa Mesafe](https://open.spotify.com/track/4dnAQt79Fr4q7TVecSb1e7) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/7pRxARASmabm3sMrD8k9Ib) | 2:27 | 2023-11-27 | 2023-12-02 |
-| [Kısa Mesafe](https://open.spotify.com/track/7AeN1Miu6Io3ewNUdBzhyy) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/3cGFDjql98FAXNFzyiZBAb) | 2:27 | 2023-12-01 |  |
+| [Kısa Mesafe](https://open.spotify.com/track/7AeN1Miu6Io3ewNUdBzhyy) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/3cGFDjql98FAXNFzyiZBAb) | 2:27 | 2023-12-01 | 2024-01-13 |
 | [LACIVERT](https://open.spotify.com/track/26h7iVBq3DSR9ex0BpT8GO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [ECLIPSE \(Original Soundtrack\)](https://open.spotify.com/album/5LPrbOrlvZ8lnb2CMexS2e) | 3:55 | 2023-11-21 | 2023-11-24 |
 | [Lafı mı Olur](https://open.spotify.com/track/6UX8nGE5sT7FsUAgQILD6X) | [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90) | [İşte Ses İşte Yorum](https://open.spotify.com/album/3J3TjBgZWHMEo9FeKrBwke) | 3:32 | 2023-09-25 | 2024-01-04 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-15 |
@@ -724,6 +724,7 @@
 | [Tanırım İntiharı](https://open.spotify.com/track/7s6yYB04JE83gdTybGJe4x) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Tanırım İntiharı](https://open.spotify.com/album/0miT4OrEIjnNlLDDHFPetS) | 2:47 | 2022-11-02 | 2022-11-06 |
 | [Taştan](https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc) | 2:56 | 2023-07-08 | 2023-07-10 |
 | [Tek Tabanca](https://open.spotify.com/track/3GXsNll1tpH9h9R3ygsEmB) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Tek Tabanca](https://open.spotify.com/album/6IZwq14LBnRItURc1H4r4Y) | 4:23 | 2021-04-18 | 2021-04-19 |
+| [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 | 2024-01-12 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-04-26 |
 | [The Face of Vision](https://open.spotify.com/track/7cGoaJCRVhU3dH8M5RwrUb) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [The Face of Vision](https://open.spotify.com/album/3g0WjXnhgC5eldeXQyuJ9r) | 2:21 | 2021-12-30 | 2022-01-06 |
 | [Tiki Taka Flow](https://open.spotify.com/track/3WY8ZHo8BfZqOaLmCYyBJo) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Tiki Taka Flow](https://open.spotify.com/album/3DlqxCDQFdrHspa5Fo4R5I) | 2:50 | 2021-10-03 | 2021-10-11 |

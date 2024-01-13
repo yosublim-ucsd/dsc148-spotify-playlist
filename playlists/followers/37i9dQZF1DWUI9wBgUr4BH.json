@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 286956,
+  "2024-01-13": 286912,
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Jung Kook",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Lil Nas X",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -363,6 +363,28 @@
       "duration_ms": 204591,
       "name": "Bateau Blanc",
       "url": "https://open.spotify.com/track/5BkJc8jHlngxxSINeUKo7A"
+    },
+    {
+      "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "Beau (feat. Julien Dor\u00e9)",
+      "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
     },
     {
       "album": {
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
@@ -1570,6 +1592,28 @@
     },
     {
       "album": {
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "album": {
         "name": "Heart Still Beating",
         "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
       },
@@ -1844,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
+    },
+    {
+      "album": {
         "name": "J'fais que danser",
         "url": "https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27"
       },
@@ -1913,7 +1975,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 203693,
       "name": "Je n'oublie pas",
       "url": "https://open.spotify.com/track/0hFK73Z6tXs6S5YFPL72eW"
@@ -2179,7 +2241,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 145525,
       "name": "Life Is Life (C'est la vie)",
       "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
@@ -2311,7 +2373,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 180127,
       "name": "Losing You - Spotify Singles",
       "url": "https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ"
@@ -2849,7 +2911,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 216386,
       "name": "NOTRE DAME",
       "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
@@ -3991,6 +4053,24 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214438,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
     },
     {
       "album": {

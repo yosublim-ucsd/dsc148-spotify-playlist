@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,238 songs - 3 day 4 hr 16 min
+1,239 songs - 3 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,7 +648,8 @@
 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 | 2023-08-02 |
 | [Radio Star](https://open.spotify.com/track/403fQdcKjArXQGy9N9Ovee) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Radio Star](https://open.spotify.com/album/5sTnegCUd4nlDKucRR6tHY) | 3:48 | 2022-07-19 | 2022-08-17 |
 | [Raging Fire](https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Electric Man](https://open.spotify.com/album/6bwdq1YGGRsDEXNhJQ50iC) | 3:22 | 2023-11-28 | 2023-12-06 |
-| [Railway](https://open.spotify.com/track/7iYheHCJUnQwWe8HojM8bV) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Railway](https://open.spotify.com/album/5wMH0FfCB5YXgLD0x07QWQ) | 3:46 | 2024-01-11 |  |
+| [Railway](https://open.spotify.com/track/3fVcu9RJB3XyMxzDypFIJe) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Railway](https://open.spotify.com/album/6b7FR3UIlTfI4m8u5QaE9W) | 3:46 | 2024-01-11 |  |
+| [Railway](https://open.spotify.com/track/7iYheHCJUnQwWe8HojM8bV) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Railway](https://open.spotify.com/album/5wMH0FfCB5YXgLD0x07QWQ) | 3:46 | 2024-01-11 | 2024-01-13 |
 | [Rain](https://open.spotify.com/track/6qZu1EgDfzDRGPrNtxJ3Vt) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [Rain](https://open.spotify.com/album/5k0YCzq4A7zvCmIIgJYrHK) | 4:09 | 2022-08-03 | 2022-08-25 |
 | [Rainbow](https://open.spotify.com/track/6crmtADvci3cPjB2jjjVqm) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Rainbow](https://open.spotify.com/album/30NIxP2VrovM30Jm0CvMhU) | 4:09 | 2022-05-26 | 2022-07-01 |
 | [RARE \(feat\. Wez Atlas\)](https://open.spotify.com/track/3AqN8DorsUD7QYuZAqRxZn) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [RARE \(feat\. Wez Atlas\)](https://open.spotify.com/album/2ImAR34ee6IoLtmgWLupp1) | 3:04 | 2023-03-28 | 2023-04-05 |

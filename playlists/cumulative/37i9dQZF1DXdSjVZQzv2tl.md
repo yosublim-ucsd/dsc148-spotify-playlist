@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Ana Castela, Gustavo Mioto
 
-187 songs - 8 hr 53 min
+188 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Basiquinho \- Ao Vivo](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho \(Ao Vivo\)](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 | 2022-08-22 | 2023-12-11 |
 | [Batom de Cereja \- Ao Vivo](https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 2:20 | 2021-12-31 | 2022-02-19 |
 | [Beijo de Glicose \- Ao Vivo](https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Beijo de Glicose \(Ao Vivo\)](https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC) | 2:51 | 2022-09-09 | 2023-12-11 |
+| [Beijo Equivocado](https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Beijo Equivocado](https://open.spotify.com/album/5omEOoTV8w9GpCeCOmvSpT) | 2:36 | 2024-01-12 |  |
 | [Beijo Fuleiro \- Ao Vivo](https://open.spotify.com/track/55vC6IXdrqntPOZeMQJ8Kd) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Beijo Fuleiro \(Ao Vivo\)](https://open.spotify.com/album/2HzDbcpXFKvh4cnEEJ3Ds7) | 2:48 | 2023-07-21 | 2023-11-11 |
 | [Bloqueado \- Ao Vivo](https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:48 | 2022-09-09 | 2022-10-15 |
 | [Bloqueado \- Ao Vivo](https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK) | 2:48 | 2021-12-31 | 2022-09-11 |

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-981 songs - 2 day 11 hr 45 min
+982 songs - 2 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-10-07 | 2022-10-18 |
 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 | 2022-07-15 | 2022-07-20 |
 | [Debe Haber](https://open.spotify.com/track/0cRAMf7FEpTjLdVbsJBCZU) | [Gigio&spiker](https://open.spotify.com/artist/2wxDtL8blvAzPuZsXT6qdO) | [Debe Haber](https://open.spotify.com/album/4UKYI4j1euthMJJgJyszo6) | 3:16 | 2022-03-28 | 2022-04-15 |
-| [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 | 2021-12-24 |  |
+| [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 | 2021-12-24 | 2024-01-13 |
 | [Dedos de Mimbre](https://open.spotify.com/track/6fIf0vqGuOeOadqJwIUzOP) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Nahuel Pennisi Canta Spinetta \(renarena\)](https://open.spotify.com/album/77CMK3j774kYdER3DD0Z3O) | 3:51 | 2022-04-13 | 2022-04-18 |
 | [Deja De Pedir Perdon \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 | 2022-04-08 | 2022-04-12 |
 | [Del Parral](https://open.spotify.com/track/1eUavbitIDbMPe9mGRnkTr) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [Del Parral](https://open.spotify.com/album/4456yXFOijUYKTTstraEaJ) | 4:21 | 2022-03-28 | 2022-04-13 |
@@ -274,6 +274,7 @@
 | [Dime Quién Me Lo Robó](https://open.spotify.com/track/2Iu1PNxGImKU2zP9e4QYeV) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 6:40 | 2022-03-24 | 2022-04-20 |
 | [Disfruto, La Quiero a Ella](https://open.spotify.com/track/6Yu0lPp8iWZEIPYw8YzePn) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto, La Quiero a Ella](https://open.spotify.com/album/1EviGLb1bEqdomEAiuxnA4) | 6:03 | 2023-04-14 | 2023-11-02 |
 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 | 2023-07-07 | 2023-07-29 |
+| [DOM1NGO](https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:08 | 2024-01-12 |  |
 | [Domador de Sombras \(En Directo\)](https://open.spotify.com/track/0QCVY0jGbjElFXcNGPXu8w) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Enlace en Estado Vivo, Vol\. 1 \(En Directo\)](https://open.spotify.com/album/3t8KmV5ReT7gZpnhUZwp5M) | 3:25 | 2022-04-08 | 2022-04-14 |
 | [Domingo Con las Pibas](https://open.spotify.com/track/4uZsgoYI7ekFxQCcZ9QGkE) | [Negra Chavez](https://open.spotify.com/artist/0I5kEgYYTLupe5XJk3q0t7) | [Domingo Con las Pibas](https://open.spotify.com/album/6XSzfAGzzVI5soaBCD7Aix) | 3:11 | 2022-03-24 | 2022-03-28 |
 | [Don](https://open.spotify.com/track/1SSQb10Z0XcP8pln4GkjQj) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Don](https://open.spotify.com/album/2XgZX9qMIQzYuXrXrbZLql) | 3:09 | 2022-11-25 | 2023-06-10 |

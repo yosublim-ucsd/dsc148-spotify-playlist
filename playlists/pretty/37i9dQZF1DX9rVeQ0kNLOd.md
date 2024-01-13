@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,673 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,689 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 18 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 19 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
 | 20 | [Bouquet \(Prod\. GeG\)](https://open.spotify.com/track/7eRyundmTGwr8QvrCkmzYo) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs), [Rinne](https://open.spotify.com/artist/4ETsbj1XzA5v886JMNDgdA) | [Bouquet \(Prod\. GeG\)](https://open.spotify.com/album/7kXxeoKSVQFeYCt6v8WnnC) | 3:20 |
-| 21 | [アイラブユー](https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アイラブユー](https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX) | 3:55 |
+| 21 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 | 22 | [Moon Dance](https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:47 |
 | 23 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 |
 | 24 | [浮かばれたいねサタデー](https://open.spotify.com/track/0wzfMN8h09YxxyGm8g50yL) | [Ryo Yoshinaga](https://open.spotify.com/artist/1q2tledGNGBATHvZ3zecQI) | [浮かばれたいねサタデー](https://open.spotify.com/album/79pFA5rz9iYrP5VgyTveOE) | 3:47 |
 | 25 | [Fantasy](https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5) | [Ryota Oyabu](https://open.spotify.com/artist/1ySrxjDBwFRDFoURBQxTZl) | [Fantasy](https://open.spotify.com/album/2tccW0oHy4LxDwSJgabJsR) | 3:03 |
-| 26 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
+| 26 | [アイラブユー](https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アイラブユー](https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX) | 3:55 |
 | 27 | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 28 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
 | 29 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [パレットは透明](https://open.spotify.com/track/25e3Pxxt0G1KGvMbYelQMG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [パレットは透明](https://open.spotify.com/album/23xlWGbhuph9wClaYZqbPg) | 3:17 |
 | 50 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 |
 
-Snapshot ID: `MCxkMTQ1OTBhMjRmYzYwNjBlYWY2NzE2YjQ1ZWY5NGM1ODM1NmVkYzFi`
+Snapshot ID: `MCxlYWY5NmZjZDY5Y2YwZDM2MWVlMjQ4NTAzNDk1MWVjNGRkZDQzNWIy`

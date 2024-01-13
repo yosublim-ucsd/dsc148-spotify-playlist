@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-476 songs - 1 day 2 hr 23 min
+477 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-06-01 | 2023-09-07 |
 | [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-03 | 2023-09-07 |
 | [XXL](https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X) | 3:26 | 2023-08-03 | 2023-08-05 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2023-01-31 | 2023-03-16 |
 | [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 | 2023-03-28 | 2023-05-10 |
 | [yourself](https://open.spotify.com/track/3mVnVdtUao1V2xw9N5nnDA) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [yourself](https://open.spotify.com/album/6mBx7KynAj48DmygolkAnX) | 3:08 | 2023-08-15 | 2023-09-15 |

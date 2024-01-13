@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: MiLES.
+> Leaders of the new school...Alternative R&B\. Cover: Samaria
 
-1,056 songs - 2 day 8 hr 20 min
+1,058 songs - 2 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [All For Nothing](https://open.spotify.com/track/6mQJSMRpen9xCVdol1YMg5) | [Paloma Ford](https://open.spotify.com/artist/3H91WvXn7klxNAxzQ9CqVK), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [X Tapes](https://open.spotify.com/album/617IqqrVM4ldqwFGkHAXU0) | 4:40 | 2022-04-01 | 2022-04-09 |
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-07 |  |
 | [All I Need](https://open.spotify.com/track/5ed3H9JNDRtTomjDegQUOI) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [All I Need](https://open.spotify.com/album/1ZnoaQUOjszDsLOUvNycts) | 3:16 | 2021-10-08 | 2022-04-10 |
-| [All I've Got](https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [When The Darkness Fades](https://open.spotify.com/album/1q5cjxQeQ5dVHpPzcDiVOg) | 4:13 | 2023-10-06 |  |
+| [All I've Got](https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [When The Darkness Fades](https://open.spotify.com/album/1q5cjxQeQ5dVHpPzcDiVOg) | 4:13 | 2023-10-06 | 2024-01-13 |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2022-04-01 | 2022-04-15 |
 | [All Masks \[Feat\. Masego\]](https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [All Masks](https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx) | 4:30 | 2022-07-29 | 2022-09-24 |
 | [all on me](https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [all on me](https://open.spotify.com/album/0lNXXDUQyEWrpnQJXWuO8S) | 2:47 | 2022-08-19 | 2022-09-10 |
@@ -529,7 +529,7 @@
 | [Let Go](https://open.spotify.com/track/0505eVcf7DTvaXVbTN0L5Y) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready Is Always Too Late \(Deluxe\)](https://open.spotify.com/album/7KaTBMubEkwwczNjyLyEB0) | 2:52 | 2022-01-28 | 2022-07-16 |
 | [LET IT GROW](https://open.spotify.com/track/1xvQkUmsKZPjOEcjLc58PP) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:36 | 2023-06-09 | 2023-07-26 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 | 2023-06-03 |
-| [Let's Get It On](https://open.spotify.com/track/77AvnzAZtM0nXY1kYhQmiu) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Let's Get It On](https://open.spotify.com/album/0SIOOlb2yxgd3pQW1vYVhf) | 3:21 | 2023-10-20 |  |
+| [Let's Get It On](https://open.spotify.com/track/77AvnzAZtM0nXY1kYhQmiu) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Let's Get It On](https://open.spotify.com/album/0SIOOlb2yxgd3pQW1vYVhf) | 3:21 | 2023-10-20 | 2024-01-13 |
 | [LET'S GET MARRIED](https://open.spotify.com/track/0XkQ23l4GT8sFHgeNRGAO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/2Uyia7M6Hv8XmhMSEbpfgm) | 3:44 | 2022-04-01 | 2022-04-13 |
 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 | 2022-04-01 | 2022-04-16 |
 | [Like a Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like a Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 | 2023-08-11 |  |
@@ -798,6 +798,7 @@
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 | 2023-11-20 |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2022-04-01 | 2022-04-14 |
 | [Sent from Above](https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 3:07 | 2022-12-09 | 2023-12-21 |
+| [serial recluse](https://open.spotify.com/track/7tX6hkMzHWscDSye5YL8ND) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:47 | 2024-01-12 |  |
 | [Set Me Free](https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Set Me Free](https://open.spotify.com/album/4r80mwTXQjLnmiWty5ehNk) | 2:54 | 2022-12-02 | 2023-02-11 |
 | [Seventeen](https://open.spotify.com/track/3YwkASwnUSlrB4H6kPveVl) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [You Made A Big Mistake](https://open.spotify.com/album/3qaYBPGN5AdXS5nt0gPraS) | 3:10 | 2023-06-09 | 2023-06-17 |
 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 | 2022-04-01 | 2022-04-09 |
@@ -975,6 +976,7 @@
 | [Unless](https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Unless](https://open.spotify.com/album/69NeEDtsHX9D4Nq6YHague) | 1:36 | 2022-07-22 | 2022-10-16 |
 | [Unsettling \(feat\. Vory\)](https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:44 | 2023-07-28 |  |
 | [Until the Morning](https://open.spotify.com/track/23nazhLti7GDrOZP6429l8) | [Drella](https://open.spotify.com/artist/1AvKoWxP0BAiCA0f1dfdvG) | [Until the Morning](https://open.spotify.com/album/6TT0ZQ89a7REW1KyLVsxXX) | 2:58 | 2022-04-01 | 2022-04-16 |
+| [Up And Down](https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 3:04 | 2024-01-12 |  |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-01 | 2022-07-16 |
 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 | 2023-10-27 |  |
 | [UR TURN](https://open.spotify.com/track/0dKWEbU5VxTcSOVvtReTGz) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [ULTRAVIOLET](https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT) | 2:12 | 2023-09-01 |  |

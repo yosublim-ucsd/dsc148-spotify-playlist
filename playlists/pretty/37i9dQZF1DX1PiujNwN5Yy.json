@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111074,
+  "num_followers": 111036,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmE3YmE3MTM4YTc2NjJjYzVkMDNjOGY3ZGViZWQyZTA2YTI2YTM0",
+  "snapshot_id": "MCw0ODViMTJhNjkyMzJhZjAxMWQ3ZjA2ZjMzOTY2NThlZmJkYzAxYTM3",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Dieznoches",
+      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 167866,
       "name": "P\u00e1rteme La Cara",
       "url": "https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Dieznoches",
-      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 191008,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Canciones Tristes",
         "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 186266,
       "name": "Canciones Tristes",
       "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 191008,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
-        "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
-      },
-      "artists": [
-        {
-          "name": "Super Especial",
-          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "Ser tu depresi\u00f3n - ac\u00fastica",
-      "url": "https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "La Banqueta",
         "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 188320,
       "name": "La Banqueta",
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
+        "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
+      },
+      "artists": [
+        {
+          "name": "Super Especial",
+          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "Ser tu depresi\u00f3n - ac\u00fastica",
+      "url": "https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy"
     },
     {
       "added_at": "2023-12-15 05:00:00",

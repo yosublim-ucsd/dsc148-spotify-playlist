@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,074 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,036 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 17 | [Qué bonito fue](https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:24 |
 | 18 | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO) | 5:23 |
 | 19 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
-| 20 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 |
-| 21 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 |
+| 20 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 |
+| 21 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 |
 | 22 | [siempreestoypati](https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Transiciones](https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf) | 3:26 |
 | 23 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 24 | [nana triste](https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Otras Alas](https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4) | 3:07 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 72 | [Qué Más Da](https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy) | [En Línea](https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6) | 3:30 |
 | 73 | [Corazon partio \(feat\. Juan Azul\) \- En directo](https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Juan Azul](https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw) | [Directo en mi habitacion <3 \(En directo\)](https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY) | 5:46 |
 | 74 | [De Mi Para Ti](https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [Silencio](https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D) | 2:57 |
-| 75 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
-| 76 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
+| 75 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
+| 76 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
 | 77 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 78 | [desamarte](https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:58 |
 | 79 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 91 | [T la Sudo \(Demo\)](https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [T la Sudo \(Demo\)](https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz) | 3:05 |
 | 92 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 |
 | 93 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
-| 94 | [Ser tu depresión \- acústica](https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Ser tu depresión \(acústica\)](https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz) | 3:16 |
-| 95 | [La Banqueta](https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [La Banqueta](https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG) | 3:08 |
+| 94 | [La Banqueta](https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [La Banqueta](https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG) | 3:08 |
+| 95 | [Ser tu depresión \- acústica](https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Ser tu depresión \(acústica\)](https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz) | 3:16 |
 | 96 | [olvídate de mí](https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [olvídate de mí](https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA) | 2:57 |
 | 97 | [Mi Cabeza](https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mi Cabeza](https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj) | 2:42 |
 | 98 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
 | 99 | [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 |
 | 100 | [yo q se](https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [yo q se](https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k) | 2:00 |
 
-Snapshot ID: `MCwyZmE3YmE3MTM4YTc2NjJjYzVkMDNjOGY3ZGViZWQyZTA2YTI2YTM0`
+Snapshot ID: `MCw0ODViMTJhNjkyMzJhZjAxMWQ3ZjA2ZjMzOTY2NThlZmJkYzAxYTM3`

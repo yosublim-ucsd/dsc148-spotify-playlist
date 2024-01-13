@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: SHISHAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,438 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,464 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 6 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
 | 7 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 8 | [愛してるよ](https://open.spotify.com/track/20XDiNijvoYBs3ncO2eN4h) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [愛してるよ](https://open.spotify.com/album/0Jx0U0yHSHvX5mCf1T8Fkr) | 3:39 |
-| 9 | [愛しあって](https://open.spotify.com/track/2yMAXDukJfVv1TM6a7rJmY) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [愛しあって](https://open.spotify.com/album/05a9A2UpRjQEPEKM55E6yi) | 3:12 |
+| 9 | [愛しあって](https://open.spotify.com/track/2KYz9ITVEqqkiV9K4zWVxK) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Empire](https://open.spotify.com/album/3eOZSTk2k4cT874YBeanry) | 3:12 |
 | 10 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 |
 | 11 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 |
 | 12 | [Ex Human](https://open.spotify.com/track/5Xun4t1ibmVAVcEQV1hCpb) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Guide and Devote EP](https://open.spotify.com/album/3vzb1L4uKtxII5nh9swQQP) | 3:43 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 65 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
 | 66 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 |
 | 67 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 |
-| 68 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
+| 68 | [人生オーバー](https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [人生オーバー](https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5) | 3:34 |
 | 69 | [doll](https://open.spotify.com/track/7lZgyhI0XOvjzi7g0eeHBA) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:33 |
-| 70 | [人生オーバー](https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [人生オーバー](https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5) | 3:34 |
+| 70 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
 
-Snapshot ID: `MCxmYjVlZjIwZmJlZDdkNzhmMjRkYTVkYmVhZTQyOGQzNzAxOWNlNWJk`
+Snapshot ID: `MCwxNmM3NzhjYThkNzg0MWI4YzRiZjc1Mjk2ZDkzZTBlN2IyYjNjYzI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Keira Shabira
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,497 likes - 82 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,355 likes - 82 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 81 | [Hatiku Hanyalah Untuk Mu](https://open.spotify.com/track/0Gd4FuIV5ur0l3Q0fKcosB) | [Mayang Voice Band](https://open.spotify.com/artist/0YvxvvCjvQu2fYjwvjF7Nm) | [Story Of Love](https://open.spotify.com/album/1FtQyn9tyXaNbWpmBP6AIT) | 4:13 |
 | 82 | [Pesirah](https://open.spotify.com/track/23wiMi9sycQP79f12FJkuI) | [The Wolf and The Witch](https://open.spotify.com/artist/706JPnjfhuSA7smeWRNDvY) | [Pesirah](https://open.spotify.com/album/2dTf5U05WUCaYCpAh5bERe) | 5:03 |
 
-Snapshot ID: `MCw3YjEzMmYwYzA5NDYyZDAwOTM0N2I3N2FkOWY5ZDhmOTY1MTE3NDJj`
+Snapshot ID: `MCw4YTEzZWY4MzBhNDU4NWFhYWUxMDE1YjEzMGIxMWU5Y2ZkYmU3Nzcy`

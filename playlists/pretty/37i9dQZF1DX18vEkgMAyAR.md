@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,101 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,128 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 40 | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD) | 2:57 |
 | 41 | [Colours & Lights](https://open.spotify.com/track/4xxnegJcfOiPMRVidxC60N) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:08 |
 | 42 | [Waves](https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Critical As Water](https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll) | 3:00 |
-| 43 | [Frequency](https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Frequency](https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ) | 3:17 |
-| 44 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 |
+| 43 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 |
+| 44 | [Frequency](https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Frequency](https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ) | 3:17 |
 | 45 | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW) | 3:53 |
 | 46 | [Moonwalk Away](https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Three Second Memory \(Deluxe\)](https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc) | 5:59 |
 | 47 | [Ellie](https://open.spotify.com/track/5KNLAnH7BBtoRxDqYP58h6) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Vergeet De Tijd](https://open.spotify.com/album/7B8rmxIjhAODSsLOvcJtLM) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | ['Til I Found You](https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [‘Til I Found You](https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE) | 2:52 |
 | 60 | [The Woods \- Evida Remix](https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [The Woods \(Evida Remix\)](https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc) | 3:11 |
 
-Snapshot ID: `MCxhM2U1ODFmNDVkNTdjNWJjN2U0NjFkMTY4MjRkMmMwOWQ5YmMyYzM0`
+Snapshot ID: `MCxlYzQxNjA2MWNiYTZhOTg2OTkzYThhMjM5ZjgwMDYzN2ZhMDAzMjc5`

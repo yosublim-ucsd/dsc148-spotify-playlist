@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,004 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,038 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 59 | [El Llamado](https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:41 |
 | 60 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 |
 
-Snapshot ID: `MCw5OTYxNzFmYzg1OWQ3NWU0MTFmYjY1YmJlMDYzMWM5ZjA0MjQ0YjFm`
+Snapshot ID: `MCwyYzNiOGU4ZDhkMDdiNzRmNjZhZDdmOWZjMDg5MDQyNzBmN2MxYjJm`

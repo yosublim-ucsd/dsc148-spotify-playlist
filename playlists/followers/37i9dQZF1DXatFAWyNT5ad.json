@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 131512,
+  "2024-01-13": 131578,
   "date_first_scraped": "2022-03-18",
   "description": "Let's mix it. Cover: Knox",
   "name": "Pop Rock",
@@ -703,7 +703,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 159677,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV"
@@ -10589,7 +10589,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 200210,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi"

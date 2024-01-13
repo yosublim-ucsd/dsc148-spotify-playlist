@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181771,
+      "name": "Amanita",
+      "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
+    },
+    {
+      "album": {
         "name": "And So Two",
         "url": "https://open.spotify.com/album/72dOXSe1wPuRohTdPGPBSJ"
       },
@@ -1313,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
+      },
+      "artists": [
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191080,
+      "name": "Cardinals",
+      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
+    },
+    {
+      "album": {
         "name": "Driving In The Dark",
         "url": "https://open.spotify.com/album/44szdul4P7C2lcdgyscfcR"
       },
@@ -1436,6 +1472,24 @@
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
+    },
+    {
+      "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE"
+      },
+      "artists": [
+        {
+          "name": "Blanket",
+          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178679,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc"
     },
     {
       "album": {
@@ -2096,7 +2150,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
@@ -3109,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Give Yourself Away",
+        "url": "https://open.spotify.com/album/1URP5HXenatIMNI5y2kRCR"
+      },
+      "artists": [
+        {
+          "name": "Shell",
+          "url": "https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174900,
+      "name": "Give Yourself Away",
+      "url": "https://open.spotify.com/track/24Pj0f5dm7zkJovEvqqRL5"
+    },
+    {
+      "album": {
         "name": "Giving The Past Away",
         "url": "https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc"
       },
@@ -3516,7 +3588,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 195237,
       "name": "Hard To Breathe",
       "url": "https://open.spotify.com/track/4rMyOa7oU75N4rA3mZERF0"
@@ -3570,7 +3642,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 241638,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE"
@@ -3667,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "High In The Clouds",
+        "url": "https://open.spotify.com/album/2xNWZ76q9h8ZPPbFJ7gZNf"
+      },
+      "artists": [
+        {
+          "name": "Dude Safari",
+          "url": "https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "High In The Clouds",
+      "url": "https://open.spotify.com/track/2wfU1QHCNHng11dGKDiOph"
+    },
+    {
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON"
       },
@@ -3700,6 +3790,24 @@
       "duration_ms": 204145,
       "name": "Hold On You",
       "url": "https://open.spotify.com/track/3ML65FJl6LE3s0e7SXevwm"
+    },
+    {
+      "album": {
+        "name": "Go Let It In",
+        "url": "https://open.spotify.com/album/3qWkL17gQBEOyLzENHeXlU"
+      },
+      "artists": [
+        {
+          "name": "Codeseven",
+          "url": "https://open.spotify.com/artist/2jYQN7gUHmIyLsIuLUbq9M"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248871,
+      "name": "Hold Tight",
+      "url": "https://open.spotify.com/track/7CiyeZlOh8hFfym58E8yv3"
     },
     {
       "album": {
@@ -3786,7 +3894,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 206873,
       "name": "Horns",
       "url": "https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax"
@@ -3862,6 +3970,28 @@
       "duration_ms": 230381,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW"
+    },
+    {
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "album": {
@@ -6128,7 +6258,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 84280,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/5QNcjQ59mtn96GALPY1xBO"
@@ -6945,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "Sitting Confused",
+        "url": "https://open.spotify.com/album/3TmTuVp63IEJ8hNBiaAm8e"
+      },
+      "artists": [
+        {
+          "name": "Flowers For Emily",
+          "url": "https://open.spotify.com/artist/0VhdOT93Owd0K2RhpaqJk5"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "Sitting Confused",
+      "url": "https://open.spotify.com/track/0dwcnVpM3DbSWlW11P8wzG"
+    },
+    {
+      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/53eyTL44Mlwj27s8BZjbm0"
       },
@@ -7414,7 +7562,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 199561,
       "name": "Sullenboy",
       "url": "https://open.spotify.com/track/3Y3CbwB3REfOWUkgKOKgcD"
@@ -7504,7 +7652,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 194010,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
@@ -7796,7 +7944,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 230181,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/0EnhQ7imjcQu06rNVQuXdX"

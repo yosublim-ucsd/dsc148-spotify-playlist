@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 152 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 152 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dance Again](https://open.spotify.com/track/52MWsX3Y21UIGceR1p7Xq2) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Dance Again \(Official Video\)](https://open.spotify.com/album/7j7PqAoSg0SvmixPXu7LNE) | 4:26 |
+| 1 | [Dance Again \(feat\. Pitbull\)](https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Dance Again...The Hits](https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh) | 3:57 |
 | 2 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 5:11 |
-| 3 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 |
+| 3 | [Cambio de Piel](https://open.spotify.com/track/1CYO6kpkJqM19qNJsvRiDT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Cambio de Piel](https://open.spotify.com/album/3eNuNUPSu6l5d6zY2rSAVE) | 5:01 |
 | 4 | [Ahora Que Te Vas](https://open.spotify.com/track/2JudZIMCL679okVHGfsnr2) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Renacer](https://open.spotify.com/album/3EC4TPSoGMNy78U7re5qlF) | 3:48 |
 | 5 | [Lento](https://open.spotify.com/track/5JKiVNxTcziggFviKzyTmq) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Lento \(Official Video\)](https://open.spotify.com/album/2VHomFONihYyItO2FSEymQ) | 3:49 |
 | 6 | [Si hubieras querido](https://open.spotify.com/track/3SnQbMhX8Now5s5F2ul9oC) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:41 |
-| 7 | [A Quién Quiero Mentirle](https://open.spotify.com/track/1mWmQImjU7L2fiP35V3FoB) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [A Quién Quiero Mentirle \(Video\)](https://open.spotify.com/album/4I5fzCmrClKbfCt4CrzZDB) | 5:08 |
+| 7 | [A Quién Quiero Mentirle](https://open.spotify.com/track/6ngLct6z0pCqJcevM11HDH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:13 |
 | 8 | [Try](https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 4:38 |
 | 9 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
 | 10 | [Cautivo de Este Amor](https://open.spotify.com/track/68HaHh0yF0PZA8rt7IVCL9) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 3:40 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 35 | [Dime Que Me Esperas](https://open.spotify.com/track/3fwT5kqPyhpQQwNfb6hVzd) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Senti2](https://open.spotify.com/album/6aO5DFSqg8QuY2oVsoOsmG) | 3:49 |
 | 36 | [It's OK](https://open.spotify.com/track/1mOiejXxgYA9ep3z61SN7Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:32 |
 | 37 | [Toma De Mí](https://open.spotify.com/track/6eoJG3PqstEA7nj1bYncBd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/7vAvh5KAMBz324wybwqxYG) | 4:29 |
-| 38 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
-| 39 | [Besos en la Frente](https://open.spotify.com/track/6vZUBvdWC0o9t21mt0q5vZ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:52 |
+| 38 | [Besos en la Frente](https://open.spotify.com/track/6vZUBvdWC0o9t21mt0q5vZ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:52 |
+| 39 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
 | 40 | [Adiós](https://open.spotify.com/track/14yDEDFChnnZlxTqNumQim) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:29 |
 | 41 | [Hoy](https://open.spotify.com/track/7Lr4gFCiSMCyESWoGxjW6W) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:17 |
 | 42 | [Vuelve](https://open.spotify.com/track/0zXLBRxbUwg9vCo0nGc1JO) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:51 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 151 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjg0MTcwOTAsMDAwMDAwMDA5NWQxZjAyNmVjZDEyZTQ3Y2E3NDIxNzA5OWY3NDY5YQ==`
+Snapshot ID: `Mjg0MTg1MzAsMDAwMDAwMDBjY2Q2NDNmNDYwYzMzYzdiZGNhYWQ1ZmZkYTg3NTJlYQ==`

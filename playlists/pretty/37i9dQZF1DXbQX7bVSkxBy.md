@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover: <a href="https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q?si=1eSJpNTQRjmm5\_c\_7uM5LA">Yadah</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=BY8nudGvTBO\_3oRCpaU5LA>Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,403 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,503 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thank You Lord](https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Thank You Lord](https://open.spotify.com/album/1iItuJVyvs7hpvhsShybhv) | 2:13 |
-| 2 | [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 |
+| 2 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/3DHCxITonYPI1gNzdewEfI) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
 | 3 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 |
 | 4 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
 | 5 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 26 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
 | 27 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
 | 28 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
-| 29 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 |
+| 29 | [Fly Away](https://open.spotify.com/track/6OTBSObTPBgyVHHLs97Stx) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/3QhC4P5UhOObGxi77cqEAx) | 2:35 |
 | 30 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 |
-| 31 | [Fly Away](https://open.spotify.com/track/6OTBSObTPBgyVHHLs97Stx) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/3QhC4P5UhOObGxi77cqEAx) | 2:35 |
-| 32 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
+| 31 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
+| 32 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 |
 | 33 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
 | 34 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 35 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 44 | [Way Maker](https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H) | 5:06 |
 | 45 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 |
 | 46 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 |
-| 47 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
-| 48 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
+| 47 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
+| 48 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 | 49 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 |
 | 50 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
 
-Snapshot ID: `MCwwMmJjNjFmN2RjNTY1YTJkNWE0YmRhMDA0NGNkMmY5MTI5M2M0Y2Q5`
+Snapshot ID: `MCw3YWI0YjA2NWEzMGUyMzRkYThmZjNkMDU4NjBiMmMwZTlmMTVlYjZh`

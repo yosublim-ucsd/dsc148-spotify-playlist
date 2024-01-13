@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-324 songs - 19 hr 18 min
+325 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Mojito](https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Mojito](https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp) | 3:05 | 2022-06-27 | 2022-07-02 |
 | [Mojito](https://open.spotify.com/track/7BYMjh3vWnHU4IFyfZdIDO) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Mojito](https://open.spotify.com/album/6pIXXqOGDkatrb00Oblrgo) | 3:05 | 2022-10-31 | 2022-11-13 |
 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 | 2022-07-25 | 2024-01-10 |
+| [Mojito](https://open.spotify.com/track/2RvetPNMoaOJbBo7FtCV0J) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 3:05 | 2024-01-08 |  |
 | [Morning Coffee](https://open.spotify.com/track/5k2eyrx86Q5f5DFtRvkSvN) | [蜜雪薇琪](https://open.spotify.com/artist/2PvxkWnXNsFWiZVnXSf4Mq) | [Morning Coffee](https://open.spotify.com/album/6gnYvMta73slbta2wnJt5Z) | 3:48 | 2023-04-24 | 2023-05-02 |
 | [My Love](https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [My Love](https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd) | 3:00 | 2023-05-01 | 2023-06-30 |
 | [My Only](https://open.spotify.com/track/5moOeYLCth43bfjWtrjLoZ) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [My Only](https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n) | 2:26 | 2022-12-13 | 2023-01-15 |
@@ -330,7 +331,7 @@
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 |  |
 | [靠近一點點](https://open.spotify.com/track/2ZehpdL252VK2Wk2uUqt9m) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:33 | 2022-06-06 | 2022-07-25 |
 | [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 | 2023-07-04 |
-| [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 | 2023-11-27 |  |
+| [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 | 2023-11-27 | 2024-01-13 |
 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 | 2022-06-13 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

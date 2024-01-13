@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-360 songs - 22 hr 36 min
+361 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Don’t Close Your Eyes](https://open.spotify.com/track/1mVj1KuhN6lXr1RDBfYG99) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [An Old Memory](https://open.spotify.com/album/3pIknS5vS0oVvRcPY7lojR) | 4:19 | 2021-12-10 | 2022-07-29 |
 | [Dreaming My Dreams With You](https://open.spotify.com/track/5ypmJxIJxZl7L6Ez3yOnFu) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Dreaming My Dreams With You](https://open.spotify.com/album/33xpBrWhJV2rSmPv6s4sN4) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [Dreams](https://open.spotify.com/track/631XEttfPmkuw4XwR3XScB) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Dreams](https://open.spotify.com/album/5nBcBNpc9CWqKGfeIzvlo6) | 4:19 | 2021-12-10 | 2022-07-29 |
-| [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 | 2021-12-10 |  |
+| [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 | 2021-12-10 | 2024-01-13 |
 | [Drivers License](https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:22 | 2021-12-10 | 2023-02-16 |
 | [Dust on the Bottle](https://open.spotify.com/track/6IN6nAjQcLXtT1ToYrUzU9) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Pops 90's Country Weekend Mixtape](https://open.spotify.com/album/3Bf6b12SWWeLPaiYgIczCM) | 3:52 | 2022-03-25 | 2022-06-08 |
 | [East Bound And Down](https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [East Bound And Down](https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe) | 2:57 | 2021-12-10 | 2023-01-06 |
@@ -131,6 +131,7 @@
 | [Heartbroken](https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Heartbroken](https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc) | 2:54 | 2023-09-08 |  |
 | [Help Me Make It Through The Night](https://open.spotify.com/track/7v1gS86jVpKFdnt0gmkOSg) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [A Nashville Songbook](https://open.spotify.com/album/5EuBzU4C9X3A9fWah24JgA) | 3:35 | 2021-12-10 | 2022-07-28 |
 | [Help Me Make It Through the Night](https://open.spotify.com/track/69iVsk096xmrKtcrU2mVnj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Highwaymen](https://open.spotify.com/album/3HoSFsrDuaxgwLUBpC2zUE) | 3:59 | 2021-12-10 | 2022-07-27 |
+| [Here Without You](https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [Here Without You](https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La) | 3:51 | 2024-01-05 |  |
 | [Here You Come Again](https://open.spotify.com/track/2DaaWA2TxQV4heZwWrX5oY) | [Cody Belew](https://open.spotify.com/artist/57mO2JxS9Ce0dX4ZJsUlfk) | [Here You Come Again](https://open.spotify.com/album/2Qcwg7sn0G09II6pjLXb8K) | 3:13 | 2022-03-25 | 2022-04-21 |
 | [Highwayman](https://open.spotify.com/track/177Nwcm2cHRyQCGmunqTA5) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Highwayman](https://open.spotify.com/album/5aXf2xKrN9AwLp905oxkSg) | 4:02 | 2022-01-07 | 2022-07-15 |
 | [Highwayman](https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:02 | 2022-03-25 |  |

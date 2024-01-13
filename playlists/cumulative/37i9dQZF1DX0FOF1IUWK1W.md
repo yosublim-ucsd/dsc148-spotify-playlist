@@ -4,7 +4,7 @@
 
 > PEDRO SAMPAIO e os maiores hits do país\. O que tá bombando tá aqui.
 
-330 songs - 16 hr 26 min
+331 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Dar uma Namorada \- Ao Vivo](https://open.spotify.com/track/2PZmUFZGlUqkYJL0s0Cl6C) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 1](https://open.spotify.com/album/1nttpPXU88Llqwed7qJ19a) | 2:09 | 2022-01-17 | 2022-04-01 |
 | [DEJA VU](https://open.spotify.com/track/2IDf0IZ9dfw0uDYV2n1bJc) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DEJA VU](https://open.spotify.com/album/0aN9m8iDUE1Khh5qL6Aj4q) | 3:19 | 2023-12-12 |  |
 | [Dengo](https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Digo Ou Não Digo](https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O) | 2:33 | 2022-05-15 | 2023-02-11 |
-| [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 | 2023-08-31 |  |
+| [DENTRO DA HILUX](https://open.spotify.com/track/3jTyFoGeD3DTu9cnnctMWN) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [DENTRO DA HILUX](https://open.spotify.com/album/2piVofKb5EGkez3IH91OsJ) | 2:43 | 2024-01-11 |  |
+| [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 | 2023-08-31 | 2024-01-13 |
 | [Depende](https://open.spotify.com/track/1M5OUvKG03C0QtzvxRS4Zk) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Depende](https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li) | 2:36 | 2022-02-03 | 2022-05-20 |
 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 | 2022-11-24 | 2022-12-17 |
 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 | 2023-05-26 | 2023-08-04 |

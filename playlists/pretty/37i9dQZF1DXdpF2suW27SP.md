@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,244 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,070 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 2 | [9Xs](https://open.spotify.com/track/3pcX4h49ckvJ7hRUbsRUWH) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:40 |
 | 3 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 |
 | 4 | [Tata](https://open.spotify.com/track/0fPOFtS7ZylYKcC9b64cSj) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 2:39 |
-| 5 | [G3](https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:01 |
-| 6 | [México](https://open.spotify.com/track/5XNSavvdx12XYwdMFWIy4S) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/6LsXDIodPVdQR6UWLXEJWN) | 3:05 |
+| 5 | [México](https://open.spotify.com/track/5XNSavvdx12XYwdMFWIy4S) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/6LsXDIodPVdQR6UWLXEJWN) | 3:05 |
+| 6 | [G3](https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:01 |
 | 7 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
-| 8 | [Moçambique](https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:20 |
-| 9 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 |
+| 8 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 |
+| 9 | [Moçambique](https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:20 |
 | 10 | [Quarto de Hora](https://open.spotify.com/track/3J1JRP6FRXkGJut5GOjJQd) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Quarto de Hora](https://open.spotify.com/album/1tutu4TywvyaUcEUM7FfwG) | 4:03 |
 | 11 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
 | 12 | [Pensamento](https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Pensamento](https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [DEMONS](https://open.spotify.com/track/0kDQEVHvQHCRabH817iOCg) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [DEMONS](https://open.spotify.com/album/6X04ooHMiN96MSveBdWffK) | 4:24 |
 | 75 | [Gelo no Copo](https://open.spotify.com/track/51oQ1UUf7mTzlvZtGHfQnu) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8), [Young2835](https://open.spotify.com/artist/5hWELoESeAtem9pQBRFWs9), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Gelo no Copo](https://open.spotify.com/album/3boisqjMi9fKRCZsymugVI) | 4:07 |
 
-Snapshot ID: `MCxkYTdlZWY5ZTliZWI3YTBkZGZkZjNjZGQwYzE2NTA3OTdjZmFkNjg2`
+Snapshot ID: `MCw2NGQ0YTZlMzdhYmJlYTllZTdjODE3OGNlMTFlNzU3ZTA2M2UyZGQ3`

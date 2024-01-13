@@ -4,13 +4,13 @@
 
 > Texas' own Cody Johnson is taking over to celebrate the release of his new album "Leather"!
 
-206 songs - 13 hr 18 min
+207 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til It Does](https://open.spotify.com/track/2cUR2tZlH6fAlNpIjZ9RlQ) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 1](https://open.spotify.com/album/0fEg7eJ2ev0c0UOztpxBra) | 3:36 | 2021-12-23 | 2023-09-02 |
 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2023-04-21 | 2023-09-02 |
-| [17](https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN) | [Cross Canadian Ragweed](https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0) | [Cross Canadian Ragweed](https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI) | 5:19 | 2023-04-21 |  |
+| [17](https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN) | [Cross Canadian Ragweed](https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0) | [Cross Canadian Ragweed](https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI) | 5:19 | 2023-04-21 | 2024-01-13 |
 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 | 2023-04-21 |  |
 | [A Life Where We Work Out \(feat\. Kaitlin Butts\)](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 | 2023-04-21 |  |
 | [Ain't a Train](https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 3:05 | 2023-04-21 |  |
@@ -61,6 +61,7 @@
 | [El Cerrito Place](https://open.spotify.com/track/22RZDqi5xPHTPqk2Whwozf) | [Keith Gattis](https://open.spotify.com/artist/3JvvMZuSDpReAGChQX7p7k) | [Big City Blues](https://open.spotify.com/album/5erpYYkqMHqj4pQGRTDCdg) | 5:58 | 2023-04-26 | 2023-05-13 |
 | [Ellis Unit One](https://open.spotify.com/track/10LSAbxfWdPRmI7IZunckV) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Sidetracks](https://open.spotify.com/album/6QpicGbHE5NjXzHQHvHzlX) | 4:40 | 2023-05-12 | 2023-08-21 |
 | [Every Single Kiss](https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Every Single Kiss](https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr) | 3:26 | 2021-12-23 | 2023-12-14 |
+| [Every Single Kiss](https://open.spotify.com/track/7vw8wZXoY5kVIT30tF6k15) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Vol\. 1\- EP](https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS) | 3:26 | 2023-11-03 |  |
 | [Fall](https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:26 | 2023-04-21 |  |
 | [Fast Lane](https://open.spotify.com/track/1T5IbNS5mqd0hx1TGZoacY) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/5nVtIAQNEJItZS7eJhJiKD) | 4:06 | 2021-12-23 | 2023-01-07 |
 | [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 | 2022-11-11 | 2023-11-04 |

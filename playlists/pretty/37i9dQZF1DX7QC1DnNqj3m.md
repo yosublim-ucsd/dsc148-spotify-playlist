@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,579 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,374 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 29 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
 | 30 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
 | 31 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 |
-| 32 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
-| 33 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 32 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 33 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 34 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 35 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
 | 36 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 |
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 64 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 65 | [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 |
 | 66 | [Please Don't Make Me Cry](https://open.spotify.com/track/45RztUROkc4H1pHoCtRR6c) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 5:14 |
-| 67 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 |
-| 68 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 |
-| 69 | [Old Friends](https://open.spotify.com/track/2bYpjBxpiP3zrKCNYhdURf) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:57 |
-| 70 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 |
+| 67 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 |
+| 68 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 |
+| 69 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 |
+| 70 | [Old Friends](https://open.spotify.com/track/2bYpjBxpiP3zrKCNYhdURf) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:57 |
 | 71 | [Shoulda Woulda Coulda](https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Who I Am](https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR) | 3:32 |
 | 72 | [I Hope](https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [I Hope](https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9) | 2:33 |
 | 73 | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 79 | [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 |
 | 80 | [Somewhere, Out There](https://open.spotify.com/track/2tr5SBkEWCzx6r7WAJi2Y5) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:17 |
 
-Snapshot ID: `MCxmOGE3ZjAzMzI2YWRjNjgzNzlkYjYyNTc3MTI2NGY2ODg4NDcxZTYy`
+Snapshot ID: `MCw2OGQ0ZjI2ODA2NGM1ODRhODgxNDlkZWU1MmQzYTBmNGRhNGJjOWQy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party",
+  "description": "Explore all things indie rock right now. Featuring music from Vacations",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 113605,
       "name": "Black Balloons",
       "url": "https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S"
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 220813,
       "name": "Close Quarters",
       "url": "https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd"
@@ -8905,6 +8905,24 @@
     },
     {
       "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
+    },
+    {
+      "album": {
         "name": "Auto Destroy",
         "url": "https://open.spotify.com/album/1m4PS8sFJTSLXJ60FJhlal"
       },
@@ -10250,7 +10268,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 198240,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw"
@@ -14029,6 +14047,28 @@
     },
     {
       "album": {
+        "name": "Missy",
+        "url": "https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        },
+        {
+          "name": "tormentatropica",
+          "url": "https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122149,
+      "name": "Missy",
+      "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
+    },
+    {
+      "album": {
         "name": "Model",
         "url": "https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC"
       },
@@ -14963,6 +15003,24 @@
     },
     {
       "album": {
+        "name": "Hanging",
+        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "No Caffeine",
+      "url": "https://open.spotify.com/track/61BkoclT5UeJSLf4x3Z06V"
+    },
+    {
+      "album": {
         "name": "Don't Fuck With Vol. 01",
         "url": "https://open.spotify.com/album/6UfRphyaQTsZAYnV5zklXR"
       },
@@ -15783,6 +15841,24 @@
     },
     {
       "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146904,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH"
+    },
+    {
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/0wodCHdYleETfWPgbQjEkh"
       },
@@ -15884,7 +15960,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 160039,
       "name": "Paige Machine",
       "url": "https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO"
@@ -16072,6 +16148,24 @@
       "duration_ms": 148744,
       "name": "Paycheck",
       "url": "https://open.spotify.com/track/4X6IYXcZzSRdsMYiv0K30k"
+    },
+    {
+      "album": {
+        "name": "Peace Sign",
+        "url": "https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Peace Sign",
+      "url": "https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa"
     },
     {
       "album": {
@@ -17742,7 +17836,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 145617,
       "name": "Say Hi",
       "url": "https://open.spotify.com/track/2oy4bPKlaFoYnAEvDcgpVR"
@@ -22080,7 +22174,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 224000,
       "name": "Utopian",
       "url": "https://open.spotify.com/track/6Y73gYOJzsXMxp5JVmYRCk"
@@ -22174,6 +22268,24 @@
       "duration_ms": 239485,
       "name": "Vault of Heaven",
       "url": "https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD"
+    },
+    {
+      "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131546,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
     },
     {
       "album": {
@@ -22476,7 +22588,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
@@ -22588,6 +22700,24 @@
       "duration_ms": 182920,
       "name": "We're All Falling Apart",
       "url": "https://open.spotify.com/track/7uhPrSyqbRDSwWd0JBTsA7"
+    },
+    {
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "album": {

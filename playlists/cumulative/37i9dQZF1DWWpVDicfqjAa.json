@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221538,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/5eRBmNNRrv66usVlm2K515"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 257111,
       "name": "El Carpintero",
       "url": "https://open.spotify.com/track/4i4sGxy1z11OEeiwWkbgR9"
@@ -2188,6 +2188,28 @@
       "duration_ms": 391000,
       "name": "Harder (Shermanology Remix)",
       "url": "https://open.spotify.com/track/3hVIIqBnoSXWxlUQRWikYL"
+    },
+    {
+      "album": {
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "HIGH AGAIN",
+      "url": "https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW"
     },
     {
       "album": {
@@ -3130,6 +3152,40 @@
       "duration_ms": 240000,
       "name": "Make It Shake",
       "url": "https://open.spotify.com/track/0OTChYGDIYDRf6pVw9B9A1"
+    },
+    {
+      "album": {
+        "name": "MALI MALI",
+        "url": "https://open.spotify.com/album/2cVj9A1N7OWC4SZxEuJiWN"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Shazmicsoul",
+          "url": "https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349825,
+      "name": "MALI MALI",
+      "url": "https://open.spotify.com/track/6R1eHGeM4rDkaDaLrRjTTs"
     },
     {
       "album": {
@@ -5861,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+    },
+    {
+      "album": {
         "name": "Renaissance (Remixes)",
         "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
       },
@@ -6012,7 +6086,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 213973,
       "name": "WICKED GYAL",
       "url": "https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6"

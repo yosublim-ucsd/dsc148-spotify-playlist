@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-479 songs - 1 day 4 hr 29 min
+480 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Love Like That](https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [Love Like That](https://open.spotify.com/album/1ewhccVD32md195nWwLG3u) | 2:46 | 2023-08-04 |  |
 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 | 2023-02-19 | 2023-08-05 |
 | [LOVE U NEED U](https://open.spotify.com/track/6g8U4ywxdelovp2hgXyNnC) | [Hannah Honey](https://open.spotify.com/artist/6PmqT452dv2vqodLFSAfoK) | [LOVE U NEED U](https://open.spotify.com/album/4jYCX55QvuCKFnV6ekYIGM) | 2:51 | 2023-02-24 | 2023-11-04 |
-| [Love with a Crown](https://open.spotify.com/track/15bKbuJJpONaikCvZPIsGz) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Love With A Crown](https://open.spotify.com/album/6pXR9aK9gsmGCJ0bGe6GIE) | 3:15 | 2023-11-03 |  |
+| [Love with a Crown](https://open.spotify.com/track/15bKbuJJpONaikCvZPIsGz) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Love With A Crown](https://open.spotify.com/album/6pXR9aK9gsmGCJ0bGe6GIE) | 3:15 | 2023-11-03 | 2024-01-13 |
 | [Love Won't Let Me Go \- Acoustic Version](https://open.spotify.com/track/22uzZQy0RrTC2n7gSKmDRI) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Love Won't Let Me Go \(Acoustic Version\)](https://open.spotify.com/album/2bPEY2qGKlKdQyY8iKLTp6) | 3:22 | 2023-08-04 |  |
 | [Loved by You](https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Loved by You](https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm) | 4:54 | 2020-12-18 | 2023-02-19 |
 | [Loyal](https://open.spotify.com/track/5O6tu6yZQ60YdNggb5zh3j) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Loyal](https://open.spotify.com/album/00tW2c9qs1LwGuGkBKj8f4) | 2:45 | 2023-02-19 | 2023-08-05 |
@@ -265,6 +265,7 @@
 | [Matthew 6](https://open.spotify.com/track/2Xn77ApeyV9sNm9G4ClFtr) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Matthew 6](https://open.spotify.com/album/24LgMcnQq9oEc5aRH81tds) | 4:21 | 2023-08-04 |  |
 | [mess it up \- H3nry Thr!ll Remix](https://open.spotify.com/track/2gX81qSWUFpnnJsBB7vmEV) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [H3nry Thr!ll](https://open.spotify.com/artist/2GKIFC9wCaMs2vohojNLk5) | [mess it up \(H3nry Thr!ll Remix\)](https://open.spotify.com/album/2ibPucOeZRiQEf2SYQFNAT) | 2:08 | 2023-08-04 |  |
 | [Midnight Hour](https://open.spotify.com/track/4KYWyAouNeRHw3eTyxEX5n) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [In Times Like These](https://open.spotify.com/album/2PALArxxYv8saqhds083oC) | 2:44 | 2023-12-01 | 2023-12-04 |
+| [miles away](https://open.spotify.com/track/6dzITKGh7Rf1J2njERXcmw) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [Tevic Loni](https://open.spotify.com/artist/51DmWtVcGb8W2EF0QOhJqS) | [miles away](https://open.spotify.com/album/4JNcuAGKN20Ei77IvelMEA) | 2:40 | 2023-12-15 |  |
 | [Misunderstood](https://open.spotify.com/track/0Msp58EKLK7rxTbwQewtdC) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Misunderstood](https://open.spotify.com/album/5gSJCn1pRrda6kv5EPQIyB) | 3:29 | 2023-11-03 |  |
 | [Moonlight](https://open.spotify.com/track/7xoEEjdMrRg1qMtsS1oppK) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Moonlight](https://open.spotify.com/album/2UiixEqmRMAsyWDniRGVGG) | 3:30 | 2023-08-04 |  |
 | [More](https://open.spotify.com/track/0gXTRiC1YckfXlxP8KexYk) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [More](https://open.spotify.com/album/04jYznyMPGDRW0SxmsvywD) | 4:05 | 2023-11-03 |  |

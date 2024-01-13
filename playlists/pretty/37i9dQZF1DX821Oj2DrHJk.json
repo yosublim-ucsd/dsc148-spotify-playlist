@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 28891,
+  "num_followers": 28890,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdkNDEzYTJmYTU0OWJiZmE3ZDM4YzM2ZjFlZGJhZmU1MTlkYzZj",
+  "snapshot_id": "MCw3YWE3ZjlmZTA5ZGU0YmYyZjM4OTljNGY2ODNlNWZmYjM4NmE4MTdh",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 511400,
-      "name": "Won't Get Fooled Again - Original Album Version",
-      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Living in the Material World",
         "url": "https://open.spotify.com/album/6DfpxC0hn5JTusslgO0IYj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 215701,
       "name": "Give Me Love (Give Me Peace on Earth)",
       "url": "https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "The Fine Art Of Surfacing",
-        "url": "https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts"
-      },
-      "artists": [
-        {
-          "name": "The Boomtown Rats",
-          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
-        }
-      ],
-      "duration_ms": 259093,
-      "name": "I Don't Like Mondays",
-      "url": "https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "War And Peace",
         "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 200266,
       "name": "War",
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "The Fine Art Of Surfacing",
+        "url": "https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts"
+      },
+      "artists": [
+        {
+          "name": "The Boomtown Rats",
+          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
+        }
+      ],
+      "duration_ms": 259093,
+      "name": "I Don't Like Mondays",
+      "url": "https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Prove It All Night",
-      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Rattus Norvegicus",
         "url": "https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 245493,
       "name": "Peaches - 1996 Remaster",
       "url": "https://open.spotify.com/track/71Y7sPJm0DpCix0fHaAlhI"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "10cc",
-        "url": "https://open.spotify.com/album/2IGC9reJ6sjS4v5GkifnGt"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Rubber Bullets",
-      "url": "https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 198160,
       "name": "Pretty Vacant",
       "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/2IGC9reJ6sjS4v5GkifnGt"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "When The Chips Are Down",
+        "url": "https://open.spotify.com/album/4wJOL40iSM4TkmCfkkdkii"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "The Wall Street Shuffle",
+      "url": "https://open.spotify.com/track/3kXYV44ZUG4ajq89Cr6dK1"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "Back and Fourth",
         "url": "https://open.spotify.com/album/4VNNj5NS8VxsjMLrRjjBIC"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 302333,
       "name": "See My Baby Jive - 2006 Remaster",
       "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "When The Chips Are Down",
-        "url": "https://open.spotify.com/album/4wJOL40iSM4TkmCfkkdkii"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "The Wall Street Shuffle",
-      "url": "https://open.spotify.com/track/3kXYV44ZUG4ajq89Cr6dK1"
     },
     {
       "added_at": "2022-11-17 16:14:04",

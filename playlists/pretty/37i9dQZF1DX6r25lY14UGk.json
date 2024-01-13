@@ -1,13 +1,85 @@
 {
   "description": "New releases for the kids. Cover: Pj Panda",
-  "num_followers": 16632,
+  "num_followers": 16665,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDQ1YjU4YWM4NTcxNTFmY2Q1NTQ3YjgxYmE2N2JkNzMwZDExMTIy",
+  "snapshot_id": "MCwzNzhkNmQ0NGQ1OTAyNDUyY2UwMTVjZDM1ZWU3ODQ0NmVlMzJkNDg0",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Lovable and Capable (All Star Remix)",
+        "url": "https://open.spotify.com/album/22wpa7n1zlx9PEvGLNIE2g"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "duration_ms": 220757,
+      "name": "Lovable and Capable - All Star Remix",
+      "url": "https://open.spotify.com/track/7qmhq9HB3avP0XWOMjhiXb"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Kids Sing Classic Pop Hits!",
+        "url": "https://open.spotify.com/album/3INw0axhrXHJHIfo9arjrF"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "duration_ms": 212625,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/3FIEkSOrEHWeDwgUG9qgOV"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Poof! I Am A Wizard And I Will Turn You Into An Inanimate Object Because An Old Man In The Woods Gave Me These Powers",
+        "url": "https://open.spotify.com/album/175SgHU8BZxmBrjCfwwS7x"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "duration_ms": 137227,
+      "name": "Poof! I Am A Wizard And I Will Turn You Into An Inanimate Object Because An Old Man In The Woods Gave Me These Powers",
+      "url": "https://open.spotify.com/track/3oLtkkqTaT9osPucTEnycZ"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Used To Be Young",
+        "url": "https://open.spotify.com/album/53C3GboXZmNPObC7yOrX17"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 176532,
+      "name": "Used To Be Young",
+      "url": "https://open.spotify.com/track/239Hmf9gqfdOjYBBaKcYGs"
+    },
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
@@ -39,6 +111,38 @@
       "duration_ms": 192773,
       "name": "Same and Different Superhero Song",
       "url": "https://open.spotify.com/track/6I3qx7AQFL5qIsuDBSbbLs"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Wheels on the Bus",
+        "url": "https://open.spotify.com/album/1IXa2bOmhdN29xrbUr1hNn"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "duration_ms": 154746,
+      "name": "Wheels on the Bus",
+      "url": "https://open.spotify.com/track/0aGG3stDlYVyoQX2SD6mdT"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Baby Bot's ABC",
+        "url": "https://open.spotify.com/album/2qzqCfGMxxuI2BOw5qFu6V"
+      },
+      "artists": [
+        {
+          "name": "Lingokids",
+          "url": "https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O"
+        }
+      ],
+      "duration_ms": 141339,
+      "name": "Baby Bot's ABC",
+      "url": "https://open.spotify.com/track/0YnmWV2VolT9FbH7xIpEjR"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -95,6 +199,22 @@
       "duration_ms": 43202,
       "name": "It's Stariana!",
       "url": "https://open.spotify.com/track/0mI8clBGy1IIVDctrLA9fP"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Plim Plim Nursery Rhymes Vol. 6",
+        "url": "https://open.spotify.com/album/2djyYsu53UGFp825dJ6FFi"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "duration_ms": 159424,
+      "name": "One Little Finger",
+      "url": "https://open.spotify.com/track/3XH8hYYGsj0WJGhdoffsaT"
     },
     {
       "added_at": "2024-01-05 05:00:00",

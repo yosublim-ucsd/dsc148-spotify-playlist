@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2093953,
+  "num_followers": 2091377,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWM1ZjIyNGFlOTc0MDY4ZDljZjQ4NWY5MjQ1NjgzOTk2MTI4ZGZk",
+  "snapshot_id": "MCwyNDNhNjVjZWQ2OWE2NjUwYjVjOGQ2ZGNkNzNkYzhkODVmYTc2MTkw",
   "tracks": [
     {
       "added_at": "2023-09-13 13:42:51",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-09-13 13:42:51",
       "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2023-09-13 13:42:51",
+      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2023-09-13 13:42:51",
-      "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-09-13 13:42:51",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-09-13 13:42:51",
       "album": {
+        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Volv\u00ed a Nacer",
+      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
+    },
+    {
+      "added_at": "2023-09-13 13:42:51",
+      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2023-09-13 13:42:51",
       "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
         }
       ],
-      "duration_ms": 222213,
-      "name": "Volv\u00ed a Nacer",
-      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
+      "duration_ms": 197120,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
     },
     {
       "added_at": "2023-09-13 13:42:51",
@@ -1379,22 +1395,6 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
-    },
-    {
-      "added_at": "2023-09-13 13:42:51",
-      "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
-      },
-      "artists": [
-        {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
     },
     {
       "added_at": "2023-09-13 13:42:51",
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2023-09-13 13:42:51",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
+        "name": "Revelaci\u00f3n - EP",
+        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
       "artists": [
         {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX"
+      "duration_ms": 186087,
+      "name": "Baila Conmigo (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
     },
     {
       "added_at": "2023-09-13 13:42:51",
@@ -1719,38 +1723,18 @@
     {
       "added_at": "2023-09-13 13:42:51",
       "album": {
-        "name": "Revelaci\u00f3n - EP",
-        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
         }
       ],
-      "duration_ms": 186087,
-      "name": "Baila Conmigo (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
-    },
-    {
-      "added_at": "2023-09-13 13:42:51",
-      "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 325642,
-      "name": "Oiga, Mire, Vea",
-      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
+      "duration_ms": 216933,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX"
     },
     {
       "added_at": "2023-09-13 13:42:51",
@@ -1775,6 +1759,22 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2023-09-13 13:42:51",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
     },
     {
       "added_at": "2023-09-13 13:42:51",
@@ -1839,6 +1839,26 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "added_at": "2023-09-13 13:42:51",
+      "album": {
+        "name": "DUELE EL CORAZON (feat. Wisin)",
+        "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "DUELE EL CORAZON (feat. Wisin)",
+      "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
     },
     {
       "added_at": "2023-09-13 13:42:51",
@@ -1947,30 +1967,6 @@
       "duration_ms": 188560,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
-    },
-    {
-      "added_at": "2023-09-13 13:42:51",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
     }
   ],
   "unique_name": "Latin Party Anthems",

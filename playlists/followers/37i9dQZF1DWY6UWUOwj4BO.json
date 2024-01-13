@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 238407,
+  "2024-01-13": 238383,
   "date_first_scraped": "2022-12-28",
   "description": "Les meilleurs titres du moment en version acoustique.",
   "name": "Hit Acoustique",
@@ -111,6 +111,24 @@
       "duration_ms": 201280,
       "name": "beau-papa (acoustique)",
       "url": "https://open.spotify.com/track/0wRFR5cUtBNArgtw4F1rw1"
+    },
+    {
+      "album": {
+        "name": "Black Friday EP",
+        "url": "https://open.spotify.com/album/0g5N9f6FpdYuON9ahdmu5n"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224053,
+      "name": "Black Friday (Mahogany Session)",
+      "url": "https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK"
     },
     {
       "album": {
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 211068,
       "name": "Hypnotized - Acoustic",
       "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
@@ -855,6 +873,24 @@
       "duration_ms": 138024,
       "name": "I'm Good (Blue) - Acoustic",
       "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry (Live Version)",
+        "url": "https://open.spotify.com/album/6XkjRKuAMUKLH22JRqUMqR"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223019,
+      "name": "I'm Sorry - Live Version",
+      "url": "https://open.spotify.com/track/4kjlQ7qSPLHjgxJTSmJIJv"
     },
     {
       "album": {
@@ -1137,7 +1173,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 200160,
       "name": "Love Should Be Easy - Acoustic",
       "url": "https://open.spotify.com/track/1Uf2Jb951trOKmxJZS7HOl"
@@ -1311,6 +1347,24 @@
       "duration_ms": 189564,
       "name": "Premier amour - Version acoustique",
       "url": "https://open.spotify.com/track/1BxPyaqHGCAPUlfqtn5vuK"
+    },
+    {
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164063,
+      "name": "run for the hills (Spotify OUTSIDE Version) - Live from Malibu",
+      "url": "https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB"
     },
     {
       "album": {
@@ -1771,7 +1825,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 176652,
       "name": "you broke me first - Spotify Singles",
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"

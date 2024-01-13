@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 94766,
+  "num_followers": 94579,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDgyNjc1YzY1ZjM3MTk2Mjc0YmU2YzQ0NDgwZWRiZDIzNWU2ZDg3",
+  "snapshot_id": "MCxiMTJkMjZkNWZhMzJmNDEyZDc1NjdjMzg0ZGY0MmUzNzMzMDg4Y2My",
   "tracks": [
     {
       "added_at": "2024-01-08 03:30:43",
@@ -295,26 +295,6 @@
     {
       "added_at": "2024-01-08 03:30:43",
       "album": {
-        "name": "\u5fc3\u5f15\u529b",
-        "url": "https://open.spotify.com/album/7huuhQ6PkYl8cSDtGNqM6s"
-      },
-      "artists": [
-        {
-          "name": "\u738b\u4fca\u51f1",
-          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 257785,
-      "name": "\u5fc3\u5f15\u529b",
-      "url": "https://open.spotify.com/track/5FCICpVP6esEhKY7dxLU7T"
-    },
-    {
-      "added_at": "2024-01-08 03:30:43",
-      "album": {
         "name": "\u5468\u6770\u502b\u7684\u5e8a\u908a\u6545\u4e8b",
         "url": "https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H"
       },
@@ -331,22 +311,22 @@
     {
       "added_at": "2024-01-08 03:30:43",
       "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7"
+        "name": "\u5fc3\u5f15\u529b",
+        "url": "https://open.spotify.com/album/7huuhQ6PkYl8cSDtGNqM6s"
       },
       "artists": [
         {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+          "name": "\u738b\u4fca\u51f1",
+          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
         },
         {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
         }
       ],
-      "duration_ms": 201150,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG"
+      "duration_ms": 257785,
+      "name": "\u5fc3\u5f15\u529b",
+      "url": "https://open.spotify.com/track/5FCICpVP6esEhKY7dxLU7T"
     },
     {
       "added_at": "2024-01-08 03:30:43",
@@ -383,6 +363,26 @@
       "duration_ms": 254000,
       "name": "\u8c46\u6f3f\u6cb9\u689d",
       "url": "https://open.spotify.com/track/7vva2pL13vWP3XHKltJNJ7"
+    },
+    {
+      "added_at": "2024-01-08 03:30:43",
+      "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7"
+      },
+      "artists": [
+        {
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+        },
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 201150,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG"
     },
     {
       "added_at": "2024-01-08 03:30:43",
@@ -571,6 +571,42 @@
     {
       "added_at": "2024-01-08 03:30:43",
       "album": {
+        "name": "\u6881\u8a60\u742agigi",
+        "url": "https://open.spotify.com/album/6IoDtEh2LyrMTIoFyOtN3H"
+      },
+      "artists": [
+        {
+          "name": "Gigi Leung",
+          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
+        }
+      ],
+      "duration_ms": 258105,
+      "name": "\u81bd\u5c0f\u9b3c",
+      "url": "https://open.spotify.com/track/1k4n9BzPRYsyx0fObF74Rk"
+    },
+    {
+      "added_at": "2024-01-08 03:30:43",
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Gary Yang",
+          "url": "https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "\u7b49\u4f60\u4e0b\u8ab2",
+      "url": "https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR"
+    },
+    {
+      "added_at": "2024-01-08 03:30:43",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
       },
@@ -615,22 +651,6 @@
       "duration_ms": 190390,
       "name": "\u6e10\u6696",
       "url": "https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX"
-    },
-    {
-      "added_at": "2024-01-08 03:30:43",
-      "album": {
-        "name": "\u6881\u8a60\u742agigi",
-        "url": "https://open.spotify.com/album/6IoDtEh2LyrMTIoFyOtN3H"
-      },
-      "artists": [
-        {
-          "name": "Gigi Leung",
-          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
-        }
-      ],
-      "duration_ms": 258105,
-      "name": "\u81bd\u5c0f\u9b3c",
-      "url": "https://open.spotify.com/track/1k4n9BzPRYsyx0fObF74Rk"
     },
     {
       "added_at": "2024-01-08 03:30:43",
@@ -747,6 +767,22 @@
     {
       "added_at": "2024-01-08 03:30:43",
       "album": {
+        "name": "\u8303\u7279\u897f",
+        "url": "https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "\u7c21\u55ae\u611b",
+      "url": "https://open.spotify.com/track/7JWIGJpbc8Xm9xxu8gSCsT"
+    },
+    {
+      "added_at": "2024-01-08 03:30:43",
+      "album": {
         "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX"
       },
@@ -759,22 +795,6 @@
       "duration_ms": 208733,
       "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h"
-    },
-    {
-      "added_at": "2024-01-08 03:30:43",
-      "album": {
-        "name": "\u65e5\u51fa",
-        "url": "https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2"
-      },
-      "artists": [
-        {
-          "name": "Joi Chua",
-          "url": "https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg"
-        }
-      ],
-      "duration_ms": 260480,
-      "name": "\u966a\u6211\u770b\u65e5\u51fa",
-      "url": "https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD"
     },
     {
       "added_at": "2024-01-08 03:30:43",
@@ -795,6 +815,22 @@
     {
       "added_at": "2024-01-08 03:30:43",
       "album": {
+        "name": "\u65e5\u51fa",
+        "url": "https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2"
+      },
+      "artists": [
+        {
+          "name": "Joi Chua",
+          "url": "https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg"
+        }
+      ],
+      "duration_ms": 260480,
+      "name": "\u966a\u6211\u770b\u65e5\u51fa",
+      "url": "https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD"
+    },
+    {
+      "added_at": "2024-01-08 03:30:43",
+      "album": {
         "name": "Take Off - The 1st Mini Album",
         "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
       },
@@ -807,26 +843,6 @@
       "duration_ms": 226013,
       "name": "Let me love u",
       "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
-    },
-    {
-      "added_at": "2024-01-08 03:30:43",
-      "album": {
-        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-        "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        },
-        {
-          "name": "Gary Yang",
-          "url": "https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "\u7b49\u4f60\u4e0b\u8ab2",
-      "url": "https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR"
     },
     {
       "added_at": "2024-01-08 03:30:43",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-01-08 03:30:43",
       "album": {
-        "name": "\u8303\u7279\u897f",
-        "url": "https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "\u7c21\u55ae\u611b",
-      "url": "https://open.spotify.com/track/7JWIGJpbc8Xm9xxu8gSCsT"
-    },
-    {
-      "added_at": "2024-01-08 03:30:43",
-      "album": {
         "name": "\u6d77\u7ef5\u5b9d\u5b9d",
         "url": "https://open.spotify.com/album/5W7iavXoJXfMRL9rhTQWCi"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 228965,
       "name": "\u5fc3\u8df3\u7684\u8bc1\u660e",
       "url": "https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g"
+    },
+    {
+      "added_at": "2024-01-08 03:30:43",
+      "album": {
+        "name": "\u6770\u502b",
+        "url": "https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 259400,
+      "name": "\u661f\u6674",
+      "url": "https://open.spotify.com/track/1BRoZRAK2XdrSgJ0AJu3eM"
     },
     {
       "added_at": "2024-01-08 03:30:43",
@@ -1211,6 +1227,22 @@
     {
       "added_at": "2024-01-08 03:30:43",
       "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/2RvetPNMoaOJbBo7FtCV0J"
+    },
+    {
+      "added_at": "2024-01-08 03:30:43",
+      "album": {
         "name": "\u5de6\u8fb9",
         "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
       },
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2024-01-08 03:30:43",
       "album": {
-        "name": "\u6770\u502b",
-        "url": "https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 259400,
-      "name": "\u661f\u6674",
-      "url": "https://open.spotify.com/track/1BRoZRAK2XdrSgJ0AJu3eM"
-    },
-    {
-      "added_at": "2024-01-08 03:30:43",
-      "album": {
         "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
-    },
-    {
-      "added_at": "2024-01-08 03:30:43",
-      "album": {
-        "name": "\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z"
-      },
-      "artists": [
-        {
-          "name": "Yokez",
-          "url": "https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus"
-        }
-      ],
-      "duration_ms": 196108,
-      "name": "\u9b54\u6cd5",
-      "url": "https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

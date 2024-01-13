@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,171 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,291 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 4 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/6nCgYzfYRa3SPmL0AW8is1) | 4:53 |
 | 5 | [Word Up!](https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Word Up! \(The Remixes\)](https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF) | 2:52 |
 | 6 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 |
-| 7 | [Everytime We Touch \- TEKKNO Version](https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Everytime We Touch \(TEKKNO Version\)](https://open.spotify.com/album/68b4arc5OggOpXBCMTUdZc) | 3:17 |
-| 8 | [Blank Space](https://open.spotify.com/track/2ZiJidFdQ30nVJEP4u44l3) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 4:00 |
+| 7 | [Blank Space](https://open.spotify.com/track/2ZiJidFdQ30nVJEP4u44l3) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 4:00 |
+| 8 | [Everytime We Touch \- TEKKNO Version](https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Everytime We Touch \(TEKKNO Version\)](https://open.spotify.com/album/68b4arc5OggOpXBCMTUdZc) | 3:17 |
 | 9 | [Bad Romance](https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate: The CoVeRs eP](https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D) | 4:08 |
 | 10 | [Whiskey In The Jar](https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 5:04 |
 | 11 | [Land of Confusion](https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 49 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
 | 50 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 |
 
-Snapshot ID: `MCxhZDQ4OTNjZDYyMjMzMWJhYWYyYmNmMjk3M2QyZjRlM2U3Mzg5MTE4`
+Snapshot ID: `MCxkMDY2MDRlNTkwZWYyMGU0YjA4MTQyN2EyOTE3YjczNmUzMGQ5MmU3`

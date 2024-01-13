@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-494 songs - 1 day 9 hr 12 min
+495 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Feel Good](https://open.spotify.com/track/3PURbsY67tLMyausOABtit) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:27 | 2022-04-06 |  |
 | [Feel Good](https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm) | 3:58 | 2021-12-03 | 2024-01-06 |
 | [Ferris Wheel \- Terrace Martin Remix](https://open.spotify.com/track/7HhYOQV0lR1L6fVuF0aP4A) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Ferris Wheel \[Feat\. Robert Glasper\] \(Terrace Martin Remix\)](https://open.spotify.com/album/7m9kZfDONAl0UMYeQRFTNI) | 2:57 | 2021-12-03 | 2022-07-29 |
-| [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2022-04-15 |  |
+| [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2022-04-15 | 2024-01-13 |
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2022-04-06 | 2022-04-10 |
 | [First Wave](https://open.spotify.com/track/78zFnEhM68lwndY49NtExS) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/0dhXNuqnaNN2fe17uADyFJ) | 4:38 | 2022-04-06 | 2022-04-13 |
 | [Flame \- Dan Shake Broken Mix](https://open.spotify.com/track/2txuYleYPl5dOQMv70tlWD) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Flame](https://open.spotify.com/album/6JLIydfqzCoS4pf53mqdrQ) | 5:11 | 2021-12-03 | 2022-07-12 |
@@ -240,6 +240,7 @@
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-04-06 | 2022-11-17 |
 | [It Runs Through Me \(feat\. De La Soul\)](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-09-05 |  |
 | [It's Nice to Be Alive](https://open.spotify.com/track/4Qosj8bJfXBlXi35ukPiGi) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg) | 3:25 | 2022-04-15 | 2022-04-19 |
+| [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-12 |  |
 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-04-11 | 2023-07-28 |
 | [Javelin \(Calling Out Your Name\)](https://open.spotify.com/track/7GkVQ8u2hJ1xMTSTqVZj2M) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Javelin \(Calling Out Your Name\)](https://open.spotify.com/album/3WHPQT135w07uWeMJtM20v) | 3:02 | 2022-04-06 | 2022-04-13 |
 | [Jazz Drama](https://open.spotify.com/track/1i8vRS6zwBPBdc3ww0vHg8) | [Access 58](https://open.spotify.com/artist/5rVh9RGgcYWTu3suOIFbPt) | [Josey In Space](https://open.spotify.com/album/6v1Nilz6moJBaC5o3aXzi2) | 3:58 | 2022-04-06 | 2022-04-09 |

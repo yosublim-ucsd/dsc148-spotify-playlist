@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,031 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,448 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 43 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
 | 44 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 |
 | 45 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 |
-| 46 | [When I Look Into Your Eyes](https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Hold Your Fire](https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy) | 3:59 |
-| 47 | [What About Love?](https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:41 |
+| 46 | [What About Love?](https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:41 |
+| 47 | [When I Look Into Your Eyes](https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Hold Your Fire](https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy) | 3:59 |
 | 48 | [Heaven Beside You](https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Alice In Chains](https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe) | 5:27 |
-| 49 | [She's Gone](https://open.spotify.com/track/2Ap6ZjicxxcWvit5ZRYQxk) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [Steelheart](https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ) | 6:32 |
-| 50 | [Who's Crying Now \(2022 Remaster\)](https://open.spotify.com/track/4KWzsYmXYYbTjb4tYxulvd) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:59 |
+| 49 | [Who's Crying Now \(2022 Remaster\)](https://open.spotify.com/track/4KWzsYmXYYbTjb4tYxulvd) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:59 |
+| 50 | [She's Gone](https://open.spotify.com/track/2Ap6ZjicxxcWvit5ZRYQxk) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [Steelheart](https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ) | 6:32 |
 | 51 | [Silent Lucidity \- Remastered 2003](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
 | 52 | [I'd Do Anything For Love \(But I Won't Do That\) \- Single Edit](https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell](https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z) | 5:16 |
 | 53 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
-| 54 | [Close My Eyes Forever](https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3) | [Lita Ford](https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Lita](https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk) | 4:43 |
+| 54 | [Love of a Lifetime](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:46 |
 | 55 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 5:54 |
-| 56 | [Love of a Lifetime](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:46 |
+| 56 | [Close My Eyes Forever](https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3) | [Lita Ford](https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Lita](https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk) | 4:43 |
 | 57 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 |
 | 58 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 |
 | 59 | [High Enough](https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 4:47 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 78 | [Til Death Do Us Part](https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 5:26 |
 | 79 | [I Can't Hold Back](https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 3:58 |
 | 80 | [House of Pain](https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw) | [Faster Pussycat](https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7) | [Wake Me When It's Over](https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys) | 5:44 |
-| 81 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
-| 82 | [Love Song](https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 5:23 |
+| 81 | [Love Song](https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 5:23 |
+| 82 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
 | 83 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
 | 84 | [Coming Home](https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 4:55 |
 | 85 | [Oh! Darling \- 2019 Mix](https://open.spotify.com/track/3UHv8SSIkNUDRBUHJx3Cg6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Super Deluxe Edition\)](https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 |
 | 100 | [Quicksand Jesus](https://open.spotify.com/track/1WYCGlOv6XhCqDyZBYnu9E) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/5rwVv60GrqUYkkrD3vxSJy) | 5:24 |
 
-Snapshot ID: `MCwxMWY5N2MxZWM5NGZiZTRiZGE3MzNmZGRmN2UyNjIwNTJkYzZmMjQ2`
+Snapshot ID: `MCxhNjg4ZjA5OWE3OTVkMjMwZTBjMmYwYzE0M2E5ODkwZDVhNmM5MmUw`

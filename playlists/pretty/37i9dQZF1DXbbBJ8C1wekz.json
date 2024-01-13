@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 128441,
+  "num_followers": 128504,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGNkOTE1YmE3YmQ3YTc5NzQwMjcwZWY1ODUzNWZlNmVlZDdhMmU2",
+  "snapshot_id": "MCwxZmZkMjA3M2ZhOTU1MDhkMWRiYmZiZGI2OTkyNGZhMTk4ZDAxZjlk",
   "tracks": [
     {
       "added_at": "2024-01-11 21:17:02",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-01-11 21:17:02",
       "album": {
-        "name": "Kallidade",
-        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        },
-        {
-          "name": "NaBuscaDoOuro",
-          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Kallidade",
-      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
-    },
-    {
-      "added_at": "2024-01-11 21:17:02",
-      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
+    },
+    {
+      "added_at": "2024-01-11 21:17:02",
+      "album": {
+        "name": "Kallidade",
+        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        },
+        {
+          "name": "NaBuscaDoOuro",
+          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Kallidade",
+      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
     },
     {
       "added_at": "2024-01-11 21:17:02",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-01-11 21:17:02",
       "album": {
+        "name": "Chega de Falar de Ice",
+        "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
+      },
+      "artists": [
+        {
+          "name": "Leozin",
+          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+        }
+      ],
+      "duration_ms": 177245,
+      "name": "Chega de Falar de Ice",
+      "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
+    },
+    {
+      "added_at": "2024-01-11 21:17:02",
+      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 201869,
       "name": "Ensinamento do Pai",
       "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
-    },
-    {
-      "added_at": "2024-01-11 21:17:02",
-      "album": {
-        "name": "Chega de Falar de Ice",
-        "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
-      },
-      "artists": [
-        {
-          "name": "Leozin",
-          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
-        }
-      ],
-      "duration_ms": 177245,
-      "name": "Chega de Falar de Ice",
-      "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
     },
     {
       "added_at": "2024-01-11 21:17:02",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-01-11 21:17:02",
       "album": {
+        "name": "Ok Baby",
+        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Ok Baby",
+      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
+    },
+    {
+      "added_at": "2024-01-11 21:17:02",
+      "album": {
         "name": "Assault (Angra)",
         "url": "https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 269998,
       "name": "Assault (Angra)",
       "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
-    },
-    {
-      "added_at": "2024-01-11 21:17:02",
-      "album": {
-        "name": "Ok Baby",
-        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Ok Baby",
-      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
     },
     {
       "added_at": "2024-01-11 21:17:02",

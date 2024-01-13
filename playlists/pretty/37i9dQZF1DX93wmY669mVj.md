@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 
 > Explore the music of Franz Liszt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,000 likes - 62 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,033 likes - 62 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 | 45 | [Les Preludes, S97/R414 : Les Preludes](https://open.spotify.com/track/54kpY58qUYcBIP49sfnRRF) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK) | [Liszt: The Best of Liszt](https://open.spotify.com/album/2bMNzj2s9VH74KbT0OdHBa) | 17:00 |
 | 46 | [Wagner \- Isoldes Liebestod aus Tristan und Isolde, S447/R280](https://open.spotify.com/track/5t6s4VX5QpZ64iV7hbyYud) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [William Wolfram](https://open.spotify.com/artist/2DSGVqA0JXE2L2JqVPTuF7) | [Liszt Complete Piano Music, Vol\. 36: Transcriptions of Wagner](https://open.spotify.com/album/3hG2t2dlufFHYgur0vclkP) | 7:24 |
 | 47 | [Années de pèlerinage III, S\. 163: IV\. Les jeux d'eau de la villa d'Este](https://open.spotify.com/track/3GBZAY2DdxZfWecKun3qF0) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Liszt: Intégrale des années de pélerinage](https://open.spotify.com/album/0YvwChsWRq5YAeqG1dSeqZ) | 8:20 |
-| 48 | [Tasso: lamento e trionfo, S96/R413](https://open.spotify.com/track/58Gl0b7ugZIMidJNni4d1c) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 1](https://open.spotify.com/album/1l8gJBYGalZ8WOn0OzxV8z) | 21:29 |
+| 48 | [Tasso: Lamento e trionfo, S\. 96/R\. 413](https://open.spotify.com/track/5ead8FyAQ2Vle2iJCNIXDO) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 1](https://open.spotify.com/album/7mgvFkrQf1RawvtMVesF6d) | 21:29 |
 | 49 | [Études d'exécution transcendante, S\. 139: No\. 12, Chasse\-neige](https://open.spotify.com/track/5kWbU1l9Dy3P9F1yCA6P7s) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Liszt: Piano Works](https://open.spotify.com/album/2jyztORnekANV7I5ylJLxc) | 5:50 |
 | 50 | [Die Forelle, S\. 564 \(after Schubert, D\. 550\)](https://open.spotify.com/track/4djfz7d3D12RImkcz3ZwCY) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Jorge Bolet](https://open.spotify.com/artist/4DozkIMJBaF8L9Tix8pUID) | [Liszt: Piano Works Vol\. 2 \- Schubert Song Transcriptions](https://open.spotify.com/album/4Yvhnj8B9ZBJGgWbDoA9SC) | 3:58 |
 | 51 | [Adelaide, S\. 466 \(After Beethoven's Op\. 46\)](https://open.spotify.com/track/33N86FRk4FwgJGHPApxkgI) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Garrick Ohlsson](https://open.spotify.com/artist/6OZmjtuzO1FCcPQ6kdPF5x) | [Liszt: Piano Works, Vol\. 2 – Garrick Ohlsson Edition](https://open.spotify.com/album/7lBcRyLcFFGgF11ilo6j9b) | 11:27 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 | 61 | [Ce qu'on entend sur la montagne \(What Is Heard on the Mountain\), S\. 95/R\. 412](https://open.spotify.com/track/7p1XInUAcK8tA33V9PlY9g) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 3](https://open.spotify.com/album/5hUGH8mARyOUkSFCKUIkxc) | 29:11 |
 | 62 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/6YlNhEvvgM4SL6soJZ43DH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [An Evening of Classical: Liszt](https://open.spotify.com/album/1UXL1hZBO9eo2l9IMssiGD) | 6:03 |
 
-Snapshot ID: `MCw5OGU1NTYxZTUxZTU0YjAxNWNjYmM0NmEwNDExNmQ5OGEzMzkxM2Fk`
+Snapshot ID: `MCxiNzc1NjIwZDRkNzFkNjQyNmJkMzNkNzc4NGNhM2Y5ZWVhZjQ3NGM5`

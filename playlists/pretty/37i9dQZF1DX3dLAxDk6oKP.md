@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 
 > Al cien en la mamalona!
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,157 likes - 140 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,264 likes - 140 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 75 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 |
 | 76 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
 | 77 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 |
-| 78 | [Aventador](https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Aventador](https://open.spotify.com/album/2oJmzxo3F84tztXqVBBGFH) | 3:25 |
-| 79 | [Bajo Efecto Del Alcohol](https://open.spotify.com/track/1oxTXnbKs7l9s73H2fJXF6) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Bajo Efecto Del Alcohol](https://open.spotify.com/album/6rtYoViAmt2WvS55wt1nop) | 3:04 |
+| 78 | [Bajo Efecto Del Alcohol](https://open.spotify.com/track/1oxTXnbKs7l9s73H2fJXF6) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Bajo Efecto Del Alcohol](https://open.spotify.com/album/6rtYoViAmt2WvS55wt1nop) | 3:04 |
+| 79 | [Aventador](https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Aventador](https://open.spotify.com/album/2oJmzxo3F84tztXqVBBGFH) | 3:25 |
 | 80 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
 | 81 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
 | 82 | [LA PERRIE](https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:25 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 100 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 |
 | 101 | [Acá en Guanajuato](https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:55 |
 | 102 | [Lujos y Secretos](https://open.spotify.com/track/5Q7T1ePrtZiMA5whIXdwUC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Quinto V Imperio](https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [Lujos y Secretos](https://open.spotify.com/album/4QUx5wQsvFrdwCO4vfN12v) | 2:45 |
-| 103 | [Clave 7](https://open.spotify.com/track/29m95um0i0NThLbWA765Lg) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:39 |
-| 104 | [Te Vas](https://open.spotify.com/track/6E5PU4i61dEahmW37mTtk9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 3:39 |
+| 103 | [Te Vas](https://open.spotify.com/track/6E5PU4i61dEahmW37mTtk9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 3:39 |
+| 104 | [Clave 7](https://open.spotify.com/track/29m95um0i0NThLbWA765Lg) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:39 |
 | 105 | [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 |
 | 106 | [Fumando Mota](https://open.spotify.com/track/3pJqGlXzMjn3yrhYBTPYA1) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Fumando Mota](https://open.spotify.com/album/0cenI7xUiSgFwbr37Q8tks) | 3:21 |
 | 107 | [Soy Mencho](https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:00 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 139 | [El Muchacho De Las Cajas](https://open.spotify.com/track/4P5GD2VOkMahwrqIjOYGTD) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 3:21 |
 | 140 | [No Me Gusta Perder](https://open.spotify.com/track/4iYFx1RAtKpsnybhQh7kuO) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [No Me Gusta Perder](https://open.spotify.com/album/4Zdzpz6ILDSQg5CRuBYovA) | 2:31 |
 
-Snapshot ID: `MCxlZTA3NTY5Yzg5OWRhNmJiYTBjYmExNWZkM2NhNDJiOTY1MDU4ZjIy`
+Snapshot ID: `MCxmYWMwMGViNTI2OWJiYjA2MGZiNWU3Yjk4YmJhYmI2OWZiZTA4ZDdi`

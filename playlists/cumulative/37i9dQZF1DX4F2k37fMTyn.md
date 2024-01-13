@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンの名曲を一つのプレイリストに。cover: Jennifer Lopez
 
-263 songs - 13 hr 24 min
+265 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [I Am](https://open.spotify.com/track/4fK2nGMQLFs66Lb9XXArYh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 2:55 | 2023-04-27 | 2023-05-19 |
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-06 |  |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-06-23 |
-| [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 | 2024-01-11 |  |
+| [I Pray](https://open.spotify.com/track/2fAI3SPRCSXmR8rplvuPg9) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P) | 3:22 | 2024-01-11 |  |
+| [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 | 2024-01-11 | 2024-01-13 |
 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 | 2023-09-29 |
 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 | 2023-10-05 | 2023-11-10 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-03-16 |  |
@@ -258,6 +259,7 @@
 | [World Burn](https://open.spotify.com/track/41G077moVwIPkFSO4Bt00L) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [World Burn](https://open.spotify.com/album/7pISfAjwsGSIO6NLhoFWMN) | 3:35 | 2024-01-11 |  |
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-08-18 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-27 | 2023-09-08 |
 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2023-10-20 |
 | [You Only Love Me](https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You Only Love Me](https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq) | 2:28 | 2023-03-16 | 2023-04-17 |

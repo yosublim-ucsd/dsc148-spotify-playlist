@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21934,
+  "num_followers": 21940,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzY2YWUwMjljNDFlYmZiN2JmYTlhZGQ0NDNjOTZhMWJhZWNmYWJl",
+  "snapshot_id": "MCxlM2VkNzM0ZjhmYWUxNTE5YWI4MzUwOWM2ZmNlMjM2Y2VkN2NlZTZi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Azulmagenta",
         "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+        "name": "Ruinas",
+        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
       },
       "artists": [
         {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+          "name": "Misile",
+          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
         }
       ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+      "duration_ms": 302000,
+      "name": "Las Ruinas",
+      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1395,22 +1411,6 @@
       "duration_ms": 306321,
       "name": "My America Is Not Your America",
       "url": "https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Ruinas",
-        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
-      },
-      "artists": [
-        {
-          "name": "Misile",
-          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Las Ruinas",
-      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",

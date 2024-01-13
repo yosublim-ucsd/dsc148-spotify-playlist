@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,478 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,545 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 38 | [Voices Inside My Head](https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:53 |
 | 39 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 |
 | 40 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 |
-| 41 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
-| 42 | [Keep It Up](https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz) | [Milton Wright](https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt) | [Friends and Buddies](https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa) | 4:12 |
+| 41 | [Keep It Up](https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz) | [Milton Wright](https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt) | [Friends and Buddies](https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa) | 4:12 |
+| 42 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 43 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
 | 44 | [Why I Came to California](https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ) | [Leon Ware](https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G) | [Leon Ware](https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE) | 4:10 |
 | 45 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 86 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
 | 87 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
 | 88 | [Classy Lady \- Remastered Version](https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Paradise \(Remastered\)](https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3) | 5:31 |
-| 89 | [Disco Fantasy](https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE) | [Rahaan](https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu) | [Chicago Service](https://open.spotify.com/album/098htENdjaFFSWNegkNoWe) | 5:28 |
-| 90 | [Brothers on the Slide \- Brooklyn Mix](https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Early Recordings](https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs) | 5:30 |
-| 91 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
+| 89 | [Brothers on the Slide \- Brooklyn Mix](https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Early Recordings](https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs) | 5:30 |
+| 90 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
+| 91 | [Disco Fantasy](https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE) | [Rahaan](https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu) | [Chicago Service](https://open.spotify.com/album/098htENdjaFFSWNegkNoWe) | 5:28 |
 | 92 | [Family \- Stereo Version](https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX) | [Hubert Laws](https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv) | [Family](https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW) | 7:33 |
 | 93 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 |
 | 94 | [Do It Do It Disco \(Tom Noble Remix\)](https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt) | [Myron & E](https://open.spotify.com/artist/6c6ke5hTJ7g6g0CWZb5Maj), [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF) | [Do It Do It Disco](https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q) | 5:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 | 100 | [Put Your Body In It \- 12" Version](https://open.spotify.com/track/5abxwASaBFQDyZVh983qRD) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Disco Funk \(Disco Nights Vol.2\)](https://open.spotify.com/album/58STS86oy7HcgvP6yt6mca) | 6:02 |
 
-Snapshot ID: `MCxhNjIwMWUwZmRjMDg1NWM0Yzc4Yzg4OGU5ZWYwOTIzNGQ4MDM1ODk5`
+Snapshot ID: `MCw3YTViOTBiNDdiNThmZmI1YTAwN2Y1YzdiM2M0YjE4OTg3MzFiNzE1`

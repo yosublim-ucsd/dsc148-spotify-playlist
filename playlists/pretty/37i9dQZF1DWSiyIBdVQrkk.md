@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115,664 likes - 110 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,109,998 likes - 110 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 72 | [If Only](https://open.spotify.com/track/7yJnPO4ZU4kGx82TbaQvlU) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [If Only](https://open.spotify.com/album/1PxeMLy9b6zmzefxPOXACH) | 3:24 |
 | 73 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
 | 74 | [Smile Jamaica](https://open.spotify.com/track/7KhQx2EJaZIPGsbMAjf4jg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:33 |
-| 75 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
-| 76 | [Kingston Town](https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/2jfea3275Ef5g1nUwnf1fg) | 3:48 |
+| 75 | [Kingston Town](https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/2jfea3275Ef5g1nUwnf1fg) | 3:48 |
+| 76 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
 | 77 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
 | 78 | [Marcus Garvey](https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Marcus Garvey](https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN) | 3:27 |
 | 79 | [Mellow Mood](https://open.spotify.com/track/6r9KZ2g5dXZXXLF6vOHnet) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/3D6W8G8ZtbZoeQeyBUUAhu) | 3:51 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 110 | [Love Is My Religion](https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:48 |
 
-Snapshot ID: `MCw0MmMxYmQ4ODFjZWNmNjU5MTlkNzYyZDcyMzNhNGJmMTZhZDBkZWI2`
+Snapshot ID: `MCw1N2UxNmEzMDc4Nzc3MWViZTI3OTgwNzA3ODgwYWRmNmMwMWJmNmM2`

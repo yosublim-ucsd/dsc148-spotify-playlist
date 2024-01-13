@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGMwZjVkMzI3MDE0YWE1ZjliMmU1YjgwMDQyMjNhOTBhZmJiNDRj",
+  "snapshot_id": "MCw1MDM5Y2NiOGM5NGVjMDMxMDJkMDA5MWZmZDU1ZThiMTFkOGE2YjAx",
   "tracks": [
     {
       "added_at": "2024-01-03 10:22:00",
@@ -463,18 +463,22 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+        "name": "Giraffenaffen Winterlieder",
+        "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
       },
       "artists": [
         {
-          "name": "Nicola Rost",
-          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
+          "name": "Yvonne Catterfeld",
+          "url": "https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 174760,
-      "name": "Schnee im Gefrierfach",
-      "url": "https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17"
+      "duration_ms": 168973,
+      "name": "Winter Wunderland",
+      "url": "https://open.spotify.com/track/1WWWWMY9W4nWnEInjUXKkv"
     },
     {
       "added_at": "2024-01-03 10:22:00",
@@ -528,6 +532,22 @@
       },
       "artists": [
         {
+          "name": "Nicola Rost",
+          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Schnee im Gefrierfach",
+      "url": "https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
           "name": "Larissa Pesch",
           "url": "https://open.spotify.com/artist/0EKqMShhmMhiac8F9pbdpZ"
         }
@@ -535,26 +555,6 @@
       "duration_ms": 282786,
       "name": "Ein ganzes Jahr",
       "url": "https://open.spotify.com/track/67Co1VuT41BwFVZNvQKi3G"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
-        "name": "Giraffenaffen Winterlieder",
-        "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Catterfeld",
-          "url": "https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Winter Wunderland",
-      "url": "https://open.spotify.com/track/1WWWWMY9W4nWnEInjUXKkv"
     },
     {
       "added_at": "2024-01-03 10:22:00",

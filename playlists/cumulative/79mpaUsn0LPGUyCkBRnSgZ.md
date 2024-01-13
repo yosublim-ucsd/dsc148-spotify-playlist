@@ -4,13 +4,14 @@
 
 > albums i plan to listen to eventually
 
-467 songs - 1 day 6 hr 1 min
+470 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Ed Buys Houses!](https://open.spotify.com/track/7C93fnd8BwNdDj5YIEZsKX) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [Ed Buys Houses](https://open.spotify.com/album/64DjJ6ym4wzWt2HzwpZ6jO) | 0:57 | 2023-05-02 | 2023-05-15 |
 | [\#GAMIGANG](https://open.spotify.com/track/1Vfe6FT2Gba7Lz5fbgvyry) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [GAMI GANG](https://open.spotify.com/album/2ohtZdoMSFtr2JrO3lJbB5) | 0:28 | 2023-06-22 |  |
 | [\(Don't Worry\) If There Is a Hell Below, We're All Going to Go](https://open.spotify.com/track/5wdlG60d0WHoo8P3QzrlbG) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 7:50 | 2024-01-08 |  |
+| [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2024-01-12 |  |
 | [100](https://open.spotify.com/track/6e6zTZH1PIyXRI6PTByfW6) | [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Gold Mouf \(Deluxe\)](https://open.spotify.com/album/5O5tzddmtxljqz3WOwFK00) | 3:50 | 2022-09-06 |  |
 | [100 Degrees](https://open.spotify.com/track/1DPIqXc2BfJWWgCy0Tc2lr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:25 | 2023-05-18 |  |
 | [123](https://open.spotify.com/track/2QrMuaZUACwUpmIzmqRE9l) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Powerplant](https://open.spotify.com/album/120bhi2kgHiYc2FwI7nghO) | 2:50 | 2022-08-25 | 2023-07-29 |
@@ -44,6 +45,7 @@
 | [Allison](https://open.spotify.com/track/3B0vMz20sN9UUwAwcP2QGQ) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Collection](https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74) | 2:39 | 2022-06-28 |  |
 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 | 2023-11-05 |  |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2023-10-30 |  |
+| [Amén](https://open.spotify.com/track/1OhlcrOBfQYntksbcryXKC) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 0:57 | 2024-01-12 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-06-16 |  |
 | [Animal Instinct](https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:31 | 2024-01-02 |  |
 | [Anna Calls From The Arctic](https://open.spotify.com/track/6oq1L27bdnLF3rb8O4V41t) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 4:57 | 2022-11-29 |  |
@@ -109,7 +111,7 @@
 | [Corn Maze](https://open.spotify.com/track/7oDQlEb0Uy1AfSkVL5k2Ac) | [Malibu Ken](https://open.spotify.com/artist/5PB4q8DMiGL17Jdo4k6TOy), [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR) | [Malibu Ken](https://open.spotify.com/album/7xa97ZeKKo4MiBJ96awavT) | 3:22 | 2023-03-24 | 2023-04-26 |
 | [Couldn’t Be Done \(feat\. Kelly Price\)](https://open.spotify.com/track/3cJhvKu04O5akhOHpZmMvP) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:31 | 2022-10-05 |  |
 | [Cowboys](https://open.spotify.com/track/1DB8s1L4z25jcRw88815ko) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:39 | 2022-10-27 |  |
-| [Cross Talk I](https://open.spotify.com/track/5obg5AfnPR61YtwEewaSDu) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ) | 0:22 | 2024-01-11 |  |
+| [Cross Talk I](https://open.spotify.com/track/5obg5AfnPR61YtwEewaSDu) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ) | 0:22 | 2024-01-11 | 2024-01-13 |
 | [Crying In My Sleep](https://open.spotify.com/track/7xKAS4iupiL25lxshaSgSv) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Watermark](https://open.spotify.com/album/3NJIOzTO3xQj2vwlRIyFV9) | 4:04 | 2022-07-27 |  |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 4:04 | 2024-01-08 |  |
 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 | 2022-01-11 | 2023-05-17 |
@@ -411,6 +413,7 @@
 | [The End.](https://open.spotify.com/track/6s2yqZbiPNPL1B2IeCMsUA) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 1:52 | 2024-01-08 |  |
 | [THE GLOW](https://open.spotify.com/track/1XSoToJJt581oXBXP6vyhU) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 0:45 | 2022-09-25 |  |
 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 | 2023-03-24 | 2023-06-15 |
+| [The Greater Wings](https://open.spotify.com/track/5K7xeYoKdOv0JHNddosDw7) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:24 | 2024-01-12 |  |
 | [The Grudge](https://open.spotify.com/track/6ZsZxNP4Iwdyp3kd5oFFQN) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 8:35 | 2022-07-24 |  |
 | [The Hives\-Declare Guerre Nucleaire](https://open.spotify.com/track/1yXPyr0fjsmkBWtwfge84L) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 1:35 | 2023-10-30 |  |
 | [The Infanta](https://open.spotify.com/track/0irk3bHSVDK12T2eGeWBuz) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 5:07 | 2023-11-04 |  |

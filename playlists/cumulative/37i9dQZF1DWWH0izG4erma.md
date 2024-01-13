@@ -4,7 +4,7 @@
 
 > Country Music that rocks\. Cover: HARDY
 
-332 songs - 19 hr 3 min
+333 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Dragging Me Down](https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Kendall Tucker](https://open.spotify.com/artist/37FPXnVFHhkzmJPfym2ZOK), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dragging Me Down](https://open.spotify.com/album/3mrWh51A1iKLqyELCC0NUr) | 3:18 | 2023-08-25 |  |
 | [Drunk Prayer](https://open.spotify.com/track/7w92AueIig6NWpM8kqAwMK) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Drunk Prayer](https://open.spotify.com/album/63JXCuKtwKdcwtZchH17Cb) | 3:21 | 2023-12-08 |  |
 | [Even The Devil](https://open.spotify.com/track/0R5xOrUdw4bDHlaJ96bWYM) | [Murphy Elmore](https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9) | [Even The Devil](https://open.spotify.com/album/2lMv82sDWSdhIcva2Wr47e) | 2:52 | 2024-01-05 |  |
-| [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2023-01-27 |  |
+| [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2023-01-27 | 2024-01-13 |
 | [Excuses](https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 3:26 | 2023-12-08 |  |
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-11-01 | 2023-02-01 |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2023-06-02 |  |
@@ -221,6 +221,7 @@
 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 | 2021-11-01 | 2023-01-21 |
 | [Places To Run](https://open.spotify.com/track/4XXXLj4SKynrgyIEwibD9x) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Places To Run](https://open.spotify.com/album/7cA953EqbwfrTJ3DYy5Zc6) | 2:58 | 2021-11-01 | 2022-07-28 |
 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 | 2022-06-10 |  |
+| [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 | 2024-01-12 |  |
 | [Promiseland](https://open.spotify.com/track/3vDRPNARUjauckJY6VnmG0) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/2fqe9pxRWIEk27VrLRFBf7) | 2:35 | 2023-11-17 | 2023-12-02 |
 | [Promiseland](https://open.spotify.com/track/5QUhfrmKG93HXYmyvqoLfm) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/2y0FPrFN1IoM5U4cqxVYKq) | 2:35 | 2023-09-08 | 2023-11-18 |
 | [Pull Me Under](https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:28 | 2022-07-22 | 2023-04-22 |

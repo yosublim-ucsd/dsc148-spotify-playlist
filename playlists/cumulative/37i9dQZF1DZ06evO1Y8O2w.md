@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-89 songs - 7 hr 0 min
+90 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Can't We Fall in Love Again](https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv), [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 5:17 | 2022-05-25 |  |
 | [Come Right or Not at All](https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:37 | 2022-05-25 |  |
 | [Deliver the Love](https://open.spotify.com/track/5dM31CDbVHA2Tj6OBRDegY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 3:59 | 2022-06-01 | 2022-08-18 |
-| [Don't Tell Me, Tell Her](https://open.spotify.com/track/0E6EbqqEBDHEo7NuqEMuZ5) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:17 | 2022-05-25 |  |
+| [Don't Tell Me, Tell Her](https://open.spotify.com/track/0E6EbqqEBDHEo7NuqEMuZ5) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:17 | 2022-05-25 | 2024-01-13 |
+| [Don't Tell Me, Tell Her](https://open.spotify.com/track/4broG31djyLAE0zNTe0jyI) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:18 | 2024-01-12 |  |
 | [Don't Wanna Change the World](https://open.spotify.com/track/06b5ZHfj1b9u3Kn4DegPSD) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 5:21 | 2022-05-25 | 2022-10-13 |
 | [Everything I Have Is Good \(feat\. Norman Connors & Phyllis Hyman\)](https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Love Will Find a Way \(Expanded Edition\)](https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW) | 5:58 | 2022-07-02 |  |
 | [First Time Together](https://open.spotify.com/track/3m8zuI0D66a2VLI1swx1mD) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:01 | 2022-05-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. KÁRYYN on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,359 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,395 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 14 | [Fata Morgana](https://open.spotify.com/track/5O7IvPlQoTlxYLe76LNZYm) | [Pejzaż](https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH) | [List I](https://open.spotify.com/album/21H0lNFsFyEHovrfBlCmqH) | 3:54 |
 | 15 | [BINARY](https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Quanta Series](https://open.spotify.com/album/4VEBWwVc7dIuWkOKe0dTK4) | 4:50 |
 | 16 | [Lucky you, lucky me](https://open.spotify.com/track/7wVG9xoe1DtW3yrqnx8VKU) | [Hyperdawn](https://open.spotify.com/artist/4GzAnk6uKzpFdzil05pNNo) | [Steady](https://open.spotify.com/album/3pUwiVTQ3NRx896ZqTKapx) | 3:06 |
-| 17 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
+| 17 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 18 | [Oscillating Swoosh](https://open.spotify.com/track/5dHVl3VXApP4q5WQ3lDLSh) | [Suki Sou](https://open.spotify.com/artist/76CkKrf6jBFHRDtRyJr8P3) | [Notes on Listening](https://open.spotify.com/album/31RUPJCnUvO3k9aY5ImKgn) | 4:25 |
-| 19 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
+| 19 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
 | 20 | [The Witness](https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness](https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t) | 7:03 |
 | 21 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
 | 22 | [A Journey](https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 4:16 |
 | 23 | [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 |
 | 24 | [Lily Pad](https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU) | [JJ+JS](https://open.spotify.com/artist/1vjWJg4BeeTL5Y7NrFH8Wj) | [Peeled](https://open.spotify.com/album/6xVlRIV4dfG9HxtEbiN4Ut) | 4:19 |
-| 25 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
+| 25 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
 | 26 | [Choral Fragmentation \*latenights\*](https://open.spotify.com/track/4QoBFxEsDlkZSCtpG2b4Uq) | [Alliyah Enyo](https://open.spotify.com/artist/611MzFC9UqaAVtEFb4TXNS) | [Echo's Disintegration](https://open.spotify.com/album/0B1NIU0bjLtGQTNAdEMBj8) | 2:04 |
-| 27 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
+| 27 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
 | 28 | [Soft Marble](https://open.spotify.com/track/4RW1HucI8LfZJJQAilxQXc) | [Daniele Ciullini](https://open.spotify.com/artist/719Ffy8SoQrxmUF6Z9RNko) | [Domestic Exile Collected Works 82\-86](https://open.spotify.com/album/1g1GeFpNUjIvrsgLWUZ1sr) | 3:41 |
 | 29 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 |
 | 30 | [Naini's Call](https://open.spotify.com/track/2KI2fI3aggHeBM4PGyWLvE) | [ddwy](https://open.spotify.com/artist/2WrVgrATbqKvkO3VmPSiy9) | [Sprig Songs](https://open.spotify.com/album/4ct3nDg9TPM4vURcOQ9hfd) | 6:55 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 36 | [My Noise Is Nothing](https://open.spotify.com/track/1izzRAv6eDzahDVryCP3dA) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru), [Ellen Renton](https://open.spotify.com/artist/1T7ltBiyXYSF6kKKdrqaGm) | [My Noise Is Nothing](https://open.spotify.com/album/6hG9IrYRySXpv1WYSk5nu3) | 5:08 |
 | 37 | [Uncanny Otion](https://open.spotify.com/track/4EAhr4q1KD1LozFx4JTTl3) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK), [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf), [J\. Albert Meets Will August Park](https://open.spotify.com/artist/6HO7Umhb43EPpjgZ7ZPNYK) | [Flat Earth](https://open.spotify.com/album/0Qx7587Va1Auh1OjFI4RnX) | 4:08 |
 | 38 | [Sulfate](https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt) | [RIBBON STAGE](https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ) | [Hit With The Most](https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE) | 1:45 |
-| 39 | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 |
+| 39 | [Solace](https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 0:58 |
 | 40 | [KAPITAŁKA 8 \(ODCHODZISZ OD NAS\)](https://open.spotify.com/track/1UUewV1iQZRFfoHjSBPgTb) | [Lemta Toro](https://open.spotify.com/artist/5zV6CMiyKoWIfV1f5nSpwf) | [KAPITAŁKA](https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP) | 7:35 |
-| 41 | [Solace](https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 0:58 |
+| 41 | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 |
 | 42 | [YATKAMAN3000](https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd) | [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [Demon Muppy](https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4) | 2:03 |
 | 43 | [Breath and Synth Experiment](https://open.spotify.com/track/5ewo7wEAO7K9DCFfo8CAow) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 3:38 |
 | 44 | [Promises](https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM) | [Sunareht](https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O), [Le Dom](https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P) | [Promises](https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Crows Nest](https://open.spotify.com/track/0X98xhKKRQTPdjNFIqeLgS) | [Mindtality](https://open.spotify.com/artist/3xY2CQpdwGs9GWlMg46k7c) | [Weekly Releases 2023](https://open.spotify.com/album/22IwzQcMkxsOHXqvqYqACL) | 3:52 |
 | 100 | [humanus](https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 5:03 |
 
-Snapshot ID: `MCxkZDE1YjNmMDZhN2M3YzFlZjZlYzliODFiN2ZhM2VkZDFkN2ZkNzll`
+Snapshot ID: `MCw3YjQ0MDFhNzExNDlkNzM4YzZlOWU3NmNlYWQyNWVkN2Q0ZTM2OTI0`

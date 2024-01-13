@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,439 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,462 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She's the One](https://open.spotify.com/track/7boFERPF09XcIqpT3PnYAt) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [She's the One](https://open.spotify.com/album/5d3BymfR4DxduPx2cCCMYl) | 4:18 |
 | 2 | [Summer Groove](https://open.spotify.com/track/4SMExf2UAgf4k3jZDjelHL) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/6jSqCcaTNJdKsRD3JJQoyq) | 11:46 |
-| 3 | [Echoes](https://open.spotify.com/track/2IfPxItRt1NwJDeAZOQRck) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Without a Doubt](https://open.spotify.com/album/72AWHYj9AguRbu2x7VzxY9) | 4:39 |
-| 4 | [Terminator](https://open.spotify.com/track/6QOJoThXu58CINhFeyitHf) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Terminator](https://open.spotify.com/album/7qBGqNzkgkC4QyVRMPOJwn) | 3:50 |
-| 5 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 |
-| 6 | [Smoothin'](https://open.spotify.com/track/50ZmHXALKOhouCsYXXH9ps) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Smoothin'](https://open.spotify.com/album/0JmnQpoXh1lL4y7FlDRjN0) | 4:43 |
-| 7 | [Make Safe](https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox) | 4:12 |
-| 8 | [Forever Together](https://open.spotify.com/track/1GH50Go52ia1z82l7AZalJ) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Forever Together](https://open.spotify.com/album/5YI2HY4c5vDxTrDkNysfGu) | 4:16 |
-| 9 | [Dancin' Shoes](https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5) | 4:14 |
-| 10 | [Pocket Change](https://open.spotify.com/track/20snJJndKSSbLElgCXgdIe) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Pocket Change](https://open.spotify.com/album/5TSjBEXc9N8wFHUigfIjxx) | 4:03 |
-| 11 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
-| 12 | [Ride the Vibes](https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Ride the Vibes](https://open.spotify.com/album/6KkYYjSl0cr57tiLlfT7HR) | 3:55 |
-| 13 | [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 |
-| 14 | [Twilight](https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Twilight](https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE) | 4:33 |
-| 15 | [Victoria Falls](https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/3fYI1OMxP4ZkBRfklrnVWg) | 5:18 |
+| 3 | [The Midnight Hour](https://open.spotify.com/track/3jqojVnh48SfXj2habMRC3) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Kenny McNeil](https://open.spotify.com/artist/2f4y9aaQv5kxA2xDdsXGEg), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx) | [The Midnight Hour](https://open.spotify.com/album/61ab02LuWOgobf26KFTzNt) | 5:00 |
+| 4 | [Echoes](https://open.spotify.com/track/2IfPxItRt1NwJDeAZOQRck) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Without a Doubt](https://open.spotify.com/album/72AWHYj9AguRbu2x7VzxY9) | 4:39 |
+| 5 | [Terminator](https://open.spotify.com/track/6QOJoThXu58CINhFeyitHf) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Terminator](https://open.spotify.com/album/7qBGqNzkgkC4QyVRMPOJwn) | 3:50 |
+| 6 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 |
+| 7 | [Smoothin'](https://open.spotify.com/track/50ZmHXALKOhouCsYXXH9ps) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Smoothin'](https://open.spotify.com/album/0JmnQpoXh1lL4y7FlDRjN0) | 4:43 |
+| 8 | [Make Safe](https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox) | 4:12 |
+| 9 | [Forever Together](https://open.spotify.com/track/1GH50Go52ia1z82l7AZalJ) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Forever Together](https://open.spotify.com/album/5YI2HY4c5vDxTrDkNysfGu) | 4:16 |
+| 10 | [Dancin' Shoes](https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5) | 4:14 |
+| 11 | [Pocket Change](https://open.spotify.com/track/20snJJndKSSbLElgCXgdIe) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Pocket Change](https://open.spotify.com/album/5TSjBEXc9N8wFHUigfIjxx) | 4:03 |
+| 12 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
+| 13 | [Ride the Vibes](https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Ride the Vibes](https://open.spotify.com/album/6KkYYjSl0cr57tiLlfT7HR) | 3:55 |
+| 14 | [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 |
+| 15 | [Twilight](https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Twilight](https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE) | 4:33 |
 | 16 | [A Beautiful Dream](https://open.spotify.com/track/54q9Z3bppcAviIX7cX5mXB) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [A Beautiful Dream](https://open.spotify.com/album/3OLBqYv0Tv6QAlRdcpxQsl) | 4:00 |
 | 17 | [On the Up and Up](https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [On the Up and Up](https://open.spotify.com/album/0fendbHIfxrBOViSQahezC) | 4:08 |
 | 18 | [Champagne Sky](https://open.spotify.com/track/1Nl85nf0Q9JNUVOxSa86k4) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G) | [Champagne Sky](https://open.spotify.com/album/7813D7cYBLXzJAxmGeTtd9) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCxiZTBhNTgwNTRhZTk1ZTJiMzM5NGU5YTkxOTZjZDE4OWM2NDkxOTAw`
+Snapshot ID: `MCwwZjkyZGFlYjkzMDRhOWRhOWFhZmMwMDQ5ZjJmMjA3YjY1MWNkZmU3`

@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 33254,
+  "2024-01-13": 33249,
   "date_first_scraped": "2023-01-14",
   "description": "This is Tokyo Ska Paradise Orchestra. The essential tracks, all in one playlist.",
   "name": "This Is Tokyo Ska Paradise Orchestra",
@@ -683,7 +683,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 296000,
-      "name": "\u30ab\u30eb\u307a\u30fb\u30c7\u30a3\u30a8\u30e0~\u4eca\u65e5\u304c\u305d\u306e\u65e5\u3055",
+      "name": "\u30ab\u30eb\u307a\u30fb\u30c7\u30a3\u30a8\u30e0\uff5e\u4eca\u65e5\u304c\u305d\u306e\u65e5\u3055",
       "url": "https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 132573,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ab (\u8af8\u4eba\u3053\u305e\u308a\u3066)",
       "url": "https://open.spotify.com/track/1iXpI5zNsSCg9dih1n9l6g"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 313240,
       "name": "\u6d41\u308c\u3086\u304f\u4e16\u754c\u306e\u4e2d\u3067",
       "url": "https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh"
@@ -1235,8 +1235,8 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         },
         {
-          "name": "\u77f3\u539f\u614e\u4e5f",
-          "url": "https://open.spotify.com/artist/5ymLwYNk5I8OUbsy12hW3g"
+          "name": "\u77f3\u539f \u614e\u4e5f",
+          "url": "https://open.spotify.com/artist/7M6jvaUIrKDZK9rhjjv5x8"
         }
       ],
       "date_added": "2023-01-14",

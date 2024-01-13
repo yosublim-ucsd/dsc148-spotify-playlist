@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 7508,
+  "2024-01-13": 7521,
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Lau Heung King",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Arches",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -391,6 +391,24 @@
       "duration_ms": 144277,
       "name": "do//die",
       "url": "https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV"
+    },
+    {
+      "album": {
+        "name": "Doll",
+        "url": "https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3"
+      },
+      "artists": [
+        {
+          "name": "Arches",
+          "url": "https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211913,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC"
     },
     {
       "album": {

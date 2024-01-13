@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-260 songs - 12 hr 42 min
+262 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Think About](https://open.spotify.com/track/79IQ11ZcslJLGJwwOAbLmh) | [HONÜ](https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq), [WHOWHENWHY](https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL) | [Think About](https://open.spotify.com/album/1wMh5zzVENh361hATA203p) | 3:48 | 2023-11-22 |  |
 | [Time](https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Time](https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv) | 2:36 | 2022-09-02 | 2023-04-09 |
 | [Timeless](https://open.spotify.com/track/0ck1M3hhAqPehHPryfEWlV) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Timeless](https://open.spotify.com/album/36ZqSNeu93bD52XjPwW4wY) | 2:35 | 2023-08-25 |  |
+| [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 | 2024-01-12 |  |
 | [Toxic Rain \(prod\. David Mugratsch\)](https://open.spotify.com/track/7b2FGXLZY3ABSxVgkpccCf) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\)](https://open.spotify.com/album/5ijTP9RBfREShGfAQ90rrP) | 2:27 | 2022-11-04 | 2023-01-14 |
 | [Toxic Rain \(prod\. David Mugratsch\) \- VIP Mix](https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\) \[VIP Mix\]](https://open.spotify.com/album/0YDquXUQDJ58JD6fp7XTzR) | 1:56 | 2022-11-28 | 2023-04-09 |
 | [Tra Tra](https://open.spotify.com/track/5W9zPAMdGvamICxgKyIyH4) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Tra Tra](https://open.spotify.com/album/2QIJPNVv7krYLoiOWG5Y4w) | 2:27 | 2023-11-22 |  |
@@ -256,6 +257,7 @@
 | [Wait For You \- Radio Edit](https://open.spotify.com/track/1Mge9Dsm61dHkXVQkLY2Es) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Wait For You](https://open.spotify.com/album/4oDhPuAO99SV2eccvGKO3w) | 2:51 | 2022-09-19 | 2023-03-18 |
 | [Waiting For The Day \(feat\. Kyle Reynolds\)](https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Waiting For The Day \(feat\. Kyle Reynolds\)](https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu) | 3:42 | 2022-07-08 | 2023-04-09 |
 | [Want Me](https://open.spotify.com/track/6pbORmr0B72zU8BkQEaYWx) | [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [Want Me](https://open.spotify.com/album/5t9NkBha5xq2vHi4cEwV0y) | 3:06 | 2023-11-22 |  |
+| [Want Me Back \(feat\. Karl Boëthius\)](https://open.spotify.com/track/4T5txIj8NX26C5j6hb3Gi5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Karl Boëthius](https://open.spotify.com/artist/0hLyLBaXRFkieljmWoYkIh) | [Want Me Back \(feat\. Karl Boëthius\)](https://open.spotify.com/album/1WtgdAm11KzOWkcKAGz46a) | 1:53 | 2024-01-12 |  |
 | [Wat U Want](https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Wat U Want](https://open.spotify.com/album/6i0zG01d98dJPcq6EuFNoi) | 2:24 | 2023-03-02 | 2023-05-21 |
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-05-06 | 2023-04-09 |
 | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/track/3kaVh7zUaVT87qnHngdnCF) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/album/1rrrcWXR4L1LPOaDgAg1ks) | 2:54 | 2022-08-19 | 2023-04-09 |

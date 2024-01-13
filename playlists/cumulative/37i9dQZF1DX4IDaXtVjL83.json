@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: UMI, V)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Kim Min Seok, Sam Ryder)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -306,6 +306,28 @@
       "duration_ms": 131037,
       "name": "Back for More (with Anitta)",
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
+    {
+      "album": {
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/5ZHvtBvK20KcEayo2MDQTQ"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195403,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1"
     },
     {
       "album": {

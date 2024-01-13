@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Arden Jones",
+  "description": "make it pop! cover: Crash Adams",
   "name": "soda",
   "tracks": [
     {
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 124451,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 149500,
       "name": "BLEACH",
       "url": "https://open.spotify.com/track/0Yb631ktGsxwsDFFlKZm6A"
@@ -4386,7 +4386,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 188743,
       "name": "Forgot About You",
       "url": "https://open.spotify.com/track/4hg4C9pqzoNW3sIFfoNrNL"
@@ -4913,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Good Side",
+        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164286,
+      "name": "Good Side",
+      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm"
       },
@@ -4928,6 +4946,28 @@
       "duration_ms": 176826,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5J9H8Pzz3uCjwfgMBvvuM2"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/1gVuRWBqlFYBvKTCtpAVlD"
+      },
+      "artists": [
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        },
+        {
+          "name": "Sebastian Portillo",
+          "url": "https://open.spotify.com/artist/7bPLLsPQtnx0caBHfFaHnT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176650,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/6xmC6hWdB1AB9diRWOvPqF"
     },
     {
       "album": {
@@ -7862,7 +7902,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 210322,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
@@ -8280,6 +8320,28 @@
       "duration_ms": 166875,
       "name": "loner",
       "url": "https://open.spotify.com/track/3MtZ7NDO0eVP2mltk9PdGA"
+    },
+    {
+      "album": {
+        "name": "Look Mom",
+        "url": "https://open.spotify.com/album/67EduQ0YlRpR9YKyEvsztu"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        },
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149831,
+      "name": "Look Mom",
+      "url": "https://open.spotify.com/track/1ydXPq8Lja4OS9UlMT5a28"
     },
     {
       "album": {
@@ -9288,7 +9350,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
@@ -10217,6 +10279,24 @@
     },
     {
       "album": {
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+    },
+    {
+      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -10798,7 +10878,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 164986,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF"
@@ -12979,6 +13059,24 @@
     },
     {
       "album": {
+        "name": "swimming pools",
+        "url": "https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "swimming pools",
+      "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
+    },
+    {
+      "album": {
         "name": "Cowboy Tears",
         "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
       },
@@ -13734,6 +13832,24 @@
       "duration_ms": 133000,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
+    },
+    {
+      "album": {
+        "name": "Think That You're Lonely",
+        "url": "https://open.spotify.com/album/546p326ke1CQwiEda6E9ZL"
+      },
+      "artists": [
+        {
+          "name": "Summer Hoop",
+          "url": "https://open.spotify.com/artist/5bJpzOPrVuGyusOODkFeIM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Think That You're Lonely",
+      "url": "https://open.spotify.com/track/2GA5B8SPVzJzcUM0BskVXW"
     },
     {
       "album": {

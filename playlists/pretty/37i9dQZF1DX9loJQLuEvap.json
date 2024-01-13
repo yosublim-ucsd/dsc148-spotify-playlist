@@ -1,12 +1,12 @@
 {
   "description": "Celebrating some of the most iconic female voices of all time.  Cover: Tina Turner",
-  "num_followers": 1728094,
+  "num_followers": 1727208,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmMxN2RkNGI0ZTIxYTBmYzg4NDhlNGI0Njc5MzA2ZDM4ZjYxNjgw",
+  "snapshot_id": "MCw0ZjRhYzQ3NDI0NmFkNzg3NmIxZDk1ZjY3YjcwMWQ3MTM0OGI4ZDhh",
   "tracks": [
     {
       "added_at": "2023-10-27 17:02:17",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-10-27 17:02:17",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
       "artists": [
         {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 270333,
-      "name": "Un-Break My Heart",
-      "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
     },
     {
       "added_at": "2023-10-27 17:02:17",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-10-27 17:02:17",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
+      "duration_ms": 270333,
+      "name": "Un-Break My Heart",
+      "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
     },
     {
       "added_at": "2023-10-27 17:02:17",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-27 17:02:17",
       "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "What A Diff'rence A Day Made",
-      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
-    },
-    {
-      "added_at": "2023-10-27 17:02:17",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 249146,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i"
+    },
+    {
+      "added_at": "2023-10-27 17:02:17",
+      "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "What A Diff'rence A Day Made",
+      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
       "added_at": "2023-10-27 17:02:17",

@@ -4,7 +4,7 @@
 
 > Timeless melodies from your favourite artists, both old and new.
 
-234 songs - 13 hr 27 min
+236 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-01-13 |  |
 | [Don't Be a Stranger](https://open.spotify.com/track/3orZOtGTaZlJ2P9hDq0SgB) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Invitation](https://open.spotify.com/album/4sb0AxaFWzJccdArYLTLKQ) | 3:18 | 2021-12-17 | 2022-02-16 |
 | [Don't Mess With Love](https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Don't Mess With Love](https://open.spotify.com/album/4MyriGlKItrboh6pR9C4C7) | 3:22 | 2022-01-18 | 2022-12-21 |
-| [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2021-12-17 |  |
+| [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2021-12-17 | 2024-01-13 |
 | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw) | 3:35 | 2022-09-23 | 2023-06-21 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-17 | 2022-01-19 |
 | [Edge of Midnight \(Midnight Sky Remix\) \(feat\. Stevie Nicks\)](https://open.spotify.com/track/5l0nX3AhmmF717aKSs8qSH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Edge of Midnight \(Midnight Sky Remix\) \(feat\. Stevie Nicks\)](https://open.spotify.com/album/7Lx1rMMZesU7oswEwP2MQX) | 3:40 | 2021-12-17 |  |
@@ -90,6 +90,7 @@
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-12-17 | 2022-07-29 |
 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2022-04-05 | 2022-10-12 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-04 |  |
+| [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2024-01-12 |  |
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2023-02-03 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 | 2023-08-04 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-08-01 | 2023-09-28 |
@@ -151,6 +152,7 @@
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-09-05 |  |
 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 | 2021-12-17 | 2023-08-02 |
 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 | 2023-04-04 |  |
+| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-01-12 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-10-21 | 2023-07-01 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-01-18 |  |
 | [Love Like That](https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Love Like That](https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s) | 3:34 | 2022-04-05 | 2023-01-14 |
@@ -177,7 +179,7 @@
 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-21 |  |
 | [Postcard](https://open.spotify.com/track/1nC1MWm1pY7bVoGmCjIClo) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [2.0](https://open.spotify.com/album/6aaVZCvgzkC7vn97Yievpf) | 3:09 | 2021-12-17 | 2022-12-03 |
 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 | 2021-12-17 | 2022-10-22 |
-| [Put a Light on Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-20 |  |
+| [Put a Light on Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-20 | 2024-01-13 |
 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 | 2022-04-05 | 2022-09-24 |
 | [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 | 2023-04-04 | 2023-06-21 |
 | [River](https://open.spotify.com/track/5nD2zmNcN7jZ1lrdj4ZVxX) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [River](https://open.spotify.com/album/6IQCulw5pQ0uEq2KqGS9fk) | 3:09 | 2021-12-17 | 2022-12-21 |

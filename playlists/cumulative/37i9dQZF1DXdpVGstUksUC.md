@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-314 songs - 1 day 6 hr 10 min
+315 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 | 2021-11-30 |  |
 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 | 2021-11-30 |  |
 | [Half Full Glass Of Wine](https://open.spotify.com/track/1hmK18w3PueSkGcMqlfnOX) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(Collector's Edition\)](https://open.spotify.com/album/19KL6IwPJMECn2wosxguq7) | 4:26 | 2021-11-30 | 2022-07-29 |
-| [Half Full Glass Of Wine](https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Tame Impala](https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ) | 4:26 | 2022-04-28 |  |
+| [Half Full Glass Of Wine](https://open.spotify.com/track/4t6vrJg7GcUELCAxHX1z5W) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Tame Impala](https://open.spotify.com/album/78FAAvXmfdj0VKUuUEYeoV) | 4:26 | 2024-01-05 |  |
+| [Half Full Glass Of Wine](https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Tame Impala](https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ) | 4:26 | 2022-04-28 | 2024-01-13 |
 | [Heavy Lies The Crown](https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Back From The Abyss](https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3) | 6:18 | 2021-11-30 | 2023-03-23 |
 | [Heavy Low](https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5) | 4:50 | 2023-06-23 |  |
 | [Heavy Low](https://open.spotify.com/track/3lmUTqT4K2rPjtMgYRMB2P) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Heavy Low](https://open.spotify.com/album/6EZw5taKPaZUeY8IDbKZI0) | 4:50 | 2021-11-30 | 2022-07-29 |

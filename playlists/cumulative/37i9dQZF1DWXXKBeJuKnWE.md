@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Casey
 
-273 songs - 16 hr 31 min
+274 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Fingernails](https://open.spotify.com/track/5spwALkCxee9CstWeKG7gF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Fingernails](https://open.spotify.com/album/3V00aSV8gcalGAwjOkauKN) | 4:05 | 2022-11-10 | 2023-01-17 |
 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:27 | 2023-03-23 |  |
 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0) | 3:27 | 2023-02-03 | 2023-04-22 |
-| [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 | 2024-01-12 |  |
+| [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 | 2024-01-12 | 2024-01-13 |
+| [For Katie](https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr) | 3:56 | 2024-01-12 |  |
 | [For What It's Worth](https://open.spotify.com/track/37hRWS6pTYGQrTL00MwQwo) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [For What It's Worth](https://open.spotify.com/album/2gJfVLm0zyL1Oe4SNaUPhK) | 3:26 | 2023-10-05 |  |
 | [foreverend](https://open.spotify.com/track/5gJ8xmfZ3yzMh9pjY0hszN) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ), [Rebekah Kirk](https://open.spotify.com/artist/4sXZl444aSiekh4f2TPCbU), [Sixth Wonder](https://open.spotify.com/artist/44UPyJOf07339zZv2Imz2m) | [foreverend](https://open.spotify.com/album/2dkKkirYZB5GXBr52Z08j5) | 3:10 | 2023-07-25 |  |
 | [Frenzy](https://open.spotify.com/track/5JngFjxkVIvlGSsHgUME7B) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:00 | 2023-01-20 | 2023-02-06 |

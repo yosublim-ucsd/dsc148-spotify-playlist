@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,707 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,671 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 32 | [Segura Seu BO](https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 3:33 |
 | 33 | [Virando a Mesa](https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Daniel Cohen](https://open.spotify.com/artist/0vEWuXIn1tvEEVNTL0pgSP) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 4:21 |
 | 34 | [Música de Guerra](https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:44 |
-| 35 | [Linhas Inimigas](https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 2:42 |
-| 36 | [Bilhete 2.0 / Incidental: Uma Gota No Oceano \- Ao Vivo](https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:50 |
-| 37 | [Gratidão](https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Gratidão](https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0) | 3:34 |
-| 38 | [Meu Amigo Tempo](https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:15 |
+| 35 | [Bilhete 2.0 / Incidental: Uma Gota No Oceano \- Ao Vivo](https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:50 |
+| 36 | [Meu Amigo Tempo](https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:15 |
+| 37 | [Linhas Inimigas](https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 2:42 |
+| 38 | [Gratidão](https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Gratidão](https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0) | 3:34 |
 | 39 | [Porque Eu Rimo](https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 4:03 |
-| 40 | [A Vida É Um Sopro](https://open.spotify.com/track/1o8ttNku9lspk3dFOfBmY9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve) | [A Vida É Um Sopro](https://open.spotify.com/album/31kxbEqB4x5lpqEvRIgF7z) | 4:21 |
+| 40 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 |
 | 41 | [Cê Já Teve um Sonho?](https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 1:56 |
-| 42 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 |
+| 42 | [A Vida É Um Sopro](https://open.spotify.com/track/1o8ttNku9lspk3dFOfBmY9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve) | [A Vida É Um Sopro](https://open.spotify.com/album/31kxbEqB4x5lpqEvRIgF7z) | 4:21 |
 | 43 | [Estereótipo](https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:46 |
 | 44 | [Vagabundo Qualquer](https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 2:57 |
 | 45 | [Interior \(feat\. Rapadura\)](https://open.spotify.com/track/4CHH0nG7OthqoT6U07s1B8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j) | [Interior \(feat\. Rapadura\)](https://open.spotify.com/album/6nklPfPkWzG6XZHfeMdIWM) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 |
 | 50 | [Outra Dose 2 \- Ao Vivo](https://open.spotify.com/track/6MejtXqCnEjoZKqGvHFAIE) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:12 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAxODlkYzQwMTQ5OTNlOTE1ZDc0NWRmMzM1MWJmYTYxZg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAwMDE0OWE0ODA2YmU3YjU2NjI1ODg2MTQwNzc4MjUxNg==`

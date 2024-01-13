@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Pio Perilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,477 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,471 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 33 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
 | 34 | [Recuerda](https://open.spotify.com/track/0yUYuMKygnXLTSG8ThEqzR) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Recuerda](https://open.spotify.com/album/7BEIW4q4PYAUEHDUcISKN6) | 4:02 |
 | 35 | [Nuevas Estructuras Atómicas](https://open.spotify.com/track/6kN0lZXKQMR2PkyatuNiIW) | [Flash Amazonas](https://open.spotify.com/artist/7zyZVrH6UjKQmzBb6jehZK) | [Uva\-uva](https://open.spotify.com/album/3l8nuIhkJdH9m20XdT3yon) | 3:10 |
-| 36 | [Inmerso](https://open.spotify.com/track/79LhLAiCuY197jNWwEzeE5) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:00 |
+| 36 | [Inmerso](https://open.spotify.com/track/37qHIRSEqzJ7Tvnj2qCWPt) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3pYi6ViS4cT8KBME5Qqg56) | 3:00 |
 | 37 | [Futura Memoria](https://open.spotify.com/track/2epgfcGb8KTVxi5eGZnUNi) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Futura Memoria](https://open.spotify.com/album/6zYYe5HYqXooL5bhdbuheZ) | 4:21 |
 | 38 | [Arconte \(en fin du chemin\)](https://open.spotify.com/track/6yHwsETo4MXTRUeOgnaxjb) | [Sat Colibri](https://open.spotify.com/artist/0Oy5rXUmVv1raiUoQ4H6VD) | [Arconte \(en fin du chemin\)](https://open.spotify.com/album/0hbs4W6o8uR4wZn1acw3kg) | 3:35 |
 | 39 | [Sin Ver Atrás](https://open.spotify.com/track/2oYKAFupDHhwwapxL1cpRP) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sin Ver Atrás](https://open.spotify.com/album/6Y1W7lugESNbYiLuqOSQK9) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 99 | [Salvavidas](https://open.spotify.com/track/26sncSwReSsEXl5CxS1hMX) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 4:11 |
 | 100 | [Luces Neón](https://open.spotify.com/track/3Y8EuhwZ6LdGi3leKQHBXZ) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/1e4X4ReVQErGDwchkE34sN) | 3:47 |
 
-Snapshot ID: `MCwyMzUyMDRmNGE2Yzk1NjE0YmQ2ODFkYTAwNzA1YzVkNTEzYWFiMjJh`
+Snapshot ID: `MCxjMTJmZjJlZTkwYzNmOWEzMGU5N2NjYzE2N2JmZjIwNTlmYWYxYjk2`

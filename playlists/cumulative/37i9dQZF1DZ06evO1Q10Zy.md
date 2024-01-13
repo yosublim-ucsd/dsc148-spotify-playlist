@@ -4,7 +4,7 @@
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 54 min
+84 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,13 +41,14 @@
 | [It's No Crime](https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:01 | 2022-06-04 |  |
 | [Keeps On Fallin' \(with Ella Mai\)](https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Keeps On Fallin' \(with Ella Mai\)](https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI) | 2:55 | 2022-06-18 | 2022-12-11 |
 | [Keeps On Fallin’ \(with Ella Mai\)](https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:55 | 2022-12-18 |  |
-| [Kim Porter \(feat\. Babyface and John Legend\)](https://open.spotify.com/track/7mabI2ZeervrxqQ2qoWICP) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 7:17 | 2023-09-18 |  |
+| [Kim Porter \(feat\. Babyface and John Legend\)](https://open.spotify.com/track/7mabI2ZeervrxqQ2qoWICP) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 7:17 | 2023-09-18 | 2024-01-13 |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7ce3XCXIRELdK4RpyYCcxt) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:22 | 2022-06-04 | 2023-02-01 |
 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-24 |  |
 | [Longer](https://open.spotify.com/track/0OLdsLIDfbXX6q134NV638) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:24 | 2022-06-04 | 2022-10-13 |
 | [Love And Devotion](https://open.spotify.com/track/0Twi9nPILua3ozUvyvJ6x2) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 3:43 | 2022-08-11 | 2022-08-13 |
 | [Mad Sexy Cool](https://open.spotify.com/track/7q9768lHlaVHwStAGjgOAl) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 3:58 | 2022-06-22 | 2022-09-15 |
 | [Never Keeping Secrets](https://open.spotify.com/track/7L06pF5o819jflseQ4Wde5) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 | 2022-06-04 |  |
+| [No Place Like Home](https://open.spotify.com/track/5prROxFmgsMB3GiSzzTppC) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Heart And Soul](https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o) | 3:56 | 2024-01-12 |  |
 | [No Stoppin' Us](https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [K\-Ci Hailey](https://open.spotify.com/artist/53M8YqZnU51ZjTFiXAFpIo) | [No Stoppin' Us](https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm) | 2:59 | 2022-06-04 |  |
 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 | 2022-06-07 |  |
 | [Outside In/Inside Out](https://open.spotify.com/track/0V4SisYseIOCuqIa1jo0Qe) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:16 | 2022-06-07 | 2022-10-11 |

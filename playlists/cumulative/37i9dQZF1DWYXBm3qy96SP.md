@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: The Black Keys
 
-962 songs - 2 day 7 hr 26 min
+963 songs - 2 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-03-23 | 2023-03-31 |
 | [Black Tuesday](https://open.spotify.com/track/5VBp2Lwui2pQ09NoEpQQf2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Black Tuesday](https://open.spotify.com/album/1ldgcoD5YK1PIfZ3lUaHHe) | 1:32 | 2023-11-30 | 2023-12-08 |
 | [Blame](https://open.spotify.com/track/7fEEIa4xFz9bhv55ZcxG6m) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Blame](https://open.spotify.com/album/0JV96dnVLdhJB91ciuoeVg) | 3:37 | 2023-10-12 | 2023-10-20 |
+| [blame \(feat\. Valley\)](https://open.spotify.com/track/3oaUVz98IlIICzuxLyUvyG) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Maine \(deluxe\)](https://open.spotify.com/album/2U5AQJj6WHdMYMuLWDun6q) | 3:10 | 2024-01-11 |  |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-09-21 | 2023-12-22 |
 | [Blame Brett](https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:57 | 2023-12-21 |  |
 | [blame me for everything](https://open.spotify.com/track/5gdiHedipHaBBXcp7TkPmK) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [blame me for everything](https://open.spotify.com/album/1t8JBCtRzQaHY6ZQXEt3Z1) | 2:13 | 2023-11-30 | 2024-01-05 |

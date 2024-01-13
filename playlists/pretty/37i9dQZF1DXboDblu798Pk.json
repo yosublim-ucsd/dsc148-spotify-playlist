@@ -1,13 +1,29 @@
 {
   "description": "Pop hits in the making! Cover: Jennifer Lopez",
-  "num_followers": 290373,
+  "num_followers": 290185,
   "original_name": "Get Popped!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjIwNjRlMDgwYWNjMWQwYjdjMmNkYzMxNTAxMmFkNDMyN2Q3N2Fk",
+  "snapshot_id": "MCxlYTQxZGU4YjMwZDRhOTYxYjZmZmRhZTk3MmI0NThlZjU1NjgyODgx",
   "tracks": [
+    {
+      "added_at": "2024-01-11 22:35:50",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
     {
       "added_at": "2024-01-11 22:35:50",
       "album": {

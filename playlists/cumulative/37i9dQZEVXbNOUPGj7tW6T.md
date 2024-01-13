@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-527 songs - 1 day 5 hr 45 min
+528 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [ACHO PR](https://open.spotify.com/track/1C7lXfx4Y5maVl4AgUVlHA) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 5:59 | 2023-10-14 | 2023-10-16 |
 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-05-17 | 2023-06-11 |
 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 | 2021-03-27\* | 2021-09-12 |
-| [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 | 2023-05-15 |  |
+| [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 | 2023-05-15 | 2024-01-13 |
 | [Agosto](https://open.spotify.com/track/0wihfILRNOwE2156Shezc8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:19 | 2022-05-07 | 2022-05-22 |
 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 | 2021-03-27\* | 2021-05-08 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-07 | 2022-09-15 |
@@ -534,6 +534,7 @@
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-09-15 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 | 2023-01-27 |
 | [You & I](https://open.spotify.com/track/6xTsBXcVzUsb5yajKPuc1K) | [Joey Calveiro](https://open.spotify.com/artist/0gBGs4D4ABcc4TiW8O2z1e), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [You & I](https://open.spotify.com/album/7KS5hpTv7iL5AA8M4vzBAb) | 3:20 | 2023-12-10 | 2023-12-19 |
+| [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-12 |  |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2021-10-23 | 2021-11-14 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

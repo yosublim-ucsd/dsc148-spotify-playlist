@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,754 likes - 127 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,774 likes - 127 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 47 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 48 | [グッドサイン](https://open.spotify.com/track/1eDTlTErUq2z9CVHp8qvLE) | [765 MILLION ALLSTARS](https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU) | [THE IDOLM@STER MILLION LIVE!「グッドサイン」](https://open.spotify.com/album/1BdIXtzGm09jkFXhNixBBu) | 4:01 |
 | 49 | [God only knows](https://open.spotify.com/track/02izMBB3juA5FGjFv4kayT) | [Oratorio The World God Only Knows](https://open.spotify.com/artist/0Om5cIhCAlJXzKwTndCsQp) | [God only knows～集積回路の夢旅人](https://open.spotify.com/album/4rc0w15da2hcfOOKhN5DRl) | 8:08 |
-| 50 | [Re\-sublimity](https://open.spotify.com/track/5ZBVGPIBgqjfJmzsd0IyP7) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [Re\-sublimity](https://open.spotify.com/album/2kLMoZ0wM01Xwn7tToW4JR) | 5:19 |
+| 50 | [Re\-sublimity](https://open.spotify.com/track/5h54WAcpFXsHPY6xB2GnYw) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [Re\-sublimity](https://open.spotify.com/album/49wUidV9TjiKB7IXLqhe3t) | 5:19 |
 | 51 | [Shinzo wo Sasageyo!](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 |
 | 52 | [マメシバ](https://open.spotify.com/track/6k4dbuGMvdA6OqS4ndLXII) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 6:07 |
 | 53 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 126 | [なにが悪い](https://open.spotify.com/track/2Ifn0MXm7x9ddBQPUabV9a) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:47 |
 | 127 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
 
-Snapshot ID: `MCxiMTY3ZTdhMTNjZDVhMzNiMTAxMWE0NTAzMDNlODI4NmQyMzliMWFl`
+Snapshot ID: `MCw3MGNiZTQzOWQwNjQzNjhhNjIxZTI4MmZjYzkxOTkwYjZhMjZmNmRl`

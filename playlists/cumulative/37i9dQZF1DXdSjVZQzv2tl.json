@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Beijo Equivocado",
+        "url": "https://open.spotify.com/album/5omEOoTV8w9GpCeCOmvSpT"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156377,
+      "name": "Beijo Equivocado",
+      "url": "https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6"
+    },
+    {
+      "album": {
         "name": "Beijo Fuleiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/2HzDbcpXFKvh4cnEEJ3Ds7"
       },

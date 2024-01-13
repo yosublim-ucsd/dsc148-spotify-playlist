@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1388993,
+  "num_followers": 1388806,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzA3ZGMxZGE0NzRmMmU0NTZiMmU3MzA1NzRmNTk2NmJjNTEyYTNk",
+  "snapshot_id": "MCw3Mzc0NjcwNjdjOGNmYzA4OWNmYjIyMzQ0MmZhYWM0MzI3ZGFkZWZj",
   "tracks": [
     {
       "added_at": "2023-12-25 02:11:17",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-25 02:11:17",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 293120,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
-    },
-    {
-      "added_at": "2023-12-25 02:11:17",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2023-12-25 02:11:17",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "added_at": "2023-12-25 02:11:17",
@@ -375,6 +359,22 @@
       "duration_ms": 291360,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
+    },
+    {
+      "added_at": "2023-12-25 02:11:17",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2023-12-25 02:11:17",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-25 02:11:17",
       "album": {
-        "name": "Of A Simple Man",
-        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
-      },
-      "artists": [
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "I'd Love You to Want Me",
-      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
-    },
-    {
-      "added_at": "2023-12-25 02:11:17",
-      "album": {
         "name": "Now & Then (Reissue)",
         "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 233533,
       "name": "Yesterday Once More",
       "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
+    },
+    {
+      "added_at": "2023-12-25 02:11:17",
+      "album": {
+        "name": "Of A Simple Man",
+        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "I'd Love You to Want Me",
+      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
     },
     {
       "added_at": "2023-12-25 02:11:17",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-12-25 02:11:17",
       "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Sharing The Night Together",
-      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
-    },
-    {
-      "added_at": "2023-12-25 02:11:17",
-      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2010",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2023-12-25 02:11:17",
+      "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Sharing The Night Together",
+      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
     },
     {
       "added_at": "2023-12-25 02:11:17",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-12-25 02:11:17",
       "album": {
-        "name": "Gorilla (2019 Remaster)",
-        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+        "name": "Back to Front (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Gilbert O'Sullivan",
+          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
         }
       ],
-      "duration_ms": 216386,
-      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
-      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+      "duration_ms": 221373,
+      "name": "Alone Again (Naturally)",
+      "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
     },
     {
       "added_at": "2023-12-25 02:11:17",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-12-25 02:11:17",
       "album": {
-        "name": "Back to Front (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
+        "name": "Gorilla (2019 Remaster)",
+        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
       "artists": [
         {
-          "name": "Gilbert O'Sullivan",
-          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 221373,
-      "name": "Alone Again (Naturally)",
-      "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
+      "duration_ms": 216386,
+      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
     },
     {
       "added_at": "2023-12-25 02:11:17",

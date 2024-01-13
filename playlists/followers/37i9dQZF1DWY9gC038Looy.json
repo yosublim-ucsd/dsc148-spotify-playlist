@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 225938,
+  "2024-01-13": 225923,
   "date_first_scraped": "2023-12-01",
   "description": "Para la esterilla o el sof\u00e1, no te juzgaremos.",
   "name": "Ejercicio en casa",
@@ -665,7 +665,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
@@ -1311,6 +1311,24 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
     },
     {
       "album": {

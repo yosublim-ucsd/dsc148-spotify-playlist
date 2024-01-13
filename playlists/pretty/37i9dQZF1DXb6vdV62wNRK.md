@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 
 > Siento que arranco la carretera...
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,337 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,417 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 13 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
 | 14 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
 | 15 | [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 |
-| 16 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
+| 16 | [El Taquicardio](https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:00 |
 | 17 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 |
 | 18 | [El Diablo En Una Botella](https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj) | [Banda Roja de Jose Leon](https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5) | [Canciones Tristes Canciones](https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl) | 3:01 |
 | 19 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
-| 20 | [El Taquicardio](https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:00 |
+| 20 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
 | 21 | [Gente De Accionar](https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Si Lo Digo Es Porque Puedo](https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR) | 2:52 |
 | 22 | [Mi Amigo el de Arriba](https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [La Gritera](https://open.spotify.com/album/1SG347OQS3AuoDcH3y07Z4) | 2:26 |
 | 23 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 30 | [Una Vez Más](https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdóname Mi Amor](https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA) | 2:39 |
 | 31 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
 | 32 | [Pensando En Ti](https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:29 |
-| 33 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 |
-| 34 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
+| 33 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
+| 34 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 |
 | 35 | [Voy A Llorar Por Ti](https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 2:45 |
 | 36 | [Necesito Decirte](https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Las Número 1...](https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl) | 3:45 |
 | 37 | [Déjenme Hacer Dinero](https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo) | 3:13 |
-| 38 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
-| 39 | [El Comerciante](https://open.spotify.com/track/56YZft0whsresPdufFqwwS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ) | 4:05 |
+| 38 | [El Comerciante](https://open.spotify.com/track/56YZft0whsresPdufFqwwS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ) | 4:05 |
+| 39 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
 | 40 | [El 24 \- Corrido](https://open.spotify.com/track/0drX7yWD6MSa2G82wqmVJk) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Las Retro Chingonas](https://open.spotify.com/album/0fMAtWzhCFU9f50MQPaAqB) | 1:46 |
 | 41 | [El Enamorado](https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 2:34 |
 | 42 | [El H](https://open.spotify.com/track/6cGFQKwBZomwMQMiKf48ny) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 124 | [El Albanil](https://open.spotify.com/track/6Py57WENEDfmxVKw8rrD7J) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Traficantes Michoacanos](https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2) | 3:14 |
 | 125 | [Se Aceleró La Plebada](https://open.spotify.com/track/1UuhfKZQIUV7LuGNJspH4z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:19 |
 
-Snapshot ID: `MCw0NzFmYTYxODc5NTA2NWUzNWM0ZjAyM2I0MDQ5ZmI4MGU1NTkxMzUz`
+Snapshot ID: `MCxkMDcyYjI0YWJlYjVlMWUyZDkyZGI4NTNmYjgzOWY4M2U4NGZmOTQ5`

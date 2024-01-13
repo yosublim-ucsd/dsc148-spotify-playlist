@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: The Smile
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,157 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,065 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [I Want To Be You](https://open.spotify.com/track/5ZMN6Zhr1A90CpaeDwL4GY) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [I Want To Be You](https://open.spotify.com/album/4P1b1Y2VBeqQEtKOYYYVkw) | 2:33 |
 | 80 | [Dancing On The Moon](https://open.spotify.com/track/2wIXnTEy6pbDlZDYw92EfO) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Dancing On The Moon](https://open.spotify.com/album/0Z0qpeGACsJqMgGqrBcizF) | 3:08 |
 
-Snapshot ID: `MCw2ZjE0ZDAwMGQ1NDllM2I2NjE5YmUzOTg5NDZkODVlZjM0M2RmYTA0`
+Snapshot ID: `MCwzZGQ1Njc1MDc4Mjc5YjFkMjAzNjZiNzRkNzIzZDZhMTNiMjM1Yjcy`

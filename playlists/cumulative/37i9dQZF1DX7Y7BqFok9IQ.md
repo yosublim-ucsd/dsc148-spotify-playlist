@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-262 songs - 16 hr 33 min
+264 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Baby Blue](https://open.spotify.com/track/4BsPswOqGrJhsUzdCVTPN0) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/72LtE1jP5PNPVBGmoXUnXo) | 3:23 | 2023-03-03 |  |
 | [Baby Blue](https://open.spotify.com/track/7syfhu9aBNf1pm0X3PPnkp) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/4voq4iXsadEaw7fAq6JRAV) | 3:23 | 2023-02-17 | 2023-04-30 |
 | [Back to the Good](https://open.spotify.com/track/5lJeApjTsFOmSb0Q3iCmQs) | [Chris Antonik](https://open.spotify.com/artist/55m5gPmPkNV7Ztg6vBDcvD) | [Morningstar](https://open.spotify.com/album/5ON1Hg65ctPjcsaoFfm52F) | 4:13 | 2022-08-12 |  |
+| [Backstabber](https://open.spotify.com/track/6fvRlIuF0E1C05vILdR9oC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Backstabber](https://open.spotify.com/album/4F7MDZ9vZyu91UNsp5HxgZ) | 3:54 | 2024-01-12 |  |
 | [Bad Luck & The Blues](https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p) | 4:09 | 2023-06-23 | 2023-08-26 |
 | [Bad News](https://open.spotify.com/track/1E79K11SaKfzGPpzPKBvAp) | [Ace Monroe](https://open.spotify.com/artist/7Lcyr9TK4WHr4ojZiYhbYV) | [Ace Monroe](https://open.spotify.com/album/2cJSZ0UN4WeZpD2yXwEuCd) | 3:05 | 2023-11-17 |  |
 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-04-25 |  |
@@ -77,7 +78,7 @@
 | [Ghostrider](https://open.spotify.com/track/70cwVFHonl7K3PEtaohgAz) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ghostrider](https://open.spotify.com/album/7fV9Bc20rWlAdAILFGK5jL) | 3:15 | 2022-09-02 | 2022-09-26 |
 | [Go Away Satan](https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mind Control](https://open.spotify.com/album/61RXKxgnQEomHQlbgVXYdt) | 6:15 | 2021-11-05 | 2023-04-01 |
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2020-10-16 |  |
-| [Gone to Stay](https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ) | [John Norum](https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh) | [Gone to Stay](https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E) | 4:16 | 2022-10-28 |  |
+| [Gone to Stay](https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ) | [John Norum](https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh) | [Gone to Stay](https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E) | 4:16 | 2022-10-28 | 2024-01-13 |
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-24 |  |
 | [Got No Right](https://open.spotify.com/track/5RKSda8mBCmCeoGugTFfVZ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Voices](https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt) | 2:48 | 2023-03-10 | 2023-07-08 |
 | [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 | 2021-09-10 | 2022-12-10 |
@@ -162,7 +163,7 @@
 | [Nothing Left To Lose](https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX) | [LoveSick Radio](https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ) | [Nothing Left To Lose](https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x) | 3:24 | 2021-04-09 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-10-16 |  |
 | [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 |  |
-| [Oh! That Bitches Brew](https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/0Er9Y6SwV1F4hM1FernVJC) | 3:29 | 2023-09-29 |  |
+| [Oh! That Bitches Brew](https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/0Er9Y6SwV1F4hM1FernVJC) | 3:29 | 2023-09-29 | 2024-01-13 |
 | [Oh! That Bitches Brew](https://open.spotify.com/track/61IrEhpwtItIV48ieuEOlN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/1y3oh4duwhS5ZuWqc9hh6g) | 3:29 | 2023-09-29 | 2023-10-13 |
 | [On My Hands](https://open.spotify.com/track/5In3Mo6cEy9gCVzpcCTolv) | [King Vaudeville](https://open.spotify.com/artist/1oZXZvudWk8Iej1P0VWzwS) | [On My Hands](https://open.spotify.com/album/2nWs7LzcrLUwSnjoX2bvdK) | 3:25 | 2023-09-15 |  |
 | [One More Time](https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:24 | 2020-10-16 |  |
@@ -250,6 +251,7 @@
 | [Twisted Angel](https://open.spotify.com/track/1x5dPO4NtMBt8BsVx8cMzs) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [About to Xplode](https://open.spotify.com/album/7H1RSCEdKGrFF9aSQdANnJ) | 2:48 | 2021-04-09 |  |
 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 | 2023-04-14 |  |
 | [Waiting For Your Man](https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Waiting For Your Man](https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd) | 3:35 | 2022-04-08 | 2023-04-15 |
+| [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
 | [We Cry](https://open.spotify.com/track/35HnL14kTLJ0KdPoqcON3T) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [We Cry](https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh) | 4:51 | 2022-04-01 |  |
 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 | 2020-10-16 | 2023-03-04 |
 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 | 2023-05-19 |  |

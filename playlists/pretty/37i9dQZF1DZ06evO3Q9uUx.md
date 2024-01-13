@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,484 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,489 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 32 | [COVER GIRL](https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:29 |
 | 33 | [CHATTY](https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:41 |
 | 34 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
-| 35 | [BIG BUSINESS](https://open.spotify.com/track/0J9owOEvifIjOT1akwYVOn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:41 |
+| 35 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
 | 36 | [SKATE](https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:42 |
 | 37 | [DUBAI](https://open.spotify.com/track/0RCFwZ4GluILfF8VDJoJV8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:15 |
-| 38 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
+| 38 | [BIG BUSINESS](https://open.spotify.com/track/0J9owOEvifIjOT1akwYVOn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:41 |
 | 39 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
 | 40 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
 | 41 | [DON'T TELL \(feat\. Juicy J\)](https://open.spotify.com/track/058XdfrLCP1tPxnc39ibGy) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [CLASSY \(feat\. Swizz Beatz\)](https://open.spotify.com/track/00nzfB9qa5ZqVxbfxVJUok) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:54 |
 | 50 | [Street Opera \(Swizz Beatz feat\. SAINt JHN, Fivio Foreign & BIA\)](https://open.spotify.com/track/7qYGNevCXJh3xOzmr3XvyK) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Street Opera \(Swizz Beatz feat\. SAINt JHN, Fivio Foreign & BIA\)](https://open.spotify.com/album/4ydjUzXvQ5jyxNtCchd3j0) | 3:33 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBjYjVjOGNjZjFkNDU3MjI2MTJkMThjNzZlM2UxOGJmYw==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA4ZWU4ZThjZjlmMTQ0MDI1NGU5NzVmYWFiYjM2MWI2Mg==`

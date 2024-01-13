@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-274 songs - 14 hr 55 min
+275 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Don't Come Lookin' \- Live Acoustic](https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live Acoustic\)](https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6) | 3:35 | 2022-07-29 | 2022-10-02 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\) \- Acoustic](https://open.spotify.com/track/5WlaHL9HnkhRMrVkvsLcd5) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album \(Acoustic\)](https://open.spotify.com/album/6HrXzPva9d1ucDAUO1lyS9) | 2:40 | 2021-12-17 | 2022-08-01 |
 | [Drinkin' for Two \- One Take](https://open.spotify.com/track/4lLehyULZRrOtF7mT8G5C4) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 | 2021-12-17 | 2022-07-10 |
-| [Drinking Alone \- Sunset Session](https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Drinking Alone](https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI) | 2:55 | 2023-12-01 |  |
+| [Drinking Alone \- Sunset Session](https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Drinking Alone](https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI) | 2:55 | 2023-12-01 | 2024-01-13 |
 | [Drinking to the Broken Hearts \- Piano Version](https://open.spotify.com/track/3LNvApdP3ORvOyYvnYTSxM) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts \- Piano Version](https://open.spotify.com/album/1wJXKeag5KwfjFCrESiAOK) | 3:29 | 2022-01-28 | 2022-07-22 |
 | [Drive You Out Of My Mind \- Dark Room Edition](https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind \(Dark Room Edition\)](https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg) | 3:54 | 2023-09-15 | 2023-10-17 |
 | [Drunk Too](https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Drunk Too](https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg) | 2:42 | 2021-12-17 | 2022-11-19 |
@@ -237,6 +237,7 @@
 | [Trouble \- Piano Version](https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble \(Piano Version\)](https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU) | 3:34 | 2023-10-27 |  |
 | [Truth About You \- Piano Version](https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You \(Piano Version\)](https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM) | 3:25 | 2021-12-17 | 2023-08-02 |
 | [Truth Is \- Acoustic](https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Truth Is \(Acoustic\)](https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH) | 2:51 | 2023-03-03 | 2023-04-13 |
+| [Tucson Too Late \- Live Acoustic](https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Tucson Too Late \(Live Acoustic\)](https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G) | 3:06 | 2024-01-12 |  |
 | [Turning Stones](https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Turning Stones](https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE) | 2:26 | 2022-10-21 | 2023-01-13 |
 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 | 2021-12-17 | 2023-11-03 |
 | [Two Story House](https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj) | 3:19 | 2023-10-27 |  |

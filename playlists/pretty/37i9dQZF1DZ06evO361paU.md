@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,648 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,680 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 32 | [Ride \(Edit\)](https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo) | 3:40 |
 | 33 | [Mr\. Cab Driver](https://open.spotify.com/track/29SkFrotMPQH88drC646sy) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 3:50 |
 | 34 | [Dancin' Til Dawn](https://open.spotify.com/track/3Lc9RexjkRH4ButA7diDoj) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb) | 5:09 |
-| 35 | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN) | 3:40 |
-| 36 | [5 More Days 'Til Summer](https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:02 |
+| 35 | [5 More Days 'Til Summer](https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:02 |
+| 36 | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN) | 3:40 |
 | 37 | [New York City](https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 6:22 |
 | 38 | [Eleutheria](https://open.spotify.com/track/7datu36O7lY60kKBOan48U) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:53 |
-| 39 | [Lady](https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 4:15 |
-| 40 | [It's Enough](https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 7:54 |
+| 39 | [It's Enough](https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 7:54 |
+| 40 | [Lady](https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 4:15 |
 | 41 | [The Pleasure and the Pain](https://open.spotify.com/track/4Uv7n3pkpNhwhXqb9tnj3L) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 5:08 |
 | 42 | [Sugar](https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:58 |
-| 43 | [Superlove](https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0) | 3:28 |
-| 44 | [Here to Love](https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:42 |
+| 43 | [Here to Love](https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:42 |
+| 44 | [Superlove](https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0) | 3:28 |
 | 45 | [Circus](https://open.spotify.com/track/773RId8EM5wexAlZMlVMeL) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:48 |
 | 46 | [Stop Draggin' Around](https://open.spotify.com/track/4UeM5va3UhQ5hRsiW8F2Di) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 2:39 |
 | 47 | [Minister Of Rock 'N Roll](https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 49 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
 | 50 | [Black Velveteen](https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 4:50 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBhZjU1YjBiOGFhNzg0M2RmMDk3NGE4YWViYWJmZjlmMQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAyYWYzY2NmZDEwN2E1ZjBhMGM4ZDUxOTQ3MzZlMGE2ZA==`

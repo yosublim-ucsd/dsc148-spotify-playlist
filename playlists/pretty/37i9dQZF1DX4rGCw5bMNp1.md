@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,853 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,867 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 9 | [Two Bugs and a Roach](https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 4:19 |
 | 10 | [Should I Wait](https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 5:04 |
 | 11 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
-| 12 | [She's Fine](https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW) | [A.C\. Reed](https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:18 |
-| 13 | [Back Door Man](https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:53 |
+| 12 | [Back Door Man](https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:53 |
+| 13 | [She's Fine](https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW) | [A.C\. Reed](https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:18 |
 | 14 | [Sittin' On Top Of The World](https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k) | [Eddie Shaw](https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO) | [Living Chicago Blues, Vol\. 1](https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu) | 3:42 |
 | 15 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 |
 | 16 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 23 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 | 24 | [Last Night](https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:54 |
 | 25 | [The Little Red Rooster](https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 3:36 |
-| 26 | [Drown In My Own Tears](https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG) | [Lacy Gibson](https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:40 |
-| 27 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
+| 26 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
+| 27 | [Drown In My Own Tears](https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG) | [Lacy Gibson](https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:40 |
 | 28 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
 | 29 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
 | 30 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
-| 31 | [Call My Wife](https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1) | [Linsey Alexander](https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan) | [Come Back Baby](https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb) | 4:47 |
-| 32 | [Worry, Worry](https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3) | [Johnny "Big Moose" Walker](https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU) | [Living Chicago Blues, Vol\. 2](https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R) | 4:16 |
+| 31 | [Worry, Worry](https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3) | [Johnny "Big Moose" Walker](https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU) | [Living Chicago Blues, Vol\. 2](https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R) | 4:16 |
+| 32 | [Call My Wife](https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1) | [Linsey Alexander](https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan) | [Come Back Baby](https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb) | 4:47 |
 | 33 | [Gotta Move On](https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg) | [Eddy Clearwater](https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS) | [West Side Strut](https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k) | 4:40 |
 | 34 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
 | 35 | [They call me the snake](https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx) | [Luther "Snake Boy" Johnson](https://open.spotify.com/artist/0K2EuGHCPWyC0UK91mapEM) | [They call me the snake](https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU) | 5:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MCxhMTEzZDNlYmRjNDZiNzdlOTZhNjhkYWZhZjg3NmI3ZjI3MTRkOWJj`
+Snapshot ID: `MCw3MGQ1NTlmMzgyZTJkMTNmYWM3ZDRlMGM0Y2FmOTBkMmZkZjhlNmY5`

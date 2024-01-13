@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,788 songs - 3 day 23 hr 54 min
+1,789 songs - 3 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [CV](https://open.spotify.com/track/1mSn919G9lGy6kVHDcYoWo) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 3:39 | 2022-12-10 | 2023-01-01 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-27 | 2024-01-03 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2024-01-01 | 2024-01-03 |
+| [Dancing With Demons](https://open.spotify.com/track/4pcRT5s4d3TzzhBQKXgAjY) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Dancing With Demons](https://open.spotify.com/album/5LY45yYqqjdFL1LwbLOLKl) | 2:45 | 2024-01-12 |  |
 | [Dark Side](https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ) | 2:57 | 2021-06-24 | 2022-01-08 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-03-27\* | 2021-06-24 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
@@ -968,7 +969,7 @@
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-10-30 |
 | [Mielenmaisemat](https://open.spotify.com/track/2Iz23pg8SQUgcBvhSXKPOO) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Mielenmaisemat](https://open.spotify.com/album/7vhx9FcEb5ghpw4WKoOpTN) | 3:12 | 2023-08-12 | 2023-10-15 |
-| [mielipide](https://open.spotify.com/track/1Fmv8okUsdGaQvdV0N6jrf) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 2:46 | 2024-01-06 |  |
+| [mielipide](https://open.spotify.com/track/1Fmv8okUsdGaQvdV0N6jrf) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 2:46 | 2024-01-06 | 2024-01-13 |
 | [mietin sua pahalla](https://open.spotify.com/track/4Ac4YAaS8HkCuIX7zr8Ycu) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [mietin sua pahalla](https://open.spotify.com/album/2eMaovAMKvZa17Yx3vnVuX) | 3:03 | 2023-05-06 | 2023-06-18 |
 | [mietin sua pahalla](https://open.spotify.com/track/2RvIQZw7Oz1XHEhuSmreWv) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 3:03 | 2024-01-06 |  |
 | [Mietin ääneen](https://open.spotify.com/track/7g1lYadd41zMbQsEzuxxUo) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Mietin ääneen](https://open.spotify.com/album/4lldWkjyMVn7z5JuAaQpgu) | 2:56 | 2022-10-29 | 2022-11-06 |
@@ -1690,7 +1691,7 @@
 | [Viimeinen tanssi](https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:42 | 2023-09-23 |  |
 | [Viimeiset romantikot](https://open.spotify.com/track/37dGW3mmdqh6QX41CBuBYJ) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 3:16 | 2021-09-26 | 2021-09-27 |
 | [Viimeisiä sanoja](https://open.spotify.com/track/3STatpBP2zJ1CTca7PRSKp) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Viimeisiä sanoja](https://open.spotify.com/album/6xI7ijnlOk4KAdfu5nUuD0) | 3:29 | 2023-02-11 | 2023-09-17 |
-| [Viimeisiä sanoja](https://open.spotify.com/track/2qLzkSZ3nstuozJLipRIrS) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Hupsis](https://open.spotify.com/album/0IwhR2jwfVmUX7kUJnK8S2) | 3:29 | 2023-09-16 | 2024-01-07 |
+| [Viimeisiä sanoja](https://open.spotify.com/track/2qLzkSZ3nstuozJLipRIrS) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Hupsis](https://open.spotify.com/album/0IwhR2jwfVmUX7kUJnK8S2) | 3:29 | 2023-09-16 |  |
 | [Viimeistä kertaa](https://open.spotify.com/track/6j7ntlEnyTEiO5p3NgKcXy) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Parisuhdehautausmaa](https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE) | 3:31 | 2022-03-12 | 2022-04-17 |
 | [Viisi kesää](https://open.spotify.com/track/1fPYFdAdQNFL9rpZPxR2FN) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Nopsajalka](https://open.spotify.com/artist/6szmr2d0QlRU7EOyXrqGnC) | [Viisi kesää](https://open.spotify.com/album/3lhaK83qGnM4PNTAddYLsJ) | 3:30 | 2021-07-04 | 2021-10-10 |
 | [Villieläin](https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Villieläin](https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC) | 3:38 | 2022-06-25 | 2024-01-04 |
@@ -1711,7 +1712,7 @@
 | [VYYHTI \(ettiny aitoo rakkaut\)](https://open.spotify.com/track/40uSGkDj9YubrDIihc28Ar) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [W](https://open.spotify.com/album/3dt9Fr71O9wDXqCmkJcyj7) | 2:36 | 2023-06-03 | 2023-11-05 |
 | [VYYHTI \(ettiny aitoo rakkaut\)](https://open.spotify.com/track/5e63Mhaf4aY58OD8aY3zhJ) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [RÄPPÄRI](https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq) | 2:36 | 2023-11-04 | 2023-12-31 |
 | [Välikuolema](https://open.spotify.com/track/1v4jBEOmyYluJSBk6WUELN) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Välikuolema](https://open.spotify.com/album/5lzDrrJ7ihn7tp5pZTxk9d) | 3:12 | 2023-02-27 | 2023-06-20 |
-| [Väärin](https://open.spotify.com/track/5pqIcxnD9MOsOGivjbkhwy) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Hautajaiset](https://open.spotify.com/album/09bwleTFRG6VZ8FKcAV8nH) | 2:22 | 2024-01-06 |  |
+| [Väärin](https://open.spotify.com/track/5pqIcxnD9MOsOGivjbkhwy) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Hautajaiset](https://open.spotify.com/album/09bwleTFRG6VZ8FKcAV8nH) | 2:22 | 2024-01-06 | 2024-01-13 |
 | [Väärinymmärretty](https://open.spotify.com/track/7tAKbuJfJItZFm0QADXqCR) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Väärinymmärretty](https://open.spotify.com/album/05s8Cw5OJ4MFJJKYcopWGn) | 3:05 | 2021-10-23 | 2021-10-24 |
 | [Väärään aikaan \(feat\. HUGO\)](https://open.spotify.com/track/1iZOPk4TnPpL1NOqCXSoRv) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Väärään aikaan \(feat\. HUGO\)](https://open.spotify.com/album/1G8dR2Y01aQNhN46zacoMf) | 3:02 | 2023-12-08 |  |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/1cA4wEmLkKlttS6N89LbJh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:08 | 2021-12-12 | 2021-12-13 |

@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-259 songs - 20 hr 21 min
+260 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Iron 2021](https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt) | 8:43 | 2022-06-14 |  |
 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 | 2022-05-06 |  |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2023-09-07 | 2023-10-02 |
+| [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-12 |  |
 | [Italove](https://open.spotify.com/track/2upjPXCYscwhOgazz6Remz) | [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [L'uomo d'affari / Italove](https://open.spotify.com/album/6g6DHknco9iNEvZn47eK8P) | 5:19 | 2022-05-06 | 2022-07-29 |
 | [Italove](https://open.spotify.com/track/4ll1UfyVm9we6xoTNGnMYO) | [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [L'uomo d'affari / Italove](https://open.spotify.com/album/5v84MAdR18Ed091b1hlSn5) | 5:19 | 2022-06-14 |  |
 | [Ivoire \(feat\. Kio Amachree\)](https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Kio Amachree](https://open.spotify.com/artist/73LminGpr0A0bVpO5MBwdj) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 8:15 | 2022-05-06 |  |
@@ -251,7 +252,7 @@
 | [VSOD \- Velvet Sky of Dreams](https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [VSOD \(Velvet Sky of Dreams\)](https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK) | 5:42 | 2022-05-06 |  |
 | [WANT IT](https://open.spotify.com/track/4khOQnuz9OxG8bejxuqQdz) | [NICOLAS](https://open.spotify.com/artist/30TrK4k6Q3U9Vc8pBpnxk1) | [WANT IT](https://open.spotify.com/album/1TbtKn1nX59HsZIUPQ3HGw) | 3:33 | 2022-05-06 | 2022-07-29 |
 | [WANT IT](https://open.spotify.com/track/60qV9FIYSzMB5af9CURSOJ) | [NICOLAS](https://open.spotify.com/artist/30TrK4k6Q3U9Vc8pBpnxk1) | [WANT IT](https://open.spotify.com/album/6PFzPtvG8XCphoflSlhSx6) | 3:33 | 2022-06-14 | 2023-01-29 |
-| [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 | 2022-05-06 |  |
+| [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 | 2022-05-06 | 2024-01-13 |
 | [We're Alive \- Virgil Abloh Remix](https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Love Letters Remix Edition](https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu) | 6:29 | 2022-05-06 | 2022-07-28 |
 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/696jgH18JDcPgpIsmaZq4Z) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Dance Vault Mixes \- Where Love Lives](https://open.spotify.com/album/0bmvAevl0AD5xaLHHjjHHP) | 6:58 | 2022-05-06 | 2022-06-16 |
 | [White Lights](https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz) | [Jordan Gill](https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx) | [Cataclysmic](https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4) | 8:11 | 2022-05-06 | 2023-01-12 |

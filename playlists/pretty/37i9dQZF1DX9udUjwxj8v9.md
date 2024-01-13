@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,621 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,590 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 49 | [Baile De Máscaras \(Recarnaval\)](https://open.spotify.com/track/46nVimyGfbnKUMU9rDvnUG) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [SIM SIM SIM](https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f) | 5:03 |
 | 50 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
 
-Snapshot ID: `MCwxODc2OGIyNzU5ZjdmZGFjYmVlMjUxYWJhZjc3M2U0N2Y4ZjNiOTZj`
+Snapshot ID: `MCxjM2RjODVmNjc0NjQ5MTllNmVkOTM0MDU5MDMwY2FlMDAzY2Q5N2Q4`

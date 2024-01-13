@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-786 songs - 1 day 17 hr 34 min
+787 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Danger Zone](https://open.spotify.com/track/2VpT9gXnxIz725EBzI1PRp) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Danger Zone](https://open.spotify.com/album/2324DtypYMdcTxz8jtxCaA) | 3:43 | 2020-11-13 | 2020-11-20 |
 | [Dark Days](https://open.spotify.com/track/2HKF5jtc3fSUJpMfaYcCpI) | [Ljung](https://open.spotify.com/artist/67Tfj03cthIyRsQLHqwI3V), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Dark Days](https://open.spotify.com/album/4b7PAPNs8gsHlkNFvZP0bi) | 3:01 | 2023-03-24 | 2023-06-20 |
 | [Darker Days](https://open.spotify.com/track/7JO6KXZOJoNSu2C1DYJQxQ) | [Harpoon](https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP) | [Darker Days](https://open.spotify.com/album/1HgO4JRjSx1T1byXopTIXD) | 2:33 | 2022-08-26 | 2022-11-04 |
+| [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-12 |  |
 | [Dash](https://open.spotify.com/track/0KaKGybrG6ao4go9DfOPC6) | [Skurt](https://open.spotify.com/artist/25IwxQWXkssRk7BM2Cg2ke) | [Dash](https://open.spotify.com/album/5LLP29i7rrEGTQoi2vqKYO) | 5:19 | 2021-04-03 | 2021-04-10 |
 | [Day N Night](https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Day N Night](https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk) | 2:59 | 2022-08-12 | 2022-09-03 |
 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 | 2023-01-13 | 2023-03-10 |

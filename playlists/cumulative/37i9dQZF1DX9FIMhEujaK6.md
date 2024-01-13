@@ -4,13 +4,13 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-164 songs - 12 hr 49 min
+165 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Am\) Human](https://open.spotify.com/track/0X9veVzkoydHcP4FqON9cS) | [Fluida](https://open.spotify.com/artist/3QvuOoePuqI8kHbA920MYM) | [A Self And A Mind EP](https://open.spotify.com/album/0pKimPjCPfmM91zVVG10DI) | 3:45 | 2021-10-15 | 2022-07-20 |
 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 | 2022-07-20 | 2023-11-17 |
-| [Above](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Above](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 | 2021-10-15 |  |
+| [Above](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Above](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 | 2021-10-15 | 2024-01-13 |
 | [All Good \- Jasper Tygner Remix](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [All Good \(Jasper Tygner Remix\)](https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri) | 4:03 | 2023-09-22 |  |
 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 | 2022-07-20 | 2023-11-17 |
 | [Be Free](https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/0ltUWiR0iNHoxJeLHG1qJ8) | 3:51 | 2021-10-15 | 2022-07-21 |
@@ -47,6 +47,7 @@
 | [Femme Fatale](https://open.spotify.com/track/6NV1oF6zZ5VoVpICTsOLYD) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Femme Fatale](https://open.spotify.com/album/6mvHMvvSzosyx1lI18oIK0) | 4:33 | 2021-10-15 | 2022-07-27 |
 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 | 2021-10-15 |  |
 | [Fortress](https://open.spotify.com/track/2wxAWvCqm44W3JH54TLYCJ) | [Kipunji](https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um) | [Fortress](https://open.spotify.com/album/5rrJPeL31coMGhFgo0bj1B) | 4:46 | 2021-10-15 | 2022-09-26 |
+| [Fortress](https://open.spotify.com/track/7faGA4VMnkaMsu3lFN2gxy) | [Kipunji](https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um) | [Fortress](https://open.spotify.com/album/0UG9EkpapSwVURP5SM5qIg) | 4:46 | 2023-11-17 |  |
 | [froth sipping](https://open.spotify.com/track/0SKe7Wfpo8a2QKozSernPR) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 3:14 | 2021-10-15 | 2023-11-17 |
 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-10-15 |  |
 | [Go Back](https://open.spotify.com/track/5jvM6v9rRM982kij65puWN) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [Go Back](https://open.spotify.com/album/1V2r86gzqG316SJiBJTt1z) | 4:35 | 2021-10-15 | 2022-07-28 |

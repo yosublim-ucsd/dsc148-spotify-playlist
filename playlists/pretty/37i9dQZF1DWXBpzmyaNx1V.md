@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Un paseo por la ciudad pintada de violeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,916 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,929 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 31 | [A Tune For Jack](https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:45 |
 | 32 | [Don't Know What's Normal](https://open.spotify.com/track/6nF10SdhHFoplBPcynWYcI) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Don't Know What's Normal](https://open.spotify.com/album/7bJwcCp26OhNiDLkNQ8vRR) | 4:29 |
 | 33 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 |
-| 34 | [Under Cherry Blossom Trees](https://open.spotify.com/track/2FjqTNsMtqmat4oU2PpYwK) | [neeks](https://open.spotify.com/artist/01wJR8orhmzSLT8rO8rM5N) | [Under Cherry Blossom Trees](https://open.spotify.com/album/7KY5rT4oXqmTA3wflzfox0) | 1:25 |
-| 35 | [Jacaranda](https://open.spotify.com/track/2MPmqlCf6Hwgo5d2F7mA6Z) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Jacaranda](https://open.spotify.com/album/56WZTdmE87rkqZL783hDBu) | 4:24 |
+| 34 | [Jacaranda](https://open.spotify.com/track/2MPmqlCf6Hwgo5d2F7mA6Z) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Jacaranda](https://open.spotify.com/album/56WZTdmE87rkqZL783hDBu) | 4:24 |
+| 35 | [Under Cherry Blossom Trees](https://open.spotify.com/track/2FjqTNsMtqmat4oU2PpYwK) | [neeks](https://open.spotify.com/artist/01wJR8orhmzSLT8rO8rM5N) | [Under Cherry Blossom Trees](https://open.spotify.com/album/7KY5rT4oXqmTA3wflzfox0) | 1:25 |
 | 36 | [Cha Cha](https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Inspiration Information 3](https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP) | 4:35 |
 | 37 | [Ala Vida](https://open.spotify.com/track/1u5CtLtLmmY4KIe4k94XtA) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:52 |
 | 38 | [Primavera](https://open.spotify.com/track/478do7vDhmjKJCL22pe6dI) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 6:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 49 | [Elegy for Love](https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Melodi](https://open.spotify.com/album/2PJa85qCkhtXUn3tmkD7S9) | 3:37 |
 | 50 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 |
 
-Snapshot ID: `MCxlMDY3NDA1NDZjYTcyZmM4OTZhYTBjZDA3ZTI2YmI5YzM2ZjdkNGE1`
+Snapshot ID: `MCxkZjRmZjE5NTYxYjE4NzQzODEwMjUyZWE1NDg3ZjZkNzYyNmE0MTEz`

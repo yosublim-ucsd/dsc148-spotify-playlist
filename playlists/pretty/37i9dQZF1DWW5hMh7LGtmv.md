@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,046 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,040 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 51 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 |
 | 52 | [Holiday](https://open.spotify.com/track/7rQEsMAmRB4KaXhx3xJM13) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Tongue N' Cheek](https://open.spotify.com/album/5nIyypNxytKxKZ0jOm6CEp) | 3:40 |
 | 53 | [Ghost](https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33) | 3:33 |
-| 54 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [A Little Less Conversation: Elvis vs JXL](https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1) | 3:31 |
-| 55 | [Stronger](https://open.spotify.com/track/1gudTcOiMosmCC6EKEzomI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 5:12 |
+| 54 | [Stronger](https://open.spotify.com/track/1gudTcOiMosmCC6EKEzomI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 5:12 |
+| 55 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [A Little Less Conversation: Elvis vs JXL](https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1) | 3:31 |
 | 56 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 |
 | 57 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
 | 58 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 75 | [Louder \(feat\. Sian Evans\)](https://open.spotify.com/track/5rr88Jg9B0QLFMDj9qREaI) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw) | [Louder EP](https://open.spotify.com/album/5JM2WMfuniCvsSgoVdbtyb) | 3:26 |
 | 76 | [Good Times \- Radio Edit](https://open.spotify.com/track/49Hb6hA4WJE6KdpDpotxt6) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:43 |
 | 77 | [Bound 4 da Reload \- Casualty](https://open.spotify.com/track/24SElG0D2F6vJ7Z9EMD5Xu) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/1C7r9ofyU8ajv54XBSAJEC) | 4:52 |
-| 78 | [Young \- Radio Edit](https://open.spotify.com/track/0ObbI1mRYkcWHeM82rZf9U) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:35 |
-| 79 | [Stereo Love](https://open.spotify.com/track/2ZNbSbLeXhFEwLvbV6tJjK) | [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [Elianex](https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj) | [Stereo Love](https://open.spotify.com/album/2EOw23rlpH4xu9LikN3Oaq) | 2:35 |
+| 78 | [Stereo Love](https://open.spotify.com/track/2ZNbSbLeXhFEwLvbV6tJjK) | [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [Elianex](https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj) | [Stereo Love](https://open.spotify.com/album/2EOw23rlpH4xu9LikN3Oaq) | 2:35 |
+| 79 | [Young \- Radio Edit](https://open.spotify.com/track/0ObbI1mRYkcWHeM82rZf9U) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:35 |
 | 80 | [Jubel \- Radio Edit](https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ) | 2:28 |
 
-Snapshot ID: `MCw1YTdkYzhkMzhhMzc3ZmZkNjQyNmI4MzRlZWJjMDA3YjkxNTFmMzk5`
+Snapshot ID: `MCxlMzI0NzYxZjhhNzFlOGZjZDdiZmRkYjQ5NTZmNDYxZjZkMTJhYjky`

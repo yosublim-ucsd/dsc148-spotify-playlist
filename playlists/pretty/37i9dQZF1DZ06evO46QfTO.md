@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,125 likes - 47 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,122 likes - 47 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 46 | [Prove You Wrong](https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 3:41 |
 | 47 | [Hummingbird](https://open.spotify.com/track/5RtZ4ebQFkCa6TGQjQshdd) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:19 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA0OTM0N2VjNzAxODJhZTYxOTBjYjNjODcyZWE0NzczOA==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA4YWRhYmIzMDQzNzNhNDJkYzZmYzRiODliZWM5Njc5NQ==`

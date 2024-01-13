@@ -4,7 +4,7 @@
 
 > Una selección de éxitos para ponerle ritmo a las tareas del hogar.
 
-442 songs - 1 day 1 hr 21 min
+443 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-17 | 2023-09-02 |
 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 | 2023-03-17 | 2023-04-01 |
 | [La Tierra del Olvido](https://open.spotify.com/track/5zqb9vPcTA8rCwvIJQSxoO) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/4eULyeHcegYFenTA5T0P51) | 4:25 | 2022-03-24 | 2022-04-20 |
-| [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-07-15 |  |
+| [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-07-15 | 2024-01-13 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-07-15 | 2023-10-06 |
 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 | 2022-02-08 |  |
 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 | 2022-02-08 |  |
@@ -352,6 +352,7 @@
 | [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 | 2022-02-08 | 2022-07-29 |
 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 | 2022-02-08 |  |
 | [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2022-02-08 | 2022-07-25 |
+| [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2023-10-20 |  |
 | [Rosas En El Lodo \(feat\. Monsieur Periné\)](https://open.spotify.com/track/24rJknKgy1jO97P3krTwDs) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Rosas En El Lodo \(feat\. Monsieur Periné\)](https://open.spotify.com/album/47SPwa8I7EFiJXcbtg5H4S) | 3:15 | 2022-03-24 | 2022-04-21 |
 | [Rápido y Furioso](https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [Rápido y Furioso](https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx) | 2:33 | 2022-03-29 | 2022-04-21 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-03-29 | 2023-10-06 |

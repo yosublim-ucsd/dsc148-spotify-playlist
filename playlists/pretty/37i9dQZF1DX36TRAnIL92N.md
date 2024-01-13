@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,324 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,921 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 3 | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\) \[Charlotte de Witte & Enrico Sangiuliano Remix \- Edit\]](https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7) | 8:09 |
 | 4 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 |
 | 5 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 |
-| 6 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
+| 6 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
 | 7 | [It's a Fine Day](https://open.spotify.com/track/6oJ6E9PromTaQX2shxE5kz) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [It's a Fine Day](https://open.spotify.com/album/5G3HQSKAEM1HOtV1g6BAtx) | 5:52 |
-| 8 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
+| 8 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
 | 9 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 10 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 |
 | 11 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Platia](https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL) | 3:12 |
 | 50 | [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 |
 
-Snapshot ID: `MCxhZGU3YjA4YjA4OWJjYTdmMmJkNTk3OWExYmM4YmNiMjYyZDZlMGNi`
+Snapshot ID: `MCxhNDVkZmQxNzg5M2E3YjMyMTA1OWZlMzVlMmMwMmVkNTY0MjdiMDU3`

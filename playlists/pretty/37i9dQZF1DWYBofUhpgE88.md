@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > Rap per darti la carica che stavi cercando 💪🏋️🏃‍♀
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,421 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,345 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 62 | [Syrup](https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Syrup](https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37) | 3:08 |
 | 63 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:23 |
 | 64 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
-| 65 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 |
-| 66 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 |
-| 67 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
-| 68 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
+| 65 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 |
+| 66 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 |
+| 67 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
+| 68 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
 | 69 | [Where The Hood At](https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Grand Champ](https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd) | 4:46 |
 | 70 | [Visiera A Becco](https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 3:07 |
 
-Snapshot ID: `MCwxZTE0NTIwMGM3ZTQ2ZDVjNzJjYjA3YTFiNWRkYTdiZGZkYTM1ZjRh`
+Snapshot ID: `MCw3ZGRhOTk0NzI5ODRiYmY2NDRmZDhjYjU0OTFjMzc2OGI0YjRmYTFj`

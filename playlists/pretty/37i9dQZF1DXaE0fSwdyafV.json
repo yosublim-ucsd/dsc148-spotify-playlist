@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 131827,
+  "num_followers": 131895,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTNiNmNiMGI1N2E0Mzg4ZjkxMTU4MWNlYzU5NTMyYjc0ZGQyM2Vk",
+  "snapshot_id": "MCxiYTdkM2JiMmE2Njk2YjhjZDk3MzczMTU2M2IxYzQ3NWM5YTMxYTFk",
   "tracks": [
     {
       "added_at": "2023-07-11 23:25:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Cherry-coloured Funk",
-      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 170892,
       "name": "Steeeam",
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Cherry-coloured Funk",
+      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Z",
-        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 243744,
-      "name": "Sweet November",
-      "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 225862,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 243744,
+      "name": "Sweet November",
+      "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc"
     },
     {
       "added_at": "2023-07-11 23:25:54",

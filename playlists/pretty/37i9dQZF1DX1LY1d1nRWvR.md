@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,222 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,238 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 37 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 |
 | 38 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 |
 | 39 | [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 |
-| 40 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
-| 41 | [Umama \- A COLORS SHOW](https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umama \- A COLORS SHOW](https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw) | 4:04 |
+| 40 | [Umama \- A COLORS SHOW](https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umama \- A COLORS SHOW](https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw) | 4:04 |
+| 41 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
 | 42 | [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 |
 | 43 | [Eye Mo K](https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz) | 5:42 |
 | 44 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
 | 50 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
 
-Snapshot ID: `MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3`
+Snapshot ID: `MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy`

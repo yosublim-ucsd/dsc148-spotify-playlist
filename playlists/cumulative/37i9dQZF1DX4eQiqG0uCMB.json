@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -4799,7 +4817,7 @@
     },
     {
       "album": {
-        "name": "Toxic Love Story (Acoustic Version)",
+        "name": "Toxic Love Story",
         "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
       },
       "artists": [
@@ -4812,7 +4830,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140160,
-      "name": "Toxic Love Story - Acoustic Version",
+      "name": "Toxic Love Story",
       "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
     },
     {
@@ -5060,7 +5078,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"

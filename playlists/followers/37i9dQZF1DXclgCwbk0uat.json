@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 1876059,
+  "2024-01-13": 1871910,
   "date_first_scraped": "2022-04-16",
   "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Kidd Voodoo & Daiko 02.",
   "name": "\u00c9xitos Chile",
@@ -528,6 +528,28 @@
     },
     {
       "album": {
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "album": {
         "name": "BELLAKITA",
         "url": "https://open.spotify.com/album/6Fj0GkKMMINezcKru5p1ju"
       },
@@ -859,7 +881,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 182893,
       "name": "el \u00fanico tema del ferxxo",
       "url": "https://open.spotify.com/track/5CLzTL3KI3xb1SbjE8lNWO"
@@ -2413,6 +2435,24 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
       "album": {

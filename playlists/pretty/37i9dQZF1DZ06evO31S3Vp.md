@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,604 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,619 likes - 34 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 21 | [A Última Noite](https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 4:15 |
 | 22 | [Maria](https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 1:58 |
 | 23 | [Não Te Amo](https://open.spotify.com/track/4NIOFeptzAsbkOUnyBE6FY) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:00 |
-| 24 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
-| 25 | [Ainda Te Amo](https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:10 |
+| 24 | [Ainda Te Amo](https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:10 |
+| 25 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
 | 26 | [Você Vai Me Destruir](https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:04 |
 | 27 | [Louquinho](https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Louquinho](https://open.spotify.com/album/3ibAprngolKW66RngB6cBs) | 2:56 |
 | 28 | [Ressaca](https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:00 |
@@ -42,6 +42,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 32 | [Fim Do Mundo](https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:46 |
 | 33 | [Me Liga](https://open.spotify.com/track/6pPVQnyvVbkKEOVqofSzEn) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Me Liga](https://open.spotify.com/album/3Lb6Ynh37ywGapeL5uyowr) | 2:31 |
 | 34 | [Tenemos que hablar \- Real Magic](https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Tenemos que hablar \(Real Magic\)](https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC) | 3:15 |
-| 35 | [Codinome Beija\-Flor / O Tempo Não Para](https://open.spotify.com/track/1n3GEuDcOself5YolkIKxR) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Codinome Beija\-Flor / O Tempo Não Para](https://open.spotify.com/album/4HpkN2a3pscxEiq8vSoz5S) | 3:38 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBjNjg2ZTI5ZGRjZDZjZDU4NWQ4NjYxMDU5YjE5MTMwNQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAwZjk5YWE3MDI1MzhiMDlkZTYyNDBjZGY4ZmJmMTFjNg==`

@@ -1,12 +1,12 @@
 {
   "description": "Viral classics. Yup, we're at that stage.",
-  "num_followers": 993771,
+  "num_followers": 994152,
   "original_name": "internet rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDk3NzcxNjFhM2I2MzkzMzE2MTA3NmI4NTc5ODk4YzBiYTQyZGRi",
+  "snapshot_id": "MCwwYjlmMTQyYmEwM2NmOTNhNTcwM2M3OWFjOWY5ZWU2NWY5NDRiNGJi",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "Chase Atlantic",
         "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 215320,
       "name": "Violent Crimes",
       "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 208706,
-      "name": "House of Memories",
-      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "House of Memories",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 188386,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
       "added_at": "2023-09-29 04:01:00",

@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-192 songs - 11 hr 7 min
+193 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cadillac Walk \- Demo](https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Cadillac Walk \(Demo\)](https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD) | 4:35 | 2022-09-23 |  |
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2022-01-28 |  |
 | [Choo Ma Gum](https://open.spotify.com/track/6pTovnxQRzYQ6DlJO18sGf) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Choo Ma Gum](https://open.spotify.com/album/5h1Z15QryGdZRCdLZsD8WE) | 4:20 | 2023-08-18 |  |
+| [Choose Wisely](https://open.spotify.com/track/3e8FtZefLisPiLXh6MCSS6) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Get Your Back Into It!](https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2) | 4:04 | 2023-11-24 |  |
 | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Back to the Blues \(Deluxe Edition\)](https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp) | 4:05 | 2023-10-13 |  |
 | [Cold Black Night \- Live at VH1](https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU) | 4:05 | 2023-05-26 | 2023-11-06 |
 | [Confessin' The Blues](https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:55 | 2022-11-17 |  |
@@ -153,7 +154,7 @@
 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 | 2022-08-18 |  |
 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 | 2022-05-27 |  |
 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 | 2023-08-18 |  |
-| [She's a Twister](https://open.spotify.com/track/3KQHzgBg8a5B5uVKnghe1K) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 3:16 | 2023-11-24 |  |
+| [She's a Twister](https://open.spotify.com/track/3KQHzgBg8a5B5uVKnghe1K) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 3:16 | 2023-11-24 | 2024-01-13 |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-03-03 |  |
 | [Short Dressed Woman](https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:30 | 2023-08-18 | 2024-01-03 |
 | [Shufflin' the Blues](https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:21 | 2021-12-20 |  |

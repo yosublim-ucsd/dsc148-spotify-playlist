@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "baby look at the sky ***\ncover: Juliet Ivy",
+  "description": "listening to lovely songs on my silly little walk. Cover: Meg Smith",
   "name": "young & free",
   "tracks": [
     {
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 141106,
       "name": "airbag",
       "url": "https://open.spotify.com/track/12DjZ06QeaiKJ0s9NP0QBi"
@@ -4798,7 +4798,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -5550,7 +5550,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 227393,
       "name": "Cheerleaders and Jocks",
       "url": "https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j"
@@ -8900,7 +8900,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 125256,
       "name": "dumb dumb",
       "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
@@ -13177,6 +13177,24 @@
     },
     {
       "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
+    },
+    {
+      "album": {
         "name": "he said, she said",
         "url": "https://open.spotify.com/album/0ktzn42QPH9qE15MwAsBkg"
       },
@@ -13768,6 +13786,24 @@
       "duration_ms": 185243,
       "name": "Her Touch",
       "url": "https://open.spotify.com/track/3Swu7AElUpW4sNVVxkdqYb"
+    },
+    {
+      "album": {
+        "name": "here lies what could've been",
+        "url": "https://open.spotify.com/album/3zVrlJirpuPmf41auiBCpt"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221298,
+      "name": "here lies what could've been",
+      "url": "https://open.spotify.com/track/1PI3oda9wcNZOEYokQxhds"
     },
     {
       "album": {
@@ -15648,7 +15684,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 189214,
       "name": "I Wish I Didn't Love You",
       "url": "https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg"
@@ -16906,6 +16942,24 @@
       "duration_ms": 164666,
       "name": "Jane Doe",
       "url": "https://open.spotify.com/track/0YHHVezUoKC10MtiLUliqx"
+    },
+    {
+      "album": {
+        "name": "jesus christ in a mini skirt",
+        "url": "https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180992,
+      "name": "jesus christ in a mini skirt",
+      "url": "https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd"
     },
     {
       "album": {
@@ -21505,6 +21559,24 @@
     },
     {
       "album": {
+        "name": "NEVER AGAIN",
+        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+    },
+    {
+      "album": {
         "name": "Never Goes Away",
         "url": "https://open.spotify.com/album/0NLKXJv4DxlwyQ94CetFXg"
       },
@@ -22828,6 +22900,24 @@
       "duration_ms": 171636,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/5B9RzNWxGMtSi5ippoDmSY"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "album": {
@@ -25301,6 +25391,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201071,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o"
+    },
+    {
+      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy"
       },
@@ -25442,7 +25550,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 114916,
       "name": "Really good cry",
       "url": "https://open.spotify.com/track/3wTgyWjqIU4tg25T7qqm9l"
@@ -30416,6 +30524,24 @@
       "duration_ms": 158013,
       "name": "Swimming Pools",
       "url": "https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7"
+    },
+    {
+      "album": {
+        "name": "swimming pools",
+        "url": "https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "swimming pools",
+      "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
     },
     {
       "album": {

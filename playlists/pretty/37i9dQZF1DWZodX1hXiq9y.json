@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 88716,
+  "num_followers": 88836,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzUwMGFhNTAxODJkOGRmZjUxNDNiMjU4OWVlYTYwYTViN2NjNjMy",
+  "snapshot_id": "MCw4NjExZjFiMWNlNWI3MjM0MjYxODU4ZGVkMGM2MjczYjkwNzBhNThl",
   "tracks": [
     {
       "added_at": "2023-12-20 08:40:33",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
+      "duration_ms": 393746,
+      "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 361773,
       "name": "Recorda Me",
       "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 381346,
-      "name": "Lester Leaps In",
-      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 393746,
-      "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
+      "duration_ms": 381346,
+      "name": "Lester Leaps In",
+      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
+        "name": "One Flight Up (Remastered 2015)",
+        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 451407,
+      "name": "Darn That Dream - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
         "name": "The Magnificent Charlie Parker",
         "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 390666,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
-        "name": "One Flight Up (Remastered 2015)",
-        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 451407,
-      "name": "Darn That Dream - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 508933,
-      "name": "Lover Come Back To Me",
-      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 309253,
       "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 508933,
+      "name": "Lover Come Back To Me",
+      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Pepper Steak",
-      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Tell It The Way It Is",
         "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 328800,
       "name": "Dukes Place",
       "url": "https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Pepper Steak",
+      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd Quartet",
+          "url": "https://open.spotify.com/artist/1uVXezA2zuHxGwdKZHDOaj"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Caroline, No",
+      "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 395440,
       "name": "Blight of the Fumble Bee",
       "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd Quartet",
-          "url": "https://open.spotify.com/artist/1uVXezA2zuHxGwdKZHDOaj"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Caroline, No",
-      "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Jacknife",
-        "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 754733,
-      "name": "On The Nile - Remastered",
-      "url": "https://open.spotify.com/track/1iA6TNNiKHrx8Tj1nmtcr4"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Stitt Plays Bird (Remastered Version)",
         "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 289360,
       "name": "Yardbird Suite - Remastered Version",
       "url": "https://open.spotify.com/track/2SZHj5NJS1n5LHy7Zhd211"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Jacknife",
+        "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 754733,
+      "name": "On The Nile - Remastered",
+      "url": "https://open.spotify.com/track/1iA6TNNiKHrx8Tj1nmtcr4"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Rhythm In Mind (The Carnegie Project)",
-        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
-      },
-      "artists": [
-        {
-          "name": "Steve Coleman",
-          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
-        }
-      ],
-      "duration_ms": 549520,
-      "name": "Zec",
-      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Joyous Encounter",
         "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
       },
@@ -2235,18 +2219,18 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Quartets",
-        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
+        "name": "Rhythm In Mind (The Carnegie Project)",
+        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Steve Coleman",
+          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
         }
       ],
-      "duration_ms": 444840,
-      "name": "Haghia Sophia",
-      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
+      "duration_ms": 549520,
+      "name": "Zec",
+      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2263,6 +2247,22 @@
       "duration_ms": 368053,
       "name": "Eco - Remastered",
       "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Quartets",
+        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 444840,
+      "name": "Haghia Sophia",
+      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "On This Night",
-        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
       },
       "artists": [
         {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
         }
       ],
-      "duration_ms": 447466,
-      "name": "The Mac Man",
-      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2471,18 +2471,18 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
+        "name": "On This Night",
+        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
       },
       "artists": [
         {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
         }
       ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
+      "duration_ms": 447466,
+      "name": "The Mac Man",
+      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
     },
     {
       "added_at": "2023-12-20 08:40:33",

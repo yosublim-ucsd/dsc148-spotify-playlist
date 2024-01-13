@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost
 
-594 songs - 1 day 6 hr 35 min
+595 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [CHF](https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [CHF](https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU) | 3:06 | 2023-12-15 |  |
 | [Chicago](https://open.spotify.com/track/3WZhrxWOX9morcWAKhljSi) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Le Roi](https://open.spotify.com/album/1vupLW3SxaTTqGyZ5m449q) | 2:36 | 2023-06-02 |  |
 | [Chien Mangé Chien](https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Chien Mangé Chien](https://open.spotify.com/album/0EfEB9jjLhdhyVYHjPRdCG) | 3:23 | 2023-08-25 |  |
-| [Chiengrat](https://open.spotify.com/track/0RdIxxFuZelZ9Vo2sAWZZ7) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Chiengrat](https://open.spotify.com/album/2I9sU2RLN2PnUU70Y4aByt) | 2:46 | 2023-10-13 |  |
+| [Chiengrat](https://open.spotify.com/track/0RdIxxFuZelZ9Vo2sAWZZ7) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Chiengrat](https://open.spotify.com/album/2I9sU2RLN2PnUU70Y4aByt) | 2:46 | 2023-10-13 | 2024-01-13 |
 | [ChoStyle \#4](https://open.spotify.com/track/4GrZOIJBQCb2CptiCt94nc) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [ChoStyle \#4](https://open.spotify.com/album/0I2ExivadEfrhCYkjMmM0y) | 2:56 | 2022-01-07 | 2022-01-15 |
 | [Chute libre](https://open.spotify.com/track/0xDwRFZGCtJjbsRsO3N0HY) | [Mocy](https://open.spotify.com/artist/3S13XNeKQKyURgzgKXrXy2) | [Chute libre](https://open.spotify.com/album/5l4AiBhDcRElx6bD4cI409) | 3:43 | 2022-01-07 | 2022-03-12 |
 | [Chérie Chérie](https://open.spotify.com/track/5Kmcs06OBnIlniAuymSKbF) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Chérie Chérie](https://open.spotify.com/album/6fdzXCEnjiQ5yUDRxTKiIa) | 2:20 | 2022-07-22 | 2022-09-03 |
@@ -414,6 +414,7 @@
 | [One Night Thing](https://open.spotify.com/track/6EoPV2i2JNh3gK0dxxCaAc) | [Cshmr](https://open.spotify.com/artist/4ZNir8YWJxjx6xcZ2xOMak) | [SVINT, Volume 1](https://open.spotify.com/album/4u2MFO6rdp94e3OYVWEc1v) | 2:55 | 2022-01-21 | 2022-02-05 |
 | [Onirisme](https://open.spotify.com/track/2z1T0cX0Ejfn2cBHkfDwaE) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Twani](https://open.spotify.com/artist/6Msx0U86zJHArfvDk6zO9Q), [Latitude 45](https://open.spotify.com/artist/6okG8kU8o6PpE3OFeWahxJ) | [Onirisme](https://open.spotify.com/album/3d32bUlwtdWbqjLIS7GuQf) | 3:03 | 2022-05-13 | 2022-05-28 |
 | [OPPRESSÉ](https://open.spotify.com/track/19yP0Tz8r7kDTNzOa39Ksk) | [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN), [Capitaine Gaza](https://open.spotify.com/artist/3MHoGWYHorYV0tblzQ1Nzj), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [3HMOOD](https://open.spotify.com/album/0dXhFCshDYMlcdQSqtY9Oy) | 4:15 | 2022-03-22 | 2022-11-12 |
+| [Oseille Des Francs\-Maçons](https://open.spotify.com/track/2q2LV84PZrUt7CkcmzOVeN) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [Oseille Des Francs\-Maçons](https://open.spotify.com/album/49LrhWQdrDcGQrIrFQemTw) | 3:13 | 2024-01-12 |  |
 | [Ours en cage](https://open.spotify.com/track/2UygN6kuMAaDHFXGywnB4Q) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo) | [Ours en cage](https://open.spotify.com/album/2NbGxEzsahYMFpnp95IPCt) | 2:21 | 2023-03-10 | 2023-12-23 |
 | [Palmarès](https://open.spotify.com/track/4SQJV1rXqaYhdIa1nl8R2o) | [JMB Drippy](https://open.spotify.com/artist/2OOYpKIQBA2hPkXvk2fJDI), [Rach](https://open.spotify.com/artist/0EK0g4IV6sYaC7UEGWQ0AX) | [Palmarès](https://open.spotify.com/album/76Du01EjxBVqFUxuQpNyiP) | 2:54 | 2022-01-28 | 2022-05-14 |
 | [Panamera](https://open.spotify.com/track/1w3nU10eoDD3ASiUC7m47f) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0) | [Panamera](https://open.spotify.com/album/34jUHU7NDgnnklEkN0Y0HX) | 3:25 | 2023-10-27 |  |

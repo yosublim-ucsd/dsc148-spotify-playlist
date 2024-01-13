@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > Canciones chill para ayudarte a bajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,932 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,953 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,26 +62,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 52 | [La Carta](https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Carta](https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3) | 3:03 |
 | 53 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 54 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 |
-| 55 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
-| 56 | [Rosa](https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Rosa](https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO) | 2:02 |
-| 57 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 |
+| 55 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 |
+| 56 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
+| 57 | [Rosa](https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Rosa](https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO) | 2:02 |
 | 58 | [Como vos \- En vivo](https://open.spotify.com/track/2On90QefesETPtJw7LePV2) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ), [Vitali Sessions](https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y) | [Vitali Sessions \#3 \(En vivo\)](https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1) | 3:18 |
-| 59 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
-| 60 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 |
+| 59 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 |
+| 60 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
 | 61 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 |
 | 62 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 |
 | 63 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 |
 | 64 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 |
 | 65 | [POCA FE](https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POCA FE](https://open.spotify.com/album/5fdkUi9K20VRbdYLdfJJEn) | 3:01 |
 | 66 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 |
-| 67 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 |
-| 68 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 |
+| 67 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 |
+| 68 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 |
 | 69 | [No Voy a Ser Yo](https://open.spotify.com/track/1eMgItwutbGkckkl3JTKFH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Voy a Ser Yo](https://open.spotify.com/album/1tnAVXOqJfrqGUgG6ZUm3e) | 2:55 |
 | 70 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |
 | 71 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 |
 | 72 | [Para Crecer](https://open.spotify.com/track/0PflZj1fnVjRYGBNR37T0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Para Crecer](https://open.spotify.com/album/0BX68mIp1af45dCMa3kTP7) | 2:24 |
 | 73 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 |
-| 74 | [PASTEL](https://open.spotify.com/track/4MSDg2W214fo40nvBpf5dc) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [PASTEL](https://open.spotify.com/album/7qh2ukKIDbv6MJ5ehaQ1Or) | 2:33 |
-| 75 | [Falsas Esperanzas](https://open.spotify.com/track/6Hm00Tl2uG5PhCCVsGB26u) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Falsas Esperanzas](https://open.spotify.com/album/5RmwruUMsb7kVs4foUB7O0) | 3:00 |
+| 74 | [Falsas Esperanzas](https://open.spotify.com/track/6Hm00Tl2uG5PhCCVsGB26u) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Falsas Esperanzas](https://open.spotify.com/album/5RmwruUMsb7kVs4foUB7O0) | 3:00 |
+| 75 | [PASTEL](https://open.spotify.com/track/4MSDg2W214fo40nvBpf5dc) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [PASTEL](https://open.spotify.com/album/7qh2ukKIDbv6MJ5ehaQ1Or) | 2:33 |
 
-Snapshot ID: `MCw5OTNkYWM1ZjY1NmM4NjM5NzhlY2VhNjYwMTIxYmExZjZhYjIwMzMz`
+Snapshot ID: `MCwxM2Q0MzFhZTE5Y2M5YTJjMWYxZTFiMjY0NzlkNzdhNzU2ZWUyYjRi`

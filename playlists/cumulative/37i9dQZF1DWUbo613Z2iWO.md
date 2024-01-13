@@ -4,7 +4,7 @@
 
 > 2024 Artists to Watch Edition\. Cover: Jordan Ward
 
-758 songs - 1 day 14 hr 54 min
+760 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 | 2022-11-27 | 2022-12-03 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2023-09-02 |
 | [Arz Interlude](https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Imperfections](https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm) | 1:50 | 2022-04-01 | 2022-04-29 |
+| [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2024-01-12 |  |
 | [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 | 2022-10-28 | 2022-11-28 |
 | [Ave Maria](https://open.spotify.com/track/5UzLPjUzrIStZCocniiH1y) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ave Maria](https://open.spotify.com/album/1YtC5fvdj2z7XosDbmZYAS) | 2:57 | 2023-10-20 | 2024-01-11 |
 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2022-11-25 | 2023-01-27 |
@@ -135,6 +136,7 @@
 | [Climax](https://open.spotify.com/track/07k53RXDWkB63k7UreIXER) | [Swsh](https://open.spotify.com/artist/4mNJoaGdBbtAwFTbMC4mdV) | [Goodboy](https://open.spotify.com/album/5RfD44RAOxAEgInDSytS7v) | 3:51 | 2022-04-29 | 2022-06-18 |
 | [Closure](https://open.spotify.com/track/1V24cd8U157jM3w0vQLyt6) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Closure](https://open.spotify.com/album/2kuVd6ndzF4AmBwhk6wbqO) | 2:54 | 2022-11-18 | 2023-02-18 |
 | [Closure](https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Closure](https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19) | 2:57 | 2022-08-26 | 2022-09-10 |
+| [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU) | 3:29 | 2024-01-12 |  |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-12-15 | 2022-03-12 |
 | [COLD](https://open.spotify.com/track/7EqLPaSE3gZ876Odpesxfz) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [YOUNG](https://open.spotify.com/album/4jlvW6rST6IHcHhOrXDhR4) | 3:35 | 2022-11-27 | 2022-12-03 |
 | [Come First](https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [While You Wait](https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL) | 3:28 | 2022-11-27 | 2022-12-03 |
@@ -575,7 +577,7 @@
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-01-20 | 2023-10-21 |
 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-10 | 2023-06-10 |
 | [SAD TONIGHT](https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [SAD TONIGHT](https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4) | 3:05 | 2022-03-11 | 2022-04-02 |
-| [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2023-05-05 | 2024-01-11 |
+| [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2023-05-05 |  |
 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 | 2022-11-04 | 2023-01-21 |
 | [save yourself](https://open.spotify.com/track/1h2WWba7PtW9uTapvlvtwL) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Hindsight](https://open.spotify.com/album/5vNTlYU1zn1rWoAwrpQxso) | 3:08 | 2023-08-04 | 2023-09-30 |
 | [Say Less \(with Tiana Major9\)](https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:56 | 2022-10-21 | 2023-03-04 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 748080,
+  "2024-01-13": 748142,
   "date_first_scraped": "2019-08-02",
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
   "name": "Org\u00e1nica",
@@ -1159,6 +1159,32 @@
       "duration_ms": 403992,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5FRiawD1neBjKVFZWODYqR"
+    },
+    {
+      "album": {
+        "name": "Bem a Tempo (Yemanjo Remix)",
+        "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
+        },
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337714,
+      "name": "Bem a Tempo - Yemanjo Remix",
+      "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
     },
     {
       "album": {
@@ -6169,7 +6195,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 478764,
       "name": "Savage",
       "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"

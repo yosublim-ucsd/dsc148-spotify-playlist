@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,444 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,448 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 55 | [Favorite Song of All](https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd) | [The Erwins](https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD) | [Favorites: On Repeat](https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM) | 4:30 |
 | 56 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
 | 57 | [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 |
-| 58 | [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 |
-| 59 | [Something Bigger Than Me](https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [Find My Joy](https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN) | 4:09 |
+| 58 | [Something Bigger Than Me](https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [Find My Joy](https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN) | 4:09 |
+| 59 | [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 |
 | 60 | [Glorious Appearing](https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Glorious Appearing](https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W) | 3:48 |
 | 61 | [Praise Medley](https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Heritage, Vol\. 3](https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy) | 2:34 |
 | 62 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 66 | [God is Still Good](https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7) | [McKamey Legacy](https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI) | [McKamey Legacy](https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS) | 2:37 |
 | 67 | [These Are The Days](https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [These Are The Days](https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6) | 3:18 |
 | 68 | [Good News From Jerusalem \(Demonstration in C\-C\#\-D\)](https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Good News From Jerusalem \(Made Popular by Tribute Quartet\) \[Performance Track\]](https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H) | 3:57 |
-| 69 | [Like This](https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK) | [Wisecarvers](https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit) | [Like This](https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz) | 3:39 |
+| 69 | [Lord's Prayer](https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Lord's Prayer](https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs) | 3:55 |
 | 70 | [Welcome to Your Life](https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Something New](https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24) | 3:19 |
-| 71 | [Lord's Prayer](https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Lord's Prayer](https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs) | 3:55 |
+| 71 | [Like This](https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK) | [Wisecarvers](https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit) | [Like This](https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz) | 3:39 |
 | 72 | [Pass Me Not Oh Gentle Saviour](https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sings Greatest Country Gospel Hits](https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db) | 2:37 |
 | 73 | [Let the Rain Wash Your Troubles Away](https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Music To Your Ears](https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh) | 4:07 |
 | 74 | [Not For Long](https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ) | [The Guardians](https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo) | [Not For Long](https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [How Good the Good News Feels](https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [How Good the Good News Feels](https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq) | 3:22 |
 | 80 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 |
 
-Snapshot ID: `MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0`
+Snapshot ID: `MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx`

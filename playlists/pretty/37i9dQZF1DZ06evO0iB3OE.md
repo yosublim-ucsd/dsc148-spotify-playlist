@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,458 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,455 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 37 | [La Clave 7 \- En Vivo](https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:36 |
 | 38 | [Cuanto Tienes Cuanto Vales](https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:26 |
 | 39 | [Chapo Guzmán](https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:41 |
-| 40 | [El Hueso Del Perron](https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:11 |
+| 40 | [La Puerta Del Infierno](https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:48 |
 | 41 | [Quiéreme \- En Vivo](https://open.spotify.com/track/4oDxtA4tXtw5gsVqM3twSu) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 2:15 |
-| 42 | [La Puerta Del Infierno](https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:48 |
+| 42 | [El Hueso Del Perron](https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:11 |
 | 43 | [El Compa Many \- En Vivo](https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Compa Many \(En Vivo\)](https://open.spotify.com/album/347Aramha2pgLe10iD53CD) | 2:51 |
 | 44 | [Gilberto Palomares](https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:42 |
 | 45 | [Compa Alfredito](https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [El Barón De Babonica](https://open.spotify.com/track/1SSGZ3in0ATCOkmp9r8iKy) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:01 |
 | 50 | [El Que Anda en El Dorado \(En Vivo\)](https://open.spotify.com/track/7C2fQc583vpxolfKfQLLyj) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Que Anda en El Dorado \(En Vivo\)](https://open.spotify.com/album/2qmSpNf0jhi2QqWqpPgbaw) | 2:28 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBjZGEzNmNlMDk0MDdhODk1YmU5YTg0ZGFkNTM0M2QxZg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBlZmJmNjllYzAxOTE4MTQ2YzhhM2MyY2MzZmVjODMyNw==`

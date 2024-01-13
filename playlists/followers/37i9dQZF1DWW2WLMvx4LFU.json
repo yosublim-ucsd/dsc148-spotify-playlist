@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 30642,
+  "2024-01-13": 30644,
   "date_first_scraped": "2023-09-27",
   "description": "La nostalgia ochentera tra\u00edda a la actualidad.",
   "name": "Comeback Pop",
@@ -885,10 +885,28 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 262798,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
+    },
+    {
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262798,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/2Z8UT1hMeJlpCj1p7RUmcH"
     },
     {
       "album": {

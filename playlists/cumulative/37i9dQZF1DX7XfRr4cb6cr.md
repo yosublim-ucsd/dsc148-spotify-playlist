@@ -4,11 +4,11 @@
 
 > Hymns for darker hours.
 
-259 songs - 21 hr 30 min
+260 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 | 2022-01-21 |  |
+| [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 | 2022-01-21 | 2024-01-13 |
 | [3 am walk \- Slowed Version](https://open.spotify.com/track/6WvEAgklyO4jvIer6wkpko) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk \(Slowed Version\)](https://open.spotify.com/album/2WjKZaeFB8MLBCjTzCkbpT) | 3:43 | 2023-11-14 |  |
 | [4am](https://open.spotify.com/track/76PZlokCTD6ezzVl73nCRg) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 5:00 | 2022-01-21 |  |
 | [><⋃⊃⊃∑](https://open.spotify.com/track/5zfTTqHFfnrgCXa58sxtT5) | [Vokeebokæybgo Lochtyblchvvaii](https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq) | [OTVR](https://open.spotify.com/album/34ScM5nRfC2TJ99Xoja51u) | 8:41 | 2022-01-21 |  |
@@ -101,13 +101,14 @@
 | [Hostages in Love](https://open.spotify.com/track/6SeMU5LqTGTWGVNZbfcyyv) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Crossing the Border](https://open.spotify.com/album/4p1dDiZNp0L8hmBa8PnCb2) | 4:07 | 2023-09-01 |  |
 | [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 |  |
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 |  |
-| [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 | 2024-01-12 |
+| [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 |  |
 | [i don't know](https://open.spotify.com/track/6IdTGiVPwOhI5kJCH32Ue5) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [i don't know](https://open.spotify.com/album/2AUH1ICjCVPn89ToFgeqyg) | 1:57 | 2023-06-29 | 2023-10-06 |
 | [i lost my heart \- Slowed + Reverb](https://open.spotify.com/track/6E7srZ5EkQ4oOmqB3iU4Bo) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy), [$adness](https://open.spotify.com/artist/6jiqToMlWSzv4F4IH4Knf6) | [i lost my heart \(Slowed + Reverb\)](https://open.spotify.com/album/40HHfGDkYr6GM6ANlH74un) | 2:48 | 2023-09-01 |  |
 | [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 | 2023-10-23 |
 | [i'm lost](https://open.spotify.com/track/2gZvLUKJiPWCmFrTTnVThH) | [Magician of W21](https://open.spotify.com/artist/4qWysN8Ub3gWFUXjkZrsck) | [darkpath](https://open.spotify.com/album/3y4UnRclOikrK3o9NAJgbD) | 1:19 | 2023-02-17 | 2023-10-06 |
 | [In Time You Will](https://open.spotify.com/track/1SET0qRs8EQwmARr4heA63) | [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG) | [In Time You Will](https://open.spotify.com/album/2iu3K2wnI5e1oDQz5zVSLj) | 6:08 | 2022-03-25 | 2022-07-29 |
 | [In Waves](https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8) | [Loke Rahbek](https://open.spotify.com/artist/6fiX1FdXGRLUMN8xvwfgpw), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz) | [Elephant](https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs) | 3:16 | 2022-01-21 |  |
+| [Indifference \- Slowed](https://open.spotify.com/track/1gjBYuGJM1RPLKrhQy5Sjo) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Indifference](https://open.spotify.com/album/2NOcwQdh1hOi3YudH6pwD9) | 2:56 | 2023-12-01 |  |
 | [Info Pandemie](https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL) | [DarkSonicTales](https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv) | [DarkSonicTales](https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG) | 2:57 | 2022-01-21 |  |
 | [Insidious](https://open.spotify.com/track/0j4jbuU1XL2ShDIE4OHqel) | [4lienetic](https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk) | [Pompeii](https://open.spotify.com/album/3WGKBFVmZNW5Jt3bRheWev) | 3:39 | 2022-04-01 |  |
 | [Introduction](https://open.spotify.com/track/0jVs5KrJ52rMzzsAy16ZSJ) | [Paul Motian Trio](https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw) | [It Should've Happened A Long Time Ago](https://open.spotify.com/album/4yW6dg82YD5jwo9I5j0OW4) | 3:03 | 2022-01-21 | 2022-07-29 |
@@ -255,7 +256,7 @@
 | [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 | 2022-12-30 |
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
-| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 |  |
+| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 | 2024-01-13 |
 | [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 | 2023-11-14 |
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 |  |
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/2PGry3FEMPn9VBFcr6FODv"
+      },
+      "artists": [
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176190,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/0TCa6Fxfk2eht9jKeeqfiq"
+    },
+    {
+      "album": {
         "name": "Tommie Sunshine Presents: America, Fuck Yeah! 3 Return Of The Jedi",
         "url": "https://open.spotify.com/album/3VfjZZCpgfMgQAZhY2ZW7Z"
       },
@@ -528,6 +546,24 @@
       "duration_ms": 182400,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/3bGeTBjYR43zrvBxwJCpZe"
+    },
+    {
+      "album": {
+        "name": "Lake Lorenzo",
+        "url": "https://open.spotify.com/album/5S3zS6x4F0afskN0s6EJWX"
+      },
+      "artists": [
+        {
+          "name": "Fuzz Worth",
+          "url": "https://open.spotify.com/artist/5tkYOJa2DXCCLTnQMfq8tG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365400,
+      "name": "Lake Lorenzo",
+      "url": "https://open.spotify.com/track/2GeYOgUbbCvyeVEuovhpRm"
     },
     {
       "album": {

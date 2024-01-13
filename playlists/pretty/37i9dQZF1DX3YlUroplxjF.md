@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,387 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,230 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 22 | [Like a Shadow](https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:55 |
 | 23 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 |
 | 24 | [Come Undone](https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Finding God Before God Finds Me \(Deluxe\)](https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b) | 4:21 |
-| 25 | [Let This Haunt You](https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU) | [Beautiful Death](https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE) | 3:45 |
+| 25 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 |
 | 26 | [Antisocialist](https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:36 |
-| 27 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 |
+| 27 | [Let This Haunt You](https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU) | [Beautiful Death](https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE) | 3:45 |
 | 28 | [BLURRY \(out of place\)](https://open.spotify.com/track/5Zls4RuRbomkrthG1p18Tc) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr) | 3:20 |
 | 29 | [Leave It All Behind](https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:18 |
 | 30 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 57 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 |
 | 58 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 |
 | 59 | [Overthinking](https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Anon.](https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo) | 2:53 |
-| 60 | [Guillotine](https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Euthanasia](https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy) | 3:36 |
-| 61 | [A Death In The Family](https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:18 |
+| 60 | [A Death In The Family](https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:18 |
+| 61 | [Guillotine](https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Euthanasia](https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy) | 3:36 |
 | 62 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
 | 63 | [Evil Finds Light](https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:07 |
 | 64 | [Talking to Myself](https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 74 | [Moonlit](https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Damned Soul](https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe) | 3:37 |
 | 75 | [myfeelingshavefeelings](https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [wet milk](https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI) | 2:16 |
 | 76 | [DEATH \(Ever Colder\)](https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [DEATH \(Ever Colder\)](https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4) | 4:47 |
-| 77 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 |
-| 78 | [In Our Wake](https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:13 |
+| 77 | [In Our Wake](https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:13 |
+| 78 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 |
 | 79 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
 | 80 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
 | 81 | [Drop Dead](https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Night Terrors](https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5) | 3:33 |
 | 82 | [Break Me Down](https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
 | 83 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
 | 84 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
-| 85 | [Feel It](https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:54 |
-| 86 | [Tradition](https://open.spotify.com/track/3Q74UTLLIxNdcI4l9VRcOM) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/1halV1wszbMMZ8DFZivS9V) | 3:22 |
+| 85 | [Tradition](https://open.spotify.com/track/3Q74UTLLIxNdcI4l9VRcOM) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/1halV1wszbMMZ8DFZivS9V) | 3:22 |
+| 86 | [Feel It](https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:54 |
 | 87 | [We’ll Always Have Paris](https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:47 |
 | 88 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 |
 | 89 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
 | 100 | [Shh!](https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:38 |
 
-Snapshot ID: `MCxhNWIzMmRhNjgwZmI1MzAzODhiZTBmOGI5YTcwYzIxYTI2Yjk5ZTdi`
+Snapshot ID: `MCwxMGU2YTlmNjIwYWQ1ZDJjYzMyNTNmMmQ4M2FjYjMyNGI3OTBhNzRk`

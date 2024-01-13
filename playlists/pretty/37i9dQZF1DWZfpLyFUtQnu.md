@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,270 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,367 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 59 | [Quand tu danses](https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [En passant](https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs) | 4:25 |
 | 60 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
 | 61 | [Elle, tu l'aimes](https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 5:05 |
-| 62 | [Quelques mots d'amour](https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Sanson comme ils l'imaginent](https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU) | 3:50 |
-| 63 | [En attendant](https://open.spotify.com/track/5mOU0uqJsqx2XVTvcGgMfD) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [n°9](https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g) | 4:40 |
+| 62 | [En attendant](https://open.spotify.com/track/5mOU0uqJsqx2XVTvcGgMfD) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [n°9](https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g) | 4:40 |
+| 63 | [Quelques mots d'amour](https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Sanson comme ils l'imaginent](https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU) | 3:50 |
 | 64 | [L’Épine](https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 2:57 |
-| 65 | [On fait comme si](https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [On fait comme si](https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll) | 4:11 |
-| 66 | [Pour une seconde](https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Les Frangines \(Nouvelle édition\)](https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5) | 3:12 |
+| 65 | [Pour une seconde](https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Les Frangines \(Nouvelle édition\)](https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5) | 3:12 |
+| 66 | [On fait comme si](https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [On fait comme si](https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll) | 4:11 |
 | 67 | [Si t'étais là](https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 2:33 |
 | 68 | [À toutes les filles](https://open.spotify.com/track/6VR1rolPThMeYmWqFTbdLo) | [Didier Barbelivien](https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq) | [The Collection](https://open.spotify.com/album/11XeNgRYiVl3yeHIarvLzt) | 4:14 |
 | 69 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
 | 75 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
 
-Snapshot ID: `MCw3YzNkN2RhNDc1MzBiYmNhNTgxNmNjZWU3YmZmN2YwYjI3ZjBlNGYx`
+Snapshot ID: `MCw3MTM4OTY5M2NmMDA2NGViNTFiZDkxMzZmZjMyOGNhZDYzYzdkNzY5`

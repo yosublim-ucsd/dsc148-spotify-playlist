@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,695 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,721 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 48 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
 | 49 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
 | 50 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 |
-| 51 | [Open Your Eyes](https://open.spotify.com/track/5TA4he79xD3fpvy0sidiOV) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Cat in the Hat](https://open.spotify.com/album/61MrCsj5a0ZfgbgvcFHFl0) | 3:45 |
-| 52 | [Forget Me Nots \- Single Version](https://open.spotify.com/track/6hGBWw0Pv1oe8uYCVXz1yK) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:04 |
+| 51 | [Forget Me Nots \- Single Version](https://open.spotify.com/track/6hGBWw0Pv1oe8uYCVXz1yK) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:04 |
+| 52 | [Open Your Eyes](https://open.spotify.com/track/5TA4he79xD3fpvy0sidiOV) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Cat in the Hat](https://open.spotify.com/album/61MrCsj5a0ZfgbgvcFHFl0) | 3:45 |
 | 53 | [Be Alright](https://open.spotify.com/track/29NVSIdQtqIRzZAgBG1v31) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 2:43 |
 | 54 | [Taj Mahal](https://open.spotify.com/track/7pdCDKs0i05N8ag4tAC5u5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:06 |
 | 55 | [Coroné Antonio Bento](https://open.spotify.com/track/5GzX9ZgX16D1F2her7bEsv) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 2:11 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 83 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:14 |
 | 84 | [Homem Pássaro](https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Deus, A Natureza E A Música](https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm) | 4:00 |
 | 85 | [BR\-3](https://open.spotify.com/track/46K2Fg0qmy9wOzozHWSV2Q) | [Toni Tornado](https://open.spotify.com/artist/6HnFUvKuOXAxQBT7GI99yZ) | [B.R.3](https://open.spotify.com/album/2emB3ekuPrMS6pxhIPv9ij) | 3:02 |
-| 86 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
-| 87 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
-| 88 | [Central Do Brasil](https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 3:41 |
+| 86 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
+| 87 | [Central Do Brasil](https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 3:41 |
+| 88 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
 | 89 | [Attitudes](https://open.spotify.com/track/2wQHAiXNc8bDYppw0LQPMF) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Greatest Hits](https://open.spotify.com/album/7vBTwTT9MZ2JLzY4yahWDS) | 3:30 |
 | 90 | [Robot Man \- Vinyl Edit Version](https://open.spotify.com/track/6myAJZFY7NYLCF8fJIIciU) | [Marcelinho Backspin](https://open.spotify.com/artist/75lcNc72emAl0sY7NR5xG4), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Robot Man \(Vinyl Edit Version\)](https://open.spotify.com/album/3cVvm1DlqO4UVsoQzjjbRw) | 3:43 |
 | 91 | [Guanabara](https://open.spotify.com/track/1by3i1h2a8G3trGaM8rh9M) | [Dom Salvador & Abolição](https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6) | [Série Samba Soul](https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCw2YjgyZmM2MDFmN2IxNGRkMGVhNjQ5M2U4ZmY2MzhiZjFkYTQwYTVl`
+Snapshot ID: `MCwwMmIxMTc0YWEzYWM1YzdlM2M5MDk2ODNmZGQzNDhmYWY4YTdhYWRi`

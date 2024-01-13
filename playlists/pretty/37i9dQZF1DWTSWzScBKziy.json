@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 95910,
+  "num_followers": 95946,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjEzOGQzNDY5Y2E1ZjI5ZjBhNjMzYzk0ODlmN2YxMTVhOWU4OWVh",
+  "snapshot_id": "MCxjMWZlNjAxOGE5NmI2MDUzNjRhN2EyMTAyNjBjNmRmM2E2NWMxZWRi",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 172327,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Take It To Jesus",
         "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 268288,
       "name": "Take It To Jesus",
       "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 172327,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Jesus at a Distance",
-      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 199186,
       "name": "But the Cross",
       "url": "https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Jesus at a Distance",
+      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Miracle Power",
         "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 277893,
       "name": "Miracle Power",
       "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Home Called Heaven",
-        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 227719,
-      "name": "Home Called Heaven",
-      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Show Up Choose Love",
         "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 212253,
       "name": "Show Up Choose Love (feat. Jon Reddick)",
       "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Home Called Heaven",
+        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 227719,
+      "name": "Home Called Heaven",
+      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "If It Comes From You",
+        "url": "https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 294349,
+      "name": "If It Comes From You",
+      "url": "https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "If It Comes From You",
-        "url": "https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 294349,
-      "name": "If It Comes From You",
-      "url": "https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf"
     },
     {
       "added_at": "2022-10-29 07:17:38",

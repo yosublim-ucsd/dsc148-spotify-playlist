@@ -4,21 +4,22 @@
 
 > 日本で活躍するボーイズグループを特集。cover: JO1
 
-92 songs - 5 hr 24 min
+93 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15分](https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [15分](https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j) | 4:24 | 2023-11-23 | 2024-01-10 |
 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 | 2023-11-23 |  |
-| [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 |  |
-| [Bon Voyage](https://open.spotify.com/track/6E2DnY89XkXIs3rFYyZF8k) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/7eZmGoLIs9KAN0BVDZ10TL) | 4:54 | 2024-01-11 |  |
+| [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 | 2024-01-13 |
+| [Bon Voyage](https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN) | 4:54 | 2024-01-11 |  |
+| [Bon Voyage](https://open.spotify.com/track/6E2DnY89XkXIs3rFYyZF8k) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/7eZmGoLIs9KAN0BVDZ10TL) | 4:54 | 2024-01-11 | 2024-01-13 |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-11-23 |  |
 | [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 | 2023-11-23 | 2023-12-20 |
 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 | 2023-12-19 |  |
 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 | 2023-11-23 |  |
 | [Carnival](https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Carnival](https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q) | 2:49 | 2023-11-23 |  |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2023-11-23 |  |
-| [Clutch](https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/4ZRuszFQ1iBgRrgsOoMKmz) | 3:21 | 2023-12-12 | 2024-01-10 |
+| [Clutch](https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/4ZRuszFQ1iBgRrgsOoMKmz) | 3:21 | 2023-12-12 |  |
 | [Clutch](https://open.spotify.com/track/5JGhgaH8Cf0OsGJhmtgrNC) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/7a3bJzOr4Mq2B74YIXsoHO) | 3:21 | 2023-12-12 | 2023-12-14 |
 | [Come Alive](https://open.spotify.com/track/4yl2H7Dh1ppXvZHFVDHkgA) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Come Alive](https://open.spotify.com/album/50yJa8hh5iKiLnqpDkK4Dh) | 3:33 | 2023-11-23 |  |
 | [Crazy Love](https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [Crazy Love](https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt) | 5:02 | 2023-11-23 | 2024-01-10 |

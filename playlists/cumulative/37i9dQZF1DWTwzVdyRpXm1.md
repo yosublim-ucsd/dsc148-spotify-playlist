@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Shubh
 
-267 songs - 15 hr 16 min
+269 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 | 2022-08-30 | 2024-01-06 |
 | [Long time no see](https://open.spotify.com/track/0ntAdrRd2ferE32aw637e9) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD), [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Long time no see](https://open.spotify.com/album/0UdB3UJ8lJ5xgvWkSTmj3U) | 3:38 | 2023-11-06 | 2023-11-17 |
 | [Long time no see](https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD), [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Long time no see](https://open.spotify.com/album/5qBulMP2DP48SEyNwsXY79) | 3:38 | 2023-11-12 |  |
+| [Love Ya](https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/74AG3N4OJWlJR19gRIEJyB) | 2:41 | 2024-01-12 |  |
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2021-12-06 | 2024-01-06 |
 | [Lut Gaye](https://open.spotify.com/track/2rU33n6Fhd6G1MzYhUj6C5) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Emraan Hashmi](https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb) | [Mumbai Saga](https://open.spotify.com/album/1A6zSLiNekSSlyPuJmka71) | 3:48 | 2022-11-30 | 2023-11-30 |
 | [Lut Gaye](https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Emraan Hashmi](https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb) | [Lut Gaye](https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX) | 3:48 | 2021-12-06 | 2022-12-01 |
@@ -226,6 +227,7 @@
 | [Scars](https://open.spotify.com/track/2WzcdOr9IGIWjGQLEtV90Y) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [First of a Kind \(From the Amazon Original Series\)](https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu) | 2:43 | 2023-09-08 | 2023-10-04 |
 | [Secrets](https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:38 | 2023-11-06 |  |
 | [Shart Lagake](https://open.spotify.com/track/1IffRKiB73SXuSIY216UXK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Shart Lagake](https://open.spotify.com/album/6WYypqpmi4WzMEhecA7NPX) | 2:31 | 2024-01-05 |  |
+| [Shatir](https://open.spotify.com/track/5yuTexOifpmPst6HKSZP3x) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Zahid Jaggi](https://open.spotify.com/artist/56cO7nXqr5US1gvzghPUiZ) | [Shatir](https://open.spotify.com/album/35q2tgzbNljiOc5mpoepke) | 2:40 | 2024-01-12 |  |
 | [Sher Khul Gaye \(From "Fighter"\)](https://open.spotify.com/track/0VXBujZKMLLlmee25BXEQs) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sher Khul Gaye \(From "Fighter"\)](https://open.spotify.com/album/1U6AnQckzmqa0k1MerIOUs) | 3:00 | 2024-01-05 |  |
 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 | 2024-01-05 |  |
 | [Sleepless](https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Sleepless](https://open.spotify.com/album/5nrLqXgaW2w1fCSFQp0EqL) | 2:36 | 2023-09-08 | 2023-11-30 |

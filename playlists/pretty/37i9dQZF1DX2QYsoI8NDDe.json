@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
-  "num_followers": 498617,
+  "num_followers": 497605,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMzNDdkOTJhM2ZmMTkyMDRjOWUyNzkyZWQ5NDJiZGE4MmM2NThi",
+  "snapshot_id": "MCxjMGJiMGRmNTliMjUwY2Q0Yzc5YjlkMGRiNDQ0ODlmYTQ5MWZiOTgx",
   "tracks": [
     {
       "added_at": "2023-12-08 17:59:24",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Un D\u00eda Llegar\u00e1 La Muerte",
-        "url": "https://open.spotify.com/album/4ZFRDoeqaVXCFuP65keIWG"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 189283,
-      "name": "Un D\u00eda Llegar\u00e1 La Muerte",
-      "url": "https://open.spotify.com/track/12lXjp68kn92QS8Tjkajn5"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Esto Es Lo M\u00edo",
         "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 121141,
       "name": "Esto Es Lo M\u00edo",
       "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Un D\u00eda Llegar\u00e1 La Muerte",
+        "url": "https://open.spotify.com/album/4ZFRDoeqaVXCFuP65keIWG"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 189283,
+      "name": "Un D\u00eda Llegar\u00e1 La Muerte",
+      "url": "https://open.spotify.com/track/12lXjp68kn92QS8Tjkajn5"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
+        "name": "La Chacalosa",
+        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 213713,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
         "name": "Mentiroso",
         "url": "https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 162037,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "La Chacalosa",
-        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 213713,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Voy A Quedarte Mal",
-        "url": "https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 223211,
-      "name": "Voy A Quedarte Mal",
-      "url": "https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Ese es el problema",
         "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 167075,
       "name": "Ese es el problema",
       "url": "https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Voy A Quedarte Mal",
+        "url": "https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 223211,
+      "name": "Voy A Quedarte Mal",
+      "url": "https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Ni El Dinero Ni Nada (En Vivo)",
-        "url": "https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 150935,
-      "name": "Ni El Dinero Ni Nada - En Vivo",
-      "url": "https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Busca Otro Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6fvx4HALVK3h4cGd24v6IQ"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Cu\u00e9ntenle Mentiras",
-        "url": "https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY"
+        "name": "Ni El Dinero Ni Nada (En Vivo)",
+        "url": "https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Sheyla",
-          "url": "https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh"
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Cu\u00e9ntenle Mentiras",
-      "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
+      "duration_ms": 150935,
+      "name": "Ni El Dinero Ni Nada - En Vivo",
+      "url": "https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -1007,6 +987,26 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
+        "name": "Cu\u00e9ntenle Mentiras",
+        "url": "https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Sheyla",
+          "url": "https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Cu\u00e9ntenle Mentiras",
+      "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru"
       },
@@ -1051,26 +1051,6 @@
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "Te fallaste a ti",
-        "url": "https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Banda las Angelinas",
-          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Te fallaste a ti",
-      "url": "https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -1123,6 +1103,26 @@
       "duration_ms": 194034,
       "name": "En Mil Cosas - En Vivo",
       "url": "https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Te fallaste a ti",
+        "url": "https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Banda las Angelinas",
+          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Te fallaste a ti",
+      "url": "https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6"
     }
   ],
   "unique_name": "Las Chacalosas",

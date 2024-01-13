@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,348 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,210 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soube que me Amava \(Supe que me Amabas\)](https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Amo Você Vol\. 13](https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t) | 4:23 |
 | 2 | [Tantos Mares](https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Gabriella Stehling](https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ) | [Tantos Mares](https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd) | 4:40 |
-| 3 | [Só Você](https://open.spotify.com/track/14rFBRzVUWjVqo9qAHJFxt) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Amo Você Vol\. 17](https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM) | 3:22 |
-| 4 | [Não É Acaso](https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Não É Acaso](https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka) | 3:55 |
+| 3 | [Não É Acaso](https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Não É Acaso](https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka) | 3:55 |
+| 4 | [Só Você](https://open.spotify.com/track/14rFBRzVUWjVqo9qAHJFxt) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Amo Você Vol\. 17](https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM) | 3:22 |
 | 5 | [Que Bom Você Chegou](https://open.spotify.com/track/2lzxlbHjyE0us72Q3LRV5A) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:25 |
 | 6 | [Oração do Amor](https://open.spotify.com/track/136WFxJJfu6TOG213942Cz) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Amo Você Vol\. 19](https://open.spotify.com/album/37nPPwQsZvOT0uqT3Dyglu) | 3:49 |
 | 7 | [Metade de Mim](https://open.spotify.com/track/2aI59xoodYm6cB8JIPube0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Alexandre Silva](https://open.spotify.com/artist/4pv3YsIBMfpGMQgGXLZmFo) | [Sem Comparação](https://open.spotify.com/album/0wp8qH6qDd18GNJnGNwtHY) | 4:08 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 60 | [Por Nós](https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Amar e Perdoar](https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ) | 3:50 |
 | 61 | [Deus Você e Eu](https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Deus Você e Eu](https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU) | 3:39 |
 | 62 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
-| 63 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
-| 64 | [Por Favor](https://open.spotify.com/track/4XiC5sMUQvbnN0UTKzZYcd) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [D.R\. Desfrutando a Relação](https://open.spotify.com/album/49RcO5A7VwTpspYop2Nz5B) | 3:47 |
-| 65 | [Nós](https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Nós](https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7) | 2:54 |
+| 63 | [Nós](https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Nós](https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7) | 2:54 |
+| 64 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
+| 65 | [Por Favor](https://open.spotify.com/track/4XiC5sMUQvbnN0UTKzZYcd) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [D.R\. Desfrutando a Relação](https://open.spotify.com/album/49RcO5A7VwTpspYop2Nz5B) | 3:47 |
 
-Snapshot ID: `MCw5OWMwZTZhNjk0YjkyYzM4ZDNkNzIyOGM0NTk4NjlhNzQzZWExMDA0`
+Snapshot ID: `MCxjYTM3YTkwNDhkNDRmYmE4MjgzZGNkZWI5ZTA4YzBlNDVlZGQ2YzE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,708 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,743 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 22 | [Saaltak Habiby](https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 5:26 |
 | 23 | [Waga'a El Hawa](https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Waga'a El Hawa](https://open.spotify.com/album/3wklcSidQvgDPzgAmiAckq) | 4:57 |
 | 24 | [Ahwak](https://open.spotify.com/track/63GzwMGopLBtxiWPZ6IFgo) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 1:34 |
-| 25 | [Yawman Ma](https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c) | [Yawman Ma](https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy) | 3:22 |
-| 26 | [Matrahak Bi Albi](https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Khedni Habibi](https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p) | 5:03 |
+| 25 | [Matrahak Bi Albi](https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Khedni Habibi](https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p) | 5:03 |
+| 26 | [Yawman Ma](https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c) | [Yawman Ma](https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy) | 3:22 |
 | 27 | [Holm](https://open.spotify.com/track/18VTWGLJxaRMFdQ6NDIGKk) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [The Tunis Diaries](https://open.spotify.com/album/4BULdO9TRA4UfgfANxrGJN) | 4:46 |
 | 28 | [يوم جديد](https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 0:49 |
 | 29 | [Ghir Enta](https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Deb](https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd) | 5:05 |
 | 30 | [Fakra](https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [El Album](https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd) | 3:51 |
 | 31 | [بدي احكيك](https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [بدي احكيك](https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q) | 2:51 |
 | 32 | [Hashrab Hashish](https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX) | 3:04 |
-| 33 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
-| 34 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 |
+| 33 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 |
+| 34 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
 | 35 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 |
 | 36 | [Hekm El Alb](https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Hekm El Alb](https://open.spotify.com/album/2FA8ZbAi3WezUq5I7fvmgT) | 3:56 |
 | 37 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 55 | [Fi hagat \(I love you\)](https://open.spotify.com/track/6N2WLWIbo7LO6GdMrBlJAe) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Fi hagat \(I love you\)](https://open.spotify.com/album/1oulttaZFG9C95Sv0DkhZS) | 2:47 |
 | 56 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
 | 57 | [Kefak Anta & Hello \(feat\. Fairouz\)](https://open.spotify.com/track/0Gv0LK9wf1E4YNaO7R8fNw) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Mash\-Up](https://open.spotify.com/album/3e9qgdZAlMn7D1bQWPRyoi) | 4:10 |
-| 58 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
-| 59 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 |
+| 58 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 |
+| 59 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
 | 60 | [دبرها](https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [دبرها](https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx) | 4:49 |
 | 61 | [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 |
 | 62 | [Fe Albi Makan](https://open.spotify.com/track/7hxNdifkLusSYHUroOlRDX) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Habayeb Zaman](https://open.spotify.com/album/3SnlKpVPHO3C9Zg1TzL18h) | 5:07 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 65 | [Mwashah](https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr) | [Hamza El Din](https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ) | [Eclipse](https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs) | 3:44 |
 | 66 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 |
 | 67 | [Weilak Acoustik](https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:32 |
-| 68 | [Erjaa Shoufak](https://open.spotify.com/track/2mCC8H1sSvmQave6EMiAQL) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/5sdDDQFcVtxbgAMk2ZLYCq) | 3:47 |
-| 69 | [Ween El\-Kalam](https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Ya Bay](https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh) | 5:36 |
+| 68 | [Ween El\-Kalam](https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Ya Bay](https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh) | 5:36 |
+| 69 | [Erjaa Shoufak](https://open.spotify.com/track/2mCC8H1sSvmQave6EMiAQL) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/5sdDDQFcVtxbgAMk2ZLYCq) | 3:47 |
 | 70 | [Bahwak](https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Bahwak](https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl) | 3:18 |
 | 71 | [Rouh Ya Amar](https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Rouh Ya Amar](https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6) | 4:02 |
 | 72 | [Bahebek Lelsama](https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Bahebek Lelsama](https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 99 | [Badi Nsafer](https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Badi Nsafer](https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX) | 3:44 |
 | 100 | [Que ferons nous](https://open.spotify.com/track/3TcPJvkqdgPezRa5jvJ7BO) | [Constantijn Huygens](https://open.spotify.com/artist/6NrcSW9QWeCLVtC5xJDoVW), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:07 |
 
-Snapshot ID: `MCxiOTAxZGZhZjVkMzQ2NDUxMzllNzU1Y2M5MDVlN2Y2YmQwMWYxYzM1`
+Snapshot ID: `MCxjYzcyZjVjYjI4YTlmYjRjYzMzZjE4MTY2ZGY2ZGJmNTAxNTI4NWUz`

@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-193 songs - 11 hr 46 min
+194 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Pearls On A String](https://open.spotify.com/track/7cKps79ZK38xhAMFtsDtbm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:23 | 2023-04-23 |  |
 | [Please Do Not Let Me Go](https://open.spotify.com/track/1n4IcC3bp6hqha6yYvrJye) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:35 | 2022-01-26 | 2024-01-04 |
 | [Poor Connection](https://open.spotify.com/track/7Ddfa5uVpCRmj1tpcITo07) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:49 | 2022-05-16 | 2022-08-16 |
-| [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 | 2022-01-11 |  |
+| [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 | 2022-01-11 | 2024-01-13 |
 | [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 | 2022-05-14 | 2024-01-05 |
 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 | 2022-05-14 | 2022-11-04 |
 | [Romeo & Juliet \- Live at Carnegie Hall, May 14, 2022](https://open.spotify.com/track/0PnC3S5ayY5MoT0fqIi227) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall \(Live at Carnegie Hall, May 14, 2022\)](https://open.spotify.com/album/4JUjiAuy48zaVjUhmwsaB9) | 4:57 | 2023-04-02 | 2023-04-21 |
@@ -182,6 +182,7 @@
 | [To Be Young \(Is to Be Sad, Is to Be High\)](https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:04 | 2022-01-11 |  |
 | [Tomorrow Never Comes](https://open.spotify.com/track/0On3jM7uFiphkDSQpjbJM9) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:24 | 2024-01-04 |  |
 | [Too Bored to Run](https://open.spotify.com/track/0t3eB48w37aqTPB7aGhlia) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 3:08 | 2022-11-06 | 2023-04-04 |
+| [Too Late](https://open.spotify.com/track/3BGW3cTO3TzxG5VojcA9Ge) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:55 | 2024-01-12 |  |
 | [Trouble](https://open.spotify.com/track/7xfWkAqJiJOrtH6j8AbXlJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:47 | 2022-03-04 | 2022-05-04 |
 | [True Love](https://open.spotify.com/track/1stB2WWLzp7QIeT82T7ytU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:48 | 2024-01-08 |  |
 | [Two](https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:38 | 2022-01-11 |  |

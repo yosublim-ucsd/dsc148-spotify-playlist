@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 66811,
+  "2024-01-13": 66687,
   "date_first_scraped": "2022-06-09",
   "description": "\u4e0a\u73ed\u6642\u9593\u5f88\u9577\uff0c\u5c31\u8b93\u6700\u65b0\u6700\u52d5\u807d\u7684\u570b\u8a9e\u6b4c\u966a\u4f60\uff0c\u8212\u670d\u8f15\u807d\u4e00\u8d77\u6e21\u904e\u5427\uff01",
   "name": "\u4e0a\u73ed\u8f15\u807d",
@@ -8296,24 +8296,6 @@
     },
     {
       "album": {
-        "name": "\u5728\u4e0e\u751f\u4ff1\u6765\u7684\u4e0d\u5e73\u8861\u91cc (ALLURE)",
-        "url": "https://open.spotify.com/album/5CTJRLUpDnLXEXGllKcmeG"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243882,
-      "name": "\u5317\u6781\u661f (MY LITTLE STAR)",
-      "url": "https://open.spotify.com/track/6ZyAlU7tYUGrto7hcCbWfK"
-    },
-    {
-      "album": {
         "name": "\u5317\u6975\u661f",
         "url": "https://open.spotify.com/album/3aPsQrlww2nz3SBE5zEkUQ"
       },
@@ -8329,6 +8311,24 @@
       "duration_ms": 154482,
       "name": "\u5317\u6975\u661f",
       "url": "https://open.spotify.com/track/2nZrbgv7AF7NbG5pVogGtb"
+    },
+    {
+      "album": {
+        "name": "\u5728\u8207\u751f\u4ff1\u4f86\u7684\u4e0d\u5e73\u8861\u88e1 (ALLURE)",
+        "url": "https://open.spotify.com/album/5CTJRLUpDnLXEXGllKcmeG"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243882,
+      "name": "\u5317\u6975\u661f (MY LITTLE STAR)",
+      "url": "https://open.spotify.com/track/6ZyAlU7tYUGrto7hcCbWfK"
     },
     {
       "album": {

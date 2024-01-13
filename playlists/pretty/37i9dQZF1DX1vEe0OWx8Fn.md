@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,460 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,529 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 39 | [Misery Business](https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 3:21 |
 | 40 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 |
 | 41 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
-| 42 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
-| 43 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
+| 42 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
+| 43 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 44 | [i want to be by your side](https://open.spotify.com/track/5ZfMb1vgKdvG9Mr2iRXXN2) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [herhexx](https://open.spotify.com/artist/7AI9yB4mqXc2h9fONnHgqA) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:37 |
 | 45 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 |
 | 46 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [Choose Life \(feat\. Travis Barker\)](https://open.spotify.com/track/5jbjAmYTrF6ITa72YW8mFS) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB) | 2:09 |
 | 50 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 |
 
-Snapshot ID: `MCw1ODEwMmNhNTNmODdlMTM4ZmFhZmQ1NWE3MDY4MDYwMTZjZTIwMjAz`
+Snapshot ID: `MCxhMDM5MzFkMWJmNWM2NWFhNTEyY2E4YjY4ZmFlNDUzNDM3MzQ3ZGYw`

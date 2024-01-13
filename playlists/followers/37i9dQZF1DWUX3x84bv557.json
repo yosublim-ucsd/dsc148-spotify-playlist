@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 160937,
+  "2024-01-13": 160929,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: jet van der steen",
+  "description": "De nieuwste Nederlandse pop! Cover: FLEMMING, Zo\u00eb Tauran & Ronnie Flex",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 154805,
       "name": "100K Tranen",
       "url": "https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 177813,
       "name": "Altijd Onderweg",
       "url": "https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U"
@@ -1552,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "Cheffen",
+        "url": "https://open.spotify.com/album/29fGj0pzvEHkAwGcBFNmqi"
+      },
+      "artists": [
+        {
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158476,
+      "name": "Cheffen",
+      "url": "https://open.spotify.com/track/1raZ0KuZsWD6YVjkbBdBh9"
+    },
+    {
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/5aJiOr7wOCxeMZ08Jb5jbT"
       },
@@ -1611,6 +1629,24 @@
       "duration_ms": 194482,
       "name": "Dakkie Open",
       "url": "https://open.spotify.com/track/0AdtOEkY2yw0r4dU5nasSd"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/4gHZ6Z0tf7LVAwSt1SffdA"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170504,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/1CYCk63BLjz4sGA8coNU6u"
     },
     {
       "album": {
@@ -1925,7 +1961,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 139047,
       "name": "De Hele Nacht",
       "url": "https://open.spotify.com/track/5piOsIWpDiaK8BUmPYCIVF"
@@ -2772,6 +2808,24 @@
     },
     {
       "album": {
+        "name": "Ergens In Mijn Hoofd",
+        "url": "https://open.spotify.com/album/5SLGlNJEsUCQTruDSCLZZr"
+      },
+      "artists": [
+        {
+          "name": "Roets",
+          "url": "https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2rVUddzICzXAXelpLVvCF4"
+    },
+    {
+      "album": {
         "name": "Fijn Om Hier Te Zijn",
         "url": "https://open.spotify.com/album/1mrl4a8GSm6T60yWt5GV0e"
       },
@@ -3195,7 +3249,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179025,
       "name": "Hartslag Van De Stad",
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
@@ -7249,7 +7303,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 188565,
       "name": "Treintje Later",
       "url": "https://open.spotify.com/track/1TJ7XbsAzUpJ3evpxbrAhx"
@@ -7469,7 +7523,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 186455,
       "name": "Vas-y (Ga Maar)",
       "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
@@ -7936,6 +7990,28 @@
     },
     {
       "album": {
+        "name": "Wat Als De Storm Komt",
+        "url": "https://open.spotify.com/album/2lLQEEFu8bzGmhqpYQ3F8Q"
+      },
+      "artists": [
+        {
+          "name": "Stef Bos",
+          "url": "https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW"
+        },
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183252,
+      "name": "Wat Als De Storm Komt",
+      "url": "https://open.spotify.com/track/1gEBvpvyyQmDeG6Lpo7cwN"
+    },
+    {
+      "album": {
         "name": "Bliksem & Donder",
         "url": "https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY"
       },
@@ -8143,6 +8219,24 @@
       "duration_ms": 240562,
       "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
       "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
+    },
+    {
+      "album": {
+        "name": "Noodzakelijk Verdriet",
+        "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152730,
+      "name": "We Hebben De Tijd",
+      "url": "https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq"
     },
     {
       "album": {
@@ -8655,6 +8749,24 @@
       "duration_ms": 166200,
       "name": "Zweven",
       "url": "https://open.spotify.com/track/41kC0OKOvxxccg9AZcIVlg"
+    },
+    {
+      "album": {
+        "name": "\u00c9coutez-moi",
+        "url": "https://open.spotify.com/album/7a4fD18DJgxkP3uSCVj0pb"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\u00c9coutez-moi",
+      "url": "https://open.spotify.com/track/55U5MtDnqyZ5jpdlOjPxON"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557"

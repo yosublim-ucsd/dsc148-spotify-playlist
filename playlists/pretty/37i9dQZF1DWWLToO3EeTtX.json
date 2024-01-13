@@ -1,12 +1,12 @@
 {
   "description": "Get away from the maddening crowds with this peaceful pop mix.",
-  "num_followers": 1117248,
+  "num_followers": 1114818,
   "original_name": "Morning Stroll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWI3YjNkZTIyZjhiNmU4ZWFhYjgzNWIyNTQyMTIxNjgzNjgxOWMy",
+  "snapshot_id": "MCxjMjcyMmUxMDMyMjRhMzg5NTNjZDBmYzEyNGFhMDI0NjUxZjE1NDNh",
   "tracks": [
     {
       "added_at": "2023-10-10 08:43:01",
@@ -643,26 +643,18 @@
     {
       "added_at": "2023-10-10 08:43:01",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 198081,
-      "name": "Peaches (feat. Daniel Caesar & Giveon)",
-      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2023-10-10 08:43:01",
@@ -683,18 +675,26 @@
     {
       "added_at": "2023-10-10 08:43:01",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+      "duration_ms": 198081,
+      "name": "Peaches (feat. Daniel Caesar & Giveon)",
+      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
     },
     {
       "added_at": "2023-10-10 08:43:01",

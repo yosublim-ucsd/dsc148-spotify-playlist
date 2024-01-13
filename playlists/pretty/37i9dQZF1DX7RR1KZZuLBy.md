@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,327 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,355 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 43 | [Firm Foundation \(He Won’t\) \- Live](https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:20 |
 | 44 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 |
 | 45 | [Can't Give Up Now](https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 4:57 |
-| 46 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
-| 47 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 |
+| 46 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 |
+| 47 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
 | 48 | [Just Like You've Always Done](https://open.spotify.com/track/2shl2yhyeveafJFGjecS1X) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Just Like You've Always Done](https://open.spotify.com/album/2Qi1MljxqICjyyjvTLx9Pp) | 3:32 |
 | 49 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 | 50 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 
-Snapshot ID: `MCw1ZDZkYzZhYWI3ZGM4OWY1MWNlNmU3MDE3MjlmNzgyYzgwZDhjNDBi`
+Snapshot ID: `MCxkYmJiZDRlNDA5N2M5MjBiNDlhZWYxNjMyMTU0NGViZDA4ZjNmMjEy`

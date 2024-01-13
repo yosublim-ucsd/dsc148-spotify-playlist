@@ -1,12 +1,12 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 190656,
+  "num_followers": 190502,
   "original_name": "Terapia de Bosque",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWQ5M2Q3MTkxYjJhNzBkYTUxYWU2YjRkMmQwY2ZhZGI4MDJhYzQ1",
+  "snapshot_id": "MCxjM2Q0NDgwYTgxODEzYTk2NjE1ZGNmMzVjMTRhZjVhNDJlYzZiZGE0",
   "tracks": [
     {
       "added_at": "2023-11-10 16:30:58",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Moonlight Cicadas",
-        "url": "https://open.spotify.com/album/5grZ9s38TB1eRyhajsFjca"
-      },
-      "artists": [
-        {
-          "name": "Castorum",
-          "url": "https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Moonlight Cicadas",
-      "url": "https://open.spotify.com/track/6SxP1Dvkot5ft3HP5rVUIA"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Mindful Sleep",
         "url": "https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 214400,
       "name": "Matterhorn Mountain",
       "url": "https://open.spotify.com/track/60jmPhNn2QVUPRfpjZZUB4"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Moonlight Cicadas",
+        "url": "https://open.spotify.com/album/5grZ9s38TB1eRyhajsFjca"
+      },
+      "artists": [
+        {
+          "name": "Castorum",
+          "url": "https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Moonlight Cicadas",
+      "url": "https://open.spotify.com/track/6SxP1Dvkot5ft3HP5rVUIA"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Spirituale",
-        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
-      },
-      "artists": [
-        {
-          "name": "Constantine Lupo",
-          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
-        }
-      ],
-      "duration_ms": 191136,
-      "name": "Silenzio",
-      "url": "https://open.spotify.com/track/7rUKkAass5crI9QIi8thTK"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 147057,
       "name": "Stillsamhet",
       "url": "https://open.spotify.com/track/5j8DTevAnvUUon9rwhndi1"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Spirituale",
+        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
+      },
+      "artists": [
+        {
+          "name": "Constantine Lupo",
+          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
+        }
+      ],
+      "duration_ms": 191136,
+      "name": "Silenzio",
+      "url": "https://open.spotify.com/track/7rUKkAass5crI9QIi8thTK"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 226876,
-      "name": "Sometimes He's In My Dreams",
-      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Silent Waters",
         "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 144830,
       "name": "Silent Waters",
       "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 226876,
+      "name": "Sometimes He's In My Dreams",
+      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 161012,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Spain",
         "url": "https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 161012,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Zentrera",
-        "url": "https://open.spotify.com/album/6kwnMcWJVGzf6oRB4Z2W7u"
-      },
-      "artists": [
-        {
-          "name": "Moontonic",
-          "url": "https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Zentrera",
-      "url": "https://open.spotify.com/track/6aJTuwVY83SwEmFJxtKXoR"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Sinharaja Rain Forest",
         "url": "https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Expanded Reality",
-        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
+        "name": "Zentrera",
+        "url": "https://open.spotify.com/album/6kwnMcWJVGzf6oRB4Z2W7u"
       },
       "artists": [
         {
-          "name": "Axial Flow",
-          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+          "name": "Moontonic",
+          "url": "https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Expanded Reality",
-      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
+      "duration_ms": 172800,
+      "name": "Zentrera",
+      "url": "https://open.spotify.com/track/6aJTuwVY83SwEmFJxtKXoR"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1099,6 +1083,22 @@
       "duration_ms": 159374,
       "name": "Days Off",
       "url": "https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Expanded Reality",
+        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
+      },
+      "artists": [
+        {
+          "name": "Axial Flow",
+          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Expanded Reality",
+      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1123,6 +1123,22 @@
       "duration_ms": 293626,
       "name": "Don't Go Where I Can't Find You",
       "url": "https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "The Enigma of Consciousness",
+        "url": "https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 194805,
+      "name": "The Enigma of Consciousness",
+      "url": "https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "The Enigma of Consciousness",
-        "url": "https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd"
+        "name": "Brainsugar",
+        "url": "https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV"
       },
       "artists": [
         {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
         }
       ],
-      "duration_ms": 194805,
-      "name": "The Enigma of Consciousness",
-      "url": "https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg"
+      "duration_ms": 141920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4bjeltvdBsWvyGDsZ0QwvH"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1235,22 +1251,6 @@
       "duration_ms": 178260,
       "name": "A New Day",
       "url": "https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
-        "name": "Brainsugar",
-        "url": "https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV"
-      },
-      "artists": [
-        {
-          "name": "Cubicolor",
-          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
-        }
-      ],
-      "duration_ms": 141920,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4bjeltvdBsWvyGDsZ0QwvH"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Violin Chant",
-        "url": "https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v"
-      },
-      "artists": [
-        {
-          "name": "Leyenda",
-          "url": "https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB"
-        }
-      ],
-      "duration_ms": 209617,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/6dy23Jk4fxlwTLxB9o4olF"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Alpha Phase",
         "url": "https://open.spotify.com/album/4k5lKgapbTFxYPrcGJyymz"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "A True Master",
-        "url": "https://open.spotify.com/album/3rkcHBayORKTNjpUyIY0Rw"
+        "name": "Violin Chant",
+        "url": "https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v"
       },
       "artists": [
         {
-          "name": "Yi Nantiro",
-          "url": "https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp"
+          "name": "Leyenda",
+          "url": "https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB"
         }
       ],
-      "duration_ms": 128284,
-      "name": "Immovable As The Mountain",
-      "url": "https://open.spotify.com/track/54vCcg45Q7sXHnZ2V07Ad6"
+      "duration_ms": 209617,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/6dy23Jk4fxlwTLxB9o4olF"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1347,6 +1331,22 @@
       "duration_ms": 137600,
       "name": "Beige",
       "url": "https://open.spotify.com/track/45HEzbPMOdFlNjzf7mlG3F"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "A True Master",
+        "url": "https://open.spotify.com/album/3rkcHBayORKTNjpUyIY0Rw"
+      },
+      "artists": [
+        {
+          "name": "Yi Nantiro",
+          "url": "https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp"
+        }
+      ],
+      "duration_ms": 128284,
+      "name": "Immovable As The Mountain",
+      "url": "https://open.spotify.com/track/54vCcg45Q7sXHnZ2V07Ad6"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Loveliness",
-        "url": "https://open.spotify.com/album/77Q17UO85JPsTkUebuLUnm"
-      },
-      "artists": [
-        {
-          "name": "Rubycon Sunset",
-          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
-        }
-      ],
-      "duration_ms": 170281,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/5pJvcUYWJoA12oNJsgU8CS"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Our Living Universe",
         "url": "https://open.spotify.com/album/41UjWVgWP1Se9Pbov22EvX"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 278732,
       "name": "Molecular Beauty",
       "url": "https://open.spotify.com/track/2AorwcM25R5qsP3MLeOJcA"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Loveliness",
+        "url": "https://open.spotify.com/album/77Q17UO85JPsTkUebuLUnm"
+      },
+      "artists": [
+        {
+          "name": "Rubycon Sunset",
+          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+        }
+      ],
+      "duration_ms": 170281,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/5pJvcUYWJoA12oNJsgU8CS"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Alpha Activity",
-        "url": "https://open.spotify.com/album/1rk53Ct8Sqp6mpUIm0vDvI"
-      },
-      "artists": [
-        {
-          "name": "Neural Oscillations",
-          "url": "https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb"
-        }
-      ],
-      "duration_ms": 163783,
-      "name": "Brain Imaging",
-      "url": "https://open.spotify.com/track/2FsZMy3VbsGY2w0FYVPnnK"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Travels Of A Snowflake",
         "url": "https://open.spotify.com/album/0o9UDy0hPkNgW8ZP0PYxGt"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 247052,
       "name": "Frozen Tears",
       "url": "https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Alpha Activity",
+        "url": "https://open.spotify.com/album/1rk53Ct8Sqp6mpUIm0vDvI"
+      },
+      "artists": [
+        {
+          "name": "Neural Oscillations",
+          "url": "https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb"
+        }
+      ],
+      "duration_ms": 163783,
+      "name": "Brain Imaging",
+      "url": "https://open.spotify.com/track/2FsZMy3VbsGY2w0FYVPnnK"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Toulouse",
-        "url": "https://open.spotify.com/album/0elj9tMQi6XMfd0FXlAdgj"
-      },
-      "artists": [
-        {
-          "name": "xerLK",
-          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
-        }
-      ],
-      "duration_ms": 142094,
-      "name": "Toulouse",
-      "url": "https://open.spotify.com/track/4wvMF7ZYxzd2lLUThMpSAg"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Dazzle Ships",
         "url": "https://open.spotify.com/album/1XoHVIy2pTAKTDseBfU2gJ"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 155000,
       "name": "Dazzle Ships",
       "url": "https://open.spotify.com/track/6XkwLtL1E0lK0ZM134DOnc"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Toulouse",
+        "url": "https://open.spotify.com/album/0elj9tMQi6XMfd0FXlAdgj"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "duration_ms": 142094,
+      "name": "Toulouse",
+      "url": "https://open.spotify.com/track/4wvMF7ZYxzd2lLUThMpSAg"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
+        "name": "Evergreen Dazed",
+        "url": "https://open.spotify.com/album/60C4h8sAo7FHeAnXM412mh"
+      },
+      "artists": [
+        {
+          "name": "Ivory Past",
+          "url": "https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK"
+        }
+      ],
+      "duration_ms": 160519,
+      "name": "Crystal Spires",
+      "url": "https://open.spotify.com/track/3PBA5GGuWbtmlP50IDD0PW"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
         "name": "Favourite Australian Birdsong",
         "url": "https://open.spotify.com/album/1grPfEodwAp9wkc6qX2QUO"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 216000,
       "name": "Sweet Iris",
       "url": "https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
-        "name": "Evergreen Dazed",
-        "url": "https://open.spotify.com/album/60C4h8sAo7FHeAnXM412mh"
-      },
-      "artists": [
-        {
-          "name": "Ivory Past",
-          "url": "https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK"
-        }
-      ],
-      "duration_ms": 160519,
-      "name": "Crystal Spires",
-      "url": "https://open.spotify.com/track/3PBA5GGuWbtmlP50IDD0PW"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "II Cosmos",
-        "url": "https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G"
-      },
-      "artists": [
-        {
-          "name": "PRjDicE",
-          "url": "https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "II Cosmos",
-      "url": "https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Om mani palme hum",
         "url": "https://open.spotify.com/album/2uiDDNlK6bgzWs1ELV0erj"
       },
@@ -2203,6 +2187,22 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
+        "name": "II Cosmos",
+        "url": "https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G"
+      },
+      "artists": [
+        {
+          "name": "PRjDicE",
+          "url": "https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "II Cosmos",
+      "url": "https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
         "name": "Amplitude",
         "url": "https://open.spotify.com/album/2sBHOOGlTnp4LhXTq5G6fX"
       },
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS"
-      },
-      "artists": [
-        {
-          "name": "Eternal Ocean",
-          "url": "https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f"
-        }
-      ],
-      "duration_ms": 173999,
-      "name": "Senseful",
-      "url": "https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Earth Shapes",
         "url": "https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 251875,
       "name": "Earth Shapes: Nature",
       "url": "https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS"
+      },
+      "artists": [
+        {
+          "name": "Eternal Ocean",
+          "url": "https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f"
+        }
+      ],
+      "duration_ms": 173999,
+      "name": "Senseful",
+      "url": "https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Love Is All",
-        "url": "https://open.spotify.com/album/10OxP3accmLrouUPnbctPS"
-      },
-      "artists": [
-        {
-          "name": "Filterscape",
-          "url": "https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1"
-        }
-      ],
-      "duration_ms": 159740,
-      "name": "Love Is All",
-      "url": "https://open.spotify.com/track/5fElZorySnJf7AL27hovH6"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Lakeside View",
         "url": "https://open.spotify.com/album/61APp6PMdds2CbV7LpGKPK"
       },
@@ -2315,18 +2299,18 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/4WMKoEV4Sb1hrGNBCrdj3V"
+        "name": "Love Is All",
+        "url": "https://open.spotify.com/album/10OxP3accmLrouUPnbctPS"
       },
       "artists": [
         {
-          "name": "Rubycon Sunset",
-          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+          "name": "Filterscape",
+          "url": "https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1"
         }
       ],
-      "duration_ms": 153802,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/2VeRzeFLymzGePh18p2cBR"
+      "duration_ms": 159740,
+      "name": "Love Is All",
+      "url": "https://open.spotify.com/track/5fElZorySnJf7AL27hovH6"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Forgotten Hill",
-        "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/4WMKoEV4Sb1hrGNBCrdj3V"
       },
       "artists": [
         {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+          "name": "Rubycon Sunset",
+          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
         }
       ],
-      "duration_ms": 321894,
-      "name": "Cherry Blossom Petals Fall Like Heavy Snow",
-      "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
+      "duration_ms": 153802,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/2VeRzeFLymzGePh18p2cBR"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2379,18 +2363,18 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "High Spirits",
-        "url": "https://open.spotify.com/album/5vnlOa0KKpND40gjW5Sl5w"
+        "name": "Forgotten Hill",
+        "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
       },
       "artists": [
         {
-          "name": "Massimo de Francisco",
-          "url": "https://open.spotify.com/artist/4BMtEihlaopqgRwJkQadhV"
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
         }
       ],
-      "duration_ms": 218000,
-      "name": "High Spirits",
-      "url": "https://open.spotify.com/track/4InsvvBQTDAEiCGOh5MBH7"
+      "duration_ms": 321894,
+      "name": "Cherry Blossom Petals Fall Like Heavy Snow",
+      "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2411,18 +2395,34 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Transcendental Heart",
-        "url": "https://open.spotify.com/album/3BNv5BWQRR5J5qfsZPtJfq"
+        "name": "High Spirits",
+        "url": "https://open.spotify.com/album/5vnlOa0KKpND40gjW5Sl5w"
       },
       "artists": [
         {
-          "name": "The Silent Minds",
-          "url": "https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq"
+          "name": "Massimo de Francisco",
+          "url": "https://open.spotify.com/artist/4BMtEihlaopqgRwJkQadhV"
         }
       ],
-      "duration_ms": 141666,
-      "name": "Transcendental Heart",
-      "url": "https://open.spotify.com/track/7dTF8LqhdDLJDwCCxnWoaJ"
+      "duration_ms": 218000,
+      "name": "High Spirits",
+      "url": "https://open.spotify.com/track/4InsvvBQTDAEiCGOh5MBH7"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Silviculture",
+        "url": "https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B"
+      },
+      "artists": [
+        {
+          "name": "Forest Dreams",
+          "url": "https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp"
+        }
+      ],
+      "duration_ms": 122837,
+      "name": "Silviculture",
+      "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"
     }
   ],
   "unique_name": "Terapia de Bosque",

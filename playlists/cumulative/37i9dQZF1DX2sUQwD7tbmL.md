@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-627 songs - 1 day 11 hr 29 min
+629 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 | 2023-05-26 | 2023-10-27 |
 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-01-13 |  |
 | [Love Test](https://open.spotify.com/track/1IKMIPn0zCJ0CilYEpEkyK) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Chinese Fountain](https://open.spotify.com/album/6exFB8EKturdauvN5XV0ov) | 4:09 | 2021-07-19 | 2022-04-19 |
+| [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2024-01-12 |  |
 | [Love/Paranoia](https://open.spotify.com/track/5h9hkYIBWTZYFRmF6Iz1gt) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:05 | 2022-04-13 | 2022-07-30 |
 | [Low Again](https://open.spotify.com/track/6pc0MSwfQ5etN4YOVjMh62) | [Hard Yes](https://open.spotify.com/artist/3eeN2fAZGLbg3xJ8bjnFV9) | [Low Again](https://open.spotify.com/album/248UYIf6N83YRecTmFikrx) | 4:04 | 2022-05-06 | 2022-07-28 |
 | [Magic Tide](https://open.spotify.com/track/0SEGzVjv7gMuKvEqBBDKp8) | [Frills](https://open.spotify.com/artist/6YY4AQPjE7JqwpkqyPRfid) | [Magic Tide](https://open.spotify.com/album/2d8AC2Bb7QhR0WqGfu0XCR) | 3:24 | 2021-05-01 | 2022-04-14 |
@@ -374,7 +375,7 @@
 | [Move to San Francisco](https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Move to San Francisco](https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw) | 3:01 | 2021-05-01 | 2022-07-29 |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-12-01 |  |
 | [Mushroom](https://open.spotify.com/track/6bF20uauKV4HUXp5mKdx82) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Mushroom](https://open.spotify.com/album/2VVDnRJ9hsMcH8qLfPL4rf) | 2:46 | 2021-05-01 | 2022-04-14 |
-| [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-11-03 |  |
+| [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-11-03 | 2024-01-13 |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-04-15 | 2023-09-30 |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-04-13 |  |
 | [Naive](https://open.spotify.com/track/29XbgaYB4Hs8vlLmpzkRgj) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Naïve](https://open.spotify.com/album/06XZphFaqEl3gTtQp8a3hb) | 3:26 | 2022-04-13 |  |
@@ -527,7 +528,7 @@
 | [Sunflower](https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE) | 4:12 | 2022-10-14 | 2023-04-15 |
 | [Sunlight](https://open.spotify.com/track/6XpJw6mIuTQ7tPYTvjYyVX) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/73G6WLLpF5yejKrJCYwidT) | 3:32 | 2021-05-01 | 2022-07-29 |
 | [Sunset Chaser](https://open.spotify.com/track/0US7M5Cc4HToQXy99z92SV) | [Ragamuffs](https://open.spotify.com/artist/0IIb8Xf1ZDISXLSntUDMRq) | [Achy Luminescence](https://open.spotify.com/album/0rUhSoE2bdLyMMO0m2ywBG) | 5:30 | 2022-04-13 | 2022-04-18 |
-| [Superbloomer](https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Superbloomer](https://open.spotify.com/album/43M8szELX9et29YildxYbP) | 4:37 | 2023-12-01 |  |
+| [Superbloomer](https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Superbloomer](https://open.spotify.com/album/43M8szELX9et29YildxYbP) | 4:37 | 2023-12-01 | 2024-01-13 |
 | [Superglue](https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:10 | 2023-05-26 |  |
 | [supermarket](https://open.spotify.com/track/11cufrIGJ6pbcVqJ205Eqe) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/2rpxxVofUOFlcnFD5jriTt) | 2:25 | 2022-11-07 | 2023-09-30 |
 | [supermarket](https://open.spotify.com/track/5FdE9hALukJ6ivdFXbCGEj) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/1I00sBmH4cpFAbEPr33t1S) | 2:25 | 2022-05-27 | 2022-06-18 |
@@ -554,6 +555,7 @@
 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-05-01 | 2023-09-30 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2021-06-04 | 2023-06-17 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-19 |  |
+| [The Place That Makes Me Happy](https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [The Place That Makes Me Happy](https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW) | 3:01 | 2024-01-12 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-04-13 |  |
 | [The Summer](https://open.spotify.com/track/3O2bW6OI1jo3l2DhHfEffP) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Summer](https://open.spotify.com/album/7qBHuHCWS1A6eLXupHao0z) | 3:36 | 2021-05-01 | 2022-04-14 |
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2022-07-22 |  |

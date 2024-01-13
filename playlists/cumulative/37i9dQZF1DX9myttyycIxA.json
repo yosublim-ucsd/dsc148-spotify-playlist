@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Wednesday",
+  "description": "Underground indie rock gems. Cover: NewDad",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 360995,
       "name": "Backseat Girl",
       "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
@@ -8524,7 +8524,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 142883,
       "name": "HFCS",
       "url": "https://open.spotify.com/track/63VHx8tUH1i0jhNMg70RQu"
@@ -8838,7 +8838,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 156722,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
@@ -9242,7 +9242,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 204837,
       "name": "I got the fear",
       "url": "https://open.spotify.com/track/6AFY12Amy94FW5S4jnGJ8s"
@@ -11300,7 +11300,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 192328,
       "name": "LIAR",
       "url": "https://open.spotify.com/track/3LNAmT4o9ybROuKehinBiA"
@@ -12009,6 +12009,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr"
+      },
+      "artists": [
+        {
+          "name": "Remo Drive",
+          "url": "https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om"
+    },
+    {
+      "album": {
         "name": "Middle Man",
         "url": "https://open.spotify.com/album/54fId2tvhp88PlC9XtoVpD"
       },
@@ -12226,6 +12244,28 @@
       "duration_ms": 219595,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
+    },
+    {
+      "album": {
+        "name": "Missy",
+        "url": "https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        },
+        {
+          "name": "tormentatropica",
+          "url": "https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122149,
+      "name": "Missy",
+      "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
     },
     {
       "album": {
@@ -14981,6 +15021,40 @@
     },
     {
       "album": {
+        "name": "Row, Row",
+        "url": "https://open.spotify.com/album/3SvxOiQQqWMbgbzEXRflvV"
+      },
+      "artists": [
+        {
+          "name": "Catskill Mountain Rescue Club",
+          "url": "https://open.spotify.com/artist/0D4EUlL2tcrfa8PDYb279b"
+        },
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        },
+        {
+          "name": "Barely Trev",
+          "url": "https://open.spotify.com/artist/01mUEpopaowW47Ra1nz55w"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Molly McPhaul",
+          "url": "https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174861,
+      "name": "Row, Row",
+      "url": "https://open.spotify.com/track/6pluR4e5cY2nUgp1aCNIhl"
+    },
+    {
+      "album": {
         "name": "color theory (selected demos)",
         "url": "https://open.spotify.com/album/6y6oq3lXDAHENr5ChHQlBW"
       },
@@ -17635,6 +17709,28 @@
     },
     {
       "album": {
+        "name": "Tell Me About It",
+        "url": "https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        },
+        {
+          "name": "Dottie",
+          "url": "https://open.spotify.com/artist/0RjSIF8OgSCEcz0iYPDZaI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Tell Me About It",
+      "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"
+    },
+    {
+      "album": {
         "name": "Tesla",
         "url": "https://open.spotify.com/album/3XfJy3aZxGNDFyiaDUGWPe"
       },
@@ -19114,7 +19210,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 180422,
       "name": "underneath",
       "url": "https://open.spotify.com/track/1gkAHeSzB8nVjA8baciVUQ"
@@ -19504,6 +19600,24 @@
       "duration_ms": 255875,
       "name": "void",
       "url": "https://open.spotify.com/track/71CABiTtVWO3eSXTXJRRYz"
+    },
+    {
+      "album": {
+        "name": "Wake to flowers",
+        "url": "https://open.spotify.com/album/76z55NJfoHhOLNSr2kpF8M"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178327,
+      "name": "Wake to flowers",
+      "url": "https://open.spotify.com/track/5rA5NU8FxazgSkXNmMN3KT"
     },
     {
       "album": {
@@ -20034,6 +20148,24 @@
       "duration_ms": 195526,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD"
+    },
+    {
+      "album": {
+        "name": "White Ribbons",
+        "url": "https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264698,
+      "name": "White Ribbons",
+      "url": "https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k"
     },
     {
       "album": {

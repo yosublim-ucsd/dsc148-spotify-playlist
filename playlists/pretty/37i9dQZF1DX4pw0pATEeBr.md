@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder, con un takeover por Faruz Feet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,920 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,987 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 56 | [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 |
 | 57 | [Why We Thugs](https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Laugh Now, Cry Later](https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj) | 3:44 |
 | 58 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 |
-| 59 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 |
-| 60 | [Esta Vida Me Encanta \(feat\. Zimple & Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 5:09 |
+| 59 | [Esta Vida Me Encanta \(feat\. Zimple & Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 5:09 |
+| 60 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 |
 
-Snapshot ID: `MCw4ZWEwYjYyNjJlN2E4MjM2ODE3MjQ0NDBiMDM5OWVhMmU4ZjEwMWQw`
+Snapshot ID: `MCw2OWZmMThkMDUzY2Q0ODc2YmNkMDA0YzNlOWQwNjg0ZDQ0ZTlhY2Zm`

@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: Dom Dolla
 
-323 songs - 17 hr 27 min
+325 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Murder on My Mind](https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [I AM YOU](https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW) | 4:28 | 2023-06-21 | 2023-09-02 |
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-01 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-27 | 2023-12-05 |
+| [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-11 |  |
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2023-12-15 |  |
 | [Neon Cowgirl](https://open.spotify.com/track/4ktoN9vInbzJXXaSSlngng) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:30 | 2023-09-15 | 2023-10-27 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 | 2023-06-26 | 2023-07-28 |
@@ -329,6 +330,7 @@
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-15 | 2023-07-19 |
 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-11-17 |  |
 | [Won One](https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:41 | 2023-11-03 | 2024-01-12 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 |  |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-12-01 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,813 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,800 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 5 | [GET OUT](https://open.spotify.com/track/4kpeyeHAJmeld5UwYhabPR) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [GET OUT](https://open.spotify.com/album/1s6tU07H5qg8ipEQIGIEs9) | 1:54 |
 | 6 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 2:48 |
 | 7 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 |
-| 8 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 |
-| 9 | [I Can Be Your Man](https://open.spotify.com/track/7fyn3XMmB6uxFpMF1DuwoE) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Bobbie](https://open.spotify.com/album/4TIk4RTumnh1BkDboVbUAd) | 3:36 |
-| 10 | [Good Company](https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Good Company](https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5) | 3:56 |
-| 11 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 12 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
+| 8 | [I Can Be Your Man](https://open.spotify.com/track/7fyn3XMmB6uxFpMF1DuwoE) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Bobbie](https://open.spotify.com/album/4TIk4RTumnh1BkDboVbUAd) | 3:36 |
+| 9 | [Good Company](https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Good Company](https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5) | 3:56 |
+| 10 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
+| 11 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
+| 12 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 |
 | 13 | [Landscape](https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 2:40 |
 | 14 | [Dark Imagination](https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 2:59 |
 | 15 | [Caught in the Moment](https://open.spotify.com/track/5rG3DY9m1qxdr3jYSgPlJF) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Caught in the Moment](https://open.spotify.com/album/30UswNsDzEdhRmYM9rZBJJ) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
 | 60 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 |
 
-Snapshot ID: `MCwwN2MxN2NkZjJjYTRkMjk5NDE1MDE3NzUyYjhmZDliODZkZjQyZDdl`
+Snapshot ID: `MCw4Y2ZjNzNiMTZjNzA2OTQ1MTEwNjA5NjcwNzU3MzNkYmYzMjE3NTQ2`

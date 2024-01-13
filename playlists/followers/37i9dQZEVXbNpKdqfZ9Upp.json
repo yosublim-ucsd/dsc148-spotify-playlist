@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 8323,
+  "2024-01-13": 8312,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -2801,7 +2801,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 165963,
       "name": "Bad Boy! - feat. Kenia OS",
       "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
@@ -3907,7 +3907,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 162649,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
@@ -5153,7 +5153,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 190706,
       "name": "Casi Completa",
       "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
@@ -5517,7 +5517,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 226324,
       "name": "Chipi Chipi Chapa Chapa",
       "url": "https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5"
@@ -8522,6 +8522,24 @@
     },
     {
       "album": {
+        "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
+        "url": "https://open.spotify.com/album/4nmIEe2NyoIJ5mxlDMcTCo"
+      },
+      "artists": [
+        {
+          "name": "Christell",
+          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226103,
+      "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
+      "url": "https://open.spotify.com/track/0O3ow3j5y8q3ykRs2K2n1b"
+    },
+    {
+      "album": {
         "name": "the rainbow cassette",
         "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
       },
@@ -9531,7 +9549,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
@@ -10499,7 +10517,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 287248,
       "name": "fantasmas",
       "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
@@ -16446,6 +16464,24 @@
     },
     {
       "album": {
+        "name": "Luces Tenues",
+        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190967,
+      "name": "Luces Tenues",
+      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
+    },
+    {
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
       },
@@ -20125,7 +20161,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
@@ -23821,7 +23857,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 240047,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
@@ -24255,7 +24291,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 159170,
       "name": "Reggaeton Champagne",
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
@@ -29491,7 +29527,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"

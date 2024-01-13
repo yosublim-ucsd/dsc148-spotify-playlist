@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2094465,
+  "num_followers": 2088664,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDVhZmI5N2JlZjIzYjYwZDllNGRjMWFkMWRiNjYwZDM5NmZmN2Y1",
+  "snapshot_id": "MCxlNTVmYjg0YTY2MjBjZDcyMzA2NjE1NjBmMThiZGY1YThmZWVhZjE5",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Keep 'Em on They Toes",
-        "url": "https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Keep 'Em on They Toes",
-      "url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Keep 'Em on They Toes",
+        "url": "https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Keep 'Em on They Toes",
+      "url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Real Estate",
-      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -919,6 +919,22 @@
       "duration_ms": 185250,
       "name": "Tongue Tied - Acoustic",
       "url": "https://open.spotify.com/track/3yeZlcYkmkevkPR8mDmG8E"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "On the Other Side",
-        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 248160,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Ana\u00efs Mitchell",
         "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "The Third Gleam",
-        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/1oqnATF6AFH93dCBrDqBTP"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "The Third Gleam",
+        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+      "duration_ms": 233333,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/1oqnATF6AFH93dCBrDqBTP"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 264452,
       "name": "Motion Sickness (Demo - Bonus Track)",
       "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 178840,
       "name": "Angela (Single Version)",
       "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Colder Heavens - EP",
-        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 241240,
       "name": "Great Divide",
       "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Only The Strong",
-      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2627,18 +2627,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2023-09-29 04:00:00",

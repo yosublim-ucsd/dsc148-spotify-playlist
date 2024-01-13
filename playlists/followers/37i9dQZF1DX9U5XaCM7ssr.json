@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 1114349,
+  "2024-01-13": 1111341,
   "date_first_scraped": "2022-12-15",
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
   "name": "Generasi Galau",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 257142,
       "name": "Abadi - Indo Version",
       "url": "https://open.spotify.com/track/6F1k53k4zbTYUHjmBR8ZYn"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 300512,
       "name": "Kangen",
       "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
@@ -845,6 +845,24 @@
       "duration_ms": 234546,
       "name": "Karena Kamu",
       "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
+    },
+    {
+      "album": {
+        "name": "Kasar",
+        "url": "https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9"
+      },
+      "artists": [
+        {
+          "name": "Syarla",
+          "url": "https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229718,
+      "name": "Kasar",
+      "url": "https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7"
     },
     {
       "album": {
@@ -1899,6 +1917,24 @@
       "duration_ms": 291466,
       "name": "Tak Berbentuk Lagi",
       "url": "https://open.spotify.com/track/10QipRDzrgUkg91QROOxFK"
+    },
+    {
+      "album": {
+        "name": "Tak Berharap Lagi",
+        "url": "https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237769,
+      "name": "Tak Berharap Lagi",
+      "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"
     },
     {
       "album": {

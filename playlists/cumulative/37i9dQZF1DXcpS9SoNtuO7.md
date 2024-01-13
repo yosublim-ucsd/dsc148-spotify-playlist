@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-471 songs - 1 day 10 hr 14 min
+472 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Prism](https://open.spotify.com/track/5ggbyc7gxcHGfD3HW21A99) | [Wataru Ikusabe & Toraou \(Mayumi Tanaka & Kazue Ikura\)](https://open.spotify.com/artist/1MhpunzE2OuLSTMD68M17O) | [Prism](https://open.spotify.com/album/1eYCE4Uf7E6FEoxnxz2Ptn) | 3:58 | 2022-10-12 | 2023-01-12 |
 | [Q&A リサイタル!](https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:49 | 2022-06-22 | 2023-01-12 |
 | [Q\-vism](https://open.spotify.com/track/7MuOSVDTgILDaWQmR4iLWo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [wyxt.](https://open.spotify.com/album/62uq5JHze5hCeXhlWkBY1h) | 3:00 | 2023-01-29 | 2023-07-12 |
-| [Re\-sublimity](https://open.spotify.com/track/5ZBVGPIBgqjfJmzsd0IyP7) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [Re\-sublimity](https://open.spotify.com/album/2kLMoZ0wM01Xwn7tToW4JR) | 5:19 | 2022-06-07 |  |
+| [Re\-sublimity](https://open.spotify.com/track/5ZBVGPIBgqjfJmzsd0IyP7) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [Re\-sublimity](https://open.spotify.com/album/2kLMoZ0wM01Xwn7tToW4JR) | 5:19 | 2022-06-07 | 2024-01-13 |
+| [Re\-sublimity](https://open.spotify.com/track/5h54WAcpFXsHPY6xB2GnYw) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [Re\-sublimity](https://open.spotify.com/album/49wUidV9TjiKB7IXLqhe3t) | 5:19 | 2023-12-13 |  |
 | [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 | 2023-01-24 | 2023-07-12 |
 | [Reason](https://open.spotify.com/track/6NHwaWtSIQTZKP4ki1riR1) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Make Progress](https://open.spotify.com/album/2MxDcdAxU2FkEJoHNEmPw9) | 4:50 | 2022-07-19 | 2023-01-12 |
 | [RECONNECTION](https://open.spotify.com/track/443HQtfWncB04hs3wuKD01) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/7I1WR1fKmdIFkykMVDGTpA) | 3:42 | 2023-01-24 | 2023-07-12 |

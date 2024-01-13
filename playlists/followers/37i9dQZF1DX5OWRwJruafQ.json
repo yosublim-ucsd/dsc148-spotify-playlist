@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 76277,
+  "2024-01-13": 76313,
   "date_first_scraped": "2023-03-30",
   "description": "Keep it Punjabi, Keep it Real. Cover: Sukha",
   "name": "Ghaint Flow",
@@ -207,6 +207,24 @@
       "duration_ms": 186553,
       "name": "32 Bor",
       "url": "https://open.spotify.com/track/2dc0rGPWK6vA29OfIG64dP"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/055Za6Wlf00WEYJefGjgxL"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169677,
+      "name": "33",
+      "url": "https://open.spotify.com/track/7JtCTnYXJvn2tcD5MmEjgQ"
     },
     {
       "album": {
@@ -617,7 +635,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 169791,
       "name": "Bai Bai",
       "url": "https://open.spotify.com/track/2Hb0FPA15GxnAhnLIyDeuh"
@@ -1618,6 +1636,28 @@
     },
     {
       "album": {
+        "name": "Executioner",
+        "url": "https://open.spotify.com/album/2LAQrYQv9hTHbJK2jT8iFZ"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Kahlon",
+          "url": "https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "Executioner",
+      "url": "https://open.spotify.com/track/6qCfjN5FG8PznhZK8BQ1Vn"
+    },
+    {
+      "album": {
         "name": "Expense",
         "url": "https://open.spotify.com/album/1T0Lwamtr3bvYAOIQ4WdW3"
       },
@@ -2077,6 +2117,32 @@
       "duration_ms": 166617,
       "name": "Gang",
       "url": "https://open.spotify.com/track/6JUucJOwksTvrjjnq3yyqQ"
+    },
+    {
+      "album": {
+        "name": "The Plot",
+        "url": "https://open.spotify.com/album/3kcnt7o6VQ5QvCSMhtfuDX"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114534,
+      "name": "Gang Boliyan",
+      "url": "https://open.spotify.com/track/3JzIXwROWkSMEdkrCjFcsI"
     },
     {
       "album": {
@@ -3031,7 +3097,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 139123,
       "name": "Kaleja Lahori",
       "url": "https://open.spotify.com/track/3eykC3sqFyvzs0uieGB7xd"
@@ -3665,7 +3731,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 148965,
       "name": "Muchh (From \"Yaaran Da Rutbaa\")",
       "url": "https://open.spotify.com/track/46BRhYVMvVdqVCnkMxsZvM"

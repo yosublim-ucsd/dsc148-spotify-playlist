@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12444,
+  "num_followers": 12448,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0",
+  "snapshot_id": "MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Am Not Alone",
-        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
-      },
-      "artists": [
-        {
-          "name": "Jack Greene",
-          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "King of Kings",
-      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Find My Joy",
         "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 249081,
       "name": "Something Bigger Than Me",
       "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "I Am Not Alone",
+        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
+      },
+      "artists": [
+        {
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "King of Kings",
+      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
       },
       "artists": [
         {
-          "name": "Wisecarvers",
-          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
         }
       ],
-      "duration_ms": 219867,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
       },
       "artists": [
         {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+          "name": "Wisecarvers",
+          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
         }
       ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
+      "duration_ms": 219867,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
     },
     {
       "added_at": "2023-04-14 06:27:38",

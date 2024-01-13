@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 400238,
+  "num_followers": 399977,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWU5YmExNjIzMWZjYzdiY2FmNmU1YmIwMjg2NGVmNDFiM2UyNGYx",
+  "snapshot_id": "MCwzMGVhZWE1M2YwYTQ4YWFhNDhlOTM1NjQzNzZkOTVkN2ExOTM2Y2Jm",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -299,22 +299,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8"
+        "name": "Vida Encontr\u00e9",
+        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 241072,
-      "name": "Promesas",
-      "url": "https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7"
+      "duration_ms": 215925,
+      "name": "Vida Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -335,18 +331,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Vida Encontr\u00e9",
-        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8"
       },
       "artists": [
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 215925,
-      "name": "Vida Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz"
+      "duration_ms": 241072,
+      "name": "Promesas",
+      "url": "https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Me sostendr\u00e1",
-        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 325198,
-      "name": "Me sostendr\u00e1",
-      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Como En El Cielo (En Vivo)",
         "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
       },
@@ -467,22 +451,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Te Puedo Sentir",
-        "url": "https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "Tu Poeta",
-      "url": "https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Incontenible Es Tu Amor",
         "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 333217,
       "name": "El Gran Yo Soy",
       "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Me sostendr\u00e1",
+        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 325198,
+      "name": "Me sostendr\u00e1",
+      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Te Puedo Sentir",
+        "url": "https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Tu Poeta",
+      "url": "https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV"
     },
     {
       "added_at": "2021-05-21 19:19:27",

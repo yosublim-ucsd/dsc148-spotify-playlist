@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 
 > The indie viral hits you couldn’t escape in 2023\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,181 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,272 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 49 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
 | 50 | [missin something](https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE) | 2:25 |
 
-Snapshot ID: `MCxmZjRiNWMxZWE3OWIzZGJiNjFkYjJjZjViMGZjNTI5NmUwNjk5OWU5`
+Snapshot ID: `MCwwOWVmMjVhMmIzMmE3ZDMzMzIyMjU5ZWEyNWM3YWQxNDllODJmMGNi`

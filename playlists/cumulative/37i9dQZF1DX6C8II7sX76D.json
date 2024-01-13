@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "Ain't No Way 2024",
+        "url": "https://open.spotify.com/album/0hnWRdRsayfrvFEKurtWJD"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "The Riddler",
+          "url": "https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ain't No Way 2024",
+      "url": "https://open.spotify.com/track/4R2lfQVqaPgvqt3gwMcj6I"
+    },
+    {
+      "album": {
         "name": "all I want is you",
         "url": "https://open.spotify.com/album/78zySHGi3bB36rQ8NVGxFt"
       },
@@ -560,7 +582,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
@@ -860,7 +882,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 222000,
       "name": "Dark Beach",
       "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz"
@@ -2164,7 +2186,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 339320,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
@@ -2190,6 +2212,24 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "album": {
@@ -2469,6 +2509,32 @@
     },
     {
       "album": {
+        "name": "Mas Que Nada",
+        "url": "https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127016,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh"
+    },
+    {
+      "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
       },
@@ -2608,7 +2674,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 129543,
       "name": "moment",
       "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
@@ -2772,6 +2838,28 @@
       "duration_ms": 186046,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234909,
+      "name": "Never Be Like You (feat. Kai)",
+      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
       "album": {
@@ -3520,6 +3608,24 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE",
+        "url": "https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178330,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"
     },
     {
       "album": {

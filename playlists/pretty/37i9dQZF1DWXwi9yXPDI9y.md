@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,664 likes - 70 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,870 likes - 70 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 32 | [Blame It On My Youth \- Remastered 1999](https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 4:12 |
 | 33 | [It Had To Be You](https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Great Ladies Of Song / Spotlight On Dinah Shore](https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy) | 3:24 |
 | 34 | [Waiter, Make Mine Blues](https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:20 |
-| 35 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
-| 36 | [Things Ain't What They Used To Be](https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 4:36 |
+| 35 | [Things Ain't What They Used To Be](https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 4:36 |
+| 36 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
 | 37 | [Our Love Is Here To Stay](https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Imperious Dinah Washington](https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK) | 2:34 |
 | 38 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 9:29 |
 | 39 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 58 | [Oh Look At Me Now \- Studio](https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq), [Joe Bushkin](https://open.spotify.com/artist/22vG2wpYZKQvNG7dIajDdK) | [The Total \- Vol\. 1](https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH) | 3:12 |
 | 59 | [When Day Is Done](https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:25 |
 | 60 | [Where Or When](https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 6:11 |
-| 61 | [Diane](https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 7:47 |
-| 62 | [These Foolish Things](https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:24 |
+| 61 | [These Foolish Things](https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:24 |
+| 62 | [Diane](https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 7:47 |
 | 63 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 |
 | 64 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
 | 65 | [Angel Eyes](https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Angel Eyes](https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW) | 8:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 69 | [Gee Baby, Ain't I Good To You \- Remastered/2000](https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B) | [Stanley Turrentine & The Three Sounds](https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F) | [Blue Hour](https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO) | 5:23 |
 | 70 | [Time On My Hands](https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 4:18 |
 
-Snapshot ID: `MCwxOTk1NTdhOGJlMDBlMzEyODI5YjA3Mzk3ZWNiMDZiMDcwOTllZThl`
+Snapshot ID: `MCxhMjliYTZlMTUwNTZkM2IxMGJlZmQzOGQwMTY2ZjZlYWMwZTdhZjk1`

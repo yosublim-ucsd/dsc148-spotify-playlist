@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 537293,
+  "num_followers": 537298,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTBjODVlNTJkNmY2NGY3ZTI0ZTQ0NGZiNGVkZmYxNGMzMDYwMWU5",
+  "snapshot_id": "MCxhYjM4YTM2NGY5MTc5YmMzMTc2MjBiZjE5MWMzMGNjN2YxOThjMjM1",
   "tracks": [
     {
       "added_at": "2024-01-04 03:38:43",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 164693,
       "name": "Praising You (feat. Fatboy Slim)",
       "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 164490,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 215734,
-      "name": "Bad Omens",
-      "url": "https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "I'm So Good At Being Alone?",
         "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2327,18 +2327,22 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 177879,
-      "name": "Me Myself & I",
-      "url": "https://open.spotify.com/track/7JJshKQ0Wlu6bZwqamulCE"
+      "duration_ms": 152990,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2363,26 +2367,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 152990,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 150314,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 177879,
+      "name": "Me Myself & I",
+      "url": "https://open.spotify.com/track/7JJshKQ0Wlu6bZwqamulCE"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184004,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 193923,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2787,6 +2787,22 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "ROOM FOR 2",
+        "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "ROOM FOR 2",
+      "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
@@ -2819,22 +2835,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "ROOM FOR 2",
-        "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "ROOM FOR 2",
-      "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "Sweet Goodbye",
         "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
       },
@@ -2847,26 +2847,6 @@
       "duration_ms": 157619,
       "name": "Sweet Goodbye",
       "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "sick of myself",
-        "url": "https://open.spotify.com/album/20OOBBJM61941fgjyk4e4b"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 141919,
-      "name": "sick of myself",
-      "url": "https://open.spotify.com/track/0uNcqssd2jsd9zhZhgLl0o"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2895,18 +2875,22 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "SunKissing",
-        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
+        "name": "sick of myself",
+        "url": "https://open.spotify.com/album/20OOBBJM61941fgjyk4e4b"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 177253,
-      "name": "SunKissing",
-      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
+      "duration_ms": 141919,
+      "name": "sick of myself",
+      "url": "https://open.spotify.com/track/0uNcqssd2jsd9zhZhgLl0o"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2927,42 +2911,18 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+        "name": "SunKissing",
+        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
         }
       ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "AM:PM",
-        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "AM:PM",
-      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
+      "duration_ms": 177253,
+      "name": "SunKissing",
+      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2987,6 +2947,26 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "AM:PM",
+        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "AM:PM",
+      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "Head on Fire",
         "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
       },
@@ -3003,6 +2983,26 @@
       "duration_ms": 188645,
       "name": "Head on Fire",
       "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -3143,22 +3143,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "Sorry I\u2019m Late",
-        "url": "https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI"
-      },
-      "artists": [
-        {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "I Wrote A Song",
-      "url": "https://open.spotify.com/track/4pgvkzREry5fLOKbkr0Z0W"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "Don't Forget My Love",
         "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "Sorry I\u2019m Late",
+        "url": "https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "I Wrote A Song",
+      "url": "https://open.spotify.com/track/4pgvkzREry5fLOKbkr0Z0W"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "2ND FULL ALBUM 'REBOOT'",
-        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 212901,
-      "name": "BONA BONA",
-      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "feelings",
         "url": "https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 140598,
       "name": "feelings",
       "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "2ND FULL ALBUM 'REBOOT'",
+        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 212901,
+      "name": "BONA BONA",
+      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
     },
     {
       "added_at": "2024-01-04 03:38:43",

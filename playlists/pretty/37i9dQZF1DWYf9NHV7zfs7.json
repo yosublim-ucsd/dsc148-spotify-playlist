@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 25347,
+  "num_followers": 25433,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWIxZmQwYzc4MmE5ZTE0YjcxMjNiMjU3ZjE4ZTRkNTVkNzE5MjMz",
+  "snapshot_id": "MCxkM2M5OTVmMjEyYTk2MTMzMzAzMTE4ZWMzMWEzMzZkYzc0NmFkMjcy",
   "tracks": [
     {
       "added_at": "2023-12-22 23:50:38",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Desde el Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "Todo el D\u00eda As\u00ed",
         "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 215492,
       "name": "Todo el D\u00eda As\u00ed",
       "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "Desde el Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Me Diste la Espalda",
-        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202492,
-      "name": "Me Diste la Espalda",
-      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
@@ -839,6 +823,26 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 208790,
+      "name": "Llamame",
+      "url": "https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -859,22 +863,18 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 208790,
-      "name": "Llamame",
-      "url": "https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN"
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
+        "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
+        "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 211327,
+      "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
+      "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
         "name": "Gamba - Los Retro",
         "url": "https://open.spotify.com/album/2Y8xORMOnz6pfEr1yrjmjx"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) [Vivo]",
       "url": "https://open.spotify.com/track/5R0lYQFdOTYaX3K2QUkaOI"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
-        "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
-        "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 211327,
-      "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
-      "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Ortega",
-          "url": "https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg"
-        }
-      ],
-      "duration_ms": 231893,
-      "name": "A Escondidas",
-      "url": "https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "100PRE",
         "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 205511,
       "name": "100PRE",
       "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Ortega",
+          "url": "https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg"
+        }
+      ],
+      "duration_ms": 231893,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1351,6 +1351,22 @@
       "duration_ms": 205053,
       "name": "Maldita Noche",
       "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/3tr4SE2fnqTKJbMu6sqv4d"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "duration_ms": 158532,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/4PWsb8BokVShAlA3C2o77e"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/3tr4SE2fnqTKJbMu6sqv4d"
+        "name": "Hundi\u00e9ndome",
+        "url": "https://open.spotify.com/album/6ihedWm8dGuWpfjLE7Wdst"
       },
       "artists": [
         {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+          "name": "Le\u00f3n Cordero",
+          "url": "https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh"
         }
       ],
-      "duration_ms": 158532,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/4PWsb8BokVShAlA3C2o77e"
+      "duration_ms": 157200,
+      "name": "Hundi\u00e9ndome",
+      "url": "https://open.spotify.com/track/5fw4kQKeuCeNMWA047XMoC"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1439,22 +1455,6 @@
       "duration_ms": 147038,
       "name": "El Nuevo Amor",
       "url": "https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
-        "name": "Hundi\u00e9ndome",
-        "url": "https://open.spotify.com/album/6ihedWm8dGuWpfjLE7Wdst"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Cordero",
-          "url": "https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Hundi\u00e9ndome",
-      "url": "https://open.spotify.com/track/5fw4kQKeuCeNMWA047XMoC"
     },
     {
       "added_at": "2023-12-22 23:50:38",

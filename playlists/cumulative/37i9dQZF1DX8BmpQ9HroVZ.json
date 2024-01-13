@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Jurmana",
+        "url": "https://open.spotify.com/album/1LaWqK7YRtxm9ecqEne6Fj"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Jurmana",
+      "url": "https://open.spotify.com/track/76pWGIqdI2d7X4MmoUT4L5"
+    },
+    {
+      "album": {
         "name": "Kab Tak",
         "url": "https://open.spotify.com/album/7bXlnUUgJnn1ETCgMSr8vs"
       },
@@ -2582,6 +2600,28 @@
       "duration_ms": 209032,
       "name": "Kamlee",
       "url": "https://open.spotify.com/track/7xpZ1artTVaHabv93yK77N"
+    },
+    {
+      "album": {
+        "name": "Kamli",
+        "url": "https://open.spotify.com/album/0irYPh3IIAEZV9PcB34FAr"
+      },
+      "artists": [
+        {
+          "name": "Falak Shabbir",
+          "url": "https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM"
+        },
+        {
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199565,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/1bRD5thowBEHe6I4LAf61Z"
     },
     {
       "album": {
@@ -4554,6 +4594,28 @@
       "duration_ms": 229937,
       "name": "SEXY NUKIM (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
+    },
+    {
+      "album": {
+        "name": "Shatir",
+        "url": "https://open.spotify.com/album/35q2tgzbNljiOc5mpoepke"
+      },
+      "artists": [
+        {
+          "name": "Adnan Dhool",
+          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
+        },
+        {
+          "name": "Zahid Jaggi",
+          "url": "https://open.spotify.com/artist/56cO7nXqr5US1gvzghPUiZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160606,
+      "name": "Shatir",
+      "url": "https://open.spotify.com/track/5yuTexOifpmPst6HKSZP3x"
     },
     {
       "album": {

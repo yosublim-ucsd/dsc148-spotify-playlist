@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,559 likes - 57 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,602 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 56 | [Reunion](https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:39 |
 | 57 | [Discovering River](https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 1:11 |
 
-Snapshot ID: `MCxhNDI5M2FlOTc5N2M5ODJkM2Q0ZTQ5YjljZmI2Y2I2NGRlMTlmOGYw`
+Snapshot ID: `MCw5OGFhNDhmYWE3NmM1ZDg1NWU2YTUyNTQ4ODA0ODA0MjQ4MzJlMGI1`

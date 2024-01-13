@@ -1,12 +1,12 @@
 {
   "description": "Tight Roll your jeans, break out the CK1, and set the mood...",
-  "num_followers": 3519025,
+  "num_followers": 3516060,
   "original_name": "90s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWUzZTRhNjU2MWM5OTgzYjk2Y2IyMWE5NjE2ZTBkMGRmMjVhMTQ3",
+  "snapshot_id": "MCw0ODRkODRkYTVmYzIzYWRjYzM3NTU0OWZlYmFjNGU4ZDRiNGI4OTY2",
   "tracks": [
     {
       "added_at": "2023-04-08 16:46:40",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-04-08 16:46:40",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2023-04-08 16:46:40",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "added_at": "2023-04-08 16:46:40",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2023-04-08 16:46:40",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-04-08 16:46:40",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2023-04-08 16:46:40",
-      "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 298760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2023-04-08 16:46:40",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 258133,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
     },
     {
       "added_at": "2023-04-08 16:46:40",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-04-08 16:46:40",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 258133,
-      "name": "Always Be My Baby",
-      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2023-04-08 16:46:40",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-04-08 16:46:40",
       "album": {
-        "name": "Picture This (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
+        "name": "Tamia",
+        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
       },
       "artists": [
         {
-          "name": "Wet Wet Wet",
-          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
         }
       ],
-      "duration_ms": 246240,
-      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
-      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
+      "duration_ms": 261866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
     },
     {
       "added_at": "2023-04-08 16:46:40",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-04-08 16:46:40",
       "album": {
-        "name": "Tamia",
-        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
+        "name": "Picture This (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
       },
       "artists": [
         {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
         }
       ],
-      "duration_ms": 261866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
+      "duration_ms": 246240,
+      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
+      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
     },
     {
       "added_at": "2023-04-08 16:46:40",

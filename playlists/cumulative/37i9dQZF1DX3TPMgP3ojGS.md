@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,795 songs - 3 day 8 hr 23 min
+1,796 songs - 3 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-02-09 | 2022-12-24 |
 | [Arabesca](https://open.spotify.com/track/2fnmga0QCLLsPW8Es5o29r) | [Neal Robinett](https://open.spotify.com/artist/0oHaKHnMtcLtrBkqZhb2sX) | [Arabesca](https://open.spotify.com/album/3PPAPtSQVgEtl06ev5gUea) | 3:14 | 2021-05-25 | 2022-03-18 |
 | [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-03-29 | 2022-04-03 |
+| [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 | 2024-01-11 |  |
 | [Archipelago Dreams](https://open.spotify.com/track/0tWJSrOeixKQQcYEws7HTF) | [Halcyon Fields](https://open.spotify.com/artist/7xaDRbKDpOyZnL91F1ki3E) | [Waves Of Hope](https://open.spotify.com/album/1sZDGmD13RMH6acZ2Ix2hO) | 2:36 | 2021-05-26 | 2022-04-20 |
 | [Arctic Future](https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Arctic Future](https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP) | 3:22 | 2021-05-05 | 2022-04-15 |
 | [Arctic Tern](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Arctic Tern](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 2:24 | 2021-04-22 | 2022-04-21 |
@@ -1017,7 +1018,7 @@
 | [Moving Towards Fine](https://open.spotify.com/track/2apnPHVAbn0ny2K8RowbpN) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 3:14 | 2021-03-23 | 2022-07-29 |
 | [Mrs\. Smith](https://open.spotify.com/track/5smg7I3dlFezDBYjLY2f0S) | [Rebour](https://open.spotify.com/artist/07AOkfzIUWrlyGI6HuvwYn) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 1:47 | 2021-05-06 | 2021-05-16 |
 | [Mullaghmore](https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Mullaghmore](https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr) | 2:02 | 2022-12-22 | 2023-04-16 |
-| [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 | 2023-05-30 |  |
+| [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 | 2023-05-30 | 2024-01-13 |
 | [Muse Of History](https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Muse Of History](https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi) | 2:21 | 2023-10-10 |  |
 | [Musicbox](https://open.spotify.com/track/0pmeTXglx0EPPjp9deog17) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [Musicbox](https://open.spotify.com/album/0NXyGcvwGuSZ18knQPmhtR) | 2:28 | 2021-05-12 | 2022-04-02 |
 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 | 2022-07-27 | 2022-12-24 |

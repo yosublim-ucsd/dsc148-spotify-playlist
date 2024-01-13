@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165799,
+      "name": "Bitter Sweet Love",
+      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
+    },
+    {
+      "album": {
         "name": "Blindside",
         "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
       },

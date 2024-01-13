@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,812 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,819 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 36 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 37 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
 | 38 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
-| 39 | [Duas Três](https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Adriano Rhod](https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF) | [Duas Três](https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr) | 2:36 |
-| 40 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 |
+| 39 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 |
+| 40 | [Duas Três](https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Adriano Rhod](https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF) | [Duas Três](https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr) | 2:36 |
 | 41 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 42 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 43 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 85 | [Tipo Gin \- Ao Vivo](https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Todo Mundo Ama O Chris \(Ao Vivo\)](https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX) | 2:39 |
 | 86 | [ACORDA PEDRINHO](https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Acorda, Pedrinho](https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj) | 2:53 |
 | 87 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
-| 88 | [Te Amo](https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE) | 4:18 |
-| 89 | [Tudo Me Lembra Você](https://open.spotify.com/track/3PdwCmtzejJgjjLOEnbSEB) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Me Lembra Você](https://open.spotify.com/album/1H9PZCaC6HZqMlu6dGqSh8) | 2:56 |
+| 88 | [Tudo Me Lembra Você](https://open.spotify.com/track/3PdwCmtzejJgjjLOEnbSEB) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Me Lembra Você](https://open.spotify.com/album/1H9PZCaC6HZqMlu6dGqSh8) | 2:56 |
+| 89 | [Te Amo](https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE) | 4:18 |
 | 90 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 |
 | 91 | [Socadona](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 |
 | 92 | [Minha Terra](https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Minha Terra](https://open.spotify.com/album/05rD9jNxOYPOIZu6cNPdL3) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Bebé](https://open.spotify.com/track/2elwWMHTuAEiPwG9IWg5dP) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Bebé](https://open.spotify.com/album/4e7N0a611cO24FwRxD0Rdp) | 2:32 |
 | 100 | [Cê Não Tem Noção](https://open.spotify.com/track/0iDNkj4n9xuU7SwfKSd4f2) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Cê Não Tem Noção](https://open.spotify.com/album/6E8YCf91O1AaKIh0B1MlL0) | 2:39 |
 
-Snapshot ID: `MCw0ZmYxODMzMzMwMjRiYmZhYzllN2I3YjYwODY0NjZjNzhiZDRlZTc2`
+Snapshot ID: `MCw3MTZiM2QwMGM4NjFmNWU3YTI3NDE1YzgxY2FkNzcwMDAxZDc3NGFm`

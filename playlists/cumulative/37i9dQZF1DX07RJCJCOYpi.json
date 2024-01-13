@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Beso (Fruta Fresca)",
+        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197694,
+      "name": "Beso (Fruta Fresca)",
+      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
+    },
+    {
+      "album": {
         "name": "Beso De Tres",
         "url": "https://open.spotify.com/album/7emW1NQUpXMuFCcLcr9sNd"
       },
@@ -6172,6 +6194,28 @@
       "duration_ms": 143253,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
+    },
+    {
+      "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "album": {

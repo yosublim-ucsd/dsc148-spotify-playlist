@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,990 likes - 542 songs - 1 day 8 hr 33 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 19,001 likes - 542 songs - 1 day 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -373,7 +373,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 363 | [Postmeridie](https://open.spotify.com/track/2ye6s1u1Xmpam9rpyfIgTa) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:40 |
 | 364 | [Beautiful Ruin](https://open.spotify.com/track/1jV6opARpGcgs6jU4TnOvA) | [Masafumi Takada](https://open.spotify.com/artist/6u08wRMmY0Myz8HaNbIOQb) | [Danganronpa 2: Goodbye Despair Original Soundtrack](https://open.spotify.com/album/5aZnHNph7U5FLfIO4ZCz3l) | 4:35 |
 | 365 | [Play with Me](https://open.spotify.com/track/6PJAceJ56Xb1Sb3yvxSeac) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 2:53 |
-| 366 | [Cycle](https://open.spotify.com/track/3RARzJMPBwAEHM5As1Ehgx) | [阿保 剛](https://open.spotify.com/artist/5bFP2SJgMM1Yc50OKmVP8q) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 2:34 |
+| 366 | [Cycle](https://open.spotify.com/track/3RARzJMPBwAEHM5As1Ehgx) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 2:34 |
 | 367 | [Daijoubu!](https://open.spotify.com/track/0atKWWdgtBZVjtxmzuZKxG) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 3:05 |
 | 368 | [apathy](https://open.spotify.com/track/6OEziv0eVJr2wRIlz7970M) | [zts](https://open.spotify.com/artist/3YIQSdcvL9Wy0esjnpGML0) | [うみねこのなく頃に musicbox Red\(disc b\)](https://open.spotify.com/album/2PH9On9xCA42JSYzkJvI2X) | 4:18 |
 | 369 | [Super Speed POP☆STAR](https://open.spotify.com/track/3vUHpl8Ca0beHjI7bYXC6D) | [Sonic Coaster Pop](https://open.spotify.com/artist/1l1BVhPgypqQWWTyfy8qDt) | [SUPER MIRACLE CIRCUIT](https://open.spotify.com/album/6WtmfQ1GtFlXAhKpNrWoTe) | 3:49 |

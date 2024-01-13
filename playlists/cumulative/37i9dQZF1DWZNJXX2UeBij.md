@@ -2,7 +2,7 @@
 
 ### [All Out 00's Hindi](https://open.spotify.com/playlist/37i9dQZF1DWZNJXX2UeBij)
 
-> Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Jab We Met
+> Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Ajab Prem Ki Ghazab Kahani
 
 287 songs - 1 day 1 hr 33 min
 

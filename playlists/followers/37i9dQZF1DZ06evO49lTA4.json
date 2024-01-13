@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 734686,
+  "2024-01-13": 734861,
   "date_first_scraped": "2023-09-22",
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
   "name": "This Is Luke Combs",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 186733,
       "name": "Beer Never Broke My Heart",
       "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 223320,
       "name": "Does To Me (feat. Eric Church)",
       "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 183160,
       "name": "She Got the Best of Me",
       "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"

@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-125 songs - 7 hr 46 min
+126 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,13 +109,14 @@
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-21 | 2022-03-18 |
 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 | 2022-01-07 |  |
 | [Strangers](https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Strangers](https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit) | 3:40 | 2022-01-07 | 2022-07-29 |
+| [Strangers](https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:40 | 2023-03-10 |  |
 | [Strangers](https://open.spotify.com/track/62sQ7kCpCSD2YdJ5CZ9RrM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans \(Deluxe\)](https://open.spotify.com/album/6btrtJOSwgx00BgBsC4T16) | 3:40 | 2022-07-29 | 2022-11-13 |
 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 | 2022-03-18 | 2024-01-12 |
 | [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 | 2022-01-07 | 2023-04-20 |
 | [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 | 2023-03-10 |  |
 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:25 | 2022-01-21 | 2022-03-18 |
 | [Tainted Love](https://open.spotify.com/track/1wAPbQ5XjbZqPl0WDl5mHH) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:59 | 2022-01-07 |  |
-| [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-01-21 |  |
+| [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-01-21 | 2024-01-13 |
 | [Tears at Bae](https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/0nVGuICcGzCEm3A3psO84B) | 3:22 | 2022-03-18 | 2022-07-29 |
 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 | 2022-03-18 |  |
 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 | 2022-03-18 |  |

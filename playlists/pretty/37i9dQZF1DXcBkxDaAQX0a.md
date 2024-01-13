@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,040 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,994 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 34 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
 | 35 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 |
 | 36 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
-| 37 | [Novocaine](https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Chasing Lonely](https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ) | 3:08 |
-| 38 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
+| 37 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
+| 38 | [Novocaine](https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Chasing Lonely](https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ) | 3:08 |
 | 39 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
 | 40 | [Drink To Drown](https://open.spotify.com/track/4oCGjSBibZ4vQDzxcvupBH) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:16 |
 | 41 | [Monsters \- Acoustic \- Live From Lockdown](https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Monsters \(Acoustic \- Live From Lockdown\)](https://open.spotify.com/album/6dP9IbytNzRKcHJZXkjKis) | 3:03 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 53 | [A Decade Under The Influence \- Acoustic](https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 4:12 |
 | 54 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
 | 55 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
-| 56 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 |
-| 57 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 |
-| 58 | [Dear Rose, I'm Haunted](https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t) | [Drawn To The Sky](https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02) | [Dear Rose, I'm Haunted](https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7) | 3:57 |
-| 59 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
+| 56 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 |
+| 57 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 |
+| 58 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
+| 59 | [Dear Rose, I'm Haunted](https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t) | [Drawn To The Sky](https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02) | [Dear Rose, I'm Haunted](https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7) | 3:57 |
 | 60 | [Seattle](https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Seattle](https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT) | 3:26 |
 | 61 | [Dakota \(Reimagined\)](https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Reimagined](https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe) | 3:19 |
 | 62 | [Disarm](https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Disarm](https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq) | 3:19 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 67 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
 | 68 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
 | 69 | [In the End](https://open.spotify.com/track/5E6Gb7lBgkbtmK97EAL9OO) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 3:01 |
-| 70 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/5uxbUvPyzIU64kyuKgrKab) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
-| 71 | [Deadlocked \- Acoustic](https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves Acoustic E.P.](https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY) | 3:24 |
+| 70 | [Deadlocked \- Acoustic](https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves Acoustic E.P.](https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY) | 3:24 |
+| 71 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/5uxbUvPyzIU64kyuKgrKab) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
 | 72 | [I'll Be a Mess Without You](https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [I'll Be a Mess Without You](https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z) | 4:37 |
 | 73 | [Hunnie](https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [All Out](https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm) | 3:35 |
 | 74 | [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 |
 | 75 | [The Eulogy of You and Me \- Acoustic](https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me \(Acoustic\)](https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR) | 3:11 |
 
-Snapshot ID: `MCxjMTYwMmMxNzYwY2IyN2IxOTExZWI4ZThmZjM1OWNhYmI2OWViZDc3`
+Snapshot ID: `MCxhZmFlNTJmYTkwMDc3MTg5MzFiY2ZkNGM0Nzg3YTA3OWNjZDczZDVk`

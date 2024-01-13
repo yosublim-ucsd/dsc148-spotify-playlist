@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Tomas Ballardo en portada.",
-  "num_followers": 117485,
+  "num_followers": 117581,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODI1Mjc2NDA3MzZkZTQyMDcyZDZkZjY3ZDc1OTk5ODY2OGI0M2I3",
+  "snapshot_id": "MCxkNTM2OGNlYjIwMTJhZmI2NmEwNTc2YzBhZTJhZDNjYzQ5Zjc1OTA0",
   "tracks": [
     {
       "added_at": "2023-11-10 15:24:01",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-11-10 15:24:01",
       "album": {
+        "name": "VRGCRA",
+        "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "VRGCRA",
+      "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"
+    },
+    {
+      "added_at": "2023-11-10 15:24:01",
+      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 247080,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
-    },
-    {
-      "added_at": "2023-11-10 15:24:01",
-      "album": {
-        "name": "VRGCRA",
-        "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "VRGCRA",
-      "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"
     },
     {
       "added_at": "2023-11-10 15:24:01",

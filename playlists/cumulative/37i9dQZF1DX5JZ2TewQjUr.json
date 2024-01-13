@@ -3665,6 +3665,28 @@
     },
     {
       "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/6RehbNgSMLkcf6k2ifnU9c"
+      },
+      "artists": [
+        {
+          "name": "niko rain",
+          "url": "https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV"
+        },
+        {
+          "name": "j\u00f8no",
+          "url": "https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/5fXo4rlRxbgw8lE0TogTPf"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/0k2Ordg2lCvAQDMGPJA5ho"
       },

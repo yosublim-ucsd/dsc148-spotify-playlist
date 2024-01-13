@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 83826,
+  "num_followers": 83870,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTE1YTQ2NDkwMGE5NzE2NjBjZjQ5NmExZjBjMDBiNDEzYzBjYTIw",
+  "snapshot_id": "MCw5MGNiYTliNjBhMTNhNTQxYWFjOWExNDA1ZjkzYWM1OTI1ZDkxNTc0",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -203,18 +203,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+      "duration_ms": 234909,
+      "name": "Never Be Like You (feat. Kai)",
+      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -251,22 +255,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 234909,
-      "name": "Never Be Like You (feat. Kai)",
-      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+      "duration_ms": 188000,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
     },
     {
       "added_at": "2021-12-13 13:21:36",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "A Song About Being Sad",
-      "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 180413,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "A Song About Being Sad",
+      "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "Silvertongue",
-      "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 243509,
       "name": "Season 2 Episode 3",
       "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "Silvertongue",
+      "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Schmilco",
         "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 175946,
       "name": "If I Ever Was a Child",
       "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Gameshow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Are We Ready? (Wreck)",
-      "url": "https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Is the Is Are",
         "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 226999,
       "name": "Under the Sun",
       "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Gameshow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Are We Ready? (Wreck)",
+      "url": "https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX"
     },
     {
       "added_at": "2021-09-22 14:36:46",

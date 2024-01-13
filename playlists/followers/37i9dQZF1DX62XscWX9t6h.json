@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 168449,
+  "2024-01-13": 168586,
   "date_first_scraped": "2023-08-09",
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
   "name": "Folk Fabrique",
@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 212946,
       "name": "Geeta duniki",
       "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
@@ -913,6 +913,28 @@
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
+    },
+    {
+      "album": {
+        "name": "Could We Be More Remixes",
+        "url": "https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189480,
+      "name": "Home (anaiis Remix)",
+      "url": "https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK"
     },
     {
       "album": {
@@ -1141,7 +1163,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 173793,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg"
@@ -2409,6 +2431,24 @@
       "duration_ms": 209893,
       "name": "W Boru Kalinka",
       "url": "https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN"
+    },
+    {
+      "album": {
+        "name": "Wee Rosebud",
+        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Wee Rosebud",
+      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
     },
     {
       "album": {

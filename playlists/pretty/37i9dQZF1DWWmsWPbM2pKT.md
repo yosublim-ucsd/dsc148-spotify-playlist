@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,296 likes - 110 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,752 likes - 110 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 39 | [Happy](https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
 | 40 | [Roadtrip](https://open.spotify.com/track/4wFE8vB2CyWfTAd5XcMs7M) | [Black Nail Cabaret](https://open.spotify.com/artist/1PT6vR9L8YA8qKymXfAnRl) | [Roadtrip](https://open.spotify.com/album/5z4MOdUTaUvKfVtEleiCDe) | 4:00 |
 | 41 | [Youth Cults](https://open.spotify.com/track/28to6BkzNlG24H6yJOxrJK) | [Traitrs](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Rites and Ritual](https://open.spotify.com/album/4NDIlGZ27FqVY5zxe3tttf) | 2:52 |
-| 42 | [Give Me a Reason](https://open.spotify.com/track/0s1bzOaz2BgIbvYhwGwpmq) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5dfc4xJu4rrdd7oufQu73H) | 4:25 |
+| 42 | [Give Me a Reason](https://open.spotify.com/track/4nTEiPwyWb4TrFewWkmys4) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 4:25 |
 | 43 | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/track/0ocr7Yn9DpnMLXUHUWeCxu) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/album/3k9aqoRFJyUvYEXWE1uyE3) | 3:50 |
 | 44 | [Weak In Your Light](https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:15 |
 | 45 | [Paralyzed](https://open.spotify.com/track/0ECf6YrheBrgqZpnFpuE1r) | [Glaring](https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE) | [Paralyzed](https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0) | 2:25 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 75 | [Heroes](https://open.spotify.com/track/4ymjspgq2OvYoPjOnsztnw) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 4:46 |
 | 76 | [Marian \- Version](https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always Collection](https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh) | 5:43 |
 | 77 | [Sadness Is Rebellion](https://open.spotify.com/track/2nlZXuEOc2jtntW37SBRTT) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [Tomb for Two](https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR) | 3:44 |
-| 78 | [Fate](https://open.spotify.com/track/53Zvj4xbSFKwSJeXjyocHK) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:17 |
+| 78 | [Fate](https://open.spotify.com/track/0TeybZKbODYrRTYMTNkTHb) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/7c844zy9jk6SzVpC57SGZL) | 4:17 |
 | 79 | [Мёртв внутри](https://open.spotify.com/track/50kqsBYacoTWaNUJ7fNEjK) | [Electroforez](https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [505](https://open.spotify.com/album/1Gd5xQXl0i7qN5Zt4u4bIz) | 3:38 |
 | 80 | [A Little Death to Laugh](https://open.spotify.com/track/3YAtxohy6aksWr6uE1xAT0) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Full Cold Moon](https://open.spotify.com/album/4KeTTSYDEjvdOMzudYo82J) | 3:38 |
 | 81 | [A Company](https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Memorabilia](https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY) | 2:58 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 101 | [Two Point Zero](https://open.spotify.com/track/7DWKtErNxf4Wb8BD54lDUQ) | [Cloudland Canyon](https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu) | [Two Point Zero](https://open.spotify.com/album/0YngPsT3JJV3ImRut0Z4vd) | 4:43 |
 | 102 | [Kasvetli Kutlama](https://open.spotify.com/track/1JgTzrrrnh6neqTtvA3F5d) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Kasvetli Kutlama](https://open.spotify.com/album/1ykQIGMWeD6VbVs7fMjSIJ) | 5:06 |
 | 103 | [Nasha](https://open.spotify.com/track/4DRFP1Bz7cgYk1cTUIxfUt) | [Aurat](https://open.spotify.com/artist/4ZiXmGjXlAVQNvqXq5VXx0) | [Poison](https://open.spotify.com/album/0rkapF9dF1GTBoJtOFiTJf) | 2:14 |
-| 104 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 |
+| 104 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/7JTzj9gEIpvjWv9Jc3ph9B) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/1bgHm9Y97Th2cUuWhCJ5ip) | 4:11 |
 | 105 | [No Me Quedo Quieto](https://open.spotify.com/track/5a6CjjQM0CGprOWWrqMi7j) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Cómo Escapar de Nuestra Sombra](https://open.spotify.com/album/33wH7GK3ypW6C9nSpE6HGX) | 3:27 |
 | 106 | [Consciousness](https://open.spotify.com/track/2Np4c8DYpNZMLu7b82r0Es) | [Glaring](https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE) | [Paralyzed](https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0) | 2:45 |
 | 107 | [I Wish I Was You \- Twin Tribes Remix](https://open.spotify.com/track/62ZO1zdoApFON2JrBNi0Js) | [Creux Lies](https://open.spotify.com/artist/4njFqWD04BTvOrYBXuzv6i), [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [I Wish I Was You \(Twin Tribes Remix\)](https://open.spotify.com/album/0MBCszjF6PH5hbB3pnl7Vm) | 3:59 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 109 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 110 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCw4M2JlM2FjN2VkMjQ4MzVmYjZlNGU4ZDMzOTc1NGQzZmY2YTgxZTRi`
+Snapshot ID: `MCxlMDlhYmY2ODQ5OTIxMDQwNjIzMmZiODhmZjlkMWU2ODcxYTk2NTU2`

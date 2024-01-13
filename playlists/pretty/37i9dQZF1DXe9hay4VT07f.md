@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,242 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,215 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 91 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 92 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
 | 93 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
-| 94 | [Tyrant](https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Tyrant](https://open.spotify.com/album/3EwcJh0H2zzd0dONi7YkgG) | 3:37 |
-| 95 | [Paddle Boat](https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [Paddle Boat](https://open.spotify.com/album/7d03vxpgmUv4BtCdtnFjRm) | 2:39 |
+| 94 | [Paddle Boat](https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [Paddle Boat](https://open.spotify.com/album/7d03vxpgmUv4BtCdtnFjRm) | 2:39 |
+| 95 | [Tyrant](https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Tyrant](https://open.spotify.com/album/3EwcJh0H2zzd0dONi7YkgG) | 3:37 |
 | 96 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/6EC5tQ5QBc35eRL06PYcOR) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:45 |
 | 97 | [Calmc](https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Calmc](https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X) | 2:53 |
-| 98 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
-| 99 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 |
+| 98 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 |
+| 99 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
 | 100 | [Gyal Bruk Out](https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva](https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha) | 2:42 |
 
-Snapshot ID: `MCw4NGUzMGEzZDM4MTFjNzU0MjkzYmJhZWJkNDFiOGUyYjYxNjFhOTc2`
+Snapshot ID: `MCwxNmRlMWFiNWU5OGZlMDgyNThjNDdkYjI5MGI0ODZhOGEwNjFmMTg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : LÉA CHURROS
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,533 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,609 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 |
 | 40 | [Vide](https://open.spotify.com/track/6E5FBWSFWLdHCvBQ8AJsFv) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh) | [Vide](https://open.spotify.com/album/5G1hDlDLm8HD5DlDUVxaic) | 2:20 |
 
-Snapshot ID: `MCwzY2Q5YmM1MTRjMTAyMWNkYzBhNjMzYjExZTkwMDQ0ODNhMzM4MmE1`
+Snapshot ID: `MCxjM2U4OWQ1ZWQ0ZmRhM2UxMWI4OGRmZDg1ZjEzY2M0MjhjMGViZWVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,887 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,959 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 16 | [Corazon De Seda \(feat\. Ozuna\)](https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT) | [Klasico](https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Que Gustan](https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s) | 3:06 |
 | 17 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 18 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 |
-| 19 | [Noche Loca](https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:58 |
-| 20 | [Como Mirarte](https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:48 |
+| 19 | [Como Mirarte](https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:48 |
+| 20 | [Noche Loca](https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:58 |
 | 21 | [Me Soltaste](https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:49 |
 | 22 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 |
 | 23 | [Si Pudiera](https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:16 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 46 | [Si No Te Quiere](https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
 | 47 | [He Llorado \(Como Un Niño\)](https://open.spotify.com/track/72iOihHEQp0LA0hZcjfLaA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [The King Is Back \(\#LatinIBIZAte\)](https://open.spotify.com/album/19hfZem3HWzQsPEUlQSKdC) | 3:38 |
 | 48 | [Me Voy Enamorando \- Remix](https://open.spotify.com/track/0SUukeNYkHMk8bxwgGQKJa) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arbise González](https://open.spotify.com/artist/15siq5yPjIUocpME8lz02m) | [Radio Universo](https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1) | 3:35 |
-| 49 | [Curiosidad](https://open.spotify.com/track/4PCVVIrUDldF5r7RXtOB5W) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:40 |
-| 50 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
+| 49 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
+| 50 | [Curiosidad](https://open.spotify.com/track/4PCVVIrUDldF5r7RXtOB5W) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:40 |
 
-Snapshot ID: `MCw2ZWE4NDM1MzE5ZmY5YjEwMTAwNmQzZDYzZjE4NGUzNmJmNzgyMjFl`
+Snapshot ID: `MCxkYmQ3NjFhYTUxZWVmYWI0ZTdjYWU5OWMwMjU5ZDJkMzc0ZmVjZWVl`

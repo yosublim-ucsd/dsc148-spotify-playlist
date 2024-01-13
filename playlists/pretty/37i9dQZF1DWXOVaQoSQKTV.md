@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,673 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,687 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 170 | [How to Quit Smoking](https://open.spotify.com/track/0AXblcXSYCEWPE6c2VzDTw) | [Papercuts](https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn) | [Parallel Universe Blues](https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj) | 3:08 |
 | 171 | [Shape](https://open.spotify.com/track/17FYOmsLKnRgDDkDJCczEY) | [Julia Shapiro](https://open.spotify.com/artist/278GKwKbKXZXFAk1ns0aPR) | [Perfect Version](https://open.spotify.com/album/6LaqDALSZv99aajUEO5G3S) | 4:05 |
 | 172 | [Make No Mistake Misses Blue](https://open.spotify.com/track/1NP6KmyJDjlqiKSqwhaB83) | [Fabian Simon](https://open.spotify.com/artist/0KuVh0KrYlzbPLzGsEfPEU), [The Moon Machine](https://open.spotify.com/artist/14DY8W5wCTsBVaHMLolmvT) | [Make No Mistake Misses Blue](https://open.spotify.com/album/5qYuIWxlSb1bAGr78goWEa) | 4:05 |
-| 173 | [Lost](https://open.spotify.com/track/2ru0OaqYvJS8yXMMsZZWcH) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:29 |
+| 173 | [Lost](https://open.spotify.com/track/1h45FLiZJT9oYjbrHKcHjy) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/7c844zy9jk6SzVpC57SGZL) | 4:29 |
 | 174 | [Steel Birds](https://open.spotify.com/track/2En9hPrl1Z2raU3CeYleUI) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Steel Birds](https://open.spotify.com/album/2gSm64JocQqESwqWSdEnjA) | 3:23 |
 | 175 | [Armed and Dangerous](https://open.spotify.com/track/3nnTHWsNfEsfutPELQHADA) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E) | [Armed and Dangerous](https://open.spotify.com/album/2oCtIujPC7fBd2qNSqvyU7) | 3:24 |
 | 176 | [Confetti](https://open.spotify.com/track/3LazyuEk6gqTiY1xUZQPoX) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Confetti \- Single](https://open.spotify.com/album/6eVtjdXdZRMgL7sZOoD6Y3) | 3:10 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCwyYTFkODdhZDM4MWMxZjc5MzU2ZmJkOGI4OGM4YzEwYzE0YzY5OWMy`
+Snapshot ID: `MCxlYTAzNWNmMzdkNGI4OTgwNzY5MTI4MjEwMTQ4NTkzZTk3OGQ4Zjgx`

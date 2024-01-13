@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 61539,
+  "num_followers": 61604,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTg2ZDI1MTBjNzg0ZjE3NDViNTE3MjI1ZmY4M2IzNTVkZWU3MjQ1",
+  "snapshot_id": "MCxlYTE5M2RjMDFjMzkyYTMxOTFjY2Y2MjhlNzgwMDBlMDQ4NzBkMWE0",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Title Holder",
-      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Lars Frederiksen And The Bastards",
         "url": "https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 166573,
       "name": "To Have And To Have Not",
       "url": "https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Title Holder",
+      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
     },
     {
       "added_at": "2021-04-20 17:48:20",

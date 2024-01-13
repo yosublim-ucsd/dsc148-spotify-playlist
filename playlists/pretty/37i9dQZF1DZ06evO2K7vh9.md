@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,205 likes - 45 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,260 likes - 45 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 16 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
 | 17 | [Fell In Love \(with Ken Carson\)](https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:53 |
 | 18 | [Shots](https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:49 |
-| 19 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
-| 20 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 |
+| 19 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 |
+| 20 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
 | 21 | [TEC](https://open.spotify.com/track/14QI6pBFZ9UtMqze2QdJhm) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:11 |
 | 22 | [Amigo](https://open.spotify.com/track/2BULAwmRpScmZE7YOF07e5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:30 |
 | 23 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 25 | [Yves](https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:17 |
 | 26 | [JETSKI](https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI](https://open.spotify.com/album/0E3nVyJnesYyyr9GQAJqZl) | 2:45 |
 | 27 | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR) | 2:46 |
-| 28 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 |
-| 29 | [Poppin](https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m) | 2:53 |
+| 28 | [Poppin](https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m) | 2:53 |
+| 29 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 |
 | 30 | [Chemistry](https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 |
 | 31 | [Somebody](https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
 | 32 | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ) | 2:31 |
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 42 | [VIRGO](https://open.spotify.com/track/6pq1cvSNT9nuhvRPJ6UPE4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 1:56 |
 | 43 | [Fallin](https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Fallin](https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt) | 2:01 |
 | 44 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
-| 45 | [SHOOTERS](https://open.spotify.com/track/5Pm5aqS8l2fytzhix5Pucu) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:05 |
+| 45 | [CHOPPA SHOOT THE LOUDEST \(with Chief Keef, feat.Trippie Redd\)](https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 4:01 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA4MzIxNGFhOGI1NmIxMjJjYjc4ZTNhNjc1OTFlOGQ2Zg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAxNDZkZTI2OGNjMGU2ODM0NGZkYmIwZGMzNWIwN2E3Zg==`

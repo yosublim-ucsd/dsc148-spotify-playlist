@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Dread MC",
-  "num_followers": 201467,
+  "num_followers": 201479,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzA2NTU1ZDFhYmJmOWZlMjJjYzVlNGE2MGYwMWU4YWU4YjgxMDg0",
+  "snapshot_id": "MCxiMjQxNGUwNmNhYTFhMDdkOTI5MTE3ZDU0ZDgyNjBiMzcwMzUyNjAx",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
-        }
-      ],
-      "duration_ms": 169385,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "This Sound",
         "url": "https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 257390,
       "name": "This Sound",
       "url": "https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 169385,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1371,22 +1371,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Signal / Have You Over (feat. Ruth Royall)",
-        "url": "https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE"
+        "name": "Donny Don",
+        "url": "https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr"
       },
       "artists": [
         {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
         },
         {
-          "name": "Ruth Royall",
-          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+          "name": "DEEPROT",
+          "url": "https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC"
+        },
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm"
         }
       ],
-      "duration_ms": 253181,
-      "name": "Signal (feat. Ruth Royall)",
-      "url": "https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx"
+      "duration_ms": 214545,
+      "name": "Donny Don",
+      "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
     }
   ],
   "unique_name": "Bassline Bangers",

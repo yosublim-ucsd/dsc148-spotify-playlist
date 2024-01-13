@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 38276,
+  "num_followers": 38285,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTg1YzZhZDdmYjc2NTk3NTM1NzZhZjRjMTFkMTQ5YzJjNTY3ZTZj",
+  "snapshot_id": "MCw3NTkwMzJmNmJmNDE5ZGU1OTY5ZDRmZWRhMjk2YjNlODQzNDg5OTU4",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -419,18 +419,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The New Sound of Brazil",
-        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
+        "name": "The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
         }
       ],
-      "duration_ms": 189306,
-      "name": "Manha de Carnaval",
-      "url": "https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht"
+      "duration_ms": 162466,
+      "name": "Rudy, a Message to You",
+      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -451,18 +451,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The Best of Dandy Livingstone",
-        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
+        "name": "The New Sound of Brazil",
+        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
       },
       "artists": [
         {
-          "name": "Dandy Livingstone",
-          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Rudy, a Message to You",
-      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
+      "duration_ms": 189306,
+      "name": "Manha de Carnaval",
+      "url": "https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -819,6 +819,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 200240,
       "name": "O B\u00eabado e a Equilibrista",
       "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Entre Dos Aguas",
-        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 362093,
-      "name": "Entre Dos Aguas",
-      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+        "name": "Buenos Hermanos",
+        "url": "https://open.spotify.com/album/3oPg2VmRHEMdsxeh4pftSb"
       },
       "artists": [
         {
           "name": "Ibrahim Ferrer",
           "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 278640,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7fEJ3BTR7OsNVeTylr3NsL"
+      "duration_ms": 230266,
+      "name": "Boliviana",
+      "url": "https://open.spotify.com/track/0JiclsGP7YAZyBkfDzcfVZ"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Buenos Hermanos",
-        "url": "https://open.spotify.com/album/3oPg2VmRHEMdsxeh4pftSb"
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
       },
       "artists": [
         {
           "name": "Ibrahim Ferrer",
           "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Boliviana",
-      "url": "https://open.spotify.com/track/0JiclsGP7YAZyBkfDzcfVZ"
+      "duration_ms": 278640,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7fEJ3BTR7OsNVeTylr3NsL"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Captain Bacardi",
-      "url": "https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Loose & Juicy",
         "url": "https://open.spotify.com/album/1QrIXVqDiXZzmHLR0woYk7"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 289000,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/7DmExRy2zWKkM9QX8Wy7oM"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Captain Bacardi",
+      "url": "https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Caetano Veloso",
-        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Soy Loco Por Ti Am\u00e9rica - Remastered 2006",
-      "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Latin Piece of Soul",
         "url": "https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 186698,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Caetano Veloso",
+        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Soy Loco Por Ti Am\u00e9rica - Remastered 2006",
+      "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Our Day Will Come",
-      "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The New Sound of Brazil",
         "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 161000,
       "name": "Samba de Orfeu",
       "url": "https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Our Day Will Come",
+      "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
     },
     {
       "added_at": "2021-03-15 16:04:53",

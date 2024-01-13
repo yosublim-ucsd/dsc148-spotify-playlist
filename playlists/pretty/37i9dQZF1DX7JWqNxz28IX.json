@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43606,
+  "num_followers": 43621,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDYxOTM3YmQ5YTY1NDNkZWVlNDc1MmVkYmQzZGJmYTY3ZGYzYzUz",
+  "snapshot_id": "MCw2OGY2OTcxYjkzNjBlNThlYzgyMzUyZTlmYjRlZTQ1M2Q0NjQ0NDk4",
   "tracks": [
     {
       "added_at": "2024-01-11 16:17:43",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Incancellabili",
-        "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Otalay",
-          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
-        }
-      ],
-      "duration_ms": 92398,
-      "name": "Incancellabili",
-      "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "ALESSIA",
         "url": "https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 149538,
       "name": "Miss Guid",
       "url": "https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "Incancellabili",
+        "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Otalay",
+          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
+        }
+      ],
+      "duration_ms": 92398,
+      "name": "Incancellabili",
+      "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Testa e cuore",
-        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
-      },
-      "artists": [
-        {
-          "name": "Incubo",
-          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
-        }
-      ],
-      "duration_ms": 184087,
-      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
-      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "Polmoni",
         "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 123789,
       "name": "Polmoni",
       "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "Testa e cuore",
+        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
+      },
+      "artists": [
+        {
+          "name": "Incubo",
+          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
+        }
+      ],
+      "duration_ms": 184087,
+      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
+      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "La stella pi\u00f9 bella di sempre",
-        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "La stella pi\u00f9 bella di sempre",
-      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "Ci\u00f2 che amo scompare",
         "url": "https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 183642,
       "name": "Ci\u00f2 che amo scompare",
       "url": "https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "La stella pi\u00f9 bella di sempre",
+        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "La stella pi\u00f9 bella di sempre",
+      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -899,8 +899,8 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+        "name": "Lacrime di sale",
+        "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
+      "duration_ms": 195683,
+      "name": "Lacrime di sale",
+      "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Lacrime di sale",
-        "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 195683,
-      "name": "Lacrime di sale",
-      "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "FARSI MALE A NOI VA BENE",
-        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
-      },
-      "artists": [
-        {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
-        }
-      ],
-      "duration_ms": 116933,
-      "name": "(SEMBRA BELLO)",
-      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "Lacrime",
         "url": "https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 148714,
       "name": "Cicatrici (feat. Tenth Sky)",
       "url": "https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "FARSI MALE A NOI VA BENE",
+        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "duration_ms": 116933,
+      "name": "(SEMBRA BELLO)",
+      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "TAXI DRIVER (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 205358,
       "name": "APNEA - MTV Unplugged",
       "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "RALLENTI IL TEMPO",
-        "url": "https://open.spotify.com/album/7055kaSvBr9zOveSEOT4qq"
+        "name": "Pagine",
+        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
       },
       "artists": [
         {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
         }
       ],
-      "duration_ms": 168778,
-      "name": "RALLENTI IL TEMPO",
-      "url": "https://open.spotify.com/track/0D8icEps48SwJb2MndEQge"
+      "duration_ms": 144000,
+      "name": "Pagine",
+      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Pagine",
-        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
+        "name": "RALLENTI IL TEMPO",
+        "url": "https://open.spotify.com/album/7055kaSvBr9zOveSEOT4qq"
       },
       "artists": [
         {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Pagine",
-      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
+      "duration_ms": 168778,
+      "name": "RALLENTI IL TEMPO",
+      "url": "https://open.spotify.com/track/0D8icEps48SwJb2MndEQge"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Marie 3 (Principessa Paranoia)",
-        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
-      },
-      "artists": [
-        {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Marie 3 - Principessa Paranoia",
-      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "Semiminime",
         "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 129854,
       "name": "Semiminime",
       "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "Marie 3 (Principessa Paranoia)",
+        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Marie 3 - Principessa Paranoia",
+      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "X4",
-        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
-      },
-      "artists": [
-        {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
-        }
-      ],
-      "duration_ms": 154390,
-      "name": "X4",
-      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "Fuori di me",
         "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 166267,
       "name": "Clipper",
       "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "X4",
+        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
+      },
+      "artists": [
+        {
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+        }
+      ],
+      "duration_ms": 154390,
+      "name": "X4",
+      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
     },
     {
       "added_at": "2024-01-11 16:17:43",

@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 80876,
+  "num_followers": 80925,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWEyMzVhZWVhZmY1NzljMGM2ZGY2MTA0NWRlZGFhNWEwYTEzYzEw",
+  "snapshot_id": "MCwwYjYzN2VmNzlmMzI3YjNlN2FmMTYzMDhmODA2NmJmMjk0YWM1ODMw",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "dc snuff film / waste yrself",
-        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "haunt me (x 3)",
-      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Antics",
         "url": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 215826,
       "name": "Evil",
       "url": "https://open.spotify.com/track/4absiGHMelB8eH976ytjBj"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "dc snuff film / waste yrself",
+        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "haunt me (x 3)",
+      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 180302,
-      "name": "You Make Me Feel Like It\u2019s Halloween",
-      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 180302,
+      "name": "You Make Me Feel Like It\u2019s Halloween",
+      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "St. Charles Square",
-        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
-        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 215179,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "The Physical World",
         "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 185386,
       "name": "Right On, Frankenstein!",
       "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
+        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 215179,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
     },
     {
       "added_at": "2023-10-27 07:45:00",

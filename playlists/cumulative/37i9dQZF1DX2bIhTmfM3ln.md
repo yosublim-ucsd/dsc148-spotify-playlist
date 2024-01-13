@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-385 songs - 19 hr 9 min
+386 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alomo](https://open.spotify.com/track/4Ud60aUrxZBn5uxGAaTfVG) | [Enam](https://open.spotify.com/artist/5f65bb50eWlg1WQkfHangF), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Alomo](https://open.spotify.com/album/3SklGzHFe6H9e6anZ6hchR) | 2:45 | 2022-08-25 | 2022-09-02 |
 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 | 2023-09-14 | 2023-10-27 |
 | [Amber Rose \- Remix](https://open.spotify.com/track/1ZEgFQp4No0ana6d6WJ8mZ) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Amber Rose \(Remix\)](https://open.spotify.com/album/0PvZHPawKF81aefxMLlUuX) | 2:34 | 2023-09-09 | 2023-09-15 |
+| [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-01-12 |  |
 | [Amina](https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Amina & The One](https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU) | 2:45 | 2023-04-20 | 2023-06-10 |
 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 | 2023-07-14 |  |
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-02-11 | 2022-08-19 |
@@ -151,7 +152,7 @@
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-11-13 |  |
 | [Honest](https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:02 | 2023-02-16 | 2023-03-18 |
 | [Honest Decision](https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Honest Decision](https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T) | 2:19 | 2023-02-16 | 2023-07-03 |
-| [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 | 2023-04-14 |  |
+| [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 | 2023-04-14 | 2024-01-13 |
 | [i Wey 5000](https://open.spotify.com/track/1M5dFODSjNXQvi374tJt64) | [Uche B](https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v), [Frontback](https://open.spotify.com/artist/4uuYNKIR4DjaMJCerKYcCD), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [i Wey 5000](https://open.spotify.com/album/4XAUgTFVSRhZALLqYIXoNA) | 2:57 | 2023-04-20 | 2023-05-12 |
 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 | 2022-08-25 | 2022-10-14 |
 | [IF](https://open.spotify.com/track/798mrR0yhiegkpy3GSHiei) | [Boy Ocean](https://open.spotify.com/artist/6bv6Z9B9k9ZpSEXhy5XBym), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [IF](https://open.spotify.com/album/7vP71zjAIkT1TxIQPtWYVh) | 2:17 | 2022-11-04 | 2022-12-03 |

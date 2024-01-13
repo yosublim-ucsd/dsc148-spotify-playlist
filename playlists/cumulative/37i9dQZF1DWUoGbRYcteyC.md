@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-258 songs - 15 hr 4 min
+259 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-10-13 |  |
 | [Detrás De Ti](https://open.spotify.com/track/71nmdxa5qNYzJMqASvdbXV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Detrás De Ti](https://open.spotify.com/album/3ZpmIpPG0gtsOGgTgkfWUx) | 2:33 | 2023-10-13 | 2023-11-06 |
 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 | 2023-10-13 |  |
-| [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 | 2021-12-06 |  |
+| [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 | 2021-12-06 | 2024-01-13 |
 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 | 2021-12-06 | 2023-03-18 |
 | [Dulcito e Coco](https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:09 | 2022-02-01 | 2023-10-14 |
 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 | 2022-02-01 | 2023-10-14 |
@@ -162,6 +162,7 @@
 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 | 2021-12-06 | 2023-01-07 |
 | [No Te Vayas](https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [No Te Vayas](https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok) | 3:21 | 2021-12-06 | 2023-03-18 |
 | [No Tengo Nada](https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [No Tengo Nada](https://open.spotify.com/album/0sUMIXlf7GdaeiEibYJLml) | 3:45 | 2021-12-06 |  |
+| [Nunca Deja de Llover](https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Nunca Deja De Llover](https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I) | 2:50 | 2024-01-12 |  |
 | [Nunca es Tarde](https://open.spotify.com/track/4UC04eMFJrypAFtxMyi9Bu) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Nunca es Tarde](https://open.spotify.com/album/0vhcaaK6zYtvSPAb0GCq05) | 3:42 | 2021-12-06 | 2022-07-21 |
 | [Nunca Te Olvidé](https://open.spotify.com/track/3OeYgrFYUOSyA3XOWBCaLS) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Te Olvidé](https://open.spotify.com/album/488U2P85QxXRlBvj5H5rGm) | 3:31 | 2021-12-06 | 2023-02-11 |
 | [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 | 2023-06-09 | 2023-08-15 |

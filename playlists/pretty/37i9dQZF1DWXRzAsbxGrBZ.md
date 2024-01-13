@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,754 likes - 50 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,907 likes - 50 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 47 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
 | 48 | [Gotsom](https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/6qowtxa5c1s4tBk86CD2bK) | 6:42 |
 | 49 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
-| 50 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
+| 50 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
 
-Snapshot ID: `MCxhZWVjNzY0ZGVhNWNmZTIwNDc1MDcwYmUxYWZjNjE2NWUzOTlkY2Q1`
+Snapshot ID: `MCwyMWIzNDk0MzgyMzVmYzJhODJkNjJlYzI0MGVmNmQ3MzgyMzM3MDhm`

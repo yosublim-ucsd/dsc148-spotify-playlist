@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: feeble little horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,375 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,325 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 22 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
 | 23 | [Answering Machine](https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 5:09 |
 | 24 | [Death of the Phone Call](https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Huli Ka](https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u) | 1:35 |
-| 25 | [Around the Pomegranate](https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 2:39 |
-| 26 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 |
+| 25 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 |
+| 26 | [Around the Pomegranate](https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 2:39 |
 | 27 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 |
 | 28 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
 | 29 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 58 | [Sun Outside My Window](https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe) | 3:21 |
 | 59 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
 | 60 | [Safe House](https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Safe House](https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL) | 3:37 |
-| 61 | [Intersection](https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn) | 3:53 |
-| 62 | [Gush](https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
+| 61 | [Gush](https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
+| 62 | [Intersection](https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn) | 3:53 |
 | 63 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 64 | [I Don't Recognise You](https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 4:35 |
 | 65 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 87 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 88 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
 | 89 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
-| 90 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
-| 91 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
+| 90 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
+| 91 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
 | 92 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
 | 93 | [KPR](https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [KPR](https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox) | 3:33 |
 | 94 | [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 |
 | 95 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 |
-| 96 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
+| 96 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
 | 97 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
-| 98 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
-| 99 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
-| 100 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
+| 98 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
+| 99 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
+| 100 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
 
-Snapshot ID: `MCw5YTNiNDFmY2Q5MWEwMDI3NjgwMGY3YjUzN2IxZWUzNTU2NmMxN2Fm`
+Snapshot ID: `MCw2NTFjYzQ3NGNiZTVlYzM4NGNmOWM1NzY4OWFjMjc3YjIwNjkyMWE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,726 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,724 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 41 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
 | 42 | [Gostava Tanto De Você](https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 4:16 |
 | 43 | [Como Nossos Pais](https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:21 |
-| 44 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
-| 45 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 |
+| 44 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 |
+| 45 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
 | 46 | [Hallelujah](https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:37 |
 | 47 | [Stop! In The Name Of Love](https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes](https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A) | 2:52 |
 | 48 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 |
 | 100 | [Gita](https://open.spotify.com/track/4mdIZdlpZ8ilKNPDoWEpSK) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ['Gîtâ'](https://open.spotify.com/album/5oOsBQphe8sbvZULbepg7U) | 4:47 |
 
-Snapshot ID: `MCwzOGRiNGNmN2I3YzJjODMwODNkYzQyZjA1OGMwM2I0ZDAwMWQ2NmRi`
+Snapshot ID: `MCw4OGRkZTJkN2U2MjJjMGM0YjU2M2I4YWI2MmNmYzhjNTMyN2Q0Njlj`

@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes that both you and your little one can enjoy.",
-  "num_followers": 23274,
+  "num_followers": 23285,
   "original_name": "Raised on Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTQyY2Y4NTBhMjcxZTBjNzg4ZGE3OTJiODE2Mjg1M2U3ZDIyYzMw",
+  "snapshot_id": "MCxjMDgyNjIwZWVjOTA3NDQxZDQzNmI4OTE5YTJlNWRlOTc1YTgzNzk2",
   "tracks": [
     {
       "added_at": "2023-01-09 06:31:47",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2023-01-09 06:31:47",
-      "album": {
         "name": "Esta Es Mi Vida",
         "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 222626,
       "name": "Espacio sideral",
       "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
+    },
+    {
+      "added_at": "2023-01-09 06:31:47",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
-        "name": "En Extasis",
-        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 282893,
-      "name": "Piel Morena",
-      "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
+      "duration_ms": 253893,
+      "name": "Te He Querido, Te He Llorado",
+      "url": "https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4"
+        "name": "En Extasis",
+        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 253893,
-      "name": "Te He Querido, Te He Llorado",
-      "url": "https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ"
+      "duration_ms": 282893,
+      "name": "Piel Morena",
+      "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
     },
     {
       "added_at": "2023-01-09 06:31:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,917 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,497 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 29 | [Give Me A Reason Why](https://open.spotify.com/track/4GcSIWC2iSRG8IjRYR393G) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Give Me A Reason Why](https://open.spotify.com/album/0a8FY5YkU3CNShk1wy7a5Z) | 3:10 |
 | 30 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 |
 | 31 | [Liar](https://open.spotify.com/track/27xRhBTtH13Qwj5LqawMMN) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Liar](https://open.spotify.com/album/5J12lX3O7R7YOy1MyyTMEm) | 2:47 |
-| 32 | [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 |
+| 32 | [For Katie](https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr) | 3:56 |
 | 33 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 |
 | 34 | [Ceremonia](https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE) | 2:58 |
 | 35 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 49 | [Halo](https://open.spotify.com/track/5jHRIIaMnuT8eVaA9C5o4R) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 3:31 |
 | 50 | [King Size Slim](https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Title Track](https://open.spotify.com/album/08gFnRmxpci80sjhTkdFvL) | 4:24 |
 
-Snapshot ID: `MCxmNjZhNmM0NTU4NWUzMTFiYzBhMTQ3NTQ4YjcxNzMzMjE1YmM2Mzll`
+Snapshot ID: `MCw2ZWQxNTNiNTUzNmMxMzlhYTJmMWE4NmM1M2UxNGRiNTBhZDMzNThk`

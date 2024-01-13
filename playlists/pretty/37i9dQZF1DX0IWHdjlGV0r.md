@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Tedua
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,589 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,633 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
 | 2 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
-| 3 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 |
+| 3 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 |
 | 4 | [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 |
 | 5 | [Tu Non Sei Lei](https://open.spotify.com/track/4KePlRbM1bdY6LIKH8kURb) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:59 |
 | 6 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 69 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 |
 | 70 | [Purple](https://open.spotify.com/track/6L2omWeSyC8TLGzSRdwCvn) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Vita Vera \- Mixtape, aspettando la Divina Commedia](https://open.spotify.com/album/3VcvEJUFZn6md3wW8kVaJS) | 3:10 |
 
-Snapshot ID: `MCxmZWJkZWZiYTBiOTlmNjAyNThiYzliOThjOWI0NDAxNzkyOGM3ZmIy`
+Snapshot ID: `MCw0YmJjODE1OGI4ODNiZTc5Yjg2NmJmNjcwMTRiODVkNWY1ZGNiNDg3`

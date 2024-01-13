@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a El Frizian en RADAR México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,733 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,759 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 37 | [El Brillo De Tus Ojitos](https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL) | [Dorian Guerra](https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP) | [El Brillo De Tus Ojitos](https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr) | 2:59 |
 | 38 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 |
 | 39 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
-| 40 | [Bélica Como Ninguna](https://open.spotify.com/track/1yP0mfJpgXkpwJygR7owzD) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY) | [Bélica Como Ninguna](https://open.spotify.com/album/07eczfKQengmSJcbBhUM14) | 2:21 |
-| 41 | [Quieren Mirarme Abajo](https://open.spotify.com/track/75uqXVaw6XQdTjc04CpSf7) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Mientras Otros Duermen](https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV) | 1:58 |
+| 40 | [Quieren Mirarme Abajo](https://open.spotify.com/track/75uqXVaw6XQdTjc04CpSf7) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Mientras Otros Duermen](https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV) | 1:58 |
+| 41 | [Bélica Como Ninguna](https://open.spotify.com/track/1yP0mfJpgXkpwJygR7owzD) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY) | [Bélica Como Ninguna](https://open.spotify.com/album/07eczfKQengmSJcbBhUM14) | 2:21 |
 | 42 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 43 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
 | 44 | [Así Me Enamoré](https://open.spotify.com/track/6MaBIBdKCf1Y4jPrNY7PcA) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Así Me Enamoré](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Cartier en Mano](https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Cartier en Mano](https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL) | 2:35 |
 | 50 | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS) | 3:32 |
 
-Snapshot ID: `MCwyZjk0MWYxMGI1ODdlNmRmNThlMTA3YWRiYzZjMzI1Mjk5M2VhMGQy`
+Snapshot ID: `MCwwMmVjY2VjY2Y2NzI5M2UzYzBkMjQ2OGQzNmZkNTc3Njc5NDI1Yjg2`

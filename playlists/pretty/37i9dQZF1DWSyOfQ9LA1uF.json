@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 69328,
+  "num_followers": 69336,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTFkMDY1ZmE4Y2NjZDdkNjk4ZTdlN2NmYjE5ZDU1NWUzZjI0ZTRj",
+  "snapshot_id": "MCw4OTVkODg2YjI1NmJjYTg2YjVhYmQ1ZmY0MDExMDM0YjZkZWI4YTk4",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Chapter One",
-        "url": "https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi"
-      },
-      "artists": [
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        }
-      ],
-      "duration_ms": 210016,
-      "name": "Time To Realize",
-      "url": "https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Monster Hospital",
         "url": "https://open.spotify.com/album/44Dp3q5cxzWqmD1m7UGHW9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 314853,
       "name": "Monster Hospital (MSTRKRFT Remix)",
       "url": "https://open.spotify.com/track/2xF9HPXTfA3Jxar6lVBAKf"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi"
+      },
+      "artists": [
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        }
+      ],
+      "duration_ms": 210016,
+      "name": "Time To Realize",
+      "url": "https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M"
     },
     {
       "added_at": "2022-08-24 22:29:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,830 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,227 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 13 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 |
 | 14 | [Hey Mama](https://open.spotify.com/track/2bYKTzh5TZ8iFRinHIz5vO) | [Mosees](https://open.spotify.com/artist/1Bff29cYcg0JkyYiyhFguD), [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L), [NVSV](https://open.spotify.com/artist/1ZoBPI6LQ3gSXuU2BRPyUD), [Ely May](https://open.spotify.com/artist/4bGLLUNFXUnAbfnvpUnXHg) | [Hey Mama](https://open.spotify.com/album/2VW6poqvjOWN1LOFAQcphV) | 3:01 |
 | 15 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
-| 16 | [Good to Me](https://open.spotify.com/track/2jLBtE7i1PwDd7M88qRo6A) | [RM](https://open.spotify.com/artist/06vJVRBMbp4o11xulzeT1z), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Good to Me](https://open.spotify.com/album/2GpOSxs2CXMfv7uZykxdng) | 2:28 |
-| 17 | [All The Way Up](https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [All The Way Up](https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor) | 2:55 |
+| 16 | [All The Way Up](https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [All The Way Up](https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor) | 2:55 |
+| 17 | [Good to Me](https://open.spotify.com/track/2jLBtE7i1PwDd7M88qRo6A) | [RM](https://open.spotify.com/artist/06vJVRBMbp4o11xulzeT1z), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Good to Me](https://open.spotify.com/album/2GpOSxs2CXMfv7uZykxdng) | 2:28 |
 | 18 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
 | 19 | [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 |
 | 20 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 41 | [Combo](https://open.spotify.com/track/1QxvF7sykEILCrINRMovoM) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Combo](https://open.spotify.com/album/3CxZRCqXlPnYjF84w77ogX) | 3:22 |
 | 42 | [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 |
 | 43 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
-| 44 | [The Walls](https://open.spotify.com/track/0O1XOHLMOsLoGNu6tZkOMt) | [Mondorro](https://open.spotify.com/artist/3TWVC1HPfghgGufoJTPk4h), [HAYASA G](https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs) | [The Walls](https://open.spotify.com/album/1OXRWOmHupluRWTbQKaog9) | 2:54 |
-| 45 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
+| 44 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
+| 45 | [The Walls](https://open.spotify.com/track/0O1XOHLMOsLoGNu6tZkOMt) | [Mondorro](https://open.spotify.com/artist/3TWVC1HPfghgGufoJTPk4h), [HAYASA G](https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs) | [The Walls](https://open.spotify.com/album/1OXRWOmHupluRWTbQKaog9) | 2:54 |
 | 46 | [Yeah!](https://open.spotify.com/track/2MZkILMJHm0p4JTY2qbUJW) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl), [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [Vokido](https://open.spotify.com/artist/0OrhRAX5OBX91Ad12Frn16), [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP) | [Yeah!](https://open.spotify.com/album/7BCbDhUmjXcQDPn2SAilwu) | 2:33 |
 | 47 | [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 |
 | 48 | [Go Away](https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1) | [Alieff Green](https://open.spotify.com/artist/75mrERnQpiYVQ0yg7ObPLe), [Rio Bakoo](https://open.spotify.com/artist/0baOAtqOc46DHJmE2v4w1c) | [Go Away](https://open.spotify.com/album/04ATbfkuAkKlxYv9mirGHr) | 2:57 |
 | 49 | [Slow Down](https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Slow Down](https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN) | 2:16 |
 | 50 | [BACK](https://open.spotify.com/track/2EatWIkFOkO7hOBhONxhfX) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [BACK](https://open.spotify.com/album/56QofpWRkpb3rtxLA3PUFr) | 2:29 |
 
-Snapshot ID: `MCw4MjNmNzJiZGQ0MTgxYTVlMzIwNGI0OGMwMmExYTcwOTZhZjUxMGFl`
+Snapshot ID: `MCw0OTMwNmJkZjA4YjVlMjNlZmY5NmU0YzdlNzVmMjNjOTA0Y2ZhZjk2`

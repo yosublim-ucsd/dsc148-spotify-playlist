@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14161,
+  "num_followers": 14163,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTgzM2QyZTBkZjI3NTI2M2Q3OGJhZTk3MTZmZTdkN2VhMTdmOTAx",
+  "snapshot_id": "MCxlYzgwN2VlZGUwYjkyY2YxMThkZDEwMDllOGIwZWEyYjRlOWVjNWI0",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Girls' Generation",
-        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Kissing You",
-      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Pretty Girl (2nd Mini Album)",
         "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 209920,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "Kissing You",
+      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -879,8 +879,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 258062,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "\ucc28\ub9c8...",
-      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -959,8 +943,24 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 252906,
+      "name": "\ucc28\ub9c8...",
+      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+      "duration_ms": 258062,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
       },
       "artists": [
         {
@@ -1196,25 +1196,25 @@
           "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Bad Man",
-      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
+      "duration_ms": 231173,
+      "name": "How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
     },
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+        "name": "The Breeze Of Sea",
+        "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
         }
       ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+      "duration_ms": 329026,
+      "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
+      "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Breeze Of Sea",
-        "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
       },
       "artists": [
         {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 329026,
-      "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
-      "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
+        "name": "N001",
+        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
       },
       "artists": [
         {
@@ -1328,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 231173,
-      "name": "How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
+      "duration_ms": 217533,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1631,22 +1631,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Tell Me One More Time",
-        "url": "https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO"
+        "name": "VIBE IN PRAHA",
+        "url": "https://open.spotify.com/album/4OCkcwSER9boDvzxEdlh6c"
       },
       "artists": [
         {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        },
-        {
-          "name": "Hannah Jang",
-          "url": "https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8"
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
         }
       ],
-      "duration_ms": 195508,
-      "name": "Tell Me One More Time",
-      "url": "https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ"
+      "duration_ms": 239680,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/61LkLrMVjwO4Rzk3deOw0n"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

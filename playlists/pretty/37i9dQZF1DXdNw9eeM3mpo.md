@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,265 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,977 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 51 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 |
 | 52 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
 | 53 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
-| 54 | [Solo un Minuto](https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:59 |
-| 55 | [La Boni](https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ) | [Malacates Trebol Shop](https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [La Boni](https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F) | 3:29 |
-| 56 | [TU ALMA MIA/ADELITA](https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:49 |
+| 54 | [TU ALMA MIA/ADELITA](https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:49 |
+| 55 | [Solo un Minuto](https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:59 |
+| 56 | [La Boni](https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ) | [Malacates Trebol Shop](https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [La Boni](https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F) | 3:29 |
 | 57 | [América](https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [ADN \(Capítulo N\)](https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX) | 3:02 |
 | 58 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 |
 | 59 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
 | 100 | [30 Años](https://open.spotify.com/track/3MROCu02TzR1Ovu1Xq1S7r) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [30 años](https://open.spotify.com/album/7tmLCVy3YeRzByi0rwhREV) | 3:34 |
 
-Snapshot ID: `MCw5OGI0OTFiYzQyNDE4ZTE0MTg5ZjZmNDRhZTQ2ODcwYjI1ZTNiZWZh`
+Snapshot ID: `MCwwNGE4NzIxODI2NzM2YTI1M2I1YzYxMDFmNDA4Y2QzMzFlMDI4Y2Zk`

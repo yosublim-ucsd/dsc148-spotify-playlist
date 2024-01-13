@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Kid Cudi
 
-587 songs - 1 day 6 hr 27 min
+589 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Mourning](https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX) | 2:27 | 2023-06-15 | 2023-07-07 |
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-04 | 2023-09-29 |
 | [Mwaki \- Major Lazer Remix](https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Major Lazer Remix\)](https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd) | 3:15 | 2024-01-11 |  |
+| [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-11 |  |
 | [Nada](https://open.spotify.com/track/0M7evS0r2rbRSt61GMH4e7) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Nada](https://open.spotify.com/album/405mKNtoyJhnJRB7zdUqIn) | 2:56 | 2023-10-12 | 2023-11-10 |
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2023-12-14 |  |
 | [Nervous \(In A Good Way\)](https://open.spotify.com/track/0BLk6dGbBPhiHH0skowRJQ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/3WZfVdlY9ft0aRSsbiYSsa) | 2:55 | 2023-09-28 | 2023-11-09 |
@@ -581,6 +582,7 @@
 | [WYA](https://open.spotify.com/track/3EMYNGpOBYNstnpJvUJdzp) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Make It Better](https://open.spotify.com/album/5sk66M71toBpOhNFFZZcRx) | 2:51 | 2024-01-11 |  |
 | [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-04 | 2023-09-01 |
 | [Yes I'm A Mess](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Yes I'm A Mess](https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4) | 2:44 | 2023-09-28 | 2023-11-24 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [You & I](https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:00 | 2023-07-13 | 2023-09-15 |
 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-27 | 2023-10-06 |
 | [You & Me](https://open.spotify.com/track/0yjswHWcqTEtpoe4IzJRI5) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/6R5u0Z5107RbTtAIk9aQ0k) | 2:34 | 2023-12-21 | 2023-12-23 |

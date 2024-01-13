@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 50405,
+  "num_followers": 50443,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzc1YjBhMzM1Y2NlZmJjNjZiYzQ4MWRmY2QwY2JjYTg2NmJmODVj",
+  "snapshot_id": "MCw3ZmYzYmQxZWZmMzYwYWM3OWRkMzFmY2QyNWY2ZTBlNjg1NDFhZWQy",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -847,22 +847,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "S'bu",
-          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
         }
       ],
-      "duration_ms": 315266,
-      "name": "Palafala (feat. S'bu)",
-      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -883,22 +879,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Africa in Harmony: 50th Anniversary Edition",
         "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 210613,
       "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
       "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "S'bu",
+          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Palafala (feat. S'bu)",
+      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
       "added_at": "2023-01-23 13:10:38",

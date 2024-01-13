@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,056 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 38 | [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 |
 | 39 | [I Know](https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Shininryu](https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3) | 3:30 |
 | 40 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
-| 41 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
-| 42 | [0&4](https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:30 |
+| 41 | [0&4](https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:30 |
+| 42 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
 | 43 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
 | 44 | [been](https://open.spotify.com/track/2MDyIYGyysalcAUI6hObMn) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:13 |
 | 45 | [Piss On Me](https://open.spotify.com/track/4GJy4M67insCFuAUhluOza) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Life+unconsciousness](https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Price Tag \(feat\. Jessi, Ja Mezz\)](https://open.spotify.com/track/3bOJ2oxgtl5XikXtdGVxUv) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [Summer Grooves](https://open.spotify.com/album/5I13UDFjkrH0U9btBd4Mey) | 3:41 |
 | 50 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 
-Snapshot ID: `MCw4OWQyNmNmM2E2ODQxZDI3ZmJkMGFiZGFkODdmZWI0MTkwOTE4OGUx`
+Snapshot ID: `MCwwOWJiZjMyNTM0MjQxODUxNWJjNjE2YTdiNWZkZTJmNzMwODRmYzdh`

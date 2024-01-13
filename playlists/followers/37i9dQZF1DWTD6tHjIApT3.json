@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 106701,
+  "2024-01-13": 106685,
   "date_first_scraped": "2022-05-30",
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u30e8\u30eb\u30b7\u30ab",
   "name": "Women's Voice",
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 242792,
       "name": "ai no hana",
       "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
@@ -8845,7 +8845,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 230000,
       "name": "I like you",
       "url": "https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk"
@@ -8885,6 +8885,24 @@
       "duration_ms": 251186,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/0FF3Bm8sXxAAbIOD9u4KQh"
+    },
+    {
+      "album": {
+        "name": "I Pray",
+        "url": "https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV"
+      },
+      "artists": [
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202590,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH"
     },
     {
       "album": {
@@ -18900,6 +18918,24 @@
     },
     {
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/1FgRxF3akMYOfNaD8ZXlD1"
+      },
+      "artists": [
+        {
+          "name": "Miisha Shimizu",
+          "url": "https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220955,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3ZidhE0rAgZxe2U1zTpiq1"
+    },
+    {
+      "album": {
         "name": "sugar",
         "url": "https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5"
       },
@@ -28299,7 +28335,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 248300,
       "name": "\u30c1\u30ce\u30ab\u30c6",
       "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
@@ -37379,6 +37415,24 @@
       "duration_ms": 260713,
       "name": "\u7a7a\u767d\u306e\u5c45\u5834\u6240",
       "url": "https://open.spotify.com/track/4CrPB6keI8Msl5uovASijx"
+    },
+    {
+      "album": {
+        "name": "\u7d05",
+        "url": "https://open.spotify.com/album/4Ae08IyUHwvhprJhxWZTrY"
+      },
+      "artists": [
+        {
+          "name": "Little Glee Monster",
+          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215033,
+      "name": "\u7d05",
+      "url": "https://open.spotify.com/track/2cAC6QYecHHj6T0RS5ejOQ"
     },
     {
       "album": {

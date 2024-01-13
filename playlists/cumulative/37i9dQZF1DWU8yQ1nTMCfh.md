@@ -2,9 +2,9 @@
 
 ### [Rock Total](https://open.spotify.com/playlist/37i9dQZF1DWU8yQ1nTMCfh)
 
-> Las nuevas vibras del rock en español\. Cover: Walls & Bruses
+> Las nuevas vibras del rock en español\. Cover: No Te Va Gustar & Zoe Gotusso
 
-261 songs - 14 hr 31 min
+263 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Extrarradio](https://open.spotify.com/track/4Yu4N8mdsSsmois7j4v3as) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 4:53 | 2022-04-15 | 2022-12-10 |
 | [Fallaste](https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Fallaste](https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P) | 2:36 | 2023-06-16 | 2023-09-20 |
 | [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2022-09-06 | 2023-04-23 |
-| [FLASHBACKS](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [FLASHBACKS](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 | 2023-03-20 |  |
+| [FLASHBACKS](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [FLASHBACKS](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 | 2023-03-20 | 2024-01-13 |
 | [Flores y café](https://open.spotify.com/track/5BAyo8vyEzh31X9KqL33H8) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Flores y café / Oh, Siena](https://open.spotify.com/album/4ilALW1MAbw5VOkChFDmmc) | 3:28 | 2023-08-25 | 2023-10-06 |
 | [Fuera de Lugar](https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:23 | 2022-12-23 | 2023-01-16 |
 | [Fumar de Día \- En Vivo](https://open.spotify.com/track/0n1UrWMX0Njj3kVMc24tOE) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 3:01 | 2022-04-15 | 2022-07-20 |
@@ -138,6 +138,7 @@
 | [Maldivas](https://open.spotify.com/track/0dpXgd1OyD0etHnvCodXXZ) | [Diego Cuevas](https://open.spotify.com/artist/4dod4KFAtYQ9P7ubDRdz0u) | [Maldivas](https://open.spotify.com/album/51dVROPWemf4IOiRHVDMrE) | 3:20 | 2023-04-14 | 2023-10-18 |
 | [MARTIRIO](https://open.spotify.com/track/2W0IAUsjR26coSOvppEpKx) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MARTIRIO](https://open.spotify.com/album/6oyeToNU5s7ZGttwTZ8EDF) | 4:04 | 2022-04-15 | 2022-12-24 |
 | [Mayo](https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:35 | 2023-05-19 | 2023-07-28 |
+| [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 | 2024-01-12 |  |
 | [Me da igual](https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [No Me Odio Tanto](https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB) | 2:58 | 2023-04-14 | 2023-12-16 |
 | [Me Gustas Tanto](https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Me Gustas Tanto](https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2) | 2:01 | 2023-07-28 |  |
 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-06-02 |  |
@@ -154,7 +155,7 @@
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-20 | 2024-01-05 |
 | [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 | 2022-12-16 | 2023-05-23 |
 | [Mundo Extraño](https://open.spotify.com/track/0hy08kvUwjuF40ai53TANQ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mundo Extraño](https://open.spotify.com/album/11emlvXuZrS8319yl6IW5r) | 3:03 | 2023-07-21 | 2023-11-06 |
-| [Más Tuyo](https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Más Tuyo](https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6) | 2:59 | 2023-02-11 |  |
+| [Más Tuyo](https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Más Tuyo](https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6) | 2:59 | 2023-02-11 | 2024-01-13 |
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-04-15 | 2022-12-10 |
 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2022-12-23 | 2023-01-29 |
 | [no es culpa mía](https://open.spotify.com/track/1vDZDgRzTb6TBej8kZ3vqO) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:05 | 2023-11-10 |  |
@@ -164,6 +165,7 @@
 | [No Me Dejan Salir](https://open.spotify.com/track/3W8seqNrzD6IpdQH3sTzMA) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Me Dejan Salir](https://open.spotify.com/album/3Vn2NZJiGhQMgNZurR86d5) | 4:13 | 2023-11-10 |  |
 | [No Me Lo Creo Ni Yo](https://open.spotify.com/track/1YGwkzw6RVFsO2h9RkDB47) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [No Me Lo Creo Ni Yo](https://open.spotify.com/album/35uAGAZg9bWa5JCkXjSKWv) | 2:50 | 2023-01-20 | 2023-04-30 |
 | [No me preguntes por qué](https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [No me preguntes por qué](https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu) | 2:53 | 2023-01-20 | 2023-07-09 |
+| [NO ME QUIERO PEGAR](https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO ME QUIERO PEGAR](https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0) | 2:22 | 2024-01-12 |  |
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 | 2023-12-15 |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 |  |
 | [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 | 2022-08-08 | 2023-02-02 |

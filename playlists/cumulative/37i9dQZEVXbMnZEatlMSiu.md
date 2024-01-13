@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-787 songs - 1 day 23 hr 3 min
+788 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [我們都傷](https://open.spotify.com/track/2Ml2GEyuekwmmzoyC9x4TK) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [唯一想了解的人](https://open.spotify.com/album/5gIB5uMXeghqzyChfQJOr7) | 4:33 | 2021-05-27 | 2021-06-03 |
 | [我做的是愛不是夢](https://open.spotify.com/track/1aK3V9OCM8GUuMR6GxXhyf) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [我做的是愛不是夢](https://open.spotify.com/album/2AoiXOSwuI1gb4nPbsKjBB) | 3:39 | 2022-08-31 | 2022-09-22 |
 | [我反芻著你留下的寂寞](https://open.spotify.com/track/2Qxaglvzsc0129JB4O0XCF) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我反芻著你留下的寂寞](https://open.spotify.com/album/5mZw3T0H1hK582ePR25C3p) | 4:15 | 2021-12-16 | 2022-01-20 |
+| [我喜歡你](https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [心跳保衛戰](https://open.spotify.com/album/7nGbf2KdoEMWtTKh3vViyK) | 3:27 | 2024-01-12 |  |
 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 | 2021-11-04 | 2021-12-02 |
 | [我就想你](https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 3:24 | 2022-04-23 |  |
 | [我就想你](https://open.spotify.com/track/0Q35umX7SPX9perjjMfzCg) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我就想你](https://open.spotify.com/album/7iDi0WJ1pZkwf35d6yjtAk) | 3:25 | 2021-09-09 | 2021-10-16 |
@@ -643,7 +644,7 @@
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2021-03-27\* |  |
 | [抱一抱一下](https://open.spotify.com/track/6SGR2LQdKn1mqbwVNR8kz7) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [柯佳嬿](https://open.spotify.com/artist/0L61ClriEEw74NE3HCTkAS) | [抱一抱一下](https://open.spotify.com/album/0f4nwlvnd30tiDBXPj7r3U) | 3:31 | 2021-11-25 | 2021-12-10 |
 | [摩登愛情 \(feat\. Julia Wu\)](https://open.spotify.com/track/7unyqNvWBxK0LHQ0sqrEar) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [摩登愛情 \(feat\. Julia Wu\)](https://open.spotify.com/album/1iyFNSnMgc0y4tzSvuD6EM) | 3:15 | 2022-01-13 | 2022-01-19 |
-| [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2022-05-13 |  |
+| [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2022-05-13 | 2024-01-13 |
 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2023-05-20 | 2023-10-26 |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-11-13 | 2024-01-09 |
 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-01-08 |  |

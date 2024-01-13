@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 29141,
+  "2024-01-13": 29170,
   "date_first_scraped": "2023-01-14",
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
   "name": "This Is Liran' Roll",
@@ -565,7 +565,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 288293,
       "name": "Le Dir\u00e9 a las Estrellas",
       "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 141734,
       "name": "Mario",
       "url": "https://open.spotify.com/track/7ucQ19pWXGcH8ypZFQNMLL"

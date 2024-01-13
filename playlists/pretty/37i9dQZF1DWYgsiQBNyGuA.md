@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,513 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,605 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 21 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 |
 | 22 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 23 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
-| 24 | [Every Day a Dream](https://open.spotify.com/track/5NBpmO0VbAQYjXXCZ2QYLd) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Crossing](https://open.spotify.com/album/1w7lmZQuLm9AXIWoLD7Qbt) | 3:53 |
-| 25 | [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 |
+| 24 | [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 |
+| 25 | [Every Day a Dream](https://open.spotify.com/track/5NBpmO0VbAQYjXXCZ2QYLd) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Crossing](https://open.spotify.com/album/1w7lmZQuLm9AXIWoLD7Qbt) | 3:53 |
 | 26 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
 | 27 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 |
 | 28 | [100 Days, 100 Nights](https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V) | 3:45 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 70 | [Question](https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU) | 4:22 |
 | 71 | [Wishful Thinking](https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:04 |
 | 72 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
-| 73 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
+| 73 | [Souvenir](https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm) | [Shawn Lee](https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [Bless My Soul](https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN) | 3:46 |
 | 74 | [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 |
-| 75 | [Souvenir](https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm) | [Shawn Lee](https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [Bless My Soul](https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN) | 3:46 |
+| 75 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
 | 76 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
 | 77 | [Oh No \(Man\)](https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Addiction](https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5) | 4:07 |
 | 78 | [Stand Up](https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Stand Up](https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn) | 2:55 |
 | 79 | [Fanatic](https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:12 |
 | 80 | [Glimmer](https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Glimmer](https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD) | 3:11 |
 
-Snapshot ID: `MCxiMzgyYzQyNWFkZWI1ZGY1MGVlNjc4Mjk0NGZjMzBjOThiMmFhZThj`
+Snapshot ID: `MCw0YzYyMjM4MTI4OTY3YTVlNmU4MDExZTY4OGYxNzllZGJjOWU3MWMx`

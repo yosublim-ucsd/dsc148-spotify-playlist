@@ -4,7 +4,7 @@
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
-149 songs - 10 hr 23 min
+150 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 | 2022-07-06 |  |
 | [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 | 2022-07-06 |  |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-06-03 | 2022-07-29 |
-| [Motor Psico](https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 4:56 | 2022-06-03 |  |
+| [Motor Psico](https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 4:56 | 2022-06-03 | 2024-01-13 |
+| [Motor Psico](https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI) | 4:56 | 2024-01-12 |  |
 | [Mujer Amante](https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 6:03 | 2022-07-06 |  |
 | [Mujer Amante](https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Magos, Espadas Y Rosas](https://open.spotify.com/album/3wNTH6hg5KKjRtLJZHxhB9) | 6:03 | 2022-06-03 | 2022-07-29 |
 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 | 2022-07-06 |  |

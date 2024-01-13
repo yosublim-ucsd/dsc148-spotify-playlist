@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1641701,
+  "num_followers": 1642980,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGEzMWE1ZDE1MmM0ZjhkODJkZTE3NjVjMjkzNmQxNTA1N2QyNWQ3",
+  "snapshot_id": "MCw1ODdiY2ZmZWY0YTc0NjBiNzc3ZWFjNzEwYWY4NmQ1YzRmYTY4YjUz",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 202093,
       "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Fall in Love with You.",
-      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "eyes don't lie",
-        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "eyes don't lie",
-      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 257563,
       "name": "Knee Socks",
       "url": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "eyes don't lie",
+      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "BABYDOLL",
-        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
       "artists": [
         {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
         }
       ],
-      "duration_ms": 196235,
-      "name": "BABYDOLL",
-      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
+      "duration_ms": 129599,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
     }
   ],
   "unique_name": "goosebumps",

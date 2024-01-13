@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: The Used",
-  "num_followers": 455012,
+  "num_followers": 455252,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWU5MTVhYjI5OGYyNTNkOWQwZjZjMTc2MzZlNDBjMjYyNWU5YzUz",
+  "snapshot_id": "MCwzOGE2NGI2YjRkMTZlN2E5MmM1ZmZkMzVlNDBhOGQ0YjFmOGUxYjU3",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Roses for the Dead",
-      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "What To Do When You Are Dead",
         "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228706,
       "name": "Car Underwater",
       "url": "https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Roses for the Dead",
+      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "30 Seconds To Mars",
-        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/3K17PJl4d0yhrys2ylYzgm"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Capricorn (A Brand New Name)",
-      "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
+      "duration_ms": 201986,
+      "name": "Tree Village",
+      "url": "https://open.spotify.com/track/23H0cL1Mnz96wqTwO1e76j"
     }
   ],
   "unique_name": "Chaos Anthems",

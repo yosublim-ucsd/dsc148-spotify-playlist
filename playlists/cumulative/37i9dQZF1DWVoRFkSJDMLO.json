@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Spice \ud83c\uddef\ud83c\uddf2 ",
+  "description": "Inspired by African drums. Cover: Asake \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Block Delete",
+        "url": "https://open.spotify.com/album/4b8P2KSA22bfbsJcP6MFO0"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Block Delete",
+      "url": "https://open.spotify.com/track/34SQSpmW2m6Pmtigsiz4ya"
+    },
+    {
+      "album": {
         "name": "Blood Clxxt (Song for the People)",
         "url": "https://open.spotify.com/album/54wQbh2J17B82vpFMTTJ6g"
       },
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 144312,
       "name": "Designer",
       "url": "https://open.spotify.com/track/4IMmrj6wSiWwmPUGCDzXZU"
@@ -3510,6 +3528,24 @@
       "duration_ms": 151304,
       "name": "Disturbing U",
       "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/6Ueh5KmW1CldZQyTubccOZ"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164659,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/7rq2a8EUvg6GCRjXu7TboU"
     },
     {
       "album": {
@@ -4591,6 +4627,28 @@
     },
     {
       "album": {
+        "name": "TRILOGY",
+        "url": "https://open.spotify.com/album/0sMwFCarxR4aJPpxxN1yfy"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "FRIENDSHIP SALE",
+      "url": "https://open.spotify.com/track/55LMRYdhgbCPwGXYkPIRCV"
+    },
+    {
+      "album": {
         "name": "Frsh Drop",
         "url": "https://open.spotify.com/album/1eGmt06ZMVmJCY67XA282d"
       },
@@ -4968,7 +5026,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 190784,
       "name": "Goumen",
       "url": "https://open.spotify.com/track/4GhDKt1JuJFMqsnUcdvMM5"
@@ -6860,7 +6918,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 183253,
       "name": "Killy (feat. Popcaan)",
       "url": "https://open.spotify.com/track/5QVTRDQKXUI278jVYtT6lG"
@@ -7864,7 +7922,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 157714,
       "name": "Lonely At The Top - Remix",
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
@@ -9905,6 +9963,24 @@
     },
     {
       "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
+    },
+    {
+      "album": {
         "name": "Only U",
         "url": "https://open.spotify.com/album/7AC1aJvfwTuPUGzl72PklJ"
       },
@@ -11504,7 +11580,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
@@ -12190,6 +12266,32 @@
       "duration_ms": 178000,
       "name": "Shakor",
       "url": "https://open.spotify.com/track/14EoKlhYnxqRrqjV7PIdS0"
+    },
+    {
+      "album": {
+        "name": "Shatta De Minuit",
+        "url": "https://open.spotify.com/album/5PjGgiteQqGwBZ6AohWflV"
+      },
+      "artists": [
+        {
+          "name": "Elji",
+          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        },
+        {
+          "name": "Gamix",
+          "url": "https://open.spotify.com/artist/3aOHw8ZqmQaNG5MbRumUaI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Shatta De Minuit",
+      "url": "https://open.spotify.com/track/0WEbrz4AXEUYklBdFEr3I3"
     },
     {
       "album": {
@@ -15481,6 +15583,24 @@
     },
     {
       "album": {
+        "name": "Who Say",
+        "url": "https://open.spotify.com/album/3oW5e0VKxkBHTvad1EdtBn"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165964,
+      "name": "Who Say",
+      "url": "https://open.spotify.com/track/4gcaKnoeqmKtExTT37oYkD"
+    },
+    {
+      "album": {
         "name": "Who Told You (feat. Drake)",
         "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
       },
@@ -16194,7 +16314,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 191377,
       "name": "Zoom Zoom (feat. Omega Mighty)",
       "url": "https://open.spotify.com/track/37lnZpVjQ7gr33kcPNaSp0"

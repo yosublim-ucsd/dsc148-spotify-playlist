@@ -1,12 +1,12 @@
 {
   "description": "Because once you were a hipster, and now you are an indie parent.",
-  "num_followers": 60305,
+  "num_followers": 60349,
   "original_name": "Raised on Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzRlZTc4ZjI3MzQxYTk5NWNiY2Q0MmYzMDM4MmQyYzE0YWI1YWQ4",
+  "snapshot_id": "MCw1Mjg4NjdjODYxNmU4NDczMjAwNTRkN2NlNGExZDA0Y2FmYjhlZjVk",
   "tracks": [
     {
       "added_at": "2022-01-10 20:54:40",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 112706,
+      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 112706,
-      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
-      "url": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 201186,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Myths Of The Near Future",
-        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
-      },
-      "artists": [
-        {
-          "name": "Klaxons",
-          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Golden Skans",
-      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Golden Skans",
+      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Give Up (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
     },
     {
       "added_at": "2022-01-10 20:54:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 
 > Playlist oficial da série "De Volta aos 15" estrelando Maisa e Camila Queiroz\. Só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,687 likes - 68 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,686 likes - 68 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 13 | [Me Adora](https://open.spotify.com/track/5fphkEmVP9cTdU0LbuqLQO) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Chiaroscuro](https://open.spotify.com/album/2eqKyLfs5LoKhnLnCF5Qa8) | 4:31 |
 | 14 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
 | 15 | [Só os Loucos Sabem](https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:30 |
-| 16 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [So No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 |
+| 16 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Só No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 |
 | 17 | [Carla](https://open.spotify.com/track/79f21uRzn79zWCxrsF17hj) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [V.I.B.E.](https://open.spotify.com/album/0dUTLlo7mTukUVVUry5wkJ) | 4:08 |
 | 18 | [Sem Radar](https://open.spotify.com/track/4MOC8XHvAL6mmgEWyntQTb) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Tudo Outra Vez](https://open.spotify.com/album/2s0V8kS2t739EnTahL8DX3) | 3:52 |
 | 19 | [Cedo Ou Tarde](https://open.spotify.com/track/4chg7pMn6KWQSqisDBuOSn) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:13 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 67 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
 | 68 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 
-Snapshot ID: `MCxkMzdmYjE4MDZkZjg5OGFjZjM0YmIxOTEyYzU4MzJmMjMyYmRiYmZi`
+Snapshot ID: `MCwxNjk1Y2NhZWU3YzBiNDUzMTdjNjE2N2RhMmU5N2RhYzgxMTZkYjMy`

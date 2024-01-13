@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > PEDRO SAMPAIO e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,143,920 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,133,834 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 22 | [Manda um Oi \- Ao Vivo](https://open.spotify.com/track/7DkhndGTKaqkFxxKN7XlAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Manda um Oi \(Ao Vivo\)](https://open.spotify.com/album/1HItTCmal7a7jPpRwnV4g3) | 2:46 |
 | 23 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 |
 | 24 | [Anestesiado \- Ao Vivo](https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Anestesiado \(Ao Vivo\)](https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0) | 2:52 |
-| 25 | [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 |
+| 25 | [DENTRO DA HILUX](https://open.spotify.com/track/3jTyFoGeD3DTu9cnnctMWN) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [DENTRO DA HILUX](https://open.spotify.com/album/2piVofKb5EGkez3IH91OsJ) | 2:43 |
 | 26 | [Não Recomendo \- Ao Vivo](https://open.spotify.com/track/4ssTFuVeNJG8py5dr2P2pV) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Não Recomendo \(Ao Vivo\)](https://open.spotify.com/album/38P68ZCxri4SUQXSK15CxW) | 2:21 |
 | 27 | [Última Noite \- Ao Vivo](https://open.spotify.com/track/7EHlDvAa7gncwcAlfclZiX) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Última Noite \(Ao Vivo\)](https://open.spotify.com/album/0DPsEpVRLlu8yZ0hFRIxxw) | 2:28 |
 | 28 | [Eu Não Dou Conta \- Ao Vivo](https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Não Dou Conta \(Ao Vivo\)](https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Um Mês E Pouco \- Ao Vivo](https://open.spotify.com/track/3PqU6gHWUaBTtIZi5oxEJ7) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:51 |
 | 50 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 |
 
-Snapshot ID: `MCw2MmM0NWJmMTBiZGRiN2VlODAyNjE3N2FiZTU3NGNkN2Y5YjJhZWE2`
+Snapshot ID: `MCxjMGQ1MmYxMzdhOTY3OTc1NDdlMTMxMzM0ZTA1MjgzN2ZhMTViZjEy`

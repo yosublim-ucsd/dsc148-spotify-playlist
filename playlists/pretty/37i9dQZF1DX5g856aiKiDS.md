@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,615 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,542 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 35 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 |
 | 36 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 37 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
-| 38 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
+| 38 | [Love like that](https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki) | 3:35 |
 | 39 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 |
-| 40 | [Love like that](https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki) | 3:35 |
+| 40 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
 | 41 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
 | 42 | [Angel \(feat\. TAEYEON\)](https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Angel](https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs) | 4:24 |
 | 43 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
 | 44 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
-| 45 | [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 |
-| 46 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 45 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 46 | [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 |
 | 47 | [cocoa](https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo) | 3:07 |
 | 48 | [Across the universe](https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN) | 4:07 |
 | 49 | [fool](https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44) | 2:10 |
 | 50 | [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 |
 
-Snapshot ID: `MCw0NTc5NzVmMDYzYWZiNGQyZmZiMTBkMjVmMzI3NTMxNGU3ZDUxMGFk`
+Snapshot ID: `MCxjZGI5NmViMjYwYzc5ZTBmZmRlYmE2ZjMwMDU4YmI1NmUxNGY5ZWFi`

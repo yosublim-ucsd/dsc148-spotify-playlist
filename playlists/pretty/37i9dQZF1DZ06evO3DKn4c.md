@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,833 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,855 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 39 | [Terra](https://open.spotify.com/track/3hSmKgxQlmAD3H29BwIm6h) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:16 |
 | 40 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAzZWIxODkxZDM4NmUyZmQ2YzI0MDVhZGM4NmZhN2U3Mg==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDAzMjJiZDY5M2M5ODVhM2NmNDA3YTI0ZjMwYmU5MmZjNA==`

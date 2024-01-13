@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,194 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,205 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 10 | [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 |
 | 11 | [Quietness](https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Quietness](https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR) | 3:46 |
 | 12 | [Bhupali](https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:34 |
-| 13 | [Heaven](https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb) | 5:28 |
+| 13 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
 | 14 | [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 |
-| 15 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
+| 15 | [Heaven](https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb) | 5:28 |
 | 16 | [Kapla Bhati](https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 7:18 |
 | 17 | [Banaras Flute Meditation](https://open.spotify.com/track/1rxJhcFfnK2bHkLHZTIXJQ) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Banaras Flute Meditation](https://open.spotify.com/album/6oELvDJjCasbu0xCN5eu6g) | 3:14 |
 | 18 | [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 32 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 |
 | 33 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
 | 34 | [Flute Puriya Dhanashri](https://open.spotify.com/track/25m6wScMul9ga6xH7eo9Md) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:08 |
-| 35 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
-| 36 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
+| 35 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
+| 36 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
 | 37 | [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 |
 | 38 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 |
 | 39 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 74 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
 | 75 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |
 
-Snapshot ID: `MCxmMTIwMjJhZTJhMDJmOWJkZmNlMzhjNmEzODFhMjQ4ZTMyMzQ1MzUz`
+Snapshot ID: `MCxjNTFjMmU2MzY1M2QyNDJiMzhjZGU0Y2U1ZjcyOTg5ODExZGM4ZWU4`

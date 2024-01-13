@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 1326818,
+  "2024-01-13": 1326193,
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Cashflow x Batuflex",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Heijan",
   "name": "NKVT",
   "tracks": [
     {
@@ -872,6 +872,28 @@
     },
     {
       "album": {
+        "name": "Bu Gece Karakolluk Olabilirim",
+        "url": "https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po"
+      },
+      "artists": [
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175457,
+      "name": "Bu Gece Karakolluk Olabilirim",
+      "url": "https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT"
+    },
+    {
+      "album": {
         "name": "Bulamad\u0131m Yolu",
         "url": "https://open.spotify.com/album/2kNNyoE2pxsZ3G2xYjEHlU"
       },
@@ -883,7 +905,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179994,
       "name": "Bulamad\u0131m Yolu",
       "url": "https://open.spotify.com/track/5QSi6zDxjgQyIPJaQrJAet"
@@ -1192,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
+        "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133755,
+      "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
+      "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
+    },
+    {
+      "album": {
         "name": "Durma",
         "url": "https://open.spotify.com/album/3wwdHNwrDdXK7X4mnQgK9g"
       },
@@ -1207,7 +1247,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 149706,
       "name": "Durma",
       "url": "https://open.spotify.com/track/5VQdi4PLP9lmAgrI7t2IUb"
@@ -1229,6 +1269,24 @@
       "duration_ms": 144161,
       "name": "D\u00d6NME EVE",
       "url": "https://open.spotify.com/track/0fhDDNj4in3NuQZw0Y48QO"
+    },
+    {
+      "album": {
+        "name": "D\u00fcnya",
+        "url": "https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "D\u00fcnya",
+      "url": "https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r"
     },
     {
       "album": {
@@ -1989,6 +2047,28 @@
       "duration_ms": 195395,
       "name": "hep bir \u015feyler eksik",
       "url": "https://open.spotify.com/track/5LADOmbui5XFOpCk9n67RE"
+    },
+    {
+      "album": {
+        "name": "Hep Sonradan",
+        "url": "https://open.spotify.com/album/3CyRyRF9zaWko9R7F6u8W4"
+      },
+      "artists": [
+        {
+          "name": "Grogi",
+          "url": "https://open.spotify.com/artist/40PllTYqoDKRna2jm9Gf8D"
+        },
+        {
+          "name": "Kalben",
+          "url": "https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Hep Sonradan",
+      "url": "https://open.spotify.com/track/1RzUIIDzTvcX4Xc4UQs8Gf"
     },
     {
       "album": {
@@ -3075,7 +3155,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 126451,
       "name": "Markakalite",
       "url": "https://open.spotify.com/track/2oGQjm4YLHU5roYaF2Mwn0"
@@ -4875,7 +4955,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 138291,
       "name": "Yara Bere",
       "url": "https://open.spotify.com/track/7JmB51xzzI6EsUaJTw90ob"

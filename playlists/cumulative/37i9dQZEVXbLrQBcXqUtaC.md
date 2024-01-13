@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,102 songs - 2 day 15 hr 45 min
+1,104 songs - 2 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Drive Forever \(Motivational Speech Remix\)](https://open.spotify.com/track/6e6i89N2u59ptCVnLp7CPp) | [Multe](https://open.spotify.com/artist/4xDQu5BGcjlV8UJRgg5hw3) | [Drive Forever \(Motivational Speech Remix\)](https://open.spotify.com/album/2iMJJUGRNM5f0xJhhwGOWO) | 4:41 | 2021-07-07 | 2021-07-16 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2021-05-23 | 2021-06-04 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-05-21 |
-| [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-06-10 |  |
+| [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-06-10 | 2024-01-13 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-03-27\* | 2021-07-23 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-06-11 | 2022-06-13 |
 | [Décapotable](https://open.spotify.com/track/2F82KnRqMRq0zDi4uBVSlm) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Décapotable](https://open.spotify.com/album/5Sj6OAWzvft4LhUUreGNXy) | 3:29 | 2022-06-22 | 2022-08-04 |
@@ -335,7 +335,7 @@
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-22 | 2023-06-12 |
 | [Hall of Fame](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:51 | 2023-06-03 | 2023-06-05 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-12-31 |
-| [Haram Aliek](https://open.spotify.com/track/0nOYzdwXVX4ATRYVENxOyb) | [Nasrat Al Badr](https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5) | [Nasrat Al Badr Collection](https://open.spotify.com/album/7uUcCbO0rCZTiysnpi1gFm) | 4:50 | 2021-11-25 |  |
+| [Haram Aliek](https://open.spotify.com/track/0nOYzdwXVX4ATRYVENxOyb) | [Nasrat Al Badr](https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5) | [Nasrat Al Badr Collection](https://open.spotify.com/album/7uUcCbO0rCZTiysnpi1gFm) | 4:50 | 2021-11-25 | 2024-01-13 |
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-17 | 2022-10-01 |
 | [Harleys In Hawaii](https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:05 | 2021-09-16 | 2021-11-03 |
 | [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-04 | 2023-11-17 |
@@ -692,7 +692,7 @@
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2021-03-27\* | 2021-06-19 |
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2023-06-06 | 2023-08-13 |
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-21 | 2023-06-07 |
-| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-12 |  |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-12 | 2024-01-13 |
 | [Rouh W Nsani](https://open.spotify.com/track/1yHv6JilviCyhxRH46NO65) | [Yasmeen](https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl) | [Rouh W Nsani](https://open.spotify.com/album/2qU2ofOo6PBagtxNlkd0BR) | 3:45 | 2021-03-30 | 2021-03-31 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 | 2023-04-02 |
 | [Run](https://open.spotify.com/track/0PXd9WwmX3Y04KfHAaldDS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:58 | 2022-06-11 | 2022-06-13 |
@@ -974,6 +974,7 @@
 | [اسأل عني ميت عايش \- مسرع](https://open.spotify.com/track/3XQ0N7MzKUjsc7ZiB37irp) | [MaqamMusic](https://open.spotify.com/artist/7BEbEqXU1xU7Uw0lO7jfme) | [اسأل عني ميت عايش \- مسرع](https://open.spotify.com/album/4LV8mO2MMI6zuThoozHB60) | 3:29 | 2023-10-21 | 2023-12-21 |
 | [اسأل عني ميت عايش \- مسرع](https://open.spotify.com/track/4RQQPDx2tS9XQ4WVGi4Hzv) | [MaqamMusic](https://open.spotify.com/artist/7BEbEqXU1xU7Uw0lO7jfme) | [اسأل عني ميت عايش \- مسرع](https://open.spotify.com/album/3IoxPc2S7daV9TBcDaERA3) | 3:29 | 2023-08-26 | 2023-09-17 |
 | [اشكر جمالك](https://open.spotify.com/track/2gFZxR3Fur5t6fUzKgo7Y9) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/0CnyoumDAlz7cWYRzWccOa) | 4:54 | 2021-04-08 | 2022-02-13 |
+| [اغاني عراقي حزين \| يتعبك يتعبك كون الله يتعبك .](https://open.spotify.com/track/1dSZXgfz8AHkWzLDH2b8xr) | [Mohamed Mahrous](https://open.spotify.com/artist/7vmWLnCGcy3AlNLEUCsUwH) | [اغاني عراقي حزين \| يتعبك يتعبك كون الله يتعبك .](https://open.spotify.com/album/7D0AzUFWNf0aOwPxLVTifz) | 7:48 | 2024-01-12 |  |
 | [اقدح اقدح](https://open.spotify.com/track/2h8nveBGqqBD8ctxTtm9rs) | [Gaziy Bin Sahab](https://open.spotify.com/artist/6r7ArpYoS3neTbimme5iK0) | [شيلات غزاي بن سحاب](https://open.spotify.com/album/5eajc341Z6V6vZg3OXXaLE) | 3:57 | 2021-07-05 | 2021-07-07 |
 | [الا ياكبر حظي](https://open.spotify.com/track/1C1mHhtTjd84PT1zujIam1) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الا ياكبر حظي](https://open.spotify.com/album/18lBGe0MHzFRISPPSUkGr8) | 5:31 | 2021-11-21 | 2021-12-19 |
 | [البخت](https://open.spotify.com/track/5CeSq5JBv2wCeIHZA0PLtT) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/2QYOx6iuRhBUDiLQ262eGw) | 3:26 | 2022-03-09 | 2022-04-03 |
@@ -1085,6 +1086,7 @@
 | [واحشني صوتك](https://open.spotify.com/track/7v7Ec9YkD7pScPDVk3v5zV) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [واحشني صوتك](https://open.spotify.com/album/4mnBpLN40p7kdwhP5uixr5) | 3:24 | 2021-10-17 | 2021-11-14 |
 | [وافي في حبك](https://open.spotify.com/track/46yomiaXs8v46l4xbf4YwR) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [وافي في حبك](https://open.spotify.com/album/694jlsMSkqUyCK0fNSkMqu) | 3:31 | 2021-08-08 | 2021-09-21 |
 | [وافي في حبك](https://open.spotify.com/track/7FB375pwhrKOrIXoaQQbRY) | [عبدالله ال فروان](https://open.spotify.com/artist/7e64FWu6WV3LEno23HDFvL) | [ابتسم لي](https://open.spotify.com/album/1DEfGSIf7FmHiu6QWpgGQD) | 3:31 | 2021-08-30 | 2021-09-18 |
+| [والله ذلّه \- مسرع \|\| عراقي](https://open.spotify.com/track/6pxPaZVBjeYTK4YrQ8LbxL) | [Museqar FM](https://open.spotify.com/artist/7nXG0bpysRfhhpF9iHBN9s) | [Speed Up عراقي](https://open.spotify.com/album/3MxAH1xwN9LykJ9MLxHyhJ) | 4:32 | 2024-01-12 |  |
 | [والله وكت](https://open.spotify.com/track/31nkujAlmPGxjhWl0NkaKN) | [A7ar0](https://open.spotify.com/artist/6BvzpUCVj93EGHBLDZBZSG) | [a7ar0 \| 2](https://open.spotify.com/album/3VPEdUnLlf9ovcXCZCEgiW) | 3:51 | 2023-07-23 | 2023-08-19 |
 | [والله وكت](https://open.spotify.com/track/4g4ptY385ZK4y3b5d4Rl3J) | [A7ar0](https://open.spotify.com/artist/6BvzpUCVj93EGHBLDZBZSG) | [a7ar0 \| 8](https://open.spotify.com/album/4b9RqIC5uZfeRPaRaiXOmc) | 3:51 | 2023-08-18 | 2023-08-20 |
 | [وش جابك قلي وش جابك](https://open.spotify.com/track/1y7wArtYdwMin7fG9jhg4d) | [جودي الحوتي](https://open.spotify.com/artist/7rIm9xf0Pz40fCsdbew2ZX) | [وش جابك قلي وش جابك](https://open.spotify.com/album/4HQCv2oY1iR6UAPgplzOG2) | 2:49 | 2022-07-23 | 2022-08-07 |
@@ -1094,7 +1096,7 @@
 | [ولا غلطة](https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [ولا غلطة](https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33) | 4:35 | 2022-07-12 | 2022-07-22 |
 | [وناسه](https://open.spotify.com/track/5iz2mZPb0FiXOG9X1TTfRW) | [DJ\-MK](https://open.spotify.com/artist/1XcjHL7tqpinEtYVFgdBk6) | [وناسه](https://open.spotify.com/album/6RwRSqZEXuqO0r2BJKup2b) | 2:09 | 2021-03-27\* | 2021-08-31 |
 | [وين صرتي](https://open.spotify.com/track/0ywKzyhWxFQWGiQyjDBQFw) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [وين صرتي](https://open.spotify.com/album/0aHapfQB1j8j0NefL50PDo) | 5:48 | 2023-03-02 |  |
-| [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-03-03 | 2024-01-12 |
+| [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-03-03 |  |
 | [يا ابن خماش](https://open.spotify.com/track/18O3X0PmVps7R1JGMeIfph) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [يا ابن خماش](https://open.spotify.com/album/4Ib0kCcN26ueEBQ1v5De6C) | 4:02 | 2022-08-15 | 2022-09-19 |
 | [يا ابن خماش](https://open.spotify.com/track/2un4SG41aPvyQEJ6yzC2nT) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [مرحبا بك ياهلا](https://open.spotify.com/album/29azwTntzqRx0fBxu1pqKt) | 4:02 | 2022-07-29 | 2022-08-11 |
 | [يا حلو](https://open.spotify.com/track/1jUjqfU4pM7ogIGFp6RR7K) | [Moussiqa](https://open.spotify.com/artist/1yCtSjpmCi8nkoIF6muPeD) | [نيا برغوتي](https://open.spotify.com/album/3BSVOdZrjJFErRUTm7aEiE) | 6:48 | 2023-05-19 | 2023-07-11 |

@@ -1,13 +1,133 @@
 {
-  "description": "Underground indie rock gems. Cover: Wednesday",
-  "num_followers": 293391,
+  "description": "Underground indie rock gems. Cover: NewDad",
+  "num_followers": 293380,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjQ5NzBlZDMwMTllYmMzYzE1ZDJlNDEzNWEyMjc4ZGQ2ZDBkMWI4",
+  "snapshot_id": "MCwyMWVmNmNkOGI5MzgwZjMzOTM5ZDI1MDNjYzY3ZTM5MmFkZmE0MTQ4",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Missy",
+        "url": "https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        },
+        {
+          "name": "tormentatropica",
+          "url": "https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc"
+        }
+      ],
+      "duration_ms": 122149,
+      "name": "Missy",
+      "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Wake to flowers",
+        "url": "https://open.spotify.com/album/76z55NJfoHhOLNSr2kpF8M"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 178327,
+      "name": "Wake to flowers",
+      "url": "https://open.spotify.com/track/5rA5NU8FxazgSkXNmMN3KT"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "White Ribbons",
+        "url": "https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 264698,
+      "name": "White Ribbons",
+      "url": "https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Tell Me About It",
+        "url": "https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        },
+        {
+          "name": "Dottie",
+          "url": "https://open.spotify.com/artist/0RjSIF8OgSCEcz0iYPDZaI"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Tell Me About It",
+      "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr"
+      },
+      "artists": [
+        {
+          "name": "Remo Drive",
+          "url": "https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Row, Row",
+        "url": "https://open.spotify.com/album/3SvxOiQQqWMbgbzEXRflvV"
+      },
+      "artists": [
+        {
+          "name": "Catskill Mountain Rescue Club",
+          "url": "https://open.spotify.com/artist/0D4EUlL2tcrfa8PDYb279b"
+        },
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        },
+        {
+          "name": "Barely Trev",
+          "url": "https://open.spotify.com/artist/01mUEpopaowW47Ra1nz55w"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Molly McPhaul",
+          "url": "https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL"
+        }
+      ],
+      "duration_ms": 174861,
+      "name": "Row, Row",
+      "url": "https://open.spotify.com/track/6pluR4e5cY2nUgp1aCNIhl"
+    },
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
@@ -227,6 +347,22 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Flames shards goo",
+      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
+      "added_at": "2023-12-08 17:28:54",
+      "album": {
         "name": "Drive All Night",
         "url": "https://open.spotify.com/album/2eKgVsjsHyuKupvTRHTrfT"
       },
@@ -291,6 +427,22 @@
       "duration_ms": 201102,
       "name": "Laced",
       "url": "https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2"
+    },
+    {
+      "added_at": "2023-12-08 17:28:54",
+      "album": {
+        "name": "Chariot",
+        "url": "https://open.spotify.com/album/1k5Pt1vC16pTzNO1w4si7U"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/7LZzQ0dCbyVtiLDFhySTnY"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -391,22 +543,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "HFCS",
-        "url": "https://open.spotify.com/album/64oj7ISM19J8FbG03B10Mh"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 142883,
-      "name": "HFCS",
-      "url": "https://open.spotify.com/track/63VHx8tUH1i0jhNMg70RQu"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Trying",
         "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
       },
@@ -471,22 +607,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "LIAR",
-        "url": "https://open.spotify.com/album/2Wg0EAIJYlXPPSQrZi3zxf"
-      },
-      "artists": [
-        {
-          "name": "Nico Days",
-          "url": "https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh"
-        }
-      ],
-      "duration_ms": 192328,
-      "name": "LIAR",
-      "url": "https://open.spotify.com/track/3LNAmT4o9ybROuKehinBiA"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP"
       },
@@ -499,22 +619,6 @@
       "duration_ms": 198520,
       "name": "27",
       "url": "https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "juniper",
-        "url": "https://open.spotify.com/album/11G5OHGVwC52gUU8MqB5Qt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taos",
-          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
-        }
-      ],
-      "duration_ms": 180422,
-      "name": "underneath",
-      "url": "https://open.spotify.com/track/1gkAHeSzB8nVjA8baciVUQ"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -583,22 +687,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
-      },
-      "artists": [
-        {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Flames shards goo",
-      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "New Ro",
         "url": "https://open.spotify.com/album/4dKvE1DdnZeCaFGU7HGAxS"
       },
@@ -611,22 +699,6 @@
       "duration_ms": 191481,
       "name": "New Ro",
       "url": "https://open.spotify.com/track/7DOESzj7GH4e4YKHkmmbkn"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "I got the fear",
-        "url": "https://open.spotify.com/album/6avuY3vylFhfFP1IFfDUGo"
-      },
-      "artists": [
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 204837,
-      "name": "I got the fear",
-      "url": "https://open.spotify.com/track/6AFY12Amy94FW5S4jnGJ8s"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -695,22 +767,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Census Designated",
-        "url": "https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        }
-      ],
-      "duration_ms": 360995,
-      "name": "Backseat Girl",
-      "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Deer in Headlights",
         "url": "https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp"
       },
@@ -739,22 +795,6 @@
       "duration_ms": 167920,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Chariot",
-        "url": "https://open.spotify.com/album/1k5Pt1vC16pTzNO1w4si7U"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/7LZzQ0dCbyVtiLDFhySTnY"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -963,22 +1003,6 @@
       "duration_ms": 175108,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 156722,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
     },
     {
       "added_at": "2023-12-08 17:28:54",

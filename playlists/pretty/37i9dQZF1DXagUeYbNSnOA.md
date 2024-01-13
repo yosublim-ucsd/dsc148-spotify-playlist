@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Le Coco\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,903 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,716 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 48 | [Flores Ardientes](https://open.spotify.com/track/5mqj7IIp28OzoyxKgSf5Ie) | [SUA](https://open.spotify.com/artist/0OZqJ1PE4eMJ5rqz5TPMaJ) | [Flores Ardientes](https://open.spotify.com/album/27FpGzVfanxcadOLFiSgMA) | 3:16 |
 | 49 | [El cuarto espejo](https://open.spotify.com/track/4S0HEH6LquxEG1oUIMPTOn) | [AnagramA](https://open.spotify.com/artist/1gGrMnLqaLGprrw2CEGxVu), [Julia](https://open.spotify.com/artist/5Jcfh2ctTxgAI8OxmlSRhS) | [El cuarto espejo](https://open.spotify.com/album/3AtvqFofk7OKfeGaHDDxzk) | 4:08 |
 
-Snapshot ID: `MCxmNGE1Mjc2MTExMTQwY2EwMzA5MTM3NTI1MDc2OWY3YThiMTYzYTk5`
+Snapshot ID: `MCxhMTg5NDcyOGY4OGZhZTNkMjRlYzRiZDc2M2EyMDhlNzRmMTdiMDIw`

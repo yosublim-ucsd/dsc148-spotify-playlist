@@ -4,11 +4,13 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,198 songs - 4 day 21 hr 34 min
+2,198 songs - 4 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW) | 0:00 | 2024-01-11 |  |
 | [](https://open.spotify.com/track/2Xwyq4AyKumjXIVV7uk1Z9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Big boys](https://open.spotify.com/album/50yqUyt7aBiffET4A5nsjw) | 0:00 | 2023-01-17 | 2023-01-29 |
+| [](https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW) | 0:00 | 2024-01-11 |  |
 | [](https://open.spotify.com/track/6j4w8KLDP4QZBrje0lEXFp) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Cupid \(Sped Up\) \[Remix\]](https://open.spotify.com/album/4y4ZPmIEBHAkD80Z3r64Ba) | 0:00 | 2023-04-13 | 2023-04-16 |
 | [](https://open.spotify.com/track/6wJavOotAd4bEeB9QusGcE) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D) | 0:00 | 2022-07-10 | 2022-07-15 |
 | [](https://open.spotify.com/track/7ztsvXsYxhTLGoUOUx9Yvv) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5rkfpEidQIJoRVsJWmWdyq) | 0:00 | 2024-01-02 | 2024-01-10 |
@@ -658,7 +660,7 @@
 | [Friends](https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X) | [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Friends](https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK) | 2:50 | 2022-05-10 | 2022-05-24 |
 | [Friends](https://open.spotify.com/track/2WpMx09zVGGmKphjnuMwWH) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [Friends](https://open.spotify.com/album/24uHWGhZHkrKsgJSLYWETa) | 3:08 | 2022-11-17 | 2022-12-08 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-22 | 2022-04-07 |
-| [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-11-28 |  |
+| [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-11-28 | 2024-01-13 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-06-06 | 2023-09-06 |
 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2023-09-10 | 2023-09-21 |
 | [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 | 2022-04-30 | 2022-05-11 |
@@ -745,7 +747,6 @@
 | [Gucci Gabhru](https://open.spotify.com/track/11FzxuVIoOWo07FyGwT8iR) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Gucci Gabhru](https://open.spotify.com/album/2HI0L36kWoMhhzIPQw9xki) | 2:31 | 2023-12-03 | 2023-12-06 |
 | [Guilty](https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Guilty \- The 4th Mini Album](https://open.spotify.com/album/1lnDLQ5nH1V3ST8MuVGmQW) | 3:10 | 2023-11-21 | 2023-11-29 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-06-21 | 2023-06-23 |
-| [H00DBYAIR](https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp) | [nitro!](https://open.spotify.com/artist/5otCfrzno8ga0qg868oibs) | [H00DBYAIR](https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW) | 3:32 | 2024-01-11 |  |
 | [H00DBYAIR](https://open.spotify.com/track/5EqYMOxwZyhneCfMU35pMQ) | [wzzywrld](https://open.spotify.com/artist/4tMG97uFOBETyazRgjEFac) | [H00DBYAIR](https://open.spotify.com/album/1OMnOFAcLBsdk9TcAunnIm) | 3:32 | 2024-01-09 | 2024-01-11 |
 | [Habang Buhay](https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2021-12-31 | 2022-02-08 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-08 | 2022-10-02 |
@@ -795,7 +796,7 @@
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-16 | 2023-02-22 |
 | [Hi\-De\-Ho](https://open.spotify.com/track/0LlnJ2EWpASLpjvtSQ8Yjd) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:56 | 2022-04-13 | 2022-04-19 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-11-08 | 2022-11-16 |
-| [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-11-28 | 2024-01-12 |
+| [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-11-28 |  |
 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 | 2023-07-01 | 2023-07-31 |
 | [Hits 2021 \- Mashup](https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hits 2021 \(Mashup\)](https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa) | 2:42 | 2022-03-10 | 2022-05-05 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-27 | 2023-06-14 |
@@ -2024,7 +2025,6 @@
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-10 |  |
 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-08-15 | 2023-09-06 |
 | [UR THE MOON](https://open.spotify.com/track/4ylzPQ0re4NRE5EWnNUxCw) | [725](https://open.spotify.com/artist/2OLCz6M82gOFqBo5rNkg4f) | [UR THE MOON](https://open.spotify.com/album/1EP7w7MXFVxaviATrJjRyf) | 2:47 | 2023-12-26 | 2024-01-04 |
-| [Ur The Moon](https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX) | [Maori Beats](https://open.spotify.com/artist/6T1ZK4NhuRAE64bCniMrGk) | [Ur The Moon](https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW) | 2:48 | 2024-01-11 |  |
 | [ur the moon](https://open.spotify.com/track/20WKIcsFqP3fpWvnfKEqv2) | [wzzywrld](https://open.spotify.com/artist/4tMG97uFOBETyazRgjEFac) | [ur the moon](https://open.spotify.com/album/3UMvk3TDzkVQ4cT4xN2lEG) | 2:46 | 2024-01-06 | 2024-01-11 |
 | [Ur the Moon Catier](https://open.spotify.com/track/543jVJIoCGTUCcCWNheFqp) | [Negoheror](https://open.spotify.com/artist/1avlVy2ZiWrk03xFi4MYTD) | [Ur the Moon Catier](https://open.spotify.com/album/66mK9UIYkdF8tqPj1YvNqi) | 2:46 | 2024-01-03 | 2024-01-07 |
 | [Us Against the World \- Remix](https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Us Against the World \(Remix\)](https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv) | 3:12 | 2023-03-14 | 2023-03-23 |

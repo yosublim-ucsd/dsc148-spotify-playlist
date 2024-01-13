@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Margo Cilker
 
-201 songs - 12 hr 21 min
+202 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Dreamer](https://open.spotify.com/track/3ao3WYYhnCFzds3Iz23lrP) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Dreamer](https://open.spotify.com/album/5YO19y0xmwn6XYKh64Nc1x) | 3:50 | 2023-03-24 |  |
 | [Early Morning Rising](https://open.spotify.com/track/5RAumrYJ1PTAbrHVemrgWv) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Early Morning Rising](https://open.spotify.com/album/37jSSdk11uBf4rRVcJ6IIt) | 4:49 | 2023-01-13 |  |
 | [Eden and Her Borderlands](https://open.spotify.com/track/4bkQi6kVXsm2tbIJruVfDz) | [Anya Hinkle](https://open.spotify.com/artist/6g2FWv22yEWMqEiaEv5CNc) | [Eden and Her Borderlands](https://open.spotify.com/album/0HDAngkED519CKHJGdjTCR) | 5:17 | 2022-01-28 | 2023-06-17 |
-| [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:48 | 2022-02-25 |  |
+| [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:48 | 2022-02-25 | 2024-01-13 |
 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 | 2022-02-25 | 2022-10-14 |
 | [Everything Under The Sun](https://open.spotify.com/track/5g19VWVVMCk9pc5Y0SOSGK) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Everything Under The Sun](https://open.spotify.com/album/5kXzFL6Ug21nCNdZ3M7rPP) | 4:14 | 2023-11-10 |  |
 | [False Gods](https://open.spotify.com/track/3yP5h28oeRzAphURxUruUt) | [Evan Bartels](https://open.spotify.com/artist/1Ylh9mfN4qqJMl2uDr6sUd) | [Lonesome](https://open.spotify.com/album/4Tb5K95mAHziwCorYbpFOt) | 3:42 | 2022-01-28 | 2023-05-20 |
@@ -196,6 +196,7 @@
 | [Varnado](https://open.spotify.com/track/78ctqi5omDE6dJJ1AQNtub) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [Varnado](https://open.spotify.com/album/1uhS0UMkjr0g9zCNHgrFNU) | 4:02 | 2023-07-14 |  |
 | [Wagon Girl](https://open.spotify.com/track/0mnCjKJKC5chMQFlwOh8tW) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Wagon Girl](https://open.spotify.com/album/6uRS7tx5lIoaBXsVhqijiS) | 3:10 | 2023-07-28 |  |
 | [Waltz Across Texas](https://open.spotify.com/track/5drS8Hv8Q8fufYOn9km0UT) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU) | [Loving You](https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR) | 2:47 | 2023-06-23 |  |
+| [Way Down Yonder](https://open.spotify.com/track/39y7924mLMb0Jqv5Z1BWkN) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7) | [Way Down Yonder](https://open.spotify.com/album/2FdypF8Zv8d6g2MX8WgyXH) | 3:36 | 2024-01-12 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 | 2023-05-20 |
 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 | 2023-04-09 |
 | [Where Will I Go](https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Where Will I Go](https://open.spotify.com/album/74LQjfjqdiTdubRld7e1Jx) | 5:19 | 2023-06-16 | 2023-09-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Nsqk & legallyrxx",
+  "description": "Fresh Latin Indie. Cover: daniel sabater",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -4974,7 +4974,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
@@ -5843,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "NO ME QUIERO PEGAR",
+        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142349,
+      "name": "NO ME QUIERO PEGAR",
+      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
+    },
+    {
+      "album": {
         "name": "no puedo decir que no (no regrets)",
         "url": "https://open.spotify.com/album/1DEWooZAic8b4wRHYEjewL"
       },
@@ -6188,7 +6206,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 194048,
       "name": "odio esta casa (cuando te vas)",
       "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
@@ -9440,7 +9458,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 228250,
       "name": "Volando",
       "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"

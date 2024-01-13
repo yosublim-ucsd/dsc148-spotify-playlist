@@ -2,9 +2,9 @@
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in R&B, right now – featuring Lucky Daye.
+> What's happening in R&B, right now – featuring Teezo Touchdown.
 
-684 songs - 1 day 13 hr 38 min
+689 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2022-07-16 |
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2022-07-22 | 2022-08-27 |
 | [About You](https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [About You](https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC) | 2:50 | 2021-12-31 | 2022-03-05 |
+| [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2024-01-12 |  |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-05 |  |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 | 2023-12-09 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-08-26 | 2022-09-24 |
@@ -158,6 +159,7 @@
 | [Drive All Night](https://open.spotify.com/track/4uQLsq21yvPaSNxTaTo2ou) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Deluxe\)](https://open.spotify.com/album/47IMZpndaX6Nl0yEKJWWCi) | 2:49 | 2023-02-24 | 2023-03-18 |
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-03 | 2022-07-16 |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-20 | 2023-03-25 |
+| [Effortlessly](https://open.spotify.com/track/7tstz2Oy0Gxhxkqp1MU8FZ) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Effortlessly](https://open.spotify.com/album/6ahbfskqruzQOt5QXMlbzP) | 1:55 | 2024-01-12 |  |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2021-12-31 | 2022-03-18 |
 | [Energy](https://open.spotify.com/track/4Zghtgj5NOb3wqlBuat3FI) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 4:10 | 2023-08-11 | 2023-10-28 |
 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 | 2022-08-12 | 2022-09-24 |
@@ -478,6 +480,7 @@
 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 | 2021-12-31 | 2022-02-12 |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-03-11 | 2022-04-23 |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-06-24 | 2022-09-10 |
+| [prove it](https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:27 | 2024-01-12 |  |
 | [Proven \(with Rick Ross\)](https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 4:27 | 2022-06-03 | 2022-09-17 |
 | [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2022-06-24 | 2022-10-29 |
 | [Pull Over](https://open.spotify.com/track/2Z8Bs1coB5jruX75pmBG7F) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Pull Over](https://open.spotify.com/album/0t7F6632fADm90Kbd1V25j) | 3:41 | 2024-01-05 |  |
@@ -517,6 +520,7 @@
 | [Shine](https://open.spotify.com/track/1hze2kmg5hKQjGOcHCE5OM) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Shine](https://open.spotify.com/album/7kNpJfdJrvzVZuwWvt2w0S) | 2:33 | 2022-03-25 | 2022-05-14 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2022-12-10 |
 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-09 | 2022-12-17 |
+| [should've wore a bonnet](https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:06 | 2024-01-12 |  |
 | [Show Her The Way](https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Show Her The Way](https://open.spotify.com/album/5l7H2sueEPAHGGly08PkJS) | 4:02 | 2023-04-21 | 2023-06-03 |
 | [SHOWING YOU](https://open.spotify.com/track/7ggHBbAUjEVpwBSUM0TNyK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/4QTfWxMZjLRhQ9zxomi4t4) | 4:46 | 2021-12-31 | 2022-01-29 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-02 | 2023-06-24 |
@@ -626,6 +630,7 @@
 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 | 2022-12-30 | 2023-02-25 |
 | [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 | 2022-02-04 | 2022-02-12 |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-17 | 2023-06-10 |
+| [Up And Down](https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 3:04 | 2024-01-12 |  |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-01 | 2022-11-12 |
 | [Up From The Ashes](https://open.spotify.com/track/6MTtOV150uwitRZz4anI2h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 2:42 | 2021-12-31 | 2022-01-15 |
 | [Used To Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Used To Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf) | 2:47 | 2023-02-17 | 2023-05-13 |

@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 166516,
+  "num_followers": 166562,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDViZjA3MDBhODAwNzc5NGUzMTEzOGM4MDkwNGRkZTg5NWRiNGEx",
+  "snapshot_id": "MCxhNzkzMmI1YWY4MTViYWJlNjQ0NWM4ZTY2ZDMwMzYyZGYxZjUzZmMz",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Rockin' With Reed",
-        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 143331,
-      "name": "Take Out Some Insurance",
-      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 176747,
+      "name": "Somebody Loan Me A Dime - Remastered",
+      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Somebody Loan Me A Dime (Remastered)",
-        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 176747,
-      "name": "Somebody Loan Me A Dime - Remastered",
-      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Blues Comin' On",
         "url": "https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa"
       },
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 175177,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Traveler's Blues",
         "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 436213,
       "name": "How Blue Can You Get",
       "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 175177,
-      "name": "One Step Forward",
-      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Shadows and Ghosts",
         "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
       },
@@ -1399,18 +1383,34 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
       "artists": [
         {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
         }
       ],
-      "duration_ms": 146397,
-      "name": "Connecticut Blues",
-      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 278560,
+      "name": "I Hate These Doggone Blues",
+      "url": "https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
         }
       ],
-      "duration_ms": 278560,
-      "name": "I Hate These Doggone Blues",
-      "url": "https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7"
+      "duration_ms": 146397,
+      "name": "Connecticut Blues",
+      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
     },
     {
       "added_at": "2023-10-05 13:18:26",

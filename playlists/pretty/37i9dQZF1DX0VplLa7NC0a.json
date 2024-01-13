@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 34266,
+  "num_followers": 34280,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmRkMjM5MzQxMTg0ZjgwMjU4ZmEwNzk0ZjA3ZDIyNzk5MzNlOTdh",
+  "snapshot_id": "MCw4OWMyZGQ5OTNlYzI4NzUwZWVjZDZmMzA2MGNkNTc1YjExOTZhNWMz",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -367,38 +367,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
-        "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Evelyne Razimowsky",
-          "url": "https://open.spotify.com/artist/2tUtMDZs0o4u6KrgxJmJNg"
-        },
-        {
-          "name": "Michel Piquemal",
-          "url": "https://open.spotify.com/artist/3NbsF5A8yWeNRdypH3AeKB"
-        },
-        {
-          "name": "Jean-Claude Pennetier",
-          "url": "https://open.spotify.com/artist/4TsvA4Q8I8fXcOWAwzb5cb"
-        },
-        {
-          "name": "Ensemble Vocal Michel Piquemal",
-          "url": "https://open.spotify.com/artist/2vdKvMmKhaVXxJH0PmEchL"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Duetto buffo di due gatti",
-      "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: La gazza ladra (Live)",
         "url": "https://open.spotify.com/album/2Yr7ygE0GfrjGutqpLLtNl"
       },
@@ -427,6 +395,38 @@
       "duration_ms": 255973,
       "name": "La gazza ladra, Act II: Act II Scene 6: A mio nome, deh, consegna (Ninetta, Pippo)",
       "url": "https://open.spotify.com/track/5domJuSyJr3DLR8g46RBvy"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
+        "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Evelyne Razimowsky",
+          "url": "https://open.spotify.com/artist/2tUtMDZs0o4u6KrgxJmJNg"
+        },
+        {
+          "name": "Michel Piquemal",
+          "url": "https://open.spotify.com/artist/3NbsF5A8yWeNRdypH3AeKB"
+        },
+        {
+          "name": "Jean-Claude Pennetier",
+          "url": "https://open.spotify.com/artist/4TsvA4Q8I8fXcOWAwzb5cb"
+        },
+        {
+          "name": "Ensemble Vocal Michel Piquemal",
+          "url": "https://open.spotify.com/artist/2vdKvMmKhaVXxJH0PmEchL"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Duetto buffo di due gatti",
+      "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1231,66 +1231,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Semiramide",
-        "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Alex Penda",
-          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
-        },
-        {
-          "name": "Marianna Pizzolato",
-          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
-        },
-        {
-          "name": "Lorenzo Regazzo",
-          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
-        },
-        {
-          "name": "John Osborn",
-          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
-        },
-        {
-          "name": "Andrea Mastroni",
-          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
-        },
-        {
-          "name": "Marija Jokovic",
-          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
-        },
-        {
-          "name": "Vassilis Kavayas",
-          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
-        },
-        {
-          "name": "Raffaele Facciola",
-          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
-        },
-        {
-          "name": "Poznan Camerata Bach Choir",
-          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
-        },
-        {
-          "name": "Virtuosi Brunensis",
-          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
-        },
-        {
-          "name": "Antonino Fogliani",
-          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
-        }
-      ],
-      "duration_ms": 458173,
-      "name": "Semiramide: Act I Scene 8: Ah dov'e, dov'e il cimento? (Idreno)",
-      "url": "https://open.spotify.com/track/56bSi0LsUurOGZZ1SBbmB5"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Otello",
         "url": "https://open.spotify.com/album/0tNEiJodkTVwMo74ggdl27"
       },
@@ -1355,6 +1295,66 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Semiramide",
+        "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alex Penda",
+          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "John Osborn",
+          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
+        },
+        {
+          "name": "Andrea Mastroni",
+          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
+        },
+        {
+          "name": "Marija Jokovic",
+          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
+        },
+        {
+          "name": "Vassilis Kavayas",
+          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
+        },
+        {
+          "name": "Raffaele Facciola",
+          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "duration_ms": 458173,
+      "name": "Semiramide: Act I Scene 8: Ah dov'e, dov'e il cimento? (Idreno)",
+      "url": "https://open.spotify.com/track/56bSi0LsUurOGZZ1SBbmB5"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
       },
       "artists": [
         {
@@ -1388,21 +1388,13 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
         }
       ],
-      "duration_ms": 308200,
-      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
-      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
+      "duration_ms": 310200,
+      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
+      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1435,8 +1427,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 3",
-        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
       },
       "artists": [
         {
@@ -1444,13 +1436,41 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
-      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+      "duration_ms": 308200,
+      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
+      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "duration_ms": 356653,
+      "name": "Stabat Mater: III. Quis est homo (Duet)",
+      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1475,26 +1495,6 @@
       "duration_ms": 146800,
       "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
       "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        }
-      ],
-      "duration_ms": 356653,
-      "name": "Stabat Mater: III. Quis est homo (Duet)",
-      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
     },
     {
       "added_at": "2022-06-28 08:38:32",

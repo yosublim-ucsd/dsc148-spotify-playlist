@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,701 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,512 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 8 | [A Place To Hide](https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [A Place To Hide](https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F) | 2:27 |
 | 9 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 |
 | 10 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 |
-| 11 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
-| 12 | [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 |
+| 11 | [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 |
+| 12 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
 | 13 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 |
 | 14 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
 | 15 | [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 |
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 38 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
 | 39 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
 | 40 | [A Midnight Sun](https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [A Midnight Sun](https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh) | 2:34 |
-| 41 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 |
-| 42 | [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 |
+| 41 | [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 |
+| 42 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 |
 | 43 | [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 |
 | 44 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 |
 | 45 | [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 |
 | 46 | [Nightfall](https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:22 |
-| 47 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 |
-| 48 | [Tromsø](https://open.spotify.com/track/09jdC5o254s2seWBMMHco7) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Tromsø](https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX) | 2:11 |
+| 47 | [Tromsø](https://open.spotify.com/track/09jdC5o254s2seWBMMHco7) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Tromsø](https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX) | 2:11 |
+| 48 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 |
 | 49 | [Wreszcie](https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Wreszcie](https://open.spotify.com/album/68AlPgfClESbRVI28gvegI) | 2:55 |
 | 50 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
 | 51 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 62 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 |
 | 63 | [Emergence](https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Emergence](https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC) | 2:06 |
 | 64 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 |
-| 65 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
-| 66 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 |
+| 65 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 |
+| 66 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
 | 67 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 |
 | 68 | [Romanzo](https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Romanzo](https://open.spotify.com/album/3hV54JZiq0la65AY4KXB4J) | 2:03 |
 | 69 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 |
 | 70 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 |
 | 71 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
 | 72 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
-| 73 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
-| 74 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
+| 73 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
+| 74 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
 | 75 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
 | 76 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 |
 | 77 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 79 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
 | 80 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 |
 
-Snapshot ID: `MCwzM2EyMjE5Y2MxNmZhYTM5ZGU1OWI1Mzg5NTQxOTMyNzc4OWJkYTU4`
+Snapshot ID: `MCwwMWU5Y2FhYjQ0ZWE3ZmFjY2IzYTU5NzI3OWI3MTgwNGZjMGNmOWNl`

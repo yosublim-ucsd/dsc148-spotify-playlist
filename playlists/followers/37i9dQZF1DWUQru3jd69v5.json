@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 225246,
+  "2024-01-13": 225128,
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Suspect CB",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: BIG P",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 149387,
       "name": "AMG",
       "url": "https://open.spotify.com/track/3vXCF2W05QjzgIcRfmuGdq"
@@ -3266,6 +3266,24 @@
     },
     {
       "album": {
+        "name": "CATENE",
+        "url": "https://open.spotify.com/album/7zQzotpUtavfLrrBVQsoRZ"
+      },
+      "artists": [
+        {
+          "name": "Red Roses",
+          "url": "https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "CATENE",
+      "url": "https://open.spotify.com/track/5fMgrtXaDlFYwlp0GXZOIM"
+    },
+    {
+      "album": {
         "name": "Cattiva",
         "url": "https://open.spotify.com/album/4SojCxiP6r4CrbvDGPYai8"
       },
@@ -3769,6 +3787,24 @@
       "duration_ms": 171958,
       "name": "Click",
       "url": "https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m"
+    },
+    {
+      "album": {
+        "name": "Closed",
+        "url": "https://open.spotify.com/album/6rl4eAiplgEOlHAXS5URCh"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Closed",
+      "url": "https://open.spotify.com/track/2Tjpjyz6I6vFwVl6ZdvTAt"
     },
     {
       "album": {
@@ -5685,7 +5721,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 153079,
       "name": "FACE ID",
       "url": "https://open.spotify.com/track/6fGoyDw3Wq5zRPr4KJVvrU"
@@ -8196,6 +8232,24 @@
     },
     {
       "album": {
+        "name": "Jet-ski",
+        "url": "https://open.spotify.com/album/3VHOtIACKGyBW7zcpAOc4T"
+      },
+      "artists": [
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132744,
+      "name": "Jet-ski",
+      "url": "https://open.spotify.com/track/6hC0KkmMYt3EdOQHhLtsqD"
+    },
+    {
+      "album": {
         "name": "Joca Jouer (intro)",
         "url": "https://open.spotify.com/album/04feKHyQWpDWGkwCbDmkEW"
       },
@@ -10630,6 +10684,24 @@
     },
     {
       "album": {
+        "name": "EXPORT",
+        "url": "https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195221,
+      "name": "Medico (128bpm - C#min)",
+      "url": "https://open.spotify.com/track/1zelXhcUYHJlgO0Zt8eaOM"
+    },
+    {
+      "album": {
         "name": "Meglio Ke",
         "url": "https://open.spotify.com/album/2CyXe4iJTBUTTPmDupaPMW"
       },
@@ -11311,6 +11383,28 @@
       "duration_ms": 111489,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/3j6MsAwOw5FemCn8CIn20l"
+    },
+    {
+      "album": {
+        "name": "MR 100MILA",
+        "url": "https://open.spotify.com/album/7kf2VfPpSQ2QScQ3qkhcXP"
+      },
+      "artists": [
+        {
+          "name": "YOUNGGUCCI",
+          "url": "https://open.spotify.com/artist/7H20paGoAca5bp3V3K3svi"
+        },
+        {
+          "name": "Ric de Large",
+          "url": "https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135818,
+      "name": "MR 100MILA",
+      "url": "https://open.spotify.com/track/77CdljfqX5A2UQxHJJm1uZ"
     },
     {
       "album": {
@@ -12051,6 +12145,24 @@
       "duration_ms": 192443,
       "name": "Non sai di me",
       "url": "https://open.spotify.com/track/3A9N1BNNayyIwV4TndhNbs"
+    },
+    {
+      "album": {
+        "name": "NON SORRIDO",
+        "url": "https://open.spotify.com/album/6dIcAn8cSQpURPZjstB7LP"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187783,
+      "name": "NON SORRIDO",
+      "url": "https://open.spotify.com/track/5vNMPY55Ue092tRTU9n6iu"
     },
     {
       "album": {
@@ -15497,7 +15609,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 164571,
       "name": "Si si (140bpm - Emin)",
       "url": "https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70"
@@ -17200,6 +17312,24 @@
     },
     {
       "album": {
+        "name": "TRAPPOLA",
+        "url": "https://open.spotify.com/album/7hWxG8XWQJqTsMzTPEl6ng"
+      },
+      "artists": [
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154806,
+      "name": "TRAPPOLA",
+      "url": "https://open.spotify.com/track/4lHEOZd10pXduOORcSdAgu"
+    },
+    {
+      "album": {
         "name": "Traumi",
         "url": "https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF"
       },
@@ -17351,6 +17481,28 @@
       "duration_ms": 141454,
       "name": "Tuo padre",
       "url": "https://open.spotify.com/track/5aM2VSnHiCpOavR0GjfxRj"
+    },
+    {
+      "album": {
+        "name": "Tupac",
+        "url": "https://open.spotify.com/album/0ibYqGiiBXIjecGQnFGcVn"
+      },
+      "artists": [
+        {
+          "name": "Rosolo Roso",
+          "url": "https://open.spotify.com/artist/4v6IUouJ3henBgdkXXBfLg"
+        },
+        {
+          "name": "G Coal",
+          "url": "https://open.spotify.com/artist/2vvXqIv6N4huXqIngC3ces"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163857,
+      "name": "Tupac",
+      "url": "https://open.spotify.com/track/2FTShEo8Et1jNaAwTjbspm"
     },
     {
       "album": {

@@ -1,28 +1,96 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party",
-  "num_followers": 840273,
+  "description": "Explore all things indie rock right now. Featuring music from Vacations",
+  "num_followers": 839057,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmU2NWVlNjNmMjk0YTIzZGY1NmI0MzFiZjNlZDhjOTM3ODY0NzUy",
+  "snapshot_id": "MCw2NTJjYzAyNjcwN2ZkZWY1N2RjOWRhZDE4NDg2ZjZhMTU4ZDQyYjIz",
   "tracks": [
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Shoelace & A Knot",
-        "url": "https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ"
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN"
       },
       "artists": [
         {
-          "name": "yungatita",
-          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         }
       ],
-      "duration_ms": 269999,
-      "name": "Pick At Your Face",
-      "url": "https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT"
+      "duration_ms": 146904,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Missy",
+        "url": "https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        },
+        {
+          "name": "tormentatropica",
+          "url": "https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc"
+        }
+      ],
+      "duration_ms": 122149,
+      "name": "Missy",
+      "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 131546,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Hanging",
+        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "No Caffeine",
+      "url": "https://open.spotify.com/track/61BkoclT5UeJSLf4x3Z06V"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -39,6 +107,70 @@
       "duration_ms": 229667,
       "name": "Caesar on a TV Screen",
       "url": "https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Peace Sign",
+        "url": "https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Peace Sign",
+      "url": "https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Shoelace & A Knot",
+        "url": "https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "duration_ms": 269999,
+      "name": "Pick At Your Face",
+      "url": "https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -143,22 +275,6 @@
       "duration_ms": 253745,
       "name": "rot in love",
       "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Paige Machine",
-        "url": "https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 160039,
-      "name": "Paige Machine",
-      "url": "https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -385,6 +501,22 @@
       "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Woolgathering",
@@ -415,22 +547,6 @@
       "duration_ms": 205175,
       "name": "silver girl",
       "url": "https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -731,22 +847,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Between Your Teeth",
         "url": "https://open.spotify.com/album/4QstdyKGItbksEglSAglQR"
       },
@@ -867,22 +967,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Utopian",
-        "url": "https://open.spotify.com/album/4EcdsdsmbPSKTaIWZLmF6t"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Utopian",
-      "url": "https://open.spotify.com/track/6Y73gYOJzsXMxp5JVmYRCk"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l"
       },
@@ -947,22 +1031,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "So Vanilla",
-        "url": "https://open.spotify.com/album/5wWGDN8vTpEFxO3e30qDug"
-      },
-      "artists": [
-        {
-          "name": "Viji",
-          "url": "https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "Say Hi",
-      "url": "https://open.spotify.com/track/2oy4bPKlaFoYnAEvDcgpVR"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "bella / i can't find anyone",
         "url": "https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7"
       },
@@ -991,22 +1059,6 @@
       "duration_ms": 162969,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "THIS IS NOT AN EXIT",
-        "url": "https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "HUSH",
-      "url": "https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1107,22 +1159,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Close Quarters",
-        "url": "https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "Close Quarters",
-      "url": "https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "I'm Green",
         "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
       },
@@ -1151,22 +1187,6 @@
       "duration_ms": 177631,
       "name": "It Was Not A Beautiful Night",
       "url": "https://open.spotify.com/track/3vIgkoS6GYppSgmKH2btkn"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Black Balloons",
-        "url": "https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 113605,
-      "name": "Black Balloons",
-      "url": "https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1535,22 +1555,6 @@
       "duration_ms": 176998,
       "name": "Angel Hair",
       "url": "https://open.spotify.com/track/0akgQn9E1BxuNqklbxPSTx"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-10-27 04:00:00",

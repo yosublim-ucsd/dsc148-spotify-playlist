@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Fuerza Regida & Marshmello
 
-292 songs - 15 hr 7 min
+294 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Belico Guaracha](https://open.spotify.com/track/1OEXKTNAgCLzLafDtvDhJn) | [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Belico Guaracha](https://open.spotify.com/album/6xO1uEzWSALC4fGfpIgmuu) | 3:00 | 2023-09-29 |  |
 | [Bella Ciao \- Bruno Martini Remix](https://open.spotify.com/track/6tvHnOzbN9SCAcuuNIUMBa) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bella Ciao \(Bruno Martini Remix\)](https://open.spotify.com/album/25B1ptbmz30BrYXGI2R8ty) | 2:41 | 2022-03-22 | 2022-04-29 |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-01 | 2023-05-27 |
+| [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2024-01-12 |  |
 | [Beso De Tres](https://open.spotify.com/track/7o31QdyRw3QvnnMjudXRxl) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Beso De Tres](https://open.spotify.com/album/7emW1NQUpXMuFCcLcr9sNd) | 2:37 | 2022-03-22 | 2022-04-29 |
 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 | 2023-09-29 |  |
 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 | 2023-01-09 | 2023-07-01 |
@@ -287,6 +288,7 @@
 | [Vamos a Beber \- Sak Noel Remix](https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Vamos a Beber \(Sak Noel Remix\)](https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW) | 3:06 | 2023-01-13 | 2023-05-27 |
 | [Vazilando](https://open.spotify.com/track/17Ci0qxBOeEQMadwb9qYNt) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Vazilando](https://open.spotify.com/album/6PLvwPVlATZi6iP9qgFAWp) | 2:58 | 2022-06-06 | 2023-05-27 |
 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2023-11-30 |  |
+| [Vente](https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Vente](https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA) | 3:02 | 2024-01-12 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 | 2023-05-27 |
 | [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 | 2023-11-29 |  |
 | [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-06-30 | 2024-01-04 |

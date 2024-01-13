@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,520 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,479 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 38 | [FUYU](https://open.spotify.com/track/76qMVdk2nqV2JGfQSzuhQq) | [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK), [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS), [Saba](https://open.spotify.com/artist/3st6n375XAVbTiurmhpa1Q), [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [FUYU](https://open.spotify.com/album/3HspJUOkTe12sN4Cpvoor1) | 3:14 |
 | 39 | [marble latte](https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [marble latte](https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6) | 3:37 |
 | 40 | [Nittonoboushi](https://open.spotify.com/track/04LjXU0Otb4CvwU4vwJ2nB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/14g7DTj50Vr316564kkhuK) | 4:24 |
-| 41 | [Stuck In The Middle](https://open.spotify.com/track/68k2pbbQ6zkg07nvFlyLW0) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle](https://open.spotify.com/album/6zATR2IR42heoEaNMjz63p) | 3:24 |
+| 41 | [Stuck In The Middle](https://open.spotify.com/track/6niBwol34bKc0LXRRHHIGD) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle](https://open.spotify.com/album/4UNEF0Hg8VPo86RAaa9Hba) | 3:24 |
 | 42 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 |
 | 43 | [Yuki no ginga](https://open.spotify.com/track/2JWgY2yA1TblLiH9UaODZd) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [Yuki no ginga](https://open.spotify.com/album/6ygfWcPLlUu4TxQ5ehwsXq) | 5:25 |
 | 44 | [Origami Song](https://open.spotify.com/track/20jLunM1GMasrScNWN45mP) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 4:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 79 | [Kaihyou](https://open.spotify.com/track/6apFysy7yb3sbnVdtR68yA) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kaihyou](https://open.spotify.com/album/6UQRkpePvNR3YVmZrJ0tvp) | 2:18 |
 | 80 | [ホログラム](https://open.spotify.com/track/62bud8rK9kWK4jF4Tdrcdc) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [ホログラム](https://open.spotify.com/album/46ZXPu6sVtFcF9YUIuKa5x) | 3:08 |
 
-Snapshot ID: `MCwxYjJkMTVkMWE5MTA5YzA5YjE1MzJlMDk2NDM2MmM1Yzk0YjgzOGE5`
+Snapshot ID: `MCxjY2M3YTlhZTY5NjNmMTQxM2JkNTkzZDQxNWZiNTZiM2Y0MmI3NTMx`

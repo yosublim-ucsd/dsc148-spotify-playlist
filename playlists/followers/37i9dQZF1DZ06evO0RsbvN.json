@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 5357,
+  "2024-01-13": 5359,
   "date_first_scraped": "2022-08-06",
   "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
   "name": "This Is Ma Rainey",
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 152947,
       "name": "Black Cat Hoot Owl Blues",
       "url": "https://open.spotify.com/track/3UGcwgbDYLuVGUTHXhkWuQ"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 198933,
       "name": "Black Eye Blues",
       "url": "https://open.spotify.com/track/0pyIUitbPJ0Yau1DSlMZYc"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 157760,
       "name": "Down By The Riverside",
       "url": "https://open.spotify.com/track/4g1FheFJBJykPx8ufKpGfv"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 207725,
       "name": "Goodbye, Daddy Blues",
       "url": "https://open.spotify.com/track/3we0Wt3A9JdWfyQHa2uKRY"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 178280,
       "name": "Grievin' Hearted Blues",
       "url": "https://open.spotify.com/track/3Wtm5dbIQHD2CMiLlvZ7gG"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Jealous Hearted Blues",
       "url": "https://open.spotify.com/track/29rFcZbCR4mKJ9dOlVgKTz"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 170413,
       "name": "Lost Wandering Blues",
       "url": "https://open.spotify.com/track/2JAyncenX1OXpHa7Ij6Zd4"
@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 180610,
       "name": "Louisiana Hoo Doo Blues",
       "url": "https://open.spotify.com/track/2bc3uRL4ssJhw2QR3C8WWk"
@@ -1825,7 +1825,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 186333,
       "name": "Ma and Pa Poorhouse Blues",
       "url": "https://open.spotify.com/track/23lxqaTbyIEfm8kbi6nCw0"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 157960,
       "name": "Shaveem Dry Blues",
       "url": "https://open.spotify.com/track/7nkHURLVxHGIf65QNJKwTP"
@@ -2743,7 +2743,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"
@@ -2887,7 +2887,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 185481,
       "name": "Those Dogs Of Mine",
       "url": "https://open.spotify.com/track/6rmOlRShKuuce0IiMYqXzC"
@@ -3103,7 +3103,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 174494,
       "name": "Wringing And Twisting",
       "url": "https://open.spotify.com/track/2yl7DtzE5l68YpXLhTTRgS"

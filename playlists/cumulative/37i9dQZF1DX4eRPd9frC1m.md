@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-325 songs - 17 hr 55 min
+326 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Backbreaker](https://open.spotify.com/track/2mhD6IAZ7oGdRT8bzFI5tF) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Backbreaker](https://open.spotify.com/album/0CLdX3LC98CUhc1FrKCKgh) | 3:08 | 2022-03-01 | 2023-04-14 |
 | [Bad](https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Bad](https://open.spotify.com/album/5OEGVD1H1td8HGMBNS3EAW) | 3:31 | 2021-11-19 | 2022-01-08 |
 | [Bad Things \- ShockOne Remix](https://open.spotify.com/track/1a0MHRe5WadhGHqWjpSh7B) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Bad Things \(ShockOne Remix\)](https://open.spotify.com/album/2Eqy7ptt36FqPcN9uFQey7) | 4:32 | 2021-11-19 | 2022-01-08 |
+| [Ball So Hard \- PIERCE Remix](https://open.spotify.com/track/3Xe1gYN2scJOx0R4C289YY) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk), [Stooki Sound](https://open.spotify.com/artist/6ky7h0ow6NQgAnsoN2AB7h), [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Ball So Hard \(PIERCE Remix\)](https://open.spotify.com/album/2TEa0aL1nxqMB4nLRHrbnt) | 2:20 | 2024-01-12 |  |
 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 | 2023-06-09 |  |
 | [Barking At Thunder](https://open.spotify.com/track/2dOwcOp4zBnF6LiZ1yeZsH) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [Barking at Thunder](https://open.spotify.com/album/2Ykby0d3LbgYEnNi6XJhvc) | 4:52 | 2023-08-18 | 2023-09-10 |
 | [Bellz](https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 4](https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu) | 2:40 | 2021-11-19 | 2023-07-15 |
@@ -247,7 +248,7 @@
 | [Run Like the Wind](https://open.spotify.com/track/1QTioKoSnWLDde5BunQnCp) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 2:51 | 2022-01-07 | 2022-04-29 |
 | [RUN WHEN YOU SEE ME](https://open.spotify.com/track/1WeWJM94bGc9VSB5iAT7YD) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [RUN WHEN YOU SEE ME](https://open.spotify.com/album/6NwhwHaRdDrUHJICseoYO4) | 4:17 | 2021-11-19 | 2022-01-08 |
 | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/track/16Df0dHOZk8miL46zPDaZ5) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/album/1IEpclNm8RhgxVvLVPDJ1i) | 3:29 | 2022-01-07 | 2022-09-10 |
-| [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/track/1lj3aGG7Ltxap2LHXUgSvY) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 3:29 | 2023-09-09 |  |
+| [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/track/1lj3aGG7Ltxap2LHXUgSvY) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 3:29 | 2023-09-09 | 2024-01-13 |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-11-19 | 2022-01-08 |
 | [SABER TOOTH \- QUIX Remix](https://open.spotify.com/track/5GFmK7QRVeolFpvsiCvsgB) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH \(Remixes\)](https://open.spotify.com/album/4q3DPhmj9StZ6OgCKZI8sl) | 3:15 | 2021-11-19 | 2022-01-08 |
 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 | 2021-11-19 |  |

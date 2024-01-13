@@ -2,7 +2,7 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=Ut\-nLEPtSNuWCc4n9eqpsw">Asake</a>
+> Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV?si=Ze8avKBmRderRoxgggLrfw">Kizz Daniel</a>
 
 258 songs - 12 hr 32 min
 

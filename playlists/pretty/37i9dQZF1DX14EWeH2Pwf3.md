@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Club Dogo
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,713 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,372 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 14 | [Freaky \(feat\. Shiva & Niky Savage\)](https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [TRAPHOUSE](https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS) | 2:57 |
 | 15 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 | 16 | [BÂTIMENT \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BhhV1ImaKVr1YwsyYIBWJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 3:24 |
-| 17 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 |
+| 17 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 |
 | 18 | [CLAP CLAP \(feat\. Artie 5ive, Niky Savage\)](https://open.spotify.com/track/4qFrGuly7KCl3WMmGuECFC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 2:13 |
 | 19 | [Machiavelli \(feat\. Simba La Rue\)](https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:15 |
 | 20 | [Nato Per Questo \(feat\. Marracash\)](https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [E.T.A\. \(feat\. J Balvin & Geolier\)](https://open.spotify.com/track/5MM97FmbSq9I2azOWBvXAY) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Ultimo piano](https://open.spotify.com/album/18frnKzFZcE7T8NqELRzOr) | 2:55 |
 | 50 | [Giorgia \(feat\. Ernia\)](https://open.spotify.com/track/1cL7CwiRexam7rkd8nHZEr) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Giorgia \(feat\. Ernia\)](https://open.spotify.com/album/3w2x6OtrsJ65EBilNXUlIi) | 2:32 |
 
-Snapshot ID: `MCxlNzE5ZjJmMTM1ZTk3YmM4NTU4NTk5ODVmZjJjNWE5ZGIwMmFmYzhi`
+Snapshot ID: `MCw4NGJmNGMwY2ExYmU2OWEyZmY0NTk2NzE4OGRmOGUxNmUwNTdjODMz`

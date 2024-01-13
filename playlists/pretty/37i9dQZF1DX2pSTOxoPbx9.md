@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,112 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,820 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 42 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/5YebJFFiYKBXYQYASFUuoD) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF) | 4:07 |
 | 43 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
 | 44 | [The War](https://open.spotify.com/track/0EnZoG9AaD0uXoffiC8KAQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 5:54 |
-| 45 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 |
-| 46 | [Bones](https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Bones EP](https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl) | 4:25 |
+| 45 | [Bones](https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Bones EP](https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl) | 4:25 |
+| 46 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 |
 | 47 | [Crush \- Stripped](https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA) | 3:49 |
 | 48 | [Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/69qFYmNxf9i1kc26Cip5sZ) | 4:22 |
 | 49 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
@@ -89,16 +89,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 79 | [Goodbye \(with Soap & Skin\)](https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [The Devil's Walk](https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3) | 4:29 |
 | 80 | [Hold On](https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:49 |
 | 81 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 |
-| 82 | [B a noBody](https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Before We Forgot How To Dream](https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA) | 4:48 |
-| 83 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 |
-| 84 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
-| 85 | [Sane](https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Fall Forever](https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If) | 4:42 |
-| 86 | [Bohemia](https://open.spotify.com/track/3adH7bPUudZAZ3XDRpwJni) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Aetherlight](https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc) | 5:15 |
-| 87 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
-| 88 | [Nocturne](https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne \- EP](https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ) | 4:28 |
+| 82 | [Nocturne](https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne \- EP](https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ) | 4:28 |
+| 83 | [B a noBody](https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Before We Forgot How To Dream](https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA) | 4:48 |
+| 84 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 |
+| 85 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
+| 86 | [Sane](https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Fall Forever](https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If) | 4:42 |
+| 87 | [Bohemia](https://open.spotify.com/track/3adH7bPUudZAZ3XDRpwJni) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Aetherlight](https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc) | 5:15 |
+| 88 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
 | 89 | [Boris](https://open.spotify.com/track/1rfSdNJodNnBxLlPok0YFB) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Blue Film](https://open.spotify.com/album/7D8AeZSOdO2eO2Htuyubd8) | 3:37 |
-| 90 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
-| 91 | [Sleep Baby Sleep](https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:00 |
+| 90 | [Sleep Baby Sleep](https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:00 |
+| 91 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
 | 92 | [Stakes](https://open.spotify.com/track/5hxrx9IwZcGpuPS9yYiwls) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe) | 5:11 |
 | 93 | [Loose Change for the Boatman](https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Gamble for a Rose](https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA) | 4:02 |
 | 94 | [Beautiful Undone](https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO) | [Laura Doggett](https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae) | [Into the Glass \- EP](https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 99 | [Dark](https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo) | 5:07 |
 | 100 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
 
-Snapshot ID: `MCwwYTQyNDgzMjJkMjc4MTM2NWM2ZTlkZTc4MmZjOGFkN2VhYTdhOWI4`
+Snapshot ID: `MCw1N2FhMDRmNjg2MjUzNGVhNmM3YmQ3YzFiNmYwZWE3YTA1NjAwNmM5`

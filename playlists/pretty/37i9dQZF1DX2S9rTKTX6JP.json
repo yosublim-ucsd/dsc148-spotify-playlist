@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 667775,
+  "num_followers": 667741,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODYxYjdhZjNlYzE2ZjM1MGQzNmQ1Zjk5MDQ1MjNmZjcwYTk5NmM2",
+  "snapshot_id": "MCw1ZjBjYjk4NjA0N2U3YmNkYjFmMDU3OWUzODJlMDRkNDU2Yjk5MzMz",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Simple Man",
-        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 223560,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Simple Man",
+        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 321040,
       "name": "Walk",
       "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
+        "name": "Pisces Iscariot (Remastered)",
+        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Pisces Iscariot (Remastered)",
-        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Landslide - Remastered",
-      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "At Night We Live",
         "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
       },
@@ -2079,18 +2063,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
-        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 263733,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2135,6 +2119,22 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
+        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Uninvited",
-        "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
-      },
-      "artists": [
-        {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
-        }
-      ],
-      "duration_ms": 259689,
-      "name": "Uninvited",
-      "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 323666,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Uninvited",
+        "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
+      },
+      "artists": [
+        {
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+        }
+      ],
+      "duration_ms": 259689,
+      "name": "Uninvited",
+      "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Crawling",
-        "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
     },
     {
       "added_at": "2023-11-17 05:00:00",

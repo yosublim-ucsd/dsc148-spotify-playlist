@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,557 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,435 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 8 | [Holiday](https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holiday](https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C) | 3:53 |
 | 9 | [She](https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:14 |
 | 10 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 |
-| 11 | [Holiday / Boulevard of Broken Dreams](https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 8:13 |
-| 12 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
+| 11 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
+| 12 | [Holiday / Boulevard of Broken Dreams](https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 8:13 |
 | 13 | [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:44 |
 | 14 | [Last Night on Earth](https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:56 |
 | 15 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 |
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 30 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
 | 31 | [Waiting](https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:12 |
 | 32 | [Give Me Novacaine / She's a Rebel](https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 5:26 |
-| 33 | [When It's Time](https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- The Original Broadway Cast Recording](https://open.spotify.com/album/1wO2srr9om17YtEvouoBue) | 3:23 |
-| 34 | [The Grouch](https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:12 |
+| 33 | [The Grouch](https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:12 |
+| 34 | [When It's Time](https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- The Original Broadway Cast Recording](https://open.spotify.com/album/1wO2srr9om17YtEvouoBue) | 3:23 |
 | 35 | [Jaded](https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 1:30 |
 | 36 | [Macy's Day Parade](https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:33 |
-| 37 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 |
-| 38 | [Redundant](https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:18 |
+| 37 | [Redundant](https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:18 |
+| 38 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 |
 | 39 | [I Think We're Alone Now](https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [No Fun Mondays](https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL) | 2:14 |
 | 40 | [21st Century Breakdown](https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:09 |
 | 41 | [Walking Contradiction](https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Stuck with Me](https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 |
 | 50 | [Kill the DJ](https://open.spotify.com/track/6pwt5G9ZKwM6I0GKVfIBb4) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 3:41 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA0NzI0MTQ4Mzk2NGNhMDVkYTQzMGQxMTBmM2ZjODc2ZA==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAxZDFjM2RjYmY0MmZkMmMzNjY4MDc0ZjEwMzU1ODNhYQ==`

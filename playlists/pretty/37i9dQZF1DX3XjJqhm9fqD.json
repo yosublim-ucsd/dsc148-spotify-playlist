@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 84280,
+  "num_followers": 84274,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODI5NmFiMDg3NDM4OTAzYWIzYjU0MDMwZWYzZTBhNTM5MGM0Yzhl",
+  "snapshot_id": "MCxhNmZiODA4ZTRmYTE2NGMyZTkxOTY4OTZkYTVmNTcwYTcwY2Y4NDk5",
   "tracks": [
     {
       "added_at": "2024-01-02 19:51:49",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
         "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
@@ -787,18 +803,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+        "name": "F\u00f2s",
+        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
       },
       "artists": [
         {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
         }
       ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+      "duration_ms": 234248,
+      "name": "Crush la",
+      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -823,22 +843,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "F\u00f2s",
-        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
       "artists": [
         {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
         },
         {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 234248,
-      "name": "Crush la",
-      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -867,26 +887,6 @@
       "duration_ms": 236923,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Party Girls (feat. Buju Banton) [Micha\u00ebl Brun Dancehall Remix]",
         "url": "https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
         "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 177748,
       "name": "Teke Fren",
       "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Thug Love",
-        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
+        "name": "Mennaj Moun Yo",
+        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
         }
       ],
-      "duration_ms": 188250,
-      "name": "Thug Love",
-      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+      "duration_ms": 188035,
+      "name": "Mennaj Moun Yo",
+      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1211,22 +1227,6 @@
       "duration_ms": 209777,
       "name": "Manyen'l",
       "url": "https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Mennaj Moun Yo",
-        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
-      },
-      "artists": [
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "Mennaj Moun Yo",
-      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Li Cho",
-        "url": "https://open.spotify.com/album/6Plh34hDbXkiS7ttbXdZ1Z"
-      },
-      "artists": [
-        {
-          "name": "AndyBeatz",
-          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Li Cho",
-      "url": "https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 102466,
       "name": "Imamou Lele",
       "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Li Cho",
+        "url": "https://open.spotify.com/album/6Plh34hDbXkiS7ttbXdZ1Z"
+      },
+      "artists": [
+        {
+          "name": "AndyBeatz",
+          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Li Cho",
+      "url": "https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "La Vibe Tropicale EP",
-        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
-      },
-      "artists": [
-        {
-          "name": "DZgot",
-          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Bout Konpa - Original Mix",
-      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Donzo City",
         "url": "https://open.spotify.com/album/4kabcIjP9PbnEoE7NyPMrP"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 147000,
       "name": "KASE",
       "url": "https://open.spotify.com/track/3GBkdyO9o0BOVcK3djHNx2"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "La Vibe Tropicale EP",
+        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+      },
+      "artists": [
+        {
+          "name": "DZgot",
+          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Bout Konpa - Original Mix",
+      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
     }
   ],
   "unique_name": "Haitian Heat",

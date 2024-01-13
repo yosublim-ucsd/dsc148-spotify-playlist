@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>別假裝 在絕望的盡頭就是希望。
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,839 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,404 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 30 | [我真的受傷了](https://open.spotify.com/track/5cN75zXR3M4si2toC2eF5C) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [學友．熱](https://open.spotify.com/album/16vik0cfPFsAZ6XJeQMyoR) | 3:28 |
 | 31 | [人質](https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我要快樂 \(Deluxe Version\)](https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM) | 3:52 |
 | 32 | [好久不見](https://open.spotify.com/track/7LHaRfgjJzOEzvnAZVxxtR) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk) | 4:10 |
-| 33 | [Melody](https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:29 |
-| 34 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 |
+| 33 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 |
+| 34 | [Melody](https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:29 |
 | 35 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
 | 36 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 |
 | 37 | [Love U U](https://open.spotify.com/track/3tWKKraMbuwTcU3YZzoJnq) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [學不會](https://open.spotify.com/album/5nAilSc60xebtjFfRr6m2V) | 3:39 |
-| 38 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 |
-| 39 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/6fOTtt07m7yEtYlWBLojDb) | [Baozhai Mezhong](https://open.spotify.com/artist/1sNBvC3ul9Xy0beVtEDPqV) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/5VjoZ5TS5zF54zP5gB4O0B) | 4:16 |
+| 38 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/6fOTtt07m7yEtYlWBLojDb) | [Baozhai Mezhong](https://open.spotify.com/artist/1sNBvC3ul9Xy0beVtEDPqV) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/5VjoZ5TS5zF54zP5gB4O0B) | 4:16 |
+| 39 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 |
 | 40 | [像魚](https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S) | [王貳浪](https://open.spotify.com/artist/6jNRSV0cd0kL5Tfz6JPxZA) | [像魚](https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v) | 4:45 |
 | 41 | [你还要我怎样](https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [意外](https://open.spotify.com/album/6fdVEfGvTcT7TgipOorHD5) | 5:10 |
 | 42 | [如果沒有你](https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [如果沒有你](https://open.spotify.com/album/67rYAc50qw4Da0Rp2PavMK) | 4:47 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 46 | [記得](https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [Jerry Lin](https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm) | [真實](https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw) | 4:46 |
 | 47 | [我以為](https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m) | 4:58 |
 | 48 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
-| 49 | [我愛的人](https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [抱一抱](https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg) | 4:26 |
-| 50 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
+| 49 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
+| 50 | [我愛的人](https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [抱一抱](https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg) | 4:26 |
 
-Snapshot ID: `MCwyMmJkMTlmMGEyOWIxZjI1ZDMwZTI1OTMxNzY0OTFlOGMyZmY2ZmFi`
+Snapshot ID: `MCxjYmRiNTBlNzQ5ZmNlZGI0ZTVmYTI5Y2JmMjhlYjhmOGVjOWM5MzQ0`

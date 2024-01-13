@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 19960,
+  "num_followers": 19971,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGVlOGQ0ZjUzNTNiNGViOWY2ZDY3NGIzNjAxZDEzNjAxMzNhNmQz",
+  "snapshot_id": "MCwxMzY4ZDZkZGM2MmFiYTliZGM2YzdiMTA0MjAxZWZlZWIzNWQ1Y2Q2",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -295,6 +295,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Vereda tropical (Remastered)",
+        "url": "https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V"
+      },
+      "artists": [
+        {
+          "name": "Elvira Rios",
+          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
+        }
+      ],
+      "duration_ms": 175711,
+      "name": "Concha n\u00e1car / Limosna - Remastered",
+      "url": "https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Lo Mejor de La Sonora Matancera (Remastered)",
         "url": "https://open.spotify.com/album/5oPiWYPNFLc9z0h6D4l6iJ"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 147800,
       "name": "Volver\u00e1s - Remastered",
       "url": "https://open.spotify.com/track/6ikxAnVinPvjq3ICIz5dU7"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
-      },
-      "artists": [
-        {
-          "name": "Lilian De Celis",
-          "url": "https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv"
-        }
-      ],
-      "duration_ms": 130716,
-      "name": "De Riguroso Schottis",
-      "url": "https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Vereda tropical (Remastered)",
-        "url": "https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V"
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
       "artists": [
         {
-          "name": "Elvira Rios",
-          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
+          "name": "Lilian De Celis",
+          "url": "https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv"
         }
       ],
-      "duration_ms": 175711,
-      "name": "Concha n\u00e1car / Limosna - Remastered",
-      "url": "https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC"
+      "duration_ms": 130716,
+      "name": "De Riguroso Schottis",
+      "url": "https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -467,8 +467,8 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
+        "name": "Agust\u00edn Lara a 50 A\u00f1os",
+        "url": "https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 157333,
-      "name": "Petici\u00f3n",
-      "url": "https://open.spotify.com/track/58MGtA6o5yQ9cp23jb4x3r"
+      "duration_ms": 168640,
+      "name": "Aventurera",
+      "url": "https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -579,8 +579,8 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agust\u00edn Lara a 50 A\u00f1os",
-        "url": "https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx"
+        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Aventurera",
-      "url": "https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG"
+      "duration_ms": 157333,
+      "name": "Petici\u00f3n",
+      "url": "https://open.spotify.com/track/58MGtA6o5yQ9cp23jb4x3r"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -907,18 +907,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Suite Mexicana de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
+        "name": "COLECCION Volumen 5",
+        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
       },
       "artists": [
         {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
         }
       ],
-      "duration_ms": 172453,
-      "name": "Vuela Paloma Torcaza",
-      "url": "https://open.spotify.com/track/3ushRPFQq28gBaWmQvXRKQ"
+      "duration_ms": 211252,
+      "name": "Caballera Blanca",
+      "url": "https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "COLECCION Volumen 5",
-        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
+        "name": "Tesoros de Colecci\u00f3n - Las Estrellas de la Hora Azul",
+        "url": "https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP"
       },
       "artists": [
         {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 211252,
-      "name": "Caballera Blanca",
-      "url": "https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP"
+      "duration_ms": 137333,
+      "name": "Naufragio",
+      "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -987,34 +987,34 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Tesoros de Colecci\u00f3n - Las Estrellas de la Hora Azul",
-        "url": "https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP"
+        "name": "Suite Mexicana de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
         }
       ],
-      "duration_ms": 137333,
-      "name": "Naufragio",
-      "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
+      "duration_ms": 172453,
+      "name": "Vuela Paloma Torcaza",
+      "url": "https://open.spotify.com/track/3ushRPFQq28gBaWmQvXRKQ"
     },
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Juan Arvizu",
+          "url": "https://open.spotify.com/artist/1jZMKZr3NhGJYonvUXbCPh"
         }
       ],
-      "duration_ms": 309678,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
+      "duration_ms": 140591,
+      "name": "Ultimo Beso",
+      "url": "https://open.spotify.com/track/5ZT8iOABS33ALHJlCqKQrA"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 309678,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Rocio Durcal Canta Con Mariachi Vol. 4",
         "url": "https://open.spotify.com/album/7KZNk3B8QKNufiD59PNuJq"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+        "name": "5 Decadas de Boleros: Boleros de los 20's",
+        "url": "https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy"
       },
       "artists": [
         {
-          "name": "Juan Arvizu",
-          "url": "https://open.spotify.com/artist/1jZMKZr3NhGJYonvUXbCPh"
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
         }
       ],
-      "duration_ms": 140591,
-      "name": "Ultimo Beso",
-      "url": "https://open.spotify.com/track/5ZT8iOABS33ALHJlCqKQrA"
+      "duration_ms": 244662,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1111,22 +1127,6 @@
       "duration_ms": 138813,
       "name": "Paloma Torcaza",
       "url": "https://open.spotify.com/track/3QCrq7muaMrj2oWzQPgeNf"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "5 Decadas de Boleros: Boleros de los 20's",
-        "url": "https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
-        }
-      ],
-      "duration_ms": 244662,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
-      },
-      "artists": [
-        {
-          "name": "Salvador Garc\u00eda",
-          "url": "https://open.spotify.com/artist/7lyQukDK3CCRkKlv1ZtITq"
-        }
-      ],
-      "duration_ms": 112901,
-      "name": "Saca Los Nardos",
-      "url": "https://open.spotify.com/track/0FFctG1LlQ3N7KqJ55ezcg"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "M\u00fasica De Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3aTeNQz97em0DeRxg7r05k"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 135093,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/0qLH0XdpkZsgzBmVCq9OCX"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+      },
+      "artists": [
+        {
+          "name": "Salvador Garc\u00eda",
+          "url": "https://open.spotify.com/artist/7lyQukDK3CCRkKlv1ZtITq"
+        }
+      ],
+      "duration_ms": 112901,
+      "name": "Saca Los Nardos",
+      "url": "https://open.spotify.com/track/0FFctG1LlQ3N7KqJ55ezcg"
     },
     {
       "added_at": "2021-05-07 15:30:08",

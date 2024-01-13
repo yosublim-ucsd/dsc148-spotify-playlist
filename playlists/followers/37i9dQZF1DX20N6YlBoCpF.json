@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 18316,
+  "2024-01-13": 18371,
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE?si=B9nqNMHqRz64G83NKUThtg\">Arno Jordaan</a> ",
+  "description": "Die nuutste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt?si=u8NseDH5Rfu7s_Tn0jl1tA\">Ryno Velvet</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -2455,7 +2455,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 189941,
       "name": "Die Goeie Ou Dae",
       "url": "https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D"
@@ -2781,6 +2781,24 @@
       "duration_ms": 158400,
       "name": "Die Way Sy",
       "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
+    },
+    {
+      "album": {
+        "name": "Die Wors Song",
+        "url": "https://open.spotify.com/album/3tKymqLeAllgjh0LCcgI7C"
+      },
+      "artists": [
+        {
+          "name": "Peer Papsak",
+          "url": "https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165340,
+      "name": "Die Wors Song",
+      "url": "https://open.spotify.com/track/2UCudHlzKNBcJ1QVhZuce5"
     },
     {
       "album": {
@@ -7833,7 +7851,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 219666,
       "name": "My Rede",
       "url": "https://open.spotify.com/track/63FtCyJDSrX5V86Q1uxlzA"
@@ -11054,6 +11072,24 @@
     },
     {
       "album": {
+        "name": "Sterreval",
+        "url": "https://open.spotify.com/album/1yGzH2bIEChjXMqZnBUuvI"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236680,
+      "name": "Sterreval",
+      "url": "https://open.spotify.com/track/6jueUMxROt1rtTW7mBM7Cs"
+    },
+    {
+      "album": {
         "name": "Stockholm Sindroom",
         "url": "https://open.spotify.com/album/57ijDsuH6BoMrIRI76cGD7"
       },
@@ -12619,7 +12655,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 178289,
       "name": "Voel",
       "url": "https://open.spotify.com/track/3nfvfPPlIamTKAARfxf7Bz"
@@ -13601,6 +13637,24 @@
       "duration_ms": 233840,
       "name": "Word Wakker",
       "url": "https://open.spotify.com/track/3wkrBIpOW3QqKBPdttq15r"
+    },
+    {
+      "album": {
+        "name": "Wyn",
+        "url": "https://open.spotify.com/album/1aMOz9dCGypaewrzobd7dX"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Wyn",
+      "url": "https://open.spotify.com/track/5BODeqZ9b4hekIqt465IU0"
     },
     {
       "album": {

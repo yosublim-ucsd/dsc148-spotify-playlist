@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-438 songs - 1 day 0 hr 0 min
+439 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,8 @@
 | [Trust Fall](https://open.spotify.com/track/5c7FvMWuOdaa2ZLvj67rsk) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [The Circle](https://open.spotify.com/album/133flpfpzLu7VJ6xGQLvR7) | 2:50 | 2022-11-24 | 2023-03-10 |
 | [Tu me manques](https://open.spotify.com/track/5l81POgmEdF2aUv0zcxSPa) | [Dorcas](https://open.spotify.com/artist/3obdKN8Eeq1nIMCjuDiusI) | [Tu me manques](https://open.spotify.com/album/1w8lNUAnjaUvKo9yHcE0Lb) | 2:58 | 2023-03-02 | 2023-04-21 |
 | [Tu sais ma vie c'est vite chiant](https://open.spotify.com/track/3QvEjsWx6Nf8OikfnMW5vM) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [:\):](https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj) | 2:45 | 2022-06-09 | 2022-07-08 |
-| [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 | 2023-06-29 |  |
+| [Turn Away](https://open.spotify.com/track/3iYfXX61UYS2fZPA16amzL) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line \(Extended\)](https://open.spotify.com/album/58MszPAmQJIbDklhdMCv7I) | 3:46 | 2024-01-11 |  |
+| [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 | 2023-06-29 | 2024-01-13 |
 | [two lovers](https://open.spotify.com/track/1xVcq9tIYMVFNS9vwNSQpO) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [two lovers](https://open.spotify.com/album/1V2vE1NW1HTLR7Pyzcls6U) | 2:52 | 2023-06-01 | 2023-06-16 |
 | [Un coup de génie](https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Un coup de génie](https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte) | 3:12 | 2022-02-03 | 2022-06-10 |
 | [Un jour ou deux](https://open.spotify.com/track/1S3FS1rQ8EOoA3MhLVjhxO) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Un jour ou deux](https://open.spotify.com/album/03WZecSeLD4y8Dn4FB74X0) | 3:25 | 2023-03-16 |  |

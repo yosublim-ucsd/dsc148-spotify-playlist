@@ -2,9 +2,9 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover: <a href="https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q?si=1eSJpNTQRjmm5\_c\_7uM5LA">Yadah</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=BY8nudGvTBO\_3oRCpaU5LA>Mercy Chinwo</a>
 
-200 songs - 15 hr 51 min
+201 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alagbara \(feat\. Lyrical HI\) \- Live](https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Alagbara \(feat\. Lyrical HI\) \[Live\]](https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk) | 12:14 | 2023-09-08 | 2023-09-29 |
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2023-04-07 | 2023-10-05 |
 | [Amarachi](https://open.spotify.com/track/4Mv5S4DBpeNtYTa4kjmxmZ) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Amarachi](https://open.spotify.com/album/37fme3qZGTNm55biwXBpyI) | 2:47 | 2023-12-05 | 2023-12-13 |
+| [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/3DHCxITonYPI1gNzdewEfI) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 | 2024-01-12 |  |
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-07-28 | 2023-09-01 |
 | [Attention](https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [ATTENTION](https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG) | 3:23 | 2023-11-03 | 2023-11-11 |
 | [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 | 2023-09-08 | 2023-12-13 |
@@ -133,7 +134,7 @@
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2023-04-07 | 2023-12-30 |
 | [Never](https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Never](https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f) | 3:34 | 2023-12-29 | 2024-01-11 |
 | [Never Let Me Go \- African Worship Medley/Live](https://open.spotify.com/track/5mT9muoaYVBcvpM3UiJZBY) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:22 | 2023-04-07 | 2023-06-09 |
-| [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-01-05 |  |
+| [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-01-05 | 2024-01-13 |
 | [NEW LIFE](https://open.spotify.com/track/31WTMkVgApFF3lrAguVOE5) | [Segun Aniye](https://open.spotify.com/artist/4xa0DdlvnBHWKWTRPl6LXE) | [NEW LIFE](https://open.spotify.com/album/6neyXz8fNZWMNEHVRRfgyr) | 3:02 | 2023-12-05 | 2023-12-13 |
 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 | 2023-12-29 |  |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-07-28 |  |

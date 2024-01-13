@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,551 likes - 49 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,600 likes - 49 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 48 | [Deus In Absentia](https://open.spotify.com/track/5t8Qb2sDIgyj57pcrEjsCC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:37 |
 | 49 | [I Believe](https://open.spotify.com/track/0quRJVHIYA7nqC3WFvFW3s) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 4:06 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAxMWEyMzQ5NGZiYzYxOTg1ZGI5ZDgxY2ExOTk4OGM4Zg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBmOTMzYTg5ZTQyZDkzZTU3YWRmNzQ0NWU4ZGE5NGI2NQ==`

@@ -6,8 +6,156 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "MTUyMyw4ZmQ5YTdlNGQyODQzY2ZjNTMyMTliMWJjNzVjMDFlYmFkZmVlN2U5",
+  "snapshot_id": "MTUyNCw2YjJmODViNTE5YzIzZDQzMTQzMmUzZDk4OWVhMzIyMDA3ODk1ZmFm",
   "tracks": [
+    {
+      "added_at": "2024-01-12 17:18:13",
+      "album": {
+        "name": "Lonely Feelings EP",
+        "url": "https://open.spotify.com/album/1VgoH8g1YEyOAIRRXxa5cb"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 225895,
+      "name": "Lonely Feelings",
+      "url": "https://open.spotify.com/track/4sRpTSzVUZ0SwFHTQw91yC"
+    },
+    {
+      "added_at": "2024-01-12 17:18:13",
+      "album": {
+        "name": "Mercy (feat. Jacob Lusk)",
+        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Mercy (feat. Jacob Lusk)",
+      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2024-01-12 17:18:13",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Dance To The Music",
+      "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
+    },
+    {
+      "added_at": "2024-01-12 17:18:13",
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/6enObRN95OKeEpaoAWC3JK"
+      },
+      "artists": [
+        {
+          "name": "Contrecoeur",
+          "url": "https://open.spotify.com/artist/1NeuXODbg5Bm85O2De0MjE"
+        },
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/16lrebGOlQmQDlO6r5GotA"
+    },
+    {
+      "added_at": "2024-01-12 17:18:13",
+      "album": {
+        "name": "miro",
+        "url": "https://open.spotify.com/album/1Iwq3TGFPPsevwoY90Ag05"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        },
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "miro",
+      "url": "https://open.spotify.com/track/5gtcKzuYZStBLhudEtrS4M"
+    },
+    {
+      "added_at": "2024-01-12 17:18:13",
+      "album": {
+        "name": "Back In The Day",
+        "url": "https://open.spotify.com/album/7GO2u0PbT72fx53lxOotWz"
+      },
+      "artists": [
+        {
+          "name": "Swami Sound",
+          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
+        },
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        },
+        {
+          "name": "Soulecta",
+          "url": "https://open.spotify.com/artist/0lZSMQUghOj3ujE8UL2721"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Back In The Day - Soulecta Dub",
+      "url": "https://open.spotify.com/track/5W6xo2jngWB9pisV6Bys8W"
+    },
+    {
+      "added_at": "2024-01-12 17:18:13",
+      "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+    },
     {
       "added_at": "2023-12-17 22:23:22",
       "album": {

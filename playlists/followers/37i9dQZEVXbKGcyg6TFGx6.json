@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 8022,
+  "2024-01-13": 8001,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
   "name": "Top 50 - Luxembourg",
@@ -5519,7 +5519,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -5649,7 +5649,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 229093,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
@@ -11121,7 +11121,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 212334,
       "name": "For the money",
       "url": "https://open.spotify.com/track/3O2eU9Bl2KbXm1mcCjcg49"
@@ -13699,7 +13699,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -19489,7 +19489,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -20201,7 +20201,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -20281,7 +20281,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -23867,7 +23867,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 166415,
       "name": "Red Bottoms",
       "url": "https://open.spotify.com/track/4C8ZEqyNYz52Wx3SiwF0wG"
@@ -24161,6 +24161,24 @@
       "duration_ms": 201160,
       "name": "Riez",
       "url": "https://open.spotify.com/track/4R0voYthb1112JJiUCeyBA"
+    },
+    {
+      "album": {
+        "name": "Right Now (Na Na Na)",
+        "url": "https://open.spotify.com/album/3uCeqwbRQMnumDdQ6lEuuE"
+      },
+      "artists": [
+        {
+          "name": "Max Awers",
+          "url": "https://open.spotify.com/artist/6zgWi4dplASoZqamKcTMrn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Right Now (Na Na Na)",
+      "url": "https://open.spotify.com/track/4H1r89bJ7FYeQwel997ll0"
     },
     {
       "album": {
@@ -29007,7 +29025,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 215040,
       "name": "The Theme of DJ Steve Nyce",
       "url": "https://open.spotify.com/track/4xCdowLTm2sjV0PNGVVW8u"

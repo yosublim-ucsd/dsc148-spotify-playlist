@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-347 songs - 19 hr 20 min
+348 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [BIG](https://open.spotify.com/track/24qAxp2l2C4xiTtKaJxcJ4) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG](https://open.spotify.com/album/17kpttFeNeWB1qafVfJQA6) | 3:36 | 2022-10-14 | 2022-10-26 |
 | [BIG](https://open.spotify.com/track/2m4Bk1tHjFEmtGStZBx8rF) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/4xrzNkHJXlkvwYyVipesug) | 3:36 | 2022-10-14 | 2023-11-05 |
 | [BIG](https://open.spotify.com/track/3mDQ77Q75GikKUBfxcDoCt) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/6vyYj5PBZCQK4IWQnxDZZX) | 3:36 | 2023-09-04 |  |
+| [Bitter Sweet Love](https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF) | 2:45 | 2024-01-12 |  |
 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-04 |  |
 | [Blink of an Eye](https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Birds That Flew and Ships That Sailed](https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0) | 4:33 | 2022-04-08 | 2023-05-27 |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-05 |  |

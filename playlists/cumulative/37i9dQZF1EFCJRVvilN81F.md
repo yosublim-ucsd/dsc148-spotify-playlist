@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-157 songs - 9 hr 18 min
+158 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Find Me](https://open.spotify.com/track/6P2cQF9sdnv17czEnI54BR) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Find Me](https://open.spotify.com/album/0lofjJsdra4ZYC6d4v5Pvg) | 3:42 | 2022-09-08 |  |
 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 | 2022-09-08 |  |
 | [Freefall](https://open.spotify.com/track/2flqiTbuPeDZXxgEW67rxw) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:01 | 2022-09-08 |  |
-| [Ghost!](https://open.spotify.com/track/4aO23RMylJhaKG9VCzy3kG) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/27lT3u386mVfOWF2wwwP1i) | 3:54 | 2023-12-13 |  |
+| [Ghost](https://open.spotify.com/track/18pHQ7Tjkb8EKzq69qebUB) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ghost](https://open.spotify.com/album/500oNCqdXLgK8vLhE3BQnu) | 3:29 | 2024-01-12 |  |
+| [Ghost!](https://open.spotify.com/track/4aO23RMylJhaKG9VCzy3kG) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/27lT3u386mVfOWF2wwwP1i) | 3:54 | 2023-12-13 | 2024-01-13 |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2022-09-08 |  |
 | [GLOWED UP](https://open.spotify.com/track/4v20N4W83XDJORt7WCedII) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:58 | 2022-09-08 |  |
 | [Goin](https://open.spotify.com/track/3TAACPVfSwjwZy3Bc4CwC8) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 2:39 | 2022-09-08 |  |

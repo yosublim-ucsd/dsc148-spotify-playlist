@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,658 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,804 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 10 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 |
 | 11 | [Brand New Numb](https://open.spotify.com/track/0vPkRB52RENZMpHybpFKYK) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:42 |
 | 12 | [Loco](https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd) | 4:14 |
-| 13 | [Platz Eins](https://open.spotify.com/track/4kF5GADt85FeD8Y26RRyLY) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [F & M \(Deluxe\)](https://open.spotify.com/album/7vTIPNCT9nCHw8hhskPYj1) | 3:55 |
+| 13 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 14 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 |
-| 15 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
+| 15 | [Platz Eins](https://open.spotify.com/track/4kF5GADt85FeD8Y26RRyLY) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [F & M \(Deluxe\)](https://open.spotify.com/album/7vTIPNCT9nCHw8hhskPYj1) | 3:55 |
 | 16 | [Bombshell](https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Anyone For Doomsday?](https://open.spotify.com/album/5H2p4hpkLk7JgZrjj79Q4Y) | 3:14 |
 | 17 | [I'm With Stupid](https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:24 |
 | 18 | [mOBSCENE](https://open.spotify.com/track/4Ppy0KysTPcXyzyP5JiJDx) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/38FWu0ePBmlNQdpg6WiLld) | 3:25 |
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 78 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
 | 79 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
 | 80 | [Obliteration](https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Obliteration](https://open.spotify.com/album/4Zcp0AbVFKRBbBQSC3zUNe) | 3:37 |
-| 81 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
-| 82 | [Medicate Me](https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58) | [Davey Suicide](https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV), [Telle Smith](https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84) | [Rock Ain't Dead](https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz) | 3:49 |
+| 81 | [Medicate Me](https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58) | [Davey Suicide](https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV), [Telle Smith](https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84) | [Rock Ain't Dead](https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz) | 3:49 |
+| 82 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
 | 83 | [Hatred Will Prevail \- Monolith Remix](https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P) | [Recoded](https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj) | 5:44 |
 | 84 | [Justice Way](https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Justice](https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0) | 3:07 |
-| 85 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
-| 86 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
-| 87 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
+| 85 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
+| 86 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
+| 87 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
 | 88 | [My Disintegration](https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:20 |
 | 89 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
 | 90 | [Rabenherz](https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim \(Deluxe Edition\)](https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 | 100 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
 
-Snapshot ID: `MCxkNDEwMDFlNTZlMTVhNDYzNTAyZWNhNWFlMTFjNTQ0NDM5OTYwZWYy`
+Snapshot ID: `MCw3NmY0MTNmYTE5OWEwNThlN2Q4M2QzNjc5Njg4NmQzZDgzNjAzNmI3`

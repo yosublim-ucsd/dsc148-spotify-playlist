@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-325 songs - 22 hr 12 min
+326 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [All of Me](https://open.spotify.com/track/7F8KRWIwcRjWvHK5i6ftzL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love \(Hollywood Edition\)](https://open.spotify.com/album/2dNQDOzCubrvIWxtaYO6cU) | 3:07 | 2022-03-25 | 2022-07-29 |
 | [All Or Nothing At All](https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [All Or Nothing At All](https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz) | 3:44 | 2022-01-20 |  |
 | [All the Way](https://open.spotify.com/track/39Ir3aJpxxoDAZApZ9FzXK) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Pieces of Treasure](https://open.spotify.com/album/1uj9iLqDY2alHSLYnTE9wY) | 2:31 | 2023-05-30 | 2023-11-05 |
-| [All the Way](https://open.spotify.com/track/5oGarhTcFKX2KuQ9UtBl19) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Pieces of Treasure](https://open.spotify.com/album/2NnmbJtQghR6oPP96CRHPE) | 2:31 | 2023-12-28 |  |
+| [All the Way](https://open.spotify.com/track/5oGarhTcFKX2KuQ9UtBl19) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Pieces of Treasure](https://open.spotify.com/album/2NnmbJtQghR6oPP96CRHPE) | 2:31 | 2023-12-28 | 2024-01-13 |
 | [Always on my mind](https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Always on my mind](https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL) | 3:31 | 2022-03-10 |  |
 | [And I Love Him](https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Travelin' Light](https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD) | 2:29 | 2022-01-20 |  |
 | [And If You Please](https://open.spotify.com/track/7065TeNvF2nMoBv6yD3CIz) | [Mario Romano](https://open.spotify.com/artist/2jFXgkiRAvxNTZQ4rQVg9b), [Jackie Richardson](https://open.spotify.com/artist/1pla8afeXCjPKlzJe6wyQA) | [Fenyrose Non Dimenticar](https://open.spotify.com/album/6Rhkna0aH4rERryCt4gSaa) | 4:31 | 2022-08-29 | 2022-11-16 |
@@ -76,6 +76,7 @@
 | [Come Away With Me \- Alternate Version](https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:27 | 2022-07-14 |  |
 | [Come Fly With Me](https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Love Stories](https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N) | 5:52 | 2022-01-20 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml) | 3:23 | 2022-03-25 |  |
+| [Comment Allez Vous](https://open.spotify.com/track/4PpEdpAMhNSRA0iTFxKCtE) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6qinGfHy2uxsXICIzwKtnx) | 2:18 | 2023-12-28 |  |
 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 | 2023-05-30 | 2023-12-24 |
 | [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 | 2022-08-29 | 2024-01-12 |
 | [C’est Magnifique](https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [C’est Magnifique](https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN) | 4:52 | 2022-05-24 | 2022-08-17 |

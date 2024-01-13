@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Cinco de Mil Pedazos",
+        "url": "https://open.spotify.com/album/1JbpIaTJ7bauu4KWpC3BcA"
+      },
+      "artists": [
+        {
+          "name": "Vale Garz\u00f3n",
+          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155580,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU"
+    },
+    {
+      "album": {
         "name": "Mahogany St",
         "url": "https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d"
       },
@@ -25018,6 +25036,24 @@
       "duration_ms": 200000,
       "name": "Tengo Que Olvidarte",
       "url": "https://open.spotify.com/track/7oGQeoTx5hJ1uhm25lNrS4"
+    },
+    {
+      "album": {
+        "name": "LOBA Vol. I",
+        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173642,
+      "name": "Tengo Sed",
+      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
     },
     {
       "album": {

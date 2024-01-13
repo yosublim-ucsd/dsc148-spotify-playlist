@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 171280,
       "name": "Lucky Bean",
       "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
@@ -5972,6 +5972,24 @@
       "duration_ms": 217159,
       "name": "Once More For The Ocean",
       "url": "https://open.spotify.com/track/4Cvscvb1bbHSsY8lwmSwIQ"
+    },
+    {
+      "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "album": {

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 132911,
       "name": "+234",
       "url": "https://open.spotify.com/track/4jcMUbPIu4CAfTwNJw4HGZ"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -3795,6 +3795,28 @@
     },
     {
       "album": {
+        "name": "If They Are Real",
+        "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "If They Are Real",
+      "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
+    },
+    {
+      "album": {
         "name": "Aisha's Sun",
         "url": "https://open.spotify.com/album/5pmpSBeVv0GaCCXHHlqKYt"
       },
@@ -3955,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "album": {
         "name": "Od\u00f9",
         "url": "https://open.spotify.com/album/6qzkMjuDOVxqdYv9bYqPIS"
       },
@@ -4054,6 +4094,32 @@
       "duration_ms": 185660,
       "name": "Jonzing Boy",
       "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "just like me",
+      "url": "https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35"
     },
     {
       "album": {
@@ -5118,7 +5184,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 193199,
       "name": "Never Stopped",
       "url": "https://open.spotify.com/track/7dkfbGHwMS6rt26cda0BUY"
@@ -7402,7 +7468,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
@@ -7908,6 +7974,28 @@
       "duration_ms": 200413,
       "name": "Way Too Big",
       "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
+    },
+    {
+      "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/0djUOmUeXu6Vu2YiBoaUmP"
+      },
+      "artists": [
+        {
+          "name": "Dreez MaliQ",
+          "url": "https://open.spotify.com/artist/7p9I2KSjXaN1yk4pdb6o9P"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163967,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/4WIYss3BcBDUjmtzg80bFt"
     },
     {
       "album": {

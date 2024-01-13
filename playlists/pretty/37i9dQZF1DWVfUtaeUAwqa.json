@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7667,
+  "num_followers": 7668,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGYxNTAxNDZhOTEyMWZiYWFjNmU2ZWRkNTczNzA2ZjJhMjBjNjEw",
+  "snapshot_id": "MCxjOTdiODcyODY5MDVmY2ZjMjBlMzYzMmQwYWIwNjlkNTIxN2QwYWIy",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Kid Ory New Orleans Jazz Man",
-        "url": "https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory's Creole Jazz Band",
-          "url": "https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Savoy Blues",
-      "url": "https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz King Of New Orleans",
         "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 192426,
       "name": "Black Bottom Stomp - 2002 Remastered",
       "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Kid Ory New Orleans Jazz Man",
+        "url": "https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory's Creole Jazz Band",
+          "url": "https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Savoy Blues",
+      "url": "https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -583,8 +583,24 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+        "name": "Presenting Eddie Condon",
+        "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
+      },
+      "artists": [
+        {
+          "name": "Eddie Condon",
+          "url": "https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS"
+        }
+      ],
+      "duration_ms": 217520,
+      "name": "I'm Gonna Stomp, Mr Henry Lee",
+      "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
         }
       ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -611,22 +627,6 @@
       "duration_ms": 315600,
       "name": "Bugle Boy March",
       "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Presenting Eddie Condon",
-        "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
-      },
-      "artists": [
-        {
-          "name": "Eddie Condon",
-          "url": "https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS"
-        }
-      ],
-      "duration_ms": 217520,
-      "name": "I'm Gonna Stomp, Mr Henry Lee",
-      "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Best Of Dixieland Volume 2",
-        "url": "https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV"
-      },
-      "artists": [
-        {
-          "name": "The Kings Of Dixieland",
-          "url": "https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg"
-        }
-      ],
-      "duration_ms": 167627,
-      "name": "Lassa's Trombone",
-      "url": "https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 179573,
       "name": "Roses of Picardy",
       "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Best Of Dixieland Volume 2",
+        "url": "https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV"
+      },
+      "artists": [
+        {
+          "name": "The Kings Of Dixieland",
+          "url": "https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg"
+        }
+      ],
+      "duration_ms": 167627,
+      "name": "Lassa's Trombone",
+      "url": "https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -779,6 +779,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "The Al Hirt Collection",
         "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 210887,
       "name": "Bill Bailey, Won't You Please Come Home?",
       "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
     },
     {
       "added_at": "2020-08-19 17:19:14",

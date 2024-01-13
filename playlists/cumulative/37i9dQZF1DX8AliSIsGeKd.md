@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Peer Kusiv
 
-2,939 songs - 10 day 20 hr 53 min
+2,940 songs - 10 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Chemicals](https://open.spotify.com/track/6sFEubIG6L1RYPAVyZ6U2m) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Reto V](https://open.spotify.com/album/5X0BBgXFTb6K1jRUPW9oaG) | 3:36 | 2022-12-15 | 2023-01-13 |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-26 | 2022-06-10 |
 | [Chicagostrasse](https://open.spotify.com/track/1kS4pZ2YlqXy8pdpEDjXJO) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Back To Haus](https://open.spotify.com/album/0MvOBfoqfUZ0D49MHZpNiz) | 5:36 | 2023-04-27 | 2023-05-12 |
+| [Children \- Mind Against & Dyzen Remix](https://open.spotify.com/track/5hr6v1jVSkiFaKq8ZvN7Md) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [Children \(Mind Against & Dyzen Remix\)](https://open.spotify.com/album/1pVZmCuyBjJtYSej1Y4ewc) | 5:36 | 2024-01-12 |  |
 | [Children Of 95](https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Children Of 95](https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv) | 5:57 | 2023-09-15 | 2023-10-06 |
 | [CHILDREN OF CHAOS](https://open.spotify.com/track/0gVXFdf5UTtEa8nhTmPbIL) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [CHILDREN OF CHAOS](https://open.spotify.com/album/4L5NM2tteneSKEAQbhQeW9) | 4:48 | 2023-11-17 | 2023-12-08 |
 | [Choir Song](https://open.spotify.com/track/6dIHOrCZ8Lprk0lNSX2wsg) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Choir Song](https://open.spotify.com/album/2awZQRNIJc7kKdvxwCatmw) | 6:24 | 2022-04-14 | 2022-04-22 |
@@ -1499,7 +1500,7 @@
 | [Lima](https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Watergate 20 Years \(Pt\. 1/8\)](https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5) | 6:56 | 2022-11-18 | 2022-12-09 |
 | [Linx](https://open.spotify.com/track/1fkB6r8zN8yniWzp5xytX9) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Linx](https://open.spotify.com/album/3JWDZHAoptpYBptxxapIKb) | 3:59 | 2023-08-03 | 2023-08-25 |
 | [Liquid Fantasy](https://open.spotify.com/track/6CiW8ZvZQYHyCdKsfYeJYL) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Universo](https://open.spotify.com/album/6myGAZHh7d3FbQUFHnN9WT) | 5:30 | 2022-10-13 | 2022-11-04 |
-| [Liquid Happiness](https://open.spotify.com/track/5k31y6CmrD0MAkAvstKJYZ) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Liquid Happiness](https://open.spotify.com/album/0t1REYab62Z2bfzI85fJGX) | 4:44 | 2023-12-08 |  |
+| [Liquid Happiness](https://open.spotify.com/track/5k31y6CmrD0MAkAvstKJYZ) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Liquid Happiness](https://open.spotify.com/album/0t1REYab62Z2bfzI85fJGX) | 4:44 | 2023-12-08 | 2024-01-13 |
 | [Liquid Lights](https://open.spotify.com/track/6PA8fJBBXhPpfCToM1i9An) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m) | 5:57 | 2022-08-25 | 2022-09-09 |
 | [Listen](https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Listen](https://open.spotify.com/album/71KIKLJFqbZqWosO3D5qgD) | 3:45 | 2023-11-09 | 2023-12-01 |
 | [Little Treasure \(Contour 3\)](https://open.spotify.com/track/5ylczvXq66th3ra7um4imD) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Little Treasure \(Contour 3\)](https://open.spotify.com/album/4921jiDIusc0Iy7yrXj2lN) | 5:58 | 2022-09-29 | 2022-10-21 |

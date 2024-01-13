@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,480 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,554 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 33 | [Voice of the Heroes](https://open.spotify.com/track/3E3pb3qH11iny6TFDJvsg5) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:29 |
 | 34 | [Perfect Time](https://open.spotify.com/track/6kiIVIbmwEw6JvIZc7UG0E) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:22 |
 | 35 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 |
-| 36 | [Wrong or Right](https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:43 |
-| 37 | [Ain't Hard Enough \(feat\. Mozzy\)](https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mozzy](https://open.spotify.com/artist/1DM42neJgK1N8ZfgtsPrqe) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:15 |
+| 36 | [Ain't Hard Enough \(feat\. Mozzy\)](https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mozzy](https://open.spotify.com/artist/1DM42neJgK1N8ZfgtsPrqe) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:15 |
+| 37 | [Wrong or Right](https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:43 |
 | 38 | [None of This](https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [No Pressure](https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud) | 4:00 |
 | 39 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 |
 | 40 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 48 | [BET](https://open.spotify.com/track/7mKJak60o7cmixVEfggraL) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 1:44 |
 | 49 | [FUCCWITCHU](https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 3:28 |
 
-Snapshot ID: `MCwxMGE5ODE4OWRlNTMwMGRkMjMwODVjNzI5MTEyNjg0ZjUwZTI4MTMw`
+Snapshot ID: `MCxlMmI3MzkzZmE5NDU2YjM5ZDU4NWJhZTY2YTYyOTMwYTZlMjNiNTYz`

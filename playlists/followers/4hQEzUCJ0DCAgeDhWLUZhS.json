@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 1613,
+  "2024-01-13": 1611,
   "date_first_scraped": "2020-10-10",
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Green Day",
   "name": "Plugged In",
@@ -531,6 +531,24 @@
       "duration_ms": 248543,
       "name": "Beautiful James",
       "url": "https://open.spotify.com/track/1ntKR7JwE12hKJNjupLzhG"
+    },
+    {
+      "album": {
+        "name": "Beautiful People (Stay High)",
+        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
     },
     {
       "album": {
@@ -2557,6 +2575,24 @@
       "duration_ms": 150191,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW"
+    },
+    {
+      "album": {
+        "name": "Her World",
+        "url": "https://open.spotify.com/album/3kyRqSYzOSbUcIf32LAXaR"
+      },
+      "artists": [
+        {
+          "name": "Raintalker",
+          "url": "https://open.spotify.com/artist/4F1DTiHCQnuKW8PDPSNzOC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193791,
+      "name": "Her World",
+      "url": "https://open.spotify.com/track/1nlBWHWjHVrdjukChekg5K"
     },
     {
       "album": {

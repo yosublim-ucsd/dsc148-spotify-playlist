@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Devon Gabriella
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Georgia Webster
 
-603 songs - 1 day 8 hr 2 min
+604 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Astronaut](https://open.spotify.com/track/7oC2PFdQllzwRhsaTWQUAX) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Astronaut](https://open.spotify.com/album/1lvviZbYiV4VJpawVDcXVm) | 4:29 | 2022-06-03 | 2022-11-05 |
 | [At All](https://open.spotify.com/track/5H8ya4qN720Db0uZ8ZdpBZ) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW) | [At All](https://open.spotify.com/album/76BePXh9SRqKiYOKlDhZCg) | 3:29 | 2023-08-11 | 2023-12-14 |
 | [at the end of the world](https://open.spotify.com/track/5ivyykAJXgoxXRTaNli7JB) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [at the end of the world](https://open.spotify.com/album/1zyZ6yfGnOV4zgYFwglVsS) | 3:04 | 2023-11-10 | 2024-01-05 |
+| [Attention](https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Attention](https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD) | 3:37 | 2024-01-12 |  |
 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 | 2022-01-14 | 2022-02-26 |
 | [Back to Friends](https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Back to Friends](https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac) | 3:35 | 2022-01-14 | 2022-03-26 |
 | [Back To You](https://open.spotify.com/track/0GlO3iD7ParRcxXPRz6o04) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Back To You](https://open.spotify.com/album/1Pk2SrspKEgZnyqT0wO5V6) | 2:40 | 2022-01-14 | 2022-03-12 |
@@ -222,7 +223,7 @@
 | [growing up sucks](https://open.spotify.com/track/0nzz3rwziKZ3JRD53veIY7) | [Taylor Mecca](https://open.spotify.com/artist/4ghJVwRz768E9qiSzQACGe) | [growing up sucks](https://open.spotify.com/album/0ZDMxXFxduw6IBjL3wn8XA) | 3:33 | 2023-07-28 | 2023-12-14 |
 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 | 2024-01-05 |  |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-12 | 2023-02-11 |
-| [Hahaha](https://open.spotify.com/track/0E6mNyZk7aN8XYkZ3rLD9n) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Hahaha](https://open.spotify.com/album/0ymEWOOv24RYfduGFeuAA7) | 3:22 | 2023-09-29 |  |
+| [Hahaha](https://open.spotify.com/track/0E6mNyZk7aN8XYkZ3rLD9n) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Hahaha](https://open.spotify.com/album/0ymEWOOv24RYfduGFeuAA7) | 3:22 | 2023-09-29 | 2024-01-13 |
 | [Hallelujah](https://open.spotify.com/track/7HfhipszjuQRcfHWO9loZ4) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [For The Romantics](https://open.spotify.com/album/1yZQkacmUXEp1Ig3ZpuZu6) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 | 2023-10-01 |
 | [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-06-22 | 2022-09-10 |

@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 3010,
+  "num_followers": 3112,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmNlNDg1MTM1YTkxZGEwM2FlZjFkODM2MTI2MjQ4Yjg4ZjM3ZTU1",
+  "snapshot_id": "MCwwNjNkNDlkZGMyZjk3MjdkOTA3NzMyMzg1NDM4YjdlMjEzMzViMzE2",
   "tracks": [
     {
       "added_at": "2024-01-05 17:32:04",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Spit Of You",
-      "url": "https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "Cease To Begin",
         "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 217333,
       "name": "No One's Gonna Love You",
       "url": "https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Spit Of You",
+      "url": "https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Play God",
-      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "Ultraviolet Disguise (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 230000,
       "name": "Tonight You Are Mine",
       "url": "https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Play God",
+      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 164625,
-      "name": "BRAINWASHED",
-      "url": "https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 256133,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 164625,
+      "name": "BRAINWASHED",
+      "url": "https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Ain't It The Life",
-      "url": "https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "California (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 192946,
       "name": "San Diego",
       "url": "https://open.spotify.com/track/2USJYiIo3g8dt9a2qzD9fG"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Ain't It The Life",
+      "url": "https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "152",
-        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+        "name": "Comfort in Sound",
+        "url": "https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng"
       },
       "artists": [
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
         }
       ],
-      "duration_ms": 185653,
-      "name": "Amphetamine Smiles",
-      "url": "https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN"
+      "duration_ms": 263253,
+      "name": "Just the Way I'm Feeling",
+      "url": "https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS"
     }
   ],
   "unique_name": "hAngOvEr fRiEnDLy rOcK",

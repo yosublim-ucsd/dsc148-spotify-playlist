@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,136 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,197 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 49 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 |
 | 50 | [Jean De Fleur \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 6:49 |
 | 51 | [Softly, As In A Morning Sunrise](https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [East To Wes](https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN) | 8:10 |
-| 52 | [Samba Em Prelùdio](https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL) | [Homes](https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr) | 7:11 |
-| 53 | [You Are Too Beautiful](https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO) | [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX), [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA) | [At the Garden Party](https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q) | 6:34 |
+| 52 | [You Are Too Beautiful](https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO) | [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX), [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA) | [At the Garden Party](https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q) | 6:34 |
+| 53 | [Samba Em Prelùdio](https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL) | [Homes](https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr) | 7:11 |
 | 54 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
 | 55 | [The Nearness Of You \- Instrumental](https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr) | [George Van Eps](https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps), [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR) | [Hand\-Crafted Swing](https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ) | 6:10 |
 | 56 | [Joshua Fit De Battle Of Jericho](https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 8:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [All The Things You Are](https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Move! The Guitar Artistry Of Hank Garland](https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF) | 4:26 |
 | 100 | [Walkin' Up](https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho) | 3:19 |
 
-Snapshot ID: `MCwyZWQ5MTYzZGVjOWI4NTRlYTU3ZWNkMDllOTQ3OTk2YTMyNWNjNjc2`
+Snapshot ID: `MCxjZTljOWM2NGEwYTJiNTMwYWMzNmM3YjFiOTIyOTJlNTllMDYwNjVj`

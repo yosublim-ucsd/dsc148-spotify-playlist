@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,132 likes - 115 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,296 likes - 115 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 32 | [Before the Rain](https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before the Rain](https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI) | 8:15 |
 | 33 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
 | 34 | [Fandango](https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb) | 3:41 |
-| 35 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
-| 36 | [Flauta de Pan](https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ) | [Mario Gonzales Guerra](https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU) | [El Sonido de la Flauta de Pan \- The Sound Of The Panflute](https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl) | 3:18 |
+| 35 | [Flauta de Pan](https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ) | [Mario Gonzales Guerra](https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU) | [El Sonido de la Flauta de Pan \- The Sound Of The Panflute](https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl) | 3:18 |
+| 36 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
 | 37 | [La Paloma](https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [La Paloma](https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu) | 2:33 |
 | 38 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 |
 | 39 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 94 | [Ave Maria No Morro](https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:34 |
 | 95 | [A Swingin' Safari](https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [A Swingin' Safari](https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu) | 2:15 |
 | 96 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 |
-| 97 | [Adam's Hotel](https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [First Cuckoo](https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz) | 3:39 |
-| 98 | [Joy](https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp) | [Satellite Orchestra](https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw) | [Stay Awhile](https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA) | 2:48 |
+| 97 | [Joy](https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp) | [Satellite Orchestra](https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw) | [Stay Awhile](https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA) | 2:48 |
+| 98 | [Adam's Hotel](https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [First Cuckoo](https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz) | 3:39 |
 | 99 | [Star Dust](https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:37 |
 | 100 | [Mélissa \(de "Bilitis"\)](https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Collection Francis Lai: Erotique, Vol\. 3 \(Bandes originales de films\)](https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V) | 4:39 |
 | 101 | [Africa \(L'été Indien\)](https://open.spotify.com/track/7qMoMK7EbYCoS8VgxWXvKA) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:03 |
@@ -119,9 +119,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 109 | [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 |
 | 110 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 111 | [Amapola](https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9) | [Joaquin Borges](https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G), [National Philarmonic Orchestra](https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS) | [Grandes Favoritas Instrumentales,Vol\. 4](https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk) | 2:55 |
-| 112 | [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
+| 112 | [Andalucia](https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:41 |
 | 113 | [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 |
 | 114 | [Beer Barrel Polka](https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [Presenting André Popp](https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ) | 2:40 |
-| 115 | [Andalucia](https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:41 |
+| 115 | [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
 
-Snapshot ID: `MCw3MTMzMTliNTRmYTQzMTIwMTJkMTM1ZWFkODg0YzE3MGZlNTlkN2Fm`
+Snapshot ID: `MCw3Y2YxYjQyZjE2YzQxYmJmZjJjODgzN2M2ODcyMzk1MmM4YzgwMjBm`

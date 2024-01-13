@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 437895,
+  "num_followers": 437768,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDUwMWJmOGYwYTg0YWYyMjYzMzA5ZDI1ZTNjMmZiZjkzZWUxMzgy",
+  "snapshot_id": "MCxiOTI0YmU1NDRkNDEzODhkNzJiNjhkZTkyZmZjNzlhMWYzMDBiZWMy",
   "tracks": [
     {
       "added_at": "2023-11-30 12:32:36",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "La Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 336149,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Olha A Explos\u00e3o",
-        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 162053,
-      "name": "Olha A Explos\u00e3o",
-      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 221653,
       "name": "Me Niego (feat. Ozuna & Wisin)",
       "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Olha A Explos\u00e3o",
+        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Olha A Explos\u00e3o",
+      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -815,6 +815,26 @@
       "duration_ms": 280453,
       "name": "Flor P\u00e1lida",
       "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -903,26 +923,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Amigos Con Derechos",
-      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "La Familia B Sides",
         "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 226413,
       "name": "Ay Vamos",
       "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -971,6 +955,22 @@
       "duration_ms": 186976,
       "name": "Corazon De Seda (feat. Ozuna)",
       "url": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Desde Esa Noche (feat. Maluma)",
+      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 146506,
       "name": "Todo Comenz\u00f3 Bailando",
       "url": "https://open.spotify.com/track/2rrWhFrcSZcZQ2SDKPGKQ6"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Desde Esa Noche (feat. Maluma)",
-      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
     },
     {
       "added_at": "2023-11-30 12:32:36",

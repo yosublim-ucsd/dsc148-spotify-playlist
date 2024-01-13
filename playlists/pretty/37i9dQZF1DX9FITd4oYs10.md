@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,730 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,737 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 18 | [Mandona \- Acústico](https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Mandona \(Acústico\)](https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4) | 3:59 |
 | 19 | [Hoje Cedo](https://open.spotify.com/track/2C9LPYpH9YUgROQDHfRXrU) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 3:14 |
 | 20 | [Reús](https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:03 |
-| 21 | [Convoque Seu Buda](https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Convoque Seu Buda](https://open.spotify.com/album/1ULzlYxHYd9oyAXqvZ7Afz) | 3:51 |
-| 22 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 |
+| 21 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 |
+| 22 | [Convoque Seu Buda](https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Convoque Seu Buda](https://open.spotify.com/album/1ULzlYxHYd9oyAXqvZ7Afz) | 3:51 |
 | 23 | [Relicário](https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Relicário](https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR) | 3:11 |
 | 24 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
 | 25 | [Nipsey do Azul](https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [DJ Decco](https://open.spotify.com/artist/4csPpIaHzl4d8yO5obNcm0) | [Êxito](https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [The Cypher Deffect 2](https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [The Cypher Deffect 2](https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb) | 5:35 |
 | 60 | [Bora Dançar](https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:44 |
 
-Snapshot ID: `MCw1MWQ1ZjExYzI4NjE3NGI5ZGZkMDMzMzU5ZmRjZTcyOGRmMjNhYmU4`
+Snapshot ID: `MCwzYjc0ZDFjZDkwNmZkYmZkNjdlYmY1NjZjZTE1ZGI4N2RkYWE3ZTQx`

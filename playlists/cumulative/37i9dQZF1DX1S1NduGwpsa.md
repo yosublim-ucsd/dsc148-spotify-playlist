@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Suzie Arioli
 
-443 songs - 1 day 8 hr 4 min
+444 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Trop beau pour être vrai](https://open.spotify.com/track/6bBpA9MKQTyRrdENizWJYf) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/18j6w0grfr4xEHUn9fUDUc) | 2:32 | 2023-10-12 | 2023-11-04 |
 | [Trucmuche](https://open.spotify.com/track/3NW4eGNqozQfGVV7sFzKVo) | [Samuel Strouk](https://open.spotify.com/artist/12h3jiJmfpd9NK2FTN9VYy), [Jérémie Arranger](https://open.spotify.com/artist/1M6MezxT5xyINMC8egxjqx), [François Salque](https://open.spotify.com/artist/0fW8GvidjXGHw0xy7xXTJJ), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Trucmuche](https://open.spotify.com/album/755vMWmkmZKIJ9FCaE4exf) | 4:02 | 2023-01-16 | 2023-03-31 |
 | [Turning Around](https://open.spotify.com/track/5avRKp2Z3kagrmSQwIll9p) | [Gauthier Toux](https://open.spotify.com/artist/7IDfdcPGVTXSWIG5ZtQmVW), [Maxence Sibille](https://open.spotify.com/artist/2qniG8aGnYc6CQJ59CsKlP), [Simon Tailleu](https://open.spotify.com/artist/1NYeTK44a3YpVx5MGHv78d) | [Turning Around](https://open.spotify.com/album/1eQB09l2HbQH6fraSQIDxL) | 4:06 | 2022-04-14 | 2022-04-22 |
+| [Twenties](https://open.spotify.com/track/5Ntgp1ZwLyVXDf7FwWra2K) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Twenties](https://open.spotify.com/album/6hqgL9Ev3uGwXsdfXEhYc9) | 2:56 | 2024-01-12 |  |
 | [Twenty Fifteen](https://open.spotify.com/track/3F4SnqRLateUMs5HpAkhRx) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Legacy](https://open.spotify.com/album/1dBh8K3zOKvn5OxQR1sRZi) | 3:09 | 2023-02-09 | 2023-06-16 |
 | [Under Paris Skies](https://open.spotify.com/track/4HnZtTEp8wQfF43Km2w6G7) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Under Paris Skies](https://open.spotify.com/album/0OWbqXbC1TvwtPZNVrrlpP) | 4:21 | 2023-09-14 | 2023-10-27 |
 | [Une Seule Etoile](https://open.spotify.com/track/7HnbvhyOEmmIOX8CPUOVko) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Une Seule Etoile](https://open.spotify.com/album/30zOeBi8oIWyMvoMMuffVz) | 3:43 | 2022-09-16 | 2022-12-09 |

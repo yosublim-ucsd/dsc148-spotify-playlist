@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Yeng Constantino
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,432,604 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,423,937 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 5 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 |
 | 6 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
 | 7 | [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 |
-| 8 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
-| 9 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
+| 8 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
+| 9 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
 | 10 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
 | 11 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
 | 12 | [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 26 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
 | 27 | [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 |
 | 28 | [Dating Tayo](https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU) | 3:59 |
-| 29 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 |
-| 30 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |
+| 29 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |
+| 30 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 |
 | 31 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
 | 32 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
 | 33 | [Harana](https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Buruguduystunstugudunstuy](https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Sana \- Single Version](https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl) | 4:37 |
 | 50 | [Kung Alam Mo Lang](https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kung Alam Mo Lang](https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf) | 4:16 |
 
-Snapshot ID: `MCw1NWM5NWQzZTVkZDlkZWRmZTg2MTM2YjNlMjRkYzZkZGZhYTFkYzJj`
+Snapshot ID: `MCwzZDJhNzU5MWM2YTAxNmU2M2RhNzY0NTdkNjIzNWZjZDhjOWE5ZGE1`

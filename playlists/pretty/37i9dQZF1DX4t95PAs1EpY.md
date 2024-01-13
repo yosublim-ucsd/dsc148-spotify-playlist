@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,770 likes - 259 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,957 likes - 259 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 258 | [Recollection](https://open.spotify.com/track/2kmvhCpX4xOyfBmCfk3Oy6) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Recollection](https://open.spotify.com/album/7ENS1n8vblqe9EcXpQxLDW) | 2:33 |
 | 259 | [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 |
 
-Snapshot ID: `MCw2NzE0MGEzN2E4NTM1NmQzOGE4MTZmMjgzNTZjNDQ0YWZkYWM3OGNi`
+Snapshot ID: `MCw0MThjNDVmMjM4OTQ1YmZlODlhYWQ3NDVhZDE5NDFlOGE5NDY0MTJl`

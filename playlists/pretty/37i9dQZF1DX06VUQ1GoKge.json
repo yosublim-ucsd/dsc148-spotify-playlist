@@ -1,12 +1,12 @@
 {
   "description": "Attribute to the strength built through the years, as Robb would say.",
-  "num_followers": 559939,
+  "num_followers": 559889,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTk0ZWY0OWI3OTZjMTRkODVjMDZkYTAzYjhkZDA5OTNhZjgxNGNm",
+  "snapshot_id": "MCxhMjk5ZjZhYjg0MDM5MjZkYTZlOWJkYzAwODk1YWVlMjIzYWIyOTQ0",
   "tracks": [
     {
       "added_at": "2024-01-08 09:01:28",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
         "name": "Magma",
         "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
-        "name": "on the verge",
-        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "on the verge",
-      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
-        "name": "Twilight Of The Thunder God",
-        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 248746,
-      "name": "Twilight Of The Thunder God",
-      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+      "duration_ms": 248746,
+      "name": "Twilight Of The Thunder God",
+      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
-        "name": "Overkill (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 313520,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
-        "name": "XIII",
-        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Sun Doesn't Rise",
-      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -1051,6 +1019,22 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 313520,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 203373,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
+        "name": "XIII",
+        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Sun Doesn't Rise",
+      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
     },
     {
       "added_at": "2024-01-08 09:01:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-01-08 09:01:28",
       "album": {
-        "name": "Rust In Peace",
-        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 322933,
-      "name": "Tornado Of Souls",
-      "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
-    },
-    {
-      "added_at": "2024-01-08 09:01:28",
-      "album": {
         "name": "Reign In Blood",
         "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 291440,
       "name": "Angel Of Death",
       "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
+    },
+    {
+      "added_at": "2024-01-08 09:01:28",
+      "album": {
+        "name": "Rust In Peace",
+        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 322933,
+      "name": "Tornado Of Souls",
+      "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
     },
     {
       "added_at": "2024-01-08 09:01:28",

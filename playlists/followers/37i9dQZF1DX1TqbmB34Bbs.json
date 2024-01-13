@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 17930,
+  "2024-01-13": 17946,
   "date_first_scraped": "2022-05-30",
   "description": "Illest hardcore K-hip hop tracks are here. (Cover: Rosy Barbie(\ub85c\uc9c0 \ubc14\ube44)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 271937,
       "name": "+82 Bars",
       "url": "https://open.spotify.com/track/2J5fF0d4ePNQfPRIS1LGJU"
@@ -4531,7 +4531,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 204386,
       "name": "CALL ME (Feat. sogumm)",
       "url": "https://open.spotify.com/track/5NkPrv8FYhZuV5dBGhlwq9"
@@ -12790,6 +12790,24 @@
     },
     {
       "album": {
+        "name": "Like What Like That",
+        "url": "https://open.spotify.com/album/11SiSmsLlQ1NPJPWacSiss"
+      },
+      "artists": [
+        {
+          "name": "CHIO CHICANO",
+          "url": "https://open.spotify.com/artist/6Gm4n4X3L1ywYkfd1AEzTb"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117073,
+      "name": "Like What Like That",
+      "url": "https://open.spotify.com/track/2NACABzeVZpJecha64fgfP"
+    },
+    {
+      "album": {
         "name": "LIL BABY (Feat. KHAN)",
         "url": "https://open.spotify.com/album/2l2bbVMGXs1SCG1ySjcMk6"
       },
@@ -14261,6 +14279,24 @@
       "duration_ms": 205883,
       "name": "Monday (Feat. SUPERBEE)",
       "url": "https://open.spotify.com/track/5KrEwNLlM75ef5507e2bQF"
+    },
+    {
+      "album": {
+        "name": "Money Bag",
+        "url": "https://open.spotify.com/album/0hDEcd0coq8QIe5FL736TV"
+      },
+      "artists": [
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188714,
+      "name": "Money Bag",
+      "url": "https://open.spotify.com/track/4GkgHODPGClQyzDEN4tTGO"
     },
     {
       "album": {
@@ -26165,7 +26201,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 183773,
       "name": "Yooooo (Feat. Kid Milli, sokodomo, Polodared)",
       "url": "https://open.spotify.com/track/1dSoTjwGH9HBlj6EEu2mhx"
@@ -26209,7 +26245,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 192000,
       "name": "Young Boy (Feat. oygli)",
       "url": "https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G"

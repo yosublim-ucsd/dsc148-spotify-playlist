@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 731 songs - 1 day 13 hr 12 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 741 songs - 1 day 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -739,5 +739,15 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 729 | [Van Gogh \(feat\. Lil Yachty\)](https://open.spotify.com/track/2tcI5EedPVjrxwewRQs62W) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BlakkBoyz present Half Doin Dope/Van Gogh](https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc) | 2:06 |
 | 730 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 |
 | 731 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 |
+| 732 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
+| 733 | [sneaky](https://open.spotify.com/track/2K7sv1mno9PvbXVBpqvSKn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:21 |
+| 734 | [dangerous](https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:25 |
+| 735 | [pop ur shit](https://open.spotify.com/track/47yD0e9MCRIB8dgUXPfyW3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:13 |
+| 736 | [red sky](https://open.spotify.com/track/4yLyVdEqV790aIXyGif85v) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:56 |
+| 737 | [WOW \(with A$AP Rocky\)](https://open.spotify.com/track/2RWlRSi9TthgUka2yrLnrD) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 4:34 |
+| 738 | [A TALE OF A KNIGHT](https://open.spotify.com/track/3DYpdmTRaVSEAitwkMHSwA) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 2:57 |
+| 739 | [RAGER BOYZ \(with Young Thug\)](https://open.spotify.com/track/22HND7HF2tHFME3qIDrfD1) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 2:49 |
+| 740 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 |
+| 741 | [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/0kUQWMs1bRlwFNKA4Dce3f) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:58 |
 
-Snapshot ID: `ODk2LDNlNTdmMzRkOTgzNjIyOTk5OWRhYzk0Y2ZlYjlmNTliY2U2MzQ1NzA=`
+Snapshot ID: `OTA2LGRlYWE1ZjUxMjlkODE4M2RlMmI1MWQ5ODk0ZjUxYzg4MDZkNTUxNGM=`

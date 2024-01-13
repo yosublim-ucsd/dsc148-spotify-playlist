@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,583 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,586 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 22 | [Pennywise \- 2005 Remaster](https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:37 |
 | 23 | [Victim of Reality](https://open.spotify.com/track/5O3Kccz6xJrec6zkduyhnU) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:28 |
 | 24 | [Date With Destiny \- 2005 Remaster](https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:55 |
-| 25 | [Unknown Road \- 2005 Remaster](https://open.spotify.com/track/2QNZCGAZsyBoaldiSxLp2C) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:44 |
+| 25 | [Something Wrong With Me](https://open.spotify.com/track/0WGKwo98neAoQ5RmQm49Ee) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:39 |
 | 26 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
-| 27 | [Something Wrong With Me](https://open.spotify.com/track/0WGKwo98neAoQ5RmQm49Ee) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:39 |
+| 27 | [Unknown Road \- 2005 Remaster](https://open.spotify.com/track/2QNZCGAZsyBoaldiSxLp2C) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:44 |
 | 28 | [My Own Way](https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:52 |
 | 29 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
 | 30 | [Living for Today \- 2005 Remaster](https://open.spotify.com/track/4FlT6zFCK2hIdfQld4lPU6) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [Waiting](https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [From The Ashes](https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg) | 2:59 |
 | 50 | [Knocked Down](https://open.spotify.com/track/71cOsh18fSgRWZeYxHnAiA) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [The Fuse](https://open.spotify.com/album/0Cd9rjTDRiEieNwTfBuPLP) | 2:43 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBhZTRkOWI0MzUyNjIwMzlmNWNlZDc5ZTQyNTIzNzA5Ng==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDBkMzNkNTZlY2I4MDU5YjdiMWJmODA4OTBlODNjOTY4Mg==`

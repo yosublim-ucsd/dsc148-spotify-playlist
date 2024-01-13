@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Club Dogo
 
-432 songs - 21 hr 20 min
+433 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,8 @@
 | [Paranoia](https://open.spotify.com/track/4ZPmb48JaAysD1OdQEt5LL) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Paranoia](https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs) | 3:02 | 2022-05-09 | 2022-06-10 |
 | [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-26 | 2023-04-09 |
 | [PARE \(feat\. Madame\)](https://open.spotify.com/track/1WQxLQxEDMDwuaAmRXDHIw) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:45 | 2022-05-19 | 2022-07-15 |
-| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 |  |
+| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 | 2024-01-12 |  |
+| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-13 |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-09 | 2022-07-29 |
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
 | [Password](https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 2:45 | 2022-08-04 | 2022-10-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar\. Conmemorando la vida de Diomedes Díaz este 22 de Diciembre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,681 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,715 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 23 | [Los Caminos De La Vida](https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sorpresa Caribe](https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC) | 4:35 |
 | 24 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [A Mi Manera](https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt) | 4:35 |
 | 25 | [La Plata](https://open.spotify.com/track/61xyQGDYH9yMn4H9MpTh3g) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [26 De Mayo](https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B) | 4:38 |
-| 26 | [Traga'O De Tí](https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9) | 4:07 |
-| 27 | [Todo Daria por Ti](https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:49 |
+| 26 | [Todo Daria por Ti](https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:49 |
+| 27 | [Traga'O De Tí](https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9) | 4:07 |
 | 28 | [Loco Paranoico](https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [La 9a Batalla](https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb) | 3:34 |
 | 29 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
 | 30 | [Que Me Puedas Amar](https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 49 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
 | 50 | [Enseñame a olvidar](https://open.spotify.com/track/7KHOQuwXh9B82SCMN36HaK) | [Cristian y sus infieles](https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:17 |
 
-Snapshot ID: `MCxlZDUzZWU2YjQ1YmEyOWIwMjk0ZWRkOGVhYjJhOTU0NGI4NjcyZDg0`
+Snapshot ID: `MCxhZTljZGQyZGY5NmU0MGQ2YTVlZjVlZjQyNTFjY2Q4ZGIzMDU1ZWFj`

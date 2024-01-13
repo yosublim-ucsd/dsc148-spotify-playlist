@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 
 > Un derroche de sensualidad\. Chayanne en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,792 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,832 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 61 | [Amor de Verdad](https://open.spotify.com/track/7qozat5jqKmwgs7kLo2NWh) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT) | [Amor de Verdad](https://open.spotify.com/album/24MCC33x034nPk15G6K8MU) | 3:51 |
 | 62 | [La Boda](https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Boda](https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ) | 3:53 |
 | 63 | [Cuentale](https://open.spotify.com/track/5OaulxiRo2EBSM7taAfPbr) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Manny Manz](https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:40 |
-| 64 | [Mal Herido](https://open.spotify.com/track/1xGPTBqgjUXy7NBKvkffjm) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Mal Herido](https://open.spotify.com/album/1YpUgEKqIX3W5AxFT5TZev) | 3:17 |
-| 65 | [Lloro Y Lloro](https://open.spotify.com/track/5HOWcikdjK3MoqFoPKTxuB) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Chapter Dos](https://open.spotify.com/album/1g5gHsXiUmrehO9Xn5uFAX) | 3:06 |
+| 64 | [Lloro Y Lloro](https://open.spotify.com/track/5HOWcikdjK3MoqFoPKTxuB) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Chapter Dos](https://open.spotify.com/album/1g5gHsXiUmrehO9Xn5uFAX) | 3:06 |
+| 65 | [Mal Herido](https://open.spotify.com/track/1xGPTBqgjUXy7NBKvkffjm) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Mal Herido](https://open.spotify.com/album/1YpUgEKqIX3W5AxFT5TZev) | 3:17 |
 | 66 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
 | 67 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
 | 68 | [Tengo una Necesidad \- Bachata Version](https://open.spotify.com/track/5sRMQMMZ8v3GVI7WrRw9AU) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Tengo una Necesidad \(Bachata Version\)](https://open.spotify.com/album/0GEkbOVnh1qswW3Grirmnp) | 4:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 74 | [Elige](https://open.spotify.com/track/0mL1glycqAWzyMiImp4xSb) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT), [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Elige](https://open.spotify.com/album/4W4rR2hS483NStGyeEhpvY) | 3:46 |
 | 75 | [Reflejo](https://open.spotify.com/track/54zDpwf0mqx9VQRn91SLX6) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Reflejo](https://open.spotify.com/album/1re6ndovzDhuHMhfYVfG2D) | 4:13 |
 
-Snapshot ID: `MCxjZDVjZjkxYTc0MTQ0NTE1YzliNTdiYmM2Njk5YWE0YWU1ZGVmYjFj`
+Snapshot ID: `MCw1ZjI3YjY1NjFkMGFjNmJhNTM3MTQyMTU1NGYyOTMzZDVkODFhM2Yx`

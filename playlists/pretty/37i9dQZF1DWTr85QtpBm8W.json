@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 19101,
+  "num_followers": 19165,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjI1NWU4NTRkOGI5NGQ3YjE0NGM1MjM1YjhhOTk4Y2YxOGZkOGE1",
+  "snapshot_id": "MCxjNWI0MmVhNDNjZDgwMWEzYzVjODgzODVlOGFiY2JmNWI3ZmM3Mjgx",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Dead Texan",
-        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
-      },
-      "artists": [
-        {
-          "name": "The Dead Texan",
-          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "The Six Million Dollar Sandwich",
-      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Solaris (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 300680,
       "name": "Will She Come Back",
       "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Dead Texan",
+        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
+      },
+      "artists": [
+        {
+          "name": "The Dead Texan",
+          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "The Six Million Dollar Sandwich",
+      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 102239,
-      "name": "Jesus / Pop",
-      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Playthroughs",
         "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 481266,
       "name": "Fib01a",
       "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 102239,
+      "name": "Jesus / Pop",
+      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "L'Orange L'Orange",
-        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
-      },
-      "artists": [
-        {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
-        }
-      ],
-      "duration_ms": 314676,
-      "name": "Blind Contour Drawing for Piano",
-      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Equatorial Stars",
         "url": "https://open.spotify.com/album/25us3iSYDeZ7DjV458Uems"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 488493,
       "name": "Meissa",
       "url": "https://open.spotify.com/track/3eBgQ64Hwd1LX12UKwB1en"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "L'Orange L'Orange",
+        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 314676,
+      "name": "Blind Contour Drawing for Piano",
+      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "dedication",
-        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 219707,
-      "name": "white mountain",
-      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Ba Ba Ti Ki Di Do",
         "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 372000,
       "name": "Ba Ba",
       "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "dedication",
+        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 219707,
+      "name": "white mountain",
+      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 378693,
+      "name": "Btwn You + Me",
+      "url": "https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "The Equatorial Stars",
         "url": "https://open.spotify.com/album/25us3iSYDeZ7DjV458Uems"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 378693,
-      "name": "Btwn You + Me",
-      "url": "https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Variations: A Movement In Chrome Primitive",
         "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 558800,
       "name": "Variation IV",
       "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Chessa",
+        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
+      },
+      "artists": [
+        {
+          "name": "Shuttle358",
+          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "chessa",
+      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1355,22 +1371,6 @@
       "duration_ms": 371480,
       "name": "The Direction Was Foggy or Cloudy",
       "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Chessa",
-        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
-      },
-      "artists": [
-        {
-          "name": "Shuttle358",
-          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "chessa",
-      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+        "name": "Imperial",
+        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+      "duration_ms": 236333,
+      "name": "Into Stressa",
+      "url": "https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1479,34 +1479,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Imperial",
-        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Into Stressa",
-      "url": "https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Through the Cardial Window",
-        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
-      },
-      "artists": [
-        {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
-        }
-      ],
-      "duration_ms": 350360,
-      "name": "Coral Gables",
-      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1523,6 +1507,22 @@
       "duration_ms": 550626,
       "name": "Add Infinity",
       "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Through the Cardial Window",
+        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "Coral Gables",
+      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "M\u00f8rketid",
-        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
-        }
-      ],
-      "duration_ms": 563720,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "24 Postcards In Full Colour",
         "url": "https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+        "name": "M\u00f8rketid",
+        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
         }
       ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+      "duration_ms": 563720,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1635,6 +1619,22 @@
       "duration_ms": 45986,
       "name": "Verdantique",
       "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-08-04 12:53:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,584 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,738 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 48 | [Tomorrow](https://open.spotify.com/track/2eG4u4LHx1LpNjokkvsNmn) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Gamble](https://open.spotify.com/album/2qhCjeSlCUR3EeSceXNWbo) | 3:22 |
 | 49 | [23](https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:05 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA5NmY5NDNiODM5YWFiODI0MmEzOTAwMjYxZTQ4NmI1MQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA0ZjQ2Y2M5MDczZjc1ZjEyMzVjOTM3ODFkMWIxYWEzYw==`

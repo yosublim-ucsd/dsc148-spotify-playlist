@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 423066,
+  "2024-01-13": 422253,
   "date_first_scraped": "2022-05-09",
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
   "name": "Caff\u00e8 del Buongiorno",
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"

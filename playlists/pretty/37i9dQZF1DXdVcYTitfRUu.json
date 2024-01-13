@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 8803,
+  "num_followers": 8817,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Y0YmY3MjE2MzBlYWEwZDY1Njk3YzYwYWVkODg1OTA5MjgwNzg1",
+  "snapshot_id": "MCw1ZjA3ZWMzMGYzMGExMjdkZmM0MmUyNTAyNDQwZTg4MWUzNDdlZTc0",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:38",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "IN the mood",
-        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
       },
       "artists": [
         {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
         }
       ],
-      "duration_ms": 168800,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
+      "duration_ms": 243853,
+      "name": "Let's Say Goodbye",
+      "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
+        "name": "IN the mood",
+        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
       },
       "artists": [
         {
-          "name": "Parc Jae Jung",
-          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 243853,
-      "name": "Let's Say Goodbye",
-      "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
+      "duration_ms": 168800,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Let's Stay Well (My love X Roy Kim)",
-        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Let's Stay Well (My love X Roy Kim)",
-      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "The Moon (Feat. TAEIL of NCT)",
         "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Let's Stay Well (My love X Roy Kim)",
+        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Let's Stay Well (My love X Roy Kim)",
+      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 172674,
+      "name": "I JUST WANNA KNOW",
+      "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "Hongdae R&B",
         "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 210240,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 172674,
-      "name": "I JUST WANNA KNOW",
-      "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 243321,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "Because we loved",
         "url": "https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 221906,
       "name": "Because we loved",
       "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 243321,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
     },
     {
       "added_at": "2023-12-06 09:09:38",

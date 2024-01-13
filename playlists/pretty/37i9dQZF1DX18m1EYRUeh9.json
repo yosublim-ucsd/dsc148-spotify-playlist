@@ -1,12 +1,12 @@
 {
   "description": "Smooth indie jazz joints from around the globe. Cover: Andr\u00e9 3000",
-  "num_followers": 36542,
+  "num_followers": 36776,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2RmYWMzNjZjNGY4ZWUwMGMzNzNkM2E0N2NlNWMxZDUzNjI4OWI2",
+  "snapshot_id": "MCxlZmRhMTc2NGVjNzM0M2ExYzJlZTJkODNkZmRhOGM2MDk4Y2FmMjg5",
   "tracks": [
     {
       "added_at": "2024-01-12 00:22:54",
@@ -31,78 +31,6 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 244271,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY"
-      },
-      "artists": [
-        {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
-        }
-      ],
-      "duration_ms": 349224,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Cebollas Verdes",
-        "url": "https://open.spotify.com/album/10IzO8PoYbwTsdM1hWpJvQ"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 268192,
-      "name": "Cebollas Verdes",
-      "url": "https://open.spotify.com/track/0TQoXXMo2Rpo342rBM1e4G"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "New Blue Sun",
-        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 740010,
-      "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
-      "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
         "name": "concentrate",
         "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
       },
@@ -115,6 +43,22 @@
       "duration_ms": 281833,
       "name": "concentrate",
       "url": "https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
+        "name": "Quiet Music for Young People",
+        "url": "https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "duration_ms": 357709,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -147,6 +91,42 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
+        "name": "Frisco Blues",
+        "url": "https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Frisco Blues",
+      "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 244271,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S"
       },
@@ -159,6 +139,22 @@
       "duration_ms": 203581,
       "name": "Earth",
       "url": "https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 349224,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -179,22 +175,6 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Quiet Music for Young People",
-        "url": "https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        }
-      ],
-      "duration_ms": 357709,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -287,18 +267,18 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "Frisco Blues",
-        "url": "https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF"
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
       },
       "artists": [
         {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
         }
       ],
-      "duration_ms": 247800,
-      "name": "Frisco Blues",
-      "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
+      "duration_ms": 740010,
+      "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
+      "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -331,6 +311,22 @@
       "duration_ms": 204270,
       "name": "Slice",
       "url": "https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC"
+    },
+    {
+      "added_at": "2024-01-12 17:03:09",
+      "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "duration_ms": 197095,
+      "name": "Girls Night",
+      "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -379,6 +375,22 @@
       "duration_ms": 260760,
       "name": "Sun Always",
       "url": "https://open.spotify.com/track/775nZtOlg5D8Qr29XLfYQ4"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2g37Oi6GLhqoa2Z2NjrUe7"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -483,22 +495,6 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/2g37Oi6GLhqoa2Z2NjrUe7"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/0YPLC3FyAYENuP3KhyLi2Q"
       },
@@ -511,6 +507,26 @@
       "duration_ms": 204000,
       "name": "Domino",
       "url": "https://open.spotify.com/track/06jVhN0bYvWYNqHFb1JMwP"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
+        "name": "Cebollas Verdes",
+        "url": "https://open.spotify.com/album/10IzO8PoYbwTsdM1hWpJvQ"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 268192,
+      "name": "Cebollas Verdes",
+      "url": "https://open.spotify.com/track/0TQoXXMo2Rpo342rBM1e4G"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -748,7 +764,7 @@
       "added_at": "2024-01-12 00:22:54",
       "album": {
         "name": "Diagnosis",
-        "url": "https://open.spotify.com/album/1KE5ZOll4qVQTZNLOjp3qa"
+        "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
       },
       "artists": [
         {
@@ -758,7 +774,7 @@
       ],
       "duration_ms": 143173,
       "name": "Bad State",
-      "url": "https://open.spotify.com/track/5CiWTX6qSqNtHIAUcRaSmS"
+      "url": "https://open.spotify.com/track/60HUBKxo7tMHPLbLCEK2XQ"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -1175,6 +1191,22 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
         "name": "Thoughtless Feeling",
         "url": "https://open.spotify.com/album/6OqwBX07u1gDecyoxkmL4Z"
       },
@@ -1551,22 +1583,6 @@
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2024-01-12 00:22:54",

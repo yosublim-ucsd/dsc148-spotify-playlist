@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,161 likes - 100 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,197 likes - 100 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 99 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 100 | [Lyre](https://open.spotify.com/track/6sFgqgE20JJ3whmxIOoP8h) | [NINZE & OKAXY](https://open.spotify.com/artist/4yJU0dWTxh9cmKKjXWOneJ) | [Cranes at Night](https://open.spotify.com/album/7CTizjF89XdarzPdTPMmdW) | 5:35 |
 
-Snapshot ID: `MCw5ODc0MDFjZmQ1Mjk3ODFjYWMwOGQ3YjFhNGRmZTYyNTA4MDZjMGNj`
+Snapshot ID: `MCwxODg1ZTM4ZDQ3ZThjMzljMWNmOTFkOWU0YzI0YmRkNThlZGQ0ZmZl`

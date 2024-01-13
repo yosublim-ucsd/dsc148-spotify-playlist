@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-118 songs - 8 hr 43 min
+119 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Mystical Composer](https://open.spotify.com/track/70aHCdlGCMaUmoFRyrA8gO) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/7bUJ1pvnhxdbFA7DyY0DJf) | 5:08 | 2023-03-21 |  |
 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 | 2022-05-24 | 2022-10-19 |
 | [Ocean Side](https://open.spotify.com/track/6MMxBWWNfZKCi0hcTN6qqH) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/6IurTWoag2oF0yomZhMToU) | 4:38 | 2022-05-24 | 2022-07-29 |
+| [Ocean Side](https://open.spotify.com/track/6T0a8AFfS62waTXaTAIhWR) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/43MH8ZrLAL15xHRmIyAr46) | 4:38 | 2023-03-21 |  |
 | [Ocean Side](https://open.spotify.com/track/6eyiIH5DfjHkqRQMZvdLUV) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/0luQvYcktzmxqbeCZ9owhw) | 4:38 | 2022-06-28 | 2023-12-08 |
 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 | 2022-05-24 |  |
 | [Older Girl](https://open.spotify.com/track/0Pty8SVxAew9j7eBOD8Kaa) | [1986 Omega Tribe](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/5Adv1KmIItHvcrJJzavZpb) | 4:15 | 2022-06-14 | 2022-06-21 |
@@ -111,7 +112,7 @@
 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 | 2022-05-24 |  |
 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 | 2022-06-28 |  |
 | [指切り](https://open.spotify.com/track/4cqT8OWWECOOKV4VZELuPs) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [大瀧詠一 乗合馬車\(Omnibus\) 50th Anniversary Edition](https://open.spotify.com/album/1uUVkfscVqO6dvHEmURoLp) | 3:36 | 2023-03-21 |  |
-| [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 | 2022-05-24 |  |
+| [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 | 2022-05-24 | 2024-01-13 |
 | [純情](https://open.spotify.com/track/3D1xj7EHB4q4h4WdzceVpL) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0XLONeOK3MxuYc1OJO05wl) | 3:31 | 2022-05-24 | 2022-07-29 |
 | [色彩都市](https://open.spotify.com/track/1NPwuNYRugoQz8y5HTnIBL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [cliche \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/4al3d0A9Ial2N26xVMa2EM) | 3:34 | 2022-06-28 |  |
 | [色彩都市](https://open.spotify.com/track/31YhtFGjhGIwHc7Wwy2TGP) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [Cliche](https://open.spotify.com/album/11kn9aJnCpWMM9ReGB2E6R) | 3:34 | 2022-05-24 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u306e\u540d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Jennifer Lopez",
-  "num_followers": 36242,
+  "num_followers": 36218,
   "original_name": "Girl On Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWFhNWRhNGZiNzU0MzAwMzQ1NWE3YWM1OTIxZGUxNjc5M2Q4NmYw",
+  "snapshot_id": "MCxhMTdkMjBkZDQwMWEzMmQwNjY0YTgwMTQwNGMxMDEwNzhhMzEwY2Zh",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -87,6 +87,22 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -452,7 +468,7 @@
       "added_at": "2024-01-11 15:00:00",
       "album": {
         "name": "I Pray",
-        "url": "https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV"
+        "url": "https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P"
       },
       "artists": [
         {
@@ -462,7 +478,7 @@
       ],
       "duration_ms": 202590,
       "name": "I Pray",
-      "url": "https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH"
+      "url": "https://open.spotify.com/track/2fAI3SPRCSXmR8rplvuPg9"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -503,22 +519,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -543,22 +559,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
       "added_at": "2024-01-11 15:00:00",

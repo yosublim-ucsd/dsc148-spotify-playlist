@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,522 likes - 44 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,533 likes - 44 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 43 | [Alive](https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Alive](https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H) | 3:53 |
 | 44 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 |
 
-Snapshot ID: `MCxmMWQ4YjgwMjk1MDA5ZDIyMzdjOTQ5MzAxYWQ0NDgxZWIzY2Y5MmFh`
+Snapshot ID: `MCwzNzVkYjczNzI2NjYxYjU3Zjc5NDBhNTgzYTczOTJhOWQxMzM2MWI1`

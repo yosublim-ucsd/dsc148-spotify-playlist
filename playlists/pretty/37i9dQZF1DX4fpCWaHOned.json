@@ -1,12 +1,12 @@
 {
   "description": "You're on top of the world. Don't forget it.",
-  "num_followers": 3789368,
+  "num_followers": 3786901,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGM5ZDA5NjhhMmMwOWZhNmVjZmU4ZjI0MWFkYWE5OGQwZjE4NmVj",
+  "snapshot_id": "MCwwNzAzNjRjMWVmYWIxMmZmNjBkZGUyYjU4Mjg3YTNkNGQ2NjRjZmM1",
   "tracks": [
     {
       "added_at": "2024-01-04 04:40:47",
@@ -619,6 +619,26 @@
     {
       "added_at": "2024-01-04 04:40:47",
       "album": {
+        "name": "Not My Fault (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
+    },
+    {
+      "added_at": "2024-01-04 04:40:47",
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
       },
@@ -671,26 +691,6 @@
     {
       "added_at": "2024-01-04 04:40:47",
       "album": {
-        "name": "Not My Fault (with Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
-    },
-    {
-      "added_at": "2024-01-04 04:40:47",
-      "album": {
         "name": "Super Freaky Girl",
         "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "added_at": "2024-01-04 04:40:47",
+      "album": {
+        "name": "Tell Me You Love Me",
+        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
     },
     {
       "added_at": "2024-01-04 04:40:47",
@@ -727,22 +743,6 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2024-01-04 04:40:47",
-      "album": {
-        "name": "Tell Me You Love Me",
-        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
     },
     {
       "added_at": "2024-01-04 04:40:47",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-01-04 04:40:47",
       "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe"
-    },
-    {
-      "added_at": "2024-01-04 04:40:47",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2024-01-04 04:40:47",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe"
     },
     {
       "added_at": "2024-01-04 04:40:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-01-04 04:40:47",
       "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
-    },
-    {
-      "added_at": "2024-01-04 04:40:47",
-      "album": {
         "name": "On My Mama",
         "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "added_at": "2024-01-04 04:40:47",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2024-01-04 04:40:47",

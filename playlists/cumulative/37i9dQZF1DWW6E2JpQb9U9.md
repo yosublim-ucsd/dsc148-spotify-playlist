@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-309 songs - 23 hr 13 min
+310 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [El Viejo \(En Vivo\)](https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Pepsi Music 2005](https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N) | 3:15 | 2022-04-01 |  |
 | [Ella Es Como un Ángel \- En Vivo Cosquín Rock](https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 2:58 | 2022-04-01 | 2023-10-07 |
 | [Ella Uso Mi Cabeza Como Un Revolver \- MTV Unplugged](https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 6:04 | 2022-04-01 |  |
-| [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 | 2022-04-01 |  |
+| [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 | 2022-04-01 | 2024-01-13 |
 | [En el Baldío \- En Vivo](https://open.spotify.com/track/1hNT1e0igCiprBrETIhd55) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/419PfoPpVGyQAKvsxBsqxb) | 4:13 | 2023-03-03 | 2023-05-19 |
 | [En el Baldío \- En Vivo](https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB) | 4:13 | 2023-10-06 |  |
 | [Envuelto en Llamas \(En Vivo\)](https://open.spotify.com/track/674zid6QdjoHzafff631N8) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal](https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid) | 4:04 | 2022-08-19 |  |
@@ -229,6 +229,7 @@
 | [Pez Gordo \- En Vivo en Vórterix](https://open.spotify.com/track/7znDFAVexApphxx9nuK9Uk) | [MANJAR](https://open.spotify.com/artist/2cUbO2xUKXa7v3BJQAkKG4) | [Manjar \(En Vivo\)](https://open.spotify.com/album/0wIX3MZIg9pFsQ7J9PwUfl) | 4:15 | 2022-06-10 | 2022-07-06 |
 | [Pistolas](https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 5:23 | 2022-06-24 |  |
 | [Pistolas \(En Vivo en River 2018\)](https://open.spotify.com/track/3PApylD8eVyKu9K8z8tvAk) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Alejandro Ciro Martínez](https://open.spotify.com/artist/751uyfjcYkQhPRwxhLXCnC) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 5:23 | 2022-04-01 | 2022-07-29 |
+| [Pistolas \- En Vivo](https://open.spotify.com/track/3riCMXhrJc434p7rcDLlFW) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 5:09 | 2023-12-22 |  |
 | [Pistolas \- En Vivo](https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 5:09 | 2022-04-01 | 2024-01-04 |
 | [Prometeo \- En Vivo en River 2018](https://open.spotify.com/track/1FkeIFQQkaSBp9YT6Ua54I) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Rz8GNFfkBkWauaPRK8QPw) | 4:22 | 2022-04-01 | 2022-07-28 |
 | [Pronta Entrega \- En Vivo](https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:23 | 2022-04-01 |  |

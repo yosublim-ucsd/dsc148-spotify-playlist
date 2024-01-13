@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,873 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,834 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 45 | [Ride](https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Nu Collection: Hip\-Hop \(Urban & Modern Beats\)](https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV) | 3:49 |
 | 46 | [New Eyes \(feat\. Lizzo\)](https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:46 |
 | 47 | [Basement Queens](https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Basement Queens](https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV) | 3:03 |
-| 48 | [Humanize](https://open.spotify.com/track/3FFB2XvhOfxTI6bamvyU8C) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:30 |
-| 49 | [W.E.R.K\. Pt\. II](https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:05 |
+| 48 | [W.E.R.K\. Pt\. II](https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:05 |
+| 49 | [Humanize](https://open.spotify.com/track/3FFB2XvhOfxTI6bamvyU8C) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:30 |
 | 50 | [En Love](https://open.spotify.com/track/7wHRFO53gnDUJnun8BiAkq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:24 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAwYmIxY2RkMDNkN2I5ODIyN2FlNmM0MmVkZjcyYjcxZQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA3MGVkODhmNTg2ZDdmNzQwMmM5NWNmYzQxYzk5N2MxMg==`

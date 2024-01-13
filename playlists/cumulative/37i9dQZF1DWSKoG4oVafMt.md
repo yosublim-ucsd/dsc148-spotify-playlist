@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-805 songs - 1 day 19 hr 47 min
+807 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Adore You](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 | 2023-02-04 |
 | [Aitbaar](https://open.spotify.com/track/11zcaJ6oWyU0h5qRp53UxZ) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Aitbaar](https://open.spotify.com/album/3Ux20b0sEpiG77GXvrYdpL) | 4:20 | 2022-11-25 | 2023-02-02 |
 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 | 2021-12-02 | 2022-12-16 |
+| [AJA](https://open.spotify.com/track/54GK1bZMOAMXKysrnH4vTp) | [Kaléra](https://open.spotify.com/artist/6iikMXh4KCnspxngWliHWa), [Jaski](https://open.spotify.com/artist/1FOAUmccKtd4J6zRQBybfJ) | [AJA](https://open.spotify.com/album/5P34lnavFvbkEhbKRcPU9m) | 2:14 | 2024-01-12 |  |
 | [Akh Boldi](https://open.spotify.com/track/5PJZD2eFRf2bTZ6Vg4MQMe) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD) | [Akh Boldi](https://open.spotify.com/album/5aVmLH2IJ11dXZEQ3S0L8N) | 2:41 | 2022-10-25 | 2023-02-02 |
 | [Akh Da Taara](https://open.spotify.com/track/737HezI1JaYiBNKGnPiVas) | [Kaash](https://open.spotify.com/artist/1yfbFvnTbmTbLOkw8sMUKv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Akh Da Taara](https://open.spotify.com/album/40mp2aMcrURy4hrsE3w6LE) | 4:03 | 2022-07-18 | 2022-08-18 |
 | [Akh Kashni](https://open.spotify.com/track/6XGSNHEcQyz9sBYT0Fo532) | [Ashu](https://open.spotify.com/artist/2d597pUuGdL3bcn0jhZuww), [Spade](https://open.spotify.com/artist/3LHmBcvmWp7KyQnJuoDxA9) | [Akh Kashni](https://open.spotify.com/album/7IOT37dqjUmqiCqcoxCgPf) | 2:58 | 2022-09-05 | 2022-09-23 |
@@ -215,6 +216,7 @@
 | [Five Flower](https://open.spotify.com/track/74wcCZYO6yofhiahlJqkKk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Five Flower](https://open.spotify.com/album/463xWGyBZ2PjYCLIVAIxU5) | 2:38 | 2022-09-09 | 2022-12-16 |
 | [Flat](https://open.spotify.com/track/2yeklSP8NLY1INR6GOzVgd) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat](https://open.spotify.com/album/0VPaB19nfI80AE71iO22zN) | 2:33 | 2022-07-21 | 2022-07-29 |
 | [Flat](https://open.spotify.com/track/3W4qJ1f1anwipbPi0M93Dq) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat \- Single](https://open.spotify.com/album/26hIh6pP1BRAuePDXuRxn7) | 2:33 | 2022-07-28 | 2022-08-18 |
+| [FLOWER & SAINTS](https://open.spotify.com/track/76nPGzoILoxiq1ntIrixfS) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Stolen Dreams](https://open.spotify.com/album/3wKOSB7GTT0aeaXsEJ26G9) | 3:00 | 2024-01-12 |  |
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2022-07-15 | 2023-02-04 |
 | [Friend Zone](https://open.spotify.com/track/6H68gA0MicRwC9Nsqg8dMH) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Friend Zone](https://open.spotify.com/album/7zFz2AZIusoKWEC9qbXwEc) | 3:25 | 2022-02-22 | 2022-03-11 |
 | [Gaani](https://open.spotify.com/track/03uNC6xp1LUJCa7CEomzva) | [Guri](https://open.spotify.com/artist/7AzzWJUcEEKVTOijy4OeX3) | [Gaani](https://open.spotify.com/album/5mX6dHWudwwmUXaL2LRgha) | 2:43 | 2022-03-07 | 2022-04-06 |
@@ -710,7 +712,7 @@
 | [Tasbih](https://open.spotify.com/track/4hFoqtvjxZK65wCO7s7hvT) | [Rooh Khan](https://open.spotify.com/artist/25N4st00HpawRFG3hgGGr3) | [Tasbih](https://open.spotify.com/album/07CvcVXvJAmnfuSPwzJh1O) | 3:13 | 2023-08-19 | 2023-09-13 |
 | [Tasveer](https://open.spotify.com/track/7hvs8Rzzk3cVJAPGluISmG) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Flamboyant](https://open.spotify.com/album/5PtvEw4eDX5WoC6ruQxuW3) | 3:53 | 2023-01-20 | 2023-02-04 |
 | [Tasveeran](https://open.spotify.com/track/5OnRbQTFD5Ww9OoDQhRlJ4) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Tasveeran](https://open.spotify.com/album/7F4K9EG9c9NPuWdnNf20Kj) | 2:47 | 2022-08-19 | 2022-09-23 |
-| [Tasveerein](https://open.spotify.com/track/1M1P4pwwl8b6y1d4sTPon1) | [Avanie Joshi](https://open.spotify.com/artist/5CQ3ckkmL9cwW9NZlGkWtc) | [Tasveerein](https://open.spotify.com/album/7E2DHW1L5SkM8TYbmbLolz) | 3:29 | 2024-01-03 |  |
+| [Tasveerein](https://open.spotify.com/track/1M1P4pwwl8b6y1d4sTPon1) | [Avanie Joshi](https://open.spotify.com/artist/5CQ3ckkmL9cwW9NZlGkWtc) | [Tasveerein](https://open.spotify.com/album/7E2DHW1L5SkM8TYbmbLolz) | 3:29 | 2024-01-03 | 2024-01-13 |
 | [Tenu Dil Vich Rakhan](https://open.spotify.com/track/3hEWZfIqeDyUiMnDYJMI3d) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R), [Amjad Nadeem Aamir](https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq) | [Tenu Dil Vich Rakhan](https://open.spotify.com/album/6pbfvzLmWR6GQ0RoUSm7Ae) | 3:37 | 2022-08-03 | 2022-12-16 |
 | [Tera Dil](https://open.spotify.com/track/1q1tHRdOw0lGtbaJtIn8ki) | [Yuvraj](https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw) | [Tera Dil](https://open.spotify.com/album/7aJIUhUPWsE683VyOzcU9R) | 2:48 | 2023-02-09 | 2023-05-06 |
 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 | 2022-04-15 | 2022-04-29 |
@@ -728,7 +730,7 @@
 | [Teri Bewafai](https://open.spotify.com/track/67Wsd3HufSj49oZFz1cX11) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Teri Bewafai](https://open.spotify.com/album/32GB0B0w1MC5qOfU9jwzBi) | 3:41 | 2022-11-07 | 2022-12-16 |
 | [Teri Hoi Na Hundi \(From "Zindagi Zindabaad"\)](https://open.spotify.com/track/27SnwZ40otkoLWiTTQvZ74) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Akashdeep Sandhu](https://open.spotify.com/artist/56mpW2dC9yQg8BaMRdoMdD) | [Teri Hoi Na Hundi \(From "Zindagi Zindabaad"\)](https://open.spotify.com/album/3ZAPmg4nneMGHjDpc9hLtg) | 5:01 | 2023-09-21 |  |
 | [Teri Khair Mangaan](https://open.spotify.com/track/1d5WDpIIi6lxYdKlh2GolI) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Deeba Kiran](https://open.spotify.com/artist/3JQr8bw6qBKg1snoIe6cZv) | [Teri Khair Mangaan](https://open.spotify.com/album/6XPN1xzy7xQYYRtRAkkdfO) | 4:10 | 2022-02-11 | 2022-02-19 |
-| [Teri Main Hogayi \- From Tufang](https://open.spotify.com/track/34RZB1JvacxRuV8SY6zYbK) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Teri Main Hogayi \(From Tufang\)](https://open.spotify.com/album/1jsYMVjnjTuMoWqM7d2VNa) | 3:26 | 2023-07-07 |  |
+| [Teri Main Hogayi \- From Tufang](https://open.spotify.com/track/34RZB1JvacxRuV8SY6zYbK) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Teri Main Hogayi \(From Tufang\)](https://open.spotify.com/album/1jsYMVjnjTuMoWqM7d2VNa) | 3:26 | 2023-07-07 | 2024-01-13 |
 | [Teri Meri Gal](https://open.spotify.com/track/5xDHYn57Qo3DQL0kWYguil) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Teri Meri Gal](https://open.spotify.com/album/7cS93JAZcki9VeUz4udf1u) | 2:53 | 2022-12-05 | 2023-01-28 |
 | [Teri Meri Kahani](https://open.spotify.com/track/5ftyuvT3jQotZvo6sJnyce) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Teri Meri Kahani](https://open.spotify.com/album/1xIyxjMzRm9npN8olJlz67) | 2:35 | 2022-07-29 | 2022-08-18 |
 | [Teri Sardarni](https://open.spotify.com/track/3W4dGZMlTGDAfB3WoSI3qA) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n) | [Teri Sardarni](https://open.spotify.com/album/3ruy1JXCCcVL4mfQlkjiuG) | 3:47 | 2021-12-02 | 2022-02-01 |

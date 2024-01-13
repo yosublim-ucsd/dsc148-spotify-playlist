@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Lime Garden
 
-517 songs - 1 day 5 hr 4 min
+518 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-18 | 2022-09-09 |
 | [Love For Two](https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Green Dream in F\#](https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq) | 2:05 | 2022-10-13 | 2023-01-14 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-13 |  |
-| [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-05 |  |
+| [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-05 | 2024-01-13 |
 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 | 2023-11-17 |  |
 | [Lux](https://open.spotify.com/track/3OBlUMdio4gMywyU63AhT9) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Lux](https://open.spotify.com/album/1VCH62Yg84u6WevIg7oEiK) | 1:39 | 2021-03-09 | 2022-02-04 |
 | [Make It Right](https://open.spotify.com/track/3bGQc58jpE4J9xlqavrTPb) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 2:33 | 2022-02-28 | 2022-08-19 |
@@ -335,6 +335,7 @@
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2021-07-30 | 2022-08-19 |
 | [On Fye](https://open.spotify.com/track/3tXiIltQtvU4wp2E60NCCa) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [On Fye](https://open.spotify.com/album/1G2yVIRJeNu9FtUOX27NPZ) | 2:07 | 2022-01-17 | 2022-04-02 |
 | [Once More For The Ocean](https://open.spotify.com/track/4Cvscvb1bbHSsY8lwmSwIQ) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Once More For The Ocean](https://open.spotify.com/album/3Xh2BQHJApHvpfyeHVkyMP) | 3:37 | 2021-06-21 | 2022-08-19 |
+| [One Bad Day](https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [One Bad Day](https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M) | 3:20 | 2024-01-12 |  |
 | [One Last Embrace](https://open.spotify.com/track/4r1tj3IiK4oeUK1U4iAgY6) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Sept \~ Dec](https://open.spotify.com/album/6tYUyBo0cIL8dCSBsBjKnx) | 3:40 | 2021-03-09 | 2022-01-17 |
 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-22 | 2023-01-21 |
 | [Only Good Things](https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Only Good Things](https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt) | 3:15 | 2022-08-18 | 2023-02-06 |

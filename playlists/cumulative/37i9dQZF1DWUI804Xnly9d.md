@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-239 songs - 13 hr 27 min
+240 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,13 +63,14 @@
 | [Dhuaan](https://open.spotify.com/track/7AVao1FclGwn9U2J9IG2Ax) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Dhuaan](https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4) | 3:30 | 2023-07-28 | 2023-09-09 |
 | [Dil Bawra \- Acoustic](https://open.spotify.com/track/74REMfDydJQMVQvFfMzch4) | [Anirudh Deshmukh](https://open.spotify.com/artist/3HiO5a3yy7KtslxTJrBLNL) | [Dil Bawra \(Acoustic\)](https://open.spotify.com/album/22b6VAH3yYUmT9a1VMcWsu) | 4:08 | 2023-05-17 | 2023-06-03 |
 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 | 2023-05-17 |  |
-| [Dil Bhara](https://open.spotify.com/track/1FufKIAGNgVJXmvxGih7MI) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4) | [Dil Bhara](https://open.spotify.com/album/18enJ7jL95iojIBGAnZwub) | 2:56 | 2023-09-26 |  |
+| [Dil Bhara](https://open.spotify.com/track/1FufKIAGNgVJXmvxGih7MI) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4) | [Dil Bhara](https://open.spotify.com/album/18enJ7jL95iojIBGAnZwub) | 2:56 | 2023-09-26 | 2024-01-13 |
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-17 |  |
 | [Dil yeh mera](https://open.spotify.com/track/75FFYq4zjscYgpWSLrcj1X) | [Prasad Aalim](https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6) | [Dil yeh mera](https://open.spotify.com/album/13oAQqhmMpDVPGTgDbZsV2) | 4:00 | 2023-06-15 | 2023-12-19 |
 | [Dilasey \- Stripped](https://open.spotify.com/track/3tBq6098N2lJgn4M1teUFy) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Sonalika Verma](https://open.spotify.com/artist/6630QOzOF3QYY6BwB3ZFRu) | [Dilasey \(Stripped\)](https://open.spotify.com/album/2INEk8a7RiIvnvL0uZ9D4J) | 3:51 | 2023-06-20 | 2023-07-29 |
 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 | 2023-08-04 |  |
 | [Doobie Do](https://open.spotify.com/track/5VLWcMO2ouunSZP7zmDrz6) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Doobie Do](https://open.spotify.com/album/333sIAKoYJ09tNV3vcpJTz) | 2:42 | 2023-05-26 | 2023-06-15 |
 | [Duniya Meri](https://open.spotify.com/track/3x2ug7XW1noOUe5s1ZP1UY) | [Abhinav Singh](https://open.spotify.com/artist/6SCpJdNbMI3NHc8fMAOOg8), [Akash Khanna](https://open.spotify.com/artist/4QoZjypJesrFq6e8LQI56O) | [Duniya Meri](https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg) | 3:57 | 2023-09-01 | 2023-10-27 |
+| [Ek Baar Mein](https://open.spotify.com/track/72MRwlO5aD6i3tCJAFh02X) | [Yash Bhojwani](https://open.spotify.com/artist/2J5QVsZXFVQtQcKLI51A67), [Yash\-Yuvraj](https://open.spotify.com/artist/135rITb1tGZFkUCuqTpz0V) | [Ek Baar Mein](https://open.spotify.com/album/4Z8lmWmeGmDPIUlMwq953t) | 4:10 | 2024-01-12 |  |
 | [Ek Hi Toh Dil](https://open.spotify.com/track/3R8doGdVk3wSQonbXmuKGs) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Dilwala](https://open.spotify.com/artist/0OOLsvPq7vqGvLoQQJuvjC) | [Ek Hi Toh Dil](https://open.spotify.com/album/4Ge5dVfaOy3ghqzkbgR6Vm) | 3:12 | 2023-05-25 | 2023-06-29 |
 | [Ek Sheher](https://open.spotify.com/track/4IRryIKKfcEFvKgfcCTSGc) | [Alok](https://open.spotify.com/artist/3y7LfP3vkL9HrOItlNblh9), [Zion Mathew](https://open.spotify.com/artist/5f47cgKSrce8l22c8bZQ8X) | [Ek Sheher](https://open.spotify.com/album/7aX7q7EJb4cko8NLfzhMne) | 3:52 | 2023-09-08 |  |
 | [Faisle \(Acoustic\)](https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Faisle \(Acoustic\)](https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa) | 2:41 | 2023-05-17 | 2023-07-08 |

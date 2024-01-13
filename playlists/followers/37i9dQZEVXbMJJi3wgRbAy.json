@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 116330,
+  "2024-01-13": 116215,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Uruguay.",
   "name": "Top 50 - Uruguay",
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 171919,
       "name": "Bellakr",
       "url": "https://open.spotify.com/track/4R5yYpjZedXJwosjSMUSFb"
@@ -3883,7 +3883,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"

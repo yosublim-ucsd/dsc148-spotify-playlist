@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Casey
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,652 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,659 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
 | 2 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 |
-| 3 | [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 |
+| 3 | [For Katie](https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr) | 3:56 |
 | 4 | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 |
 | 5 | [Modern Love](https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Modern Love](https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6) | 3:28 |
 | 6 | [Liar Liar](https://open.spotify.com/track/4pQvb7EKACWR2tRjjSaL5w) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Liar Liar](https://open.spotify.com/album/1Aaa6h3XcLOWxJ0ST6aQMs) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [Snake In The Grass](https://open.spotify.com/track/7ziq4cBxm5xZ0GsyBJxAq9) | [ALPHAMEGA](https://open.spotify.com/artist/5Jo80kcSLQNYiwgu7A68EI) | [Snake In The Grass](https://open.spotify.com/album/03PP8plAoML5JYtp55htjB) | 2:54 |
 | 100 | [The Weight of It All](https://open.spotify.com/track/6E7trHVQxQsH6Ve3spYZyv) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [The Weight of It All](https://open.spotify.com/album/3eRxuVGr0PVyugK1L7MXa5) | 3:40 |
 
-Snapshot ID: `MCxiM2FmNjA1N2RlZmExYWIyZmIwMTg0M2FhMGNhZDQ3YTcxMjA4MGIy`
+Snapshot ID: `MCxiZmYxNTE5NzRmNzFiNmZjMjJlOWE5YWZlZjdmZGI4ZDM4MTVmYjY1`

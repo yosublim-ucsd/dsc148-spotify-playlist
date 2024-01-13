@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 22842,
+  "2024-01-13": 22855,
   "date_first_scraped": "2023-11-24",
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
   "name": "\u30b9\u30c8\u30ed\u30dc",
@@ -159,6 +159,24 @@
       "duration_ms": 187237,
       "name": "BASH BASH - feat. JP THE WAVY & Awich",
       "url": "https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB"
+    },
+    {
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
       "album": {
@@ -1100,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow!",
+        "url": "https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU"
+      },
+      "artists": [
+        {
+          "name": "ZETTAKUN",
+          "url": "https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Tomorrow!",
+      "url": "https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF"
+    },
+    {
+      "album": {
         "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
         "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
@@ -1119,7 +1155,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
@@ -1293,7 +1329,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 272965,
       "name": "\u30b1\u30bb\u30e9\u30bb\u30e9",
       "url": "https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4"
@@ -1419,7 +1455,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 175367,
       "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a"
@@ -1556,6 +1592,32 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        },
+        {
+          "name": "\u5de1\u5de1",
+          "url": "https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167966,
+      "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75"
+    },
+    {
+      "album": {
         "name": "475",
         "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
       },
@@ -1675,7 +1737,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 270705,
       "name": "\u6674\u308b",
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
@@ -1819,7 +1881,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 207486,
       "name": "\u82b1\u5360\u3044",
       "url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj"

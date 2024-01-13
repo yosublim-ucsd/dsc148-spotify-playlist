@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,859 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,797 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Together In Electric Dreams](https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Together In Electric Dreams](https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy) | 3:21 |
 | 80 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7D7hkD9QjhSb385O23Vr5K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/076YZeSsRS01JRYazQplIj) | 3:55 |
 
-Snapshot ID: `MCw0ZTkyYWIwMDdhZmQzMzEyNjdmYTY1NWNkYWZmNTYzMGRjNjYzMjc2`
+Snapshot ID: `MCwzMWQ0NmZhYWI5YTgyN2NjMWYwYzdhYjhjMWYzMDUxYzI1Y2QwNWI1`

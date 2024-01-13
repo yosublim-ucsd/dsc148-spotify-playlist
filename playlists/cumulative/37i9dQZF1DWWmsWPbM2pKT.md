@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-247 songs - 15 hr 26 min
+250 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,14 +79,16 @@
 | [Failures](https://open.spotify.com/track/4C6213duKDGTzoFmpkqtLR) | [DECEITS](https://open.spotify.com/artist/7DwVOsVpXsANbs3cHOs6zh) | [Failures](https://open.spotify.com/album/1dTQ4GJyRvNrkAjRjnoeh7) | 3:00 | 2023-08-31 |  |
 | [Falling](https://open.spotify.com/track/6m5HzSkwkSbYkFdrNNKMDw) | [The New Division](https://open.spotify.com/artist/1Cb9Edoxp02mgY0VWVlwQo) | [Falling](https://open.spotify.com/album/1JIFVultBIK991qa7vHeYL) | 4:30 | 2024-01-11 |  |
 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 | 2023-01-06 |  |
-| [Fate](https://open.spotify.com/track/53Zvj4xbSFKwSJeXjyocHK) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:17 | 2023-02-09 |  |
+| [Fate](https://open.spotify.com/track/0TeybZKbODYrRTYMTNkTHb) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/7c844zy9jk6SzVpC57SGZL) | 4:17 | 2024-01-11 |  |
+| [Fate](https://open.spotify.com/track/53Zvj4xbSFKwSJeXjyocHK) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:17 | 2023-02-09 | 2024-01-13 |
 | [Fell In Love With A Ghost](https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Fell In Love With A Ghost](https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa) | 3:45 | 2023-08-31 |  |
 | [Flinch Awake](https://open.spotify.com/track/7KT3QK1mTErOIeXyBwsnA8) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/2l4vEBCHhW804i5xo1rj4g) | 5:48 | 2023-08-31 |  |
 | [Forever](https://open.spotify.com/track/0KRAQpoakCf6ngwMTZIwfJ) | [Trit95](https://open.spotify.com/artist/03Iz2T21dJ2qZqYFLmJGt1) | [Forever](https://open.spotify.com/album/3uk6ar08tBClrLIgNAFZRf) | 2:12 | 2023-08-31 |  |
 | [Future Club](https://open.spotify.com/track/20ztml2STRF7Sq1UaBB6ox) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 4:49 | 2020-12-21 | 2024-01-12 |
 | [Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [Tomb for Two](https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR) | 4:52 | 2023-01-06 |  |
 | [Genesis](https://open.spotify.com/track/5BVoixzxMMa48lOGq0ZtBO) | [Nightcrawler](https://open.spotify.com/artist/74GPpxM5i8gN1sgNXh8JKu), [Dana Jean Phoenix](https://open.spotify.com/artist/2bMw6rIx4S9uymqxxQ1vkh) | [Metropolis](https://open.spotify.com/album/5US6OaklSFTeajFmaxfeBe) | 4:10 | 2020-12-21 | 2023-02-10 |
-| [Give Me a Reason](https://open.spotify.com/track/0s1bzOaz2BgIbvYhwGwpmq) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5dfc4xJu4rrdd7oufQu73H) | 4:25 | 2023-08-31 |  |
+| [Give Me a Reason](https://open.spotify.com/track/0s1bzOaz2BgIbvYhwGwpmq) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5dfc4xJu4rrdd7oufQu73H) | 4:25 | 2023-08-31 | 2024-01-13 |
+| [Give Me a Reason](https://open.spotify.com/track/4nTEiPwyWb4TrFewWkmys4) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 4:25 | 2024-01-11 |  |
 | [Give Me a Reason](https://open.spotify.com/track/5D5pXBwMzqo9Q7Htm54vPR) | [Selofan](https://open.spotify.com/artist/1StVGGYOC5FM3aNpJQ74Vj) | [Vitrioli](https://open.spotify.com/album/3as8D8sQme1il9W9o1MCs6) | 4:16 | 2023-04-28 | 2023-09-01 |
 | [Glory](https://open.spotify.com/track/2wyJJdRfduBBlajANLriZX) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Glory](https://open.spotify.com/album/69qLInN32cz1MR7iIukpej) | 5:19 | 2023-08-31 |  |
 | [Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Good Vibrations](https://open.spotify.com/album/7mMg251qbwAugLZdRNzEyw) | 3:00 | 2021-09-01 | 2023-09-01 |
@@ -100,7 +102,8 @@
 | [Holod](https://open.spotify.com/track/3uuZgHc57MBoBchsETeecJ) | [Super Besse](https://open.spotify.com/artist/6bcE5jaMjqBXy1bwH8KdR0) | [63610\*](https://open.spotify.com/album/4M6aZ41q3nWcfgVn1Q6buu) | 4:52 | 2020-12-21 | 2023-02-10 |
 | [Honey](https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Violent Rains](https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU) | 3:32 | 2023-02-09 | 2023-09-01 |
 | [How to Slow a Dream](https://open.spotify.com/track/5IQ1lVitMg6YCNAH3EgOtL) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [How to Slow a Dream](https://open.spotify.com/album/0LCWCiU903ZdIXXwaE2iTh) | 2:57 | 2023-09-14 |  |
-| [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 | 2023-04-28 |  |
+| [Hoy Solo Quiero Odiar](https://open.spotify.com/track/7JTzj9gEIpvjWv9Jc3ph9B) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/1bgHm9Y97Th2cUuWhCJ5ip) | 4:11 | 2024-01-11 |  |
+| [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 | 2023-04-28 | 2024-01-13 |
 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 | 2023-08-31 |  |
 | [I Do What He Say I Do](https://open.spotify.com/track/3YwGpoqOSybDTDSEYk6em2) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 5:32 | 2024-01-11 |  |
 | [I THINK IM LOSING MY MIND](https://open.spotify.com/track/7GSRHm7qfwy4PH5KjBr9jM) | [DustBowlChampion](https://open.spotify.com/artist/151Si9irFNyY0kzsGNFuRc) | [I THINK IM LOSING MY MIND](https://open.spotify.com/album/3o68MTMJCZCmiiDzLxzVI7) | 3:36 | 2023-10-13 | 2023-12-12 |

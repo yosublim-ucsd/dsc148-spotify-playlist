@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,146 likes - 150 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,611 likes - 150 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 48 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 49 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
 | 50 | [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 |
-| 51 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
+| 51 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
 | 52 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 |
 | 53 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 |
 | 54 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 149 | [Lovefool \- Nicky Romero Remix](https://open.spotify.com/track/7iydGgbqWUwYQNKiUXaoWq) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lovefool \(Nicky Romero Remix\)](https://open.spotify.com/album/5WrYRX2Ov8kYFfCVJTOSkq) | 3:29 |
 | 150 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 |
 
-Snapshot ID: `MCwwMDczNzE0NTY4OTc1NWQ4ZmE1NzVlNDA5Y2Y3OGY2YTk2ZmFjMjk4`
+Snapshot ID: `MCw5ZDI0Yzg3Y2QwYzA4MDNjNWMzZDNmODUxMTEzY2VlMDVkYTk0YTY4`

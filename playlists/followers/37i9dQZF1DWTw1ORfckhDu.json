@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 84004,
+  "2024-01-13": 83976,
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Tupe.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Ares.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 165333,
       "name": "3 kirjainta",
       "url": "https://open.spotify.com/track/1i3Dl9sWjuFwIjRwyqCdnJ"
@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "5 AM",
+        "url": "https://open.spotify.com/album/5mNjJqe9nQmR4LoMa9mGSj"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166350,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/3xxRVKjKwfD51hn4BZcu13"
+    },
+    {
+      "album": {
         "name": "Ape Chapter 2",
         "url": "https://open.spotify.com/album/1U8dkFzzB9Y0733hj2rCWn"
       },
@@ -129,7 +147,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 184930,
       "name": "530",
       "url": "https://open.spotify.com/track/4gAs5czJjOhLWuswsiz4Dy"
@@ -393,6 +411,24 @@
       "duration_ms": 182790,
       "name": "Armoo",
       "url": "https://open.spotify.com/track/3FyvJmR0jH2Xqy1KGBjzyP"
+    },
+    {
+      "album": {
+        "name": "B4DGRL (mit\u00e4 kuuluu skeneen?)",
+        "url": "https://open.spotify.com/album/38uwkSsSpUrRDADnxJoPS8"
+      },
+      "artists": [
+        {
+          "name": "Helena Routa",
+          "url": "https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197470,
+      "name": "B4DGRL (mit\u00e4 kuuluu skeneen?)",
+      "url": "https://open.spotify.com/track/3NgZSOs3tAb5mOmTRNk03M"
     },
     {
       "album": {
@@ -1018,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "EUFORIA",
+        "url": "https://open.spotify.com/album/2BMdHuUuwsaJe3NrG8nGK7"
+      },
+      "artists": [
+        {
+          "name": "LILBRO",
+          "url": "https://open.spotify.com/artist/1PIujpIZmCo918lfPJfn3w"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "EUFORIA",
+      "url": "https://open.spotify.com/track/6bZW8jUc2ydRvKbl6luviy"
+    },
+    {
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/0YmXsxNobUAYohMk3qFSea"
       },
@@ -1201,6 +1255,24 @@
       "duration_ms": 200196,
       "name": "GALAXIS",
       "url": "https://open.spotify.com/track/7jdvq2vMztAFVV1lanuC39"
+    },
+    {
+      "album": {
+        "name": "Gangstaparty",
+        "url": "https://open.spotify.com/album/377FvzsMfCUoYg0V7dxFEA"
+      },
+      "artists": [
+        {
+          "name": "Mjay",
+          "url": "https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131962,
+      "name": "Gangstaparty",
+      "url": "https://open.spotify.com/track/2Y16eiSMRQjbGwwC9EkJ9F"
     },
     {
       "album": {
@@ -2020,6 +2092,24 @@
     },
     {
       "album": {
+        "name": "Kipin\u00e4 takas",
+        "url": "https://open.spotify.com/album/5w89NUkkuO8uFkxuxw0DRx"
+      },
+      "artists": [
+        {
+          "name": "Raappana",
+          "url": "https://open.spotify.com/artist/7m7tqSW9C7alkliDAZYvF0"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210230,
+      "name": "Kipin\u00e4 takas",
+      "url": "https://open.spotify.com/track/3Cl2irFSKct4w49YrFEcwq"
+    },
+    {
+      "album": {
         "name": "Coast to Costi",
         "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
       },
@@ -2057,6 +2147,28 @@
       "duration_ms": 200347,
       "name": "Kivulle kiitos",
       "url": "https://open.spotify.com/track/3CYYlyvtvrG6bEOKvkEAUS"
+    },
+    {
+      "album": {
+        "name": "Klassinen",
+        "url": "https://open.spotify.com/album/7E3HRfLCM76LIXdnMNiwRs"
+      },
+      "artists": [
+        {
+          "name": "Jonihey",
+          "url": "https://open.spotify.com/artist/1WtBrJQdsrplnLjCjWzLsf"
+        },
+        {
+          "name": "edi",
+          "url": "https://open.spotify.com/artist/7rOJDOpvjXjOvWA9rTQjtN"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Klassinen",
+      "url": "https://open.spotify.com/track/6M6ihuKAiUGD1G4JdJWFGY"
     },
     {
       "album": {
@@ -2323,7 +2435,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 154798,
       "name": "Lain yl\u00e4puolella",
       "url": "https://open.spotify.com/track/2peyUaFwHmLpGVsWWphKtJ"
@@ -2614,6 +2726,24 @@
     },
     {
       "album": {
+        "name": "L\u00d6YD\u00c4 MUT / SILM\u00c4T KII",
+        "url": "https://open.spotify.com/album/3N6s1CxP3Pyysj3DHZkiUJ"
+      },
+      "artists": [
+        {
+          "name": "gl\u00f6gmann",
+          "url": "https://open.spotify.com/artist/5Nx1bhFv0kEU71ALXikPq0"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156120,
+      "name": "L\u00d6YD\u00c4 MUT",
+      "url": "https://open.spotify.com/track/4r4MaKnClxoiiG93CbHu5l"
+    },
+    {
+      "album": {
         "name": "Maalainen",
         "url": "https://open.spotify.com/album/7GemBwf8DwYWne3AbV6RjJ"
       },
@@ -2690,6 +2820,24 @@
     },
     {
       "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/6lBh55sdgXTSX1VyW9Fykp"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159464,
+      "name": "MANIA",
+      "url": "https://open.spotify.com/track/42wdgAhyKTfaEusVBAbjH3"
+    },
+    {
+      "album": {
         "name": "Marraskuu",
         "url": "https://open.spotify.com/album/16ny8eOJfXDt8FD4aYjdBx"
       },
@@ -2749,6 +2897,24 @@
       "duration_ms": 147702,
       "name": "Matrix",
       "url": "https://open.spotify.com/track/3qgL0KYd3rUPuXTjfMSOKA"
+    },
+    {
+      "album": {
+        "name": "MEDUSA",
+        "url": "https://open.spotify.com/album/4hFCZZaqoJzT0nCNapwibT"
+      },
+      "artists": [
+        {
+          "name": "MC Rambo",
+          "url": "https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "MEDUSA",
+      "url": "https://open.spotify.com/track/6iq1pCbLqDAjkqRrP5Xs7o"
     },
     {
       "album": {
@@ -3160,6 +3326,28 @@
     },
     {
       "album": {
+        "name": "Next Up Scandinavia - S1-E3",
+        "url": "https://open.spotify.com/album/3GCYEHcmjsJieXwnjN0KPQ"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "Next Up Scandinavia - S1-E3",
+      "url": "https://open.spotify.com/track/4hKcEl6qOBW9F0NAZSgIzX"
+    },
+    {
+      "album": {
         "name": "Niinku Ennen Tehtiin",
         "url": "https://open.spotify.com/album/397PXFINFbwopqXgY7kpDN"
       },
@@ -3331,7 +3519,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 163593,
       "name": "onnenonkija",
       "url": "https://open.spotify.com/track/7k3QhKhTk5kltyO3XS9X8p"
@@ -3357,7 +3545,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 235320,
       "name": "Paa se biisi soimaan",
       "url": "https://open.spotify.com/track/1QArR7272Cv4x9SbKhZIQO"
@@ -3611,7 +3799,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 175937,
       "name": "Puhu pahaa",
       "url": "https://open.spotify.com/track/2IyeoicUQBeF4YetQTPLtq"
@@ -3651,7 +3839,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 158321,
       "name": "Purjehtija",
       "url": "https://open.spotify.com/track/3NnWBahFgXNI7ICnETZEkP"
@@ -3895,7 +4083,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 120129,
       "name": "ROISTO",
       "url": "https://open.spotify.com/track/7cEX0molDUgDwiw3Mjzsmt"
@@ -3961,7 +4149,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 224347,
       "name": "R\u014dnin",
       "url": "https://open.spotify.com/track/08sBT5eVNy8LLMa8oYI6F2"
@@ -4492,6 +4680,24 @@
     },
     {
       "album": {
+        "name": "Cooper",
+        "url": "https://open.spotify.com/album/2R7hvnF64rMABKsCiphfwc"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6ge",
+          "url": "https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125870,
+      "name": "S\u00e4mplet\u00f6n",
+      "url": "https://open.spotify.com/track/5VQuNYd0S2LIYcWGmGIZvD"
+    },
+    {
+      "album": {
         "name": "S\u00e4vyj\u00e4",
         "url": "https://open.spotify.com/album/60Fy42j0dNXce8AZ6zUgEo"
       },
@@ -4529,7 +4735,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 171938,
       "name": "Taas menn\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/5mtQHNdsuNAgDZZOuzEaW6"
@@ -4725,7 +4931,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 190773,
       "name": "Toiset samanlaiset (feat. K\u00e4\u00e4rij\u00e4)",
       "url": "https://open.spotify.com/track/74GljYNzhYRF90chULPqsz"
@@ -4747,6 +4953,24 @@
       "duration_ms": 139469,
       "name": "Toistoi",
       "url": "https://open.spotify.com/track/0yHRLkeNe9j9vqek47Of6f"
+    },
+    {
+      "album": {
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/0jt1rOi0cB3fNZOJjhBv5h"
+      },
+      "artists": [
+        {
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178514,
+      "name": "TOXIC B (pid\u00e4mustkii)",
+      "url": "https://open.spotify.com/track/32cwVMP4pZtxtf7weKt8E3"
     },
     {
       "album": {
@@ -4809,7 +5033,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 188928,
       "name": "Tunnen et riit\u00e4n",
       "url": "https://open.spotify.com/track/3dFNnCmUxcnxXfbmdCeXdm"
@@ -5237,7 +5461,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 195258,
       "name": "Voimaantunu",
       "url": "https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O"
@@ -5329,6 +5553,24 @@
       "duration_ms": 171886,
       "name": "WILLAIN (feat. ibe)",
       "url": "https://open.spotify.com/track/0Ch46DVttxlt7dNSkYcpZG"
+    },
+    {
+      "album": {
+        "name": "Ysikuudest Ikuisuuteen",
+        "url": "https://open.spotify.com/album/0AMIYyldCicCs2PAPoYZJw"
+      },
+      "artists": [
+        {
+          "name": "SMC L\u00e4hi\u00f6rotat",
+          "url": "https://open.spotify.com/artist/2Aqq0gyr7lRZ8vmPlW4MhB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290885,
+      "name": "Ysikuudest Ikuisuuteen",
+      "url": "https://open.spotify.com/track/3kHKtMLZZCGMGLHXgkDmEI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu"

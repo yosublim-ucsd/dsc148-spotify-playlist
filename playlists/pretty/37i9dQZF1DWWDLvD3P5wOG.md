@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,392 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,601 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 72 | [Click Mi Finger](https://open.spotify.com/track/2gUCdANxjdifegHVvt9BVC) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [First Semester: Dancehall](https://open.spotify.com/album/6dMkzA6Tv5vyMCjbW3ccdx) | 2:38 |
 | 73 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
 | 74 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
-| 75 | [One Drop](https://open.spotify.com/track/54GRkvaa7ZUA6OtrPl3VUc) | [QQ](https://open.spotify.com/artist/06SIuEAp0Cqena9c2bZfgq), [Venomus](https://open.spotify.com/artist/15ebKuZun256dB6EBr8HUB) | [Kingston 20](https://open.spotify.com/album/4kD72g4mw4e97K5BAcY494) | 2:54 |
-| 76 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
-| 77 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
-| 78 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
-| 79 | [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 |
-| 80 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/1GPr2bSZGp3FY8WLUIz6kD) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life \(Is What You Make of It\)](https://open.spotify.com/album/5PnaOrdPmijULnutsP7DQt) | 3:32 |
+| 75 | [Bruk off Yuh Back](https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk off Yuh Back](https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0) | 2:53 |
+| 76 | [One Drop](https://open.spotify.com/track/54GRkvaa7ZUA6OtrPl3VUc) | [QQ](https://open.spotify.com/artist/06SIuEAp0Cqena9c2bZfgq), [Venomus](https://open.spotify.com/artist/15ebKuZun256dB6EBr8HUB) | [Kingston 20](https://open.spotify.com/album/4kD72g4mw4e97K5BAcY494) | 2:54 |
+| 77 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
+| 78 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
+| 79 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
+| 80 | [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 |
 
-Snapshot ID: `MCxiN2QwZjVhNDE0MDNmOWFhNDA3MmY0Y2Q3OTFjNWIwNjZlNWE5OTY0`
+Snapshot ID: `MCxiZmRiYzljY2E3ODQ1YzZmMTgwMGE5NGZmYzRiMGVkOThmMzVmMmM5`

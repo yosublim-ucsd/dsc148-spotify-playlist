@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 36320,
+  "num_followers": 36364,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzM0NmM5ODdmNGRiZWQ2YWY0M2Y2ZDY2ZTFjMmM5OTc0Njc1MzQ5",
+  "snapshot_id": "MCw1NzRiNGU1NzVkMzdkNDgyMmUxYmZiN2QyOGM3NTY3ZjA1ZTY2Yzcw",
   "tracks": [
     {
       "added_at": "2023-12-21 09:31:40",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Dwell Time",
-        "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 280226,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "Komposition VII",
         "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 473721,
       "name": "L\u00e5ngsamt",
       "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Dwell Time",
+        "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "One Kiss Too Many",
-        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
-      },
-      "artists": [
-        {
-          "name": "Jakob Dinesen",
-          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Slaraffenland",
-      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "Places To Write",
         "url": "https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 242840,
       "name": "Places To Write",
       "url": "https://open.spotify.com/track/0awgGcOGbt4vO7vj1hcXq1"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "One Kiss Too Many",
+        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
+      },
+      "artists": [
+        {
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "Slaraffenland",
+      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "The Mariner's Cross",
-        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "The Mariner's Cross",
-      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "A Year From Easter",
         "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 204800,
       "name": "Eliasong",
       "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "The Mariner's Cross",
+        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "The Mariner's Cross",
+      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -767,6 +767,30 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "Painting Music",
+        "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        },
+        {
+          "name": "Nils Bo Davidsen",
+          "url": "https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l"
+        },
+        {
+          "name": "Stefan Pasborg",
+          "url": "https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY"
+        }
+      ],
+      "duration_ms": 258161,
+      "name": "Jeg gik mig ud en Sommerdag",
+      "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "So I Write",
         "url": "https://open.spotify.com/album/4vAwdCMgU6JptyBoGx85rH"
       },
@@ -795,30 +819,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Painting Music",
-        "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        },
-        {
-          "name": "Nils Bo Davidsen",
-          "url": "https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l"
-        },
-        {
-          "name": "Stefan Pasborg",
-          "url": "https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY"
-        }
-      ],
-      "duration_ms": 258161,
-      "name": "Jeg gik mig ud en Sommerdag",
-      "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 222762,
       "name": "Honey in Your Head",
       "url": "https://open.spotify.com/track/0IHTPYEnrSXADbi3XYDNfB"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Scandinavian Standards",
-        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
-      },
-      "artists": [
-        {
-          "name": "Niels Lan Doky",
-          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "The Lilly Flower - Liljankukka",
-      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -883,6 +867,22 @@
       "duration_ms": 411640,
       "name": "Polska Of Despair (1)",
       "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Scandinavian Standards",
+        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+      },
+      "artists": [
+        {
+          "name": "Niels Lan Doky",
+          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "The Lilly Flower - Liljankukka",
+      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "The Land That Is Not",
-        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
       },
       "artists": [
         {
-          "name": "Sinikka Langeland",
-          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
         }
       ],
-      "duration_ms": 375653,
-      "name": "Triumph Of Being",
-      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "No City, No Tree, No Lake",
         "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 155000,
       "name": "Almost Romance",
       "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "The Land That Is Not",
+        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Langeland",
+          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
+        }
+      ],
+      "duration_ms": 375653,
+      "name": "Triumph Of Being",
+      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 281855,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        }
-      ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "Snow Catches on Her Eyelashes",
+        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        },
+        {
+          "name": "Hilde Norbakken",
+          "url": "https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "Before the Wedding",
+      "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1251,26 +1275,18 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Snow Catches on Her Eyelashes",
-        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
       },
       "artists": [
         {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        },
-        {
-          "name": "Hilde Norbakken",
-          "url": "https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0"
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
         }
       ],
-      "duration_ms": 183210,
-      "name": "Before the Wedding",
-      "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1291,22 +1307,6 @@
       "duration_ms": 336533,
       "name": "Naked Trees",
       "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Being",
-        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 380306,
-      "name": "The Pondering",
-      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "Few Words",
         "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
       },
@@ -1503,6 +1479,30 @@
       "duration_ms": 101175,
       "name": "Few Words",
       "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 380306,
+      "name": "The Pondering",
+      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Landkjenning",
-        "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 215552,
-      "name": "Landkjenning",
-      "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "Adam",
         "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "Landkjenning",
+        "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 215552,
+      "name": "Landkjenning",
+      "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "Wood Circles",
         "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 323176,
       "name": "Fanfar",
       "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1679,6 +1663,22 @@
       "duration_ms": 528100,
       "name": "Point of no return",
       "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "Earthbeat",
+        "url": "https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO"
+      },
+      "artists": [
+        {
+          "name": "Tuomas Paukku Scription",
+          "url": "https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1"
+        }
+      ],
+      "duration_ms": 356532,
+      "name": "Earthbeat - Single Edit",
+      "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "P\u00e5 havets bunn",
         "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Earthbeat",
-        "url": "https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO"
-      },
-      "artists": [
-        {
-          "name": "Tuomas Paukku Scription",
-          "url": "https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1"
-        }
-      ],
-      "duration_ms": 356532,
-      "name": "Earthbeat - Single Edit",
-      "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "Lycka till med musiken",
+        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "Jan Garbarek: Works",
         "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 299333,
       "name": "Svevende",
       "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Lycka till med musiken",
-        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
-      },
-      "artists": [
-        {
-          "name": "Agnas Bros",
-          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "9",
-      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1923,22 +1923,22 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "P\u00e5 gjensyn",
-        "url": "https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W"
+        "name": "Funeral Dance",
+        "url": "https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE"
       },
       "artists": [
         {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
         },
         {
-          "name": "Jonas Kilmork Vem\u00f8y",
-          "url": "https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7"
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
         }
       ],
-      "duration_ms": 367280,
-      "name": "P\u00e5 gjensyn",
-      "url": "https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF"
+      "duration_ms": 320534,
+      "name": "S\u00e6velid",
+      "url": "https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq"
     }
   ],
   "unique_name": "Nordic Jazz",

@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 216686,
+  "2024-01-13": 216728,
   "date_first_scraped": "2022-05-01",
   "description": "Soft Jazz in the background of your cocktail party.",
   "name": "Cocktail Jazz",
@@ -5546,6 +5546,24 @@
     },
     {
       "album": {
+        "name": "Who Can Tell",
+        "url": "https://open.spotify.com/album/6YnErcW1NClFot1YHz29zi"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219615,
+      "name": "Who Can Tell",
+      "url": "https://open.spotify.com/track/6GpJYnZJXbi8BRZgUxa5Pt"
+    },
+    {
+      "album": {
         "name": "Maiden Voyage",
         "url": "https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4"
       },
@@ -5687,6 +5705,24 @@
       "duration_ms": 179000,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/5VHpA5RrPEGY9NgHhahHnG"
+    },
+    {
+      "album": {
+        "name": "You Go To My Head",
+        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299029,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
     },
     {
       "album": {

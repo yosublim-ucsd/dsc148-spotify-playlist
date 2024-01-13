@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 4628,
+  "2024-01-13": 4626,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -309,6 +309,24 @@
       "duration_ms": 210951,
       "name": "2024",
       "url": "https://open.spotify.com/track/1SWRLrHykgDsPtGtezEf2F"
+    },
+    {
+      "album": {
+        "name": "2024 (Freestyle)",
+        "url": "https://open.spotify.com/album/7c9ZMe54iv35c2cEX1dP13"
+      },
+      "artists": [
+        {
+          "name": "Teckill",
+          "url": "https://open.spotify.com/artist/7yi1Mw32dZa5M3wXjWfGEG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211858,
+      "name": "2024 (Freestyle)",
+      "url": "https://open.spotify.com/track/4PIucCm13InnDwukJEVUL3"
     },
     {
       "album": {
@@ -5485,7 +5503,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 226324,
       "name": "Chipi Chipi Chapa Chapa",
       "url": "https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5"
@@ -8041,6 +8059,24 @@
       "duration_ms": 229120,
       "name": "Dubidubidu",
       "url": "https://open.spotify.com/track/0wF1DTkX71e0OL9t1zomSp"
+    },
+    {
+      "album": {
+        "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
+        "url": "https://open.spotify.com/album/4nmIEe2NyoIJ5mxlDMcTCo"
+      },
+      "artists": [
+        {
+          "name": "Christell",
+          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226103,
+      "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
+      "url": "https://open.spotify.com/track/0O3ow3j5y8q3ykRs2K2n1b"
     },
     {
       "album": {
@@ -11343,6 +11379,24 @@
       "duration_ms": 189783,
       "name": "G\u00e1t",
       "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
+    },
+    {
+      "album": {
+        "name": "H00DBYAIR",
+        "url": "https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW"
+      },
+      "artists": [
+        {
+          "name": "nitro!",
+          "url": "https://open.spotify.com/artist/5otCfrzno8ga0qg868oibs"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212742,
+      "name": "H00DBYAIR",
+      "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
     },
     {
       "album": {
@@ -17369,7 +17423,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 100465,
       "name": "MANDA BALA",
       "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
@@ -23265,7 +23319,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 249803,
       "name": "Pln\u00e9 Ta\u0161ky - Remix",
       "url": "https://open.spotify.com/track/2LLe0KGnljLYOtiS3gaQ1Z"
@@ -28941,7 +28995,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 133935,
       "name": "Swagged to Death",
       "url": "https://open.spotify.com/track/7Czz5Jyrsz3O5UjDmE3Wez"
@@ -31300,6 +31354,24 @@
     },
     {
       "album": {
+        "name": "Ur The Moon",
+        "url": "https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW"
+      },
+      "artists": [
+        {
+          "name": "Maori Beats",
+          "url": "https://open.spotify.com/artist/6T1ZK4NhuRAE64bCniMrGk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168125,
+      "name": "Ur The Moon",
+      "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
+    },
+    {
+      "album": {
         "name": "ur the moon",
         "url": "https://open.spotify.com/album/3UMvk3TDzkVQ4cT4xN2lEG"
       },
@@ -32787,7 +32859,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 122414,
       "name": "WHAT YOU WANT!",
       "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
@@ -34601,7 +34673,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 188625,
       "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (Speed Up)",
       "url": "https://open.spotify.com/track/6qNHJwdMhNZzyJ7yTDU8zD"

@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 122000,
+  "2024-01-13": 121863,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Switzerland.",
   "name": "Top 50 - Switzerland",
@@ -18493,7 +18493,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 238344,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
@@ -29655,7 +29655,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 181173,
       "name": "O Jet\u00eb",
       "url": "https://open.spotify.com/track/10JIImlqxwF5KzDVN6q1vl"

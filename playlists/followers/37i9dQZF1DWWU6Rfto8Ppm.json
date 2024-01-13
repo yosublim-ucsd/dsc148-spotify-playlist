@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 3122002,
+  "2024-01-13": 3124502,
   "date_first_scraped": "2022-01-02",
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
   "name": "Reggaet\u00f3n Viejito",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 171758,
       "name": "301",
       "url": "https://open.spotify.com/track/28vTK1SLOyjSbldzGlxkuO"
@@ -1708,6 +1708,32 @@
     },
     {
       "album": {
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276573,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT"
+    },
+    {
+      "album": {
         "name": "Mi Trayectoria",
         "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
       },
@@ -2693,7 +2719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 271986,
       "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
       "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
@@ -6803,7 +6829,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 209946,
       "name": "Sin Tu Amor (feat. Alex Pro)",
       "url": "https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs"

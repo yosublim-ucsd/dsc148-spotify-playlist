@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,592 likes - 48 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,598 likes - 48 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 11 | [No Lo Estás Logrando](https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [No Lo Estás Logrando](https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U) | 3:03 |
 | 12 | [Tengo](https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Tengo](https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9) | 3:50 |
 | 13 | [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 |
-| 14 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
-| 15 | [Somos Instantes \- Acústico](https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [unas acústicas](https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l) | 3:22 |
+| 14 | [Somos Instantes \- Acústico](https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [unas acústicas](https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l) | 3:22 |
+| 15 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
 | 16 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 17 | [Los Días Que Vendrán](https://open.spotify.com/track/2qmRGDSS7kQ0mRjfuNso9T) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:27 |
 | 18 | [16](https://open.spotify.com/track/55ftDFrREvV7yzdsoe55Hl) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:55 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 47 | [La Mujer Perfecta \- En Vivo](https://open.spotify.com/track/4tCrl2uIZgACyuGTSvPcbM) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:30 |
 | 48 | [La Vida](https://open.spotify.com/track/6ttAd4xtADjX1JZB6ObLTl) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 4:41 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBmMGI1NDExZmNhZDFiZDFkMWI0M2M4NzVlMDIwZDI1NQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA0OTNjOTRkNmIxY2NlNDhhOTRjYWU3N2RlYWI1NzM0ZQ==`

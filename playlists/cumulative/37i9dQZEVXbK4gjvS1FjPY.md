@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-1,057 songs - 2 day 12 hr 37 min
+1,059 songs - 2 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-02-26 | 2023-05-12 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-05-21 | 2022-05-29 |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-08-19 | 2021-09-19 |
+| [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2024-01-12 |  |
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-27 | 2022-01-08 |
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-26 | 2021-09-27 |
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2023-09-09 | 2023-09-14 |
@@ -940,7 +941,7 @@
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-20 | 2023-02-21 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-09 | 2022-08-21 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-12-04 | 2023-07-09 |
-| [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-10 |  |
+| [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-10 | 2024-01-13 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-04-30 |
 | [up to me](https://open.spotify.com/track/5pbQaprwbDRlzXBo8xVnCo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [up to me / dna \[demo\]](https://open.spotify.com/album/0GrGh2x8KprTal72UkxnBP) | 2:47 | 2021-07-23 | 2021-07-31 |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-06-22 | 2022-07-15 |
@@ -974,7 +975,7 @@
 | [When We Were Young](https://open.spotify.com/track/6O5TrlFWTYvznd9fMC0VvU) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:50 | 2021-10-17 | 2021-10-21 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 | 2022-06-12 |
 | [Where I Belong](https://open.spotify.com/track/0u0a0p4hWefiy09bYqzZ2A) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [My August 9th \- 50 Wonderful Years \(2016 Edition\)](https://open.spotify.com/album/7sGj7ltMAhHgqzuBfVCCsL) | 3:03 | 2021-08-11 | 2023-08-12 |
-| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-31 |  |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-31 | 2024-01-13 |
 | [WHISTLE](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 3:31 | 2023-05-14 | 2023-05-16 |
 | [White Christmas](https://open.spotify.com/track/370oYn3s5EKu7ziUpMQQTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tennessee Christmas](https://open.spotify.com/album/3MPHjHNBRLa857BxmQUrZE) | 2:23 | 2021-12-25 | 2021-12-27 |
 | [White Christmas](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2022-12-25 | 2022-12-28 |
@@ -1019,6 +1020,7 @@
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-04-19 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-19 | 2022-01-30 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-17 | 2022-07-17 |
+| [アイドル](https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:31 | 2024-01-12 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-14 | 2023-07-29 |
 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 | 2023-10-21 | 2023-10-23 |
 | [从前说](https://open.spotify.com/track/3t5edAHbyFEW67wFApp7EO) | [小阿七](https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh) | [从前说](https://open.spotify.com/album/3XKhqXwWo2nHfTCsvYkmtq) | 4:11 | 2023-03-21 | 2023-11-19 |

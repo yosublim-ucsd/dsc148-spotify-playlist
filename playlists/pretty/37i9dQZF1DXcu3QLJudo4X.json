@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 76251,
+  "num_followers": 76384,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmZkZDgxOTJkNTIwODU3NWUyZGU5NTI4MjgyYTAwMjEyNzZhOGQ5",
+  "snapshot_id": "MCwyMzM5M2VmMzMzYjVjYjFiM2Y5NGQzM2JkMmUxMTQyYjU5ZjI5NjM5",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 176747,
+      "name": "Somebody Loan Me A Dime - Remastered",
+      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -543,6 +559,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "I Pity The Fool",
+      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -571,22 +603,6 @@
       "duration_ms": 175293,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "I Pity The Fool",
-      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Somebody Loan Me A Dime (Remastered)",
-        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 176747,
-      "name": "Somebody Loan Me A Dime - Remastered",
-      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "The Very Best Of Albert King",
         "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 239133,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -851,6 +835,22 @@
       "duration_ms": 183800,
       "name": "(I Think) Drowning on Dry Land",
       "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
     },
     {
       "added_at": "2023-08-23 10:30:13",

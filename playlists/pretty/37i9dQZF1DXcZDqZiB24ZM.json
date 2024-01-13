@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: FouKi",
-  "num_followers": 8801,
+  "num_followers": 8810,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2Y2Mjc3YWIxMDk0YTJkYjA4MmFiNjQ3YjIzNGI4ZjUxMTU0NTU3",
+  "snapshot_id": "MCxjYjczMGM2Y2U2ZjY0ZDM1M2JhZjlmYTY2OTVkNWRlNjhkMDFkNjg2",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Une ann\u00e9e record",
-        "url": "https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Devenir immortel (et puis mourir)",
-      "url": "https://open.spotify.com/track/2V87kJ8CDel2anZpqVuC8F"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "002 / LOVE ME",
         "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Une ann\u00e9e record",
+        "url": "https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Devenir immortel (et puis mourir)",
+      "url": "https://open.spotify.com/track/2V87kJ8CDel2anZpqVuC8F"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -439,22 +439,6 @@
       "duration_ms": 226153,
       "name": "Barillet",
       "url": "https://open.spotify.com/track/7sQlKJBiqR3exoRjHlT7PM"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Une ann\u00e9e record",
-        "url": "https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 191239,
-      "name": "Nouveaux riches",
-      "url": "https://open.spotify.com/track/2WGjNKDvkM56JRYobuQazH"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Une ann\u00e9e record",
+        "url": "https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 191239,
+      "name": "Nouveaux riches",
+      "url": "https://open.spotify.com/track/2WGjNKDvkM56JRYobuQazH"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "L'album noir",
         "url": "https://open.spotify.com/album/24ELiFOvFYXOESU0ovA28B"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Zay",
-        "url": "https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp"
-      },
-      "artists": [
-        {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Makeup",
-      "url": "https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Personne ne touche le ciel",
         "url": "https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 240500,
       "name": "La route est longue",
       "url": "https://open.spotify.com/track/3yXbhZkrEVcGKW2d4NRwh4"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Zay",
+        "url": "https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Blacklist",
-        "url": "https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2"
-      },
-      "artists": [
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        }
-      ],
-      "duration_ms": 231081,
-      "name": "Chacun son r\u00e9cit",
-      "url": "https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Monarque",
         "url": "https://open.spotify.com/album/4dnkodXsUuDEIEZ5WfYqHb"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 166835,
       "name": "Kr\u00e8ve",
       "url": "https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Blacklist",
+        "url": "https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "duration_ms": 231081,
+      "name": "Chacun son r\u00e9cit",
+      "url": "https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Confession risqu\u00e9e",
-        "url": "https://open.spotify.com/album/2kKFkpgObsTYrFLdCjuVwW"
-      },
-      "artists": [
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        },
-        {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
-        }
-      ],
-      "duration_ms": 204230,
-      "name": "24 heures \u00e0 vivre",
-      "url": "https://open.spotify.com/track/4KgeccIkAwdLFNe2MyBmlG"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Trapstar",
         "url": "https://open.spotify.com/album/5KveGzyuZCwSROPbHseoAi"
       },
@@ -1011,6 +991,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Confession risqu\u00e9e",
+        "url": "https://open.spotify.com/album/2kKFkpgObsTYrFLdCjuVwW"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        },
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        }
+      ],
+      "duration_ms": 204230,
+      "name": "24 heures \u00e0 vivre",
+      "url": "https://open.spotify.com/track/4KgeccIkAwdLFNe2MyBmlG"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Les Fr\u00e8res Cueilleurs",
         "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Bateaux Colombiens",
-        "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        }
-      ],
-      "duration_ms": 251495,
-      "name": "OuinOuin",
-      "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "La Nuit des Longs Couteaux",
         "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 283613,
       "name": "\u00c9l\u00e9phant",
       "url": "https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Bateaux Colombiens",
+        "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 251495,
+      "name": "OuinOuin",
+      "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Non Merci",
-        "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
-      },
-      "artists": [
-        {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
-        }
-      ],
-      "duration_ms": 211970,
-      "name": "Non Merci",
-      "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "OUI (tout tout tout toutttte)",
         "url": "https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 288733,
       "name": "For\u00eats",
       "url": "https://open.spotify.com/track/4bcAvTSmAFpD0q8eKMTHhU"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Non Merci",
+        "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
+      },
+      "artists": [
+        {
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
+        }
+      ],
+      "duration_ms": 211970,
+      "name": "Non Merci",
+      "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Silence de mort",
+        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
+      },
+      "artists": [
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        }
+      ],
+      "duration_ms": 189344,
+      "name": "Entre toi et moi",
+      "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Cash Out",
         "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 261537,
       "name": "Fanny",
       "url": "https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Silence de mort",
-        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
-      },
-      "artists": [
-        {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
-        }
-      ],
-      "duration_ms": 189344,
-      "name": "Entre toi et moi",
-      "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Blue Volvo",
-        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
-      },
-      "artists": [
-        {
-          "name": "Loud Lary Ajust",
-          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
-        }
-      ],
-      "duration_ms": 251228,
-      "name": "Xoxo",
-      "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Oh Ma Loca",
         "url": "https://open.spotify.com/album/4lkzEyFaYSXp5pTm1W2VRC"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 208301,
       "name": "Oh Ma Loca",
       "url": "https://open.spotify.com/track/3RcwT1owoV6QE9zrXUk0b6"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Blue Volvo",
+        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
+      },
+      "artists": [
+        {
+          "name": "Loud Lary Ajust",
+          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
+        }
+      ],
+      "duration_ms": 251228,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le sens des paroles",
-        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        }
-      ],
-      "duration_ms": 254396,
-      "name": "La famille",
-      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
       },
@@ -1659,6 +1643,26 @@
       "duration_ms": 193293,
       "name": "Dollaz",
       "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Le sens des paroles",
+        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 245929,
+      "name": "FLX",
+      "url": "https://open.spotify.com/track/205afVnJDjzQsh60Zzmxdl"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1679,22 +1683,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Paranoia",
-        "url": "https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3"
-      },
-      "artists": [
-        {
-          "name": "Gnino",
-          "url": "https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H"
-        }
-      ],
-      "duration_ms": 214726,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Petit prince",
         "url": "https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4"
       },
@@ -1711,22 +1699,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Faya",
-        "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3"
       },
       "artists": [
         {
-          "name": "MB",
-          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
-        },
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+          "name": "Gnino",
+          "url": "https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H"
         }
       ],
-      "duration_ms": 236657,
-      "name": "Faya",
-      "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
+      "duration_ms": 214726,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1759,6 +1743,42 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
+      },
+      "artists": [
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+        },
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "duration_ms": 236657,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Le sens des paroles",
+        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "duration_ms": 254396,
+      "name": "La famille",
+      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "5 / 5",
         "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 213167,
       "name": "Loin",
       "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Le sens des paroles",
-        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 245929,
-      "name": "FLX",
-      "url": "https://open.spotify.com/track/205afVnJDjzQsh60Zzmxdl"
     },
     {
       "added_at": "2022-03-11 05:02:00",

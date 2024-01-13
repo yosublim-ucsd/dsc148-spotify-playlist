@@ -4,7 +4,7 @@
 
 > Pop hits in the making! Cover: Jennifer Lopez
 
-322 songs - 17 hr 1 min
+323 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [wish you would](https://open.spotify.com/track/1LFrlYjezwFadKoL6UESMd) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [wish you would](https://open.spotify.com/album/0M1Oz5d6jsNjAGcAATbWNk) | 3:14 | 2023-10-30 | 2023-12-09 |
 | [With You](https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:43 | 2023-09-28 | 2023-11-11 |
 | [Worst Taste In Girls](https://open.spotify.com/track/3WSZgyMBLoNxXb8DjFFYDq) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Worst Taste In Girls](https://open.spotify.com/album/1D05rYqJaiYUhl3YX8t0Oq) | 2:56 | 2023-06-15 | 2023-07-21 |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 |  |
 | [You & I](https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:00 | 2023-07-13 | 2023-10-13 |
 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-27 | 2023-12-15 |
 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2023-08-31 | 2023-12-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 173140,
+  "num_followers": 173190,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNiMmZlOTExYjNiMzhhYjYzZDhiYjk3NjIwNjA0Y2EwYWQ3YjRh",
+  "snapshot_id": "MCw0YTliZTVmYWE4ZjE2MzEzNGE4YTRmNWY1ZmFiNGVhOGM4OWUwYzg1",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Unity Pt. 2",
+        "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
+      },
+      "artists": [
+        {
+          "name": "Tale Of Us",
+          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 372906,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Unite",
         "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
       },
@@ -1079,22 +1099,6 @@
       "duration_ms": 188157,
       "name": "Unite",
       "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Influence",
-        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
-      },
-      "artists": [
-        {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
-        }
-      ],
-      "duration_ms": 259364,
-      "name": "Influence - Edit",
-      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     }
   ],
   "unique_name": "Melodic & Euphoric",

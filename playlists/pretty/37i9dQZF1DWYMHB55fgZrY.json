@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Julieta Venegas en portada.",
-  "num_followers": 524064,
+  "num_followers": 524003,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzNiZTNkZTI5MGI2MGM3OWM1NjY2Y2U0MDk3NTk3MTEyOTk5Yjk0",
+  "snapshot_id": "MCw1ZmRlYTZiYmI3YTA2NDJjYjNjMTMwYTM0MzBkODFmMjJkYThhZTVm",
   "tracks": [
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
+        "name": "\u00c9l No Lo Mat\u00f3",
+        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 278934,
+      "name": "\u00c9l No Lo Mat\u00f3",
+      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -1167,26 +1187,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "\u00c9l No Lo Mat\u00f3",
-        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 278934,
-      "name": "\u00c9l No Lo Mat\u00f3",
-      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Bestia",
         "url": "https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Lo Mejor de Tex Tex",
-        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 254275,
-      "name": "Un Toque M\u00e1gico",
-      "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 181866,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "Lo Mejor de Tex Tex",
+        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 254275,
+      "name": "Un Toque M\u00e1gico",
+      "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
     },
     {
       "added_at": "2023-11-10 18:31:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,671 likes - 46 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,620 likes - 46 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 45 | [I Refuse](https://open.spotify.com/track/2UKsB1MGcDCMhOkcDNTYlB) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/4Gdw4nm4xrfMj7FgZV7NBg) | 3:38 |
 | 46 | [War Is the Answer](https://open.spotify.com/track/40diQlqwPj2HPxxhakP7FI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:18 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBkNGY5OTM5NjUwYmYzOGQ4OWNmOWM5NDUyNGY5ZmY4MA==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA3NmNiOTA2Y2Y5OWFjZGFhMDZmODU0MTJmMTI2MjczZg==`

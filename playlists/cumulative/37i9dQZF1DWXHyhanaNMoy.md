@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Morad & GIMS
 
-840 songs - 1 day 13 hr 51 min
+841 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [On & On \(feat\. Dylisa\)](https://open.spotify.com/track/13o9yFqAWDVL5ZU3tQKmbS) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [FOUR JUNO](https://open.spotify.com/album/0nbHgLf8m1peS94gicQQVJ) | 2:26 | 2023-05-11 | 2023-05-26 |
 | [On You](https://open.spotify.com/track/2PqkhlBreytuG6r6si0QG3) | [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti) | [On You](https://open.spotify.com/album/5bp391B0HgGAQkJPkeMPD5) | 2:36 | 2023-07-13 | 2023-11-03 |
 | [Only Lover](https://open.spotify.com/track/2rFfVt1pS7hmew01Q2uL2b) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Only Lover](https://open.spotify.com/album/2PrWENAZz992vvC92B129d) | 3:03 | 2023-08-10 | 2023-11-10 |
+| [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-11 |  |
 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 | 2022-11-05 |
 | [Ons Twee](https://open.spotify.com/track/3QwJNl3IoF8p752C6yg1u8) | [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Ons Twee](https://open.spotify.com/album/54prjJpCyNLVu37YvdZiaV) | 2:29 | 2022-11-25 | 2023-02-17 |
 | [Ontsporen](https://open.spotify.com/track/77P49agaSeUONP1Wqexu1v) | [Murcy](https://open.spotify.com/artist/4E7gLv6nkFJ4qXyEFM3JdA), [Shqq](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Ontsporen](https://open.spotify.com/album/2KgCeW9gIORPR6vFq46Xrc) | 1:33 | 2023-05-11 | 2023-05-26 |

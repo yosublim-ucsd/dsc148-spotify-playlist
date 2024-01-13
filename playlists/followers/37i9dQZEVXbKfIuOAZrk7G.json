@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 55557,
+  "2024-01-13": 55518,
   "date_first_scraped": "2022-01-01",
   "description": "Your daily update of the most viral tracks right now - Canada.",
   "name": "Viral 50 - Canada",
@@ -451,6 +451,24 @@
       "duration_ms": 210951,
       "name": "2024",
       "url": "https://open.spotify.com/track/1SWRLrHykgDsPtGtezEf2F"
+    },
+    {
+      "album": {
+        "name": "2024 (Freestyle)",
+        "url": "https://open.spotify.com/album/7c9ZMe54iv35c2cEX1dP13"
+      },
+      "artists": [
+        {
+          "name": "Teckill",
+          "url": "https://open.spotify.com/artist/7yi1Mw32dZa5M3wXjWfGEG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211858,
+      "name": "2024 (Freestyle)",
+      "url": "https://open.spotify.com/track/4PIucCm13InnDwukJEVUL3"
     },
     {
       "album": {
@@ -6598,7 +6616,7 @@
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 155472,
+      "duration_ms": 157377,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
     },
@@ -14675,6 +14693,24 @@
     {
       "album": {
         "name": "H00DBYAIR",
+        "url": "https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW"
+      },
+      "artists": [
+        {
+          "name": "nitro!",
+          "url": "https://open.spotify.com/artist/5otCfrzno8ga0qg868oibs"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212742,
+      "name": "H00DBYAIR",
+      "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
+    },
+    {
+      "album": {
+        "name": "H00DBYAIR",
         "url": "https://open.spotify.com/album/1OMnOFAcLBsdk9TcAunnIm"
       },
       "artists": [
@@ -15671,7 +15707,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
@@ -20621,7 +20657,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
@@ -28597,7 +28633,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 250158,
       "name": "Pehle Bhi Main",
       "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
@@ -28725,7 +28761,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
@@ -34069,7 +34105,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
@@ -40035,6 +40071,24 @@
       "duration_ms": 167000,
       "name": "UR THE MOON",
       "url": "https://open.spotify.com/track/4ylzPQ0re4NRE5EWnNUxCw"
+    },
+    {
+      "album": {
+        "name": "Ur The Moon",
+        "url": "https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW"
+      },
+      "artists": [
+        {
+          "name": "Maori Beats",
+          "url": "https://open.spotify.com/artist/6T1ZK4NhuRAE64bCniMrGk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168125,
+      "name": "Ur The Moon",
+      "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,716,316 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,713,740 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 48 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
 | 49 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
 | 50 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
-| 51 | [Little Saint Nick \- 1991 Remix](https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys' Christmas Album](https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3) | 1:58 |
-| 52 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
+| 51 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
+| 52 | [Little Saint Nick \- 1991 Remix](https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys' Christmas Album](https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3) | 1:58 |
 | 53 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 |
 | 54 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 |
 | 55 | [Last Christmas](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 99 | [Christmas Love](https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:26 |
 | 100 | [Mary, Did You Know?](https://open.spotify.com/track/4aCqRYHavLWbUCuoBjh7Xs) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:21 |
 
-Snapshot ID: `MCw2OWRhYTU3OWE0OTBlMGQ5Nzg2MWYyNzhlYjg2YzllNGU5Y2Q0YzQ3`
+Snapshot ID: `MCw1OWYxZDVkNzNiZTdlNGY1OTE3MmViNjRjYjQwYjMzODQwZDk3ZDU2`

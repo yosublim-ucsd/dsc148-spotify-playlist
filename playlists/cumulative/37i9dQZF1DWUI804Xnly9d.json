@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 176400,
       "name": "Dil Bhara",
       "url": "https://open.spotify.com/track/1FufKIAGNgVJXmvxGih7MI"
@@ -1274,6 +1274,28 @@
       "duration_ms": 237634,
       "name": "Duniya Meri",
       "url": "https://open.spotify.com/track/3x2ug7XW1noOUe5s1ZP1UY"
+    },
+    {
+      "album": {
+        "name": "Ek Baar Mein",
+        "url": "https://open.spotify.com/album/4Z8lmWmeGmDPIUlMwq953t"
+      },
+      "artists": [
+        {
+          "name": "Yash Bhojwani",
+          "url": "https://open.spotify.com/artist/2J5QVsZXFVQtQcKLI51A67"
+        },
+        {
+          "name": "Yash-Yuvraj",
+          "url": "https://open.spotify.com/artist/135rITb1tGZFkUCuqTpz0V"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250074,
+      "name": "Ek Baar Mein",
+      "url": "https://open.spotify.com/track/72MRwlO5aD6i3tCJAFh02X"
     },
     {
       "album": {

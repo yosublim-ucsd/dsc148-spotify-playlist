@@ -1,12 +1,12 @@
 {
   "description": "When you know, you know. Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 247572,
+  "num_followers": 247650,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2RlMzQ5NTcyMDEzNjAzMDczZGRlODNiYjdjMTlhY2Y1NzQyMjky",
+  "snapshot_id": "MCw5NDMxZDkyNWYzYjEyMDk3OTAzNzQzZmIyODAxZTdmNWMyMTBmNzlh",
   "tracks": [
     {
       "added_at": "2023-09-18 21:46:05",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
     },
     {
       "added_at": "2023-09-18 21:46:05",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 255133,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
     },
     {
       "added_at": "2023-09-18 21:46:05",

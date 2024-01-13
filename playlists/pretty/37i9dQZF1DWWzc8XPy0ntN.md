@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,079 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,834 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 3 | [Gato Negro \- Daniel Hokum & okuma Remix](https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Gato Negro \(Daniel Hokum & Okuma Remix\)](https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg) | 6:35 |
 | 4 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
 | 5 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
-| 6 | [Bembé](https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Machiran](https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx) | [Bembé](https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV) | 3:17 |
-| 7 | [No Puedo Funcionar](https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT) | [DJs Pareja](https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestra Forma](https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx) | 5:47 |
+| 6 | [No Puedo Funcionar](https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT) | [DJs Pareja](https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestra Forma](https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx) | 5:47 |
+| 7 | [Bembé](https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Machiran](https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx) | [Bembé](https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV) | 3:17 |
 | 8 | [SRA](https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [SRA](https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb) | 3:29 |
 | 9 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
 | 10 | [Sin control](https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX) | 3:46 |
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 14 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 15 | [Internet Dump](https://open.spotify.com/track/5xXab44aWtEqltnKl3mTlD) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa), [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Internet Dump](https://open.spotify.com/album/4Gml4rYNKgY0bpXKLG6GSW) | 2:06 |
 | 16 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 |
-| 17 | [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 |
-| 18 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 |
+| 17 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 |
+| 18 | [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 |
 | 19 | [Feel Like Honey \- Radio Edit](https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ) | [Future Feelings](https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH) | [Feel Like Honey](https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI) | 3:56 |
-| 20 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
-| 21 | [Jungla](https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 3:58 |
+| 20 | [Jungla](https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 3:58 |
+| 21 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 22 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 |
 | 23 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [SUBXET](https://open.spotify.com/artist/2qhMUAZvXDDWWpukApVXwX) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
 | 24 | [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 49 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
 | 50 | [Collateral](https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH) | 4:31 |
 
-Snapshot ID: `MCwwOTJmMDY0MjQ0ZmRjOTc2YzRjMGVlMGI2MGJkMjkxZGU1ZDQzY2Nh`
+Snapshot ID: `MCxkYzg3ZWE1N2Y5YzU5MjhkNzVhMTM4MGJmZTE3MzYxZGYwNjZmZTE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,785 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,781 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 30 | [Racists](https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 3:20 |
 | 31 | [The Economy is Suffering...Let It Die](https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 3:36 |
 | 32 | [You'd Do the Same](https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:21 |
-| 33 | [Turncoat](https://open.spotify.com/track/2NhWy78EzqDTNbWCe8R5Us) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:17 |
-| 34 | [The Great Divide](https://open.spotify.com/track/6CVfaxrzx4U7yH0Ntq4M6l) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 1:28 |
-| 35 | [The Ranks of the Masses Rising](https://open.spotify.com/track/12wXddtGA99uF2pF70znch) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:28 |
-| 36 | [Liar](https://open.spotify.com/track/4F1Do1YLRWwsduK20Dxn3B) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 1:52 |
-| 37 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
+| 33 | [The Great Divide](https://open.spotify.com/track/6CVfaxrzx4U7yH0Ntq4M6l) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 1:28 |
+| 34 | [Turncoat](https://open.spotify.com/track/2NhWy78EzqDTNbWCe8R5Us) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:17 |
+| 35 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
+| 36 | [The Ranks of the Masses Rising](https://open.spotify.com/track/12wXddtGA99uF2pF70znch) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:28 |
+| 37 | [Liar](https://open.spotify.com/track/4F1Do1YLRWwsduK20Dxn3B) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 1:52 |
 | 38 | [You Make Me Sick](https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 3:01 |
 | 39 | [We Are the One](https://open.spotify.com/track/3IfkMS2Yma0lYZq7B9bieU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 3:07 |
-| 40 | [The Neoliberal Anthem](https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:17 |
-| 41 | [A New Kind of Army](https://open.spotify.com/track/0ZpIkt4KFc38LzuiHwFkX2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:41 |
+| 40 | [A New Kind of Army](https://open.spotify.com/track/0ZpIkt4KFc38LzuiHwFkX2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:41 |
+| 41 | [The Neoliberal Anthem](https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:17 |
 | 42 | [20/20 Vision](https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:26 |
 | 43 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 2:50 |
 | 44 | [Hymn For The Dead](https://open.spotify.com/track/01iUSHBgeMR1Zz23XTZzwX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:39 |
 | 45 | [A Dying Plea Vol\. 1](https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Marcia Richards](https://open.spotify.com/artist/1I1Psp3G5rPd9Wz4uBE3Zu), [Jálise Della Gary](https://open.spotify.com/artist/0f5kdcCaSt4HSPvBKuXvYv), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [A Dying Plea Vol\. 1](https://open.spotify.com/album/0ippbK45L6BKnSfpaAFf4V) | 3:26 |
 | 46 | [Finish What We Started](https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:49 |
-| 47 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
-| 48 | [That's Youth](https://open.spotify.com/track/7xQiia7dMyfgUKShoXtei7) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:13 |
+| 47 | [That's Youth](https://open.spotify.com/track/7xQiia7dMyfgUKShoXtei7) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:13 |
+| 48 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
 | 49 | [The Ghosts of Alexandria](https://open.spotify.com/track/73bMXYBkzY0H6Fw0l7WAlR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:57 |
 | 50 | [I Wasn't Asking For It](https://open.spotify.com/track/3HGTVja67SE3B6Eajup7aX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 1:27 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBkOThjMjJmZDhkNTM0NDlkYmZjMDhmMjhkOTM0YzgwYg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA4MGE0YjQ1ZDQ5MTU3ODhhNmE4NmMwYWVmY2FmNDdmMA==`

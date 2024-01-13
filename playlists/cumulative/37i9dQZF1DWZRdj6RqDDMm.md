@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-124 songs - 7 hr 59 min
+125 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Asante](https://open.spotify.com/track/1F2rGbWtuyZKdoCBTxWGLP) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Asante](https://open.spotify.com/album/4aMXNnKrAnvfZjDgKGlwhC) | 4:07 | 2023-10-27 |  |
 | [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 | 2023-10-20 |  |
 | [AYE](https://open.spotify.com/track/5wDtmZ8wKSUN6oozVrSjNA) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [PEREZ MUSIK](https://open.spotify.com/artist/64jhMYAtHXyKNnHxPmCJth) | [GRACE IS LUXURY](https://open.spotify.com/album/5znp5BsEEbvcJkWjXXQLoB) | 2:42 | 2023-11-10 |  |
+| [Be Like](https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [Be Like](https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU) | 2:41 | 2024-01-12 |  |
 | [Believe](https://open.spotify.com/track/39nqlDE3iN3gOp9I5Ng0NB) | [Cyfa](https://open.spotify.com/artist/3fItFJEQGwuAIQhFy92rJ9), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2) | [Believe](https://open.spotify.com/album/7CGzd4QXGgXYrciuPKMxPd) | 2:52 | 2023-10-20 | 2024-01-12 |
 | [Big Stepper Pt\. 2](https://open.spotify.com/track/4HQxYIQangC0upgJ9psYgO) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Big Stepper Pt\. 2](https://open.spotify.com/album/0ci3NNOgeqDg4ikDDaQgOD) | 2:49 | 2023-10-20 | 2023-11-03 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-10-20 |  |

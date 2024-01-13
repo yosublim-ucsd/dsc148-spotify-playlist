@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,058 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,050 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 14 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
 | 15 | [Watermelon Man](https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc) | [Poncho Sanchez](https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL), [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Conga Blue](https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf) | 3:45 |
 | 16 | [Amor Verdadero](https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 7:26 |
-| 17 | [Descarga Caliente](https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [De Panama A Nueva York](https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR) | 5:23 |
-| 18 | [Watermelon Man](https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:15 |
+| 17 | [Watermelon Man](https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:15 |
+| 18 | [Descarga Caliente](https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [De Panama A Nueva York](https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR) | 5:23 |
 | 19 | [Lo Atará la Arache](https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:32 |
 | 20 | [A Deeper Shade Of Soul](https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 2:48 |
 | 21 | [Ay Qué Rico](https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Champagne](https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6) | 3:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 47 | [Dry Cocoanuts](https://open.spotify.com/track/2aPhirjN6mWZlI2QPdfcLS) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Mambo & Cha Cha Cha](https://open.spotify.com/album/2zeMCbliNWzlwz2CxgBjhl) | 2:32 |
 | 48 | [Boogaloo Blues](https://open.spotify.com/track/62o0gzaSrLZvdTwlvWkDq5) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Records 60's Gold](https://open.spotify.com/album/23tZQ7L4t76gYwRKx2h9ye) | 5:31 |
 | 49 | [Para Ti Mi Boogaloo](https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [¡La Excitante Celia Cruz!](https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw) | 2:32 |
-| 50 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
+| 50 | [Llegaron Los Bonches](https://open.spotify.com/track/6ESDtZGTfYuauub8WpFowC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Volando Bajito](https://open.spotify.com/album/21mczyHRqExR3ZfnG7AjlD) | 3:22 |
 
-Snapshot ID: `MCxjNTFiYzkzN2JmMGI3ZTlkN2NiOTE1MGMyMGU0ODEwNWYwNDhjNTc1`
+Snapshot ID: `MCxjYWU4NGJmNmY3ZThiMmQ3NWI0ZGFjZmU0NzI0NWE2MjIzMDk2YzA3`

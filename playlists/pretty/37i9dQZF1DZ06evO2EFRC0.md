@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,865 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,758 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 23 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u) | 5:05 |
 | 24 | [Acuérdate Oh Señor](https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 4:10 |
 | 25 | [Eres Rey](https://open.spotify.com/track/5fEOyBNgi2VQvlISgerFEf) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Eres Rey](https://open.spotify.com/album/5IElr9Pfprf2TElNtY5DNr) | 5:49 |
-| 26 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
-| 27 | [Al que es Digno](https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Venció](https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw) | 4:08 |
+| 26 | [Al que es Digno](https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Venció](https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw) | 4:08 |
+| 27 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
 | 28 | [Heme Aquí](https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 4:00 |
 | 29 | [Si puedes creer](https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 6:11 |
 | 30 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 46 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 |
 | 47 | [Renuévame](https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Lo Mejor de Instrumentales](https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q) | 3:42 |
 | 48 | [Perdonados](https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 2:58 |
-| 49 | [Nunca Me Fallas \(feat\. Marcos Witt\)](https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ser Humano](https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt) | 4:30 |
-| 50 | [Lléname Señor](https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:47 |
+| 49 | [Lléname Señor](https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:47 |
+| 50 | [Nunca Me Fallas \(feat\. Marcos Witt\)](https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ser Humano](https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt) | 4:30 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAxOTBmMmU5MWViODUzMjI0ZmY3OGVlOTRkM2QyNjgwYw==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBjYzIzZDliNTM1OTNlYmFlNTcwMWVlNzU5MjE1ZmJiMg==`

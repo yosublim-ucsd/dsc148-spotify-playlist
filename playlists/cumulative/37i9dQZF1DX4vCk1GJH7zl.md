@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo
 
-112 songs - 6 hr 50 min
+113 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Across The Universe](https://open.spotify.com/track/1oM1aPwxsXeDlstW1r6SOM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/2WNelmpjFLNWWRhrgefbsi) | 3:42 | 2023-07-21 | 2023-11-03 |
 | [Across The Universe](https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F) | 3:42 | 2023-10-20 |  |
 | [Adormecendo](https://open.spotify.com/track/44bcg7n1OAR75lSsN8beqZ) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Adormecendo](https://open.spotify.com/album/43jkcPvacrtGm26JjE6QCb) | 4:09 | 2023-09-08 | 2023-09-30 |
+| [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 | 2024-01-12 |  |
 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 | 2023-07-21 |  |
 | [Antes do Nada](https://open.spotify.com/track/1VSBy96DsRTiv7c44dJtdH) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [Antes do Nada](https://open.spotify.com/album/4DqZL9kZ0FyueNdj0KhYNa) | 3:45 | 2023-07-21 |  |
 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 | 2023-07-21 |  |
@@ -77,7 +78,7 @@
 | [Pequenas Coisas](https://open.spotify.com/track/2sfKGR8005yI04id52i70p) | [Daniel Lima](https://open.spotify.com/artist/3y08WX6dvJRofhXVXnQ3Lo), [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO) | [Pequenas Coisas](https://open.spotify.com/album/6ZjnmO1ErxLMwSQcteDnV2) | 4:41 | 2023-09-29 |  |
 | [Poema](https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Frejat Trio Ao Vivo no Teatro Alcione Araújo](https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS) | 2:50 | 2023-12-01 |  |
 | [Por Enquanto \- Ao Vivo](https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 4:14 | 2023-08-25 |  |
-| [Por Que Você Me Trata Assim?](https://open.spotify.com/track/29oGHO3PXrpHEjosASg9yr) | [Thelfos](https://open.spotify.com/artist/6wm3X6FY2usjwXhCdUCWk7) | [Inferno Particular](https://open.spotify.com/album/6ZktaztaNfDKU6VIRYbtne) | 3:25 | 2023-07-21 |  |
+| [Por Que Você Me Trata Assim?](https://open.spotify.com/track/29oGHO3PXrpHEjosASg9yr) | [Thelfos](https://open.spotify.com/artist/6wm3X6FY2usjwXhCdUCWk7) | [Inferno Particular](https://open.spotify.com/album/6ZktaztaNfDKU6VIRYbtne) | 3:25 | 2023-07-21 | 2024-01-13 |
 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/1RxAzmAuN6KldKrMeVKkf2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 3:42 | 2023-07-21 |  |
 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 | 2023-07-21 |  |
 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 | 2023-07-21 |  |

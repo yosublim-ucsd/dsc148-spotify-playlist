@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Tomas Ballardo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,485 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,581 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 63 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
 | 64 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
 | 65 | [Que Tiene de Malo](https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:51 |
-| 66 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 |
-| 67 | [VRGCRA](https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VRGCRA](https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx) | 3:58 |
+| 66 | [VRGCRA](https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VRGCRA](https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx) | 3:58 |
+| 67 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 |
 | 68 | [En Las Momias](https://open.spotify.com/track/4uCMIjpU1MHiY3rqRm721s) | [Nelson Fernández](https://open.spotify.com/artist/0YWSpMQXpphjWLYt2TOdrs), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Las Momias](https://open.spotify.com/album/5KcydETHDWB2FZYO3LCjLk) | 2:10 |
 | 69 | [Mecha Corta](https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mecha Corta](https://open.spotify.com/album/6LTuoNqFv4mpSTUjGsbfiI) | 3:25 |
 | 70 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [Le Gusta](https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Le Gusta](https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf) | 2:35 |
 | 75 | [Rubicon](https://open.spotify.com/track/5W3D37twMsileaHHoWBrWF) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Rubicon](https://open.spotify.com/album/6zJbfrnTwqZ2LtcnOWlfOw) | 2:27 |
 
-Snapshot ID: `MCwxODI1Mjc2NDA3MzZkZTQyMDcyZDZkZjY3ZDc1OTk5ODY2OGI0M2I3`
+Snapshot ID: `MCxkNTM2OGNlYjIwMTJhZmI2NmEwNTc2YzBhZTJhZDNjYzQ5Zjc1OTA0`

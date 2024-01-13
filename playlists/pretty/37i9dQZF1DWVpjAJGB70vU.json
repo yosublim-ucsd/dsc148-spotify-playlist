@@ -1,12 +1,12 @@
 {
   "description": "Country that made Country Cool! Cover: Martina McBride",
-  "num_followers": 1739240,
+  "num_followers": 1738762,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGUwODcyMDNmMzVjZGNmODRiYWFiOTFhNzBhYmY5NzY2YTMwNDAx",
+  "snapshot_id": "MCwzOGJjZGM5OGE4YzVhYzdjZWExNmQyYzMxZDg0ZjQ5ZmI5MmU2ODg1",
   "tracks": [
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "You've Got to Stand for Something",
-        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Tippin",
-          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "You've Got to Stand for Something",
-      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 228173,
       "name": "Paint Me A Birmingham",
       "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "You've Got to Stand for Something",
+        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Tippin",
+          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "You've Got to Stand for Something",
+      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
       "artists": [
         {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Clay Walker",
         "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 166626,
       "name": "What's It to You",
       "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "American Pride",
-        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 168640,
-      "name": "I'm in a Hurry (And Don't Know Why)",
-      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
+      "duration_ms": 206840,
+      "name": "Wish I Didn't Know Now",
+      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "American Pride",
+        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 206840,
-      "name": "Wish I Didn't Know Now",
-      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
+      "duration_ms": 168640,
+      "name": "I'm in a Hurry (And Don't Know Why)",
+      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Is There Life Out There",
-      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Be Good At It",
         "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 213333,
       "name": "The Shake",
       "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Is There Life Out There",
+      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "Ain't That Lonely Yet",
-      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 218053,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Ain't That Lonely Yet",
+      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Life's So Funny",
-        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Bigger Than the Beatles",
-      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "I Think About You",
         "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 206506,
       "name": "I Think About You",
       "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "Life's So Funny",
+        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Bigger Than the Beatles",
+      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
     },
     {
       "added_at": "2023-12-11 20:32:32",

@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-471 songs - 1 day 2 hr 46 min
+472 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Honestidad](https://open.spotify.com/track/6vyWbvI4Seik3n1qLiKJwx) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Honestidad](https://open.spotify.com/album/2K5bCWRptDdSnzU6MpKu78) | 3:45 | 2022-01-28 | 2022-07-28 |
 | [Imán](https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 2:18 | 2022-01-28 | 2023-11-04 |
 | [Imán](https://open.spotify.com/track/1Gdz3YgKThghb3hcIOHQI7) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH) | 2:18 | 2023-10-26 |  |
+| [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 | 2024-01-12 |  |
 | [Indiferente](https://open.spotify.com/track/5zjFSJz3hvvlpFocM24fNT) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Indiferente](https://open.spotify.com/album/5mQG96KF5BIiH0QuTTvGus) | 2:56 | 2022-01-07 | 2022-07-29 |
 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 | 2022-04-01 | 2022-04-20 |
 | [INFINITO](https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:05 | 2023-10-26 |  |
@@ -316,7 +317,7 @@
 | [Oleaje](https://open.spotify.com/track/10g8v7bbjoJbNahafh62ov) | [Juan Irio](https://open.spotify.com/artist/4CCMaEemKn2lshMOMyEhgl), [Baro](https://open.spotify.com/artist/0K4EoOGCA4sx0KB7IBbayc) | [Fábula](https://open.spotify.com/album/4aNjhHZ2FLKV56Q4k5vEym) | 2:56 | 2022-04-01 | 2022-04-21 |
 | [Otoño](https://open.spotify.com/track/47T4utasYbYRw06ksBh8BZ) | [Radiestesia](https://open.spotify.com/artist/71Npwecs3NYmloqM9JXjpZ) | [Otoño](https://open.spotify.com/album/1DNF8xNkc1VYG3gOQ5W9vB) | 3:48 | 2022-01-28 | 2022-07-19 |
 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 | 2022-01-07 | 2023-03-03 |
-| [Para Mí](https://open.spotify.com/track/0BnNmxZQLByTlVlppl9g1b) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [Pablo Dazán](https://open.spotify.com/artist/5JnWZtst5VQxEy3MtP2mnF) | [Para Mí](https://open.spotify.com/album/03mEDwZlpO3dMicJBJ6EqN) | 3:18 | 2023-10-05 |  |
+| [Para Mí](https://open.spotify.com/track/0BnNmxZQLByTlVlppl9g1b) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [Pablo Dazán](https://open.spotify.com/artist/5JnWZtst5VQxEy3MtP2mnF) | [Para Mí](https://open.spotify.com/album/03mEDwZlpO3dMicJBJ6EqN) | 3:18 | 2023-10-05 | 2024-01-13 |
 | [Para Mí](https://open.spotify.com/track/6GtnxNS9Y4L5R14l9LMMzZ) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [Pablo Dazán](https://open.spotify.com/artist/5JnWZtst5VQxEy3MtP2mnF) | [Para Mí](https://open.spotify.com/album/4whaDppy4KYRXa1Voy3Ydi) | 3:18 | 2022-01-07 | 2022-07-29 |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2022-01-28 | 2022-07-27 |
 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-01-20 |  |

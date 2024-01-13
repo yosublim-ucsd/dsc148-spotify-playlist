@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,249 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,414 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 84 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:26 |
 | 85 | [The Song Is You](https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:12 |
 | 86 | [I've Got You Under My Skin](https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sings The Music Of Cole Porter](https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak) | 3:52 |
-| 87 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
-| 88 | [You Leave Me Breathless](https://open.spotify.com/track/61G1SRmkZ99bVo9LbwQ4Tk) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé: It's a Blue World](https://open.spotify.com/album/5IOuMdNEEdJjJY7n7yad4H) | 3:23 |
+| 87 | [You Leave Me Breathless](https://open.spotify.com/track/61G1SRmkZ99bVo9LbwQ4Tk) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé: It's a Blue World](https://open.spotify.com/album/5IOuMdNEEdJjJY7n7yad4H) | 3:23 |
+| 88 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
 | 89 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:24 |
 | 90 | [I Can't Give You Anything But Love](https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:14 |
 | 91 | [My Foolish Heart](https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 3:09 |
 | 92 | [Tenderly](https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [I Feel a Song Coming On: Lost Radio Recordings](https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1) | 2:47 |
 | 93 | [With A Song In My Heart \- 78 rpm Version](https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [A Day At The Movies](https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi) | 3:07 |
-| 94 | [Please Be Kind](https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Man I Love](https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj) | 4:13 |
-| 95 | [Baby, What Else Can I Do?](https://open.spotify.com/track/4ThZ5kjaWK29G7EcRJbVAr) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Presenting Ethel Waters](https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z) | 2:57 |
+| 94 | [Baby, What Else Can I Do?](https://open.spotify.com/track/4ThZ5kjaWK29G7EcRJbVAr) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Presenting Ethel Waters](https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z) | 2:57 |
+| 95 | [Please Be Kind](https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Man I Love](https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj) | 4:13 |
 | 96 | [Easy Living](https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 5:37 |
 | 97 | [Dedicated to You \- Remastered 2003](https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Sarah \- Dedicated to You](https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ) | 6:02 |
 | 98 | [Come Rain or Come Shine](https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad) | [On the Sunny Side of the Street](https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq) | 2:22 |
 | 99 | [Have You Met Miss Jones](https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [You Are Free](https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7) | 2:05 |
 | 100 | [Then I'll Be Tired Of You](https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:19 |
 
-Snapshot ID: `MCw2MTY5NzU1OWVkNzhmNWFmNTY1ODQyNTI5NDA0NGM0NDFkYzZlOTZh`
+Snapshot ID: `MCw5NWI2YjNlZjc0MjFjODBkNjY2NDJjMTQzNzAzN2Y4MGZhNGMzMzJk`

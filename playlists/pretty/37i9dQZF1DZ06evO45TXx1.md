@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,156 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,181 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 42 | [Kit Rosa](https://open.spotify.com/track/3IHVQZgAcmWJq7PqKBvBqV) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Kit Rosa](https://open.spotify.com/album/5XLsxpXP4MhGzBDEOydcnn) | 3:17 |
 | 43 | [De Copão Na Mão](https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:13 |
 | 44 | [Palpite](https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1) | [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Palpite](https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj) | 1:52 |
-| 45 | [Abismo](https://open.spotify.com/track/7ptPCmSQieWgksqU1DSVKg) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Abismo](https://open.spotify.com/album/1KuI1btBtMULYp09Pg0GLA) | 2:54 |
-| 46 | [Pantera](https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Pantera](https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX) | 4:06 |
+| 45 | [Pantera](https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Pantera](https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX) | 4:06 |
+| 46 | [Abismo](https://open.spotify.com/track/7ptPCmSQieWgksqU1DSVKg) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Abismo](https://open.spotify.com/album/1KuI1btBtMULYp09Pg0GLA) | 2:54 |
 | 47 | [Valioso](https://open.spotify.com/track/6zUFTF5qhcLYZp6TUjGnX1) | [Sena Mc](https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Delli Beatz](https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn) | [Valioso](https://open.spotify.com/album/6R25D8RauPYTEEBHeT3m5J) | 2:55 |
 | 48 | [AGILIDADE](https://open.spotify.com/track/7aTSVvdzV8GRiWNX7lgkrC) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [AGILIDADE](https://open.spotify.com/album/0WViaVdGPXcK3RwXPuMA4c) | 2:27 |
 | 49 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
 | 50 | [Meia Milha](https://open.spotify.com/track/7LSQcoAyMmkLvBWBSnMtIy) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [O Resgate do Maestro](https://open.spotify.com/album/63vTiNOR203fXij5mcZOo1) | 3:10 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBhODYxZDM2NDk3YjhiN2QxODg1MWEzZWVmOGJmYmVhYQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBkNTEyYmRmNmVlMDFhMGNhNDVhMDEzNDBiMDY0NmY0YQ==`

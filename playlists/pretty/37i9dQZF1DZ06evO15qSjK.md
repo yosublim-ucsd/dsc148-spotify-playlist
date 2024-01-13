@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,339 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,314 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 10 | [Uptown Funk](https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 3:44 |
 | 11 | [Levitating](https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:04 |
 | 12 | [About That Time](https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:12 |
-| 13 | [abc](https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:47 |
-| 14 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 |
+| 13 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 |
+| 14 | [abc](https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:47 |
 | 15 | [Mood](https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 1:59 |
 | 16 | [I Ain't Worried](https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:22 |
-| 17 | [As It Was](https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:42 |
-| 18 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 |
+| 17 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 |
+| 18 | [As It Was](https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:42 |
 | 19 | [Bang!](https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:52 |
 | 20 | [Late Night Talking](https://open.spotify.com/track/60xkljg5VuJ2Syt0tq211j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:57 |
 | 21 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 |
@@ -33,30 +33,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 23 | [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 |
 | 24 | [Running Up That Hill](https://open.spotify.com/track/0hjkyfTOQQFxyRwaG3iyaU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:36 |
 | 25 | [Made You Look](https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:15 |
-| 26 | [STAY](https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:19 |
-| 27 | [Señorita](https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 2:49 |
-| 28 | [The Middle](https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 38](https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF) | 2:49 |
+| 26 | [Señorita](https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 2:49 |
+| 27 | [STAY](https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:19 |
+| 28 | [High Hopes](https://open.spotify.com/track/1BLQ9Ms6x4EkXrIhmI7IT2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:12 |
 | 29 | [Eyes Closed](https://open.spotify.com/track/5HRiQ866cU6pxo8YoTltLk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:05 |
-| 30 | [High Hopes](https://open.spotify.com/track/1BLQ9Ms6x4EkXrIhmI7IT2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:12 |
+| 30 | [The Middle](https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 38](https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF) | 2:49 |
 | 31 | [Intentions](https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:42 |
 | 32 | [Fancy Like](https://open.spotify.com/track/0zvvCso2UalzEEc8MLJPFx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:21 |
-| 33 | [We're Taking Over](https://open.spotify.com/track/4Vi2saJD0xwxIV0tGmOv18) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [We're Taking Over](https://open.spotify.com/album/7MHFKc5lYIAOBitmMFNYaN) | 2:53 |
-| 34 | [Dance The Night](https://open.spotify.com/track/0uP9i8YhU9T1ngD21zcca7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Dance The Night](https://open.spotify.com/album/1ABqWB0UfHZ6EHntUk6q8F) | 2:56 |
+| 33 | [Dance The Night](https://open.spotify.com/track/0uP9i8YhU9T1ngD21zcca7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Dance The Night](https://open.spotify.com/album/1ABqWB0UfHZ6EHntUk6q8F) | 2:56 |
+| 34 | [We're Taking Over](https://open.spotify.com/track/4Vi2saJD0xwxIV0tGmOv18) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [We're Taking Over](https://open.spotify.com/album/7MHFKc5lYIAOBitmMFNYaN) | 2:53 |
 | 35 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 |
 | 36 | [HandClap](https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:05 |
 | 37 | [FRIENDS](https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 2:55 |
-| 38 | [Tattoo](https://open.spotify.com/track/7nUpoThXeOQLW04XVwi05N) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Tattoo](https://open.spotify.com/album/1OGkolLxFXi938hpo9zyBk) | 2:56 |
-| 39 | [Cupid](https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cupid](https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv) | 2:44 |
+| 38 | [Cupid](https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cupid](https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv) | 2:44 |
+| 39 | [Tattoo](https://open.spotify.com/track/7nUpoThXeOQLW04XVwi05N) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Tattoo](https://open.spotify.com/album/1OGkolLxFXi938hpo9zyBk) | 2:56 |
 | 40 | [Enemy](https://open.spotify.com/track/0fEB4S6ZyFlRKNvFWRKO03) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:28 |
 | 41 | [Padam Padam](https://open.spotify.com/track/1WrdfQiXXpuyqNW1QxI1QZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Padam Padam](https://open.spotify.com/album/7BPmDd7VPUQKk0dpSboPQ9) | 2:46 |
 | 42 | [Don't Start Now](https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Start Now](https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq) | 3:04 |
-| 43 | [Miracle](https://open.spotify.com/track/4Dz7EP3E3x6MNp6Vpa5qsb) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Miracle](https://open.spotify.com/album/1TBuzTYSJFTl5HXKDnHcZU) | 2:51 |
-| 44 | [Cruel Summer](https://open.spotify.com/track/3OzTpTqr9pu1DCrH0vcmoF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cruel Summer](https://open.spotify.com/album/1f7vGoiV8q3dL7m5bvHOep) | 2:58 |
-| 45 | [Lavender Haze](https://open.spotify.com/track/1fXodpaymaMZ3vZKYvzUBn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Lavender Haze](https://open.spotify.com/album/0TGFhWP72ROBZvFbzTIXuq) | 3:13 |
-| 46 | [Rain On Me](https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Rain On Me](https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV) | 3:04 |
-| 47 | [Avenir](https://open.spotify.com/track/68fAJJmNwY2wKnCkIgxaa0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Avenir](https://open.spotify.com/album/0TlmXtDrdGgkynRQeRtwHO) | 3:03 |
-| 48 | [Vampire](https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Vampire](https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG) | 3:40 |
+| 43 | [Cruel Summer](https://open.spotify.com/track/3OzTpTqr9pu1DCrH0vcmoF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cruel Summer](https://open.spotify.com/album/1f7vGoiV8q3dL7m5bvHOep) | 2:58 |
+| 44 | [Miracle](https://open.spotify.com/track/4Dz7EP3E3x6MNp6Vpa5qsb) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Miracle](https://open.spotify.com/album/1TBuzTYSJFTl5HXKDnHcZU) | 2:51 |
+| 45 | [Rain On Me](https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Rain On Me](https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV) | 3:04 |
+| 46 | [Lavender Haze](https://open.spotify.com/track/1fXodpaymaMZ3vZKYvzUBn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Lavender Haze](https://open.spotify.com/album/0TGFhWP72ROBZvFbzTIXuq) | 3:13 |
+| 47 | [Vampire](https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Vampire](https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG) | 3:40 |
+| 48 | [Avenir](https://open.spotify.com/track/68fAJJmNwY2wKnCkIgxaa0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Avenir](https://open.spotify.com/album/0TlmXtDrdGgkynRQeRtwHO) | 3:03 |
 | 49 | [Karma](https://open.spotify.com/track/3xshS12p6z39Vfvh02vayH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Karma](https://open.spotify.com/album/3u6vZlQssUmnNBuiEXESoR) | 3:20 |
 | 50 | [Ghostbusters](https://open.spotify.com/track/1VNB8G2Rq3RcQgo74OCHzp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:20 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAyMDg4NWNhYjRjMGI1NDc0Yjk1MGRhYzU5YTdiNTU4NQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAzMDJjNzljNmE4ODFiOGNlNmZkMDJjNWZmYWUyNGE2Mw==`

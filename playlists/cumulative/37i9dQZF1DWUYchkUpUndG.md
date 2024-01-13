@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=algxq46hSAygY7\_pgXJS1w>kingdmusic</a>
 
-1,654 songs - 5 day 4 hr 20 min
+1,657 songs - 5 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Bank On It](https://open.spotify.com/track/6V83M9nvGJG1pxaEGdwm3U) | [JULY](https://open.spotify.com/artist/5QESWlCygfhdKVTTcEd2rX) | [Bank On It](https://open.spotify.com/album/4QVfeg1i2WZiRAvuJZjXSk) | 2:33 | 2023-06-09 | 2023-06-30 |
 | [Battlefield \(Worktape Session\)](https://open.spotify.com/track/2dzfEyNZ1dX7EEdxerFY8Y) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Battlefield \(Worktape Session\)](https://open.spotify.com/album/2n10tviArq5SQhZ84NoCw5) | 3:50 | 2023-07-21 | 2023-08-04 |
 | [Bayohlala Bejabula \- Live](https://open.spotify.com/track/7egEv6e5U0343tYtJWYJdW) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Devotional Praise \(Live\)](https://open.spotify.com/album/7ENrDmcs4C7hNhA9XNBszM) | 4:31 | 2023-08-25 | 2023-09-08 |
+| [Be Like](https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [Be Like](https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU) | 2:41 | 2024-01-12 |  |
 | [Be Like You](https://open.spotify.com/track/6j34UAETC4b03LHmDAjoMq) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Be Like You](https://open.spotify.com/album/2qn22xpLK7MxGRIp0f2E0P) | 3:38 | 2023-09-01 | 2023-09-15 |
 | [Be Like You](https://open.spotify.com/track/2XZvAtqRVDCHEJLQKsOUS8) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Kaestrings](https://open.spotify.com/artist/37mTlIE0aRZXs97rBa4DVX) | [Be Like You](https://open.spotify.com/album/0WoKt2I2Vp0EqTnlZNB4MA) | 4:14 | 2023-08-11 | 2023-08-25 |
 | [Be Magnified](https://open.spotify.com/track/0yYGoCCBSgxrPoXgo3HzYk) | [Victoria Tunde](https://open.spotify.com/artist/55ZRUXQccOx4UT3GFIFU1E) | [Be Magnified](https://open.spotify.com/album/5rkIOowRsTIgVZoJa0wonV) | 4:52 | 2023-09-22 | 2023-10-06 |
@@ -191,6 +192,7 @@
 | [Bow](https://open.spotify.com/track/4sdWQlsZkdnYIS70K2gQz6) | [Psalming trybe](https://open.spotify.com/artist/0b2t0BCi78Pe7zd7UIIXuD) | [Bow](https://open.spotify.com/album/3lBS5OztAmfFxLqM0LlRuW) | 7:51 | 2023-07-21 | 2023-08-04 |
 | [Break Every Chain](https://open.spotify.com/track/6mtoET5AbPB7mkQBxO52A3) | [D'General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l) | [Break Every Chain](https://open.spotify.com/album/5L7OlOH6VFScQw1vuQKTdk) | 6:03 | 2023-10-20 | 2023-11-03 |
 | [Break Forth \(Live\)](https://open.spotify.com/track/61agjjU8OxXj6kzsCA5F5S) | [Havivah](https://open.spotify.com/artist/2b5T53uADPIMH0TA9VghgA) | [D' Royal](https://open.spotify.com/album/1n4B4Tiwc7Whs3thN3CmpY) | 5:18 | 2023-11-17 | 2023-12-01 |
+| [Break Off](https://open.spotify.com/track/7euPJmXaFV2hrTUeyLggAc) | [Megan Tossi](https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc) | [Break Off](https://open.spotify.com/album/3OiOgWMib0R9GP6PBTqnlY) | 2:19 | 2024-01-12 |  |
 | [Breathe](https://open.spotify.com/track/12IneWoFNlELk3PmEWcSkx) | [Estar Mykel](https://open.spotify.com/artist/3fJxeVmvLgZEiRPU9lHzoJ), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Breathe](https://open.spotify.com/album/3fBJ44Z0NWhb7hLSOhk0Wy) | 3:11 | 2023-07-28 | 2023-08-11 |
 | [Breathe Upon \(Instrumental\)](https://open.spotify.com/track/3R38StVU7fnsK1NeFUTGH3) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Breathe Upon \(Instrumental\)](https://open.spotify.com/album/2ltpl7LdLW5lSQuPbdMHL6) | 5:54 | 2024-01-05 |  |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-09-01 | 2023-09-15 |
@@ -1145,6 +1147,7 @@
 | [Only You](https://open.spotify.com/track/2PT3ESq3qvlwT2r7JPIG3b) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Only You](https://open.spotify.com/album/3bChpC9nlS2fsxYJ6mmjh7) | 2:26 | 2023-12-01 | 2023-12-15 |
 | [Only You](https://open.spotify.com/track/7njnuiMUJV0KOGN8ibLDP5) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [Praise God](https://open.spotify.com/album/1DZYJpSHQ1fcu6DnkUJipo) | 3:25 | 2023-12-08 | 2023-12-22 |
 | [Only You](https://open.spotify.com/track/5GUUtAGAPjKn2QtANfnFYq) | [Victor and the Kingstarworld](https://open.spotify.com/artist/4zsAeve23gd8J2AgPbMasp), [Billion Barry](https://open.spotify.com/artist/57r7YZ7GaTLNz5njAT95ey) | [Only You](https://open.spotify.com/album/5lZnmQizptmk1kD8lfDRYf) | 4:14 | 2023-12-01 | 2023-12-15 |
+| [Only You Lord](https://open.spotify.com/track/0ypbG4wJdjm7HHwtymp0rs) | [Kelly Emuegba](https://open.spotify.com/artist/68KarBTCFcWJfNY3G91p6v) | [Everything Big Starts Little](https://open.spotify.com/album/7LgNB433X5PQOMDdeAWcTD) | 4:55 | 2024-01-12 |  |
 | [Onye \(Here by Your Grace\)](https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Onye \(Here by Your Grace\)](https://open.spotify.com/album/0qx0uFWGKK1OK9qlwGCRYq) | 8:16 | 2023-09-15 | 2023-09-22 |
 | [Onye Ga Ano](https://open.spotify.com/track/0R0yLvkkXzI1mJcfvyjHZA) | [Airdew](https://open.spotify.com/artist/0L77A5YFDpTtF1hmjfB8HK) | [Dew Praise](https://open.spotify.com/album/3bWVnrnU4vusEfLUUEQy2f) | 4:48 | 2023-08-11 | 2023-08-25 |
 | [Ope Ye Jesu](https://open.spotify.com/track/2fptgsFqUc5XQ0LDEtWN0t) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Oluwa Ni: The Spontaneous Worship](https://open.spotify.com/album/2tUJuV7qWcURWHBjhEKegt) | 6:28 | 2024-01-12 |  |

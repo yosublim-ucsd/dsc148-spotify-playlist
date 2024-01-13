@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,167 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,190 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 49 | [Note To Self \(Okay\) \[feat\. Chronixx\]](https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Note To Self](https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV) | 4:04 |
 | 50 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
 
-Snapshot ID: `MCw4MmEwYWU4YjEyZTAxNGM4YTBlNDY3NDFhOGI4NTM5N2U4ZmVkMTgy`
+Snapshot ID: `MCw5Y2UxNGYxNTE3NzFlOWUzYWMxZTZkODYyZGU1MzQwZGM0YjM5NmQ4`

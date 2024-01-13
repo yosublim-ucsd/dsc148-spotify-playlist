@@ -2,7 +2,7 @@
 
 ### [pensando meus pensamentos](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 
-> o q se passa na cabeça dela?????? \#MeuSpotify com Giselle Pinscher \(e Luísa Sonza\)
+> o q se passa na cabeça dela....\#MeuSpotify com Giselle Pinscher \(e Luísa Sonza\)
 
 98 songs - 5 hr 19 min
 

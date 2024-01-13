@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Paul Partohap \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,270 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,348 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 59 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 |
 | 60 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 61 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 |
-| 62 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
+| 62 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 |
 | 63 | [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 |
 | 64 | [Kami Khawatir, Kawan](https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Kami Khawatir, Kawan](https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P) | 4:25 |
-| 65 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 |
+| 65 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
 | 66 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
 | 67 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
 | 68 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 |
 | 69 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 70 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
-| 71 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 |
-| 72 | [Selamanya](https://open.spotify.com/track/5WBiGcjbYZvx3yMGpFGOPg) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Selamanya](https://open.spotify.com/album/5JhRHRNwH2E9wRLPWuL2AF) | 3:57 |
+| 71 | [Selamanya](https://open.spotify.com/track/5WBiGcjbYZvx3yMGpFGOPg) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Selamanya](https://open.spotify.com/album/5JhRHRNwH2E9wRLPWuL2AF) | 3:57 |
+| 72 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 |
 | 73 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 |
 | 74 | [22 of Me](https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [22 of Me](https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU) | 3:30 |
 | 75 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 79 | [Birdy](https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:33 |
 | 80 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
 | 81 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
-| 82 | [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 |
+| 82 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
 | 83 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
-| 84 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
+| 84 | [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 |
 | 85 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
 | 86 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 |
 | 87 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
 | 88 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 89 | [I Don't Mind](https://open.spotify.com/track/03dMriWOKQpGxC7Irfam5K) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Lemons Made Lemonade](https://open.spotify.com/album/1PDPzPuUMXG8TWsKQRFber) | 3:33 |
 | 90 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
-| 91 | [Birthday](https://open.spotify.com/track/00v0tTZNJYfXZzINHWQcvN) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Birthday](https://open.spotify.com/album/16OJXa3NYyAebywfOjoPbc) | 3:01 |
-| 92 | [venus](https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza) | 4:10 |
-| 93 | [Witches](https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc) | 3:51 |
+| 91 | [venus](https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza) | 4:10 |
+| 92 | [Witches](https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc) | 3:51 |
+| 93 | [Birthday](https://open.spotify.com/track/00v0tTZNJYfXZzINHWQcvN) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Birthday](https://open.spotify.com/album/16OJXa3NYyAebywfOjoPbc) | 3:01 |
 | 94 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 |
 | 95 | [Vast \- ANNA Remix](https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Vast \(ANNA Remix\)](https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD) | 3:26 |
 | 96 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 |
 | 100 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 |
 
-Snapshot ID: `MCxmM2NmZDQzYjY1NWYxZDM4YjhiODM4YWQyODQzNjc0NzRjYThmOTBh`
+Snapshot ID: `MCw5NjA5NmM2MzJkYjI0MTY1MTQ1MDI3OWNmODczOTg4ZTM2YmMyNzY3`

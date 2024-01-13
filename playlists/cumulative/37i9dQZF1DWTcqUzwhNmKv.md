@@ -2,15 +2,16 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Silent Planet on top of the biggest Metal playlist.
+> Brand of Sacrifice on top of the biggest Metal playlist.
 
-577 songs - 1 day 14 hr 41 min
+578 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$wing](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2023-06-23 | 2023-08-26 |
 | [\(i\)](https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [\(i\)](https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn) | 3:03 | 2023-10-13 | 2023-12-09 |
 | [\(i\)](https://open.spotify.com/track/3q67Wftt1U8AOLIHHw1rSB) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Beautiful Dark of Life](https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp) | 3:03 | 2023-12-08 |  |
+| [+ kristallfågel +](https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ kristallfågel +](https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u) | 4:04 | 2024-01-12 |  |
 | [112](https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [112](https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv) | 3:49 | 2022-05-20 | 2022-06-24 |
 | [1984](https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [1984](https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3) | 3:35 | 2022-11-18 | 2023-02-04 |
 | [21 Gun Salute](https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:46 | 2023-10-20 |  |
@@ -503,7 +504,7 @@
 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 | 2022-08-19 | 2022-11-26 |
 | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF) | 3:54 | 2022-12-16 | 2023-03-25 |
 | [The Wretched; The Ruinous](https://open.spotify.com/track/2r7hqnJ4jVQRrT5A5oBF9B) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/5I9RcuaXY3BwAYYNYhVlTL) | 4:20 | 2023-03-03 | 2023-03-25 |
-| [There’s Fear In Letting Go](https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:54 | 2023-02-10 |  |
+| [There’s Fear In Letting Go](https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:54 | 2023-02-10 | 2024-01-13 |
 | [Thinking in Tongues](https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Thinking in Tongues](https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh) | 3:24 | 2022-05-06 | 2022-06-10 |
 | [Through the Depths](https://open.spotify.com/track/0W6BAkEfeRum8R0uAxrWyl) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Through the Depths](https://open.spotify.com/album/4dcv6Y8XeX1PHRIUKedRBe) | 4:45 | 2023-03-24 | 2023-05-15 |
 | [Through the Depths](https://open.spotify.com/track/1F3Gag1HgKHUBSctaSWn4Y) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Dealing with Demons Vol\. II](https://open.spotify.com/album/5O4KC0CFhKXjoUniNXKHMw) | 4:45 | 2023-05-12 | 2023-05-27 |

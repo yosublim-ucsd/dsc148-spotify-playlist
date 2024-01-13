@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 131240,
+  "2024-01-13": 131210,
   "date_first_scraped": "2022-04-09",
   "description": "Well known songs in a soft Bossa landscape.",
   "name": "Summer Cocktails",
@@ -363,6 +363,24 @@
       "duration_ms": 239217,
       "name": "Beautiful Girls - Bossa Nova",
       "url": "https://open.spotify.com/track/3AVxDlk6ZEkqYTFZ4lxGzr"
+    },
+    {
+      "album": {
+        "name": "Best Day of my life",
+        "url": "https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr"
+      },
+      "artists": [
+        {
+          "name": "Altozano",
+          "url": "https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136391,
+      "name": "Best Day of my life",
+      "url": "https://open.spotify.com/track/4wtrK6RBsunXTxiKJqg1y8"
     },
     {
       "album": {

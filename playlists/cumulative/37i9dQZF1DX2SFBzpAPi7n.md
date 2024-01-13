@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KYUHYUN\(규현\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-559 songs - 1 day 10 hr 22 min
+560 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2022-04-12 | 2022-07-29 |
 | [RED ROCKET \(Feat\. MINTAKHA\)](https://open.spotify.com/track/4TC0yFH4ryF1rIZYBBzOOo) | [BLUEICE Key](https://open.spotify.com/artist/6BUjgJA1JpnBk6dmFwmevx), [MINTAKHA](https://open.spotify.com/artist/3WnsvvrzM3jWOgZoZ1YhaU) | [IMAGINATION : unusual](https://open.spotify.com/album/1zt31eNpxHErC5taDZtwaX) | 3:45 | 2023-01-26 | 2023-02-15 |
 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 | 2022-06-23 | 2022-07-29 |
+| [Regret of the Times \- 2024 Remastered Version](https://open.spotify.com/track/5RcGQ7is0iQEhS7XsTOiST) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Regret of the Times \(2024 Remastered Version\)](https://open.spotify.com/album/0DVYKxYfMt8kUGav5K3bqq) | 3:28 | 2024-01-12 |  |
 | [Regulus](https://open.spotify.com/track/299CpDyNkUS3aFAZCr0c9A) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [2/4](https://open.spotify.com/album/55ucpTq6CWc40dJakIPajP) | 3:42 | 2022-04-12 | 2022-07-25 |
 | [Remedy](https://open.spotify.com/track/0iJXk34vAEuHtFdgONxCas) | [Vanillare](https://open.spotify.com/artist/1snfnH0w3DHTY1GXJ630Ys) | [Remedy](https://open.spotify.com/album/4ybo5wS56wFFUexsDM5Xne) | 3:04 | 2022-06-09 | 2022-06-26 |
 | [Replay](https://open.spotify.com/track/5cdy7ga5LX3ekZ1Xfl6BUY) | [RecordVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [Replay](https://open.spotify.com/album/3KfQzfa9ojrhFNoOFsE8B8) | 3:46 | 2022-08-04 | 2022-08-13 |
@@ -513,7 +514,7 @@
 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 | 2022-05-11 | 2022-05-23 |
 | [Where Am I](https://open.spotify.com/track/0ZsgX7WDC1jnwFbHUdwTky) | [Tomiyo](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [Where Am I](https://open.spotify.com/album/6nvrZGRQVezq6C8VDHENfr) | 4:12 | 2022-04-22 | 2022-07-27 |
 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 | 2022-04-12 | 2023-06-07 |
-| [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 | 2023-07-07 |  |
+| [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 | 2023-07-07 | 2024-01-13 |
 | [White the wilds](https://open.spotify.com/track/1bF5PdCcQPPi30hO6lfubH) | [muscoda](https://open.spotify.com/artist/0PFrzocEGd0JUKSkZvyYs8) | [White the wilds](https://open.spotify.com/album/64Bgsvemjrzdwpq7tYiL4G) | 4:28 | 2022-06-18 | 2022-07-13 |
 | [Why You Worry About Me ?](https://open.spotify.com/track/0eFluhjGKP9fuHievmNyHw) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Urb Fisher](https://open.spotify.com/artist/0voTqkcuTrpIN2tZDzYccH) | [Why You Worry About Me ?](https://open.spotify.com/album/2m4lmQ1qIZSspi9kfqjAhH) | 2:32 | 2022-04-12 | 2022-05-08 |
 | [Why, Why, Why, Why?](https://open.spotify.com/track/0tabWZnomzilUiz0jWh6Tw) | [6band](https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5) | [The Killer's Shopping List, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MP9FMNoVcZN3ebEXKkSt5) | 3:01 | 2022-06-09 | 2022-06-14 |

@@ -1,13 +1,29 @@
 {
   "description": "New music from Waxahatchee x MJ Lenderman, Faye Webster x Lil Yachty, Youth Lagoon and more...  Cover: Faye Webster",
-  "num_followers": 2172670,
+  "num_followers": 2164545,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGU1ZTkxYzkzZmFhOTQxNzViM2IwYjcyOTllNDI4NDU4Y2VhYTBk",
+  "snapshot_id": "MCxkZGQ5MTg2YTU4ZDE4MTgyNGZkNzBkMzhmNmM3MmQxYWE5MTk5MmNl",
   "tracks": [
+    {
+      "added_at": "2024-01-02 14:58:43",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
     {
       "added_at": "2024-01-11 19:12:24",
       "album": {
@@ -81,6 +97,38 @@
       "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
+      "added_at": "2024-01-12 03:26:55",
+      "album": {
+        "name": "Hand to Hand",
+        "url": "https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 226836,
+      "name": "Hand to Hand",
+      "url": "https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6"
+    },
+    {
+      "added_at": "2024-01-12 03:26:55",
+      "album": {
+        "name": "My Golden Years",
+        "url": "https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "My Golden Years",
+      "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
+    },
+    {
       "added_at": "2024-01-05 16:45:14",
       "album": {
         "name": "Blood Milk Moon",
@@ -113,6 +161,22 @@
       "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
+      "added_at": "2024-01-12 03:26:55",
+      "album": {
+        "name": "Shoelace & A Knot",
+        "url": "https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "duration_ms": 269999,
+      "name": "Pick At Your Face",
+      "url": "https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT"
+    },
+    {
       "added_at": "2024-01-02 14:51:04",
       "album": {
         "name": "me va a costar",
@@ -127,22 +191,6 @@
       "duration_ms": 228266,
       "name": "me va a costar",
       "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
-    },
-    {
-      "added_at": "2024-01-02 14:58:43",
-      "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2024-01-08 17:36:02",
@@ -193,38 +241,6 @@
       "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
-      "added_at": "2024-01-03 15:46:10",
-      "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
-      "added_at": "2023-12-10 23:08:00",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
-    },
-    {
       "added_at": "2023-12-10 23:08:00",
       "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
@@ -243,6 +259,86 @@
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+    },
+    {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/187ddebM7tIpmkdDOicu81"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 185458,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
+    },
+    {
+      "added_at": "2024-01-12 03:26:55",
+      "album": {
+        "name": "Pins and Needles",
+        "url": "https://open.spotify.com/album/0VSrJPxNnkdu2XytJ04Jmr"
+      },
+      "artists": [
+        {
+          "name": "Kristiane",
+          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
+        }
+      ],
+      "duration_ms": 174411,
+      "name": "Pins and Needles",
+      "url": "https://open.spotify.com/track/28HdRSoNb5kscXfiHA1kyQ"
+    },
+    {
+      "added_at": "2024-01-03 15:46:10",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
+      "added_at": "2024-01-12 03:26:55",
+      "album": {
+        "name": "sweeter than drugs",
+        "url": "https://open.spotify.com/album/4farqEcbjG87qRN7WIg5Iw"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 168048,
+      "name": "sweeter than drugs",
+      "url": "https://open.spotify.com/track/6hPIwV7Cs1zVNaWVJZCWoH"
+    },
+    {
+      "added_at": "2023-12-10 23:08:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2023-12-23 16:52:16",
@@ -277,20 +373,20 @@
       "url": "https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq"
     },
     {
-      "added_at": "2023-12-10 23:08:00",
+      "added_at": "2024-01-12 03:26:55",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/187ddebM7tIpmkdDOicu81"
+        "name": "Lean-To",
+        "url": "https://open.spotify.com/album/55Hbq4dWCOHcqDmhfXyoBH"
       },
       "artists": [
         {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
         }
       ],
-      "duration_ms": 185458,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
+      "duration_ms": 204213,
+      "name": "Lean-To",
+      "url": "https://open.spotify.com/track/59xA1KFmCpd7U5CYnKKcfT"
     },
     {
       "added_at": "2023-12-08 18:09:07",
@@ -359,6 +455,22 @@
       "duration_ms": 199360,
       "name": "Corner Of My Eye",
       "url": "https://open.spotify.com/track/2OkyvqHJxPkBLZIrtSSJQo"
+    },
+    {
+      "added_at": "2024-01-12 03:26:55",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "duration_ms": 149485,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
     },
     {
       "added_at": "2023-12-08 18:09:07",

@@ -4,12 +4,12 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 16 min
+55 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5AM \- Original Mix](https://open.spotify.com/track/2t3smNRA79l62XIgTr0yLf) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [5AM](https://open.spotify.com/album/6HliReehxge1lMTGsmmWah) | 2:51 | 2024-01-03 |  |
-| [Alien](https://open.spotify.com/track/41Y3AarQVkAq87Q4OEL34A) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Alien](https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa) | 4:09 | 2024-01-03 |  |
+| [Alien](https://open.spotify.com/track/41Y3AarQVkAq87Q4OEL34A) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Alien](https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa) | 4:09 | 2024-01-03 | 2024-01-13 |
 | [All I Wanna Do](https://open.spotify.com/track/5g4IY00EiaIaADARQW6uvr) | [DirtyFun](https://open.spotify.com/artist/34COAQQm9sxxuIiNYyIClG), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [All I Wanna Do](https://open.spotify.com/album/6WJjXanunC2Zhd2ZUybHCE) | 3:24 | 2024-01-03 |  |
 | [All Talk](https://open.spotify.com/track/1SMfme1fHq7eWc5mH1Mvj2) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [All Talk](https://open.spotify.com/album/3kHWyrNZeswPGLAoGsSS5A) | 4:16 | 2024-01-03 |  |
 | [B2TF \(feat\. JC Stormz\)](https://open.spotify.com/track/7bp6FEBpMRPS3Iak0hjA8c) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [B2TF \(feat\. JC Stormz\)](https://open.spotify.com/album/4952qWUyIqIZopeUc9MK2p) | 3:50 | 2024-01-03 |  |
@@ -39,6 +39,7 @@
 | [Lit](https://open.spotify.com/track/4MfxEXdBNI4klbWEF6NOlo) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 3:52 | 2024-01-03 |  |
 | [Location](https://open.spotify.com/track/1No4TWmtMayA3DQF2iseEf) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Location](https://open.spotify.com/album/63j38KQV6mxt57T2ovAwOe) | 4:21 | 2024-01-03 | 2024-01-11 |
 | [Lose My Control](https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [This Is Night Bass: Vol\. 9](https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw) | 3:19 | 2024-01-03 |  |
+| [Lost](https://open.spotify.com/track/521c3uJHm5aaqRhWcairlf) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU) | [Blanc Sur Noir, Vol\. 3](https://open.spotify.com/album/4N3Di4QVSACoXsM3P0I2a2) | 3:40 | 2024-01-12 |  |
 | [Minimix](https://open.spotify.com/track/0owkPaicQL4owIMN1MNvSx) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 0:47 | 2024-01-03 |  |
 | [Movement](https://open.spotify.com/track/1T9DXPyT430MYJwFbyykZf) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Movement](https://open.spotify.com/album/6IVeajoC6n1iTPlYk2ACRP) | 2:46 | 2024-01-03 |  |
 | [Naughty](https://open.spotify.com/track/15L0Wv4WrFQ5sfKiPczNJR) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 3:50 | 2024-01-03 |  |

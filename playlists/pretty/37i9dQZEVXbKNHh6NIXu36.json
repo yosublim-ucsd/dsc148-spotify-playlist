@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Austria.",
-  "num_followers": 119108,
+  "num_followers": 118876,
   "original_name": "Top 50 - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU4MzM3NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU4NDI0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0S6ZrnpOsP61aE6pJ7Bl1U"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/32QpSQhOWrFbSYOEVvXV8F"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "WONDERFUL LIFE",
         "url": "https://open.spotify.com/album/3dAGTCVoLXIZrBvgY2tsEB"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/5Tpojb1ynbO0MgfAwgDza5"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -141,27 +141,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "XV RR Edition",
-        "url": "https://open.spotify.com/album/0Nopg4zcWmvHXHLHMosDSp"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 136988,
-      "name": "Liebe Gr\u00fcsse",
-      "url": "https://open.spotify.com/track/4mVnqNiw2Kf5AHj9j0KD6u"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Generation",
         "url": "https://open.spotify.com/album/29MAZSbreZZ18sYo6obqHx"
@@ -201,7 +181,51 @@
       "url": "https://open.spotify.com/track/1OSuzW75FOtBdDNTuWM3wy"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "XV RR Edition",
+        "url": "https://open.spotify.com/album/0Nopg4zcWmvHXHLHMosDSp"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 136988,
+      "name": "Liebe Gr\u00fcsse",
+      "url": "https://open.spotify.com/track/4mVnqNiw2Kf5AHj9j0KD6u"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "\u00c0 la Carte",
+        "url": "https://open.spotify.com/album/3YMJFnqN6SU0F6fWNPhFvY"
+      },
+      "artists": [
+        {
+          "name": "MADE",
+          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "\u00c0 la Carte",
+      "url": "https://open.spotify.com/track/4RzIPi5kcw5gYAd07I8NDz"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
@@ -229,31 +253,7 @@
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "\u00c0 la Carte",
-        "url": "https://open.spotify.com/album/3YMJFnqN6SU0F6fWNPhFvY"
-      },
-      "artists": [
-        {
-          "name": "MADE",
-          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
-        },
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        },
-        {
-          "name": "Rasa",
-          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
-        }
-      ],
-      "duration_ms": 181016,
-      "name": "\u00c0 la Carte",
-      "url": "https://open.spotify.com/track/4RzIPi5kcw5gYAd07I8NDz"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
@@ -285,23 +285,7 @@
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "sonnenbank.mp3",
-        "url": "https://open.spotify.com/album/5a5HgRDL50TK3pa2jv4Bnb"
-      },
-      "artists": [
-        {
-          "name": "YAKARY",
-          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
-        }
-      ],
-      "duration_ms": 121649,
-      "name": "sonnenbank.mp3",
-      "url": "https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Ms. Jackson",
         "url": "https://open.spotify.com/album/54ehmIjPv8SskzrJrNBGln"
@@ -317,7 +301,23 @@
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Blonde Chaya (Sped Up)",
         "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
@@ -337,43 +337,23 @@
       "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "sonnenbank.mp3",
+        "url": "https://open.spotify.com/album/5a5HgRDL50TK3pa2jv4Bnb"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+      "duration_ms": 121649,
+      "name": "sonnenbank.mp3",
+      "url": "https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
@@ -389,67 +369,7 @@
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "SONY",
-        "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 130136,
-      "name": "RICK OWENS (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "Komet",
-        "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
-      },
-      "artists": [
-        {
-          "name": "Udo Lindenberg",
-          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
-        },
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 167356,
-      "name": "Komet",
-      "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Koka Shem",
         "url": "https://open.spotify.com/album/5yD7vbluNE2kizY0gU8hS3"
@@ -485,63 +405,43 @@
       "url": "https://open.spotify.com/track/2sj5vf9ss7eUxSIVUp50EW"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "Not Fair",
-        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
         {
-          "name": "Old Jim",
-          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
-        },
-        {
-          "name": "Enny-Mae",
-          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 163034,
-      "name": "Not Fair",
-      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
-        "name": "Anderer Mann",
-        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
       "artists": [
         {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
         }
       ],
-      "duration_ms": 135294,
-      "name": "Anderer Mann",
-      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -565,7 +465,27 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "Komet",
+        "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
+      },
+      "artists": [
+        {
+          "name": "Udo Lindenberg",
+          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
+        },
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 167356,
+      "name": "Komet",
+      "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
@@ -581,27 +501,63 @@
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
-        "name": "Bullet (feat. AYLIVA)",
-        "url": "https://open.spotify.com/album/4DBIgjUHPxgdgmi56gaHEF"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
         {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        },
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Bullet (feat. AYLIVA)",
-      "url": "https://open.spotify.com/track/5ch9m39I5MleWuwceDgCxz"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
@@ -617,7 +573,23 @@
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "9 bis 9",
         "url": "https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb"
@@ -641,7 +613,31 @@
       "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "SONY",
+        "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 130136,
+      "name": "RICK OWENS (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -657,7 +653,7 @@
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
@@ -673,55 +669,7 @@
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -737,79 +685,23 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
-        "name": "Schwarzes Herz",
-        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
       "artists": [
         {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 136360,
-      "name": "H\u00e4sslich",
-      "url": "https://open.spotify.com/track/3an1JVi8OsE0aG6dMS4Pes"
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "DORFDiSKO ZWEi",
-        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "LiEBE AUF DER R\u00dcCKBANK",
-      "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "Kein M\u00e4rchen",
-        "url": "https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 173526,
-      "name": "Ona Nije Ja :)",
-      "url": "https://open.spotify.com/track/31amrn8pcJgRbe357Z3LiC"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -829,7 +721,43 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "LiEBE AUF DER R\u00dcCKBANK",
+      "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
@@ -857,23 +785,79 @@
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "Schwarzes Herz",
+        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
         }
       ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+      "duration_ms": 136360,
+      "name": "H\u00e4sslich",
+      "url": "https://open.spotify.com/track/3an1JVi8OsE0aG6dMS4Pes"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "Bullet (feat. AYLIVA)",
+        "url": "https://open.spotify.com/album/4DBIgjUHPxgdgmi56gaHEF"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Bullet (feat. AYLIVA)",
+      "url": "https://open.spotify.com/track/5ch9m39I5MleWuwceDgCxz"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "Kein M\u00e4rchen",
+        "url": "https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 173526,
+      "name": "Ona Nije Ja :)",
+      "url": "https://open.spotify.com/track/31amrn8pcJgRbe357Z3LiC"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
@@ -889,7 +873,23 @@
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "ITALODISCO",
         "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Icon 5 - Finale - Tag 2",
         "url": "https://open.spotify.com/album/4lbmL8UjwZJusU1uoipSZa"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/0Ydt7UQxxHmFdZGOROCcza"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "Fussballer \u26bd\ufe0f",
         "url": "https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7"
@@ -965,23 +965,7 @@
       "url": "https://open.spotify.com/track/6FGPpwHlUBnl0TLGKyN4Nl"
     },
     {
-      "added_at": "2024-01-11 09:37:36",
-      "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
-    },
-    {
-      "added_at": "2024-01-11 09:37:36",
+      "added_at": "2024-01-12 10:00:23",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -995,6 +979,30 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2024-01-12 10:00:23",
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     }
   ],
   "unique_name": "Top 50 - Austria",

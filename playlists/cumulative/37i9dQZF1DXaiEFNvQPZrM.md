@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-181 songs - 10 hr 22 min
+182 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Baby Do](https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Baby Do](https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG) | 3:28 | 2022-03-18 | 2022-08-21 |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2022-02-17 |  |
 | [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 | 2022-03-25 | 2022-04-20 |
-| [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2022-02-17 |  |
+| [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2022-02-17 | 2024-01-13 |
 | [Big Day in a Small Town](https://open.spotify.com/track/2R4GzWIHMWTQfAtZX74l8i) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Big Day in a Small Town](https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl) | 3:43 | 2022-03-25 | 2022-05-24 |
 | [Blame It On the Rain](https://open.spotify.com/track/2QachFuS9lrs5LLQ2aE8nB) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [Blame It On the Rain](https://open.spotify.com/album/6ddgSrpTHJe89ipQ4Ux2h8) | 3:04 | 2022-02-17 | 2023-01-21 |
 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 | 2022-02-17 |  |
@@ -147,6 +147,7 @@
 | [Sounds Like Something I'd Do](https://open.spotify.com/track/30zqn4YASRhqyUymwMNzkI) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 2:26 | 2023-06-09 | 2023-11-06 |
 | [Sounds Like Something I'd Do](https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 2:26 | 2023-05-19 | 2023-06-11 |
 | [Sounds Like Something I’d Do](https://open.spotify.com/track/767hNt8JatQqBsJYdZWjAO) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/1WxqjSLqeYJaWXvbKaql5w) | 2:26 | 2023-09-08 |  |
+| [Sounds Like the Radio](https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Sounds Like The Radio](https://open.spotify.com/album/3Ca8JBhNiiE2bsPDwsxOdV) | 3:38 | 2024-01-12 |  |
 | [Sounds So Good](https://open.spotify.com/track/6ONHzocQurXRl6HkQ4th2y) | [Ashton Shepherd](https://open.spotify.com/artist/43eAoOm70bzBUNs4JKP5nE) | [Sounds So Good](https://open.spotify.com/album/6z5A4jV5MDikX4blitvPiO) | 3:27 | 2022-02-17 | 2022-11-13 |
 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 | 2023-03-17 |  |
 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 | 2022-02-17 | 2023-04-09 |

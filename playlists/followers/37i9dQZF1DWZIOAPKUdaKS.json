@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 327173,
+  "2024-01-13": 326921,
   "date_first_scraped": "2021-12-21",
   "description": "Soft piano to help you focus, work or study. ",
   "name": "Focus Piano",
@@ -11814,6 +11814,24 @@
     },
     {
       "album": {
+        "name": "When You Close Your Eyes",
+        "url": "https://open.spotify.com/album/5uIyKPIeVpqZFAdQPgKSa3"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Until The Blissful Dawn",
+      "url": "https://open.spotify.com/track/25jU6p4fimDfCRaqI6s262"
+    },
+    {
+      "album": {
         "name": "Where Love Is Endless",
         "url": "https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH"
       },
@@ -11879,7 +11897,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 154625,
       "name": "Until The Blissful Dawn",
       "url": "https://open.spotify.com/track/3z2S1WPPDZFDz3kmKeSJo6"

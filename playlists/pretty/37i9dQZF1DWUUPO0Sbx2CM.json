@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 188069,
+  "num_followers": 188197,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzk5YmJlMGViM2YwMDI3YzRkOTYwZDZlZWI1MmYyNDU1ZmFiODA3",
+  "snapshot_id": "MCxhMzJmYjhhYTMxZGYzMzFjYzk3YTA0YWM0ZTViOWJiOTQ0Y2Y1ZGIx",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
         "url": "https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy"
       },
@@ -431,34 +447,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+        "name": "MILLION WAYS",
+        "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
       "artists": [
         {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Love Me Back to Life",
-        "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
-      },
-      "artists": [
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        },
         {
-          "name": "Natalie Layne",
-          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 167617,
-      "name": "Love Me Back to Life",
-      "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
+      "duration_ms": 210933,
+      "name": "MILLION WAYS",
+      "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "MILLION WAYS",
-        "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
+        "name": "Love Me Back to Life",
+        "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
       },
       "artists": [
         {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        },
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
         }
       ],
-      "duration_ms": 210933,
-      "name": "MILLION WAYS",
-      "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+      "duration_ms": 167617,
+      "name": "Love Me Back to Life",
+      "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "RELATE (R3HAB Remix)",
         "url": "https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 166666,
       "name": "RELATE (R3HAB Remix)",
       "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 146254,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 146254,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Happy Day - Retain Remix",
-        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
       "artists": [
         {
-          "name": "Retain",
-          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 200903,
-      "name": "Happy Day - Retain Remix",
-      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1259,58 +1259,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+        "name": "Happy Day - Retain Remix",
+        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
         }
       ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "The Same Jesus (Reyer Remix)",
-        "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Oleven",
-          "url": "https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB"
-        }
-      ],
-      "duration_ms": 181661,
-      "name": "The Same Jesus - Reyer Remix",
-      "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
+      "duration_ms": 200903,
+      "name": "Happy Day - Retain Remix",
+      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1339,22 +1299,26 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Come and Be My Love",
-        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
+        "name": "The Same Jesus (Reyer Remix)",
+        "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
         },
         {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Oleven",
+          "url": "https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Come and Be My Love",
-      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+      "duration_ms": 181661,
+      "name": "The Same Jesus - Reyer Remix",
+      "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1379,22 +1343,38 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Choose to Praise (Reinvented)",
-        "url": "https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL"
+        "name": "Come and Be My Love",
+        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
       "artists": [
         {
-          "name": "ICF Worship",
-          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         },
         {
-          "name": "Dominik Laim",
-          "url": "https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd"
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
         }
       ],
-      "duration_ms": 150213,
-      "name": "Choose To Praise - Reinvented",
-      "url": "https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI"
+      "duration_ms": 162580,
+      "name": "Come and Be My Love",
+      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1415,6 +1395,42 @@
       "duration_ms": 184901,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 226281,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Choose to Praise (Reinvented)",
+        "url": "https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL"
+      },
+      "artists": [
+        {
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Dominik Laim",
+          "url": "https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd"
+        }
+      ],
+      "duration_ms": 150213,
+      "name": "Choose To Praise - Reinvented",
+      "url": "https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1447,22 +1463,6 @@
       "duration_ms": 204613,
       "name": "Nothing But The Truth",
       "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 226281,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Best Thing - Summer 2022",
         "url": "https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 182593,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Overcomer: The Remixes",
         "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 196738,
       "name": "Overcomer - Julie and Ruslan Remix",
       "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 154305,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "High Low (Remix)",
         "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 221453,
       "name": "More Than Halfway",
       "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "It's Coming",
-        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
-      },
-      "artists": [
-        {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
-        }
-      ],
-      "duration_ms": 154305,
-      "name": "It's Coming",
-      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
     },
     {
       "added_at": "2023-02-07 17:43:21",

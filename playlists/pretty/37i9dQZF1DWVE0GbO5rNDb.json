@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023, anche in autunno \ud83d\udc40",
-  "num_followers": 102915,
+  "num_followers": 102856,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGM0NTkyYTM4NzAwMGJlMjVjMjE3OTQ3MDlkZDEwMzg0Yjk4Y2Ux",
+  "snapshot_id": "MCwwYThhNzFiOTU3NTRmOGZjMjlkNmIyNTI3MTIyNTZlOGQxOGNkYzM1",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -692,7 +692,7 @@
       },
       "artists": [
         {
-          "name": "Mikolas Josef",
+          "name": "MIKOLAS",
           "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
         },
         {
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 196021,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Stop This Flame (Celeste x MK)",
         "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 196021,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1515,6 +1515,30 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Do You Dance?",
+        "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 211452,
+      "name": "Looking For Me",
+      "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
       },
@@ -1539,26 +1563,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Do You Dance?",
-        "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
       },
       "artists": [
         {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
         }
       ],
-      "duration_ms": 211452,
-      "name": "Looking For Me",
-      "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
+      "duration_ms": 166153,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1587,18 +1603,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
       },
       "artists": [
         {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+      "duration_ms": 166572,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1619,26 +1639,6 @@
       "duration_ms": 192614,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 166572,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "I Need to Know (feat. Flynn)",
-        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 155519,
-      "name": "I Need to Know (feat. Flynn)",
-      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "I Need to Know (feat. Flynn)",
+        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "duration_ms": 155519,
+      "name": "I Need to Know (feat. Flynn)",
+      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
     },
     {
       "added_at": "2023-11-10 00:01:00",

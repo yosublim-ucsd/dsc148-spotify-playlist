@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,922 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,835 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 25 | [Crónicas De Mi Guitarra](https://open.spotify.com/track/76ZaecbpNsMJdhoB0LkhJG) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 4:01 |
 | 26 | [Alex Valencia](https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:18 |
 | 27 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 |
-| 28 | [El Mismo Morro](https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Clave 210](https://open.spotify.com/artist/3WJpNFakTQrmngFia1tX7Y) | [El Mismo Morro](https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI) | 2:20 |
-| 29 | [Peligro](https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Peligro](https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3) | 2:00 |
+| 28 | [Peligro](https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Peligro](https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3) | 2:00 |
+| 29 | [El Mismo Morro](https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Clave 210](https://open.spotify.com/artist/3WJpNFakTQrmngFia1tX7Y) | [El Mismo Morro](https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI) | 2:20 |
 | 30 | [Diamantes De Esfera](https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:00 |
-| 31 | [Calles De S.D.](https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:17 |
-| 32 | [Que Me Va Mal](https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:05 |
+| 31 | [Que Me Va Mal](https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:05 |
+| 32 | [Calles De S.D.](https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:17 |
 | 33 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 |
 | 34 | [Morras De Cache](https://open.spotify.com/track/7mDwgb8zCEZRppGqCTAvKo) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:42 |
 | 35 | [La Gente Del Toro](https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Estilo Militar](https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Los De La Villa](https://open.spotify.com/artist/4k0T7XGZDSFv5fnAnZUNHl) | [Estilo Militar](https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ) | 2:55 |
 | 50 | [JJ Es La Clave](https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:33 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBhMjY0ODBhMTBlNmViNjgzMjNlNmI1YzdkODc4MTRjZg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBiN2MzMTc3ZmU2Zjk5ZWJlMzEwOGJkZDJlNDIxMmY2Ng==`

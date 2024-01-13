@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 21878,
+  "num_followers": 21894,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTQ4Yjc4OTRhMGRhZWE2ZGM5ZThlZjhmMzZjYWNkZjZjYTQxZmZh",
+  "snapshot_id": "MCxiZmE3NmFjNjBjMDdlOTc3NzUyZTUxY2RkZTU0YWQ4NzM0NjdlMzZh",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -891,30 +891,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
-      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
         "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 907586,
       "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
       "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
+      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1307,6 +1307,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
+        "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1736520,
+      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
+      "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
         "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
       },
@@ -1331,30 +1355,6 @@
       "duration_ms": 981826,
       "name": "Salome, Op. 54, TrV 215: Ah! Du wolltest mich nicht deinen Mund kussen lassen, Jochanaan!",
       "url": "https://open.spotify.com/track/4c0SdgSoovTpynYjnafX2v"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
-        "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
-        }
-      ],
-      "duration_ms": 1736520,
-      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
-      "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1447,30 +1447,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Sinfonia Domestica; Macbeth (The Originals / Live)",
-        "url": "https://open.spotify.com/album/3T0UrJ4727VIpmpKgCkDdo"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "Sinfonia Domestica, Op. 53, TrV 209: Bewegt - Sehr lebhaft - Ruhig - Live",
-      "url": "https://open.spotify.com/track/5tZsipNneBbz32UhPdastj"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, Richard: The Tone Poems",
         "url": "https://open.spotify.com/album/1n4OAKBDnr5KAFQTyPpTOZ"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 1221333,
       "name": "Symphonic Fantasie from \"Die Frau ohne Schatten\", TrV 234a",
       "url": "https://open.spotify.com/track/2OBooBFhjGORpuAc7LX3hS"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Sinfonia Domestica; Macbeth (The Originals / Live)",
+        "url": "https://open.spotify.com/album/3T0UrJ4727VIpmpKgCkDdo"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "Sinfonia Domestica, Op. 53, TrV 209: Bewegt - Sehr lebhaft - Ruhig - Live",
+      "url": "https://open.spotify.com/track/5tZsipNneBbz32UhPdastj"
     },
     {
       "added_at": "2022-06-20 09:55:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,905 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,316 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 60 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
 | 61 | [Fields of Verdun](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411) | 3:17 |
 | 62 | [Sweet True Lies](https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:26 |
-| 63 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
-| 64 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
+| 63 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
+| 64 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
 | 65 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
 | 66 | [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 |
 | 67 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 72 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
 | 73 | [Remember Me](https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Death We Seek](https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC) | 4:04 |
 | 74 | [Lift Me Up](https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 4:06 |
-| 75 | [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 |
-| 76 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
+| 75 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
+| 76 | [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 |
 | 77 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 78 | [Prophecy of Ragnarök](https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Prophecy of Ragnarök](https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0) | 3:42 |
 | 79 | [Sanctified with Dynamite](https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 99 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 |
 | 100 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 |
 
-Snapshot ID: `MCw1MmQ1YmMxYTBlNTg2ZTFjY2U2M2Y2ZTM0ZGU1ZjlhNDNiYWQ5Y2Jk`
+Snapshot ID: `MCwxMGRhNzVkY2JlNzRiY2Q5MTVhOGRhZTUyMjhhNTI1MWFhNzVjNWNj`

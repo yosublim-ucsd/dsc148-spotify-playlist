@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-102 songs - 8 hr 23 min
+103 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,9 +18,10 @@
 | [Confessions](https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n) | [Daniel Mundos](https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc) | [Confessions](https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP) | 3:30 | 2023-04-21 | 2023-05-15 |
 | [Ebenezer](https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh) | [Angela Chibalonza](https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR) | [Nimekutana Na Yesu](https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2) | 4:55 | 2023-06-16 |  |
 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 | 2023-04-21 | 2023-06-16 |
+| [Everything \(Amen\)](https://open.spotify.com/track/0fMFygZkl6SxSgYbXNQZME) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/2nF5JgRAYmjOPTsRVnHX9Q) | 3:57 | 2023-11-17 |  |
 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 | 2022-12-19 | 2023-12-22 |
 | [Everything \(Amen\)](https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b) | 3:57 | 2023-11-17 | 2024-01-10 |
-| [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 | 2023-04-21 |  |
+| [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 | 2023-04-21 | 2024-01-13 |
 | [Good](https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Good](https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i) | 3:36 | 2023-09-15 | 2023-12-22 |
 | [Happy Birthday](https://open.spotify.com/track/5gt0c4Lnuk7en8EowAWKNt) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Zaidi](https://open.spotify.com/album/1XUrgCEu95MYR1z6rZfm5J) | 2:55 | 2022-12-19 | 2023-04-21 |
 | [Huyu Ni Nani](https://open.spotify.com/track/0l39flJoMHffawcZES5NCS) | [St\. Joseph's Choir Kendu Bay Parish](https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA) | [Bwana Ni Ngome Yangu](https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF) | 5:46 | 2023-04-05 | 2023-11-10 |

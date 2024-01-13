@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 299586,
+  "num_followers": 299631,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDA1NmFhNDNhY2FhNDI2ZGU2ODZmOGZjOTU0YzU4M2QyOWY1NjYy",
+  "snapshot_id": "MCw3YmNkYTcyNWI3YzA0ODM4NGZjNGIwZjNiZGU1ZDliY2E5YTBkY2Y4",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "The Moment (Digital Deluxe)",
+        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
+      },
+      "artists": [
+        {
+          "name": "Framing Hanley",
+          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Run the Jewels 2",
         "url": "https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 234160,
       "name": "Close Your Eyes (And Count to Fuck)",
       "url": "https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "The Moment (Digital Deluxe)",
-        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
-      },
-      "artists": [
-        {
-          "name": "Framing Hanley",
-          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
+        "name": "Up Style Down",
+        "url": "https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "28 Days",
+          "url": "https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx"
         }
       ],
-      "duration_ms": 250586,
-      "name": "Wretches and Kings",
-      "url": "https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A"
+      "duration_ms": 219053,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl"
     }
   ],
   "unique_name": "Rap 'n' Roll",

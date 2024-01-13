@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: The Black Keys
 
-417 songs - 22 hr 52 min
+418 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/6eYr9mXnX7TSBSn6Y2Bazc) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG) | 2:48 | 2023-03-08 | 2023-03-09 |
 | [Flowers For The Grave](https://open.spotify.com/track/2g101MmiXeLvnCWPSMcVFc) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Flowers For The Grave](https://open.spotify.com/album/3zPoeWuvwtFwlXbvSBNGyI) | 3:51 | 2023-10-06 | 2023-12-15 |
 | [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 | 2023-03-08 | 2023-03-09 |
-| [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 | 2024-01-12 |  |
+| [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 | 2024-01-12 | 2024-01-13 |
+| [For Katie](https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr) | 3:56 | 2024-01-12 |  |
 | [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 | 2023-05-18 | 2023-08-21 |
 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 | 2023-08-17 | 2023-09-15 |
 | [Francesca](https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce) | 4:30 | 2023-05-18 | 2023-05-20 |

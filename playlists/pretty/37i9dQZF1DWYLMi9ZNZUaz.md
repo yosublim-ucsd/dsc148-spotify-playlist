@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,523 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,480 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 35 | [tình yêu có nghĩa là gì?](https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:13 |
 | 36 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 |
 | 37 | [Thanh Xuân](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuân](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 |
-| 38 | [Mắt Xanh](https://open.spotify.com/track/3rigEvSPZYJI3rAt9gVdXy) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Mắt Xanh](https://open.spotify.com/album/3poO8uwdPxvv2QXVxqLXfC) | 2:49 |
-| 39 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 |
+| 38 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 |
+| 39 | [Mắt Xanh](https://open.spotify.com/track/3rigEvSPZYJI3rAt9gVdXy) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Mắt Xanh](https://open.spotify.com/album/3poO8uwdPxvv2QXVxqLXfC) | 2:49 |
 | 40 | [NGTANOISE](https://open.spotify.com/track/57FeZINjlat9NLEhYUejmd) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [MFREE](https://open.spotify.com/artist/3Gx0fp4mXr6YU4DONMHqB8), [TUYEN VO](https://open.spotify.com/artist/0HhRjPFqN1sqrUpJA7NuDe) | [NGTANOISE](https://open.spotify.com/album/5dh8bC64DiQUb0o3E73LFc) | 2:59 |
 | 41 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 |
-| 42 | [Cho Tôi Lang Thang](https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Tôi Lang Thang](https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V) | 4:18 |
+| 42 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [tofutns](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 43 | [người điên](https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:27 |
-| 44 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [tofutns](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
+| 44 | [Cho Tôi Lang Thang](https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Tôi Lang Thang](https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V) | 4:18 |
 | 45 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 |
 | 46 | [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 |
 | 47 | [Bật Nhạc Lên](https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Harmonie](https://open.spotify.com/artist/5UaJojKyJSqngDfoUw0P01) | [Bật Nhạc Lên](https://open.spotify.com/album/0YuGAT79ULNpdxzxWVXHFH) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [thế giới thần tiên](https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:50 |
 | 50 | [XTC \(Xích Thêm Chút\) \(Remix\)](https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 4:03 |
 
-Snapshot ID: `MCw3MjMzZWExMzk0ZjljYjU3MDY2ZGUxMWQ5NjQ0OTZiZjZlZjg0NDlh`
+Snapshot ID: `MCwyN2FjMTRhNzNjOGVjMDk3Mzg0ZDkwYzE2Y2YxMGZlZGY2ZGJiNTEy`

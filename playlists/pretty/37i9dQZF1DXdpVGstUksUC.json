@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 538987,
+  "num_followers": 538907,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzE1ZmZjNzE5NzYxZTU1YmVjYTQzZWI4M2U0YWRkZjMwZTcwYWFi",
+  "snapshot_id": "MCxjZmVjMDZlZDc2MWE0OTZiOTk4OTk3ZDk0NDAzN2VlMDI2NDg3Zjk3",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Sleep's Holy Mountain",
-        "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
+        "name": "Tame Impala",
+        "url": "https://open.spotify.com/album/78FAAvXmfdj0VKUuUEYeoV"
       },
       "artists": [
         {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 343160,
-      "name": "Dragonaut",
-      "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
+      "duration_ms": 266626,
+      "name": "Half Full Glass Of Wine",
+      "url": "https://open.spotify.com/track/4t6vrJg7GcUELCAxHX1z5W"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Deliverance",
-        "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
+        "name": "Sleep's Holy Mountain",
+        "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
       "artists": [
         {
-          "name": "Corrosion Of Conformity",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
         }
       ],
-      "duration_ms": 320333,
-      "name": "Albatross",
-      "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
+      "duration_ms": 343160,
+      "name": "Dragonaut",
+      "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC"
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
       },
       "artists": [
         {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+          "name": "Corrosion Of Conformity",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
         }
       ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/6WGAMXLrez7idFa5DLeWrM"
+      "duration_ms": 320333,
+      "name": "Albatross",
+      "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/6WGAMXLrez7idFa5DLeWrM"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Godzilla's / Eatin' Dust",
         "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 190800,
       "name": "Eatin' Dust",
       "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Tame Impala",
-        "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266920,
-      "name": "Half Full Glass Of Wine",
-      "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Supa Scoopa and Mighty Scoop",
+      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Repeater",
-        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
-      },
-      "artists": [
-        {
-          "name": "King Buffalo",
-          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
-        }
-      ],
-      "duration_ms": 356824,
-      "name": "Centurion",
-      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Dead Roots Stirring",
         "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 580237,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Repeater",
+        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
+      },
+      "artists": [
+        {
+          "name": "King Buffalo",
+          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
+        }
+      ],
+      "duration_ms": 356824,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Through The Eyes Of Heathens",
-        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
-      },
-      "artists": [
-        {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
-        }
-      ],
-      "duration_ms": 508293,
-      "name": "Big Sky Theory",
-      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Agents Of Ahriman",
         "url": "https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 185440,
       "name": "Stray Bullit Woman",
       "url": "https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Through The Eyes Of Heathens",
+        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
+      },
+      "artists": [
+        {
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+        }
+      ],
+      "duration_ms": 508293,
+      "name": "Big Sky Theory",
+      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The Devil and the Almighty Blues",
-        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
-      },
-      "artists": [
-        {
-          "name": "The Devil and the Almighty Blues",
-          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
-        }
-      ],
-      "duration_ms": 387668,
-      "name": "Tired Old Dog",
-      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Only a Suggestion",
         "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 282160,
       "name": "The Bottle",
       "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "The Devil and the Almighty Blues",
+        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
+      },
+      "artists": [
+        {
+          "name": "The Devil and the Almighty Blues",
+          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
+        }
+      ],
+      "duration_ms": 387668,
+      "name": "Tired Old Dog",
+      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Damned by Fate",
-        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
-      },
-      "artists": [
-        {
-          "name": "Red Desert",
-          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "Lust Queen",
-      "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "John Garcia and the Band of Gold",
         "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 222169,
       "name": "Jim's Whiskers",
       "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Damned by Fate",
+        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
+      },
+      "artists": [
+        {
+          "name": "Red Desert",
+          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
+        }
+      ],
+      "duration_ms": 312746,
+      "name": "Lust Queen",
+      "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
     },
     {
       "added_at": "2024-01-05 05:00:00",

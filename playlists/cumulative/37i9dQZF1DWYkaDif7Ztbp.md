@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=FZ3WusfiTISuf4\_sdzlcwA"> Asake </a>
+> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=RD0krlR\_QqOFZ0yVaumUhg"> Wizkid </a>
 
 349 songs - 20 hr 45 min
 

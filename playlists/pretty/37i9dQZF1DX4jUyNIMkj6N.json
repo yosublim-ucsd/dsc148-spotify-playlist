@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 196690,
+  "num_followers": 196717,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzdjNjU2YjQwMTZiYmQ1NmIzNjk1MmFhOTA3NTNhZWNiNmRmMmJl",
+  "snapshot_id": "MCxkZjVmYjRmN2RlZjU2Mzk0NzM5YjBlNGQ4ZTdhNDRkNDg1NjY5MWRj",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
-        }
-      ],
-      "duration_ms": 241785,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Jag \u00e4r sen igen",
         "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 146573,
       "name": "Ei ny tid",
       "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 241785,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
     },
     {
       "added_at": "2024-01-11 23:00:00",

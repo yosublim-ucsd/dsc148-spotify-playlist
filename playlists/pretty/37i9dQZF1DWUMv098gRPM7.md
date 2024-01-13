@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Rochelle Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,920 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,926 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Freedom \(with BEAM\)](https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ) | 2:45 |
 | 75 | [Some Kinda Love](https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Some Kinda Love](https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt) | 4:52 |
 
-Snapshot ID: `MCxlYzIxY2Q5MDhmNGRjM2ZkN2I1MGRjMWM5ZmIyZjAzNzQyNTk3NmQ5`
+Snapshot ID: `MCxlMjdkMTBkODUwYTgwMzhlMzU4Y2FhMGYzYjc2MzA5ZGNlYTBhMzc1`

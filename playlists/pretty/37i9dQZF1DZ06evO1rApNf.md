@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,699 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,679 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 38 | [Despiértate](https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Despiértate](https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF) | 2:58 |
 | 39 | [Cariño Mío](https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz) | 3:17 |
 | 40 | [Darnos Un Tiempo](https://open.spotify.com/track/1zaALt2FHgNUrOg5jzFF8J) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 3:15 |
-| 41 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
-| 42 | [La Grosera](https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Grosera](https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL) | 2:38 |
+| 41 | [La Grosera](https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Grosera](https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL) | 2:38 |
+| 42 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
 | 43 | [Ya No Tiene Novio \- Remix](https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Ya No Tiene Novio \(Remix\)](https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3) | 3:32 |
 | 44 | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX) | 2:53 |
 | 45 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 50 | [OUCH](https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:17 |
 | 51 | [Amigos \(con Andry Kiddos\)](https://open.spotify.com/track/5w7KnO18gZntBOxIiubPOa) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 2:27 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBmMzY4ZjExOTRhNGRhY2VjYjk0OGMyNWUxOWFkYjdhNg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAzNDQ2Y2FlYjIwNTg0ZTU5YzhiN2NiMzg2Nzk4MTZlNw==`

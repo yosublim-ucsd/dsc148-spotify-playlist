@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,819 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,904 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blue Jean Blues \- 2005 Remaster](https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:42 |
 | 2 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
-| 3 | [Be Careful With a Fool](https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 5:14 |
-| 4 | [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 |
-| 5 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
+| 3 | [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 |
+| 4 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
+| 5 | [Be Careful With a Fool](https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 5:14 |
 | 6 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 |
 | 7 | [Three O'Clock Blues](https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 8:36 |
 | 8 | [Midnight Blues](https://open.spotify.com/track/2n5LevrNK3JbN1WWtXuLD6) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 4:58 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 39 | [Reap What You Sow](https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 4:55 |
 | 40 | [Personal Manager](https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 4:28 |
 | 41 | [Along About Midnight](https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O) | 4:05 |
-| 42 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
-| 43 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
-| 44 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
-| 45 | [Help Me Through The Day](https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 4:28 |
+| 42 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
+| 43 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
+| 44 | [Help Me Through The Day](https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 4:28 |
+| 45 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
 | 46 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 47 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 48 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 65 | [Last Night](https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 3:39 |
 | 66 | [Another Night to Cry](https://open.spotify.com/track/49awu7g0tzOjAL2dygxYbC) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Scream, Holler & Howl](https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ) | 5:53 |
 | 67 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
-| 68 | [Wish Her Well](https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB) | [Emma Wilson](https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2) | [Wish Her Well](https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c) | 4:23 |
-| 69 | [I Know I've Been Changed](https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz) | [Miraculous Mule](https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf) | [Old Bones, New Fire](https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg) | 3:07 |
+| 68 | [I Know I've Been Changed](https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz) | [Miraculous Mule](https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf) | [Old Bones, New Fire](https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg) | 3:07 |
+| 69 | [Wish Her Well](https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB) | [Emma Wilson](https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2) | [Wish Her Well](https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c) | 4:23 |
 | 70 | [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 |
 | 71 | [Weak Days](https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 7:00 |
 | 72 | [Sweet Slumber](https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb) | [Jimmy Witherspoon](https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb), [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [The Blues Is Now](https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o) | 3:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Blues For Lonnie Johnson](https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 4:53 |
 | 80 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 
-Snapshot ID: `MCw3ZGIyMGZlY2MxMjkwYTRjZGNkZmE5ODVmZDM4ZDExYjg4ODRlNTU5`
+Snapshot ID: `MCxhNmRlNjNkMjI2ZWQyZDllNTlhOTQyZGQ4Y2ViNWEwZTExZGUzNmJl`

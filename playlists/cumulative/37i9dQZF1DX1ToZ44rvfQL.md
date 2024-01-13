@@ -4,7 +4,7 @@
 
 > Porque el asado se prende con música.
 
-136 songs - 9 hr 1 min
+137 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [El Viejo](https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [El Viejo](https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk) | 3:29 | 2023-06-15 | 2023-08-26 |
 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 | 2023-05-15 |  |
 | [Encendedor](https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [El camino de la libertad](https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1) | 3:40 | 2023-05-15 |  |
+| [Esa Estrella Era Mi Lujo](https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5) | 2:56 | 2024-01-11 |  |
 | [Esa Estrella Era Mi Lujo](https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb) | 2:56 | 2023-05-15 | 2024-01-05 |
 | [Ese Maldito Momento](https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:05 | 2023-05-15 |  |
 | [Esta Saliendo El Sol](https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:08 | 2023-05-15 |  |
@@ -60,11 +61,11 @@
 | [Insisto](https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 4:37 | 2023-05-15 |  |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-06-09 | 2023-08-26 |
 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 | 2023-05-15 |  |
-| [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2023-05-15 |  |
+| [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2023-05-15 | 2024-01-13 |
 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 | 2023-05-15 |  |
 | [Kintsukuroi](https://open.spotify.com/track/3Ib7O0KTQOLbbnJMciknVt) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Canción mata algoritmo](https://open.spotify.com/album/4HJ1j9Aepc2OKPXDOcbug4) | 2:51 | 2023-07-14 | 2023-08-26 |
 | [Km 0](https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Km 0](https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf) | 2:46 | 2023-06-09 | 2023-10-06 |
-| [La Bestia Pop](https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:07 | 2023-11-17 |  |
+| [La Bestia Pop](https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:07 | 2023-11-17 | 2024-01-13 |
 | [La Calle Es Su Lugar](https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Vol I](https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s) | 4:26 | 2023-05-15 |  |
 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 | 2023-05-15 | 2024-01-10 |
 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 | 2023-09-22 |  |
@@ -140,7 +141,7 @@
 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 | 2023-05-15 |  |
 | [Vencedores Vencidos](https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Un Baión para el Ojo Idiota](https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5) | 3:28 | 2023-05-19 | 2023-10-07 |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2023-05-15 |  |
-| [Verano del 92](https://open.spotify.com/track/4NVKKVu4lMvxelWoH6G0JB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 7:10 | 2023-12-21 | 2024-01-12 |
+| [Verano del 92](https://open.spotify.com/track/4NVKKVu4lMvxelWoH6G0JB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 7:10 | 2023-12-21 |  |
 | [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2023-05-19 |  |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 | 2023-05-15 |  |
 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 | 2023-05-15 |  |

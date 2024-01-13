@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 105618,
+  "2024-01-13": 105491,
   "date_first_scraped": "2023-02-25",
-  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Chef'Special",
+  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Douwe Bob",
   "name": "Stay Tuned!",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 436569,
       "name": "1975",
       "url": "https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy"
@@ -3378,6 +3378,24 @@
     },
     {
       "album": {
+        "name": "Something Out Of Nothing",
+        "url": "https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188505,
+      "name": "Money In My Head",
+      "url": "https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX"
+    },
+    {
+      "album": {
         "name": "More Than a Love Song",
         "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
       },
@@ -3612,6 +3630,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/54ER6KotifvALmlVHDeyp6"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184396,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt"
+    },
+    {
+      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -3713,7 +3749,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179599,
       "name": "OMG It's Happening",
       "url": "https://open.spotify.com/track/3UDWgZznpvkwYx92b0hjJ8"
@@ -4131,7 +4167,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 162800,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/72RjHoPZPW3LZHgVS4akIy"
@@ -4747,6 +4783,24 @@
       "duration_ms": 203866,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5KwNUpElQKHRdWdeevn9ed"
+    },
+    {
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214438,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
     },
     {
       "album": {

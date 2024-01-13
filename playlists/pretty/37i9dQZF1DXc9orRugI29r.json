@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 402041,
+  "num_followers": 402388,
   "original_name": "HOT NOW - Bizarrap & Young Miko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjAyYjhiY2I0MDJkM2ZmYTM0NWY2NjJhNTZhM2E4NzY3NjkyNDJm",
+  "snapshot_id": "MCw4ODZhNjJlMDJhNjkwYjEwYTZiNWQ2NDU0Y2QwMmViNDExMGZlNDhh",
   "tracks": [
     {
       "added_at": "2024-01-11 00:00:00",
@@ -27,6 +27,42 @@
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -335,6 +371,26 @@
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "duration_ms": 172774,
+      "name": "ANDO",
+      "url": "https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ"
     },
     {
       "added_at": "2024-01-02 18:10:28",
@@ -927,58 +983,6 @@
       "duration_ms": 154023,
       "name": "Mil Veces",
       "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "CALL ME MAYBE",
-        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 222401,
-      "name": "CALL ME MAYBE",
-      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     }
   ],
   "unique_name": "HOT NOW - Bizarrap & Young Miko",

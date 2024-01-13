@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,444 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,445 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 35 | [Black N White](https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:38 |
 | 36 | [Kumbaya \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:01 |
 | 37 | [You Might Find Me](https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 2:27 |
-| 38 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
-| 39 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 |
+| 38 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 |
+| 39 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
 | 40 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 |
 | 41 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 |
 | 42 | [Photograph](https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [SOMEONE ELSE \(featuring Jacob Banks\)](https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [SOMEONE ELSE \(featuring Jacob Banks\)](https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk) | 3:42 |
 | 50 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBiMWNkZjE1ODZjYTBkMDhmMjJiYTI4MTgyNWIzMjFlNA==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBiZjFkMjczMTdhMDZiYjk3YjkxNDg2ZTA2YjRmYmU4Mw==`

@@ -1,12 +1,12 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1289623,
+  "num_followers": 1288868,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzY1MTc4YzY1YWE1NjliMjViZWNhYmYwMTM1ZjM4N2Y3ZjYwYmY2",
+  "snapshot_id": "MCw0NmYwNzhmZWFiOTk1NDFlZTQ1Y2QzYzlkMTUwOWM1NDA4ZDdlODQy",
   "tracks": [
     {
       "added_at": "2023-12-19 17:38:44",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "Everywhere, Everything (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 187682,
+      "name": "Anyone For You (Tiger Lily)",
+      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "5 Meter Mauern (aus \"The Voice of Germany 2023\") [Live]",
         "url": "https://open.spotify.com/album/1TGhQcviDvZIHrulgNK3Sy"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 134521,
       "name": "5 Meter Mauern (aus \"The Voice of Germany 2023\") - Live",
       "url": "https://open.spotify.com/track/2kMLXLXuqdoXFRMLTQYkrW"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 187682,
-      "name": "Anyone For You (Tiger Lily)",
-      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "vert1go vol. 1",
-        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Into The Walls",
-      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Nicht allein",
         "url": "https://open.spotify.com/album/70GyiV8LToJYGYE6pxh8IL"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 127947,
       "name": "Nicht allein",
       "url": "https://open.spotify.com/track/24ejkPQlpnaOtRGnA8w2bF"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "vert1go vol. 1",
+        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Into The Walls",
+      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/4oyxlNRI1Wx1sdBMQ0MWJp"
-      },
-      "artists": [
-        {
-          "name": "Apsilon",
-          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
-        }
-      ],
-      "duration_ms": 154522,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/32FPWxySVgUsH0SfG8efPu"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/4oyxlNRI1Wx1sdBMQ0MWJp"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        }
+      ],
+      "duration_ms": 154522,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/32FPWxySVgUsH0SfG8efPu"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Looks Like Me",
-        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "Looks Like Me",
-      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Head on Fire",
         "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 188645,
       "name": "Head on Fire",
       "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "Looks Like Me",
+        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "Looks Like Me",
+      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Falling Asleep At The Wheel",
-        "url": "https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 203247,
-      "name": "Falling Asleep At The Wheel",
-      "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 221873,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "Falling Asleep At The Wheel",
+        "url": "https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 203247,
+      "name": "Falling Asleep At The Wheel",
+      "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
     },
     {
       "added_at": "2023-12-19 17:38:44",

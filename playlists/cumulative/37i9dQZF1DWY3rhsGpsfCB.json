@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 182361,
       "name": "Break Up",
       "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 140410,
       "name": "Chocolati",
       "url": "https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 124751,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
@@ -6659,6 +6659,28 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207585,
+      "name": "prove it",
+      "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
+    },
+    {
+      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -7126,10 +7148,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 190344,
       "name": "Sarafina",
       "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/2Nd7o5nJy7TyJ1VmEayTu7"
+      },
+      "artists": [
+        {
+          "name": "Darkua",
+          "url": "https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194057,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/1l1rEiJgKtxhadymv38HDn"
     },
     {
       "album": {
@@ -7938,6 +7978,24 @@
       "duration_ms": 188504,
       "name": "Summer Too Hot",
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
+    },
+    {
+      "album": {
+        "name": "Sun/Son",
+        "url": "https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176197,
+      "name": "Sun/Son",
+      "url": "https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB"
     },
     {
       "album": {
@@ -8758,6 +8816,24 @@
       "duration_ms": 195094,
       "name": "Transparency (feat. USHER)",
       "url": "https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO"
+    },
+    {
+      "album": {
+        "name": "Treadmill",
+        "url": "https://open.spotify.com/album/2VpmjAt37m8FzNIOs9rtkD"
+      },
+      "artists": [
+        {
+          "name": "Paapa Versa",
+          "url": "https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147100,
+      "name": "Treadmill",
+      "url": "https://open.spotify.com/track/6T3HOUBEDRj4t0SvoH27MY"
     },
     {
       "album": {

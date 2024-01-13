@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 384013,
+  "2024-01-13": 383808,
   "date_first_scraped": "2022-05-27",
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
   "name": "Tokyo Rising",
@@ -3201,7 +3201,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 156279,
       "name": "continue",
       "url": "https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS"
@@ -10406,7 +10406,7 @@
         },
         {
           "name": "FLEUR",
-          "url": "https://open.spotify.com/artist/2JwmGDl9dQjaAlWYKMJDuV"
+          "url": "https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV"
         }
       ],
       "date_added": "2024-01-09",
@@ -11179,6 +11179,24 @@
       "duration_ms": 203863,
       "name": "Noidleap",
       "url": "https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731"
+    },
+    {
+      "album": {
+        "name": "\u6771\u5927900\u756a\u8b1b\u5802\u8b1b\u7fa9 ep",
+        "url": "https://open.spotify.com/album/6MOi3c6R3sam9HHpWl4mRu"
+      },
+      "artists": [
+        {
+          "name": "Ozawa Kenji",
+          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262786,
+      "name": "Noize",
+      "url": "https://open.spotify.com/track/0vcqwHfIOUeBZfz0GgEWvX"
     },
     {
       "album": {
@@ -12905,6 +12923,28 @@
       "duration_ms": 202262,
       "name": "Raging Fire",
       "url": "https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5"
+    },
+    {
+      "album": {
+        "name": "Railway",
+        "url": "https://open.spotify.com/album/5wMH0FfCB5YXgLD0x07QWQ"
+      },
+      "artists": [
+        {
+          "name": "OHTORA",
+          "url": "https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226456,
+      "name": "Railway",
+      "url": "https://open.spotify.com/track/7iYheHCJUnQwWe8HojM8bV"
     },
     {
       "album": {
@@ -22191,7 +22231,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 218536,
       "name": "\u5589\u4ecf\u306e\u30af\u30ea\u30b9\u30de\u30b9",
       "url": "https://open.spotify.com/track/1w2R8AIHPJBZf8XLHfSxTy"

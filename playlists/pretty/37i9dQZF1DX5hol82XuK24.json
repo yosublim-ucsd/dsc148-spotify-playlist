@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 423442,
+  "num_followers": 423525,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDRlMzZkNTAxNDU2ODhmNWNjNGU5ZWY1MmM0M2MwMmJjN2ZlZWJm",
+  "snapshot_id": "MCw4YmNjOTI3NzA4ZTRmZDI5OWM5ZDY2MWIxZTI2MGEyMWUyMzRjZmE2",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "A Different Arrangement",
-        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
-      },
-      "artists": [
-        {
-          "name": "Black Marble",
-          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "MSQ No-Extra",
-      "url": "https://open.spotify.com/track/4KPv9BQVlUJSt8QVi5Jf4x"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Bad Contestant",
         "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 200093,
       "name": "Strange Time",
       "url": "https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "A Different Arrangement",
+        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
+      },
+      "artists": [
+        {
+          "name": "Black Marble",
+          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "MSQ No-Extra",
+      "url": "https://open.spotify.com/track/4KPv9BQVlUJSt8QVi5Jf4x"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "A Different Arrangement",
+        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
+      },
+      "artists": [
+        {
+          "name": "Black Marble",
+          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
+        }
+      ],
+      "duration_ms": 224180,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/4wo2FC3qqvi1gDKJZg4Boc"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Dancing with Ghosts",
         "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 299400,
       "name": "Dancing with Ghosts",
       "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "A Different Arrangement",
-        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
-      },
-      "artists": [
-        {
-          "name": "Black Marble",
-          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
-        }
-      ],
-      "duration_ms": 224180,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/4wo2FC3qqvi1gDKJZg4Boc"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Port",
+        "url": "https://open.spotify.com/album/6VjvuxKncdSNpaQW9WMOEZ"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 282377,
+      "name": "Port",
+      "url": "https://open.spotify.com/track/4zjArpFbVaNz27Z5vX5Oda"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Take Me Down (Nourished by Time Version)",
         "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 243387,
       "name": "Take Me Down - Nourished by Time Version",
       "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Port",
-        "url": "https://open.spotify.com/album/6VjvuxKncdSNpaQW9WMOEZ"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 282377,
-      "name": "Port",
-      "url": "https://open.spotify.com/track/4zjArpFbVaNz27Z5vX5Oda"
     },
     {
       "added_at": "2023-11-03 23:08:22",

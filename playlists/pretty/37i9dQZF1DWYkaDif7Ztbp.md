@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=FZ3WusfiTISuf4\_sdzlcwA"> Asake </a>
+> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=RD0krlR\_QqOFZ0yVaumUhg"> Wizkid </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,067 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,343 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
-| 2 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
-| 3 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
-| 4 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 |
+| 1 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 |
+| 2 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
+| 3 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
+| 4 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
 | 5 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 |
 | 6 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 |
 | 7 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 48 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 |
 | 49 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
 
-Snapshot ID: `MCw2NzAwNTI2NmU1Y2I4M2Q4MTE4OTU0NzA0NDUwNzQwMzQzNDJlODM3`
+Snapshot ID: `MCw5NmQ5YWM1MTA0YjdmMDQ3Y2U5NzdiZjJmMDgyNzMyODNmZmMzYzhl`

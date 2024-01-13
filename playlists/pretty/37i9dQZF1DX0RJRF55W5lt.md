@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,296 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,375 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 55 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/12GwtT1n24TIpp2RER56Ij) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr) | [Dooms Night](https://open.spotify.com/album/6JRerP3qDsohb4wEbseoeL) | 3:47 |
 | 56 | [Let Me Be Your Fantasy \- Trick Or Treat Remix Edit](https://open.spotify.com/track/6dA4KrYTgjl6Ovq8T5HqRG) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc), [MC Tails](https://open.spotify.com/artist/3vPcO95a6acN37Kvuhw9Co) | [Let Me Be Your Fantasy](https://open.spotify.com/album/0qDzH1CtYjMw3uf3S5pnN9) | 3:52 |
 | 57 | [Oh No \(Sentimental Things\) \- Oxide Remix](https://open.spotify.com/track/4ZzLtmgHbUTqmV6wvtZq0l) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [They Don't Know](https://open.spotify.com/album/39adZ9WsxbgqLpHP2FLDWO) | 5:33 |
-| 58 | [What Going On](https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:06 |
-| 59 | [Blues For You \(Hard Dub\)](https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [Blues for You](https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA) | 4:29 |
+| 58 | [Blues For You \(Hard Dub\)](https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [Blues for You](https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA) | 4:29 |
+| 59 | [What Going On](https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:06 |
 | 60 | [True](https://open.spotify.com/track/4UIVcg8hsML6ZFCW6geRbX) | [Jaimeson](https://open.spotify.com/artist/7hzWocQ4TBX5jTqgt9UBPW) | [Jaimeson Revisited](https://open.spotify.com/album/7ddvdxSZngAeBFFcvl45De) | 6:19 |
 | 61 | [A London Thing \- Extended Mix](https://open.spotify.com/track/1EO2wRH9Tj2e7SLLiNoALJ) | [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [MC Styles](https://open.spotify.com/artist/6IcEebkfhtNr55JyiZb70r) | [A London Thing](https://open.spotify.com/album/31JpI9mni0wdK8TwTh00Wh) | 6:06 |
 | 62 | [You Used to Hold Me \- Original Mix](https://open.spotify.com/track/4UcubRTZEdPHBOns9Y9zZZ) | [Scott & Leon](https://open.spotify.com/artist/24labonn3Rx2LF8PTyVK4H), [SYLVIA MASON](https://open.spotify.com/artist/08rl4ZXJxHMQoc9UpvgsNw) | [Scott & Leon \- You Used to Hold Me \-EP](https://open.spotify.com/album/6MxISa3lEe2NTw4jlceiPA) | 5:26 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 72 | [Love Bug \- Original Bump Mix](https://open.spotify.com/track/1cIT3qEj3gNy0NDP5YgNc1) | [Ramsey & Fen](https://open.spotify.com/artist/5rBBAjkUV1bF89nr9AGpEu), [Lynsey Moore](https://open.spotify.com/artist/31RLNDGi0or2K3mJDBlfjV) | [Love Bug \(Original Bump Mix\)](https://open.spotify.com/album/5GOGt6fpFc39ZhEdq3rdU0) | 5:57 |
 | 73 | [Cheque One\-Two](https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:03 |
 | 74 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
-| 75 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
+| 75 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
 
-Snapshot ID: `MCxjNmM3MGUxMTM2ODEyZGUxYjkxMmM0NDBhODcxY2MzYjE4ZmI2MTJm`
+Snapshot ID: `MCwwNzJlYzc0ZTM1MTBiNzllNzY5ZTVmYTRmNTM3ZWMxOGYxMjk5YmFi`

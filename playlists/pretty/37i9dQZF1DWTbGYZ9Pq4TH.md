@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,369 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,303 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 26 | [Questa nostra stupida canzone d'amore](https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [LOVE](https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN) | 4:09 |
 | 27 | [È sempre bello](https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:23 |
 | 28 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
-| 29 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
-| 30 | [Il bacio di Klimt](https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sindrome di Stendhal](https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca) | 2:57 |
+| 29 | [Il bacio di Klimt](https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sindrome di Stendhal](https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca) | 2:57 |
+| 30 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
 | 31 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 |
 | 32 | [MADAME \- L'anima](https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:41 |
 | 33 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 41 | [Una canzone che non so](https://open.spotify.com/track/5ZJ8NqYFgILvAba4GepqH3) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Post Punk](https://open.spotify.com/album/4Hbba5d72PryD3I9jQxDcR) | 3:05 |
 | 42 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
 | 43 | [Un'emozione per sempre](https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 3:56 |
-| 44 | [Sere nere](https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 4:24 |
+| 44 | [Ti scatterò una foto](https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Nessuno è solo](https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi) | 4:32 |
 | 45 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 |
 | 46 | [Meraviglioso \- Live](https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [San Siro Live \(Deluxe Edition\)](https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa) | 4:03 |
 | 47 | [Anche Fragile](https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 49 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 | 50 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 |
 
-Snapshot ID: `MCw2MTU4NDg4ZTc4YjdlOTM1MjVmMTYwOGIyMzUzN2ZiM2ZiNmEzODQx`
+Snapshot ID: `MCw3NGVkNzA4MGM4YzFhYjJhOWE2ZjlkMWQxOTMwZTdkNTlkYjlhYTY1`

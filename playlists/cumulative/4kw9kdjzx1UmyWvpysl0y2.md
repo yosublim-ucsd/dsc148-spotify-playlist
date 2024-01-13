@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-634 songs - 1 day 12 hr 45 min
+635 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Heal](https://open.spotify.com/track/2nGEfupnQbdQyxFjHrx0SM) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Heal](https://open.spotify.com/album/2ZFsWsRhG8XFk4Srgq5qI1) | 4:14 | 2023-08-28 | 2023-12-14 |
 | [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 | 2022-11-03 |
 | [HEAT](https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [HEAT](https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR) | 3:15 | 2023-07-06 | 2023-12-14 |
+| [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 | 2024-01-12 |  |
 | [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 | 2022-10-25 |
 | [Hero](https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Hero](https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP) | 3:18 | 2023-06-29 | 2023-09-26 |
 | [Hexed Opera](https://open.spotify.com/track/2nLIjKSv9zudWVd2EKAd01) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Hexed Opera](https://open.spotify.com/album/4ObAFSjROlclG1vSyQXPi7) | 3:16 | 2023-11-22 |  |

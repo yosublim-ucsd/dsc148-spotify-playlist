@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 1133816,
+  "2024-01-13": 1133082,
   "date_first_scraped": "2021-12-21",
   "description": "Soft and cozy acoustic covers of famous songs.",
   "name": "Chill Acoustic Covers",
@@ -2141,7 +2141,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 206294,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA"
@@ -3615,7 +3615,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 189673,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
@@ -5857,7 +5857,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 129991,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy"
@@ -7379,7 +7379,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 152854,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"

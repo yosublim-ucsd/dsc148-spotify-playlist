@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,667 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,574 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 41 | [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 |
 | 42 | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/track/35WYZ6YW1I3jRomO9fuhEa) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/album/749GleHYU2wv0BNApkzE66) | 2:53 |
 | 43 | [Hit Bout It](https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Bout It](https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0) | 2:57 |
-| 44 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 |
-| 45 | [Pills & Automobiles \(feat\. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black\)](https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:53 |
+| 44 | [Pills & Automobiles \(feat\. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black\)](https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:53 |
+| 45 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 |
 | 46 | [No More \(feat\. Travis Scott, Kodak Black & 21 Savage\)](https://open.spotify.com/track/42k9e2hgl98IdgkXLg4pxs) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 |
 | 47 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 |
 | 48 | [Purp](https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 4:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 50 | [Sufro](https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:36 |
 | 51 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBiNWZiNDQ0ZWI3ZjVjNjQxZWQ2Y2E5MzdjMWZhMTAxYg==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBjODRkMzQxMzAyOGE2NmNhMDBmYzBiMWM5NDkxNGI0OA==`

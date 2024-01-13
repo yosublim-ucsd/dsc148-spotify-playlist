@@ -1,12 +1,12 @@
 {
   "description": "La sensibilidad a flor de piel.",
-  "num_followers": 64822,
+  "num_followers": 64847,
   "original_name": "C\u00e1ncer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWI2NmYwY2Q3YjI5ZWEwYzJmMWRjOTVkNjkzYjI2YTY1N2ZkMmM0",
+  "snapshot_id": "MCwzODAzZTdhNmQ4MjUzYWIwNmI5MzBmOTc2NGYwY2Q4YWRmMWIwNGNh",
   "tracks": [
     {
       "added_at": "2021-06-18 00:37:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-06-18 00:37:00",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2021-06-18 00:37:00",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 171573,
       "name": "needy",
       "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
+    },
+    {
+      "added_at": "2021-06-18 00:37:00",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2021-06-18 00:37:00",

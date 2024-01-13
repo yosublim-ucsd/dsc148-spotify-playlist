@@ -2,7 +2,7 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka?si=BrZ\_qy7VTQqtW6k5J6oDQQ">QUE DJ</a>
+> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom?si=IzDcDqJSQz\-G5cFoehBhNQ">Griffit Vigo</a>
 
 164 songs - 14 hr 45 min
 

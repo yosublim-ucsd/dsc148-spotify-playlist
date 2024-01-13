@@ -1,12 +1,12 @@
 {
   "description": "Para iniciar la fiesta. \u00a1Salud!",
-  "num_followers": 16975,
+  "num_followers": 16981,
   "original_name": "Toneras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmFkNDc3ODUyY2Q5YWRkMTNhYTcxODg3Yjg4YmFkYjVlMGZiMTlh",
+  "snapshot_id": "MCxiOTNkZWFiNDY2OGFmNGJhZGRjNWZhZmIxNjk5MmEwZTZjMjdmNzE2",
   "tracks": [
     {
       "added_at": "2021-12-14 16:04:58",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Sobrio",
         "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 201180,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 248345,
       "name": "Parce (feat. Justin Quiles)",
       "url": "https://open.spotify.com/track/4RJz8NfIe09gpKMiRUWKhJ"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 189399,
-      "name": "Prayer in C - Robin Schulz Radio Edit",
-      "url": "https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 189399,
+      "name": "Prayer in C - Robin Schulz Radio Edit",
+      "url": "https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8"
     },
     {
       "added_at": "2021-12-14 16:04:58",

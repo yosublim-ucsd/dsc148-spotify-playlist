@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Douwe Bob
 
-335 songs - 19 hr 30 min
+336 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,12 +248,13 @@
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-05 |  |
 | [She Makes a Dead Man Dance \- Single Version](https://open.spotify.com/track/0k4JL7IS87u75PtSrc4u8H) | [Blanko](https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux) | [She Makes a Dead Man Dance](https://open.spotify.com/album/0XZTUvlBkeAjHpRiboMM0y) | 2:54 | 2024-01-04 |  |
 | [Simple Step](https://open.spotify.com/track/2D3UoXaFRyCP9trM5LtWQ5) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:45 | 2023-02-23 | 2023-05-10 |
-| [Since You’ve Been Gone](https://open.spotify.com/track/2qSre9JelYw09vYxjXanrF) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Since You’ve Been Gone](https://open.spotify.com/album/0QuL1PDgFIS8vUUS5zQ6Yz) | 3:10 | 2023-07-27 |  |
+| [Since You’ve Been Gone](https://open.spotify.com/track/2qSre9JelYw09vYxjXanrF) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Since You’ve Been Gone](https://open.spotify.com/album/0QuL1PDgFIS8vUUS5zQ6Yz) | 3:10 | 2023-07-27 | 2024-01-13 |
 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 | 2023-03-09 | 2023-08-25 |
 | [Sleep When I'm With You](https://open.spotify.com/track/3Va9eANCm7FrpByrRLkQvk) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Sleep When I'm With You](https://open.spotify.com/album/5GjwbyGJ0KlBoOR3uUt8Co) | 2:59 | 2023-08-24 |  |
 | [So It Goes](https://open.spotify.com/track/67rg1GtrwUAQe8ish0bQxI) | [JOHAN](https://open.spotify.com/artist/0RBuJpjFEGVDZ7CWq3UcdQ) | [So It Goes](https://open.spotify.com/album/5WZfvSI6OWzpeRaI2QXCOJ) | 2:50 | 2023-11-07 |  |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-15 | 2024-01-05 |
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2023-09-21 |  |
+| [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 | 2024-01-12 |  |
 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2023-02-23 | 2023-03-11 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-23 | 2023-07-21 |
 | [Speed Of Light](https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u) | 3:07 | 2024-01-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 81st Golden Globe Awards. Watch Jan 7, 2024 on CBS and Paramount+.",
-  "num_followers": 5907,
+  "num_followers": 5906,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDFiM2YzYzJiNGM2N2E5NmNiOGNjZjgxMTNlMjBmZDRlOTMyYjI1",
+  "snapshot_id": "MCw1ZWIzYzE2NzVjMmU4ZDQxNzQ2NmYxMjc5MWIzMjJjYzEzYzc3NGRm",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
+        "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
+        "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "Toxic (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
         "name": "BEEF: The Bonus Tracks",
         "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 83679,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
-        "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
-      },
-      "artists": [
-        {
-          "name": "Jeff Russo",
-          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "Toxic (feat. Lisa Hannigan)",
-      "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
     },
     {
       "added_at": "2023-12-19 16:37:32",

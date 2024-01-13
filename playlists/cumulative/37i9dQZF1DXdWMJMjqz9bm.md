@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: Connor Price & Nic D
+> A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-601 songs - 1 day 3 hr 30 min
+602 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [HANDSOMER](https://open.spotify.com/track/4v1TTTCadimzZkTuDTnYBc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [HANDSOMER](https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI) | 2:23 | 2022-02-04 | 2022-04-09 |
 | [HANDSOMER \(Remix\) \(Feat\. Ktlyn\)](https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HANDSOMER \(Remix\) \(Feat\. Ktlyn\)](https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS) | 2:23 | 2022-04-08 | 2023-07-15 |
 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 | 2023-05-26 |  |
+| [hard enough to stay alive](https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:33 | 2024-01-12 |  |
 | [harvey dent](https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [harvey dent](https://open.spotify.com/album/3eYDrexE20vyIhz4kPlATc) | 2:31 | 2023-05-05 |  |
 | [HATED US](https://open.spotify.com/track/07mp614wVP17UQqEJ4577F) | [Kyaru](https://open.spotify.com/artist/1V7RdASCLJSbBzeum0fLkQ), [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv) | [HATED US](https://open.spotify.com/album/1dwxT4qdc4nvgcGTjWHP60) | 2:46 | 2023-07-14 |  |
 | [Hazel Eyes](https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Hazel Eyes](https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2) | 2:18 | 2023-02-17 |  |
@@ -404,7 +405,7 @@
 | [Over Love](https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ) | [Jay Kayze](https://open.spotify.com/artist/4QRKefL0nuGK0Wwou56ltj) | [Over Love](https://open.spotify.com/album/5lQ2Vn4iAM2NbNaaQW8AIU) | 1:22 | 2023-04-07 | 2023-06-17 |
 | [Overload](https://open.spotify.com/track/7whMMKkkkjeUccbHbxBWgq) | [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Overload](https://open.spotify.com/album/1a7uRpQ7lL4Bj1U0jtmzn0) | 2:53 | 2021-11-16 | 2022-02-26 |
 | [Overnight](https://open.spotify.com/track/5AxhA8xrGrHFqUjIVbrDk0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Overnight](https://open.spotify.com/album/3qGZswU9EIOUzL9nRaONit) | 2:10 | 2023-12-01 |  |
-| [parachute](https://open.spotify.com/track/0mgAY5KtzQbG8BOIo8Kag4) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [parachute](https://open.spotify.com/album/07KH3Fjsp0soupFKOhd025) | 2:55 | 2023-12-01 |  |
+| [parachute](https://open.spotify.com/track/0mgAY5KtzQbG8BOIo8Kag4) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [parachute](https://open.spotify.com/album/07KH3Fjsp0soupFKOhd025) | 2:55 | 2023-12-01 | 2024-01-13 |
 | [PAY ATTENTION](https://open.spotify.com/track/7h74fcrF3X8tHrATyM4Wx3) | [Luken](https://open.spotify.com/artist/5My5zbBpSGJBOQGyCaAVCE) | [PAY ATTENTION](https://open.spotify.com/album/3Jt0ysuRqkGLqZ94NUv9iO) | 2:07 | 2022-08-05 | 2022-10-15 |
 | [PDA](https://open.spotify.com/track/36NqiAgn72InTKB3TRPbhB) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [PDA](https://open.spotify.com/album/1euweddL5gMCa2war37gph) | 2:23 | 2023-07-14 |  |
 | [Peanut Butter Cherry](https://open.spotify.com/track/76QHEenc8e1T3vydKzdg46) | [Alec King](https://open.spotify.com/artist/1WcUEKDht7lhgklZZJrzNg) | [Peanut Butter Cherry](https://open.spotify.com/album/1FYRShkevWA1VVx5b0ipjF) | 2:56 | 2022-05-20 | 2022-07-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4843817,
+  "num_followers": 4839438,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTg3MTlhNTk5ODA0YzI4NDI3M2I4ZGU5YjA1YjUwZGYzZjdhYzky",
+  "snapshot_id": "MCxiNzBlYzlhMzUyYjNiMDRkMDI5ZWFlMjljZjFhNjAxMWZhMTExODM4",
   "tracks": [
     {
       "added_at": "2023-12-08 05:22:46",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-12-08 05:22:46",
       "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2023-12-08 05:22:46",
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
-    },
-    {
-      "added_at": "2023-12-08 05:22:46",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2023-12-08 05:22:46",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-08 05:22:46",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 187703,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
-    },
-    {
-      "added_at": "2023-12-08 05:22:46",
-      "album": {
         "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
         "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 174800,
       "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+    },
+    {
+      "added_at": "2023-12-08 05:22:46",
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
     },
     {
       "added_at": "2023-12-08 05:22:46",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-12-08 05:22:46",
       "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
-    },
-    {
-      "added_at": "2023-12-08 05:22:46",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
+    },
+    {
+      "added_at": "2023-12-08 05:22:46",
+      "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2023-12-08 05:22:46",

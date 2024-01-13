@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126908,
+  "num_followers": 126817,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUxMiw2NjMyZTFhOTNkMTRlMmFjMGYwODUzM2M1NmI1M2ZjZDU2N2ZhM2Zm",
+  "snapshot_id": "NDUxMyxlNDRiNTg4OThjZDFhMmRiZTI4ZDQ0NWRhMDI1MGY1ZTYwZDc5YTY0",
   "tracks": [
+    {
+      "added_at": "2024-01-12 17:56:11",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+    },
     {
       "added_at": "2024-01-11 18:01:02",
       "album": {

@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Bad Knees",
+        "url": "https://open.spotify.com/album/7CSCH5kpTJKTrNkcSA2epI"
+      },
+      "artists": [
+        {
+          "name": "Ghost-Note",
+          "url": "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281493,
+      "name": "Bad Knees",
+      "url": "https://open.spotify.com/track/3byYyAtjehzL826iWO61Qx"
+    },
+    {
+      "album": {
         "name": "Punk Funk",
         "url": "https://open.spotify.com/album/6YoyiensRcFI8eC9ryDPJE"
       },
@@ -1514,6 +1532,32 @@
       "duration_ms": 270085,
       "name": "Deadlines",
       "url": "https://open.spotify.com/track/0JRsF8dhA1REeU30rW9mKL"
+    },
+    {
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3r4E4SkeQM6IlQWPd1X9C3"
+      },
+      "artists": [
+        {
+          "name": "BrhyM",
+          "url": "https://open.spotify.com/artist/3nPNUch0UScZ9OnAOhwUv3"
+        },
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        },
+        {
+          "name": "yMusic",
+          "url": "https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202092,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/01WASYPxeJGNUXwBqVKzaJ"
     },
     {
       "album": {
@@ -4594,7 +4638,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 393973,
       "name": "Partido Alto",
       "url": "https://open.spotify.com/track/0yWjwwFnycb86QbTsDWw33"
@@ -4616,6 +4660,32 @@
       "duration_ms": 371706,
       "name": "Path to Macondo / Those Kind of Blues",
       "url": "https://open.spotify.com/track/2PXbe0cm5zAfdy6bUHACUe"
+    },
+    {
+      "album": {
+        "name": "People Please",
+        "url": "https://open.spotify.com/album/7qyY6HIieONQ26AHPFnyaf"
+      },
+      "artists": [
+        {
+          "name": "Sam Fribush",
+          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Calvin Napper",
+          "url": "https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "People Please",
+      "url": "https://open.spotify.com/track/533Q9dVmAyJBDwiOFTCv36"
     },
     {
       "album": {
@@ -6313,6 +6383,24 @@
     },
     {
       "album": {
+        "name": "Swimming in the Sky",
+        "url": "https://open.spotify.com/album/5E1rqqb3M4LxkHBGxPB3VQ"
+      },
+      "artists": [
+        {
+          "name": "Kinga Glyk",
+          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294771,
+      "name": "Swimming in the Sky",
+      "url": "https://open.spotify.com/track/6rIdd2UpgitHNdHMLtpkxU"
+    },
+    {
+      "album": {
         "name": "Swing Praxis (Kaidi Tatham Remix)",
         "url": "https://open.spotify.com/album/1yrVoalR2Bk3DSYKJb5gwl"
       },
@@ -7950,7 +8038,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221753,
       "name": "Who Cares",
       "url": "https://open.spotify.com/track/74nxTZmwEUNKMdHQ7GPgsi"

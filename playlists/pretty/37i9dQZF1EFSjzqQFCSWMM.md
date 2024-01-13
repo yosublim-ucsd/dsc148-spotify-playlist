@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 2 | [Xion](https://open.spotify.com/track/5BXGLYOc7VY1YZsrLYDOxZ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 2:14 |
 | 3 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 |
 | 4 | [Numeri](https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 3](https://open.spotify.com/album/0XjprOLOCfbY7TWnviw4ft) | 2:12 |
-| 5 | [Flashback](https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:37 |
+| 5 | [Flashback](https://open.spotify.com/track/3M6uWThUeXWV1HCYnBz4wI) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Flashback](https://open.spotify.com/album/5l6Vbwho1oOexmkQ5GnBKu) | 4:03 |
 | 6 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
 | 7 | [He Say She Say](https://open.spotify.com/track/7uJHdZPYExYDB6c23qjSrL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say \(Official Video\)](https://open.spotify.com/album/7o8mAtcvmvKJwEpZVXJRrB) | 2:26 |
 | 8 | [DWAY!](https://open.spotify.com/track/0IbaAAp2pL2QMCshGQlvTe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:25 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 85 | [Summer Chick](https://open.spotify.com/track/0RMMiZnHet7g8drfUVuP7x) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:10 |
 | 86 | [DOSE III](https://open.spotify.com/track/369OKBPgqke4N3o1ygfmU0) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:53 |
 | 87 | [Mandown](https://open.spotify.com/track/1FUs8JnPJnZyDiRHNNzaQ3) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:12 |
-| 88 | [BK BABY](https://open.spotify.com/track/4wPbpGQP6HWNDUOEh21NYs) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:44 |
-| 89 | [Like I'm Missy](https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Like I'm Missy](https://open.spotify.com/album/2no35ZrZcU7BXNFnJ0Yk4k) | 2:38 |
+| 88 | [Like I'm Missy](https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Like I'm Missy](https://open.spotify.com/album/2no35ZrZcU7BXNFnJ0Yk4k) | 2:38 |
+| 89 | [BK BABY](https://open.spotify.com/track/4wPbpGQP6HWNDUOEh21NYs) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:44 |
 | 90 | [Banners](https://open.spotify.com/track/32SwE9JslVd5xw8Fc57KUB) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Banners](https://open.spotify.com/album/1KKETMOEhJSf8M5A8btvYN) | 3:44 |
 | 91 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 92 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `Mjg0MTcwODAsMDAwMDAwMDA1OWY5ZjRiN2YxMGI2ODMzMGEyYmY3MTBmNTEzMWM1ZQ==`
+Snapshot ID: `Mjg0MTg1MjAsMDAwMDAwMDAwZjU1ZjUyMTBiYWJhM2QyMTVmZDg1YzkwYjYwZGM4MQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3628531,
+  "num_followers": 3625327,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjQ4NTNlNTc1YjJmZTk0YTZlNjBmZjE1N2UzZmJmYjFkYjMyNTlk",
+  "snapshot_id": "MCxjMDMwNjVlMjJmNzBiNTE2YzdhZWY0YmM3ZmY0YzU1Mjk4YjMwMDQ0",
   "tracks": [
     {
       "added_at": "2021-10-19 21:36:21",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
     },
     {
+      "added_at": "2023-08-03 17:52:54",
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 166890,
+      "name": "911",
+      "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
+    },
+    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "The Man Who Invented Soul",
@@ -763,22 +779,6 @@
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
-    },
-    {
-      "added_at": "2023-08-03 17:52:54",
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 166890,
-      "name": "911",
-      "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
-        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 419640,
-      "name": "Papa Was A Rollin' Stone - Single Version",
-      "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
         "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 419640,
+      "name": "Papa Was A Rollin' Stone - Single Version",
+      "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+        "name": "The Story Of Cornelius Brothers & Sister Rose",
+        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "Cornelius Brothers & Sister Rose",
+          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
         }
       ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+      "duration_ms": 198693,
+      "name": "Too Late To Turn Back Now",
+      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1563,22 +1579,6 @@
       "duration_ms": 233613,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Story Of Cornelius Brothers & Sister Rose",
-        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
-      },
-      "artists": [
-        {
-          "name": "Cornelius Brothers & Sister Rose",
-          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Too Late To Turn Back Now",
-      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 384613,
-      "name": "The Love I Lost (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 179226,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 384613,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2107,38 +2107,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Soul Manifesto: 1964-1970",
-        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "100 Days, 100 Nights",
-        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "100 Days, 100 Nights",
-      "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
       },
@@ -2171,22 +2139,34 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+        "name": "Soul Manifesto: 1964-1970",
+        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "100 Days, 100 Nights",
+        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "100 Days, 100 Nights",
+      "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2203,6 +2183,26 @@
       "duration_ms": 172186,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Cymande",
+        "url": "https://open.spotify.com/album/3LNGh5hT6VWrM9On6WfqKv"
+      },
+      "artists": [
+        {
+          "name": "Cymande",
+          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
+        }
+      ],
+      "duration_ms": 306360,
+      "name": "Bra",
+      "url": "https://open.spotify.com/track/6tkSDxoNHMQ6eoeJGB2Q22"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Victim of Love",
         "url": "https://open.spotify.com/album/6YAwLAs71WJtwUp7LEdWIk"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 222370,
       "name": "Strictly Reserved for You",
       "url": "https://open.spotify.com/track/0QM3kYculSR2QjtXnysN1Z"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Cymande",
-        "url": "https://open.spotify.com/album/3LNGh5hT6VWrM9On6WfqKv"
-      },
-      "artists": [
-        {
-          "name": "Cymande",
-          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
-        }
-      ],
-      "duration_ms": 306360,
-      "name": "Bra",
-      "url": "https://open.spotify.com/track/6tkSDxoNHMQ6eoeJGB2Q22"
     },
     {
       "added_at": "2021-10-19 21:36:21",

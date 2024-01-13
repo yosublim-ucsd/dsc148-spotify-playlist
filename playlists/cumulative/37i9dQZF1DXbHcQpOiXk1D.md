@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Blue Lab Beats
+> The best from Britain's vibrant scene\. Cover: Sophie Faith
 
-512 songs - 1 day 12 hr 37 min
+513 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [So Cool](https://open.spotify.com/track/25xfVwwykey7PVnsNRutbq) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [So Cool](https://open.spotify.com/album/4IbciRuHRVvhJRXqxhzZiX) | 2:10 | 2021-12-17 | 2022-07-08 |
 | [So Mi Stay](https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [So Mi Stay](https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n) | 4:20 | 2023-11-24 |  |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-07-28 | 2022-10-02 |
-| [Something I Said](https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R) | 3:16 | 2022-10-14 |  |
+| [Something I Said](https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R) | 3:16 | 2022-10-14 | 2024-01-13 |
 | [Something's Going On](https://open.spotify.com/track/3bRqljHPbtPEDaM2bL1JML) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Something's Going On](https://open.spotify.com/album/6KYX5imbTj5YxXqhwa9WSl) | 5:12 | 2022-02-11 | 2022-07-29 |
 | [Somewhere in the Middle](https://open.spotify.com/track/3e3HjNdGVHvD7wkdkikq1O) | [NIJI](https://open.spotify.com/artist/2Bjdx6wbbv4Ctfk01QmaIz) | [Somewhere in the Middle](https://open.spotify.com/album/7lmGdKqu3kEfpXoGNeLtL9) | 3:04 | 2023-11-10 | 2023-11-21 |
 | [Soul Makosa](https://open.spotify.com/track/42N0Pb6xLVbqgDpOVRHCVo) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [NK\-OK](https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Namali Kwaten](https://open.spotify.com/artist/2UKA85MNZtvTEEG7YneQLq), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [The Sounds of Afrotronica](https://open.spotify.com/album/0NP9PKuMhqFWiVl6fpZlKI) | 3:48 | 2021-12-17 | 2022-07-29 |
@@ -407,6 +407,7 @@
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/5cIOqCyQzGw9Im60Q7RlWS) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb) | 4:50 | 2022-06-10 | 2023-02-03 |
 | [Spooki](https://open.spotify.com/track/1OmRDsBv7CQaIjuPBLySHJ) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Ugh](https://open.spotify.com/album/0TpH80b4b3jpsZkfworv6M) | 5:09 | 2021-12-17 | 2022-01-28 |
 | [Spooki \- Ash Walker Dub](https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/0jVCHki8NXJ2nK22ZDGDhO) | 3:22 | 2023-05-18 | 2023-06-11 |
+| [State of Blue](https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F) | [Vincent Jäger](https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft) | [Freie Interpreten](https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu) | 3:49 | 2023-12-22 |  |
 | [Statue](https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Statue](https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF) | 3:24 | 2023-03-17 | 2023-10-12 |
 | [Stay](https://open.spotify.com/track/6fcF2gP7MOZjQMSOQ2BvTC) | [Gracie Convert](https://open.spotify.com/artist/0kiZpBpCvMEzvCdFVgsAZN) | [Stay](https://open.spotify.com/album/6hJ2D4rGjEoaghdOHnWD5k) | 2:52 | 2022-03-08 | 2022-04-21 |
 | [Stay Home](https://open.spotify.com/track/6R1R6czIpUXR6vhWWqfgC2) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Stay Home](https://open.spotify.com/album/0MGcACJPvZcVPqOwi97oXd) | 5:00 | 2022-01-07 | 2022-07-29 |

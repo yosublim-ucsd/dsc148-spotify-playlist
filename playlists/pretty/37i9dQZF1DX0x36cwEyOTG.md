@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,380 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,822 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 33 | [Take Care](https://open.spotify.com/track/6yuLaaspVG8j2pnjAZ05Oe) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Keep a Private Room Behind the Shop](https://open.spotify.com/album/4B0iYxYJ5gzIs1plMk0E3X) | 1:54 |
 | 34 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
 | 35 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 |
-| 36 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
-| 37 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
+| 36 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
+| 37 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 | 38 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
 | 39 | [Through The Dark](https://open.spotify.com/track/2Tax7fSPDly9OLIAZRd0Dp) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Towards The Sun](https://open.spotify.com/album/0C8nB6bCch6qbzcYXBnsaJ) | 5:30 |
 | 40 | [Michael](https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 49 | [To Believe](https://open.spotify.com/track/487wXZ3WOARGcLBJpvdmtg) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [To Believe](https://open.spotify.com/album/7Jm76j0kKzyy2GLExHlVQO) | 5:27 |
 | 50 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
 
-Snapshot ID: `MCw0OGExYjVhY2FjMzFjMDRkZTMwZTUwNmNmMDA2YTZiZjI3NDRjMDQ2`
+Snapshot ID: `MCwzZDI3OGQ0NWU0YWU2NjczYzM0NDI5YTZmNTc5MTliZjRkNDU0NWZl`

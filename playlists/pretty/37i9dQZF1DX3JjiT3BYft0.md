@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,615 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,648 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 54 | [チョコレイトの低音レシピ](https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング　牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 4:31 |
 | 55 | [Glee! Glee! Glee!](https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:31 |
 | 56 | [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 |
-| 57 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
+| 57 | [STAR BEAT!～ホシノコドウ～ \- Acoustic Ver.](https://open.spotify.com/track/03l8t2nRF2QOQWBBlTMFEZ) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 5:26 |
 | 58 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 |
-| 59 | [STAR BEAT!～ホシノコドウ～ \- Acoustic Ver.](https://open.spotify.com/track/03l8t2nRF2QOQWBBlTMFEZ) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 5:26 |
-| 60 | [夏空 Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない！」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 4:59 |
+| 59 | [夏空 Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない！」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 4:59 |
+| 60 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 61 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 3:53 |
 | 62 | [Yes! BanG Dream! \- Acoustic Ver.](https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング　牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 5:10 |
 | 63 | [Sacred world](https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred World](https://open.spotify.com/album/2GVUuRKJ4Xv5SBDOgaB3jJ) | 5:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [Sing Alive](https://open.spotify.com/track/59TG3QLUt4mvnPKY07H5la) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 5:15 |
 | 75 | [Neo\-Aspect](https://open.spotify.com/track/5cgXMOSZLF9lfbG7nrxF25) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 5:07 |
 
-Snapshot ID: `MCwxNGU0ODM5YzY0NDAxNGZlNWYxODc4YWMzMWFiNzRlMjU4NDM4MDY3`
+Snapshot ID: `MCwwZjI2ZWNlZTFiZDU1YmM5NzEyZGYzODhlNzFkNDE4MzNiY2ZiN2Ex`

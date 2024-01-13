@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 914772,
+  "2024-01-13": 913863,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Netherlands.",
   "name": "Top 50 - Netherlands",
@@ -10000,6 +10000,28 @@
     },
     {
       "album": {
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "album": {
         "name": "Head Held High",
         "url": "https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre"
       },
@@ -17297,7 +17319,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 214383,
       "name": "Noodgeval",
       "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"

@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits, featuring our 2024 Artists to Watch: Cover: Dylan Gossett
+> Today's top country hits\. Cover: Parker McCollum
 
-719 songs - 1 day 14 hr 48 min
+720 songs - 1 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 | 2023-06-16 | 2023-12-02 |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2021-07-04 | 2022-02-05 |
 | [Buy My Own Drinks](https://open.spotify.com/track/7IVTmZGRp264dILwTNXzjG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Buy My Own Drinks](https://open.spotify.com/album/7nReEz8YlDZEyH5Gi9UNDZ) | 3:26 | 2019-06-05 | 2019-11-09 |
-| [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 | 2023-08-25 |  |
+| [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 | 2023-08-25 | 2024-01-13 |
 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 | 2022-02-11 | 2022-06-04 |
 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx) | 3:03 | 2022-03-25 | 2022-11-05 |
 | [Can’t Hide Red](https://open.spotify.com/track/2h8szyWmfavIbiWm0KWpB0) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:01 | 2019-05-26\* | 2019-08-13 |
@@ -723,6 +723,7 @@
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2020-11-13 | 2021-08-07 |
 | [You Time](https://open.spotify.com/track/0pJalGEYsRikSogLkXU6KV) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [You Time](https://open.spotify.com/album/3v5EfqlUMolY1RR5GNnMYx) | 3:12 | 2021-08-14 | 2021-10-02 |
 | [You, Me, And Whiskey](https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey](https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ) | 3:07 | 2023-03-24 | 2023-08-26 |
+| [Young Love & Saturday Nights](https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Young Love & Saturday Nights](https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu) | 3:15 | 2024-01-12 |  |
 | [Younger Me](https://open.spotify.com/track/5vyONuW3HK0kJQBkrSp25B) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Younger Me](https://open.spotify.com/album/1LQ7jQS8wOaIDcHqjcDet2) | 3:26 | 2021-11-13 | 2022-02-05 |
 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 | 2022-11-25 | 2023-07-29 |
 | [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 | 2023-12-01 |  |

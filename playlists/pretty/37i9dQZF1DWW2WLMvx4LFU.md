@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2WLMvx4LFU.md) - [plain]
 
 > La nostalgia ochentera traída a la actualidad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,642 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,644 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2WLMvx4LFU.md) - [plain]
 | 20 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
 | 21 | [Journal of Ardency](https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG) | 3:45 |
 | 22 | [Dancer on the Water](https://open.spotify.com/track/1zj7a56lPwPBEKDEuf5ctM) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Dancer on the Water](https://open.spotify.com/album/1Ua63eivv3H5n0K3TjcZsY) | 3:52 |
-| 23 | [Give Me a Reason](https://open.spotify.com/track/0c8QvbwhtQ9MGToNFua5eQ) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Give Me a Reason](https://open.spotify.com/album/1IzvcKEEFpfQQ5TWUwGAvK) | 4:25 |
+| 23 | [Give Me a Reason](https://open.spotify.com/track/4nTEiPwyWb4TrFewWkmys4) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 4:25 |
 | 24 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 |
 | 25 | [Tampa](https://open.spotify.com/track/4GBPA0uFKv7TSZN5EPzK6D) | [Small Black](https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds) | [Cheap Dreams](https://open.spotify.com/album/3K6lJ4qaAuy3MgN7bsvMVg) | 5:14 |
 | 26 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2WLMvx4LFU.md) - [plain]
 | 59 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
 | 60 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 |
 
-Snapshot ID: `MCw4OTY0ZTQ0ZDU3ZjNiNTkwNTNmNTBkNWU4ZDA4YzM2NGQ1NzczYWI1`
+Snapshot ID: `MCw5ODkzMDlmMTNjNTdjYjIxYWM0YWM5ZjljNzRkMWVhNDZhZmM0ZDQy`

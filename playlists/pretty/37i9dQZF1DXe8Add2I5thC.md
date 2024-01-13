@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 
 > the golden era of the 𝚒𝚗𝚝𝚎𝚛𝚗𝚎𝚝
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,056 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,085 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,20 +62,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 | 52 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
 | 53 | [West Coast](https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 3:30 |
 | 54 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
-| 55 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
-| 56 | [Soundtrack 2 My Life](https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 3:55 |
+| 55 | [Soundtrack 2 My Life](https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 3:55 |
+| 56 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
 | 57 | [Goodbye \(feat\. Lyse\) \- Radio Edit](https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [Lyse](https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM) | [Goodbye \(feat\. Lyse\) \[Radio Edit\]](https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4) | 3:21 |
 | 58 | [The Suburbs](https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:15 |
 | 59 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
 | 60 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
-| 61 | [Solitude Is Bliss](https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:55 |
-| 62 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
-| 63 | [Corinne](https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 3:16 |
-| 64 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
+| 61 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
+| 62 | [Solitude Is Bliss](https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:55 |
+| 63 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
+| 64 | [Corinne](https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 3:16 |
 | 65 | [Girls](https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
-| 66 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 |
+| 66 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
 | 67 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
-| 68 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
+| 68 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 |
 | 69 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 |
 | 70 | [Wildfire](https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:21 |
 | 71 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 | 80 | [Apply Some Pressure](https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [A Certain Trigger](https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop) | 3:20 |
 | 81 | [Psychic City \- Classixx Remix](https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [See Mystery Lights: Remixes & B\-Sides](https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb) | 4:11 |
 | 82 | [Fences](https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:44 |
-| 83 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 |
-| 84 | [Nighttiming](https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 2:48 |
+| 83 | [Nighttiming](https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 2:48 |
+| 84 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 |
 | 85 | [Lights & Music](https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours \(UK Version Delux\)](https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS) | 4:39 |
 | 86 | [One Time](https://open.spotify.com/track/1Z4UKak2eNteHFZkwiYPNz) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [Sway](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu) | 3:37 |
 | 87 | [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 | 99 | [Amsterdam](https://open.spotify.com/track/4xj5OL6pyQTOsDRewbO5zv) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:37 |
 | 100 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
 
-Snapshot ID: `MCxmM2U4MWJmN2MzYTc2YWFmMTNjMDNiNzhlOGU4OWFmZmI0YzA2NWY3`
+Snapshot ID: `MCw4OTIwY2Q3ZDM3YjI2NGJhNWE3OGU4NmRiOWY4ZWUxMDU2YjA5NmQx`

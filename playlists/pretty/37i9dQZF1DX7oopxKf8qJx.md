@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,923 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,998 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 69 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 70 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:23 |
 
-Snapshot ID: `MCxmOTdjODA4MWEzYzM3MTMzZmU1OTY3YzlhMjgxNjIwNTg1MzNhYzBl`
+Snapshot ID: `MCxiNmFjM2ZlODBmZjA2MThhYjM5Zjk2YjM5MGI4NmFiMjhkOWM1YjY1`

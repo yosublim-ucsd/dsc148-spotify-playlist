@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 297278,
+  "num_followers": 297642,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjg2ODBjMGZiNmQ1NWQ5NDQ3OTYyZDE1NDg3MjczMzkzZDYwZjRi",
+  "snapshot_id": "MCw0ZWU3MjMxYjIyOGM5NWFhZDc1OWE3MTQwNzY5NjczOTdlNmVlYmM1",
   "tracks": [
     {
       "added_at": "2023-03-10 23:34:06",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
+        "name": "'N Sync",
+        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Tearin' up My Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 277293,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
-        "name": "'N Sync",
-        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Tearin' up My Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Poison (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 261866,
       "name": "Poison",
       "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
+        "name": "All In The Mind",
+        "url": "https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU"
       },
       "artists": [
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "The Bucketheads",
+          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
         }
       ],
-      "duration_ms": 280466,
-      "name": "100% Pure Love",
-      "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
+      "duration_ms": 203826,
+      "name": "The Bomb! (These Sound Fall into My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9"
     }
   ],
   "unique_name": "90's Workout",

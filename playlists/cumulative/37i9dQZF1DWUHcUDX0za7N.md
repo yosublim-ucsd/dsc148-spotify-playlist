@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: <a href="https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1?si=o2drqVJlQ0SE51IoIHgDyA"> Vector </a> and <a href="https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM?si=l8i33k0OQ\-6W\_ouiHghr8Q"> Bella Shmurda</a>
 
-337 songs - 16 hr 5 min
+338 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [James Bond \(With Harley\)](https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [James Bond \(With Harley\)](https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg) | 2:41 | 2024-01-05 |  |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 |  |
 | [Joy](https://open.spotify.com/track/1YTNRddcxKyMheo9HkxBJU) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Joy](https://open.spotify.com/album/66o0wqPyjdeExQieFnNBK4) | 2:45 | 2023-12-01 |  |
+| [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 | 2024-01-12 |  |
 | [Keep it Kewt](https://open.spotify.com/track/7cNck7tTqRj8X1JEXEw9no) | [D\-Truce](https://open.spotify.com/artist/0hbjT5EweZ9GzgLl41IJM1) | [Smoke Break](https://open.spotify.com/album/2Q8lB4AzyFrrkg243kfkHn) | 1:46 | 2022-11-15 | 2022-11-25 |
 | [Kilode \(In Particular\)](https://open.spotify.com/track/0MCO9Iggfh5eB8N9lx0dvs) | [John Networq](https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E), [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [Kilode \(In Particular\)](https://open.spotify.com/album/5BlU5AuobL4wUpdlQUANCZ) | 3:29 | 2023-03-18 | 2023-03-25 |
 | [Korokoro](https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Korokoro](https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H) | 2:24 | 2023-04-14 | 2023-04-20 |

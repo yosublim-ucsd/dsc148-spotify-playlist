@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Zamdane
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,593 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,311 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [crescendo](https://open.spotify.com/track/0vzg1Trj75I00yTBRch0rr) | [yuo](https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [crescendo](https://open.spotify.com/album/1B7y1c3M9d5eg0mytTC8Wd) | 2:53 |
 | 40 | [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 |
 
-Snapshot ID: `MCxjOTE5ZjhjMjAxMGM4M2Q5MTg4NGRjMGY2ZjJmM2ZlZjJiNTJiOWFl`
+Snapshot ID: `MCw0NTQzMTA2YmQxMTQwM2MyNDkyNTI5YjJkMzM5NDJiYjI4ODdkMjQz`

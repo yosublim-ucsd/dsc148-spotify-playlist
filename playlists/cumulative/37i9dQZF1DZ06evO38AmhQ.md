@@ -4,7 +4,7 @@
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 36 min
+65 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Queensland Bungalow](https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:38 | 2023-06-17 |  |
 | [Raining on the Rock](https://open.spotify.com/track/4RZXrZvFHCZY8BOQG2JzAK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 4:31 | 2023-06-17 |  |
 | [Rip Rip Woodchip](https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:02 | 2023-06-17 |  |
-| [Sail the Nullarbor](https://open.spotify.com/track/1ly3rS7ZDDSh8Fmk59Utbq) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:18 | 2023-06-17 |  |
+| [Sail the Nullarbor](https://open.spotify.com/track/1ly3rS7ZDDSh8Fmk59Utbq) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:18 | 2023-06-17 | 2024-01-13 |
+| [Sail the Nullarbor](https://open.spotify.com/track/6f8fJZWKhNcWTU51MujI6f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Boomerang Café](https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G) | 3:18 | 2024-01-12 |  |
 | [Salisbury Street](https://open.spotify.com/track/78LUWt8uDvQZD0WjnEYuUF) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:35 | 2023-06-17 | 2023-08-26 |
 | [Shelter](https://open.spotify.com/track/4OGlxdoxuVUIrYVUY6x3vs) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 2:51 | 2023-06-17 |  |
 | [The Big Red](https://open.spotify.com/track/6eUiyTK9pXGpekx53Ag5w7) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Big Red](https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK) | 3:47 | 2023-12-13 |  |

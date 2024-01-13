@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,704 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,749 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 32 | [MORNING SUN](https://open.spotify.com/track/4BTc4b3BoVPoHKys65v8kQ) | [EXILE B HAPPY](https://open.spotify.com/artist/5Vjo1ziwxQtYiup9JGlN9A) | [MORNING SUN](https://open.spotify.com/album/7fii6VfmYoLZAPLvvArvgh) | 3:40 |
 | 33 | [Darlin’](https://open.spotify.com/track/7BHFfKeKQuY7XfYi2DjO9E) | [DEEP](https://open.spotify.com/artist/3uh7AvkWcUbrc7ZXR0MW4b) | [Darlin’](https://open.spotify.com/album/7s0tExsJ0h3OWFEqfrsZIT) | 3:31 |
 | 34 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 |
-| 35 | [Bon Voyage](https://open.spotify.com/track/6E2DnY89XkXIs3rFYyZF8k) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/7eZmGoLIs9KAN0BVDZ10TL) | 4:54 |
+| 35 | [Bon Voyage](https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN) | 4:54 |
 | 36 | [NEW KIDZ](https://open.spotify.com/track/2aMr20hmw6g8dbvNtzpbot) | [Ennui Boys Club](https://open.spotify.com/artist/0OPl3KW0woHv7jrxHIGkbG) | [VOL ONE](https://open.spotify.com/album/3c4NWHoiWcJLNBYJCnZKPB) | 3:37 |
 | 37 | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/track/7HPxx65QOWaKi2O5tXMImn) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/album/36of8h5UNm53gMLFAKWx8W) | 3:06 |
 | 38 | [Reason](https://open.spotify.com/track/7qqxXmYJxkWzDFyVisW5Cm) | [EXILE](https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme) | [Reason](https://open.spotify.com/album/3O9KOYys6M3UjMJzyV30ll) | 3:23 |
 | 39 | [PHOTOGENIC](https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [PHOTOGENIC](https://open.spotify.com/album/2K0VX8by8hTI9YEJZvsJpZ) | 3:42 |
 | 40 | [Next](https://open.spotify.com/track/69u9PoISpJxSfL2bMkmyWA) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [First Flight \(Special Edition\)](https://open.spotify.com/album/6bFZd12JlAzzSXGKJSmVcd) | 3:33 |
 | 41 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 |
-| 42 | [HIDEOUT](https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HIDEOUT](https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY) | 2:59 |
-| 43 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 |
-| 44 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
-| 45 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
-| 46 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 |
-| 47 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 |
-| 48 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 |
-| 49 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
+| 42 | [Clutch](https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/4ZRuszFQ1iBgRrgsOoMKmz) | 3:21 |
+| 43 | [HIDEOUT](https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HIDEOUT](https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY) | 2:59 |
+| 44 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 |
+| 45 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
+| 46 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
+| 47 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 |
+| 48 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
+| 49 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 |
 | 50 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 |
 
-Snapshot ID: `MCwyNjUzMjg3N2Y5OTdkNjljMGI5ZWJjYTU3OTZkZjk2ZWUwMjMyODA0`
+Snapshot ID: `MCw5YTY0OTgzYzk0ZDU2YmYyMDg3OTE4MTQ0ODMwMWYwNTFiYzYzZjA5`

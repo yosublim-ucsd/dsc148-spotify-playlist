@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 70236,
+  "num_followers": 70351,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmMwNjU0ZWUzZDVkMjFiZWNlNjViNGE2YjVhZjlhZDZmZTcwMGI5",
+  "snapshot_id": "MCxhOGJmYmQ3MTZmZmQ3NDVhNWQ0NjNkOTI1OTU1ZTBmMDlkZDBiOGRl",
   "tracks": [
     {
       "added_at": "2024-01-12 00:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "roadtrip",
-        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
-      },
-      "artists": [
-        {
-          "name": "Trixie Muff",
-          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "roadtrip",
-      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Seven Hundred Fourteen \u4e03\u767e\u5341\u56db",
         "url": "https://open.spotify.com/album/1NUA3c1HKGNj9Bl5uWh7x7"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 144473,
       "name": "Seven Hundred Fourteen \u4e03\u767e\u5341\u56db",
       "url": "https://open.spotify.com/track/12V1thgB2Hos7uSU4rOqro"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
+      },
+      "artists": [
+        {
+          "name": "Trixie Muff",
+          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Heroic",
-        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
+        "name": "wayitis",
+        "url": "https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC"
       },
       "artists": [
         {
-          "name": "rwethree",
-          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
         }
       ],
-      "duration_ms": 132236,
-      "name": "Heroic",
-      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
+      "duration_ms": 191117,
+      "name": "wayitis",
+      "url": "https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "wayitis",
-        "url": "https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC"
+        "name": "Heroic",
+        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
       },
       "artists": [
         {
-          "name": "Twiggy Fiz",
-          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+          "name": "rwethree",
+          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
         }
       ],
-      "duration_ms": 191117,
-      "name": "wayitis",
-      "url": "https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0"
+      "duration_ms": 132236,
+      "name": "Heroic",
+      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "bloom EP",
-        "url": "https://open.spotify.com/album/7aFj2Ju5lZVHRFvYRqNzYp"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 132672,
-      "name": "bloom",
-      "url": "https://open.spotify.com/track/2xiOB4lyPl1V9901Gv3UDv"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "roamwave",
         "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "under water",
-        "url": "https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi"
+        "name": "bloom EP",
+        "url": "https://open.spotify.com/album/7aFj2Ju5lZVHRFvYRqNzYp"
       },
       "artists": [
         {
-          "name": "bax iv",
-          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
         }
       ],
-      "duration_ms": 126160,
-      "name": "under water",
-      "url": "https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1"
+      "duration_ms": 132672,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/2xiOB4lyPl1V9901Gv3UDv"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -531,6 +515,22 @@
       "duration_ms": 110433,
       "name": "Lose Traction",
       "url": "https://open.spotify.com/track/7o60oOsQGf3tpFrU2r6vVX"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "under water",
+        "url": "https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi"
+      },
+      "artists": [
+        {
+          "name": "bax iv",
+          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
+        }
+      ],
+      "duration_ms": 126160,
+      "name": "under water",
+      "url": "https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Soft As Snow",
-        "url": "https://open.spotify.com/album/2rrg5QWWaPDpsEQf1Yg5M2"
-      },
-      "artists": [
-        {
-          "name": "Cassette Treasures",
-          "url": "https://open.spotify.com/artist/3oF0M86slqb8GWlqB2JXZw"
-        }
-      ],
-      "duration_ms": 118027,
-      "name": "Soft As Snow",
-      "url": "https://open.spotify.com/track/0wqfY3YTz0VS0motqaCZZ0"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 140776,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Soft As Snow",
+        "url": "https://open.spotify.com/album/2rrg5QWWaPDpsEQf1Yg5M2"
+      },
+      "artists": [
+        {
+          "name": "Cassette Treasures",
+          "url": "https://open.spotify.com/artist/3oF0M86slqb8GWlqB2JXZw"
+        }
+      ],
+      "duration_ms": 118027,
+      "name": "Soft As Snow",
+      "url": "https://open.spotify.com/track/0wqfY3YTz0VS0motqaCZZ0"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "rem junction",
-        "url": "https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp"
-      },
-      "artists": [
-        {
-          "name": "Papi Pier",
-          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
-        }
-      ],
-      "duration_ms": 123469,
-      "name": "rem junction",
-      "url": "https://open.spotify.com/track/6c7gHxC1Y9SNw1ScCctQiH"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Summer Sleepy",
         "url": "https://open.spotify.com/album/1iH4nyb3lQnA0kTRmmn6SC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 120000,
       "name": "Summer Sleepy",
       "url": "https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "rem junction",
+        "url": "https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp"
+      },
+      "artists": [
+        {
+          "name": "Papi Pier",
+          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
+        }
+      ],
+      "duration_ms": 123469,
+      "name": "rem junction",
+      "url": "https://open.spotify.com/track/6c7gHxC1Y9SNw1ScCctQiH"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
-      },
-      "artists": [
-        {
-          "name": "A Space for Rent",
-          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
-        }
-      ],
-      "duration_ms": 120615,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Under The Tree",
         "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 114422,
       "name": "Under The Tree",
       "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
+      },
+      "artists": [
+        {
+          "name": "A Space for Rent",
+          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
+        }
+      ],
+      "duration_ms": 120615,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "exhale",
+        "url": "https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "exhale",
+      "url": "https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "dreamers",
         "url": "https://open.spotify.com/album/3CD8VYak1Ubhkreu3mnYWO"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "sleepy hat",
-        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
+        "name": "Sense Of Self",
+        "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
       },
       "artists": [
         {
-          "name": "Blue Bag",
-          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+          "name": "Dreams On Vinyl",
+          "url": "https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw"
         }
       ],
-      "duration_ms": 168196,
-      "name": "sleepy hat",
-      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
+      "duration_ms": 131396,
+      "name": "Sense Of Self",
+      "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -999,18 +1015,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Sense Of Self",
-        "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
+        "name": "sleepy hat",
+        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
       },
       "artists": [
         {
-          "name": "Dreams On Vinyl",
-          "url": "https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw"
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
         }
       ],
-      "duration_ms": 131396,
-      "name": "Sense Of Self",
-      "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
+      "duration_ms": 168196,
+      "name": "sleepy hat",
+      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 139598,
       "name": "bedtime routine",
       "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "exhale",
-        "url": "https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "exhale",
-      "url": "https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/294lejL4WlfdM1zI3aqHwn"
+      },
+      "artists": [
+        {
+          "name": "eze east",
+          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/30kb5SUI5bAhUt6Pao3Txs"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "crinkled sheets",
         "url": "https://open.spotify.com/album/0CgSvSIIqWTkxcRXk3RJhG"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/294lejL4WlfdM1zI3aqHwn"
-      },
-      "artists": [
-        {
-          "name": "eze east",
-          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/30kb5SUI5bAhUt6Pao3Txs"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "PWR nApp",
         "url": "https://open.spotify.com/album/1zR6taWfZRZ05iY68d1pJf"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "infinity",
-        "url": "https://open.spotify.com/album/5zm0jfovige3nobvXRGuAg"
-      },
-      "artists": [
-        {
-          "name": "Yedai",
-          "url": "https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU"
-        }
-      ],
-      "duration_ms": 145499,
-      "name": "infinity",
-      "url": "https://open.spotify.com/track/7psacqXXypqDByQk9iLD0J"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "exhale",
         "url": "https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 131625,
       "name": "green velvet",
       "url": "https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "infinity",
+        "url": "https://open.spotify.com/album/5zm0jfovige3nobvXRGuAg"
+      },
+      "artists": [
+        {
+          "name": "Yedai",
+          "url": "https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU"
+        }
+      ],
+      "duration_ms": 145499,
+      "name": "infinity",
+      "url": "https://open.spotify.com/track/7psacqXXypqDByQk9iLD0J"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "soul",
-        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
-      },
-      "artists": [
-        {
-          "name": "Tatami Construct",
-          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
-        }
-      ],
-      "duration_ms": 215713,
-      "name": "memory",
-      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "landscape",
         "url": "https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 162206,
       "name": "landscape",
       "url": "https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "soul",
+        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
+      },
+      "artists": [
+        {
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
+        }
+      ],
+      "duration_ms": 215713,
+      "name": "memory",
+      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4"
-      },
-      "artists": [
-        {
-          "name": "Loop Schrauber",
-          "url": "https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "If It Moves",
         "url": "https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 98778,
       "name": "If It Moves",
       "url": "https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4"
+      },
+      "artists": [
+        {
+          "name": "Loop Schrauber",
+          "url": "https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32"
+        }
+      ],
+      "duration_ms": 80000,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "Cleaning Trees",
+        "url": "https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ"
+      },
+      "artists": [
+        {
+          "name": "Stekt",
+          "url": "https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD"
+        }
+      ],
+      "duration_ms": 146498,
+      "name": "Cleaning Trees",
+      "url": "https://open.spotify.com/track/6oi2BvK22qXzEJntVqB1Gh"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/0oi9yfTN7iiEc28lamOFe3"
       },
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "High Street",
-        "url": "https://open.spotify.com/album/5TybLyhvKouj1PPwWW4vY1"
-      },
-      "artists": [
-        {
-          "name": "Saveo",
-          "url": "https://open.spotify.com/artist/7iOOQNJZu3tS9qKUyuI7FH"
-        }
-      ],
-      "duration_ms": 173048,
-      "name": "High Street",
-      "url": "https://open.spotify.com/track/5AplAWSZV1rgGnfInTZ9h1"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Tranquility Farm",
         "url": "https://open.spotify.com/album/23rYdcFuFuMzqRl4Z5B0t1"
       },
@@ -1999,6 +1999,22 @@
       "duration_ms": 133483,
       "name": "Tranquility Farm",
       "url": "https://open.spotify.com/track/2HQZO4e5DndKooGqLWs8od"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "High Street",
+        "url": "https://open.spotify.com/album/5TybLyhvKouj1PPwWW4vY1"
+      },
+      "artists": [
+        {
+          "name": "Saveo",
+          "url": "https://open.spotify.com/artist/7iOOQNJZu3tS9qKUyuI7FH"
+        }
+      ],
+      "duration_ms": 173048,
+      "name": "High Street",
+      "url": "https://open.spotify.com/track/5AplAWSZV1rgGnfInTZ9h1"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Cleaning Trees",
-        "url": "https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ"
-      },
-      "artists": [
-        {
-          "name": "Stekt",
-          "url": "https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD"
-        }
-      ],
-      "duration_ms": 146498,
-      "name": "Cleaning Trees",
-      "url": "https://open.spotify.com/track/6oi2BvK22qXzEJntVqB1Gh"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Pixels",
         "url": "https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb"
       },
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "night.owls",
+        "url": "https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR"
+      },
+      "artists": [
+        {
+          "name": "flat.moon.society",
+          "url": "https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "night.owls",
+      "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/5fyichdZZd9eay631EGKHj"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 141701,
       "name": "Still",
       "url": "https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "night.owls",
-        "url": "https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR"
-      },
-      "artists": [
-        {
-          "name": "flat.moon.society",
-          "url": "https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "night.owls",
-      "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "Somewhere Else",
+        "url": "https://open.spotify.com/album/04prMufgRpnNLxCev5elzo"
+      },
+      "artists": [
+        {
+          "name": "Garot Michael Conklin",
+          "url": "https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz"
+        }
+      ],
+      "duration_ms": 153549,
+      "name": "Somewhere Else",
+      "url": "https://open.spotify.com/track/5djyaDp1Antker31qnLCiv"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 130000,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Somewhere Else",
-        "url": "https://open.spotify.com/album/04prMufgRpnNLxCev5elzo"
-      },
-      "artists": [
-        {
-          "name": "Garot Michael Conklin",
-          "url": "https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz"
-        }
-      ],
-      "duration_ms": 153549,
-      "name": "Somewhere Else",
-      "url": "https://open.spotify.com/track/5djyaDp1Antker31qnLCiv"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -2503,6 +2503,38 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "Level 2",
+        "url": "https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr"
+      },
+      "artists": [
+        {
+          "name": "Demurely",
+          "url": "https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j"
+        }
+      ],
+      "duration_ms": 191100,
+      "name": "Level 2",
+      "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/3uaI4KOw8ZLAOxuHMEdk8F"
+      },
+      "artists": [
+        {
+          "name": "Garot Michael Conklin",
+          "url": "https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz"
+        }
+      ],
+      "duration_ms": 160540,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "memories",
         "url": "https://open.spotify.com/album/7mqeSfjOtjCkMPBZo6WE94"
       },
@@ -2515,38 +2547,6 @@
       "duration_ms": 134545,
       "name": "memories",
       "url": "https://open.spotify.com/track/2g0Tf1lNH2EDt2Evci01Xj"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "calathea",
-        "url": "https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd"
-      },
-      "artists": [
-        {
-          "name": "Kolorama",
-          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
-        }
-      ],
-      "duration_ms": 106946,
-      "name": "calathea",
-      "url": "https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Sleep Under My Eyes",
-        "url": "https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz"
-      },
-      "artists": [
-        {
-          "name": "Harvest Emotions",
-          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
-        }
-      ],
-      "duration_ms": 138275,
-      "name": "Sleep Under My Eyes",
-      "url": "https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV"
     }
   ],
   "unique_name": "lofi cool down",

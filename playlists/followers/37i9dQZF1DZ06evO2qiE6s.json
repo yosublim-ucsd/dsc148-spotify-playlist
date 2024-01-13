@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 114132,
+  "2024-01-13": 114126,
   "date_first_scraped": "2023-12-27",
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
   "name": "This Is Dean Martin",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 145320,
       "name": "(Remember Me) I'm the One Who Loves You",
       "url": "https://open.spotify.com/track/1q2RbUwPCCvO97Mx0VygiX"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 161800,
       "name": "Arrivederci Roma - Remastered 1998",
       "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 184453,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 156906,
       "name": "C'est Magnifique",
       "url": "https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 140440,
       "name": "Cha Cha Cha D'Amour (Melodie D'Amour)",
       "url": "https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk"
@@ -439,10 +439,28 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 149560,
       "name": "Heaven Can Wait - Remastered/1998",
       "url": "https://open.spotify.com/track/291IQsv9uraExolqtoRczv"
+    },
+    {
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Hey Brother, Pour The Wine",
+      "url": "https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg"
     },
     {
       "album": {
@@ -457,7 +475,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 239173,
       "name": "Honey",
       "url": "https://open.spotify.com/track/543fSXt0RwlcmsL8cIKkq4"
@@ -493,7 +511,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 145800,
       "name": "How Sweet It Is",
       "url": "https://open.spotify.com/track/301RiGPJ5JNg6dEVNP2Stz"
@@ -511,7 +529,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 145346,
       "name": "I Can't Believe That You're In Love With Me - Remastered/1998",
       "url": "https://open.spotify.com/track/6mcDe5GXUZn6eF7mC5l3Hg"
@@ -547,7 +565,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 141906,
       "name": "I Will",
       "url": "https://open.spotify.com/track/0wX6mflFA4a72SOcAkDYsY"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 147200,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 162866,
       "name": "I've Grown Accustomed To Her Face - Remastered/1998",
       "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 152346,
       "name": "In the Chapel in the Moonlight",
       "url": "https://open.spotify.com/track/2Oabv85FCY9lUmyPPmcggX"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 163053,
       "name": "In the Misty Moonlight",
       "url": "https://open.spotify.com/track/1RdFoJL4vjNXinXA2iSgGu"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 140333,
       "name": "It Looks Like Love",
       "url": "https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 135253,
       "name": "Just In Time - Remastered 1998",
       "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 145066,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 128226,
       "name": "Luna Mezzo Mare",
       "url": "https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 158813,
       "name": "My Heart Reminds Me - Remastered 1998",
       "url": "https://open.spotify.com/track/7ttWSKqh526y2NImkQvuW3"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 146386,
       "name": "Nobody's Baby Again",
       "url": "https://open.spotify.com/track/0iuInH8NHuc20aYbqEQZrG"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 159360,
       "name": "Take Me In Your Arms (Torna A Surriento) - Remastered 1998",
       "url": "https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 171986,
       "name": "The Door Is Still Open to My Heart",
       "url": "https://open.spotify.com/track/45tNymiGXb2afxk7opDlmA"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 141840,
       "name": "Tik-A-Tee, Tik-A-Tay",
       "url": "https://open.spotify.com/track/1d7nWD7CdtUGuYKHXCIZ4j"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 152733,
       "name": "True Love - Remastered",
       "url": "https://open.spotify.com/track/2x12Sb0lxMB5DR6Llzq5GA"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 146173,
       "name": "Who Was That Lady?",
       "url": "https://open.spotify.com/track/6Y7Y6NzPv4Zu288vIlK0Gg"

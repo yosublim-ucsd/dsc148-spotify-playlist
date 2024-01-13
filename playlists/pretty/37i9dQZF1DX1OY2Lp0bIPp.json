@@ -1,12 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 653957,
+  "num_followers": 653619,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWZkM2IwODNlNDNkMjMwZmEyMmFmMmVlMmYyZjY1NGEyZmM5NGI2",
+  "snapshot_id": "MCwxNjU0YTJiYjVmZjRmMmM0MWVjOGEyZjhhZTBiYTY2ZGE1ZWE3YzFi",
   "tracks": [
     {
       "added_at": "2020-08-27 15:58:21",
@@ -723,22 +723,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Kala",
         "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
         }
       ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "AJ Tracey",
-        "url": "https://open.spotify.com/album/45UWSDr4RrFAwNfqiFelNj"
-      },
-      "artists": [
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 190537,
-      "name": "Ladbroke Grove",
-      "url": "https://open.spotify.com/track/7AODNxFNPnKaz4hURLzw5l"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Walking On A Dream",
         "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "AJ Tracey",
+        "url": "https://open.spotify.com/album/45UWSDr4RrFAwNfqiFelNj"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 190537,
+      "name": "Ladbroke Grove",
+      "url": "https://open.spotify.com/track/7AODNxFNPnKaz4hURLzw5l"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Myths Of The Near Future",
-        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
-      },
-      "artists": [
-        {
-          "name": "Klaxons",
-          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Golden Skans",
-      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
       },
       "artists": [
         {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
         }
       ],
-      "duration_ms": 203653,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
+      "duration_ms": 165120,
+      "name": "Golden Skans",
+      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1655,6 +1639,22 @@
       "duration_ms": 232506,
       "name": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
       "url": "https://open.spotify.com/track/5NEKjqTQPKiqOiOG8YxLdS"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+      "duration_ms": 231693,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK"
     }
   ],
   "unique_name": "Monday Motivation",

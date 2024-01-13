@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 882795,
+  "2024-01-13": 882267,
   "date_first_scraped": "2022-05-12",
   "description": "Solo il meglio dello street rap italiano. Cover: Simba La Rue",
   "name": "Street Culto",
@@ -1574,6 +1574,28 @@
     },
     {
       "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160258,
+      "name": "BOULEVARD",
+      "url": "https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1"
+    },
+    {
+      "album": {
         "name": "Braquages",
         "url": "https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ"
       },
@@ -2672,6 +2694,24 @@
     },
     {
       "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185168,
+      "name": "C\u2019era Una Volta In Italia",
+      "url": "https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa"
+    },
+    {
+      "album": {
         "name": "Dancer (feat. Noizy, Rondodasosa & Capo Plaza)",
         "url": "https://open.spotify.com/album/5iYD4DOP1xbIf03042AraN"
       },
@@ -3207,7 +3247,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 140950,
       "name": "F**k the club up (feat. Diss Gacha)",
       "url": "https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF"
@@ -3407,7 +3447,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 167491,
       "name": "FERRO (feat. Rasty Kilo)",
       "url": "https://open.spotify.com/track/1PSoQsnBRfq3hIZGKQhoa8"
@@ -3491,6 +3531,24 @@
       "duration_ms": 178846,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c"
+    },
+    {
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163621,
+      "name": "Frate",
+      "url": "https://open.spotify.com/track/55BbuGqOvwaJd9tw16aVSc"
     },
     {
       "album": {
@@ -4153,6 +4211,28 @@
       "duration_ms": 216606,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/5p9uRbOaI8YwMa9n3QP4BZ"
+    },
+    {
+      "album": {
+        "name": "Lamborghini a Via Marina",
+        "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137186,
+      "name": "IAU (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/5kPRBzfbzjY2aHRWoo4scu"
     },
     {
       "album": {
@@ -5467,6 +5547,28 @@
       "duration_ms": 194675,
       "name": "MILANO",
       "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
+    },
+    {
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185041,
+      "name": "Milly (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
     },
     {
       "album": {
@@ -7361,7 +7463,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 207435,
       "name": "RED&BLUE",
       "url": "https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG"
@@ -7533,7 +7635,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 134068,
       "name": "RSQ8 (feat. Ghali)",
       "url": "https://open.spotify.com/track/5QwgVFAmGzj1jmPhwSJZoI"
@@ -9275,7 +9377,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 168292,
       "name": "Victoria (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"

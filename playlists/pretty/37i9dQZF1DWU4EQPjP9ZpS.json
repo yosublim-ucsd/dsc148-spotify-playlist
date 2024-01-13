@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 295776,
+  "num_followers": 295897,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDBlNjhmNDhkOWQ5Y2YxM2Y5YTQzZmY5Mzg5MjhlMDg2N2RlODIz",
+  "snapshot_id": "MCwzMGYzNjQ1YjI5MjhhOGNiOTQ5NmNhZmJkMjc3NDAxNmRmNmVjNWRj",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\uff47\uff45\uff54\u3000\uff41\u3000\uff4a\uff4f\uff42 \u6797\u6a8e",
-        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Music in the Air",
         "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 142806,
       "name": "Akaiwa 1985",
       "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\uff47\uff45\uff54\u3000\uff41\u3000\uff4a\uff4f\uff42 \u6797\u6a8e",
+        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Information Superhighway",
+        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
+      },
+      "artists": [
+        {
+          "name": "</body>",
+          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
+        }
+      ],
+      "duration_ms": 107604,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
       },
@@ -1251,38 +1267,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Information Superhighway",
-        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
-      },
-      "artists": [
-        {
-          "name": "</body>",
-          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
-        }
-      ],
-      "duration_ms": 107604,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
-      },
-      "artists": [
-        {
-          "name": "bbrainz",
-          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
-        }
-      ],
-      "duration_ms": 181955,
-      "name": "TELL ME HOW IT FEELS",
-      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Network Entities",
         "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
       },
@@ -1295,22 +1279,6 @@
       "duration_ms": 78947,
       "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
       "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "The 33rd Split",
-        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
-      },
-      "artists": [
-        {
-          "name": "King Quartz",
-          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
-        }
-      ],
-      "duration_ms": 115802,
-      "name": "King Quartz - 4:14 in 313",
-      "url": "https://open.spotify.com/track/6ia8lBBSgF2P6xk1WEj2mn"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1331,6 +1299,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
+      },
+      "artists": [
+        {
+          "name": "bbrainz",
+          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
+        }
+      ],
+      "duration_ms": 181955,
+      "name": "TELL ME HOW IT FEELS",
+      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 157974,
       "name": "Turn the Fridge On",
       "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "The 33rd Split",
+        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
+      },
+      "artists": [
+        {
+          "name": "King Quartz",
+          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
+        }
+      ],
+      "duration_ms": 115802,
+      "name": "King Quartz - 4:14 in 313",
+      "url": "https://open.spotify.com/track/6ia8lBBSgF2P6xk1WEj2mn"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Iconic Bitch",
         "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+        "name": "made in taiwan",
+        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
       },
       "artists": [
         {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
         }
       ],
-      "duration_ms": 234013,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
+      "duration_ms": 182190,
+      "name": "made in taiwan",
+      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "made in taiwan",
-        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
       "artists": [
         {
-          "name": "Lupus Nocte",
-          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
         }
       ],
-      "duration_ms": 182190,
-      "name": "made in taiwan",
-      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
+      "duration_ms": 135035,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1495,34 +1511,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
       "artists": [
         {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+          "name": "sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
         }
       ],
-      "duration_ms": 135035,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "EMAIL",
-        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
-      },
-      "artists": [
-        {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
-        }
-      ],
-      "duration_ms": 176269,
-      "name": "SOULLL",
-      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+        "name": "Body Double",
+        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
       },
       "artists": [
         {
-          "name": "sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+      "duration_ms": 52937,
+      "name": "Diffusion '89",
+      "url": "https://open.spotify.com/track/3hkviLQtcPviwy1omjNxkP"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "EMAIL",
+        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
+      },
+      "artists": [
+        {
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+        }
+      ],
+      "duration_ms": 176269,
+      "name": "SOULLL",
+      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Polygon Paradise",
         "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
@@ -1587,46 +1603,6 @@
       "duration_ms": 140678,
       "name": "Monogon",
       "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Body Double",
-        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
-      },
-      "artists": [
-        {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
-        }
-      ],
-      "duration_ms": 52937,
-      "name": "Diffusion '89",
-      "url": "https://open.spotify.com/track/3hkviLQtcPviwy1omjNxkP"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Open Tournament 27XX",
-        "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
-      },
-      "artists": [
-        {
-          "name": "SPORTSGIRL",
-          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
-        },
-        {
-          "name": "VAPERROR",
-          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
-        },
-        {
-          "name": "Digital Sex",
-          "url": "https://open.spotify.com/artist/4oYPLHQaoegQ4R31ESrVeP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Electrolyte Elixir",
-      "url": "https://open.spotify.com/track/33Lqj0KYqEIk3ibD3DU1cW"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1671,6 +1647,30 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Open Tournament 27XX",
+        "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
+      },
+      "artists": [
+        {
+          "name": "SPORTSGIRL",
+          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
+        },
+        {
+          "name": "VAPERROR",
+          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
+        },
+        {
+          "name": "Digital Sex",
+          "url": "https://open.spotify.com/artist/4oYPLHQaoegQ4R31ESrVeP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Electrolyte Elixir",
+      "url": "https://open.spotify.com/track/33Lqj0KYqEIk3ibD3DU1cW"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u30aa\u30aa\u30cf\u30b7",
         "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
-      },
-      "artists": [
-        {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "No Sugar Added",
         "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 162228,
       "name": "Carrie Bradshaw",
       "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+      },
+      "artists": [
+        {
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
     },
     {
       "added_at": "2023-07-18 02:19:19",

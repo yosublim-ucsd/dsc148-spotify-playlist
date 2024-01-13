@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,567 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,502 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 8 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 |
 | 9 | [恋をして \- Acoustic Version](https://open.spotify.com/track/0fS8cXptl4Y2uWtkMEGBee) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [恋をして \(Acoustic Version\)](https://open.spotify.com/album/0HP0RkqQbEKWvQO1rjbet8) | 2:52 |
 | 10 | [Let Me Remind You](https://open.spotify.com/track/2cRGl5JIn2RnpjKuJxUoG3) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ) | [Let Me Remind You](https://open.spotify.com/album/1R9MUIcsyDYza6xkkXpm36) | 3:09 |
-| 11 | [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 |
+| 11 | [I Pray](https://open.spotify.com/track/2fAI3SPRCSXmR8rplvuPg9) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P) | 3:22 |
 | 12 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 13 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 |
 | 14 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
 | 79 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 |
 
-Snapshot ID: `MCw4YmQ3YjlhZTI4ZTYxYmEwMzY5MTIxMjRiY2NhOWM2ZjA2OThkMjYx`
+Snapshot ID: `MCwwMzIxYzg1YzYwMTc5ZDA5ZjQ4YzY0MWQyNzQ3MmZhNDc3MWVjMWRh`

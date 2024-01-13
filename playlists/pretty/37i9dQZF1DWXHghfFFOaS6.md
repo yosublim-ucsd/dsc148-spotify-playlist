@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,588 likes - 90 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,647 likes - 90 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 36 | [Jazzie's Groove](https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 2:37 |
 | 37 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
 | 38 | [Friends And Strangers](https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 4:49 |
-| 39 | [Let It Flow \(For "DR\. J"\)](https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 5:50 |
-| 40 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
+| 39 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
+| 40 | [Let It Flow \(For "DR\. J"\)](https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 5:50 |
 | 41 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
 | 42 | [Serious Drug](https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A) | [Wildcookie](https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG) | [Cookie Dough](https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM) | 2:55 |
 | 43 | [Breakfast At Denny's](https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi) | [Buckshot LeFonque](https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF) | [Once In The Life \(Original Motion Picture Soundtrack\) \[Digitally Remastered\]](https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx) | 5:54 |
 | 44 | [Apple Green](https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [The People Tree](https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y) | 4:25 |
 | 45 | [We Have Love](https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh) | [Amnesty](https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o) | [Free Your Mind](https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj) | 4:32 |
 | 46 | [All or Nothing](https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Tanya Morgan](https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 3:46 |
-| 47 | [Space](https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 2:31 |
-| 48 | [Knucklehead](https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Feels So Good](https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN) | 7:59 |
+| 47 | [Knucklehead](https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Feels So Good](https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN) | 7:59 |
+| 48 | [Space](https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 2:31 |
 | 49 | [Keep Your Head Up](https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Fay Simpson](https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 4:41 |
 | 50 | [Be Thankful \(feat\. Erykah Badu\)](https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Pass It On](https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27) | 4:13 |
 | 51 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 77 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 |
 | 78 | [No Use \- Funkhaus Sessions](https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Funkhaus Studio Sessions](https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg) | 5:00 |
 | 79 | [Dear Limmertz](https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azymuth: Outubro](https://open.spotify.com/album/6baaqatjoaHoivfzexDedw) | 4:34 |
-| 80 | [Apparently Nothin' \- Edit](https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [urban lounge](https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr) | 4:00 |
-| 81 | [Lovesick](https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn) | [Night Trains](https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG) | [Sleazeball](https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb) | 4:27 |
+| 80 | [Lovesick](https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn) | [Night Trains](https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG) | [Sleazeball](https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb) | 4:27 |
+| 81 | [Apparently Nothin' \- Edit](https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [urban lounge](https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr) | 4:00 |
 | 82 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
 | 83 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
 | 84 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L) | 5:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 90 | [The Final Comedown](https://open.spotify.com/track/6z0FN1nu2aWhtK2Zp8iOqO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Blue Break Beats](https://open.spotify.com/album/2KbHNB4R33UuA09rleUrcp) | 3:27 |
 
-Snapshot ID: `MCwwMDQ0ZGMwNzJiYjg1NTA0MGIxMjg3ZjY0ZGNjYzhiYzAwZmFjMzYy`
+Snapshot ID: `MCw2MzA2OGIxZWMwYTY4NDZkZWVlYmFjYTJjZGIwMmEwZmJiODk5Yzk2`

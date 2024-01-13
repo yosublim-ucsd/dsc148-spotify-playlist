@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,925 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,932 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 38 | [Bu Ne Hava](https://open.spotify.com/track/4f20sgXTgd8oG9Ywmkxmay) | [Resit Kemal](https://open.spotify.com/artist/3xtQQsJvIjKcyaLT4uMsWz) | [Bu Ne Hava](https://open.spotify.com/album/71KkIbCxjd6tUuhvafpdCz) | 2:10 |
 | 39 | [Taştan](https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc) | 2:56 |
 | 40 | [AYA](https://open.spotify.com/track/4ywdchqXzNiX5S8YqKzGtA) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM) | 3:16 |
-| 41 | [DELALÊ](https://open.spotify.com/track/3xoEwdWzY9YfEtiEi3dfKo) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 2:50 |
-| 42 | [hatırla](https://open.spotify.com/track/6Ei4PCSOYNEa0QbDV0eeVr) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [hatırla](https://open.spotify.com/album/1M2HlETIjJxogCYUFF7aZP) | 2:36 |
+| 41 | [hatırla](https://open.spotify.com/track/6Ei4PCSOYNEa0QbDV0eeVr) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [hatırla](https://open.spotify.com/album/1M2HlETIjJxogCYUFF7aZP) | 2:36 |
+| 42 | [DELALÊ](https://open.spotify.com/track/3xoEwdWzY9YfEtiEi3dfKo) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 2:50 |
 | 43 | [FİLM ŞERİDİ](https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [FİLM ŞERİDİ](https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8) | 2:16 |
 | 44 | [Yastık İzi](https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Yastık İzi](https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6) | 1:43 |
 | 45 | [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 47 | [Artık](https://open.spotify.com/track/4IRitV0vz4K7lCgwPilLPO) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42) | [P.O.P Mixtape pt.2](https://open.spotify.com/album/2Ffmd55esIgdPHxsXuFFc3) | 3:09 |
 | 48 | [bu gece dağıtıcam..](https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [bu gece dağıtıcam..](https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX) | 2:19 |
 | 49 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 |
-| 50 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 |
+| 50 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
 
-Snapshot ID: `MCw4NjZlY2IwZTRjZTMzMWU2OTY3Y2RlZDE5ZjdiZWRkNWQ5MTc1YjE2`
+Snapshot ID: `MCxlZTUyNTI0MmRmNDM4YzNmODk5ZmZlYmJjOGNiODljZDNhMTE1Zjcz`

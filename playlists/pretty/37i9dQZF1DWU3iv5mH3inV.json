@@ -1,12 +1,12 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
-  "num_followers": 99285,
+  "num_followers": 99314,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2Q5MDIwZjk5ZjI1OTM0NTFhMzg0ZjUzMmIyMDFmZmQzNDk5YTQw",
+  "snapshot_id": "MCwzNWVkN2Q2YzI2NDExZTRkNTUxNTY3M2ZmMmZjYzM2ZDc4OGNiMjUx",
   "tracks": [
     {
       "added_at": "2023-12-28 20:01:04",
@@ -121,6 +121,30 @@
       "url": "https://open.spotify.com/track/18KxZxrU3LbCz3Yo9mmlA8"
     },
     {
+      "added_at": "2024-01-12 21:12:31",
+      "album": {
+        "name": "Las Gatas (Dembow)",
+        "url": "https://open.spotify.com/album/7pFUFza5kEYzrl2M4s1hga"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Las Gatas (Dembow)",
+      "url": "https://open.spotify.com/track/7pPq4psRxZ0uYKcBfl2ivT"
+    },
+    {
       "added_at": "2024-01-04 18:32:21",
       "album": {
         "name": "TETEO",
@@ -165,6 +189,22 @@
       "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
     },
     {
+      "added_at": "2024-01-12 21:12:31",
+      "album": {
+        "name": "Chuky De La 42",
+        "url": "https://open.spotify.com/album/3jRMIc9xWNikmETxQrJnGw"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 144827,
+      "name": "Chuky De La 42",
+      "url": "https://open.spotify.com/track/1IKz3mAgw2aNCCVXPYX1e0"
+    },
+    {
       "added_at": "2024-01-04 18:32:21",
       "album": {
         "name": "Nobody Like Me",
@@ -179,6 +219,26 @@
       "duration_ms": 146469,
       "name": "Titeres",
       "url": "https://open.spotify.com/track/51tYVM8dJ68IYkHH9fsXsw"
+    },
+    {
+      "added_at": "2024-01-12 21:12:31",
+      "album": {
+        "name": "Yo La Computo",
+        "url": "https://open.spotify.com/album/7H9JS2RYm7qfBS8JGD4zJa"
+      },
+      "artists": [
+        {
+          "name": "MILKY KAIZEN",
+          "url": "https://open.spotify.com/artist/6nrxBsloUnn9RuF47xu91p"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 171180,
+      "name": "Yo La Computo",
+      "url": "https://open.spotify.com/track/2AJhQ3dbxAN8zWasWMhV63"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -351,22 +411,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "50%",
-        "url": "https://open.spotify.com/album/1wc4u6hV4HFt54v4O3RN3i"
-      },
-      "artists": [
-        {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        }
-      ],
-      "duration_ms": 131447,
-      "name": "50%",
-      "url": "https://open.spotify.com/track/7CAEnfe0GMPaNRcEYuS6ql"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "To To To",
         "url": "https://open.spotify.com/album/37uTGkLPHDKE03FS4UVy9k"
       },
@@ -391,30 +435,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "Ay Ombe (Remix)",
-        "url": "https://open.spotify.com/album/2uhQuEnZPm9Sai5yyOPZQs"
-      },
-      "artists": [
-        {
-          "name": "Mesy Omy",
-          "url": "https://open.spotify.com/artist/5pGD69AYwDTfOmJhwRbNdF"
-        },
-        {
-          "name": "La Mas Doll",
-          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
-        },
-        {
-          "name": "Harryson",
-          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
-        }
-      ],
-      "duration_ms": 157857,
-      "name": "Ay Ombe - Remix",
-      "url": "https://open.spotify.com/track/4mBTrLdPFPy1PjQ15x1Zwp"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "Se Puede Repet\u00ed",
         "url": "https://open.spotify.com/album/2A8MlLQtNfwcA9uHVEmG6q"
       },
@@ -427,6 +447,22 @@
       "duration_ms": 124870,
       "name": "Se Puede Repet\u00ed",
       "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
+    },
+    {
+      "added_at": "2024-01-12 21:12:31",
+      "album": {
+        "name": "Amarillo Los Platanos",
+        "url": "https://open.spotify.com/album/1fjUz63Gs80LgIX52fUmXu"
+      },
+      "artists": [
+        {
+          "name": "Aljimen3z",
+          "url": "https://open.spotify.com/artist/7vivCodo98kxJkQMbbxtN2"
+        }
+      ],
+      "duration_ms": 128634,
+      "name": "Amarillo Los Platanos",
+      "url": "https://open.spotify.com/track/6Yh7qdwpAzqIy6yQ6YDWVH"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -899,26 +935,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "Me La Sube",
-        "url": "https://open.spotify.com/album/2FW1rfb6kBZjABJdutzTs7"
-      },
-      "artists": [
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        },
-        {
-          "name": "Harryson",
-          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
-        }
-      ],
-      "duration_ms": 169488,
-      "name": "Me La Sube",
-      "url": "https://open.spotify.com/track/0xmVeXo3VsT9lP680cgboj"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "Cocotico",
         "url": "https://open.spotify.com/album/5sTxABf1vVdF4mDOkbb2to"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 143622,
       "name": "No Te Pue Quilla",
       "url": "https://open.spotify.com/track/7z7UiZNczRd5UHGXoSSbXC"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Frename",
-        "url": "https://open.spotify.com/album/5Qhkf8ehbg6osJ9SLFu4lQ"
-      },
-      "artists": [
-        {
-          "name": "DUNAMISRD",
-          "url": "https://open.spotify.com/artist/0XwB05y80AYS0IVpdCGvZ2"
-        }
-      ],
-      "duration_ms": 136779,
-      "name": "Frename",
-      "url": "https://open.spotify.com/track/20EQbBe6TZBHZPlozeBAfW"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 129441,
+  "2024-01-13": 129440,
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: DJ CHARI, DJ TATSUKI",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: eyden",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -1266,6 +1266,24 @@
     },
     {
       "album": {
+        "name": "Blueprint",
+        "url": "https://open.spotify.com/album/4KQKZSlMefTEq4r2XyPUGZ"
+      },
+      "artists": [
+        {
+          "name": "Flat Line Classics",
+          "url": "https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/6Nureb5bFhbcSySPfGBKCA"
+    },
+    {
+      "album": {
         "name": "BODY & SOUL",
         "url": "https://open.spotify.com/album/6TsM3fWiaMSfsHCoLfAdLK"
       },
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 185806,
       "name": "Critical",
       "url": "https://open.spotify.com/track/71xru3fWtcYI6gyR4zgZz2"
@@ -2725,7 +2743,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 143430,
       "name": "Focus",
       "url": "https://open.spotify.com/track/7obYc4xBA9qHuOOckPHKHH"
@@ -2825,6 +2843,28 @@
       "duration_ms": 215829,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/29zovESERgPJz1uaIFgsfS"
+    },
+    {
+      "album": {
+        "name": "ONLYS",
+        "url": "https://open.spotify.com/album/6pEIrxa8bmtlxdI7xq0LiJ"
+      },
+      "artists": [
+        {
+          "name": "SULLEN",
+          "url": "https://open.spotify.com/artist/27DGJN7P0zs1BCMjSn2ENb"
+        },
+        {
+          "name": "SPARTA",
+          "url": "https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/77QPBNmjune3Xlj4QfB2M6"
     },
     {
       "album": {
@@ -3375,7 +3415,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 168599,
       "name": "Guerilla",
       "url": "https://open.spotify.com/track/5DNC77KlKgEIzkZVZBAtdS"
@@ -3803,7 +3843,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206500,
       "name": "HURUKAMOWAKARANAIKEDO",
       "url": "https://open.spotify.com/track/4uj6pYv0nqin3IRns4ygJv"
@@ -3833,6 +3873,24 @@
       "duration_ms": 181344,
       "name": "Iburi Gacko Flow pt.2",
       "url": "https://open.spotify.com/track/2uzlLXfDZDEgu46Pz4ohsW"
+    },
+    {
+      "album": {
+        "name": "iikanji",
+        "url": "https://open.spotify.com/album/7JjEPqfTY1X0j34H69RUXr"
+      },
+      "artists": [
+        {
+          "name": "taro",
+          "url": "https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "iikanji",
+      "url": "https://open.spotify.com/track/6BnM0zSmcdPe7hPErGFYvE"
     },
     {
       "album": {
@@ -4265,7 +4323,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 232125,
       "name": "LEAD",
       "url": "https://open.spotify.com/track/4t7AY95Hf5UZBtRKjjswbO"
@@ -4701,7 +4759,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 142933,
       "name": "Made In Japan",
       "url": "https://open.spotify.com/track/2g4R2yFO2lWf1EzVNFTM18"
@@ -6561,7 +6619,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 182144,
       "name": "Run From My Pain",
       "url": "https://open.spotify.com/track/6Jj0C8PFJoTzcfIo4GW4my"
@@ -7050,6 +7108,44 @@
     },
     {
       "album": {
+        "name": "Still Tippin' Freestyle",
+        "url": "https://open.spotify.com/album/0WPd3eXS3isXu6krsVn0Vg"
+      },
+      "artists": [
+        {
+          "name": "Choppa Capone",
+          "url": "https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez"
+        },
+        {
+          "name": "Rommy Montana",
+          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
+        },
+        {
+          "name": "Montiago",
+          "url": "https://open.spotify.com/artist/3oxrNkqeblaZHXBD2wG8pA"
+        },
+        {
+          "name": "San Quintin",
+          "url": "https://open.spotify.com/artist/7MdYVhXrjFPMoDcsB7cKfz"
+        },
+        {
+          "name": "Huncho Bandz",
+          "url": "https://open.spotify.com/artist/2LKdjCrOECn9Y7NTZLaHjB"
+        },
+        {
+          "name": "DaeDae3K",
+          "url": "https://open.spotify.com/artist/7JzqdyzJay1cjXGP9A5xu6"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203454,
+      "name": "Still Tippin' Freestyle",
+      "url": "https://open.spotify.com/track/4TxrDVJY9ucVw0cbtvoRxG"
+    },
+    {
+      "album": {
         "name": "STREET PAIN",
         "url": "https://open.spotify.com/album/6ohL3LKXPvrSxZbFrlyFOc"
       },
@@ -7481,6 +7577,32 @@
       "duration_ms": 247472,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
+    },
+    {
+      "album": {
+        "name": "TREMOR",
+        "url": "https://open.spotify.com/album/41SH1w2xcyIFA3puoCNgtR"
+      },
+      "artists": [
+        {
+          "name": "Xansei",
+          "url": "https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz"
+        },
+        {
+          "name": "The Khan",
+          "url": "https://open.spotify.com/artist/7bNkiQdWUI7TcK8f2zpeCo"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "TREMOR",
+      "url": "https://open.spotify.com/track/30TyTrYGlr7YYcHkgYQz7p"
     },
     {
       "album": {
@@ -7985,6 +8107,28 @@
       "duration_ms": 174384,
       "name": "Xchain",
       "url": "https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ"
+    },
+    {
+      "album": {
+        "name": "PLAY PURE 3",
+        "url": "https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "18stop",
+          "url": "https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182029,
+      "name": "YAKINIKU, SUSHI",
+      "url": "https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw"
     },
     {
       "album": {

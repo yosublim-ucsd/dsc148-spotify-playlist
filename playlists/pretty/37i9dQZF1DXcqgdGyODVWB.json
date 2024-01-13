@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 15306,
+  "num_followers": 15365,
   "original_name": "Norte\u00f1o Pa' La Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGU4MmJmNGJjN2M3ZTJjZmRiYzc2NDczNWIwMGRkN2JhM2MyMTQy",
+  "snapshot_id": "MCxjMDBjNTRjMmRjZjI5ZTY5MmQyZjIwYWM5YTAyOThjM2FlMzllMjYz",
   "tracks": [
     {
       "added_at": "2023-12-07 01:18:03",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 151486,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 151486,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "En Las Buenas Y En Las Malas",
         "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 192560,
       "name": "Con Ese Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+        "name": "Fuentes de Ortiz",
+        "url": "https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss"
       },
       "artists": [
         {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+      "duration_ms": 231932,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Fuentes de Ortiz",
-        "url": "https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss"
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
       "artists": [
         {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 231932,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Las Ag\u00fcitas",
-        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
-      },
-      "artists": [
-        {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "El Fen\u00f3meno",
         "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 162400,
       "name": "As\u00ed Ya No",
       "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Las Ag\u00fcitas",
+        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "M\u00e1s Especial",
         "url": "https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 186866,
       "name": "Especial",
       "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "A Ver Si Capea",
-      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "P\u00eddeme",
         "url": "https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 230667,
       "name": "Total que m\u00e1s da",
       "url": "https://open.spotify.com/track/0XAocBz2uu1P0SKru9TpKz"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "A Ver Si Capea",
+      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Abrazame",
-        "url": "https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz"
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
       },
       "artists": [
         {
-          "name": "Los Garcia Bros.",
-          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
         }
       ],
-      "duration_ms": 189200,
-      "name": "Cha Cu Cha",
-      "url": "https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr"
+      "duration_ms": 204078,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
+        "name": "Abrazame",
+        "url": "https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+          "name": "Los Garcia Bros.",
+          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
         }
       ],
-      "duration_ms": 204078,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
+      "duration_ms": 189200,
+      "name": "Cha Cu Cha",
+      "url": "https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr"
     }
   ],
   "unique_name": "Norte\u00f1o Pa' La Fiesta",

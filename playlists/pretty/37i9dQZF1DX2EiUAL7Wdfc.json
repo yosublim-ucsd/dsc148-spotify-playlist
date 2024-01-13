@@ -1,12 +1,12 @@
 {
   "description": "Los temas de los \u00faltimos a\u00f1os que se convertir\u00e1n en himnos.",
-  "num_followers": 432819,
+  "num_followers": 433164,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmE4NmI0YmU4Mjc2MGMyNTNkNDgyN2MxYWIzZjQwZDVhYzE0MjQ5",
+  "snapshot_id": "MCw3YjIzZjUzZjhkMDM1OTg4ZDVhYTVkMDk4OWQxOTQ2NDcwNzgwMGJi",
   "tracks": [
     {
       "added_at": "2023-12-21 17:37:34",
@@ -663,58 +663,6 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 180672,
-      "name": "VISTA AL MAR",
-      "url": "https://open.spotify.com/track/5q86iSKkBtOoNkdgEDY5WV"
-    },
-    {
-      "added_at": "2023-12-21 17:37:34",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
-    },
-    {
-      "added_at": "2023-12-21 17:37:34",
-      "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2023-12-21 17:37:34",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -743,6 +691,58 @@
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "added_at": "2023-12-21 17:37:34",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
+    },
+    {
+      "added_at": "2023-12-21 17:37:34",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 180672,
+      "name": "VISTA AL MAR",
+      "url": "https://open.spotify.com/track/5q86iSKkBtOoNkdgEDY5WV"
+    },
+    {
+      "added_at": "2023-12-21 17:37:34",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2023-12-21 17:37:34",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2023-12-21 17:37:34",
+      "album": {
         "name": "Volando (Remix)",
         "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
-    },
-    {
-      "added_at": "2023-12-21 17:37:34",
-      "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2023-12-21 17:37:34",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256971,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
+    },
+    {
+      "added_at": "2023-12-21 17:37:34",
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 232549,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
-    },
-    {
-      "added_at": "2023-12-21 17:37:34",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256971,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
     },
     {
       "added_at": "2023-12-21 17:37:34",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 141340,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
-    },
-    {
-      "added_at": "2023-12-21 17:37:34",
-      "album": {
         "name": "Fantasias",
         "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 199711,
       "name": "Fantasias",
       "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+    },
+    {
+      "added_at": "2023-12-21 17:37:34",
+      "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 141340,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
     },
     {
       "added_at": "2023-12-21 17:37:34",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
-    },
-    {
-      "added_at": "2023-12-21 17:37:34",
-      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
+    },
+    {
+      "added_at": "2023-12-21 17:37:34",
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -1847,26 +1847,22 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
-        "name": "Con Altura",
-        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
+        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+      "duration_ms": 187500,
+      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
     },
     {
       "added_at": "2023-12-21 17:37:34",
@@ -1891,26 +1887,6 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
-        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
-    },
-    {
-      "added_at": "2023-12-21 17:37:34",
-      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -1927,18 +1903,58 @@
     {
       "added_at": "2023-12-21 17:37:34",
       "album": {
-        "name": "Nochentera",
-        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
       "artists": [
         {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
         }
       ],
-      "duration_ms": 202184,
-      "name": "Nochentera",
-      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
+      "duration_ms": 161626,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+    },
+    {
+      "added_at": "2023-12-21 17:37:34",
+      "album": {
+        "name": "La Forma en Que Me Miras",
+        "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
+      },
+      "artists": [
+        {
+          "name": "Super Yei",
+          "url": "https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan"
+        },
+        {
+          "name": "Sammy",
+          "url": "https://open.spotify.com/artist/2raERfjzsdnUUQeZSge5eZ"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 307435,
+      "name": "La Forma en Que Me Miras",
+      "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
     }
   ],
   "unique_name": "m\u00edticas",

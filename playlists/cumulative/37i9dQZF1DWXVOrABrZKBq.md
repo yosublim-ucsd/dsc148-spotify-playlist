@@ -4,7 +4,7 @@
 
 > Le rap francophone est en forme\. Photo: Josman
 
-127 songs - 6 hr 41 min
+128 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2023-03-03 | 2023-05-06 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2023-03-03 | 2023-03-11 |
 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-08-19 |
-| [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 | 2023-10-13 |  |
+| [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 | 2023-10-13 | 2024-01-13 |
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-03-03 |  |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-08-11 |  |
 | [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 | 2023-11-10 |  |
@@ -120,6 +120,7 @@
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-17 | 2023-11-11 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-28 | 2023-11-25 |
 | [Sosa](https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sosa](https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625) | 2:37 | 2023-05-05 |  |
+| [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Killemv](https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/album/39BFIcWfCAGva6bjZ7MoUX) | 2:33 | 2024-01-12 |  |
 | [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 | 2023-10-27 | 2023-12-09 |
 | [Toi\-même tu sais](https://open.spotify.com/track/0OCoD7jCBxX0tqwRHTX4tL) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:55 | 2023-10-20 | 2023-12-16 |
 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:37 | 2023-03-03 | 2023-07-08 |

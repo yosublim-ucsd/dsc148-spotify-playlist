@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 7889,
+  "2024-01-13": 7892,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Saudi Arabia.",
   "name": "Top 50 - Saudi Arabia",
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -4523,7 +4523,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "Duvet",
       "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
@@ -9627,7 +9627,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
@@ -10555,6 +10555,24 @@
       "duration_ms": 83576,
       "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
       "url": "https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk"
+    },
+    {
+      "album": {
+        "name": "Montagem Mysterious Game",
+        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103495,
+      "name": "Montagem Mysterious Game",
+      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
       "album": {
@@ -13383,7 +13401,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -13749,7 +13767,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -14599,7 +14617,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -20227,7 +20245,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 242600,
       "name": "\u0639\u0631\u0627\u0642\u064a \u0645\u0633\u0631\u0639 - \u062a\u0639\u0628\u0646\u064a \u062d\u0628\u064a\u0628\u064a \u0648\u064a\u0627\u0647 | \u0645\u0637\u0644\u0648\u0628 \u0627\u0643\u062b\u0631 \u0634\u064a",
       "url": "https://open.spotify.com/track/3k72iSW6OJ02cHKCVwxG3O"
@@ -20245,7 +20263,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 174124,
       "name": "\u0639\u0631\u0627\u0642\u064a \u0645\u0633\u0631\u0639 - \u062e\u0644 \u0627\u0635\u0648\u0631\u0643 | \u0645\u0637\u0644\u0648\u0628 \u0627\u0643\u062b\u0631 \u0634\u064a",
       "url": "https://open.spotify.com/track/0YEKzkaSAOil5fVTHmt0Su"
@@ -20263,7 +20281,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 225539,
       "name": "\u0639\u0631\u0627\u0642\u064a \u0645\u0633\u0631\u0639 - \u0631\u0627\u062d \u0627\u0628\u0642\u0649 \u0627\u062d\u0628\u0643 \u0627\u0646\u064a | \u0645\u0637\u0644\u0648\u0628 \u0627\u0643\u062b\u0631 \u0634\u064a",
       "url": "https://open.spotify.com/track/34KqhBg0i7eXxDBZ1TSAjK"
@@ -20281,7 +20299,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 178142,
       "name": "\u0639\u0631\u0627\u0642\u064a \u0645\u0633\u0631\u0639 - \u0634\u0644\u0648\u0646 \u062a\u0646\u0633\u0649 \u0627\u0644\u0639\u0634\u0631\u0647 | \u0645\u0637\u0644\u0648\u0628 \u0627\u0643\u062b\u0631 \u0634\u064a",
       "url": "https://open.spotify.com/track/3kTpd8NsbDfDmOwOgH1LCA"
@@ -20317,7 +20335,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 253364,
       "name": "\u0639\u0631\u0627\u0642\u064a \u0645\u0633\u0631\u0639 - \u0645\u0644\u064a\u0646\u0627 \u063a\u0631\u0628\u0647 | \u0645\u0637\u0644\u0648\u0628 \u0627\u0643\u062b\u0631 \u0634\u064a",
       "url": "https://open.spotify.com/track/6FYCK8SWAFI7YOE5vc1ivG"
@@ -20491,6 +20509,24 @@
       "duration_ms": 189913,
       "name": "\u0643\u062f\u0647 \u0643\u062f\u0647 \u0628\u0627\u064a\u0638\u0647",
       "url": "https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ"
+    },
+    {
+      "album": {
+        "name": "\u0641\u0624\u0627\u062f \u0639\u0628\u062f\u0627\u0644\u0648\u0627\u062d\u062f \u0662\u0660\u0662\u0664",
+        "url": "https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260888,
+      "name": "\u0643\u0644 \u0623\u062d\u0628\u0643",
+      "url": "https://open.spotify.com/track/0X4e6WZ901ycwRO0iCee8s"
     },
     {
       "album": {
@@ -21053,7 +21089,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 295648,
       "name": "\u064a\u0627 \u0627\u0628\u0646 \u0627\u0644\u0623\u0648\u0627\u062f\u0645",
       "url": "https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P"

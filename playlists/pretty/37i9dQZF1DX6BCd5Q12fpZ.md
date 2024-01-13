@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,704 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,663 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 17 | [Düm Tek Tek](https://open.spotify.com/track/3SxMoYjub3X3q5hJm9ZPyM) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Kahraman](https://open.spotify.com/album/6jryLZzOSi2lCoInU6nIYp) | 3:03 |
 | 18 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
 | 19 | [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 |
-| 20 | [Lie to Me](https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lie to Me](https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5) | 2:51 |
+| 20 | [Lie to Me](https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lie to Me](https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5) | 2:51 |
 | 21 | [Love Shine a Light](https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Love Shine a Light \(15th Anniversary Edition\)](https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q) | 3:07 |
 | 22 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
 | 23 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 46 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
 | 47 | [Divine](https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 3:08 |
 | 48 | [Secret Combination \- Eurovision 2008 Mix](https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Secret Combination](https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a) | 3:02 |
-| 49 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
-| 50 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
+| 49 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
+| 50 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
 | 51 | [Spirit in the Sky](https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT) | 3:05 |
 | 52 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 53 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 69 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
 | 70 | [My Star](https://open.spotify.com/track/1qn0J3EnF4zqvwoHYHxhgD) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [Among The Suns](https://open.spotify.com/album/6aPBqnyWSiHwzR7H3OKXA3) | 3:03 |
 | 71 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
-| 72 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
-| 73 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
+| 72 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
+| 73 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
 | 74 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 | 75 | [Waterline](https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Young Love](https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx) | 3:03 |
 
-Snapshot ID: `MCwwZjViZWRjZDExNzI1YmQ4OGMzMTg2Y2NjYTRmNzNiZmUyYTU2MmZl`
+Snapshot ID: `MCw5ZmRlMDk1YTJjYTAxNTY3NGMxMjRkN2IzNzVhOGE5MzBjYzAzMmUx`

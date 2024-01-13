@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/500oNCqdXLgK8vLhE3BQnu"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209327,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/18pHQ7Tjkb8EKzq69qebUB"
+    },
+    {
+      "album": {
         "name": "Sweet Justice",
         "url": "https://open.spotify.com/album/27lT3u386mVfOWF2wwwP1i"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 234026,
       "name": "Ghost!",
       "url": "https://open.spotify.com/track/4aO23RMylJhaKG9VCzy3kG"

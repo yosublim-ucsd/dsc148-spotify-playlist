@@ -4,7 +4,7 @@
 
 > Highlights of 2023, listen to women at full volume \#SpotifyWrapped Cover \- Shilpa Rao
 
-255 songs - 14 hr 50 min
+256 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,9 +120,10 @@
 | [Lae Dooba](https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz) | 3:49 | 2022-04-05 | 2023-03-03 |
 | [Lae Dooba](https://open.spotify.com/track/66dO6jaZOKYdV6sXAPkBmI) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1c4yZTLRpZtBUoReFf0Dqo) | 3:49 | 2022-09-07 | 2022-10-16 |
 | [Lagan Lagi](https://open.spotify.com/track/3VrW0js3lDsZyqNa3kNcUa) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Kya Kariye](https://open.spotify.com/album/6I7ukO1gNwBiDHxIqjXdDV) | 2:52 | 2023-01-03 | 2023-03-03 |
-| [Lagan Lagi](https://open.spotify.com/track/4cDQsIPjnQAHhUjLCN7rrr) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Lagan Lagi](https://open.spotify.com/album/2S0LmcQ8W7moq1KKFcDVgB) | 2:52 | 2023-11-29 |  |
+| [Lagan Lagi](https://open.spotify.com/track/4cDQsIPjnQAHhUjLCN7rrr) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Lagan Lagi](https://open.spotify.com/album/2S0LmcQ8W7moq1KKFcDVgB) | 2:52 | 2023-11-29 | 2024-01-13 |
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2021-12-10 | 2022-01-05 |
 | [Let's Talk](https://open.spotify.com/track/0SF1PYDHRXxN8oCuYHraps) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Let's Talk](https://open.spotify.com/album/52pzhhnKRFK4ZaeKw84TRa) | 2:19 | 2023-07-14 | 2023-07-26 |
+| [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 | 2024-01-12 |  |
 | [Machhli](https://open.spotify.com/track/6mbYKnJVdaDkZjCxV0dbIq) | [Pawni Pandey](https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Machhli](https://open.spotify.com/album/0oFtiR6mimLJdsiUdCCRnj) | 2:48 | 2022-01-04 | 2022-02-02 |
 | [Mafiyaan](https://open.spotify.com/track/1YIpi9FrVSr1wpzKNukm3J) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Mafiyaan](https://open.spotify.com/album/3mWaCoYmxLh6SPz88oMAhJ) | 3:34 | 2022-02-01 | 2022-03-08 |
 | [Main Nahi Toh Kaun](https://open.spotify.com/track/0gqxN9AXJKQqj6YPWdZlHb) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Hustle 2.0](https://open.spotify.com/album/4XWCQnLpIG5GgCIL9eHwJh) | 2:43 | 2023-01-03 | 2023-03-03 |

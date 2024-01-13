@@ -4,7 +4,7 @@
 
 > Soft chill for the dreamy  ✨
 
-125 songs - 7 hr 32 min
+126 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,13 +51,14 @@
 | [Is This Love](https://open.spotify.com/track/0GVPRo9LEjxjT4C4o8BGot) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Kismat Konnection \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N) | 5:29 | 2023-08-17 |  |
 | [Itni Si Baat Hain](https://open.spotify.com/track/3P167vmmGRGKHoy7uDugvy) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Azhar](https://open.spotify.com/album/0V1JQaeLB033XjgS7JqNbP) | 4:54 | 2023-08-17 | 2023-10-17 |
 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-04-17 | 2024-01-10 |
-| [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-16 |  |
+| [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-16 | 2024-01-13 |
 | [jaanu na](https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [jaanu na](https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h) | 2:40 | 2023-10-16 | 2023-12-21 |
 | [Jab Tak](https://open.spotify.com/track/35RWttZt8zGGzT0mWtlXpn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 2:54 | 2023-04-17 |  |
 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 | 2023-08-17 |  |
 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 | 2023-10-16 | 2024-01-07 |
 | [Jeena Jeena](https://open.spotify.com/track/0HEIct25CX0hhLucnhTkUr) | [Eser Inc.](https://open.spotify.com/artist/1xYwO3igKogfuoti47VcRO), [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj), [BazukaBeko](https://open.spotify.com/artist/3K1AAnD5alr3OR8SClyBmc) | [Jeena Jeena](https://open.spotify.com/album/4qBH6thoW5xgNIumimUVvD) | 3:55 | 2023-09-12 | 2023-10-12 |
 | [Jeena Jeena](https://open.spotify.com/track/66ezsSqTUU35e0ZSeyZ5CP) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [Jeena Jeena](https://open.spotify.com/album/2kpqCkreyltfHnhXI89RM2) | 3:55 | 2023-12-07 | 2024-01-11 |
+| [Jeena Jeena](https://open.spotify.com/track/6lJOYj4UoqYzTt8GTCOmF9) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [Jeena Jeena](https://open.spotify.com/album/44hUhTdPuGXVlsIOaTXAb5) | 3:55 | 2023-12-07 |  |
 | [Jeena Jeena](https://open.spotify.com/track/6kTavS1DM3ImGAAiIWGLPY) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht), [Emre Root](https://open.spotify.com/artist/58gPiY6DihD2M1PH1g8Lpd) | [Jeena Jeena](https://open.spotify.com/album/21GhtuOB7DbgAWjnMZqgUr) | 3:55 | 2023-10-16 | 2023-10-25 |
 | [Jhoom \- R&B Mix](https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Jhoom](https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM) | 4:58 | 2023-04-17 |  |
 | [Joy of Little Things](https://open.spotify.com/track/6osLH2yLhpwuESclKx84sg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Joy of Little Things](https://open.spotify.com/album/0xCqFIlyDXXxganfCHM8yV) | 3:59 | 2023-04-17 | 2023-11-16 |

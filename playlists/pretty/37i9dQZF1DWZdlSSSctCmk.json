@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 116086,
+  "num_followers": 116126,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTA2NGUzZTMxOTYzYTAyOGIwYzFiOWZkYWY5Y2IyM2Y3YmNkODI0",
+  "snapshot_id": "MCwyYjc3OGEzNjM1OTM5YTNjZDA4YTkxZDk0NzMzNzU4NmE1MzYxNmRi",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 278029,
-      "name": "Tienat\u00e9",
-      "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 283406,
       "name": "C-Side",
       "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 278029,
+      "name": "Tienat\u00e9",
+      "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Icare",
-        "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
-      },
-      "artists": [
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        },
-        {
-          "name": "Bertrand Burgalat",
-          "url": "https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "Icare",
-      "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 317143,
       "name": "Don't Want This to Be Over",
       "url": "https://open.spotify.com/track/6jag4moGKMJfZYl0liyLB7"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Icare",
+        "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Bertrand Burgalat",
+          "url": "https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7"
+        }
+      ],
+      "duration_ms": 222631,
+      "name": "Icare",
+      "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 311413,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Amo Amo",
         "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 231640,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 311413,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Into Daylight",
         "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 295989,
       "name": "Verbana (feat. Hush Forever)",
       "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Peace Now (Folamour Remix)",
-        "url": "https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Peace Now - Folamour Remix",
-      "url": "https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/1gsqDxThoqZbNPTIZnn3JC"
       },
@@ -1595,22 +1575,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Cantoma (Deluxe)",
-        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Pandajero",
-      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Mediterraneo (Club Favourites Collection '90/98)",
         "url": "https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s"
       },
@@ -1623,6 +1587,42 @@
       "duration_ms": 406200,
       "name": "Alone - Paradise",
       "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Peace Now (Folamour Remix)",
+        "url": "https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "Peace Now - Folamour Remix",
+      "url": "https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Cantoma (Deluxe)",
+        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Pandajero",
+      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
     },
     {
       "added_at": "2023-07-14 11:01:37",

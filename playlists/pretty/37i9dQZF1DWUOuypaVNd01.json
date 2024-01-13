@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 35690,
+  "num_followers": 35715,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDdmOGU2NGIzOTBiOTAzMjYzNzVjYTVlODAwNjVmODY0NzMwODg2",
+  "snapshot_id": "MCxkNWVhZjI3OTdjM2E2YTkzYzIxZjE2Y2JjMWRjODkzZjliMWQyOTZm",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -95,6 +95,26 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 120833,
+      "name": "Esculpido a Machado",
+      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 120958,
       "name": "12",
       "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 120833,
-      "name": "Esculpido a Machado",
-      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -239,26 +239,30 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Sirenes",
-        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
+        "name": "Os Pitbull do Ano, Pt. 2",
+        "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
       },
       "artists": [
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+        },
+        {
+          "name": "KOPO",
+          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Sirenes",
-      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
+      "duration_ms": 207976,
+      "name": "Os Pitbull do Ano, Pt. 2",
+      "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -287,30 +291,26 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Os Pitbull do Ano, Pt. 2",
-        "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
+        "name": "Sirenes",
+        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
         },
         {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 207976,
-      "name": "Os Pitbull do Ano, Pt. 2",
-      "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
+      "duration_ms": 230000,
+      "name": "Sirenes",
+      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
     },
     {
       "added_at": "2024-01-05 03:01:00",

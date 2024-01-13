@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2635529,
+  "num_followers": 2630228,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjA3MGRmMDQwZjQ2NDY5MGE2YmEzZjFkN2UzNGVhNWIzZTZhODYy",
+  "snapshot_id": "MCxkNjk4MjFhM2YwMTJkZjBiNWI3YWYwZDMwNmQ4NzUzMzgxNWNhNWUw",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
-      "added_at": "2023-02-02 23:22:15",
-      "album": {
-        "name": "COOL RELAX",
-        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "112",
@@ -107,6 +91,22 @@
       "duration_ms": 252266,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
+    },
+    {
+      "added_at": "2023-02-02 23:22:15",
+      "album": {
+        "name": "COOL RELAX",
+        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "One Wish",
-        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
-      },
-      "artists": [
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Nobody's Supposed to Be Here",
-      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Tony! Toni! Tone'! Greatest Hits",
@@ -315,6 +299,22 @@
       "duration_ms": 271200,
       "name": "Anniversary",
       "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "One Wish",
+        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Nobody's Supposed to Be Here",
+      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Sweet Love",
@@ -443,6 +427,22 @@
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 323826,
-      "name": "Let's Chill",
-      "url": "https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 317560,
       "name": "I Get Lonely",
       "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 323826,
+      "name": "Let's Chill",
+      "url": "https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL"
     },
     {
       "added_at": "2023-02-02 23:04:07",

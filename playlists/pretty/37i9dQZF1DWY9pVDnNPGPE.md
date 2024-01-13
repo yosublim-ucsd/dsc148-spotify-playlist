@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,601 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,605 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 20 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
 | 21 | [Alright!](https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Garden](https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ) | 3:04 |
 | 22 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 |
-| 23 | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
-| 24 | [Daisy](https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO) | 3:01 |
+| 23 | [Daisy](https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO) | 3:01 |
+| 24 | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
 | 25 | [I Know](https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf) | [Seunghui](https://open.spotify.com/artist/2pUvBa7S10ktiy75OIsxs3), [Jiho](https://open.spotify.com/artist/5k4usYTOytsTDumir9NDEb), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [START\-UP \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/3IDzkP36HtCnTn3zt4mqpb) | 3:18 |
 | 26 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 27 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 49 | [Pink!](https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 2:54 |
 | 50 | [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 |
 
-Snapshot ID: `MCxkYjdjYTI2YTU1NWQ4N2JiMGExNDc5YjBhNGFlOTNkYjE5M2JiYjA5`
+Snapshot ID: `MCwwZWVlZTZjYzBjOWFhNzljYjIxZjY0ZTY3MDk1OWQ5NDZkYTI4OWFi`

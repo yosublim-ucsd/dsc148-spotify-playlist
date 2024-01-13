@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Rokudenashi\(ロクデナシ\)
 
-326 songs - 18 hr 58 min
+327 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,13 +24,14 @@
 | [Beautiful Days](https://open.spotify.com/track/7iSGf8qaB5WI5RFBAi9LNP) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [9BIT](https://open.spotify.com/album/21iEZloCW9987uuN8n80Pi) | 3:37 | 2023-11-21 | 2023-11-29 |
 | [BET ME!](https://open.spotify.com/track/2lTgXM87jM6tKStCwJxKKI) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [BET ME!](https://open.spotify.com/album/4oF8qfwMpxoNbyY3CWJ5Ox) | 2:33 | 2023-05-09 | 2023-05-26 |
 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-21 | 2023-12-27 |
+| [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-12 |  |
 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2023-11-21 |  |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-06-29 | 2023-12-08 |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 | 2023-06-14 |
 | [Boukenroku](https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Boukenroku](https://open.spotify.com/album/1CAQgaomrrnWrQ7FvnjeqL) | 3:47 | 2023-08-15 | 2023-10-04 |
 | [Brand New World](https://open.spotify.com/track/7M1nS90qYk8A3J1e9mJz9x) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Brand New World](https://open.spotify.com/album/0RAPOQ0Hojp8W8ZZ6KACSP) | 3:06 | 2023-10-31 | 2023-11-16 |
 | [Brand New World](https://open.spotify.com/track/6whSMGAThhLXhJPdDlE1xa) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [市川美織](https://open.spotify.com/artist/1T4Z4cFkzKoX4sELty6Y6A) | [Brand New World](https://open.spotify.com/album/7KtbBsp3aFBW2qAmgKGbhu) | 3:06 | 2023-10-31 | 2023-11-02 |
-| [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 |  |
+| [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 | 2024-01-13 |
 | [Buckingham](https://open.spotify.com/track/7uX2DpFsKiitlAYGLSGlci) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:41 | 2023-05-09 | 2023-05-31 |
 | [Burn The Fire](https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Burn The Fire](https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs) | 3:55 | 2023-10-17 | 2023-11-03 |
 | [Butohkai](https://open.spotify.com/track/2YPyHDyTlMGFDAfGANRBrt) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [Butohkai](https://open.spotify.com/album/4fQ3PorkC0d1xWdSrf4tCh) | 4:34 | 2023-12-26 | 2024-01-05 |

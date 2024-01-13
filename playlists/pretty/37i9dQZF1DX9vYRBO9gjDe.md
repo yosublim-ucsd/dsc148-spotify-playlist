@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。1月10日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,270 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,115 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 |
 | 50 | [Sugoi Ai no Kotoba](https://open.spotify.com/track/7outFZqATBx2c1Ly0XnjVt) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Sugoi Ai no Kotoba](https://open.spotify.com/album/2GMxtLjEQooXPkPauHoW4y) | 4:08 |
 
-Snapshot ID: `MCw3ZWNlZGYxZDU1ZWExZTdhYTQ1YWU4YTA0YzUyMDA0NjBiNDE4MDky`
+Snapshot ID: `MCxiZjc3ODgwNjJhNDkwOWU0YTZkYjY1MDkwZGEwOTdkODk5Zjg2OGVl`

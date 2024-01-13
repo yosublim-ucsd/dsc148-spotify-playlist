@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 0,
+  "2024-01-13": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -3190,7 +3190,7 @@
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 155472,
+      "duration_ms": 157377,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
     },
@@ -9657,7 +9657,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 196422,
       "name": "I\u2019m Just Ken - Merry Kristmas Barbie",
       "url": "https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G"
@@ -10447,7 +10447,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Lace It (with Eminem & benny blanco)",
       "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
@@ -12703,7 +12703,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 156101,
       "name": "Mr. McAdams",
       "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
@@ -14731,6 +14731,32 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 268846,
+      "name": "Profitless Thoughts KutMasta Kurt REMIX",
+      "url": "https://open.spotify.com/track/3ri4PCDfOXN8KCKYKpZkCk"
+    },
+    {
+      "album": {
+        "name": "Super-Villain Team-Up",
+        "url": "https://open.spotify.com/album/2ASNVNKUTPvi1oKvkOFOaj"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Substance Abuse",
+          "url": "https://open.spotify.com/artist/2jjC2Y84TJgH7iBJ3qKD6O"
+        },
+        {
+          "name": "KutMasta Kurt",
+          "url": "https://open.spotify.com/artist/2T3TY0bgKbi5lH3TfD0m7O"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 268846,
       "name": "Profitless Thoughts KutMasta Kurt REMIX INSTRUMENTAL",
       "url": "https://open.spotify.com/track/319Av0Hgf7EVuMlqztL4Z8"
     },
@@ -15175,7 +15201,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 171827,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,385 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,389 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 16 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
 | 17 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 |
 | 18 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 |
-| 19 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
+| 19 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
 | 20 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 |
-| 21 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
+| 21 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
 | 22 | [honey](https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:53 |
 | 23 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 |
 | 24 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 70 | [FORA DE SI](https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [FORA DE SI](https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17) | 2:22 |
 | 71 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 |
 | 72 | [Coocoocrazy](https://open.spotify.com/track/1koc0xNNXvdZvxUVKG9Pew) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Papel de Carta \(Deluxe\)](https://open.spotify.com/album/5JD9z50Qpmv591ytAzuwO1) | 2:06 |
-| 73 | [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 |
-| 74 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 |
+| 73 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 |
+| 74 | [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 |
 | 75 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
 | 76 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 |
 | 77 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 84 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 85 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 
-Snapshot ID: `MCxmZWQzYThjNThjNDMyN2NmN2E3MDIxNjE4NzMzZTA4NGFiMGZkZDc2`
+Snapshot ID: `MCxmZjVjZmViODg5M2ZkNGI5NjkyYzI4NDU4YmQzZmM2NWRiMjk0ZDA4`

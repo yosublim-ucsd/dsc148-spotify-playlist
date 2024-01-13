@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,270 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,303 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 46 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |
 | 47 | [タバコロード 20](https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz) | 4:16 |
 | 48 | [冥想](https://open.spotify.com/track/19eBNpSJYXIs1aaS7wKHxQ) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [夏夜のドライブソング](https://open.spotify.com/album/3w5fOCqpLezqbdAmlzM2jn) | 4:08 |
-| 49 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
-| 50 | [シンプル・ラブ](https://open.spotify.com/track/0HZDrIXAyBCnkpz1Hsa6jm) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [City Pop Essentials \~ Idols 2 \~](https://open.spotify.com/album/6MRGLpcwXwsLTWRuPmcM6Y) | 3:47 |
+| 49 | [シンプル・ラブ](https://open.spotify.com/track/0HZDrIXAyBCnkpz1Hsa6jm) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [City Pop Essentials \~ Idols 2 \~](https://open.spotify.com/album/6MRGLpcwXwsLTWRuPmcM6Y) | 3:47 |
+| 50 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
 
-Snapshot ID: `MCwwNDljNzVkNWMxODg0NTYzZmVmMjY1NDNkMjliNWUxZTQxMGI5OGZi`
+Snapshot ID: `MCw1ODQ2MjQzNDlkMmY0OTEzOTc1MjgwNDMyZGI0NGM0NmZkZmMzZThj`

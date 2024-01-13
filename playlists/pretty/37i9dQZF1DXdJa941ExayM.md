@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,404 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,371 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 51 | [City](https://open.spotify.com/track/3cOZ6Q9OeQtKGgK8w4B8y3) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/5vUGjMxVmPZGqgwRPPZEuF) | 3:03 |
 | 52 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 |
 | 53 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
-| 54 | [Daylight](https://open.spotify.com/track/6yYm8XwZS69BzCXGRmfWU9) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Made In Bleach](https://open.spotify.com/album/1FdfvychlfN8plFb8g9DAj) | 2:09 |
-| 55 | [MOTHERFUCKER](https://open.spotify.com/track/1dSHGd9tjuukYmTqwr1SXL) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [Digital Disorder](https://open.spotify.com/album/5d5FyxMeHv8JVOiDdt06AG) | 1:02 |
-| 56 | [MINE](https://open.spotify.com/track/4G0PFh9zSY0BvUmhLtoVkJ) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN) | 2:02 |
-| 57 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
-| 58 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
+| 54 | [MOTHERFUCKER](https://open.spotify.com/track/1dSHGd9tjuukYmTqwr1SXL) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [Digital Disorder](https://open.spotify.com/album/5d5FyxMeHv8JVOiDdt06AG) | 1:02 |
+| 55 | [Daylight](https://open.spotify.com/track/6yYm8XwZS69BzCXGRmfWU9) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Made In Bleach](https://open.spotify.com/album/1FdfvychlfN8plFb8g9DAj) | 2:09 |
+| 56 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
+| 57 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
+| 58 | [MINE](https://open.spotify.com/track/4G0PFh9zSY0BvUmhLtoVkJ) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN) | 2:02 |
 | 59 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 |
 | 60 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 |
-| 61 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
-| 62 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
+| 61 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
+| 62 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
 | 63 | [Telephones 4 Eyes](https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Telephones 4 Eyes](https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa) | 3:09 |
 | 64 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 |
 | 65 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 79 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
 | 80 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
 
-Snapshot ID: `MCw4NmFlYjBjZDY1Zjg3NDEwNTU0YTg3ZWQ4OGRlNTVkYTVmNzE0YzZl`
+Snapshot ID: `MCxiMDZkNWUyNWM0NGU1MjhkOTYxNTdkZjg0NjJjNTVkODE4MTVlNjNk`

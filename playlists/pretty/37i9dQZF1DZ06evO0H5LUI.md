@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,686 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,688 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 | 18 | [Una Chica Como Tú](https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Chica Como Tú](https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M) | 2:47 |
 | 19 | [Fondo de Bikini](https://open.spotify.com/track/0TJpnfkl1YrpbUUWtEyKAt) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Fondo de Bikini](https://open.spotify.com/album/6oLPf50hLvj6jJCgUQ6xuA) | 3:04 |
 | 20 | [golden hour \- Leon Leiden Remix](https://open.spotify.com/track/2R0eHC9biqfxKHnVVDhC3U) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [golden hour \(Leon Leiden Remix\)](https://open.spotify.com/album/5a808HuhkUnzfxWflj1KfV) | 2:34 |
-| 21 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 |
-| 22 | [Limones](https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:56 |
+| 21 | [Limones](https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:56 |
+| 22 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 |
 | 23 | [Azúcar](https://open.spotify.com/track/5W4HN5rnSphY6nG5cD9elB) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Azúcar](https://open.spotify.com/album/7lYA8XiizTdbP5EQAXRjtE) | 2:27 |
 | 24 | [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 |
 | 25 | [Que Lo Cura](https://open.spotify.com/track/36mtuYkGjzPaFlKFzDfnga) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Que Lo Cura](https://open.spotify.com/album/62bcFkIA81hnoWDo9nhYxQ) | 3:23 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 | 44 | [Vente](https://open.spotify.com/track/0jGekvFOOBQm3Ba8IfimAp) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:29 |
 | 45 | [Mil Maneras](https://open.spotify.com/track/2MH2Octk42xw891Bilg89D) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mil Maneras](https://open.spotify.com/album/3MqmtXBZYnOoa6ECNKau3i) | 2:21 |
 | 46 | [Veo, Veo](https://open.spotify.com/track/2gtf19UFW3XLNsEnbfdBVb) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Veo, Veo](https://open.spotify.com/album/059eZpWBrNGHJ95xr9Ent5) | 2:40 |
-| 47 | [VoyAHacerLoQueYoQuiera \(feat\. Leon Leiden\)](https://open.spotify.com/track/72fOZEogU7lBQ9JyHwvOS9) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Noche Eterna](https://open.spotify.com/album/6E73adRyPWKIVzD2RgVL5A) | 3:23 |
+| 47 | [TSUNAMI](https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [TSUNAMI](https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE) | 2:46 |
 | 48 | [Para Mi](https://open.spotify.com/track/51rJeK97OprHwFCGYxtgnX) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:37 |
-| 49 | [TSUNAMI](https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [TSUNAMI](https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE) | 2:46 |
+| 49 | [VoyAHacerLoQueYoQuiera \(feat\. Leon Leiden\)](https://open.spotify.com/track/72fOZEogU7lBQ9JyHwvOS9) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Noche Eterna](https://open.spotify.com/album/6E73adRyPWKIVzD2RgVL5A) | 3:23 |
 | 50 | [Savana](https://open.spotify.com/track/7vPKvqTBq4akWHhfo4WCxT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [ATL](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Savana](https://open.spotify.com/album/4Jh20UJGE2tLzWqqjdCDYo) | 2:48 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAyMTI0ZDAzMWFmYTRjOTJmOWJhZGQyYWMxNjU4MmY3YQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAxY2NhYjA2OGZiMGI4MmYyMGFjNDI3Yzg1ODM1MzU0Nw==`

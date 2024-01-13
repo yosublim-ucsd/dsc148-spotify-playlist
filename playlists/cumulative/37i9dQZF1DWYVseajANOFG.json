@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 166153,
       "name": "BOCINITA",
       "url": "https://open.spotify.com/track/6i756aKbChLZVITKa3X2cR"
@@ -1429,6 +1429,32 @@
     },
     {
       "album": {
+        "name": "Esa Pela",
+        "url": "https://open.spotify.com/album/0f7QrvlcC2fPhcfyiOGDOC"
+      },
+      "artists": [
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        },
+        {
+          "name": "Danny Yash",
+          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228276,
+      "name": "Esa Pela",
+      "url": "https://open.spotify.com/track/6ZD2mlzle3X7KnC1JkaWaq"
+    },
+    {
+      "album": {
         "name": "Ese Movimiento",
         "url": "https://open.spotify.com/album/7bSyQQ5FMvKZTfbighEzLr"
       },
@@ -1444,6 +1470,28 @@
       "duration_ms": 149573,
       "name": "Ese Movimiento",
       "url": "https://open.spotify.com/track/6JX0CdK73edVp6GXaG7qwg"
+    },
+    {
+      "album": {
+        "name": "De 0 a 100",
+        "url": "https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl"
+      },
+      "artists": [
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "THE MOYS",
+          "url": "https://open.spotify.com/artist/5l6phzN17bmavplTQAWvoI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Expresiones",
+      "url": "https://open.spotify.com/track/1o1eZ16zX8t1e9hUmwB5EV"
     },
     {
       "album": {
@@ -4038,7 +4086,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 165984,
       "name": "Redondo",
       "url": "https://open.spotify.com/track/1e4sBJgOMMS7ymGqe9j7ar"

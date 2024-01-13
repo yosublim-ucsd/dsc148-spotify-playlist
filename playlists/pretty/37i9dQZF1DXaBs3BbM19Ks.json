@@ -1,12 +1,12 @@
 {
   "description": "Bonitas, orgullosas y empoderadas, as\u00ed somos las se\u00f1oras.",
-  "num_followers": 282674,
+  "num_followers": 282803,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTM0NDRmNzQxYmM4NjY4YWU4NDk0YjQ1N2MzYzE3ZGRjM2Q1MDNm",
+  "snapshot_id": "MCw5ZWFmOTJkODU4OTczYmUwMWNmYjQ2OWIxMDA5OTRhMGI2OTI4Y2Y1",
   "tracks": [
     {
       "added_at": "2022-05-10 02:03:57",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "Fantas\u00eda o realidad",
         "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -541,38 +541,6 @@
       "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
@@ -591,6 +559,38 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
@@ -671,6 +655,22 @@
       "duration_ms": 302493,
       "name": "Cruz de Navajas",
       "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Lo Que Siempre So\u00f1amos Ser",
+        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
+      },
+      "artists": [
+        {
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "A quien t\u00fa decidiste amar",
+      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
+    },
+    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Canta A Juan Gabriel",
@@ -771,22 +787,6 @@
       "duration_ms": 222760,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Lo Que Siempre So\u00f1amos Ser",
-        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
-      },
-      "artists": [
-        {
-          "name": "Sandoval",
-          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "A quien t\u00fa decidiste amar",
-      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
-    },
-    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "20 Exitos Originales",
@@ -985,6 +969,22 @@
       "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
     },
     {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
+      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
+    },
+    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Tierra De Nadie",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
-    },
-    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "21 Black Jack",
@@ -1031,6 +1015,22 @@
       "duration_ms": 206706,
       "name": "Para Amarnos M\u00e1s",
       "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 304200,
-      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
-      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -1101,20 +1085,36 @@
       "url": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
+      "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 261360,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
+      "duration_ms": 304200,
+      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
+      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
+      },
+      "artists": [
+        {
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Por Besarte",
+      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
-      },
-      "artists": [
-        {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
-    },
-    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Volcan",
@@ -1167,6 +1151,22 @@
       "duration_ms": 285360,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1217,20 +1217,20 @@
       "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
+      "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
       "artists": [
         {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     }
   ],
   "unique_name": "Modo Se\u00f1ora",

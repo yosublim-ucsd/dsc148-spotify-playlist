@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,390 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,391 likes - 43 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 17 | [El Mundo Puede Esperar](https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [El Mundo Puede Esperar](https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y) | 2:41 |
 | 18 | [OPUESTOS](https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
 | 19 | [Dejarnos Ir](https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:42 |
-| 20 | [beso](https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:50 |
-| 21 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 |
+| 20 | [presente](https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
+| 21 | [Nada](https://open.spotify.com/track/66B1wJpeTZrDSgsbHGcjzW) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 3:29 |
 | 22 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
-| 23 | [Nada](https://open.spotify.com/track/66B1wJpeTZrDSgsbHGcjzW) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 3:29 |
-| 24 | [presente](https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
+| 23 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 |
+| 24 | [beso](https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:50 |
 | 25 | [Te Quiero Olvidar](https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:09 |
 | 26 | [NADA](https://open.spotify.com/track/0zK5RRApYNkOtNqkVohwEu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 3:48 |
 | 27 | [Encontré](https://open.spotify.com/track/7aCYpJHSFGGFYP5e0hEcfe) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Paulino Monroy](https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC) | [Encontré](https://open.spotify.com/album/5ddBTNmz3PTFRRvW3mmcZJ) | 3:16 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 36 | [Puro Pasado](https://open.spotify.com/track/3pjRiGXyrXcRwrcHHhyzO0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:20 |
 | 37 | [Para Siempre](https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:08 |
 | 38 | [Venus \(Remix\)](https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Venus \(Remix\)](https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN) | 3:52 |
-| 39 | [Horizonte \(feat\. Vanessa Zamora\)](https://open.spotify.com/track/35E2vrO2uLzUJrh84lv84S) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [A Mi Lado](https://open.spotify.com/album/6IF6c4Mwlb4ohDEk81XOUS) | 2:52 |
-| 40 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 |
+| 39 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 |
+| 40 | [Horizonte \(feat\. Vanessa Zamora\)](https://open.spotify.com/track/35E2vrO2uLzUJrh84lv84S) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [A Mi Lado](https://open.spotify.com/album/6IF6c4Mwlb4ohDEk81XOUS) | 2:52 |
 | 41 | [Correr](https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:38 |
 | 42 | [Hasta la Fantasía](https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:23 |
 | 43 | [Control](https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:00 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA2ZDA4OTg0MDNmMmVlNWU4M2QxYTI1YWI3MDYxMDJjNw==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA1ZDRjYTRhNWY0OTIxZTg3ZTYyOTFlNDg1Y2IwYjIzMg==`

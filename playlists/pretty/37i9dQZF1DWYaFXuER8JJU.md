@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,223 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,288 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 74 | [Si Supieran \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/track/5IUjnIZr3LH26AhkKBPCS2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Supieran \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/album/1pPMfmXLCEtPWOdcBVmeB0) | 3:07 |
 | 75 | [Un Desengaño \- En Vivo](https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [En Vivo Desde la Fogata](https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk) | 3:20 |
 
-Snapshot ID: `MCxiZTE2OTQ4YjNmNjQ2YjY3MTk1NzY0ZTNiNjQxOGRkMDkyODkzNjM3`
+Snapshot ID: `MCxlOWRkOTIxNmE3NWE0YjMwOWJlMjVlNmNkZjlmNzUxZmEzNTdkZmY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,181 likes - 48 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,208 likes - 48 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 31 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 |
 | 32 | [Un Mal Sueño](https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe) | [Tirso Duarte](https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu) | [Timba Cubana](https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9) | 5:25 |
 | 33 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
-| 34 | [Conmigo No](https://open.spotify.com/track/3yophgzbY958X32KOQqiYF) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Con La Musica Cubana No!](https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy) | 5:16 |
-| 35 | [Bailando \- Official Salsa Version](https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Latino 59 presenta: Bailando \(Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness\)](https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S) | 4:33 |
+| 34 | [Bailando \- Official Salsa Version](https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Latino 59 presenta: Bailando \(Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness\)](https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S) | 4:33 |
+| 35 | [Conmigo No](https://open.spotify.com/track/3yophgzbY958X32KOQqiYF) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Con La Musica Cubana No!](https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy) | 5:16 |
 | 36 | [No Me Quiero Enamorar](https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [EN LETRAS DE OTROS](https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil) | 3:53 |
 | 37 | [Qué Sorpresa](https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Qué Sorpresa](https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig) | 6:00 |
 | 38 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 |
 | 48 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
 
-Snapshot ID: `MCw5YzA5ZThiODY0NjA0NzlmYmUwOGZmMGQ5MmU0MTJjNjk0YTMzZjdk`
+Snapshot ID: `MCxmY2IyNzQxZDI0OWI2MTU1OGNlYzhjYmMwZGQ5OWQwOWZlZTE2ODhi`

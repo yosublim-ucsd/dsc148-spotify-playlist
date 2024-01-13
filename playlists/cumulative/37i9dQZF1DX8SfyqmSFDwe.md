@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-279 songs - 16 hr 53 min
+280 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Atrévete \(feat\. Wisin y Yandel & Franco el Gorilla\)](https://open.spotify.com/track/0hvi6FQl4h3zVGC2DVpohG) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Boy Wonder Presents: Chosen Few Grandes Exitos](https://open.spotify.com/album/7c4s7m5fLRqIW7M4lOnfOF) | 3:56 | 2022-04-05 | 2022-04-20 |
 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 | 2021-12-09 |  |
 | [Automovil](https://open.spotify.com/track/2qq5HTgeJTLL9oY7b4X16y) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Ñejo & Dalmata \(Special Edition\)](https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo) | 3:39 | 2021-12-09 | 2022-07-25 |
-| [Aventura](https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:50 | 2021-12-09 |  |
+| [Aventura](https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:50 | 2021-12-09 | 2024-01-13 |
 | [Ay Amor \- Reggaeton](https://open.spotify.com/track/4E1z3hsYE4bM1PNBvtAoZP) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Despecho Reggaetón](https://open.spotify.com/album/1clxM59p55Br14SInm4uSI) | 3:53 | 2022-09-15 | 2023-03-28 |
 | [Ay Amor \- Reggaeton](https://open.spotify.com/track/0uJrYOhFXe4Y86JXPPMqt1) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [La Historia Live](https://open.spotify.com/album/3syIceuWeZKFbuVubOsS4W) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 | 2021-12-09 |  |
@@ -64,6 +64,7 @@
 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 | 2022-04-05 | 2022-11-13 |
 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2022-04-05 |  |
 | [Dejale Caer To Peso](https://open.spotify.com/track/1b4QQFr0kifiSkzHb5kni4) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Sangre Nueva Special Edition](https://open.spotify.com/album/02aLmclNogrHwzJnrD3oBX) | 4:10 | 2021-12-09 | 2022-03-21 |
+| [Dejale Care To' el Peso](https://open.spotify.com/track/0zMAEDj1JznZ8qaHx4eFeB) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 4:11 | 2023-06-21 |  |
 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2021-12-09 |  |
 | [Dile a Tu Amiga](https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S) | [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Dile a Tu Amiga](https://open.spotify.com/album/6q8dHB9YC18YbIqU2Q0j7X) | 3:34 | 2022-07-01 |  |
 | [Dile A Tu Amiga](https://open.spotify.com/track/5I0u5YHYvA6fQZstVCFwqC) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Ñejo & Dalmata \(Special Edition\)](https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo) | 3:34 | 2021-12-09 | 2022-07-29 |

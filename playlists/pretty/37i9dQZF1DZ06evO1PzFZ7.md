@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,647 likes - 52 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,648 likes - 52 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 15 | [Ella Qué Te Dio](https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:48 |
 | 16 | [La Llorona](https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 8:10 |
 | 17 | [Medley Ranchero: El Cantador / Tristes Recuerdos \(feat\. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Homenaje a Los Grandes Compositores](https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB) | 4:21 |
-| 18 | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/track/2usu9spbH4WZ43A9XiT0Tu) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:06 |
+| 18 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 2:58 |
 | 19 | [Se Disfrazó](https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:26 |
 | 20 | [Me Gustas Mucho](https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 2:50 |
 | 21 | [No Me Queda Más](https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 3:20 |
-| 22 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 2:58 |
+| 22 | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/track/2usu9spbH4WZ43A9XiT0Tu) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:06 |
 | 23 | [Amiga Mía](https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU) | 3:40 |
 | 24 | [Cielo Rojo](https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:55 |
 | 25 | [Te Quiero para Mí](https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:47 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 51 | [Bésame Mucho](https://open.spotify.com/track/3kwI7keOfbRg9dMRjWvxaV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bésame Mucho](https://open.spotify.com/album/1J0zWKRK6gkzBzZXC9sqvL) | 4:49 |
 | 52 | [Te Traigo Estas Flores](https://open.spotify.com/track/1jAMSbwgex5699AuN2Ncp5) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb) | 2:14 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAyOWM0MDYxZmM1NGVkYTEyZTY5OTNhYTExNDc0YWU5ZQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA5MWRjZjFjMjU5MzAwOWE5ODRmNjBiN2FjN2RlODU1ZA==`

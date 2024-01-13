@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 226512,
+  "2024-01-13": 226396,
   "date_first_scraped": "2020-08-14",
   "description": "Concentra\u00e7\u00e3o no m\u00e1ximo, sem distra\u00e7\u00f5es.",
   "name": "Concentra\u00e7\u00e3o Perfeita",
@@ -1501,6 +1501,24 @@
       "duration_ms": 171000,
       "name": "Atlantis - Piano Version",
       "url": "https://open.spotify.com/track/5b5wyvqO8PQtnAGaLFBD5l"
+    },
+    {
+      "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "album": {
@@ -12393,7 +12411,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 171000,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe"
@@ -13102,6 +13120,24 @@
     },
     {
       "album": {
+        "name": "Skies Seducing The Clouds",
+        "url": "https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134357,
+      "name": "Skies Seducing The Clouds",
+      "url": "https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY"
+    },
+    {
+      "album": {
         "name": "Sk\u00e4rg\u00e5rd",
         "url": "https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV"
       },
@@ -13455,7 +13491,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 162000,
       "name": "Something Like Love",
       "url": "https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC"

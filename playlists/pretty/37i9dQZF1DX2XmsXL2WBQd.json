@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 381560,
+  "num_followers": 381576,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWEyYTAzMDc3YWMxNjc0ZTM2ZTNhMjVjYzgyMGE2YzgwNjhjMTRh",
+  "snapshot_id": "MCwwNTgyMzJlOGYxM2FmZmNiMmM4YmVlYzRlNDJlNGI5OGQ1MzE0Y2E3",
   "tracks": [
     {
       "added_at": "2023-12-07 13:46:05",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 257223,
-      "name": "9mm Goes Bang",
-      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "It's A Big Daddy Thing",
         "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 284466,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 257223,
+      "name": "9mm Goes Bang",
+      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Freaks Come Out at Night",
-      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204601,
       "name": "The Bridge Is Over",
       "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Freaks Come Out at Night",
+      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "By All Means Necessary (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "Biz's Baddest Beats: The Best of Biz Markie",
         "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 362293,
       "name": "Vapors",
       "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "By All Means Necessary (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2023-12-07 13:46:05",

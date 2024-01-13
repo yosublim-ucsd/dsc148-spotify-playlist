@@ -2155,6 +2155,28 @@
     },
     {
       "album": {
+        "name": "The Maine (deluxe)",
+        "url": "https://open.spotify.com/album/2U5AQJj6WHdMYMuLWDun6q"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190392,
+      "name": "blame (feat. Valley)",
+      "url": "https://open.spotify.com/track/3oaUVz98IlIICzuxLyUvyG"
+    },
+    {
+      "album": {
         "name": "Blame Brett",
         "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },

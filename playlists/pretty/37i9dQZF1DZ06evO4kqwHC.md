@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 
 > This is Foo Fighters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,268 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,248 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 19 | [Long Road To Ruin](https://open.spotify.com/track/0bORa4VpL8NzyMXEI6UFGK) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 3:44 |
 | 20 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 |
 | 21 | [No Way Back](https://open.spotify.com/track/2MKEQhvPb2VaJXjx5X8Yg6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:16 |
-| 22 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
-| 23 | [Rope](https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:19 |
+| 22 | [Rope](https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:19 |
+| 23 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 24 | [Nothing At All](https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:27 |
 | 25 | [I'll Stick Around](https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:52 |
-| 26 | [Saint Cecilia](https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Saint Cecilia EP](https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo) | 3:41 |
-| 27 | [Arlandria](https://open.spotify.com/track/5TOYgNohZAFEPOtnchPhZS) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:27 |
+| 26 | [Arlandria](https://open.spotify.com/track/5TOYgNohZAFEPOtnchPhZS) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:27 |
+| 27 | [Saint Cecilia](https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Saint Cecilia EP](https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo) | 3:41 |
 | 28 | [Hearing Voices](https://open.spotify.com/track/4PTowPoeya2AITpeUCJLKN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:48 |
 | 29 | [DOA](https://open.spotify.com/track/1QZFn6QUNHfCp8s06C91hw) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:12 |
 | 30 | [Generator](https://open.spotify.com/track/592nTDJAy8AucV4KKIDCmA) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 49 | [Good Grief](https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 4:01 |
 | 50 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:49 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBlZjk1ODQ5Y2FmYjM2ZjNmYzA5N2FjNDJkN2I1MjMxMg==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA4Yjk5NjgwNDU0YmE2NzEwMTM5NzBlNWM2NzIyMzQyNg==`

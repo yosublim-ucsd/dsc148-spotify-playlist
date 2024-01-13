@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: go!go!vanillas \*👉 <a href="https://spice.eplus.jp/articles/325374?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,994 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,998 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [puzzle](https://open.spotify.com/track/0aOrApqjckQ2X9RPefGWNq) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/0xfewBOYmMtCWKQerPccGY) | 3:01 |
 | 70 | [Super Adorable Gal](https://open.spotify.com/track/5wFngmXD2qULEdr4NZwJ97) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Super Adorable Gal](https://open.spotify.com/album/3UDkQMJC8sry16Q3phhPeN) | 3:28 |
 
-Snapshot ID: `MCw3MTQ5NTMyNjNlOWJjNWIzNWE4Mzg0NDJiNGE3ZTFjODlmZmJiMGZj`
+Snapshot ID: `MCw2OWE2YzkzYzAxZDZiNDkxMjI1NDk4ODc0NDE4ZDBjNTQ5ZjJlOGNm`

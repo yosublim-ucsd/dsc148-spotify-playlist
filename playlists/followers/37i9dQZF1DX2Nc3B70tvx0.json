@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 2172670,
+  "2024-01-13": 2164545,
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Youth Lagoon, Still Woozy, Kevin Kaarl and more...  Cover: Big Thief",
+  "description": "New music from Waxahatchee x MJ Lenderman, Faye Webster x Lil Yachty, Youth Lagoon and more...  Cover: Faye Webster",
   "name": "Front Page Indie",
   "tracks": [
     {
@@ -6617,7 +6617,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 271126,
       "name": "Cool Water - Single Mix",
       "url": "https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM"
@@ -18098,6 +18098,28 @@
     },
     {
       "album": {
+        "name": "Lego Ring",
+        "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163228,
+      "name": "Lego Ring",
+      "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
+    },
+    {
+      "album": {
         "name": "legroom",
         "url": "https://open.spotify.com/album/7Ah5gi5esQYI7UNNABFft4"
       },
@@ -22821,6 +22843,24 @@
       "duration_ms": 224000,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "album": {
@@ -28519,7 +28559,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 207600,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR"

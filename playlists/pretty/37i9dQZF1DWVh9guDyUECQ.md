@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,698 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,537 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 44 | [Que Es La Que Hay](https://open.spotify.com/track/1LdAVtyVt2lbc6fpBpoP6I) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 4:04 |
 | 45 | [Llename](https://open.spotify.com/track/3B9hzZyZTyTOi2d4nPI2S4) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Llename](https://open.spotify.com/album/4bYRZq6XgwYabQAbqVSm8M) | 3:31 |
 | 46 | [Sin Ti](https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [On \(Deluxe\)](https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H) | 3:26 |
-| 47 | [Ando Buscando](https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Ando Buscando](https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU) | 2:40 |
-| 48 | [Ma' Na](https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [El Hijo del Borracho](https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8) | 3:20 |
+| 47 | [Ma' Na](https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [El Hijo del Borracho](https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8) | 3:20 |
+| 48 | [Ando Buscando](https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Ando Buscando](https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU) | 2:40 |
 | 49 | [Si Tú No Estas](https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Si Tu No Estas](https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW) | 3:45 |
 | 50 | [123 Enemies](https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [123 Enemies](https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW) | 3:30 |
 | 51 | [Pura Alegría](https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Pura Alegría](https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk) | 3:06 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 74 | [Por un Momento](https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ) | [The cXurch](https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL), [Villanova](https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu) | [Por un Momento](https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs) | 3:31 |
 | 75 | [Para Amarte](https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Para Amarte](https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C) | 3:48 |
 | 76 | [Noches Enteras](https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Noches Enteras](https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup) | 3:51 |
-| 77 | [Cotizate](https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W) | [Militante Bierd](https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F) | [Cotizate](https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC) | 3:12 |
+| 77 | [Hay Algo](https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:05 |
 | 78 | [Apocalipsis \- Remix](https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Apocalipsis \(Remix\)](https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY) | 4:10 |
-| 79 | [Hay Algo](https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:05 |
+| 79 | [Cotizate](https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W) | [Militante Bierd](https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F) | [Cotizate](https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC) | 3:12 |
 | 80 | [Todo Por Ti](https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Todo Por Ti](https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh) | 2:28 |
 | 81 | [TBT](https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y) | [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57), [Coron3l](https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg) | [TBT](https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs) | 3:30 |
 | 82 | [Amor Cósmico](https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Amor Cósmico](https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
 | 100 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
 
-Snapshot ID: `MCw3YWJlZTQ2Njc5MjlhYjQ0ODFjNzI1NGZiNDY2YmQyNWUyNjYxMmQ0`
+Snapshot ID: `MCw1OGU3ZTk3N2IyNzQ0MzhmMzg5ZTQzMGRmOGM3MzFmMTZjNGUxY2U0`

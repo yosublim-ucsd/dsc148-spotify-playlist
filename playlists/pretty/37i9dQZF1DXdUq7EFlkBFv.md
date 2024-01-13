@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,912 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,968 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
 | 50 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 
-Snapshot ID: `MCxkYTE0ZmM3Yzg2ODExZjk1OTgyYzU2NzYyZGI0ODI4ZWEyY2UwMDgz`
+Snapshot ID: `MCw3ZjhjMjE5NjMxNGRhOGQzNjAxNmU1NjE4MjE0ZTVkMDRmNWNhZDEx`

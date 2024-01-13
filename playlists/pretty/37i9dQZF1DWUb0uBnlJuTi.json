@@ -1,13 +1,29 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 323403,
+  "num_followers": 323594,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjM3ZjEyNDQ1NjBhMDA5NDBiNTQ3ZWE4ZmJjYWIyZDY5MjE3N2I1",
+  "snapshot_id": "MCwyNDVhYzk1YjNkZjIxYzY3MDMzNzZhYThlN2RhY2U2MmMxOTI4NWIw",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Bad Knees",
+        "url": "https://open.spotify.com/album/7CSCH5kpTJKTrNkcSA2epI"
+      },
+      "artists": [
+        {
+          "name": "Ghost-Note",
+          "url": "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
+        }
+      ],
+      "duration_ms": 281493,
+      "name": "Bad Knees",
+      "url": "https://open.spotify.com/track/3byYyAtjehzL826iWO61Qx"
+    },
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
@@ -89,6 +105,30 @@
       "url": "https://open.spotify.com/track/7APHXq8XGcfgNuTZqZn5Uy"
     },
     {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3r4E4SkeQM6IlQWPd1X9C3"
+      },
+      "artists": [
+        {
+          "name": "BrhyM",
+          "url": "https://open.spotify.com/artist/3nPNUch0UScZ9OnAOhwUv3"
+        },
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        },
+        {
+          "name": "yMusic",
+          "url": "https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY"
+        }
+      ],
+      "duration_ms": 202092,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/01WASYPxeJGNUXwBqVKzaJ"
+    },
+    {
       "added_at": "2023-09-15 04:01:00",
       "album": {
         "name": "Put it Down",
@@ -113,6 +153,30 @@
       "url": "https://open.spotify.com/track/6iRPCCgbYTblYcJwI337MV"
     },
     {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "People Please",
+        "url": "https://open.spotify.com/album/7qyY6HIieONQ26AHPFnyaf"
+      },
+      "artists": [
+        {
+          "name": "Sam Fribush",
+          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Calvin Napper",
+          "url": "https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "People Please",
+      "url": "https://open.spotify.com/track/533Q9dVmAyJBDwiOFTCv36"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Empire",
@@ -127,6 +191,22 @@
       "duration_ms": 287075,
       "name": "Empire",
       "url": "https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Swimming in the Sky",
+        "url": "https://open.spotify.com/album/5E1rqqb3M4LxkHBGxPB3VQ"
+      },
+      "artists": [
+        {
+          "name": "Kinga Glyk",
+          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
+        }
+      ],
+      "duration_ms": 294771,
+      "name": "Swimming in the Sky",
+      "url": "https://open.spotify.com/track/6rIdd2UpgitHNdHMLtpkxU"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -155,22 +235,6 @@
       "duration_ms": 241606,
       "name": "Goin\u2019 to Chicago",
       "url": "https://open.spotify.com/track/73qO9QckH8jRnas3mSl5HY"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Who Cares",
-        "url": "https://open.spotify.com/album/24v0ryEB2hOI3ffiJsJhVO"
-      },
-      "artists": [
-        {
-          "name": "Kinga Glyk",
-          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
-        }
-      ],
-      "duration_ms": 221753,
-      "name": "Who Cares",
-      "url": "https://open.spotify.com/track/74nxTZmwEUNKMdHQ7GPgsi"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1683,54 +1747,6 @@
       "duration_ms": 194999,
       "name": "Glide",
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Partido Alto",
-        "url": "https://open.spotify.com/album/7he2s9yl13xyhx7Zs4BnHp"
-      },
-      "artists": [
-        {
-          "name": "Joabe Reis",
-          "url": "https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK"
-        },
-        {
-          "name": "Agenor de Lorenzi",
-          "url": "https://open.spotify.com/artist/08tzQH6xIsbJxxq4hNygPG"
-        },
-        {
-          "name": "Bob Mintzer",
-          "url": "https://open.spotify.com/artist/2yKX1WpgVIxOJbwBbFwqQ0"
-        },
-        {
-          "name": "Daniel Pinheiro",
-          "url": "https://open.spotify.com/artist/621ldIdMOskFO8bAxEhi17"
-        },
-        {
-          "name": "Gabriel Grossi",
-          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
-        },
-        {
-          "name": "Josue Lopez",
-          "url": "https://open.spotify.com/artist/0mhi3HqBVORAmDbKFQNkJA"
-        },
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        },
-        {
-          "name": "Sidmar Vieira",
-          "url": "https://open.spotify.com/artist/13yenubT6mQJO3m6uDQTiN"
-        },
-        {
-          "name": "U-Nam",
-          "url": "https://open.spotify.com/artist/2zZfDVGDSqHQTeITZzJRqs"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Partido Alto",
-      "url": "https://open.spotify.com/track/0yWjwwFnycb86QbTsDWw33"
     },
     {
       "added_at": "2022-04-25 15:16:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,198 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,165 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 45 | [Jingle Bells \- Bass](https://open.spotify.com/track/2ceTja5QWOyt4qMLAcyW0h) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 2:45 |
 | 46 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |
 | 47 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
-| 48 | [Christmas Time](https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Christmas Time](https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk) | 2:47 |
-| 49 | [Last Christmas](https://open.spotify.com/track/5K8Ka64VtY8EoqfNgKqYlN) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [ChipTune](https://open.spotify.com/artist/70GKv0GShE7KGqElJe9gxy) | [Last Christmas](https://open.spotify.com/album/54g1r68fEM0mbkMt7OmFku) | 2:28 |
+| 48 | [Last Christmas](https://open.spotify.com/track/5K8Ka64VtY8EoqfNgKqYlN) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [ChipTune](https://open.spotify.com/artist/70GKv0GShE7KGqElJe9gxy) | [Last Christmas](https://open.spotify.com/album/54g1r68fEM0mbkMt7OmFku) | 2:28 |
+| 49 | [Christmas Time](https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Christmas Time](https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk) | 2:47 |
 | 50 | [Angels we have Heard](https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Kaskade Christmas Volume 2](https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v) | 3:11 |
 | 51 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
 | 52 | [Last Christmas \- Techno Remix](https://open.spotify.com/track/0BnZyRDwbkEKyIZKuwoK1r) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1) | [Last Christmas \(Techno Remix\)](https://open.spotify.com/album/72Zzvgn7JbEeUquIXEUwe3) | 2:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 59 | [Christmas Rave](https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Christmas Rave](https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67) | 2:25 |
 | 60 | [Santa Tell Me](https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Stephanie Schulte](https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3) | [Santa Tell Me](https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4) | 2:37 |
 
-Snapshot ID: `MCw5ZDBmZTI3YTVmYzViZTYxMzRhNjdmY2Y1ZmQ0NzAwNDVhOWU4MzA5`
+Snapshot ID: `MCw3YTZhYmQ3MTI1ZTIxYzJkYzI0NWYxZWYyNGQzYTc5ZGVhMjlhMDA4`

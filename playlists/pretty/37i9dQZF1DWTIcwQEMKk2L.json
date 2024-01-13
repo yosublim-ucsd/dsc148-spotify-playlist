@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 66737,
+  "num_followers": 66695,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmUxNmYzYjJlMzRkM2IxOThiM2Y1OWRkNTkzNWRiOGE3YWI0NmNl",
+  "snapshot_id": "MCw0MzBiY2Y4YzYyOTNhNDEzZmM5YjFmNmMwZmMwNWQxZmQ1MGJmMzhm",
   "tracks": [
     {
       "added_at": "2024-01-08 03:32:16",
@@ -395,6 +395,30 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
+        "name": "Jane Eyre - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "Jack Liebeck",
+          "url": "https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "duration_ms": 58386,
+      "name": "A Game of Badminton (feat. Jack Liebeck)",
+      "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
+    },
+    {
+      "added_at": "2024-01-08 03:32:16",
+      "album": {
         "name": "Never Blame The Young Ones",
         "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
       },
@@ -423,30 +447,6 @@
       "duration_ms": 126250,
       "name": "Growing Old",
       "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
-    },
-    {
-      "added_at": "2024-01-08 03:32:16",
-      "album": {
-        "name": "Jane Eyre - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        },
-        {
-          "name": "Jack Liebeck",
-          "url": "https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP"
-        },
-        {
-          "name": "Benjamin Wallfisch",
-          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
-        }
-      ],
-      "duration_ms": 58386,
-      "name": "A Game of Badminton (feat. Jack Liebeck)",
-      "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
     },
     {
       "added_at": "2024-01-08 03:32:16",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
-        "name": "Happy Thoughts",
-        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
-      },
-      "artists": [
-        {
-          "name": "Hashim Reese",
-          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
-        }
-      ],
-      "duration_ms": 108750,
-      "name": "Happy Thoughts",
-      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
-    },
-    {
-      "added_at": "2024-01-08 03:32:16",
-      "album": {
         "name": "Box Of Photos",
         "url": "https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 149495,
       "name": "Box Of Photos",
       "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
+    },
+    {
+      "added_at": "2024-01-08 03:32:16",
+      "album": {
+        "name": "Happy Thoughts",
+        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
+      },
+      "artists": [
+        {
+          "name": "Hashim Reese",
+          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
+        }
+      ],
+      "duration_ms": 108750,
+      "name": "Happy Thoughts",
+      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
     },
     {
       "added_at": "2024-01-08 03:32:16",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
-        "name": "I've Grown Accustomed to Her Face",
-        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
-      },
-      "artists": [
-        {
-          "name": "Graydon Poole",
-          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
-        }
-      ],
-      "duration_ms": 159107,
-      "name": "I've Grown Accustomed to Her Face",
-      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
-    },
-    {
-      "added_at": "2024-01-08 03:32:16",
-      "album": {
         "name": "Greensleaves",
         "url": "https://open.spotify.com/album/0E922s2u5gBDUb7YWrfjyJ"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+        "name": "I've Grown Accustomed to Her Face",
+        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
       },
       "artists": [
         {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
         }
       ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+      "duration_ms": 159107,
+      "name": "I've Grown Accustomed to Her Face",
+      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
     },
     {
       "added_at": "2024-01-08 03:32:16",
@@ -1119,6 +1103,22 @@
       "duration_ms": 103713,
       "name": "Interconnectivity",
       "url": "https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S"
+    },
+    {
+      "added_at": "2024-01-08 03:32:16",
+      "album": {
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
     },
     {
       "added_at": "2024-01-08 03:32:16",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Volker",
-          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
-        }
-      ],
-      "duration_ms": 118016,
-      "name": "Kleine Forelle",
-      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
-    },
-    {
-      "added_at": "2024-01-08 03:32:16",
-      "album": {
         "name": "Swear on this Life",
         "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
-        "name": "erinna",
-        "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
       },
       "artists": [
         {
-          "name": "Klaus Weissmuller",
-          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
+          "name": "Ulrich Volker",
+          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
         }
       ],
-      "duration_ms": 128873,
-      "name": "erinna",
-      "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
+      "duration_ms": 118016,
+      "name": "Kleine Forelle",
+      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
     },
     {
       "added_at": "2024-01-08 03:32:16",
@@ -1263,6 +1247,22 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2024-01-08 03:32:16",
+      "album": {
+        "name": "erinna",
+        "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
+      },
+      "artists": [
+        {
+          "name": "Klaus Weissmuller",
+          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
+        }
+      ],
+      "duration_ms": 128873,
+      "name": "erinna",
+      "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
     },
     {
       "added_at": "2024-01-08 03:32:16",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
-        "name": "Murray's Moon",
-        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
-      },
-      "artists": [
-        {
-          "name": "Stan Van Outen",
-          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Murray's Moon",
-      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
-    },
-    {
-      "added_at": "2024-01-08 03:32:16",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 179810,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
+    },
+    {
+      "added_at": "2024-01-08 03:32:16",
+      "album": {
+        "name": "Murray's Moon",
+        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
+      },
+      "artists": [
+        {
+          "name": "Stan Van Outen",
+          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Murray's Moon",
+      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
     },
     {
       "added_at": "2024-01-08 03:32:16",
@@ -1443,6 +1443,38 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
+        "name": "Z\u00e9phyrine",
+        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
+      },
+      "artists": [
+        {
+          "name": "Elliot Ziegler",
+          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Portmeirion",
+      "url": "https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2"
+    },
+    {
+      "added_at": "2024-01-08 03:32:16",
+      "album": {
+        "name": "A Perceptual Process",
+        "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
+      },
+      "artists": [
+        {
+          "name": "Dominique Marais",
+          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
+        }
+      ],
+      "duration_ms": 113820,
+      "name": "A Perceptual Process",
+      "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
+    },
+    {
+      "added_at": "2024-01-08 03:32:16",
+      "album": {
         "name": "Kiss the Rain",
         "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
       },
@@ -1475,38 +1507,6 @@
       "duration_ms": 91500,
       "name": "Apples And Bananas",
       "url": "https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb"
-    },
-    {
-      "added_at": "2024-01-08 03:32:16",
-      "album": {
-        "name": "Z\u00e9phyrine",
-        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
-      },
-      "artists": [
-        {
-          "name": "Elliot Ziegler",
-          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Portmeirion",
-      "url": "https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2"
-    },
-    {
-      "added_at": "2024-01-08 03:32:16",
-      "album": {
-        "name": "A Perceptual Process",
-        "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
-      },
-      "artists": [
-        {
-          "name": "Dominique Marais",
-          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
-        }
-      ],
-      "duration_ms": 113820,
-      "name": "A Perceptual Process",
-      "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
     },
     {
       "added_at": "2024-01-08 03:32:16",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-01-08 03:32:16",
       "album": {
-        "name": "Beautiful Day.",
-        "url": "https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 99541,
-      "name": "Beautiful Day.",
-      "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
-    },
-    {
-      "added_at": "2024-01-08 03:32:16",
-      "album": {
         "name": "Lunaria",
         "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+    },
+    {
+      "added_at": "2024-01-08 03:32:16",
+      "album": {
+        "name": "Beautiful Day.",
+        "url": "https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 99541,
+      "name": "Beautiful Day.",
+      "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
     },
     {
       "added_at": "2024-01-08 03:32:16",

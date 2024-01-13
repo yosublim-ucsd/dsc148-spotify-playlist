@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 106140,
+  "2024-01-13": 106204,
   "date_first_scraped": "2022-01-21",
   "description": "Chill house tracks to power your pilates session.",
   "name": "Pilates Lounge",
@@ -1451,6 +1451,24 @@
       "duration_ms": 243646,
       "name": "I Don't Wanna Live Forever - Taladego Tropical Mix",
       "url": "https://open.spotify.com/track/1MAwVy9fDWnicj5xtzzaAD"
+    },
+    {
+      "album": {
+        "name": "I Hope You Find What You're Looking For",
+        "url": "https://open.spotify.com/album/0T31ndqyniqxMKSfVsGBlb"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "I Hope You Find What You're Looking For",
+      "url": "https://open.spotify.com/track/70Uq01vP7RqyF3QB3wM3lI"
     },
     {
       "album": {
@@ -3255,7 +3273,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 173489,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn"

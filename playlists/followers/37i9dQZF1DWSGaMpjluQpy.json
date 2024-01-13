@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 47335,
+  "2024-01-13": 58453,
   "date_first_scraped": "2023-05-02",
   "description": "Sitting in a cozy caf\u00e9 studying while the rain is pouring down outside. ",
   "name": "Jazz in the Rain",
@@ -1685,6 +1685,24 @@
       "duration_ms": 216000,
       "name": "Sommarnattens Skeende - Rain Version",
       "url": "https://open.spotify.com/track/7m6xM40of1KJw6JRKcRmU8"
+    },
+    {
+      "album": {
+        "name": "Space Weather (rain)",
+        "url": "https://open.spotify.com/album/6vT31K4BZAbdIm1d4OUHZb"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206637,
+      "name": "Space Weather (rain)",
+      "url": "https://open.spotify.com/track/7hChPcCPTRNRbRaBsisxQs"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 289335,
+  "2024-01-13": 289454,
   "date_first_scraped": "2022-03-01",
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
   "name": "epicPRAISE",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 208864,
       "name": "A Million Saints (Live)",
       "url": "https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 433279,
       "name": "Covered - Live",
       "url": "https://open.spotify.com/track/4MeW3rzdC1uAUTfb7E5Z51"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 224026,
       "name": "I Stand Here",
       "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
@@ -3247,7 +3247,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 301106,
       "name": "Throne Room - Live",
       "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"

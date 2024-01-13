@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,786 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,108 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 66 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 |
 | 67 | [Plus je t'embrasse](https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:17 |
 | 68 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
-| 69 | [Samois A Moi](https://open.spotify.com/track/7dKkv6VSzDoak10meLR3Ia) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3) | 3:32 |
-| 70 | [La Grippe](https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM) | [Jacques Higelin](https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Chante Vian et Higelin](https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy) | 2:21 |
+| 69 | [La Grippe](https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM) | [Jacques Higelin](https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Chante Vian et Higelin](https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy) | 2:21 |
+| 70 | [Samois A Moi](https://open.spotify.com/track/7dKkv6VSzDoak10meLR3Ia) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3) | 3:32 |
 | 71 | [Mes pas dans la neige \- Spanish Song Bird](https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 4:17 |
 | 72 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |
 | 73 | [Chanson triste](https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 79 | [Quand j'serai K.O](https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Souchon dans l'air \(Vol\. 1\)](https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR) | 3:34 |
 | 80 | [Tu t'laisses aller](https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Les deux guitares](https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC) | 3:41 |
 
-Snapshot ID: `MCwwNTljNDMwNjFlZWY4OTI4YjIyZjYwNDI5ZTk5Yzc0MWIzMjRiMjFh`
+Snapshot ID: `MCwwNDAyMDNlYzFiNmRhYWU3MDUyZWQ5NzYxMzY2ZDIwODJiMzk0MTZm`

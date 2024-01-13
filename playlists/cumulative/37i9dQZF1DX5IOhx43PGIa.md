@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-676 songs - 1 day 11 hr 3 min
+677 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 | 2023-05-19 | 2023-10-04 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-16 |  |
 | [1st Gen](https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [1st Gen](https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg) | 2:20 | 2023-08-04 | 2023-08-12 |
+| [2.0](https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [2.0](https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2) | 2:46 | 2024-01-05 |  |
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2022-05-27 | 2023-05-06 |
 | [440hz \(feat\. Daichi Yamamoto x Koh\)](https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [A440](https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe) | 4:27 | 2023-01-27 | 2023-03-20 |
 | [50/50](https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [50/50](https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W) | 3:01 | 2023-08-18 |  |
@@ -355,7 +356,7 @@
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-02-24 |  |
 | [Live Without U](https://open.spotify.com/track/2TVipNtVftkHXD1U1qExyM) | [AndyBear](https://open.spotify.com/artist/3PTvL4CPoyATF3fct0pQtc), [Roads We Walk](https://open.spotify.com/artist/4uppaNsZPfgLiR2Y3R5QCy), [Midnight Wanders](https://open.spotify.com/artist/6Pfmpf6q4azPejKnlXK5P9) | [Live Without U](https://open.spotify.com/album/4VR4DE46k2zTiQipLJ5xrj) | 3:25 | 2023-05-05 | 2023-05-20 |
 | [Lock Me In](https://open.spotify.com/track/3hXRbjdYypplIQ7IW1ESAS) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cherie](https://open.spotify.com/album/56ZxNy9wDdnNISCpTMMwes) | 2:14 | 2023-09-22 | 2023-10-16 |
-| [locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-25 |  |
+| [Locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-25 |  |
 | [Lose Control](https://open.spotify.com/track/1Mut1YA6ZxKZ7F6MKsMSQu) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 4:14 | 2022-05-27 | 2023-04-01 |
 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/2JPmY7ol32ok8N7wWLmfU6) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/3geOg8NaLdjfCC5wCzEUtO) | 3:25 | 2022-05-27 | 2022-07-29 |
 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/3sheUbqssFt6H7JGWfZFK5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/1TgswMNuhpRfmO411liq1R) | 3:25 | 2022-07-22 | 2022-10-13 |
@@ -440,7 +441,7 @@
 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 | 2023-09-22 |  |
 | [OOP! \- Dipha Barus Remix](https://open.spotify.com/track/10w72K7l0yeR6gqyUX3mj8) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [OOP! \(Dipha Barus Remix\)](https://open.spotify.com/album/7wPnQIhSTsmUMquBZ5sdXG) | 3:48 | 2022-05-27 | 2022-07-26 |
 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 | 2023-07-14 | 2023-09-28 |
-| [OUT OF BODY](https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [OUT OF BODY](https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX) | 2:07 | 2023-09-22 |  |
+| [OUT OF BODY](https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [OUT OF BODY](https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX) | 2:07 | 2023-09-22 | 2024-01-13 |
 | [Pair Of You](https://open.spotify.com/track/6ekoBPfdfnWhQ8oJveaZSk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Pair Of You](https://open.spotify.com/album/67lgGIywB4fMJ0xHsHgUiL) | 2:24 | 2022-10-07 | 2022-10-16 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-05-27 | 2023-07-07 |
 | [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-04-29 | 2023-10-04 |

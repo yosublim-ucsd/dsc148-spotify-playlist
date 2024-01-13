@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : THÉA
 
-112 songs - 6 hr 3 min
+113 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cl0ckW0rk](https://open.spotify.com/track/5w8XK7wdcdsIp76zLtc3aR) | [Apple Jelly](https://open.spotify.com/artist/587AadegoSQQn1WdhSCnSZ) | [Cl0ckW0rk EP](https://open.spotify.com/album/2aMSVdnr1U8YJKdbjLqHfr) | 3:01 | 2023-10-05 | 2023-11-17 |
 | [COLLÉ SERRÉ](https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy) | [BRIQUE ARGENT](https://open.spotify.com/artist/6oEiRjlcIxYaZvnjlMiYLw) | [COLLÉ SERRÉ](https://open.spotify.com/album/1qRHnXgeDKChBP6iu16FQF) | 3:07 | 2023-09-28 | 2023-11-17 |
 | [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 | 2023-09-28 |  |
-| [Conspire](https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Conspire](https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1) | 5:53 | 2023-11-30 |  |
+| [Conspire](https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Conspire](https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1) | 5:53 | 2023-11-30 | 2024-01-13 |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
 | [Dansé](https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Dansé](https://open.spotify.com/album/44DuXaXwALoylbk0vUgC8o) | 2:51 | 2023-09-28 | 2023-11-10 |
 | [Double Tap](https://open.spotify.com/track/1F8y4UfslnzBpWKDZraeD3) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Double Tap](https://open.spotify.com/album/2K13urd2pDuRzpf9OlU2rg) | 2:25 | 2023-10-19 | 2023-12-15 |
@@ -94,6 +94,7 @@
 | [Radio](https://open.spotify.com/track/7t4TKQwffyxm6VjV8xUzdP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Radio](https://open.spotify.com/album/4gjmcshJN2wyvrZZeIXO2M) | 2:50 | 2023-09-28 | 2023-11-17 |
 | [Rage2](https://open.spotify.com/track/6FEa9mo6Qrd1v0u5rTUlZU) | [SÜEÜR](https://open.spotify.com/artist/124RVleRdpnGBCTjulr6rq) | [ANANKÉ](https://open.spotify.com/album/7sUul65XdFnWzyjbhI0tpd) | 3:02 | 2023-09-28 | 2023-10-27 |
 | [Resto Basket](https://open.spotify.com/track/3SdMH600ZTeaeSFcQuAxE6) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Resto Basket](https://open.spotify.com/album/6Tg1oD0Qo1hmVytzqvd96i) | 2:58 | 2023-11-23 |  |
+| [Rock 2000](https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Rock 2000](https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV) | 3:43 | 2024-01-12 |  |
 | [Rôles](https://open.spotify.com/track/2RihAENLznkliKDPEWV5qJ) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Rôles](https://open.spotify.com/album/3Obub0X33yuxKfEVvSAjXi) | 2:44 | 2023-11-23 |  |
 | [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 | 2023-09-28 | 2023-10-13 |
 | [Sans toi](https://open.spotify.com/track/1FNZ9bDeAOBDjgtAwoR2Nr) | [Ravage Club](https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm) | [Sans toi](https://open.spotify.com/album/71mDIX5mOHi5xoeJPvX255) | 2:46 | 2023-11-16 |  |

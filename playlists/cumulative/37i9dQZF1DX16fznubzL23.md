@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-154 songs - 8 hr 22 min
+155 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Miss You Bad](https://open.spotify.com/track/3o8cpHgLK9x0G5eB1UusOQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 2:56 | 2022-02-11 | 2022-07-29 |
 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 | 2022-02-11 |  |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-08 |  |
-| [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 | 2022-02-11 |  |
+| [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 | 2022-02-11 | 2024-01-13 |
 | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 | 2023-06-22 |  |
 | [Never Again](https://open.spotify.com/track/2QcwNQJSvOgHpyfcsDNLrx) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Never Again](https://open.spotify.com/album/3sd1vb7D2yUEkT4bYciLlC) | 3:04 | 2022-02-11 | 2022-07-29 |
 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 | 2022-07-28 | 2022-08-10 |
@@ -126,6 +126,7 @@
 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 | 2022-02-11 |  |
 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 | 2022-02-11 |  |
 | [Pour Me Water](https://open.spotify.com/track/3pbRmP0Hqit2A4FcnOGAiF) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 2:48 | 2022-02-11 | 2022-06-25 |
+| [Problems](https://open.spotify.com/track/2pnNn9p4qGkSApyBeMM2Gc) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Problems](https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12) | 2:47 | 2024-01-12 |  |
 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-18 |  |
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 |  |
 | [Routine Lover](https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Routine Lover](https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj) | 2:48 | 2023-09-29 |  |
@@ -147,7 +148,7 @@
 | [Thunder Fire You](https://open.spotify.com/track/6b5ZyyJhmPQXBg6gARsL19) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Thunder Fire You](https://open.spotify.com/album/3AY6ZYhDszzVCgg8rGE8fz) | 2:59 | 2023-11-03 | 2023-11-12 |
 | [Thunder Fire You](https://open.spotify.com/track/7tBHoZDrhRacTiBMrlbvTb) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 2:59 | 2023-11-03 |  |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 | 2022-09-12 |
-| [Toxic Love Story \- Acoustic Version](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story \(Acoustic Version\)](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 |  |
+| [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 |  |
 | [U Lied To Me](https://open.spotify.com/track/7zgnvKWoPhWse2Wv89ubYO) | [Becca](https://open.spotify.com/artist/6vMTJy1XlG5FzAuuSLLTAX) | [Sugar](https://open.spotify.com/album/5DrXAHc5eakbtENqipdZlt) | 4:24 | 2022-02-11 | 2022-07-27 |
 | [U X Me](https://open.spotify.com/track/0SpkTMXY9gh8cX1JCDPIx7) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [U X Me](https://open.spotify.com/album/7oNUv5sIn5CdoWdJlHHIo1) | 3:28 | 2022-02-11 | 2022-07-29 |
 | [Understand](https://open.spotify.com/track/1sZUKPtbvWr7ciIXYdFek8) | [Niinety9](https://open.spotify.com/artist/4orVoQC8pEAHqUBXCtYsn5) | [Understand](https://open.spotify.com/album/6cfcb1dC5jsPE2WthrMmw3) | 2:46 | 2022-05-19 | 2022-07-29 |

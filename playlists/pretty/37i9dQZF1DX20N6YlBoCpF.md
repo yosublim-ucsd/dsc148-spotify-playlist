@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt?si=u8NseDH5Rfu7s\_Tn0jl1tA">Ryno Velvet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,316 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,371 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 |
 | 50 | [Daai Girl](https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2) | [BiBi](https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX) | [Daai Girl](https://open.spotify.com/album/6kl5EDBv4XxeJBJfS9olsx) | 3:13 |
 
-Snapshot ID: `MCxmMDQ4NTJlNmU3OTAxNDlhYjMxZjMyNzMwMjM1ZDZiZTkwMDNiZjk5`
+Snapshot ID: `MCxmMzg5MTVmMjZmZWJkMWE0MWM0NjVjOTFjMzFhNjEyMDU5YTI2OTUw`

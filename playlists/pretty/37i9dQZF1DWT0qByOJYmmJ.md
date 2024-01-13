@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,708 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,489 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 36 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 |
 | 37 | [Combustión](https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblame de Tú](https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu) | 3:58 |
 | 38 | [Sonreír \- Versión Acústica](https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:29 |
-| 39 | [Tristes Ojos](https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [La Segunda Luz del Día](https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd) | 3:19 |
-| 40 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
+| 39 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
+| 40 | [Tristes Ojos](https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [La Segunda Luz del Día](https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd) | 3:19 |
 | 41 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 42 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
 | 43 | [Por Ti Me Quedo en San Luis](https://open.spotify.com/track/6kA8g4I3KAqcyIfCFBPNtr) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Por Ti Me Quedo en San Luis](https://open.spotify.com/album/0x5bCPWH8u9eQTLByY7LNq) | 2:37 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 58 | [Quién Dice](https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Quién Dice](https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK) | 3:45 |
 | 59 | [Solo Aquí](https://open.spotify.com/track/7N3XV7eGhrnJLpghBEA15n) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 3:02 |
 | 60 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 |
-| 61 | [Solo](https://open.spotify.com/track/7BZ7GXpMNWHicUfxX9rT2f) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Solo](https://open.spotify.com/album/7HJZtsBK6ZGBaWYsytLRMS) | 2:30 |
-| 62 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 61 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 62 | [Solo](https://open.spotify.com/track/7BZ7GXpMNWHicUfxX9rT2f) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Solo](https://open.spotify.com/album/7HJZtsBK6ZGBaWYsytLRMS) | 2:30 |
 | 63 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 |
 | 64 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
 | 65 | [Es Verdad](https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Es Verdad](https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [Al Final](https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 3:17 |
 | 80 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 |
 
-Snapshot ID: `MCw5NTE0Y2JhNmRjMWQwZjY3NGFlNDkwOThjNGIyZGUwZjM5MWQyYWMw`
+Snapshot ID: `MCw1ZjI3YTk1MzY4NTFkMzI2MmEyZGYxNjEwNWVjNjRiNDcxMWVlMmFh`

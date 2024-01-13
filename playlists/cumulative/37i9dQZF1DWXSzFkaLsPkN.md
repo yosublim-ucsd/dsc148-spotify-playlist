@@ -2,9 +2,9 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Aditya A
+> Hindi hai, Indie hai! Cover\- Hansika Pareek
 
-160 songs - 8 hr 51 min
+161 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 | 2023-05-02 | 2023-12-20 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-08-22 |
 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-05-02 |  |
-| [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 | 2023-07-18 |  |
+| [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 | 2023-07-18 | 2024-01-13 |
 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-06 |  |
 | [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2023-05-02 | 2023-05-23 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-05-02 |  |
@@ -141,6 +141,7 @@
 | [Sheeshe Ka Dil](https://open.spotify.com/track/6Mj5JAocAZu65ZCo54SpDG) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Sheeshe Ka Dil](https://open.spotify.com/album/5lSThYAjDkr8P4lfvJB6Xk) | 3:16 | 2023-09-29 |  |
 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 | 2023-05-02 |  |
 | [Silvatein](https://open.spotify.com/track/5OeYzvWGIBIVDImJkgooY3) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [SarpDansh](https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN) | [Silvatein](https://open.spotify.com/album/7q6vl20OYi24v8aOwCJKee) | 3:00 | 2023-12-15 |  |
+| [Sukoon](https://open.spotify.com/track/4k5iSIwG2halVz8FHTaDsQ) | [Sayuj Jain](https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Sukoon](https://open.spotify.com/album/33ojFXiYyocQVSRHkQBar9) | 3:12 | 2024-01-12 |  |
 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 | 2023-11-23 |  |
 | [Taj](https://open.spotify.com/track/3cbSwpMhYwcwijm3d0J1uJ) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 2:49 | 2023-05-02 | 2023-05-27 |
 | [Tasveer](https://open.spotify.com/track/2TCraSsTU9q8vZeEvKuluW) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Kabul Bukhari](https://open.spotify.com/artist/14KvoiphLvP8UmalvMqT49) | [Tasveer](https://open.spotify.com/album/3rfKeoZXddrUBF0dS64vpC) | 4:18 | 2023-05-29 | 2023-06-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,252 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,051 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 5 | [Laisse courir](https://open.spotify.com/track/1dxCI4KuVhWHxbqeYMomSf) | [Lou de la Falaise](https://open.spotify.com/artist/5Hm0bxvHlfSILH2LY4pvnK) | [Sans espoir ni desespoir](https://open.spotify.com/album/4uT1OZcV64iPYm024ApCL3) | 2:59 |
 | 6 | [Un jour ou deux](https://open.spotify.com/track/1S3FS1rQ8EOoA3MhLVjhxO) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Un jour ou deux](https://open.spotify.com/album/03WZecSeLD4y8Dn4FB74X0) | 3:25 |
 | 7 | [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 |
-| 8 | [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 |
+| 8 | [Turn Away](https://open.spotify.com/track/3iYfXX61UYS2fZPA16amzL) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line \(Extended\)](https://open.spotify.com/album/58MszPAmQJIbDklhdMCv7I) | 3:46 |
 | 9 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
 | 10 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 |
 | 11 | [Métaphores](https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Métaphores](https://open.spotify.com/album/12awGrBjFIJcRWGGrTqGAJ) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [NO ONE ELSE](https://open.spotify.com/track/6mhmebxd0Dv3GbQp34Abch) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [NO ONE ELSE](https://open.spotify.com/album/0yoOQg6R0Ds8TaCtXFZXNz) | 2:48 |
 | 50 | [GOBACK](https://open.spotify.com/track/7BiCR2KFuppkMQdxsYmSvT) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [GOBACK](https://open.spotify.com/album/5920FnXcvVNVrk9npCJa4X) | 2:06 |
 
-Snapshot ID: `MCw1N2NmZjIwNzMwOTE5ODlkNzA1YmM3OWVjOTY5NDUxY2ZlN2E3YjJh`
+Snapshot ID: `MCw1ZWE4OGExYmM4NDNjNmYzNzFjMTk2Nzg1YzRjMTNmZTVjOTA3MTQ5`

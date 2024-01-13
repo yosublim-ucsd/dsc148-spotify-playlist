@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,221 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,093 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 22 | [Sweet Craving](https://open.spotify.com/track/6ORy3dG0eRQgfprk0MjjGp) | [King Josephine](https://open.spotify.com/artist/1qf05AiTQEYatPSVe1sRDz) | [Sweet Craving](https://open.spotify.com/album/2PZF0TA03SBBbOfhOblsJv) | 2:57 |
 | 23 | [Teach Me](https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Youth And Why It Ends](https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn) | 2:40 |
 | 24 | [Gypsy Woman](https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG), [ADLR](https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [Gypsy Woman](https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u) | 3:20 |
-| 25 | [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 |
+| 25 | [Turn Away](https://open.spotify.com/track/3iYfXX61UYS2fZPA16amzL) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line \(Extended\)](https://open.spotify.com/album/58MszPAmQJIbDklhdMCv7I) | 3:46 |
 | 26 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 27 | [Together Together](https://open.spotify.com/track/1cJuew45cBdyPnXyBipX17) | [Courtney Farren](https://open.spotify.com/artist/3nX6SFnMj80b4JUcc76GzT), [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Together Together](https://open.spotify.com/album/28hYmqMM8w65i3Yrg6im0c) | 2:52 |
 | 28 | [3AM](https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [3AM](https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Differences Aside](https://open.spotify.com/track/0olICfJFNxKfPeZtNgPa7G) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Differences Aside](https://open.spotify.com/album/60hjoFRYc1Q1wnFMGXQmlg) | 3:55 |
 | 50 | [Love Is Alive](https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Love Is Alive](https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt) | 3:52 |
 
-Snapshot ID: `MCw5OTg2NmExNzcxM2I5ZjE0MzlkOWY5MjQxMTQ3MGM5OGFiMzc3Y2Rm`
+Snapshot ID: `MCw0YjRkYzY4MmQyMmUzODI0YjRiOTA4MzRiZDFhMWFjMDU4ZjE0ODkx`

@@ -1,12 +1,12 @@
 {
   "description": "Ya viene amaneciendo, la luz ya nos alumbra.",
-  "num_followers": 103700,
+  "num_followers": 103734,
   "original_name": "A Darle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmY5NTM3MmUzMDZlNzY0OThiMjA3MmJlYmJkOTAxNWQwNTQ5MjVh",
+  "snapshot_id": "MCxhYWYyY2Y0OTJhYzlhZGI1YWZlMGUyZWNjZmEzNDlkM2MzNGUxMTZh",
   "tracks": [
     {
       "added_at": "2023-01-10 19:19:19",
@@ -423,18 +423,18 @@
     {
       "added_at": "2021-12-27 20:28:59",
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+      "duration_ms": 208160,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
     },
     {
       "added_at": "2023-01-10 19:19:19",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-12-27 20:28:59",
       "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+    },
+    {
+      "added_at": "2021-12-27 20:28:59",
+      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -477,20 +493,20 @@
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
-      "added_at": "2021-12-27 20:28:59",
+      "added_at": "2023-01-10 19:19:19",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
         }
       ],
-      "duration_ms": 208160,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2021-12-27 20:28:59",
@@ -507,22 +523,6 @@
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
-    },
-    {
-      "added_at": "2023-01-10 19:19:19",
-      "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
-        }
-      ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2021-12-27 20:28:59",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-12-27 20:28:59",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+    },
+    {
+      "added_at": "2021-12-27 20:28:59",
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2021-12-27 20:28:59",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
     },
     {
       "added_at": "2021-12-27 20:28:59",
@@ -911,8 +911,8 @@
     {
       "added_at": "2021-12-27 20:28:59",
       "album": {
-        "name": "Gracias America Sin Fronteras",
-        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 203586,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
+      "duration_ms": 178973,
+      "name": "Qu\u00e9 Tal Si Eres Tu",
+      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
     },
     {
       "added_at": "2021-12-27 20:28:59",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2021-12-27 20:28:59",
       "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
+        "name": "Gracias America Sin Fronteras",
+        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Qu\u00e9 Tal Si Eres Tu",
-      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
+      "duration_ms": 203586,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
       "added_at": "2021-12-27 20:28:59",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2021-12-27 20:28:59",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+        "name": "AYAYAY!",
+        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
+      "duration_ms": 159533,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN"
     },
     {
       "added_at": "2021-12-27 20:28:59",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2021-12-27 20:28:59",
       "album": {
-        "name": "AYAYAY!",
-        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 159533,
-      "name": "Se Me Olvid\u00f3",
-      "url": "https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN"
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
     },
     {
       "added_at": "2021-12-27 20:28:59",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
     },
     {
+      "added_at": "2021-12-27 20:28:59",
+      "album": {
+        "name": "Aqu\u00ed Abajo",
+        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
+    },
+    {
       "added_at": "2023-01-10 19:19:19",
       "album": {
         "name": "Y Si Se Quiere Ir",
@@ -1231,26 +1247,6 @@
       "duration_ms": 199147,
       "name": "Y Si Se Quiere Ir",
       "url": "https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO"
-    },
-    {
-      "added_at": "2021-12-27 20:28:59",
-      "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 172512,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
     }
   ],
   "unique_name": "A Darle",

@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 421107,
+  "2024-01-13": 421435,
   "date_first_scraped": "2022-01-02",
   "description": "Los \u00e9xitos del Dembow. Portada: Jey One y Donaty",
   "name": "Dembow Pegao",
@@ -4400,6 +4400,28 @@
     },
     {
       "album": {
+        "name": "EL REY DEL DEMBOW",
+        "url": "https://open.spotify.com/album/3ZONXDp5lBlScH7helYBko"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Papa Jeison",
+          "url": "https://open.spotify.com/artist/4BtCo7zwiMbbsQMAHHwTby"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180508,
+      "name": "MOLI",
+      "url": "https://open.spotify.com/track/4BOxB6wZy7oMEWxyZMkjVv"
+    },
+    {
+      "album": {
         "name": "MOLI",
         "url": "https://open.spotify.com/album/1apyvIqkv9KPNWgBE24rDu"
       },
@@ -4415,7 +4437,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 180508,
       "name": "Moli",
       "url": "https://open.spotify.com/track/6WiWFX2leVlEE4bhiMfGva"
@@ -5764,6 +5786,32 @@
     },
     {
       "album": {
+        "name": "EL REY DEL DEMBOW",
+        "url": "https://open.spotify.com/album/3ZONXDp5lBlScH7helYBko"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "EL PERROTE WZ",
+          "url": "https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D"
+        },
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263771,
+      "name": "RULAY & PICA POLLO",
+      "url": "https://open.spotify.com/track/5Ri7Ijy3CmlItHWusfl1Aw"
+    },
+    {
+      "album": {
         "name": "Rulay & Pica Pollo",
         "url": "https://open.spotify.com/album/3IX8Yc0qPOtLKxlL9wFdiH"
       },
@@ -5783,7 +5831,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 263771,
       "name": "Rulay & Pica Pollo",
       "url": "https://open.spotify.com/track/5SoD0boUrXxx7YBYF2TA5P"

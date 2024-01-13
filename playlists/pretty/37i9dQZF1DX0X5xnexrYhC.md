@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,031 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,995 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 27 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 |
 | 28 | [Sobriety](https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sobriety](https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk) | 2:06 |
 | 29 | [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 |
-| 30 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 |
-| 31 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
+| 30 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
+| 31 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 |
 | 32 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 |
 | 33 | [FMRN](https://open.spotify.com/track/6k6egroLMoShmt63RwaK4S) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/1n9zpxunDB1ZTHdBIMgpRK) | 2:02 |
 | 34 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 79 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
 | 80 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
 
-Snapshot ID: `MCwzNWEyNGIyMjBjNzYxMmFiZmViNDNjZWM2ZGM5OTM3YTVkODQxY2Zl`
+Snapshot ID: `MCxkNTUwZGYxMGM0MzljOTUzYWQ2Y2YxODdjMzI4MGU2ZTIzMDQ1NTAx`

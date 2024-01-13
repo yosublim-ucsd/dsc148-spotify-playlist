@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32973,
+  "num_followers": 32998,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
+  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Tochter meiner Mutter",
-        "url": "https://open.spotify.com/album/4WgxOMvuJWVLNvYdzTzOXo"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "Tochter meiner Mutter",
-      "url": "https://open.spotify.com/track/2XHxp4USQsAVkW1jujOmQa"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Not For The Ewigkeit",
         "url": "https://open.spotify.com/album/091kq1LRtonE14VbqpoIeb"
       },
@@ -159,18 +143,18 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Sneaky Link",
-        "url": "https://open.spotify.com/album/1VkdTHNIYBnTCsPcdwr244"
+        "name": "Tochter meiner Mutter",
+        "url": "https://open.spotify.com/album/4WgxOMvuJWVLNvYdzTzOXo"
       },
       "artists": [
         {
-          "name": "Aze",
-          "url": "https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1"
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
         }
       ],
-      "duration_ms": 157582,
-      "name": "Sneaky Link",
-      "url": "https://open.spotify.com/track/0PEYid7Dm4o9ZfAkuPIArI"
+      "duration_ms": 160482,
+      "name": "Tochter meiner Mutter",
+      "url": "https://open.spotify.com/track/2XHxp4USQsAVkW1jujOmQa"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -187,6 +171,22 @@
       "duration_ms": 137827,
       "name": "God Invented The Radio",
       "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Sneaky Link",
+        "url": "https://open.spotify.com/album/1VkdTHNIYBnTCsPcdwr244"
+      },
+      "artists": [
+        {
+          "name": "Aze",
+          "url": "https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1"
+        }
+      ],
+      "duration_ms": 157582,
+      "name": "Sneaky Link",
+      "url": "https://open.spotify.com/track/0PEYid7Dm4o9ZfAkuPIArI"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "See U Whenever",
+        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
+      },
+      "artists": [
+        {
+          "name": "Willow Parlo",
+          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
+        }
+      ],
+      "duration_ms": 220764,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb"
       },
@@ -391,38 +407,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Wuz poppin",
-        "url": "https://open.spotify.com/album/5qxriuwicjI98My7Z52bJK"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kat",
-          "url": "https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd"
-        }
-      ],
-      "duration_ms": 148462,
-      "name": "Wuz poppin",
-      "url": "https://open.spotify.com/track/0VwSCUl9wvV2McHly3VTW3"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "See U Whenever",
-        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
-      },
-      "artists": [
-        {
-          "name": "Willow Parlo",
-          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
-        }
-      ],
-      "duration_ms": 220764,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/1EVoP9HiCAtz1f8aIGyjJ3"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 176976,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/37KFF19iUOsht1gc9qyrH5"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Wuz poppin",
+        "url": "https://open.spotify.com/album/5qxriuwicjI98My7Z52bJK"
+      },
+      "artists": [
+        {
+          "name": "Kitty Kat",
+          "url": "https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd"
+        }
+      ],
+      "duration_ms": 148462,
+      "name": "Wuz poppin",
+      "url": "https://open.spotify.com/track/0VwSCUl9wvV2McHly3VTW3"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/5oTSOIBTT3JllUgEWXezoB"
-      },
-      "artists": [
-        {
-          "name": "JISKA",
-          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/3lVMgj0NUTy5KjFPZk8eyv"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1owrZgF2mos1oWCpsnA3Ly"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 140952,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1e1snBkwEaoXaW6LYt8lSE"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/5oTSOIBTT3JllUgEWXezoB"
+      },
+      "artists": [
+        {
+          "name": "JISKA",
+          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/3lVMgj0NUTy5KjFPZk8eyv"
     },
     {
       "added_at": "2024-01-09 23:00:00",

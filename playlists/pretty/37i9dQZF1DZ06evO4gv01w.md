@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,092 likes - 47 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,095 likes - 47 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 16 | [Mississippi \(feat\. Tyler Bryant\)](https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:39 |
 | 17 | [Southern Comfort](https://open.spotify.com/track/6SrhbwzEATeafnd0DmkiuA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:47 |
 | 18 | [Mad As A Hatter \- Live In Concert](https://open.spotify.com/track/165iM5ZIR7JnNLDBEG8rHb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg) | 5:12 |
-| 19 | [Come On In My Kitchen](https://open.spotify.com/track/4qaFnbqfIeIBSSFX9YNRe2) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 2:11 |
+| 19 | [Southern Comfort \(Trap Remix\)](https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Southern Comfort \(Trap Remix\)](https://open.spotify.com/album/4C3RHB97YZjgJfxCCYrySe) | 4:16 |
 | 20 | [Sometimes](https://open.spotify.com/track/3n5CGOLFC49Mki34ooYM8K) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 2:52 |
 | 21 | [Georgia Off My Mind](https://open.spotify.com/track/5SjyB8pyvZC2MMdLO0aKuw) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:54 |
-| 22 | [Southern Comfort \(Trap Remix\)](https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Southern Comfort \(Trap Remix\)](https://open.spotify.com/album/4C3RHB97YZjgJfxCCYrySe) | 4:16 |
-| 23 | [Fly Away](https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 3:30 |
+| 22 | [Fly Away](https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 3:30 |
+| 23 | [Come On In My Kitchen](https://open.spotify.com/track/4qaFnbqfIeIBSSFX9YNRe2) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 2:11 |
 | 24 | [Jailbreak](https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:48 |
 | 25 | [Keep Diggin'](https://open.spotify.com/track/2BGkIqllOR4ZfnzhdhUa5l) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:13 |
 | 26 | [Strangler Fig](https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C) | [Blair Dunlop](https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Killing Time](https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R) | 1:51 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 46 | [Baby Blue Eyes \(feat\. Larkin Poe\) \- Rainy Day Sessions](https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [The Rainy Day Sessions EP](https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr) | 3:53 |
 | 47 | [Ramblin' Man](https://open.spotify.com/track/6JJAm1akfBHkwL7hIRcA7G) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 2:43 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBjMDc2MWMwYmM4YmUwNWYwZjc4MzJlMGM5M2I4ZTNkMQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDBlZjczNjdmMmE3ODI5YTYyMGRjNTY1ZTZkNTM0Mjg0Nw==`

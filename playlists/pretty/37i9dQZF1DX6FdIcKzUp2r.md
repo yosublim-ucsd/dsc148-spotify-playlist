@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,857 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,896 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 23 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 |
 | 24 | [The One You Love](https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [No Fun Aloud](https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ) | 4:34 |
 | 25 | [Through the Barricades \- Remastered](https://open.spotify.com/track/5ALQSecfsZLsWip5CZK9aN) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Through the Barricades \(Remastered\)](https://open.spotify.com/album/5O1G1WHUO1IVRbl5VUUIdH) | 5:59 |
-| 26 | [Running To Stand Still](https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:17 |
-| 27 | [Theme from Harry's Game](https://open.spotify.com/track/7CTSDg60OC15XUJusBLPuo) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Lore \(Bonus Tracks Edition\)](https://open.spotify.com/album/6saa5JWJzpOzEzJ5JIah87) | 2:28 |
+| 26 | [Theme from Harry's Game](https://open.spotify.com/track/7CTSDg60OC15XUJusBLPuo) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Lore \(Bonus Tracks Edition\)](https://open.spotify.com/album/6saa5JWJzpOzEzJ5JIah87) | 2:28 |
+| 27 | [Running To Stand Still](https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:17 |
 | 28 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 29 | [Lea](https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 4:29 |
 | 30 | [There's Never a Forever Thing](https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Stay on These Roads](https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm) | 2:51 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 75 | [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 |
 | 76 | [Storybook Love](https://open.spotify.com/track/2qd9sd9JjKFe4OTqaaHTkc) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Princess Bride](https://open.spotify.com/album/0SVtLk3aXj2bGGckuynp00) | 4:24 |
 | 77 | [Private Investigations](https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 6:46 |
-| 78 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
-| 79 | [Almost Blue](https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 2:47 |
+| 78 | [Almost Blue](https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 2:47 |
+| 79 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
 | 80 | [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 |
 
-Snapshot ID: `MCwxNWI4ZTUwM2M1NzRiY2RlOTY3MDdhYWExMDBlZWMwY2I3ZDk0NDU2`
+Snapshot ID: `MCw1ZTAwZmQ2Yjg5ZWQ2ZGYwNDhhZDY2ODRhMDlhYjdhZjgyYWEwN2Uy`

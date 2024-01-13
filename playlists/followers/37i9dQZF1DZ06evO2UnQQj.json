@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 151,
+  "2024-01-13": 151,
   "date_first_scraped": "2023-12-31",
   "description": "This is Clara Lima. The essential tracks, all in one playlist.",
   "name": "This Is Clara Lima",
@@ -519,7 +519,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 161911,
       "name": "Fazendo Dinheiro",
       "url": "https://open.spotify.com/track/4afhuUD8py3NMvWPxwCSSX"
@@ -1171,12 +1171,16 @@
       },
       "artists": [
         {
-          "name": "WillsBife",
-          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+          "name": "CwGrillz",
+          "url": "https://open.spotify.com/artist/7h6G82HpRHmbZGo0hoZpDJ"
         },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
         },
         {
           "name": "DNASTY",
@@ -1349,7 +1353,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 457683,
       "name": "Trof\u00e9u",
       "url": "https://open.spotify.com/track/3fHg8oNVWCV5InUmgwPjqD"

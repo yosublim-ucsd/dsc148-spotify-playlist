@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 95222,
+  "num_followers": 95231,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjFhM2U0ZjRlMTI0OGZjZTg1NzllNTQ2YWI1MTY1NTcwMjljY2Ez",
+  "snapshot_id": "MCxjOTJmZWQ3NWY0ZDhkYzYxOTJiNDM5ODZmODM1ZDAzNzUxZmVkMjY2",
   "tracks": [
     {
       "added_at": "2024-01-03 09:30:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-01-03 09:30:00",
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "added_at": "2024-01-03 09:30:00",
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 189015,
       "name": "ANELLI E COLLANE (feat. ANNA)",
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
-    },
-    {
-      "added_at": "2024-01-03 09:30:00",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Mentalit\u00e9",
-      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
     },
     {
       "added_at": "2024-01-03 09:30:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-01-03 09:30:00",
       "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2024-01-03 09:30:00",
-      "album": {
         "name": "Maltempo",
         "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 172601,
       "name": "Storia Infinita (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
+    },
+    {
+      "added_at": "2024-01-03 09:30:00",
+      "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
       "added_at": "2024-01-03 09:30:00",

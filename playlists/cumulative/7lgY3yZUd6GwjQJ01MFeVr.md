@@ -2,9 +2,9 @@
 
 ### [Complete Country](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
 
-> All your favourite Country songs in one place! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=kKJMQnyCQCy3pCG6FSOKlw"> Zach Bryan</a>, Bailey Zimmerman, The Castellows, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more
+> All your favourite Country songs in one place! Featuring: <a href="https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG?si=wKmxFkhFSnukEMGmNd8pSg"> The Castellows</a>, Zach Bryan, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more
 
-65 songs - 3 hr 33 min
+68 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,20 +17,22 @@
 | [Carolina Blue](https://open.spotify.com/track/4Ok1t0oV1cFAF86LCeaV1s) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Carolina Blue](https://open.spotify.com/album/6zboHj31g4ATQXXcv3xYqA) | 3:33 | 2023-12-08 |  |
 | [Chase Her](https://open.spotify.com/track/3a8NTuwOT8NcIS3FpsLhY1) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:18 | 2023-12-08 |  |
 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/6mlrPThfssAGfuSMdKyckQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/album/5nluQhMl90VipZ1GV7NQcY) | 3:04 | 2023-12-08 |  |
+| [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 | 2024-01-12 |  |
 | [Cowboy Don’t](https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cowboy Don’t](https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q) | 2:42 | 2023-12-08 |  |
 | [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 | 2023-12-08 |  |
 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2023-12-08 |  |
 | [Falls Into Place](https://open.spotify.com/track/3qGmFd9KeyjUv1D3BuSST5) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Falls Into Place](https://open.spotify.com/album/7xmCM7jG3BDjQlPWiqgETl) | 3:33 | 2023-12-08 |  |
 | [Fixer Upper](https://open.spotify.com/track/1zsOdeipHnfc4MdzvFpktu) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Fixer Upper / CRZY](https://open.spotify.com/album/56AIOeQtl7IA1MjMyFtyZu) | 3:07 | 2023-12-08 |  |
-| [Fortune Teller](https://open.spotify.com/track/1TL5cJiLOfownWuk1zAaCZ) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F) | [Fortune Teller](https://open.spotify.com/album/565wVr2IzizcdAcnSjYRmK) | 3:33 | 2023-12-08 |  |
+| [Fortune Teller](https://open.spotify.com/track/1TL5cJiLOfownWuk1zAaCZ) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F) | [Fortune Teller](https://open.spotify.com/album/565wVr2IzizcdAcnSjYRmK) | 3:33 | 2023-12-08 | 2024-01-13 |
 | [Friends](https://open.spotify.com/track/7yZxBR1o5HBbS40fV9KlWh) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Friends](https://open.spotify.com/album/0Yp9phFkGNlasyazgx0EXo) | 3:26 | 2023-12-08 |  |
 | [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 | 2023-12-08 |  |
-| [Growin’ Up Raising You](https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Growin’ Up Raising You](https://open.spotify.com/album/1jdW9gWypFKDZvnStebVG5) | 3:15 | 2023-12-08 |  |
-| [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 | 2023-12-08 |  |
+| [Growin’ Up Raising You](https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Growin’ Up Raising You](https://open.spotify.com/album/1jdW9gWypFKDZvnStebVG5) | 3:15 | 2023-12-08 | 2024-01-13 |
+| [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 | 2023-12-08 | 2024-01-13 |
 | [Heart Like A Truck](https://open.spotify.com/track/4SZ0i1aQEmnfUGfp9x3yDK) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:19 | 2023-12-08 |  |
 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-12-08 |  |
 | [Hurricane](https://open.spotify.com/track/3A0AYh7WkYsatq8JU3IdJt) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Hurricane](https://open.spotify.com/album/58gOlBZH1HhW3D3ryZV8KO) | 4:09 | 2023-12-08 |  |
 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2023-12-08 |  |
+| [I Know It’ll Never End](https://open.spotify.com/track/7mJF8GrNWZl5TRrGzqf6je) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [I Know It’ll Never End](https://open.spotify.com/album/6FZBJXoiTOMGScOWc0uepS) | 2:35 | 2024-01-12 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-12-08 |  |
 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 | 2023-12-08 |  |
 | [I’ll Be Damned](https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [I’ll Be Damned](https://open.spotify.com/album/4PjzPyI2uEAnKW603XKKSc) | 3:08 | 2023-12-08 |  |
@@ -73,5 +75,6 @@
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-12-08 |  |
 | [Worst In Me](https://open.spotify.com/track/2jMetr6nF6WLRPzRmGh1Pc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Worst In Me](https://open.spotify.com/album/2lVxm2kp7BtwXPl1VQElSP) | 2:29 | 2023-12-08 |  |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2023-12-08 |  |
+| [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:22 | 2024-01-12 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

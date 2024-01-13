@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 366994,
+  "2024-01-13": 366733,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -473,6 +473,24 @@
       "duration_ms": 210951,
       "name": "2024",
       "url": "https://open.spotify.com/track/1SWRLrHykgDsPtGtezEf2F"
+    },
+    {
+      "album": {
+        "name": "2024 (Freestyle)",
+        "url": "https://open.spotify.com/album/7c9ZMe54iv35c2cEX1dP13"
+      },
+      "artists": [
+        {
+          "name": "Teckill",
+          "url": "https://open.spotify.com/artist/7yi1Mw32dZa5M3wXjWfGEG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211858,
+      "name": "2024 (Freestyle)",
+      "url": "https://open.spotify.com/track/4PIucCm13InnDwukJEVUL3"
     },
     {
       "album": {
@@ -6940,7 +6958,7 @@
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 155472,
+      "duration_ms": 157377,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
     },
@@ -12069,7 +12087,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 245987,
       "name": "Everleave",
       "url": "https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk"
@@ -15543,6 +15561,24 @@
       "duration_ms": 190173,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn"
+    },
+    {
+      "album": {
+        "name": "H00DBYAIR",
+        "url": "https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW"
+      },
+      "artists": [
+        {
+          "name": "nitro!",
+          "url": "https://open.spotify.com/artist/5otCfrzno8ga0qg868oibs"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212742,
+      "name": "H00DBYAIR",
+      "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
     },
     {
       "album": {
@@ -36683,7 +36719,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
@@ -41256,6 +41292,24 @@
     },
     {
       "album": {
+        "name": "Ur The Moon",
+        "url": "https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW"
+      },
+      "artists": [
+        {
+          "name": "Maori Beats",
+          "url": "https://open.spotify.com/artist/6T1ZK4NhuRAE64bCniMrGk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168125,
+      "name": "Ur The Moon",
+      "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
+    },
+    {
+      "album": {
         "name": "ur the moon",
         "url": "https://open.spotify.com/album/3UMvk3TDzkVQ4cT4xN2lEG"
       },
@@ -42457,7 +42511,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 150266,
       "name": "Watch Me Work",
       "url": "https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn"

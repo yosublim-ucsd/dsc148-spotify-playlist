@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,126 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,087 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 45 | [Kite in a Hurricane](https://open.spotify.com/track/07zuDFfCjjxjr6xve7rKDI) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Holy Ground](https://open.spotify.com/album/0Hq69eXXaoGvrVUSOLJrPb) | 3:19 |
 | 46 | [Wait for You](https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Wait for You](https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2) | 2:52 |
 | 47 | [We Could Start a Thing](https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [We Could Start a Thing](https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg) | 2:24 |
-| 48 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 |
-| 49 | [How Do You Feel](https://open.spotify.com/track/5bpj0ZqFlll4Xir4BPmGZ2) | [Nick Klyne](https://open.spotify.com/artist/3kykBEXWnTbBOYRKv78GyU) | [How Do You Feel](https://open.spotify.com/album/0nC8SQ0DUCC5RoQ55GBqK7) | 2:48 |
+| 48 | [How Do You Feel](https://open.spotify.com/track/5bpj0ZqFlll4Xir4BPmGZ2) | [Nick Klyne](https://open.spotify.com/artist/3kykBEXWnTbBOYRKv78GyU) | [How Do You Feel](https://open.spotify.com/album/0nC8SQ0DUCC5RoQ55GBqK7) | 2:48 |
+| 49 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 |
 | 50 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
 | 51 | [In The Middle](https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw) | [Mad3 for M3](https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV), [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [In The Middle](https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW) | 3:41 |
 | 52 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 64 | [Room for Another](https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Room for Another](https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM) | 3:05 |
 | 65 | [I Know](https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP) | [Micah & Julia](https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE) | [I Know](https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR) | 3:19 |
 | 66 | [Midnight](https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Midnight](https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf) | 3:22 |
-| 67 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
-| 68 | [We Were Liars](https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG) | [Atticus Blue](https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs) | [We Were Liars](https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl) | 2:50 |
-| 69 | [When You Say You Love Me](https://open.spotify.com/track/0A0pgeiFNdANI5po65sUrp) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [When You Say You Love Me](https://open.spotify.com/album/63TIdz31D1QJZn3zGzoAaX) | 2:18 |
+| 67 | [When You Say You Love Me](https://open.spotify.com/track/0A0pgeiFNdANI5po65sUrp) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [When You Say You Love Me](https://open.spotify.com/album/63TIdz31D1QJZn3zGzoAaX) | 2:18 |
+| 68 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
+| 69 | [We Were Liars](https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG) | [Atticus Blue](https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs) | [We Were Liars](https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl) | 2:50 |
 | 70 | [Learn to Love \- Stripped](https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Learn to Love \(Stripped\)](https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS) | 3:32 |
 
-Snapshot ID: `MCxkNGIwNTE1Y2QwNmU5NzMxNWJjYThiNjJiODU0N2IyNmY2OGI3ZTk4`
+Snapshot ID: `MCxiNDU0Y2YxMzAxM2YwODBiYWY0YjljMjQzZDkzZGJhYmVjODZjZWFj`

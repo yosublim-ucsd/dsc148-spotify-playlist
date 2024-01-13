@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 931827,
+  "num_followers": 930150,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmM2OTU4YTZjMGMzMjY0YjdiYTdhMGJlMGQ2NzgwNGVkMjllMjNl",
+  "snapshot_id": "MCw0OGJmMzczNWQ3ZmQ2ZTg3OTgzNmExZjIxYzlhNDEzNDM0MDNiODE2",
   "tracks": [
     {
       "added_at": "2023-12-26 18:14:21",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
+    },
+    {
       "added_at": "2023-12-26 18:14:21",
       "album": {
         "name": "Eras Of Us",
@@ -883,6 +899,22 @@
       "duration_ms": 168668,
       "name": "Eras Of Us",
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -903,22 +935,6 @@
       "duration_ms": 165619,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -975,6 +991,26 @@
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "I Will (When You Do)",
+        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "I Will (When You Do)",
+      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -1087,22 +1123,6 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 176058,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
       },
@@ -1115,6 +1135,22 @@
       "duration_ms": 220196,
       "name": "Take My Breath - Single Version",
       "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 176058,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -1483,6 +1519,22 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
+        "name": "Dirt Femme",
+        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
         "name": "working",
         "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
       },
@@ -1499,22 +1551,6 @@
       "duration_ms": 210219,
       "name": "working",
       "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -1991,26 +2027,6 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 172536,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -2047,6 +2063,26 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 172536,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
       },
@@ -2059,26 +2095,6 @@
       "duration_ms": 244635,
       "name": "altar",
       "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "Blessed & Free",
-        "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 198171,
-      "name": "Blessed & Free",
-      "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -2099,6 +2115,26 @@
       "duration_ms": 187306,
       "name": "Love Me Like I Am (with Jordin Sparks)",
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
+        "name": "Blessed & Free",
+        "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 198171,
+      "name": "Blessed & Free",
+      "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -2223,6 +2259,22 @@
       "duration_ms": 180902,
       "name": "MANIAC (feat. Windser)",
       "url": "https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 186599,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -2371,22 +2423,6 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
-        "name": "A R I Z O N A",
-        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "Dark Skies",
-      "url": "https://open.spotify.com/track/1LdldZb0pYsiAF88CHOSk3"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
         "name": "That's Life",
         "url": "https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j"
       },
@@ -2399,6 +2435,22 @@
       "duration_ms": 147653,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
+        "name": "A R I Z O N A",
+        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "Dark Skies",
+      "url": "https://open.spotify.com/track/1LdldZb0pYsiAF88CHOSk3"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -2575,54 +2627,6 @@
       "duration_ms": 201053,
       "name": "Brave",
       "url": "https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "Dancing With Your Shadows",
-        "url": "https://open.spotify.com/album/5KnSxd3ZZy1mx3zo2Utu4R"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 177569,
-      "name": "Dancing With Your Shadows",
-      "url": "https://open.spotify.com/track/1gOXJCXmQ7lVDdjxyHqfF4"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "Nightfalls",
-        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 220892,
-      "name": "Nightfalls",
-      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "The Best Is Yet To Come",
-        "url": "https://open.spotify.com/album/2zs4alV54L7X8B0lNghrG7"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "The Best Is Yet To Come",
-      "url": "https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD"
     }
   ],
   "unique_name": "Work From Home",

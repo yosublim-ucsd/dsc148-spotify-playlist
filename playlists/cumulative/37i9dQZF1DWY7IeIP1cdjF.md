@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Anitta, Peso Pluma, KAROL G, Bad Bunny and more.🔥🥵
+> Reggaeton hits from Bellakath, Feid, KAROL G, Bad Bunny and more.🔥🥵
 
 385 songs - 21 hr 32 min
 

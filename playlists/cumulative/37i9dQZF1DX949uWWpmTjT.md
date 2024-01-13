@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-893 songs - 2 day 10 hr 11 min
+894 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/1ho1wV4HROG8ZzJwLrMe3E) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 5:28 | 2021-12-03 | 2022-10-27 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-11-10 |  |
 | [Goodbye](https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Know What I Mean? \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX) | 6:17 | 2022-05-19 |  |
+| [Goor Katan](https://open.spotify.com/track/2OvghHcDNdpXYutDpm90f6) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/00G3MkRVJ8Kkd6YYxLS0uA) | 5:37 | 2024-01-12 |  |
 | [Goor Katan](https://open.spotify.com/track/6GwG8n60P79HgFdGmZMBH3) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ) | 5:37 | 2021-12-03 | 2023-12-24 |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Grey Mornings](https://open.spotify.com/track/4vR1tQ1rF01iF7Sc4ViLy3) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Grey Mornings](https://open.spotify.com/album/4sGFc6217FNH1aubBYdXQf) | 3:52 | 2023-09-22 |  |
@@ -714,7 +715,7 @@
 | [Sunny Days](https://open.spotify.com/track/381lxBVIMBN79lRzgOVVlu) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Moments of Solitude](https://open.spotify.com/album/2O9Gl75omwsBSfBDg8AYgb) | 4:49 | 2023-09-29 |  |
 | [Sunset Stroll](https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Sunset Stroll](https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf) | 2:44 | 2023-09-22 |  |
 | [Swedish sauce](https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Swedish sauce](https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc) | 3:21 | 2023-09-22 |  |
-| [Sweetness](https://open.spotify.com/track/3xvd1bC0V1U3nQ24y2nBk8) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 4:48 | 2022-05-24 |  |
+| [Sweetness](https://open.spotify.com/track/3xvd1bC0V1U3nQ24y2nBk8) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 4:48 | 2022-05-24 | 2024-01-13 |
 | [Swift](https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Swift](https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw) | 3:24 | 2023-08-31 |  |
 | [Take me to Liverpool](https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Take me to Liverpool](https://open.spotify.com/album/1YFTNcAXtntuZCnMK92OPe) | 3:24 | 2023-09-29 |  |
 | [Take Your Time](https://open.spotify.com/track/0hCcbt1WPlwjS5giGx8UaK) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Take Your Time](https://open.spotify.com/album/5qve7y23g4aLXc7ePaJPAN) | 4:38 | 2023-12-08 |  |

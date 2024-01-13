@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 32973,
+  "2024-01-13": 32998,
   "date_first_scraped": "2021-12-28",
   "description": "Women at full volume. Cover: Alice Merton",
   "name": "EQUAL GSA",
@@ -14727,6 +14727,24 @@
       "duration_ms": 237357,
       "name": "Paradies",
       "url": "https://open.spotify.com/track/12cUrqvuiDOPWiHaEl6Ao0"
+    },
+    {
+      "album": {
+        "name": "Paralysed",
+        "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161954,
+      "name": "Paralysed",
+      "url": "https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Lime Garden",
-  "num_followers": 114345,
+  "num_followers": 114352,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTc3YTZhYTAyMDY0ZDQ0ZjQwMTBlMzk0NGMwNzUwNzA2MjVkZjE5",
+  "snapshot_id": "MCw1YTI5OTY1MTVjMTVlZDBkMTVmZTIwNGNmZTk3ODIzMzU5MDQ0YmE3",
   "tracks": [
     {
       "added_at": "2024-01-12 01:09:27",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2024-01-12 01:09:27",
+      "album": {
         "name": "misery",
         "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2024-01-12 01:09:27",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
-        "name": "Deep Diving",
-        "url": "https://open.spotify.com/album/6jtHcOL3d6JKURexonnmRX"
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
       "artists": [
         {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 179525,
-      "name": "Deep Diving",
-      "url": "https://open.spotify.com/track/7mZqRLdsQ9zircq53qyW0z"
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+        "name": "Deep Diving",
+        "url": "https://open.spotify.com/album/6jtHcOL3d6JKURexonnmRX"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
         }
       ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+      "duration_ms": 179525,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/7mZqRLdsQ9zircq53qyW0z"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -695,22 +695,6 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2024-01-12 01:09:27",
-      "album": {
-        "name": "GO!!!",
-        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "GO!!!",
-      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
+        "name": "GO!!!",
+        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
+    },
+    {
+      "added_at": "2024-01-12 01:09:27",
+      "album": {
         "name": "Heartbreak Kid",
         "url": "https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 180978,
       "name": "Heartbreak Kid",
       "url": "https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp"
+    },
+    {
+      "added_at": "2024-01-12 01:09:27",
+      "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -827,6 +843,22 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+    },
+    {
+      "added_at": "2024-01-12 01:09:27",
+      "album": {
         "name": "The Hills",
         "url": "https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz"
       },
@@ -839,6 +871,22 @@
       "duration_ms": 211152,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
+    },
+    {
+      "added_at": "2024-01-12 01:09:27",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -859,22 +907,6 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
-    },
-    {
-      "added_at": "2024-01-12 01:09:27",
-      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -887,22 +919,6 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
-    },
-    {
-      "added_at": "2024-01-12 01:09:27",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -1051,6 +1067,26 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
+        "name": "Borderline Insane",
+        "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139664,
+      "name": "Borderline Insane",
+      "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2024-01-12 01:09:27",
+      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -1083,22 +1119,18 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
-        "name": "Borderline Insane",
-        "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        },
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 139664,
-      "name": "Borderline Insane",
-      "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+      "duration_ms": 174761,
+      "name": "I Wanna Dance With You",
+      "url": "https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -1115,22 +1147,6 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2024-01-12 01:09:27",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 174761,
-      "name": "I Wanna Dance With You",
-      "url": "https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
-        "name": "Lifetime of Wanting",
-        "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 184881,
-      "name": "Car Park",
-      "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
-    },
-    {
-      "added_at": "2024-01-12 01:09:27",
-      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 172921,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
+    },
+    {
+      "added_at": "2024-01-12 01:09:27",
+      "album": {
+        "name": "Lifetime of Wanting",
+        "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "duration_ms": 184881,
+      "name": "Car Park",
+      "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
     },
     {
       "added_at": "2024-01-12 01:09:27",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
-        "name": "Big Red",
-        "url": "https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "September",
-      "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"
-    },
-    {
-      "added_at": "2024-01-12 01:09:27",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-01-12 01:09:27",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+        "name": "Big Red",
+        "url": "https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
         }
       ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
+      "duration_ms": 204374,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"
     }
   ],
   "unique_name": "pulp",

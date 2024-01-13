@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,458 likes - 35 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,281 likes - 35 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 22 | [This Is for the Lover In You \(feat\. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels\)](https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Howard Hewett](https://open.spotify.com/artist/3S78Gzhp1D01i1x2KGXrnh), [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Jeffrey Daniels](https://open.spotify.com/artist/4LJ9G2mHQIu6z4NFvg5EhJ) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 3:59 |
 | 23 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
 | 24 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 |
-| 25 | [Ribbon in the Sky](https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 6:22 |
-| 26 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
+| 25 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
+| 26 | [Ribbon in the Sky](https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 6:22 |
 | 27 | [So Amazing](https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 4:10 |
 | 28 | [Yearning For Your Love](https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 4:56 |
 | 29 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Love Me in a Special Way](https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:50 |
 | 35 | [Stop, Look, Listen To Your Heart](https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [The Best Of Will Downing: The Millennium Collection \- 20th Century Masters](https://open.spotify.com/album/25s9D0Llmg6ZSvFCK9MDAM) | 3:41 |
 
-Snapshot ID: `MCw2NzkyZjJjMmYwNjQxZTQwMzAyZThkMDI3OTMyMGM0MmRjNzZiNDVj`
+Snapshot ID: `MCw4ODc0ZWViNzUzNzM3YjAwNWU0ZjdkMGY0NWIwMDc4NDM0MzJmMzRl`

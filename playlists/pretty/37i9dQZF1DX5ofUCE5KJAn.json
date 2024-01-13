@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 180948,
+  "num_followers": 180992,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzc2MTYyY2YzZTM5NWQ2ZmVmNmY0MDhmZWNkOTAxNmFkMjYwODMx",
+  "snapshot_id": "MCw0NmVjZTFjZmM1ZWUyZTkzOGM4N2Q4ZmU0MjkwOTk2MTdhMzAwZjlj",
   "tracks": [
     {
       "added_at": "2023-08-08 22:27:59",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "La bikina - En vivo",
-      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "La bikina - En vivo",
+      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 263133,
       "name": "Por Mujeres Como T\u00fa",
       "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Simbolo Sexual",
         "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
       },
@@ -1087,6 +1103,22 @@
       "duration_ms": 180208,
       "name": "S\u00edmbolo Sexual",
       "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Me Robaste El Corazon",
+        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1111,38 +1143,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Me Robaste El Corazon",
-        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Mexicano Hasta Las Pampas",
         "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
@@ -1155,6 +1155,26 @@
       "duration_ms": 174157,
       "name": "Voy A Conquistarte",
       "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1207,22 +1227,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1243,22 +1259,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Secuestro De Amor",
         "url": "https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 222820,
       "name": "Secuestro De Amor",
       "url": "https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "El Tropezon",
-        "url": "https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB"
-      },
-      "artists": [
-        {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
-        }
-      ],
-      "duration_ms": 260728,
-      "name": "La Picare",
-      "url": "https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Locos De Amor",
         "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 206146,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "El Tropezon",
+        "url": "https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB"
+      },
+      "artists": [
+        {
+          "name": "Alame\u00f1os de la Sierra",
+          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
+        }
+      ],
+      "duration_ms": 260728,
+      "name": "La Picare",
+      "url": "https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn"
     }
   ],
   "unique_name": "La Pozoliza",

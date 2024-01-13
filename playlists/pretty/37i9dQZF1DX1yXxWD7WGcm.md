@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,956 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,044 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 17 | [Tu me manques](https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP) | [Harry Diboula](https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn) | [Entre vous et moi \(32 Hits\)](https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB) | 4:27 |
 | 18 | [Flamme \- Radio Edit](https://open.spotify.com/track/2UtoiQC20KmUEEyW4gg5eo) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:37 |
 | 19 | [Danca Kizomba](https://open.spotify.com/track/6BLLoHOQqY3rOpMoaO6yHv) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Danca Kizomba](https://open.spotify.com/album/0bnbWYZTw0PxM4Lr2vTw7N) | 3:49 |
-| 20 | [Lé ou lov'](https://open.spotify.com/track/117YPw9g56mMbnVbP8Z4tw) | [Jean\-Michel Rotin](https://open.spotify.com/artist/11DvnOgfRFa9QTAnM8VbXo) | [Une histoire de musique : History Groov](https://open.spotify.com/album/3HyB1RT37OKvsD2glcPuhm) | 3:58 |
+| 20 | [](https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Viens zouker, vol\. 5](https://open.spotify.com/album/4frSY8kCNasO8e5xmlT6WM) | 0:00 |
 | 21 | [La nuit](https://open.spotify.com/track/1qV4eB7KbDS2iD9BrSBcl6) | [Abysse](https://open.spotify.com/artist/6TTSeRokOC64UlPtSx38gV), [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8) | [Kimberlite Zouk, Vol\. 1](https://open.spotify.com/album/4nP76jWLdl2i2Sm9lN8qUp) | 3:51 |
 | 22 | [Positif](https://open.spotify.com/track/7cdfFH5KIvKzDtssD0r35x) | [Matt Houston](https://open.spotify.com/artist/1ELgiI6P1y4zEkVElVjCbC), [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Racines](https://open.spotify.com/album/70RcOK36237fM7wnmzQ880) | 3:49 |
 | 23 | [Mon ami](https://open.spotify.com/track/728xjnYMKJuFl4DuW47qTR) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Turn Me Up](https://open.spotify.com/track/0mSQpFmTxOWszXXftJ7UEt) | [Willy Denzey](https://open.spotify.com/artist/1Fji4YKhqgzROcDJI15iNZ), [Prodyge Crew](https://open.spotify.com/artist/7A5fMLrJ1voYaYjZXs92Jg) | [Caribbean Selection](https://open.spotify.com/album/5Kojc994qKwaR1X4ayZbaH) | 4:36 |
 | 50 | [Maldòn \- Version originale](https://open.spotify.com/track/6YoBe1FqFL5w10bQbemW16) | [Zouk Machine](https://open.spotify.com/artist/7g4xlENR9dJm09i7ADhi21) | [Maldòn \(La musique dans la peau\)](https://open.spotify.com/album/7zrPW2t1vhy9fjOfopjQYN) | 4:05 |
 
-Snapshot ID: `MCw5Mjk4MjdiOGZiNjY2NjYxNWU0YjEzMzM4NDZiMmM3ZmE3N2VhODEx`
+Snapshot ID: `MCxjNTZhMTBlMjYzOWI0MzQ4YTZlZmVkNjI0YTY0YjE5YjEzNmNmNzAw`

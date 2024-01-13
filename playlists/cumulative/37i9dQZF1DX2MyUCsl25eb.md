@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-747 songs - 1 day 19 hr 22 min
+749 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Darling It's Over](https://open.spotify.com/track/3wEM3s8BMDpxX2D1dMSusQ) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Darling It's Over](https://open.spotify.com/album/1KBJpBjpKa51DySTWRT5pR) | 3:39 | 2022-02-04 | 2022-04-20 |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-31 | 2023-06-10 |
 | [Dayglow](https://open.spotify.com/track/0klBAxKxrNhC2ED94AKa5n) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM) | 3:30 | 2023-09-29 | 2023-11-18 |
-| [Dayglow](https://open.spotify.com/track/4YAaaOovDd3v20msKGvqdp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 3:30 | 2023-09-29 |  |
+| [Dayglow](https://open.spotify.com/track/4YAaaOovDd3v20msKGvqdp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 3:30 | 2023-09-29 | 2024-01-13 |
 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-07-14 |  |
 | [Didn't Say](https://open.spotify.com/track/1N8TRZPLLeWakoc1T1SGYt) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Didn't Say](https://open.spotify.com/album/6CHakQh4FSomvAr2j5MiRV) | 3:26 | 2023-07-28 | 2023-09-30 |
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2022-10-28 | 2023-07-08 |
@@ -344,6 +344,7 @@
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-25 |  |
 | [If I Can't Have You](https://open.spotify.com/track/3n5MOB82LKPL14eBEmodTd) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 4:13 | 2021-08-05 | 2022-04-16 |
 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 | 2021-08-05 | 2022-07-29 |
+| [If you love me](https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [If you love me](https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe) | 3:36 | 2024-01-12 |  |
 | [If You Think You've Seen It All](https://open.spotify.com/track/10q5sJ4yF1BWYGsiso3x14) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 4:28 | 2023-06-23 | 2023-11-04 |
 | [If You Think You've Seen It All](https://open.spotify.com/track/6nzegGZ4Y4YQq2dSsbF9R7) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 4:28 | 2023-06-23 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Imposter Syndrome](https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl) | 3:13 | 2022-08-05 | 2022-08-27 |
@@ -382,6 +383,7 @@
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2021-08-04 | 2022-09-03 |
 | [Last Train To London \(I Won't Look Back\)](https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0) | 3:52 | 2023-04-28 | 2023-10-07 |
 | [Leader Of The Landslide](https://open.spotify.com/track/1GobnJwog1V9M7UsITz8u5) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ) | 5:54 | 2021-08-04 | 2022-03-31 |
+| [Learn To Live Without You](https://open.spotify.com/track/4JU2iK9bpsfGrd5UMvt0D7) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Learn To Live Without You / Better Than Anything](https://open.spotify.com/album/1EzOWqVvTiEDzWaWt5YLxV) | 3:10 | 2024-01-12 |  |
 | [Leave It Better Than You Found It](https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Leave It Better Than You Found It](https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8) | 4:45 | 2023-12-15 |  |
 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-26 | 2023-02-04 |
 | [Less Than I Do](https://open.spotify.com/track/4QMSq1uq0JgvyKhEDp8wkx) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Less Than I Do](https://open.spotify.com/album/3P2pfKYwZCylJXcGlwlh2w) | 3:31 | 2021-08-04 | 2022-04-02 |
@@ -695,7 +697,7 @@
 | [way after forever](https://open.spotify.com/track/0uhGgihlgkmAGZvp93rUwm) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [way after forever](https://open.spotify.com/album/2IHqIp7JN9bbL5sV4qdgx4) | 2:53 | 2023-03-10 | 2023-09-30 |
 | [Way of the Heart](https://open.spotify.com/track/10JB2ih1BNYlactGPCet1M) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Detour de Force \(Deluxe Edition\)](https://open.spotify.com/album/1qP0WiK1cW3bE91eNQqGpi) | 3:48 | 2022-06-03 | 2022-06-11 |
 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 | 2021-08-04 | 2022-03-28 |
-| [we all could use some help](https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [we all could use some help](https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz) | 2:23 | 2023-07-21 |  |
+| [we all could use some help](https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [we all could use some help](https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz) | 2:23 | 2023-07-21 | 2024-01-13 |
 | [We'll Be Alright](https://open.spotify.com/track/6klNPAhUTmsYNlWbOyVbsy) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [We’ll Be Alright](https://open.spotify.com/album/7kpo8rHIFoa15JMwzxBDdf) | 3:53 | 2021-08-04 | 2022-05-21 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 | 2023-01-28 |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-10-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KbPfS5hIRBCLc0LhtKNwRw"> Black Sherif</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,499 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,588 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 41 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
 | 42 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 |
 | 43 | [Fuck That \(feat\. ODUMODUBLVCK\) \- Remix](https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Fuck That \(Remix\)](https://open.spotify.com/album/2ZlSnhUh40vj76xvWw0ijr) | 3:25 |
-| 44 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
-| 45 | [Philo \- Remix](https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Philo \(Remix\)](https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV) | 2:46 |
-| 46 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 |
+| 44 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 |
+| 45 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
+| 46 | [Philo \- Remix](https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Philo \(Remix\)](https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV) | 2:46 |
 | 47 | [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 |
 | 48 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 |
 | 49 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 64 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 |
 | 65 | [Family](https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Family](https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN) | 3:21 |
 | 66 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 |
-| 67 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 |
-| 68 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
+| 67 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
+| 68 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 |
 | 69 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 |
 | 70 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 |
 
-Snapshot ID: `MCwxM2I3OGEwZTE2MjQxMDdiZDk4NzU2ZDdmZTBhMTUzYjZlNjJlMjgz`
+Snapshot ID: `MCwwOGY5Nzk1NmQzMDIyNTI2YTMyNTQ0NTQzYzc5MjI1NWRkNzNjMWJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,503 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,547 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 6 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 |
 | 7 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 8 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
-| 9 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
-| 10 | [Esta Saliendo El Sol](https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:08 |
+| 9 | [Esta Saliendo El Sol](https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:08 |
+| 10 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
 | 11 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
 | 12 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 |
 | 13 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 42 | [Tantas Escaleras](https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:03 |
 | 43 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
 | 44 | [No Se Llama Amor](https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:07 |
-| 45 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 |
+| 45 | [Una Piba Con la Remera de Greenpeace](https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0) | 3:40 |
 | 46 | [Suerte](https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social I](https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky) | 5:39 |
 | 47 | [Triste Canción De Amor](https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [A Donde Me Lleva La Vida](https://open.spotify.com/album/5f86DyUHkazyikoFVWb237) | 5:07 |
 | 48 | [Volver a Nacer](https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:34 |
 | 49 | [Amar y Envejecer](https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 7:11 |
-| 50 | [Señor Kioskero](https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:18 |
-| 51 | [Clarobscuro](https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 5:08 |
-| 52 | [Una Piba Con la Remera de Greenpeace](https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0) | 3:40 |
-| 53 | [Ruleta](https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:16 |
+| 50 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 |
+| 51 | [Señor Kioskero](https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:18 |
+| 52 | [Ruleta](https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:16 |
+| 53 | [Clarobscuro](https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 5:08 |
 | 54 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 |
 | 55 | [Pepe Lui](https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Vengo Del Placard De Otro](https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby) | 4:04 |
 | 56 | [Volver a Casa](https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 3:46 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 66 | [Magdalena](https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Asuntos de Familia](https://open.spotify.com/album/2K8wTPG1Ca0CadebWMf2Jo) | 4:15 |
 | 67 | [Me Gustas Mucho](https://open.spotify.com/track/7JvKnVhM6qksNREXInCsXo) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 3:19 |
 | 68 | [100 Años](https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:01 |
-| 69 | [Carolina](https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [A Cielo Abierto \- El año del tigre](https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq) | 3:14 |
-| 70 | [Vine Hasta Aquí](https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:38 |
+| 69 | [Vine Hasta Aquí](https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:38 |
+| 70 | [Carolina](https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [A Cielo Abierto \- El año del tigre](https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq) | 3:14 |
 | 71 | [Sutil](https://open.spotify.com/track/3hkMZFo9dwI3mTM1I6eGu3) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:15 |
 | 72 | [Fuera De Control \(En Vivo\)](https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Tan \(En Vivo\)](https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz) | 3:32 |
 | 73 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 99 | [El Final Es En Donde Partí](https://open.spotify.com/track/1GA9luNLvwHSdDQD5yC2IJ) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Todo el día MÚSICA](https://open.spotify.com/album/6h6cdHzP4xPvbnj5TKBwan) | 4:36 |
 | 100 | [Voy A Bailar A La Nave Del Olvido \- Live](https://open.spotify.com/track/3JHwgLLYViFdF1LvXAIHuu) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Locura de Tramites: ROCK](https://open.spotify.com/album/1dcK7m7LnJYfXN3rJIE0xf) | 5:06 |
 
-Snapshot ID: `MCwzMTA0YWEyMTQ3NWY2NWRkZjgxZDAyY2FmMGVmNGYxZmYxNTBkNzQz`
+Snapshot ID: `MCxmNWY4ZTkwYTAyM2QzZDQzYmZhMTQwODI1NzM5ZmMwMzliNWQ3ZTI5`

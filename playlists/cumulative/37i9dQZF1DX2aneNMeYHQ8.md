@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-352 songs - 21 hr 25 min
+355 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Can't You See](https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9) | 3:30 | 2022-07-01 | 2022-12-02 |
 | [Cannabis Tree](https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR) | [Rome & Duddy](https://open.spotify.com/artist/56sqxTFviOe84mo1jj3faF) | [Cannabis Tree](https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS) | 4:51 | 2022-10-21 | 2022-11-12 |
 | [Cannonballers](https://open.spotify.com/track/2f0uekb8fxtGo8eRGFVM2B) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [The Cannonballers](https://open.spotify.com/album/12T59Aqwe8DMlcmZrOHpQW) | 2:52 | 2023-02-10 |  |
-| [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2023-04-04 |  |
+| [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2023-04-04 | 2024-01-13 |
 | [Changing](https://open.spotify.com/track/1l24p4pRr1KmoLsI6OUTry) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Changing](https://open.spotify.com/album/1OYygBBOq2U4tqiEKfRFlj) | 3:40 | 2021-10-22 | 2022-04-23 |
 | [Chasing Rainbows](https://open.spotify.com/track/5PiFSQFnq2YOxmDa2eq71h) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Chasing Rainbows](https://open.spotify.com/album/3MyG5ELX5oBw9B7lSNldka) | 3:27 | 2021-12-10 | 2022-07-02 |
 | [Chrysanthemums](https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Chrysanthemums](https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6) | 4:00 | 2022-04-22 | 2023-02-06 |
@@ -78,7 +78,7 @@
 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 | 2021-11-23 | 2023-02-11 |
 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 | 2023-06-02 |  |
 | [Easy Now](https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Easy Now](https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT) | 3:53 | 2023-02-10 | 2023-06-05 |
-| [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 | 2023-04-04 |  |
+| [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 | 2023-04-04 | 2024-01-13 |
 | [Electrify My Love](https://open.spotify.com/track/5WfVPULd9FbXo4TPb6NT1w) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Electrify My Love](https://open.spotify.com/album/3V6TXPJE3GEKWyptLYekM0) | 4:53 | 2022-05-25 | 2022-07-29 |
 | [Elizabeth Taylor](https://open.spotify.com/track/3ugqcqDDIuBGovoWueX1zP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Elizabeth Taylor](https://open.spotify.com/album/59gCtHmNtSL4NzjIXYGL5g) | 3:15 | 2021-11-23 | 2022-03-26 |
 | [Empty Nest](https://open.spotify.com/track/47t8l6TmVhY1QZBveAEcWR) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Physical Thrills](https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb) | 4:16 | 2023-02-24 |  |
@@ -177,7 +177,7 @@
 | [Life](https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Life](https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi) | 3:06 | 2021-10-29 | 2022-02-12 |
 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 | 2023-08-26 |  |
 | [Live Like You](https://open.spotify.com/track/3RqP7ov8PZyZbBjgipuTkP) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/4Bl6s5laPvfeIIvmeS6teE) | 3:01 | 2021-01-29 | 2022-07-29 |
-| [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 | 2022-07-01 |  |
+| [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 | 2022-07-01 | 2024-01-13 |
 | [Living Proof](https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Living Proof](https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45) | 4:53 | 2021-07-23 | 2022-01-15 |
 | [LONEDON](https://open.spotify.com/track/7IFvkycsxZNtfdl2htZgFr) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [LONEDON](https://open.spotify.com/album/6hVb6tsYyQ6nD7nDpgfRe6) | 3:14 | 2022-10-21 | 2022-11-12 |
 | [Lonely In This Town](https://open.spotify.com/track/0UOdFcj336Zdroeq6uO3W2) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Lonely In This Town](https://open.spotify.com/album/6JWH86y5BMSpSTbkV0m0zy) | 4:20 | 2023-08-18 | 2023-09-06 |
@@ -276,6 +276,7 @@
 | [So Caught Up](https://open.spotify.com/track/4hXyXsww7q7ETKeVKD034T) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [So Caught Up](https://open.spotify.com/album/4kZ4Zf5TpRzNQf79ijFdws) | 3:48 | 2021-01-29 | 2022-10-03 |
 | [So Happy It Hurts](https://open.spotify.com/track/3uUgytODjrj5CzRl01ALdk) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Kick Ass](https://open.spotify.com/album/2ZXbHxfZBohaSObTJPAYTh) | 3:35 | 2021-12-09 | 2022-07-27 |
 | [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 | 2022-07-01 | 2022-10-22 |
+| [Someday, Someday](https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Someday, Someday](https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m) | 3:00 | 2024-01-12 |  |
 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 | 2022-02-11 | 2023-02-25 |
 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 | 2022-12-02 |  |
 | [Speeding 72](https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:58 | 2022-11-11 | 2022-12-01 |
@@ -300,6 +301,7 @@
 | [Survivor](https://open.spotify.com/track/2TSiZ6ZtA4x5NbQgGpYrVU) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Survivor](https://open.spotify.com/album/5OVhDxr9XYs8WRHR0Njiad) | 4:01 | 2021-08-20 | 2022-07-29 |
 | [Take A Walk](https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Take A Walk](https://open.spotify.com/album/0ZHOjJXOJ5kZpidFOqWtnw) | 3:46 | 2022-03-11 | 2022-07-02 |
 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 | 2021-01-29 | 2022-04-09 |
+| [Talk to Me](https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Talk to Me](https://open.spotify.com/album/6a0hKzzXU9yfULzFLnASm7) | 4:02 | 2024-01-12 |  |
 | [Talkin' to Myself](https://open.spotify.com/track/4K20Uwh83Jf6i8RXBrLCpD) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Talkin' to Myself](https://open.spotify.com/album/6kiT74gcWiUjW5VefQeknP) | 2:46 | 2022-01-11 | 2022-07-29 |
 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 | 2022-07-01 |  |
 | [Tangled](https://open.spotify.com/track/5sCS5RD3FoaPpru90mS8R7) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Tangled](https://open.spotify.com/album/4g32h5uIabwgSDGykJTvSh) | 3:47 | 2022-02-11 | 2022-07-29 |
@@ -339,6 +341,7 @@
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-08-26 |  |
 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 | 2022-02-11 |  |
 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2021-11-05 | 2023-08-27 |
+| [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
 | [Wash, Rinse, Repeat](https://open.spotify.com/track/5JeLSgtuw8BoCHVcCfD6s9) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat](https://open.spotify.com/album/5GzV9TLzuzZC0OcYy7pPJH) | 2:51 | 2022-02-11 | 2022-07-29 |
 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 | 2022-01-14 | 2023-05-13 |
 | [We're All Gonna Die](https://open.spotify.com/track/6fJ5MkqhAfuhWH6AnqhJ5r) | [Hey Steve](https://open.spotify.com/artist/1dEy8GyHa99GlK0dYuOmjo) | [We're All Gonna Die](https://open.spotify.com/album/0MqKndfaTwYeXcaBfrLuGp) | 2:27 | 2022-11-11 | 2022-11-21 |

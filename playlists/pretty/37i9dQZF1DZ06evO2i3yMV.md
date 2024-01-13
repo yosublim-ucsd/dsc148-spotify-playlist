@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,900 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,902 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 40 | [Sweet Day](https://open.spotify.com/track/3w4hulywDgU9V8D9qw5B08) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:36 |
 | 41 | [Day Job](https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 4:35 |
 | 42 | [Surrender](https://open.spotify.com/track/3jifQTZXtoV5KxLGi1snKz) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [You're Invited](https://open.spotify.com/album/25f18whwKF8gB6U8z7IlZ1) | 3:40 |
-| 43 | [Mind Of](https://open.spotify.com/track/6wq6qtnJCEQET0of8vhit8) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:02 |
+| 43 | [3rd Boom](https://open.spotify.com/track/2c4j5tKcZrTJdOkRfPrh2Z) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 0:47 |
 | 44 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 |
 | 45 | [Stigmatizing Sex](https://open.spotify.com/track/02bnahS6YFurzZoNoRdXUj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 2:58 |
 | 46 | [We Love \- Felix Cartal Remix](https://open.spotify.com/track/4sq6ztw5bT9pibLbt8xxD3) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Lune Rouge \(Remixed\)](https://open.spotify.com/album/7uKVs92IVcvcoMzhPbi8V5) | 3:10 |
-| 47 | [3rd Boom](https://open.spotify.com/track/2c4j5tKcZrTJdOkRfPrh2Z) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 0:47 |
+| 47 | [Mind Of](https://open.spotify.com/track/6wq6qtnJCEQET0of8vhit8) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:02 |
 | 48 | [Sa Mo Jung](https://open.spotify.com/track/2xbfhyjjSQMzBooLs7ZmT8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:06 |
 | 49 | [I'm Waiting](https://open.spotify.com/track/7tbm1Ca9FlGnxSF9XamZUI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:10 |
-| 50 | [Dusty Stars](https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:11 |
+| 50 | [Go With It \(feat\. MNDR\)](https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 4:23 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA5MzdlODFiYmI2ZmFiZDIxZWU1ZTNkNjVlMmUzMmI3NA==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAxNzhkYWFiYzE5ODUxMmZlYTUzYmQwNDFmYzkzYjRhMg==`

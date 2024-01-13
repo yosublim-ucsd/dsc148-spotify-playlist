@@ -1,12 +1,12 @@
 {
   "description": "Horns up for this metal soundtrack for headbangers of all ages!",
-  "num_followers": 94773,
+  "num_followers": 94870,
   "original_name": "Raised on Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGY0MDhiOTExMDhjM2JmZWM0NzU2NjcxMTc5NmFkOWRkMjlmOGY2",
+  "snapshot_id": "MCwzZTNhMzVlNzQ5NzgxNDZlYTA2YTQ0OGFhMTA5NGFlNmE1Y2U1OTUx",
   "tracks": [
     {
       "added_at": "2021-04-20 17:47:58",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
+        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
+        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 252778,
+      "name": "Same Ol' Situation (S.O.S.) (2021- Remaster)",
+      "url": "https://open.spotify.com/track/4NUIdHd04RIUdTmwNVBw5I"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
         "name": "Empire - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 187893,
       "name": "No More Mr. Nice Guy",
       "url": "https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
-        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
-        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 252778,
-      "name": "Same Ol' Situation (S.O.S.) (2021- Remaster)",
-      "url": "https://open.spotify.com/track/4NUIdHd04RIUdTmwNVBw5I"
     },
     {
       "added_at": "2021-04-20 17:47:58",

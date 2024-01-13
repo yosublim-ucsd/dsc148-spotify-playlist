@@ -8487,6 +8487,24 @@
     },
     {
       "album": {
+        "name": "Twenties",
+        "url": "https://open.spotify.com/album/6hqgL9Ev3uGwXsdfXEhYc9"
+      },
+      "artists": [
+        {
+          "name": "Rosie Frater-Taylor",
+          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176355,
+      "name": "Twenties",
+      "url": "https://open.spotify.com/track/5Ntgp1ZwLyVXDf7FwWra2K"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1dBh8K3zOKvn5OxQR1sRZi"
       },

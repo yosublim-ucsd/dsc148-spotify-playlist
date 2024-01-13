@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Myke Towers",
-  "num_followers": 985665,
+  "num_followers": 983062,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjcyY2YzZDI5NTVhOWFjNTUyZGVjNGU3ZjRlMjRhODE1YmZlZjUz",
+  "snapshot_id": "MCwyMzU3MjMxZTAwODQ3OTU5OTI3NGZhNzEwYjZlMzZhODQ1OWIxZTE2",
   "tracks": [
     {
       "added_at": "2024-01-11 23:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Como Ves, No Siempre He Sido M\u00eda...",
+        "url": "https://open.spotify.com/album/6xRDlcSpp3keEbXgRtFiPa"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "duration_ms": 207173,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/4iVvZOJiBmQXZHKTdLTh7C"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "Lugar Para\u00edso",
         "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 177103,
       "name": "COMO TE QUIERO YO",
       "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Como Ves, No Siempre He Sido M\u00eda...",
-        "url": "https://open.spotify.com/album/6xRDlcSpp3keEbXgRtFiPa"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        }
-      ],
-      "duration_ms": 207173,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/4iVvZOJiBmQXZHKTdLTh7C"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -831,26 +831,6 @@
       "duration_ms": 163000,
       "name": "Copita Champagne",
       "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "GOOD DAY (feat. Camidoh)",
-        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 164765,
-      "name": "GOOD DAY (feat. Camidoh)",
-      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -935,6 +915,42 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "PELO RIZAO",
+        "url": "https://open.spotify.com/album/22Lhso3TmfMscoIY23MT07"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 194136,
+      "name": "PELO RIZAO",
+      "url": "https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -955,22 +971,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "escribiendo TKM",
-        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
+        "name": "SEROTONINA (DELUXE)",
+        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
       },
       "artists": [
         {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         },
         {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 145174,
-      "name": "escribiendo TKM",
-      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
+      "duration_ms": 211127,
+      "name": "COMO YO TE QUIERO (DELUXE)",
+      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1003,6 +1019,26 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "escribiendo TKM",
+        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "escribiendo TKM",
+      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "La \u00daltima",
         "url": "https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU"
       },
@@ -1015,42 +1051,6 @@
       "duration_ms": 203528,
       "name": "La \u00daltima",
       "url": "https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "PELO RIZAO",
-        "url": "https://open.spotify.com/album/22Lhso3TmfMscoIY23MT07"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 194136,
-      "name": "PELO RIZAO",
-      "url": "https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "SEROTONINA (DELUXE)",
-        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 211127,
-      "name": "COMO YO TE QUIERO (DELUXE)",
-      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
     },
     {
       "added_at": "2024-01-11 23:01:00",

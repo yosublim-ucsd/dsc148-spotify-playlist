@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,066 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,144 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 39 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
 | 40 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 41 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
-| 42 | [glittr](https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 2:38 |
-| 43 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
+| 42 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
+| 43 | [glittr](https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 2:38 |
 | 44 | [victim](https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:55 |
 | 45 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
 | 46 | [i hate it here](https://open.spotify.com/track/2raN4Xp2bY3MAeU0OBx9Bg) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/0zCWwURtHzZhsNjg4gziIU) | 2:37 |
 | 47 | [Black Rum](https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Cake Pop 2](https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8) | 2:26 |
-| 48 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
-| 49 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
+| 48 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
+| 49 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
 | 50 | [IRIS](https://open.spotify.com/track/5ruHCGUNXz9q9fGagRo9TO) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [mortal](https://open.spotify.com/album/2O0IaA0jv0zsu0BW7qm4CM) | 1:42 |
 | 51 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
 | 52 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 69 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
 | 70 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 |
 | 71 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
-| 72 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |
-| 73 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
+| 72 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
+| 73 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |
 | 74 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 | 75 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
 
-Snapshot ID: `MCxhZjVlM2QyZTRhMThkMmRhZWY3ZWIxZTc0ZTZmZWJmMWY4YjFmNDQ3`
+Snapshot ID: `MCxlZDEwMmM4MGY3ZWVlMTg2ZTI1ZDQwZTIxMDczZGM2ZmRmNTIxNGEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,466 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,445 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Princípio, Meio e Fim \- Ao Vivo](https://open.spotify.com/track/3Xxhc8X9toGvIDDxVAnmnn) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Marquinho Sathan](https://open.spotify.com/artist/6pGDvf6PGo4GLcZnOw5Wd7) | [Bom Gosto No Cacique \(Ao Vivo\)](https://open.spotify.com/album/1yY1GVqgmQtBR1GY8j8ffS) | 4:46 |
 | 50 | [Você Não Sabe Voltar \- Ao Vivo](https://open.spotify.com/track/6nXYDIFHCJuZu1l8F4E4Hg) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote House Music \(Ao Vivo\)](https://open.spotify.com/album/4dvNnE6w4eBxyNxG59UEdL) | 2:47 |
 
-Snapshot ID: `MCw1ODZiMGZhNTNhYmE1M2MzYmMwODY2YTBhODU1Y2ZiYjE0YjU2MTNj`
+Snapshot ID: `MCw4NjIwNjJmNDM4MjNlMWM1ZGE4MTM0ZjI1ZGIxNTQ5NGUyNzg4NGJm`

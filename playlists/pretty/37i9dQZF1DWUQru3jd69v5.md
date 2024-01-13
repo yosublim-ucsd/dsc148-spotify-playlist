@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: BIG P
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,246 likes - 55 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,128 likes - 55 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Artista Di Strada](https://open.spotify.com/track/4zxjREbcWw6I58QLwHrbAb) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Artista Di Strada](https://open.spotify.com/album/6RP5ca2jk3w2Nt5YDV2IvP) | 2:38 |
 | 55 | [MALOCCHIO \#2](https://open.spotify.com/track/4vDBHRi45xgWOcljwWhlzA) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [MALOCCHIO \#2](https://open.spotify.com/album/5e7KwebaX0y3BEZBHoq41T) | 1:33 |
 
-Snapshot ID: `MCxhODQ2OTg3MzNjODc4MTQ5NmI0Y2I3YTZjNzc5Yjk5ZGQ4ZGZjM2Ri`
+Snapshot ID: `MCwwZTFmZmM2ZmUyMWJjOGE2ZTg4NTcyZmM4ZjdkNzRhNTk4NzJjMTdj`

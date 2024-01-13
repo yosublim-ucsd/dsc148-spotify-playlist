@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 68498,
+  "num_followers": 68525,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTBkOTFiNDYwN2UzZjhkMWZkMjY0NDE3NzQ5MTEwYTViNDY2MmU4",
+  "snapshot_id": "MCw0NGVjOGE2YWQzMDJhNWU0OWE3ZWY3NTI3ZjA0YTFlODUwNjAxNGYy",
   "tracks": [
     {
       "added_at": "2023-09-26 05:23:38",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 150413,
       "name": "Recuerda",
       "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -751,18 +751,26 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Tan Bella y Tan Presumida (En Vivo)",
-        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
+        "name": "Y Si Me Miran",
+        "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
       "artists": [
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida - En Vivo",
-      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
+      "duration_ms": 213141,
+      "name": "Y Si Me Miran",
+      "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -787,26 +795,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Y Si Me Miran",
-        "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
+        "name": "Tan Bella y Tan Presumida (En Vivo)",
+        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 213141,
-      "name": "Y Si Me Miran",
-      "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida - En Vivo",
+      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 173890,
+      "name": "La Novena Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 251746,
       "name": "Comando X (En Vivo)",
       "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 173890,
-      "name": "La Novena Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Doble Llave",
-        "url": "https://open.spotify.com/album/2xp1WOs330wnGBgfXEI7T5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 171558,
-      "name": "Doble Llave",
-      "url": "https://open.spotify.com/track/4n22YbMhxJ3yU5ckd8WUjm"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "El Corrido Del Piyi (LDLG)",
         "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Doble Llave",
+        "url": "https://open.spotify.com/album/2xp1WOs330wnGBgfXEI7T5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 171558,
+      "name": "Doble Llave",
+      "url": "https://open.spotify.com/track/4n22YbMhxJ3yU5ckd8WUjm"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 233106,
-      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
-      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "Recuerdos Para Pistear (En Vivo)",
         "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 187143,
       "name": "Edgar Guzman - En Vivo",
       "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
+      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2667,22 +2667,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "La Chapiza (En Vivo)",
-        "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
+        "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
+        "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         },
         {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 125956,
-      "name": "La Chapiza - En Vivo",
-      "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
+      "duration_ms": 142240,
+      "name": "El Flaquito",
+      "url": "https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

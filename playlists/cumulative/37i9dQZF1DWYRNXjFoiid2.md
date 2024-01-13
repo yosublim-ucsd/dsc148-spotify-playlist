@@ -4,7 +4,7 @@
 
 > Today's best pop to fuel your gaming\. Cover: BoyWithUke
 
-334 songs - 16 hr 35 min
+335 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2021-10-22 | 2022-04-29 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-24 | 2022-10-16 |
 | [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-10-14 |  |
-| [Like A G6](https://open.spotify.com/track/129rk9pTdMs0a0JGHMSW8x) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Like A G6](https://open.spotify.com/album/6Q6euJJrGm04OqBRLAycNV) | 2:47 | 2023-12-08 |  |
+| [Like A G6](https://open.spotify.com/track/129rk9pTdMs0a0JGHMSW8x) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Like A G6](https://open.spotify.com/album/6Q6euJJrGm04OqBRLAycNV) | 2:47 | 2023-12-08 | 2024-01-13 |
 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 | 2023-06-06 | 2023-12-09 |
 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 | 2021-10-22 | 2022-04-16 |
 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 | 2021-10-22 | 2022-02-20 |
@@ -338,6 +338,7 @@
 | [Wish You Well](https://open.spotify.com/track/6nJpgyFLsXOr0nAm7NK0xC) | [BOY $COUT GATSBY](https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179) | [Wish You Well](https://open.spotify.com/album/4wyVBiF1059DWSRhF0P6eK) | 2:38 | 2022-07-01 | 2022-07-06 |
 | [Wishing Well](https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:14 | 2022-04-15 |  |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-10-22 |  |
+| [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2024-01-12 |  |
 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 | 2022-04-15 | 2022-04-29 |
 | [Yellow Hearts](https://open.spotify.com/track/2W4yABdLc4Jnds67Poi5Nl) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Yellow Hearts](https://open.spotify.com/album/7L5mva8yC5ctamvs4XzgpR) | 3:43 | 2021-10-22 | 2022-02-22 |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-11-12 | 2023-04-09 |

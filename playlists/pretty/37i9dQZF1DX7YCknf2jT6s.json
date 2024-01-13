@@ -1,13 +1,29 @@
 {
-  "description": "New jazz for open minds. Cover: Yussef Dayes",
-  "num_followers": 914805,
+  "description": "New jazz for open minds. Cover: Charles Lloyd",
+  "num_followers": 914388,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTM1YjlmNzdjMjNhMDUwNzJmZGY0ZWIwMTM4ZDJiOTJkNWM3MDEw",
+  "snapshot_id": "MCwwYmNiYWMwZWJmYjA5ZGIzNTk4MWE5M2M0MmI4ZTgzMTE2Nzc4OTk1",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Defiant, Tender Warrior",
+        "url": "https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 256840,
+      "name": "Defiant, Tender Warrior",
+      "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
+    },
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
@@ -45,6 +61,22 @@
       "url": "https://open.spotify.com/track/5yBdcdmA0RuzMC4uu2a8Xt"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "tendency",
+        "url": "https://open.spotify.com/album/1wBJHXnqkNz4gejadi335v"
+      },
+      "artists": [
+        {
+          "name": "Tony Glausi",
+          "url": "https://open.spotify.com/artist/5ZkNEylmE0uGS4lgPOskat"
+        }
+      ],
+      "duration_ms": 213285,
+      "name": "tendency",
+      "url": "https://open.spotify.com/track/2UiCZsBsEtXcirKSADyc8y"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "A STORY ABOUT YOU",
@@ -59,6 +91,46 @@
       "duration_ms": 292210,
       "name": "Beyond the Redemption",
       "url": "https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "O.D.",
+        "url": "https://open.spotify.com/album/2bfTuPw8Po9DK2khRZvvPX"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "Zaire Darden",
+          "url": "https://open.spotify.com/artist/7pmxvCvhXe9kSw3upjDZqn"
+        }
+      ],
+      "duration_ms": 618441,
+      "name": "O.D.",
+      "url": "https://open.spotify.com/track/2vUZLxMxd99KvyGkFQIRbQ"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Marking My Time (BADBADNOTGOOD Edit)",
+        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 252503,
+      "name": "Marking My Time - BADBADNOTGOOD Edit",
+      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -95,46 +167,6 @@
       "duration_ms": 167146,
       "name": "Butane Dream",
       "url": "https://open.spotify.com/track/3otrs2M0c4B8jk1nofRfkR"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Marking My Time (BADBADNOTGOOD Edit)",
-        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 252503,
-      "name": "Marking My Time - BADBADNOTGOOD Edit",
-      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "O.D.",
-        "url": "https://open.spotify.com/album/2bfTuPw8Po9DK2khRZvvPX"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        },
-        {
-          "name": "Zaire Darden",
-          "url": "https://open.spotify.com/artist/7pmxvCvhXe9kSw3upjDZqn"
-        }
-      ],
-      "duration_ms": 618441,
-      "name": "O.D.",
-      "url": "https://open.spotify.com/track/2vUZLxMxd99KvyGkFQIRbQ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1531,54 +1563,6 @@
       "duration_ms": 270602,
       "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
       "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 205651,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/4ODfxzVSPvIJOBs7OIGwvd"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Not My King",
-        "url": "https://open.spotify.com/album/1M79E2krDVMxYUy7OHGMYP"
-      },
-      "artists": [
-        {
-          "name": "Chiminyo",
-          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
-        },
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        },
-        {
-          "name": "James Mollison",
-          "url": "https://open.spotify.com/artist/5FHf0e5ya34Q4nDr1RbITm"
-        },
-        {
-          "name": "Axel Kaner-Lidstrom",
-          "url": "https://open.spotify.com/artist/0R4jkE6q1364F71jgVku0B"
-        }
-      ],
-      "duration_ms": 136776,
-      "name": "Not My King",
-      "url": "https://open.spotify.com/track/5rGMMibA5QXosSfJBW4MPo"
     },
     {
       "added_at": "2023-06-30 04:01:00",

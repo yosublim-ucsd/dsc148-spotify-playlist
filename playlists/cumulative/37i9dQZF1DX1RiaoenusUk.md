@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-113 songs - 7 hr 35 min
+114 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 | 2023-02-17 |  |
 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 | 2023-02-17 | 2023-09-10 |
 | [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 | 2023-02-17 | 2023-12-03 |
-| [Aspiradora](https://open.spotify.com/track/5pF1fRrOEv9pYSWNnb4ow1) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 5:01 | 2023-12-08 |  |
+| [Aspiradora](https://open.spotify.com/track/5pF1fRrOEv9pYSWNnb4ow1) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 5:01 | 2023-12-08 | 2024-01-13 |
 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 | 2023-02-17 | 2024-01-02 |
 | [Back to Life](https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Eco \(feat\. Funky Torinos\)](https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH) | 4:46 | 2023-02-17 |  |
 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 | 2023-02-17 |  |
@@ -84,6 +84,7 @@
 | [Mi Propio Paraíso](https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc) | [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp), [Nico Cota](https://open.spotify.com/artist/3R7H5BnszTX4pYrBXOkmeR) | [Peluche Peligroso](https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn) | 4:26 | 2023-02-17 |  |
 | [Monte Fuji](https://open.spotify.com/track/2rUOSo8ttuETxWH1CqulhS) | [Santos de Madera](https://open.spotify.com/artist/3AMbKAJi3R8sEQFJkscCEO) | [Monte Fuji](https://open.spotify.com/album/6jkOVQCi7HQYf6ZnW7Zkrw) | 3:53 | 2023-02-17 |  |
 | [Myselfed](https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Myselfed](https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf) | 4:47 | 2023-02-17 |  |
+| [Nada Sería Igual](https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Nada Sería Igual](https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw) | 3:23 | 2024-01-12 |  |
 | [Negra Monamour](https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 3:32 | 2023-02-17 |  |
 | [Nocaut](https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT) | [Papanegro](https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm) | [7](https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX) | 3:03 | 2023-02-17 |  |
 | [Nuestro Destino](https://open.spotify.com/track/1Lfy91Y2ecc9S18JV0MhN5) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [A Pesar de la Tormenta](https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW) | 3:27 | 2023-12-08 |  |

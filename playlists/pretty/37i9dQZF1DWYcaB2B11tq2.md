@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,238 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,977 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,18 +25,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 15 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
 | 16 | [Gracia Sublime Es](https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Piedras Vivas](https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG) | 5:15 |
 | 17 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
-| 18 | [Promesas](https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Promesas](https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8) | 4:01 |
+| 18 | [Vida Encontré](https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida Encontré](https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e) | 3:35 |
 | 19 | [Es Por Tu Gracia](https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 3:22 |
-| 20 | [Vida Encontré](https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida Encontré](https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e) | 3:35 |
+| 20 | [Promesas](https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Promesas](https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8) | 4:01 |
 | 21 | [Vives tú y vivo yo](https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Regreso a Ti](https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA) | 4:12 |
 | 22 | [No Estoy Solo](https://open.spotify.com/track/5a3l8FTXaRGFkUn9jdvqKa) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Lo Que el Viento Me Enseño](https://open.spotify.com/album/4yu6vGUgF13tbPSO4Pysy5) | 4:34 |
 | 23 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
 | 24 | [Al Final](https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Sin Miedo a Nada](https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8) | 4:03 |
-| 25 | [Me sostendrá](https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me sostendrá](https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS) | 5:25 |
-| 26 | [Increíble \(En Vivo\)](https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:35 |
-| 27 | [En El Mar De Tu Gracia](https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [A Partir De Hoy](https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN) | 3:33 |
-| 28 | [Tu Poeta](https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Te Puedo Sentir](https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8) | 4:34 |
-| 29 | [El Gran Yo Soy](https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 5:33 |
+| 25 | [Increíble \(En Vivo\)](https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:35 |
+| 26 | [En El Mar De Tu Gracia](https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [A Partir De Hoy](https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN) | 3:33 |
+| 27 | [El Gran Yo Soy](https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 5:33 |
+| 28 | [Me sostendrá](https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me sostendrá](https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS) | 5:25 |
+| 29 | [Tu Poeta](https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Te Puedo Sentir](https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8) | 4:34 |
 | 30 | [Give Me Faith](https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Kingdom Come](https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH) | 4:54 |
 | 31 | [Comenzar de Cero](https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Comenzar de Cero](https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS) | 3:50 |
 | 32 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
 | 75 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 
-Snapshot ID: `MCw1NWU5YmExNjIzMWZjYzdiY2FmNmU1YmIwMjg2NGVmNDFiM2UyNGYx`
+Snapshot ID: `MCwzMGVhZWE1M2YwYTQ4YWFhNDhlOTM1NjQzNzZkOTVkN2ExOTM2Y2Jm`

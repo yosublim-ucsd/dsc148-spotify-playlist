@@ -4,7 +4,7 @@
 
 > 100 canciones de la época nostálgica más reciente.
 
-106 songs - 6 hr 51 min
+107 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 | 2022-07-06 |  |
 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 | 2022-07-06 |  |
 | [Como Alí](https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Máquina de Sangre](https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx) | 3:31 | 2022-07-06 | 2024-01-04 |
-| [Complicado y Aturdido / Mulher de Fases](https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:54 | 2022-07-06 |  |
+| [Complicado y Aturdido / Mulher de Fases](https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:54 | 2022-07-06 | 2024-01-13 |
 | [Cosas Del Amor](https://open.spotify.com/track/5NLQrrvnWFrwbtl5Li3AuB) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Nunca Se Acaba](https://open.spotify.com/album/5sN0cr5TIs5sm29m0FfOCY) | 3:03 | 2022-07-06 |  |
 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 | 2022-07-06 |  |
 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 | 2022-07-06 |  |
@@ -101,6 +101,7 @@
 | [Una Calle Nos Separa](https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 3:32 | 2022-07-06 |  |
 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 | 2022-07-06 |  |
 | [Una Piba Con la Remera de Greenpeace](https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48) | 3:40 | 2022-07-06 | 2024-01-04 |
+| [Una Piba Con la Remera de Greenpeace](https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0) | 3:40 | 2022-07-06 |  |
 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 | 2022-07-06 |  |
 | [Una Ráfaga De Amor](https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Soplando Fuerte / Un Fenómeno Natural](https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC) | 3:02 | 2022-07-06 | 2023-09-02 |
 | [Vas a Bailar](https://open.spotify.com/track/6Ew4raE2TqVLWjWspybOFt) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 5:00 | 2022-07-06 |  |

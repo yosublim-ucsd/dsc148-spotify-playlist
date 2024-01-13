@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: ヨルシカ
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,701 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,685 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 51 | [心得](https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [心得](https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz) | 3:39 |
 | 52 | [Sugar](https://open.spotify.com/track/3ZidhE0rAgZxe2U1zTpiq1) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Sugar](https://open.spotify.com/album/1FgRxF3akMYOfNaD8ZXlD1) | 3:40 |
 | 53 | [Biscuit](https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Biscuit](https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg) | 3:24 |
-| 54 | [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 |
+| 54 | [I Pray](https://open.spotify.com/track/2fAI3SPRCSXmR8rplvuPg9) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P) | 3:22 |
 | 55 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 | 56 | [This Wish \- From "Wish"](https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv) | 3:25 |
 | 57 | [恋だとは](https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [恋だとは](https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb) | 3:46 |
@@ -86,15 +86,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 76 | [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 |
 | 77 | [Moon](https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK) | 3:01 |
 | 78 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 |
-| 79 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 |
-| 80 | [UP TO ME!](https://open.spotify.com/track/0J9Uc8VeEljV62jAcdLXQO) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/7hBsU35JlTGaVv5lwaxBli) | 3:30 |
+| 79 | [UP TO ME!](https://open.spotify.com/track/0J9Uc8VeEljV62jAcdLXQO) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/7hBsU35JlTGaVv5lwaxBli) | 3:30 |
+| 80 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 |
 | 81 | [あたしが死んでも](https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [純愛クローゼット](https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9) | 4:37 |
 | 82 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 |
-| 83 | [すみっコディスコ](https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [すみっコディスコ](https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR) | 3:27 |
+| 83 | [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 |
 | 84 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
-| 85 | [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 |
+| 85 | [開青](https://open.spotify.com/track/4cJA1eDGR2G5vaeYeXdglV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [開青](https://open.spotify.com/album/3gCUsxrr1yBcbFu1co2bZ0) | 3:25 |
 | 86 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 |
-| 87 | [開青](https://open.spotify.com/track/4cJA1eDGR2G5vaeYeXdglV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [開青](https://open.spotify.com/album/3gCUsxrr1yBcbFu1co2bZ0) | 3:25 |
+| 87 | [すみっコディスコ](https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [すみっコディスコ](https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR) | 3:27 |
 | 88 | [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 |
 | 89 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 |
 | 90 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 |
 | 100 | [愛をありがとう](https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [愛をありがとう](https://open.spotify.com/album/5eaaXphQ2C5rwgoOKTbOp1) | 5:14 |
 
-Snapshot ID: `MCxhYTM5OGVmMzUzNGU3ZGNhZTZhODFlMmQ5ZmE1NGQ3OTBkODcxZWVi`
+Snapshot ID: `MCxlNzMwYTE0ZGFhMmI4MTZkNDk2NzI0MWM4OGU0MDM2Y2JhNTdkZjkx`

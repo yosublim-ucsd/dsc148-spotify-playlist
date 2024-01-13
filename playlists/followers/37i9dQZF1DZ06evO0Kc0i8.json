@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 631424,
+  "2024-01-13": 631739,
   "date_first_scraped": "2023-04-07",
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
   "name": "This Is Rauw Alejandro",
@@ -213,6 +213,28 @@
       "duration_ms": 186087,
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163265,
+      "name": "Besalo",
+      "url": "https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N"
     },
     {
       "album": {
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 183652,
       "name": "SI TE PEGAS",
       "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"

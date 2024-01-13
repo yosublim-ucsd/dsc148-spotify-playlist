@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,112 songs - 1 day 18 hr 4 min
+1,113 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,6 +751,7 @@
 | [Pass It On](https://open.spotify.com/track/6W14nPKn5Xro5bg98uTM33) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Pass It On](https://open.spotify.com/album/50qapmoJ4j60haCzDTp9hX) | 2:15 | 2021-11-10 | 2022-07-22 |
 | [Past Midnight](https://open.spotify.com/track/7BRIAMsYoDibVWzelRRxne) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Past Midnight](https://open.spotify.com/album/01tzaLa2yzvxwlswYjUv1v) | 1:56 | 2022-11-25 | 2023-11-18 |
 | [Pathways](https://open.spotify.com/track/7Bha2btgoPHzSwWwyzcTI8) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Pathways](https://open.spotify.com/album/7rmvsiZrRELGCaCIyestXt) | 1:58 | 2022-08-19 | 2023-05-20 |
+| [patterns](https://open.spotify.com/track/0sqx1hG3HTw8i4iGw1r4WQ) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [patterns](https://open.spotify.com/album/0y6cc9xjMT1sU5QtgE7q8r) | 2:33 | 2024-01-12 |  |
 | [Peace and Stone](https://open.spotify.com/track/4P3flpTrYtN1VcVuK4BhPf) | [Skyplanter](https://open.spotify.com/artist/7iaPZbKQSJ5Sw9ThZNfJw7) | [Equivalence](https://open.spotify.com/album/63yQb9VeujB0rdz1m4g5jb) | 2:43 | 2021-11-10 | 2022-10-15 |
 | [peace at midnight](https://open.spotify.com/track/1KfA7CY934KLIyML4sSPgw) | [harrylofi](https://open.spotify.com/artist/5kketA9XnMDFtJsDFLUVtf) | [Peaceful midnight](https://open.spotify.com/album/1QFlYJq4DCDXOu8NSdXREs) | 2:37 | 2022-09-09 | 2023-10-06 |
 | [Peace of Mind](https://open.spotify.com/track/6HlU3FOBkfvp0ZHjb3wtyk) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Peace of Mind](https://open.spotify.com/album/2NFy87ep1fU7anUIswd6c3) | 2:49 | 2022-04-15 | 2022-12-10 |
@@ -1097,7 +1098,7 @@
 | [When I See You](https://open.spotify.com/track/6ANnNFLIzVkJsabPH1CiNa) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM) | [When I See You](https://open.spotify.com/album/5EKkFX7EyjungYP6o4vx8I) | 2:20 | 2022-05-13 | 2022-06-10 |
 | [where were u](https://open.spotify.com/track/4lPug66ovwaHAqWJ1lUFLW) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [where were u](https://open.spotify.com/album/2HAjfWz1lAJFKhGdO7QJ15) | 2:12 | 2022-06-24 | 2023-01-20 |
 | [Whiskey on the rocks](https://open.spotify.com/track/55XFlOD8d0N5tw4ab6CmKB) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Whiskey on the rocks](https://open.spotify.com/album/4k3uNMBvvXrAhuJHajf8SJ) | 2:44 | 2023-01-13 |  |
-| [Who's who's](https://open.spotify.com/track/5Q8LCJkKHAK6GmZ1U5Dl8R) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [From Atlanta](https://open.spotify.com/album/0DFDuubdw9JMF7C3ruiQuA) | 1:34 | 2023-02-17 |  |
+| [Who's who's](https://open.spotify.com/track/5Q8LCJkKHAK6GmZ1U5Dl8R) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [From Atlanta](https://open.spotify.com/album/0DFDuubdw9JMF7C3ruiQuA) | 1:34 | 2023-02-17 | 2024-01-13 |
 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 | 2023-07-13 | 2023-09-29 |
 | [Wild Mallow](https://open.spotify.com/track/7Ed0zQz9cAArGzWbxrmhiS) | [The Lofi Big Band](https://open.spotify.com/artist/0A63pWT1p5WGcJfyiSAEkc) | [Wild Mallow](https://open.spotify.com/album/2XUqR0rvvEPpSHRG1ATe4h) | 2:57 | 2023-04-11 | 2023-10-06 |
 | [windwaker](https://open.spotify.com/track/4d5H7qh9proZa2X9q8L5kr) | [nowimalamp](https://open.spotify.com/artist/3S6o2iikKpNQ1R0cMKdToW) | [sunken garden](https://open.spotify.com/album/111DkEhdC6ijjy2i0r2JOS) | 2:43 | 2022-08-12 | 2023-03-18 |

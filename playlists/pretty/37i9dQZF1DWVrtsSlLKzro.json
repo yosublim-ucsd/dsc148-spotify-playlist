@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 625382,
+  "num_followers": 625198,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzRiMjc1YzZjZTY5NjU0OWNkOWI2NWU1MzYwNWVjNGU0YzQxN2E4",
+  "snapshot_id": "MCwzZDMzZTRiMzdiZTY0NDZjNzVkZTFmNmUxMjZlZWJjMzA0MDdlMTY0",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "All In My Head",
-        "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Fallen Embers",
         "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 230571,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "My Mistake",
-        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 195757,
-      "name": "My Mistake",
-      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Never Give Up On You (with Elle Vee)",
         "url": "https://open.spotify.com/album/1Rd5iSReakdd3r5H7g9p51"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 171622,
       "name": "nice 2 me",
       "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "My Mistake",
+        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 195757,
+      "name": "My Mistake",
+      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Oh, Miles",
+        "url": "https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 333870,
+      "name": "Oh, Miles",
+      "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Hurts Sometimes (with Jonathan Mendelsohn)",
         "url": "https://open.spotify.com/album/7jOpNmgc2qpGOxwOpanK8B"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 225882,
       "name": "Hurts Sometimes (with Jonathan Mendelsohn)",
       "url": "https://open.spotify.com/track/2wwSQbfTJUqNqDch31XUpW"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Oh, Miles",
-        "url": "https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 333870,
-      "name": "Oh, Miles",
-      "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/5i1JWD1UbiURo8JlguXhym"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "I Don't Wanna Know",
         "url": "https://open.spotify.com/album/4Q9WKZvB7Sf6rgRHJ9pWKD"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 180522,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/0hHcQSdtwycNOec82X2QId"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Nobody Like You (feat. Lost Boy)",
-        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Nobody Like You (feat. Lost Boy)",
-      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1275,6 +1255,26 @@
       "duration_ms": 203530,
       "name": "Love For You",
       "url": "https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Nobody Like You (feat. Lost Boy)",
+        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Nobody Like You (feat. Lost Boy)",
+      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "I'm My Only Friend",
-        "url": "https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 192016,
-      "name": "I'm My Only Friend (feat. Arden Jones)",
-      "url": "https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 199285,
       "name": "Colorblind (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/44J9wUVTFIGKmjDJb4e5Oq"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "I'm My Only Friend",
+        "url": "https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 192016,
+      "name": "I'm My Only Friend (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "New York ft. mazie",
-        "url": "https://open.spotify.com/album/5MIu1XVdFF3AD2rTuMvGX8"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 132228,
-      "name": "New York ft. mazie",
-      "url": "https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Not In Love (feat. LOWES)",
         "url": "https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo"
       },
@@ -1663,6 +1639,30 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "New York ft. mazie",
+        "url": "https://open.spotify.com/album/5MIu1XVdFF3AD2rTuMvGX8"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 132228,
+      "name": "New York ft. mazie",
+      "url": "https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Replay (with Dylan Matthew)",
         "url": "https://open.spotify.com/album/238LCLiN6LwDX12Ess9x0K"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 241411,
       "name": "Replay (with Dylan Matthew)",
       "url": "https://open.spotify.com/track/1Ylkd7GPx0VpwHNlAGpig2"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Temper Temper (feat. ONR)",
-        "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "ONR",
-          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "Temper Temper (feat. ONR)",
-      "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1739,6 +1719,26 @@
       "duration_ms": 291428,
       "name": "Disappearing Now",
       "url": "https://open.spotify.com/track/2g9vY91OCirbr91b0fEBfa"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Temper Temper (feat. ONR)",
+        "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "ONR",
+          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "Temper Temper (feat. ONR)",
+      "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "White Lie",
-        "url": "https://open.spotify.com/album/31wVVPpxS9EJFkuWiMvpc8"
-      },
-      "artists": [
-        {
-          "name": "Hessian",
-          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
-        },
-        {
-          "name": "Emma Mae",
-          "url": "https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv"
-        }
-      ],
-      "duration_ms": 236256,
-      "name": "White Lie",
-      "url": "https://open.spotify.com/track/1njftOjmyXeibS6TvwiCB0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Read Your Mind (with sad alex)",
         "url": "https://open.spotify.com/album/0YrVbBOAFno3lbKyY03Rob"
       },
@@ -2367,6 +2347,26 @@
       "duration_ms": 186000,
       "name": "Read Your Mind (with sad alex)",
       "url": "https://open.spotify.com/track/5YXpxCNleJkeXZ0bLKv7MJ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "White Lie",
+        "url": "https://open.spotify.com/album/31wVVPpxS9EJFkuWiMvpc8"
+      },
+      "artists": [
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Emma Mae",
+          "url": "https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv"
+        }
+      ],
+      "duration_ms": 236256,
+      "name": "White Lie",
+      "url": "https://open.spotify.com/track/1njftOjmyXeibS6TvwiCB0"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2423,6 +2423,22 @@
       "duration_ms": 173225,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4wJwh34rm2dDZbYh8Kxzh4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "A Little More Lost",
+        "url": "https://open.spotify.com/album/4mAllDoY6J7ks6Gks3Vozw"
+      },
+      "artists": [
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 162164,
+      "name": "A Little More Lost",
+      "url": "https://open.spotify.com/track/2Y9p7cLtnsUjL43uM5C0UG"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2503,22 +2519,6 @@
       "duration_ms": 213036,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "A Little More Lost",
-        "url": "https://open.spotify.com/album/4mAllDoY6J7ks6Gks3Vozw"
-      },
-      "artists": [
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 162164,
-      "name": "A Little More Lost",
-      "url": "https://open.spotify.com/track/2Y9p7cLtnsUjL43uM5C0UG"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2659,26 +2659,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Hurts Sometimes (with RUNN)",
         "url": "https://open.spotify.com/album/64HRawr4ExQg35luwZxlql"
       },
@@ -2695,6 +2675,26 @@
       "duration_ms": 248625,
       "name": "Hurts Sometimes (with RUNN)",
       "url": "https://open.spotify.com/track/4IWE1369xmE7gOhQGFshYZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2939,18 +2939,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/2wsT5jedDnViFsaN076WES"
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
       },
       "artists": [
         {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/1IRfa7grmih9KNGuH6RCjJ"
+      "duration_ms": 207840,
+      "name": "Anxious Mind",
+      "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2971,22 +2975,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Capricorn Sun",
-        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/2wsT5jedDnViFsaN076WES"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
         }
       ],
-      "duration_ms": 207840,
-      "name": "Anxious Mind",
-      "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
+      "duration_ms": 176250,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/1IRfa7grmih9KNGuH6RCjJ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -3115,6 +3115,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI"
+      },
+      "artists": [
+        {
+          "name": "SAINT",
+          "url": "https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n"
+        }
+      ],
+      "duration_ms": 270010,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Never Easy",
         "url": "https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo"
       },
@@ -3131,22 +3147,6 @@
       "duration_ms": 224391,
       "name": "Never Easy",
       "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI"
-      },
-      "artists": [
-        {
-          "name": "SAINT",
-          "url": "https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n"
-        }
-      ],
-      "duration_ms": 270010,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja"
     },
     {
       "added_at": "2023-12-08 05:00:00",

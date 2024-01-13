@@ -4,12 +4,13 @@
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 
-117 songs - 7 hr 4 min
+118 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/5](https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [24/5](https://open.spotify.com/album/263g4l4u6u115I2ISnMkQP) | 2:38 | 2022-05-27 |  |
 | [Adore You](https://open.spotify.com/track/1M4qEo4HE3PRaCOM7EXNJq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Adore You](https://open.spotify.com/album/5SL9nXZYZZl68bHwaM8uLa) | 3:27 | 2022-05-27 |  |
+| [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-12 |  |
 | [All I Ever Wanted](https://open.spotify.com/track/3p0M2TUGrPyt2vfojWpjLw) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:23 | 2022-05-27 |  |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2022-05-27 |  |
 | [All of Me](https://open.spotify.com/track/4oyTkYNopVIPm7Ebah6H2F) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Valentine's Day \- R&B Love](https://open.spotify.com/album/6oUTqYPV88CVjpv2H4Noo9) | 4:30 | 2022-05-27 |  |
@@ -82,7 +83,7 @@
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2022-05-27 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 | 2022-05-27 |  |
 | [Marry Me \- Kat & Bastian Duet](https://open.spotify.com/track/1oWXQ83ILNfQUu1cT3jTnf) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Kat & Bastian Duet\)](https://open.spotify.com/album/3lVFhB6idnknGsWtLtOLSL) | 2:39 | 2022-05-27 | 2023-01-26 |
-| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-05-27 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-05-27 | 2024-01-13 |
 | [More of You](https://open.spotify.com/track/5YIDGLa5vsAMdzDW6jnAKk) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [More of You](https://open.spotify.com/album/3eLtBqvmjRkAjicP140Aec) | 2:34 | 2022-05-27 |  |
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2022-05-27 |  |
 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 | 2022-05-27 |  |
@@ -124,6 +125,6 @@
 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2022-05-27 |  |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2022-05-27 |  |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2022-05-27 |  |
-| [Your Ex](https://open.spotify.com/track/3IkXLkNFF93omLpzxfcOK8) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Your Ex](https://open.spotify.com/album/38N1yrl3r6rGulkphT8pO3) | 3:37 | 2023-09-04 |  |
+| [Your Ex](https://open.spotify.com/track/3IkXLkNFF93omLpzxfcOK8) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Your Ex](https://open.spotify.com/album/38N1yrl3r6rGulkphT8pO3) | 3:37 | 2023-09-04 | 2024-01-13 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

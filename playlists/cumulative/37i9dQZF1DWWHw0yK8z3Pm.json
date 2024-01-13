@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 209573,
       "name": "Baby, You're a Gun",
       "url": "https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN"
@@ -3317,6 +3317,24 @@
     },
     {
       "album": {
+        "name": "In Emerald",
+        "url": "https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI"
+      },
+      "artists": [
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210465,
+      "name": "In Emerald",
+      "url": "https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy"
+    },
+    {
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP"
       },
@@ -4132,7 +4150,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 278639,
       "name": "Maritime",
       "url": "https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA"
@@ -5260,6 +5278,28 @@
       "duration_ms": 186458,
       "name": "Ride the Lightning - 717 Tapes",
       "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
+    },
+    {
+      "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
     },
     {
       "album": {

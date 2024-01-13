@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 430528,
+  "num_followers": 430700,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGZmMmY1MGU1OWZlNDBlOGM2NDdkNWFhN2U5NmY3ODRlZDBlOTQ4",
+  "snapshot_id": "MCw3MDhhZTNiMTJmZjUxMTYyMzc5MzAwMjVkMzQ0ZmRlNGU5YzUwYmNk",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -131,26 +131,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "What Kinda Music",
-        "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 300990,
-      "name": "Nightrider",
-      "url": "https://open.spotify.com/track/5TgZ7lOUugOdabBcD9a6ud"
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
     },
     {
       "added_at": "2023-09-25 02:25:33",
@@ -187,18 +179,26 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+        "name": "What Kinda Music",
+        "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
+      "duration_ms": 300990,
+      "name": "Nightrider",
+      "url": "https://open.spotify.com/track/5TgZ7lOUugOdabBcD9a6ud"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -785,38 +785,6 @@
       "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
     },
     {
-      "added_at": "2022-02-25 03:07:19",
-      "album": {
-        "name": "MAHAL",
-        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Origin (Deluxe Edition)",
@@ -831,6 +799,42 @@
       "duration_ms": 179693,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+    },
+    {
+      "added_at": "2022-02-25 03:07:19",
+      "album": {
+        "name": "MAHAL",
+        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -887,22 +891,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
     },
     {
-      "added_at": "2023-09-25 02:40:58",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
-    },
-    {
       "added_at": "2021-10-28 19:01:32",
       "album": {
         "name": "Time to Melt",
@@ -1117,6 +1101,22 @@
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
+      "added_at": "2023-09-25 02:40:58",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "SULA",
@@ -1131,26 +1131,6 @@
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
-    },
-    {
-      "added_at": "2023-10-10 01:29:29",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Duncan Bellamy",
-          "url": "https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ"
-        }
-      ],
-      "duration_ms": 258120,
-      "name": "Thin Line",
-      "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
     },
     {
       "added_at": "2023-02-21 02:56:05",
@@ -1185,6 +1165,26 @@
       "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
+      "added_at": "2023-10-10 01:29:29",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Duncan Bellamy",
+          "url": "https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ"
+        }
+      ],
+      "duration_ms": 258120,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
+    },
+    {
       "added_at": "2023-06-02 01:45:44",
       "album": {
         "name": "Trouble / In My Head",
@@ -1199,38 +1199,6 @@
       "duration_ms": 186528,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
-    },
-    {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Spotlight - Single Edit",
-      "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1255,6 +1223,38 @@
       "duration_ms": 276826,
       "name": "Don\u2019t Let Get You Down",
       "url": "https://open.spotify.com/track/0XvzfXYGaGTYH2LbVAD4G0"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Spotlight - Single Edit",
+      "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
+    },
+    {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1293,26 +1293,6 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
-      "added_at": "2023-08-31 18:57:48",
-      "album": {
-        "name": "After Hours (Yu Su Remix)",
-        "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
-      },
-      "artists": [
-        {
-          "name": "Alyson McNamara",
-          "url": "https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby"
-        },
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 348094,
-      "name": "After Hours - Yu Su Remix",
-      "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Shout Out! To Freedom...",
@@ -1347,6 +1327,26 @@
       "duration_ms": 200480,
       "name": "Coming to Get You Nowhere",
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-08-31 18:57:48",
+      "album": {
+        "name": "After Hours (Yu Su Remix)",
+        "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
+      },
+      "artists": [
+        {
+          "name": "Alyson McNamara",
+          "url": "https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "duration_ms": 348094,
+      "name": "After Hours - Yu Su Remix",
+      "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
     },
     {
       "added_at": "2022-09-29 00:10:44",
@@ -1509,6 +1509,22 @@
       "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
     },
     {
+      "added_at": "2022-01-26 18:13:44",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Sweetness Remixes",
@@ -1529,22 +1545,6 @@
       "url": "https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu"
     },
     {
-      "added_at": "2022-01-26 18:13:44",
-      "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Hold On",
@@ -1559,6 +1559,26 @@
       "duration_ms": 210922,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
+      "added_at": "2022-01-12 18:14:24",
+      "album": {
+        "name": "ocean tales",
+        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
+      },
+      "artists": [
+        {
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+        },
+        {
+          "name": "Little Green",
+          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
+        }
+      ],
+      "duration_ms": 188951,
+      "name": "feather light",
+      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
     },
     {
       "added_at": "2022-01-21 20:29:12",
@@ -1585,26 +1605,6 @@
       "url": "https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF"
     },
     {
-      "added_at": "2022-01-12 18:14:24",
-      "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
-      },
-      "artists": [
-        {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
-        }
-      ],
-      "duration_ms": 188951,
-      "name": "feather light",
-      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
-    },
-    {
       "added_at": "2022-12-07 04:04:10",
       "album": {
         "name": "head down",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
-      "added_at": "2023-05-31 21:00:26",
-      "album": {
-        "name": "BEAUTIFUL",
-        "url": "https://open.spotify.com/album/2cTswe7OpYEeefFd2yLwZu"
-      },
-      "artists": [
-        {
-          "name": "Pecas",
-          "url": "https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "BEAUTIFUL",
-      "url": "https://open.spotify.com/track/1OvVUJCil4YjMH1iSSxbrj"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Awake",
@@ -1651,6 +1635,22 @@
       "duration_ms": 186000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/1fxTBBkvupe6a6qo8fLGST"
+    },
+    {
+      "added_at": "2023-05-31 21:00:26",
+      "album": {
+        "name": "BEAUTIFUL",
+        "url": "https://open.spotify.com/album/2cTswe7OpYEeefFd2yLwZu"
+      },
+      "artists": [
+        {
+          "name": "Pecas",
+          "url": "https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "BEAUTIFUL",
+      "url": "https://open.spotify.com/track/1OvVUJCil4YjMH1iSSxbrj"
     },
     {
       "added_at": "2021-10-15 03:01:31",

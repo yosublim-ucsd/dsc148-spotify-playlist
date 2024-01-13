@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 87402,
+  "num_followers": 87453,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjZmMTFkOWI2NDIzN2IyOTE0NjE3MTExNjgzMzA0N2IyNzQ1ODM5",
+  "snapshot_id": "MCxmZGM3ZTk2NjA0NmNlZmEyZDEwNzJiMjRhMDI3YTljMTkzMWQ1NGZl",
   "tracks": [
     {
       "added_at": "2023-12-15 10:15:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "Black Mahogani",
-        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 415933,
-      "name": "Shades of Jae",
-      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
-    },
-    {
-      "added_at": "2023-12-15 10:15:09",
-      "album": {
         "name": "Atmosfear",
         "url": "https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "Collection 1999-2011",
-        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
+        "name": "Black Mahogani",
+        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
       },
       "artists": [
         {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 515039,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
+      "duration_ms": 415933,
+      "name": "Shades of Jae",
+      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -899,6 +883,22 @@
       "duration_ms": 354440,
       "name": "Get Down (feat. Kenny Dope & DJ Sneak & Terry Hunter & Tara McDonald) (Kenny Dope Mix)",
       "url": "https://open.spotify.com/track/22XJmDUVqLdCHve3CEsHJo"
+    },
+    {
+      "added_at": "2023-12-15 10:15:09",
+      "album": {
+        "name": "Collection 1999-2011",
+        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        }
+      ],
+      "duration_ms": 515039,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "Black Mahogani",
-        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 508693,
-      "name": "Black Mahogani",
-      "url": "https://open.spotify.com/track/495oT3dvrhlsppXTlXHpQx"
-    },
-    {
-      "added_at": "2023-12-15 10:15:09",
-      "album": {
         "name": "Heat Up",
         "url": "https://open.spotify.com/album/47ZNHA2NLqAZTT7ZcWPVVS"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 235500,
       "name": "Heat Up - Radio Edit",
       "url": "https://open.spotify.com/track/1gJvChg4l4OfnOhN1K8DrX"
+    },
+    {
+      "added_at": "2023-12-15 10:15:09",
+      "album": {
+        "name": "Black Mahogani",
+        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 508693,
+      "name": "Black Mahogani",
+      "url": "https://open.spotify.com/track/495oT3dvrhlsppXTlXHpQx"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "House Classics V (Presented by Harley & Muscle)",
-        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
+        "name": "Defined",
+        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
       },
       "artists": [
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Arnold Jarvis",
-          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
         }
       ],
-      "duration_ms": 372908,
-      "name": "Inspiration",
-      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
+      "duration_ms": 342893,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -1627,18 +1623,22 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "Defined",
-        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
+        "name": "House Classics V (Presented by Harley & Muscle)",
+        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
       },
       "artists": [
         {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Arnold Jarvis",
+          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
         }
       ],
-      "duration_ms": 342893,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
+      "duration_ms": 372908,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        }
-      ],
-      "duration_ms": 406813,
-      "name": "Bad Habit - feat. Lisa Millett",
-      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
-    },
-    {
-      "added_at": "2023-12-15 10:15:09",
-      "album": {
         "name": "Basic Blaze",
         "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 319760,
       "name": "My Beat - feat. Palmer Brown",
       "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
+    },
+    {
+      "added_at": "2023-12-15 10:15:09",
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        }
+      ],
+      "duration_ms": 406813,
+      "name": "Bad Habit - feat. Lisa Millett",
+      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -2419,26 +2419,6 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "Timeless Vol. 1",
-        "url": "https://open.spotify.com/album/1SHOOkR0rX45e1SKtvMGs0"
-      },
-      "artists": [
-        {
-          "name": "Elements Of Life",
-          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
-        },
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        }
-      ],
-      "duration_ms": 501320,
-      "name": "Elements of Life - Album Mix",
-      "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
-    },
-    {
-      "added_at": "2023-12-15 10:15:09",
-      "album": {
         "name": "There Is Soul in My House",
         "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
       },
@@ -2455,6 +2435,26 @@
       "duration_ms": 488266,
       "name": "I'm Free - Main Mix",
       "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
+    },
+    {
+      "added_at": "2023-12-15 10:15:09",
+      "album": {
+        "name": "Timeless Vol. 1",
+        "url": "https://open.spotify.com/album/1SHOOkR0rX45e1SKtvMGs0"
+      },
+      "artists": [
+        {
+          "name": "Elements Of Life",
+          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
+        },
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        }
+      ],
+      "duration_ms": 501320,
+      "name": "Elements of Life - Album Mix",
+      "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -2523,26 +2523,6 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
-      },
-      "artists": [
-        {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "It's Alright, I Feel It",
-      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
-    },
-    {
-      "added_at": "2023-12-15 10:15:09",
-      "album": {
         "name": "TIME AFTER TIME",
         "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
       },
@@ -2559,6 +2539,26 @@
       "duration_ms": 399693,
       "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
       "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
+    },
+    {
+      "added_at": "2023-12-15 10:15:09",
+      "album": {
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+      },
+      "artists": [
+        {
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "It's Alright, I Feel It",
+      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -2583,30 +2583,22 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "I Believe (feat. Suzanne Palmer) [Harry Romero Remix]",
-        "url": "https://open.spotify.com/album/0RiIDm7CictkRfABiEBAKf"
+        "name": "Mix The Vibe: Kaoz On King Street",
+        "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
       },
       "artists": [
         {
-          "name": "Mark Picchiotti",
-          "url": "https://open.spotify.com/artist/6mfoAawlriO9xRqOQGAIfM"
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
         },
         {
-          "name": "The Absolute",
-          "url": "https://open.spotify.com/artist/1aOiGe2A7ZbcERjyQyXTZs"
-        },
-        {
-          "name": "Suzanne Palmer",
-          "url": "https://open.spotify.com/artist/2bAFYlcHVIgnOLqxDk212U"
-        },
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+          "name": "Wilma Beckford",
+          "url": "https://open.spotify.com/artist/0dipYURBztCNS2iEHjl4wV"
         }
       ],
-      "duration_ms": 360020,
-      "name": "I Believe (feat. Suzanne Palmer) - Harry's Deep In Jersey Dub",
-      "url": "https://open.spotify.com/track/6yJrrz04J7LZTb9hHW1fhE"
+      "duration_ms": 409763,
+      "name": "Come Home - Kerri's Mmmh Mix",
+      "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -2635,22 +2627,30 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
-        "name": "Mix The Vibe: Kaoz On King Street",
-        "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
+        "name": "I Believe (feat. Suzanne Palmer) [Harry Romero Remix]",
+        "url": "https://open.spotify.com/album/0RiIDm7CictkRfABiEBAKf"
       },
       "artists": [
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+          "name": "Mark Picchiotti",
+          "url": "https://open.spotify.com/artist/6mfoAawlriO9xRqOQGAIfM"
         },
         {
-          "name": "Wilma Beckford",
-          "url": "https://open.spotify.com/artist/0dipYURBztCNS2iEHjl4wV"
+          "name": "The Absolute",
+          "url": "https://open.spotify.com/artist/1aOiGe2A7ZbcERjyQyXTZs"
+        },
+        {
+          "name": "Suzanne Palmer",
+          "url": "https://open.spotify.com/artist/2bAFYlcHVIgnOLqxDk212U"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
         }
       ],
-      "duration_ms": 409763,
-      "name": "Come Home - Kerri's Mmmh Mix",
-      "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
+      "duration_ms": 360020,
+      "name": "I Believe (feat. Suzanne Palmer) - Harry's Deep In Jersey Dub",
+      "url": "https://open.spotify.com/track/6yJrrz04J7LZTb9hHW1fhE"
     },
     {
       "added_at": "2023-12-15 10:15:09",
@@ -2791,6 +2791,26 @@
     {
       "added_at": "2023-12-15 10:15:09",
       "album": {
+        "name": "Essential Beats, Vol.9",
+        "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
+      },
+      "artists": [
+        {
+          "name": "Phil Weeks",
+          "url": "https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK"
+        },
+        {
+          "name": "Ladybird",
+          "url": "https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ"
+        }
+      ],
+      "duration_ms": 380020,
+      "name": "Love Come Down - Main Mix",
+      "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
+    },
+    {
+      "added_at": "2023-12-15 10:15:09",
+      "album": {
         "name": "Seven Ways To Wonder (The Remixes)",
         "url": "https://open.spotify.com/album/6lr0dRBpTY8mRXgHGDDRQB"
       },
@@ -2811,26 +2831,6 @@
       "duration_ms": 453386,
       "name": "Outta Love - Alix Alvarez Sole Channel Remix",
       "url": "https://open.spotify.com/track/4sUdysO4MnWWwWhc72xOhv"
-    },
-    {
-      "added_at": "2023-12-15 10:15:09",
-      "album": {
-        "name": "Essential Beats, Vol.9",
-        "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
-      },
-      "artists": [
-        {
-          "name": "Phil Weeks",
-          "url": "https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK"
-        },
-        {
-          "name": "Ladybird",
-          "url": "https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ"
-        }
-      ],
-      "duration_ms": 380020,
-      "name": "Love Come Down - Main Mix",
-      "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
     },
     {
       "added_at": "2023-12-15 10:15:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Essosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,309 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,305 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 50 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 | 51 | [In Too Deep \(feat\. Kiana Ledé\)](https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Djesse Vol\. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) | 3:52 |
 | 52 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 |
-| 53 | [Used Girl](https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I) | [Tallia Storm](https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh) | [Used Girl](https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC) | 3:52 |
-| 54 | [Wickedest](https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr) | 3:12 |
+| 53 | [Wickedest](https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr) | 3:12 |
+| 54 | [Used Girl](https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I) | [Tallia Storm](https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh) | [Used Girl](https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC) | 3:52 |
 | 55 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
 | 56 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 |
 | 57 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 59 | [long stay \(feat\. Bakar\)](https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:35 |
 | 60 | [As You Are \- A COLORS SHOW](https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [As You Are \- A COLORS SHOW](https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc) | 3:41 |
 
-Snapshot ID: `MCw2NzlkMjRlNWJjMGE4NzMwZjAyMDUzMjFkYzFjZTRkNjNlNTVkZDk3`
+Snapshot ID: `MCxkMjJiNGZiYWZhYWVjYTFlZGMyZmFkMWY2ZDA0ZTE4MjUyNjAxMzUz`

@@ -4,7 +4,7 @@
 
 > Shaka Ponk au top des meilleurs morceaux rock du moment.
 
-109 songs - 6 hr 13 min
+110 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Take a Bow](https://open.spotify.com/track/7Di847sIIrgAWLer6C33pJ) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Take a Bow](https://open.spotify.com/album/6jYav3AeS4FJ89epXScuuG) | 6:54 | 2023-09-28 | 2023-10-22 |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-09-28 | 2023-11-17 |
 | [Tamagotchi](https://open.spotify.com/track/5tY2w7GAcE6vhSAKHaigSk) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Tamagotchi](https://open.spotify.com/album/5LfIrn2CRhwWfIJ9bCttaz) | 3:34 | 2023-11-16 | 2024-01-12 |
-| [Taste The Sun](https://open.spotify.com/track/2DSMg1St3kwmv7uvrRBJZv) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 | 2023-10-05 |  |
+| [Taste The Sun](https://open.spotify.com/track/0pGmOeAeuQGsFcxP928ima) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [A New Breed](https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e) | 4:03 | 2024-01-11 |  |
+| [Taste The Sun](https://open.spotify.com/track/2DSMg1St3kwmv7uvrRBJZv) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 | 2023-10-05 | 2024-01-13 |
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-10-26 | 2023-12-22 |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-30 | 2023-12-16 |
 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 | 2023-09-28 | 2023-10-06 |

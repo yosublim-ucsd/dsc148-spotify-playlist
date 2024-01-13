@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 4 min
+78 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [De Corazon Ranchero](https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:03 | 2022-06-02 |  |
 | [De La Tierra Al Cielo](https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De La Tierra Al Cielo](https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd) | 2:37 | 2022-07-03 |  |
 | [De la Tierra al Cielo](https://open.spotify.com/track/1z45rHA0VeDLRrvxtG5ORF) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 2:37 | 2022-06-01 |  |
-| [De Su Vida Me Ire](https://open.spotify.com/track/0f8rDxZO2XwFI3bQ1iV1Df) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 2:55 | 2022-06-01 |  |
+| [De Su Vida Me Ire](https://open.spotify.com/track/0f8rDxZO2XwFI3bQ1iV1Df) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 2:55 | 2022-06-01 | 2024-01-13 |
+| [De Su Vida Me Ire](https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:57 | 2024-01-12 |  |
 | [Devuelveme Mis Cartas](https://open.spotify.com/track/5LrqPqslgGVbQCKaMayk4B) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Juego Peligroso](https://open.spotify.com/album/11dW5IqcLzDkruN3LtyQvN) | 3:26 | 2023-03-14 | 2023-03-20 |
 | [Diamante Negro](https://open.spotify.com/track/0ceiWUkNNYVmF1uzkGyj3H) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mas Llegadoras](https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7) | 3:15 | 2022-11-24 | 2023-03-31 |
 | [Dulce Morena](https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 2:57 | 2022-06-01 |  |

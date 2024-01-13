@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,586 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,631 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 27 | [IT'S ALL FADING TO BLACK \(feat\. blink\-182\)](https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:31 |
 | 28 | [Guilty All the Same \(feat\. Rakim\)](https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 5:55 |
 | 29 | [Wicked \(feat\. Chino Moreno\)](https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 4:00 |
-| 30 | [Close Your Eyes \(And Count to Fuck\)](https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 3:54 |
-| 31 | [Lollipop](https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE) | [Framing Hanley](https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE) | [The Moment \(Digital Deluxe\)](https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u) | 3:07 |
+| 30 | [Lollipop](https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE) | [Framing Hanley](https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE) | [The Moment \(Digital Deluxe\)](https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u) | 3:07 |
+| 31 | [Close Your Eyes \(And Count to Fuck\)](https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 3:54 |
 | 32 | [Rollin' \(Urban Assault Vehicle\)](https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 6:22 |
 | 33 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
 | 34 | [Lapdance](https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL), [Lee Harvey](https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:29 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 57 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
 | 58 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 59 | [GERONIMO](https://open.spotify.com/track/3fS7dRJWxgz1SCZJPXsymv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4lLmkRmIW3GIb6UKjcqrDv) | 2:59 |
-| 60 | [Wretches and Kings](https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 4:10 |
+| 60 | [Rip It Up](https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl) | [28 Days](https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx) | [Up Style Down](https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M) | 3:39 |
 
-Snapshot ID: `MCw1ZDA1NmFhNDNhY2FhNDI2ZGU2ODZmOGZjOTU0YzU4M2QyOWY1NjYy`
+Snapshot ID: `MCw3YmNkYTcyNWI3YzA0ODM4NGZjNGIwZjNiZGU1ZDliY2E5YTBkY2Y4`

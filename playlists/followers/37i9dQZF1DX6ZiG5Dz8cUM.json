@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 136361,
+  "2024-01-13": 136383,
   "date_first_scraped": "2021-12-28",
   "description": "Set the mood for your romantic date night with some soft and cozy Jazz.",
   "name": "Date Night Jazz",
@@ -6695,6 +6695,24 @@
       "duration_ms": 295946,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/2M0kwHGj606VbCDNo1I5YJ"
+    },
+    {
+      "album": {
+        "name": "You Go To My Head",
+        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299029,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
     },
     {
       "album": {

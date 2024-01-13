@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,693 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,760 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Malafede](https://open.spotify.com/track/0bSEor7VCHPuRiwyT6dvTM) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:48 |
 | 2 | [HERMES](https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:56 |
-| 3 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 |
+| 3 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 |
 | 4 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:52 |
 | 5 | [15 Piani](https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:26 |
 | 6 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 59 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 |
 | 60 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 
-Snapshot ID: `MCw2ODA1YWM3N2QxMTQ0YzYyZjI3OTYzMTQwNDA1ODJhMTA1ZWQwZjE3`
+Snapshot ID: `MCw2ZjVjZmMxNWUzZGE3ZTQ5ZjAyYjFhZmQ3YzM5ODZjNGUyYmQzZTdl`

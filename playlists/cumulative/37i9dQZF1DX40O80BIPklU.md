@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Los Bendecidos en portada.
 
-274 songs - 15 hr 43 min
+275 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Especies](https://open.spotify.com/track/0wfvhjv5cqqSuwJD84WYZ8) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Especies](https://open.spotify.com/album/38MDL6mhsLPxRBd4nGN1Gk) | 3:38 | 2023-04-28 | 2023-11-25 |
 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 | 2023-02-24 |  |
 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 | 2023-05-05 | 2023-11-25 |
-| [Estrobos](https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 6:15 | 2023-11-10 |  |
+| [Estrobos](https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 6:15 | 2023-11-10 | 2024-01-13 |
 | [Fast Money](https://open.spotify.com/track/7HLEbRRK4Iq7S7bUPctThw) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fast Money](https://open.spotify.com/album/63GZfJMhOCxvQ1bqibtN3e) | 2:44 | 2023-12-22 |  |
 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 | 2021-12-30 | 2022-01-29 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-12-30 |  |
@@ -184,6 +184,7 @@
 | [Nike 95](https://open.spotify.com/track/4r2frsl6BuWbYUZLybprKa) | [Lasser](https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj), [Amber Window](https://open.spotify.com/artist/066Vam5XGA8T8NNl1sroAg) | [Zoom](https://open.spotify.com/album/0rDGF0mOdH57KIKRFy6dFq) | 2:36 | 2023-10-13 |  |
 | [Niple](https://open.spotify.com/track/7jeleRcyCUp5pusaGcioka) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Niple](https://open.spotify.com/album/34Ya8APZthEj4tO9SxeQEb) | 3:04 | 2021-12-30 | 2022-03-11 |
 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 | 2023-05-19 | 2023-07-29 |
+| [No Cap \- A COLORS SHOW](https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [No Cap \- A COLORS SHOW](https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN) | 2:10 | 2024-01-12 |  |
 | [No Eres Rapero](https://open.spotify.com/track/0PvQddVhVgnLK2FHiTQh8l) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Oldtape](https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf) | [No Eres Rapero](https://open.spotify.com/album/6OBEOXqY6rJLtarTzYoBIP) | 3:17 | 2023-07-17 |  |
 | [No Hay Fallo](https://open.spotify.com/track/6uX08Q1SKqYD5NqcpqbVZL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [No Hay Fallo](https://open.spotify.com/album/6quIBjOBol9YtKVjJAQqQm) | 2:53 | 2021-12-30 | 2022-02-25 |
 | [No Me Pueden Parar](https://open.spotify.com/track/5NWqum4G4GsjHyU2D8UTt0) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [No Me Pueden Parar](https://open.spotify.com/album/7AZeHp1ggYt5RlupEJuoJK) | 3:28 | 2023-03-24 | 2023-10-07 |

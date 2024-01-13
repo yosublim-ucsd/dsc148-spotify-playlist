@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,377 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,454 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 49 | [alive & well \(gratitude mantra\)](https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [alive & well \(gratitude mantra\)](https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI) | 10:34 |
 | 50 | [2 seconds \- Bonus](https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 2:32 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBiYzc5N2JjMWYwZjUzY2E3YmEzNDUzNmU2ZTFiYmM2YQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDAxZGI4NGY4MGYxYmQxYjgxM2UwMWQ3ZDVlMzU3NGY0Mg==`

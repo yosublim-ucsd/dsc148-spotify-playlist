@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Leith Ross",
+  "description": "A laid-back trip in the folk scene. Cover: Waxahatchee",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 240277,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 205200,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/3sDBhZNDrb9ngsOJRRDlkN"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 220989,
       "name": "Blood Related",
       "url": "https://open.spotify.com/track/7fmijYnNPBAyOTq2WsB6uD"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 322176,
       "name": "Carried\u2026",
       "url": "https://open.spotify.com/track/7sI78BEZylcmCu5ts145ou"
@@ -5409,6 +5409,24 @@
     },
     {
       "album": {
+        "name": "In Emerald",
+        "url": "https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI"
+      },
+      "artists": [
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210465,
+      "name": "In Emerald",
+      "url": "https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy"
+    },
+    {
+      "album": {
         "name": "Cerulean (Extended Edition)",
         "url": "https://open.spotify.com/album/52fkritKdBBtkRXpiietLQ"
       },
@@ -7390,7 +7408,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 159589,
       "name": "New Favorite",
       "url": "https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj"
@@ -8215,6 +8233,24 @@
     },
     {
       "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232649,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE"
+    },
+    {
+      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/67U9k8R3snre8EAnLbt7o0"
       },
@@ -8786,7 +8822,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 201652,
       "name": "Rebloom",
       "url": "https://open.spotify.com/track/3g0DRFppjlQ7aR8zjaCi0y"
@@ -8848,6 +8884,28 @@
       "duration_ms": 286320,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX"
+    },
+    {
+      "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
     },
     {
       "album": {
@@ -9180,6 +9238,24 @@
       "duration_ms": 291241,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/01vJRC33O3RZS1dU5dUUJ6"
+    },
+    {
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "album": {
@@ -9999,6 +10075,24 @@
     },
     {
       "album": {
+        "name": "Sun and Time",
+        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250747,
+      "name": "Sun and Time",
+      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/5sPJ9tBvThjLyPdRK83m6W"
       },
@@ -10511,6 +10605,24 @@
     },
     {
       "album": {
+        "name": "The Internet",
+        "url": "https://open.spotify.com/album/2X1Yunm84msi4BMVzSNKFG"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188409,
+      "name": "The Internet",
+      "url": "https://open.spotify.com/track/6klvlmgyFdIrybxjP0d9VA"
+    },
+    {
+      "album": {
         "name": "The Master",
         "url": "https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm"
       },
@@ -10710,6 +10822,24 @@
       "duration_ms": 317320,
       "name": "The Well Has Run Dry",
       "url": "https://open.spotify.com/track/4bdBLdV7zfd29ZdDvbUfkC"
+    },
+    {
+      "album": {
+        "name": "The Yellow Mile",
+        "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183706,
+      "name": "The Yellow Mile",
+      "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
     },
     {
       "album": {
@@ -11331,6 +11461,28 @@
     },
     {
       "album": {
+        "name": "Unrequited Love Blues",
+        "url": "https://open.spotify.com/album/6keo5ysumAGEAodWHNQj7c"
+      },
+      "artists": [
+        {
+          "name": "Moira & Claire",
+          "url": "https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN"
+        },
+        {
+          "name": "Logan Richard",
+          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202251,
+      "name": "Unrequited Love Blues",
+      "url": "https://open.spotify.com/track/02gTekl89KnL138nTQ5BEo"
+    },
+    {
+      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
@@ -11648,7 +11800,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 211781,
       "name": "Wet Sock",
       "url": "https://open.spotify.com/track/7gQxHnz1Clsa1AWj7dABAT"
@@ -12006,7 +12158,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 261700,
       "name": "when im afraid",
       "url": "https://open.spotify.com/track/6P8Sp6Z11effRTZiD5BB6M"
@@ -12154,6 +12306,24 @@
       "duration_ms": 107297,
       "name": "Whiskey & Cigarettes",
       "url": "https://open.spotify.com/track/0KTXcuyKvMkRQSOy1M4OcI"
+    },
+    {
+      "album": {
+        "name": "White Lies, White Jesus And You",
+        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264926,
+      "name": "White Lies, White Jesus And You",
+      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
     },
     {
       "album": {
@@ -12410,7 +12580,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 161318,
       "name": "You At Home",
       "url": "https://open.spotify.com/track/2FGn5SVPl5kzx7kSSZ2db0"

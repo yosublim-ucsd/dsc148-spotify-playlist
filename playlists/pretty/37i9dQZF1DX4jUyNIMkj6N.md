@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,690 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,717 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 48 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
 | 49 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 |
 | 50 | [Van Gogh](https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Postcards](https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH) | 2:54 |
-| 51 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
-| 52 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 |
-| 53 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
+| 51 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 |
+| 52 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
+| 53 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 | 54 | [Through The Eyes Of A Woman](https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG) | [Lucky Lo](https://open.spotify.com/artist/5RJfw4mV4qlNjmve8u1Unz) | [Through The Eyes Of A Woman](https://open.spotify.com/album/5Fp6OQtwSjjNumqtryDIxO) | 4:38 |
 | 55 | [Angel \- Acoustic String Version](https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:40 |
 | 56 | [Chicago](https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY), [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY), [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm), [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
 | 60 | [By the time you hear this](https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [By the time you hear this](https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9) | 3:14 |
 
-Snapshot ID: `MCxhYzdjNjU2YjQwMTZiYmQ1NmIzNjk1MmFhOTA3NTNhZWNiNmRmMmJl`
+Snapshot ID: `MCxkZjVmYjRmN2RlZjU2Mzk0NzM5YjBlNGQ4ZTdhNDRkNDg1NjY5MWRj`

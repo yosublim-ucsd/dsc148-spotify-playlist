@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 985 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 26 | [Pa los Hombres](https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Andy Hernandez](https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:04 |
 | 27 | [RVD](https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:49 |
 | 28 | [Tequila](https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO) | [N.E Mafio](https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Tequila](https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x) | 3:19 |
-| 29 | [Alto Calibre](https://open.spotify.com/track/0kKsJ0Pws7KiHQbFMRxGvS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Young Tapz](https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y), [Tapz Money](https://open.spotify.com/artist/4cdMZM15Wtqv9u9Ih4DXTt) | [Alto Calibre](https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek) | 2:40 |
-| 30 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
+| 29 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
+| 30 | [Alto Calibre](https://open.spotify.com/track/0kKsJ0Pws7KiHQbFMRxGvS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Young Tapz](https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y), [Tapz Money](https://open.spotify.com/artist/4cdMZM15Wtqv9u9Ih4DXTt) | [Alto Calibre](https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek) | 2:40 |
 | 31 | [Alpaca Hearts](https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Alpaca Hearts](https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt) | 3:18 |
 | 32 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 |
 | 33 | [Big Le$ter](https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:47 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 47 | [Money Manziel](https://open.spotify.com/track/4ZlgEjgVTgnOgCC7uEI9XR) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Glock Simmons](https://open.spotify.com/artist/3HcXn8TlSRaOcRCtGNvCzL) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:51 |
 | 48 | [Iced Up](https://open.spotify.com/track/0CIwHAk9lkaNoHLx087IqV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Trill Wavy](https://open.spotify.com/artist/1KxUNpDUvoNJNUqBmGCD7L) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:28 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBhMTViZDE0OWE3MWJkNGQ1OTk5YzBkOWIxN2VmMzU1MA==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA4NmMyYTQ1NGRhMjcxYzFkNGViOGM3ODIxMzliMmU2MQ==`

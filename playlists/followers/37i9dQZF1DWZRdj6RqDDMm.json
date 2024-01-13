@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 6651,
+  "2024-01-13": 7360,
   "date_first_scraped": "2023-10-20",
   "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA\">Sinmidele</a> ",
   "name": "Praise and Chill",
@@ -141,7 +141,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 178666,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 159451,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/6XSuvFmMdybVHhiE8DdzM1"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 172374,
       "name": "Believe",
       "url": "https://open.spotify.com/track/39nqlDE3iN3gOp9I5Ng0NB"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 135000,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6vaoPNq2lJZ6DzRZZAS21G"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 453748,
       "name": "Exalted",
       "url": "https://open.spotify.com/track/1XKy8PGWNVjiZsmAPnHROj"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 150073,
       "name": "Faithful God",
       "url": "https://open.spotify.com/track/5lqmPZ1uxjkxaNjGAhdfTb"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 192166,
       "name": "Glory",
       "url": "https://open.spotify.com/track/3KC5eGrdYOhTqjVgcA3g0h"
@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Holy Hip-Hop",
+        "url": "https://open.spotify.com/album/4ek9Wu3eDpVLyxzwVTRBAN"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Holy Hip-Hop",
+      "url": "https://open.spotify.com/track/2PiygCTWtDWGfNeAFbVEoE"
+    },
+    {
+      "album": {
         "name": "I Thank the Lord",
         "url": "https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB"
       },
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 178666,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/26Cd5eyE4jyLFhKgcZULsy"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 137406,
       "name": "Just as I am",
       "url": "https://open.spotify.com/track/2PSyahpyNwy0yFeSyvxkly"
@@ -1245,6 +1263,28 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
+      "album": {
+        "name": "Lead Me Back",
+        "url": "https://open.spotify.com/album/4Cxp3yhZ4uIXvdzZkETFlf"
+      },
+      "artists": [
+        {
+          "name": "Jesse10s",
+          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
+        },
+        {
+          "name": "Renzo BA",
+          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153391,
+      "name": "Lead Me Back",
+      "url": "https://open.spotify.com/track/1wBoQTh0EoUXqARM2pzc5a"
     },
     {
       "album": {
@@ -1809,7 +1849,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 208695,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/3ydFeDJhwMSWRFJFA3jsfG"
@@ -1831,7 +1871,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 70170,
       "name": "Sau Dari",
       "url": "https://open.spotify.com/track/1RsaOCrxfp53UDmuvcj025"
@@ -1853,7 +1893,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 191550,
       "name": "Sempe",
       "url": "https://open.spotify.com/track/4U4slSeAjNvBM97FqkNQNr"
@@ -1897,6 +1937,32 @@
       "duration_ms": 141000,
       "name": "Stirring Up - Kushim Remix",
       "url": "https://open.spotify.com/track/7DQBaHkzDwlUGK5JPJ9mbI"
+    },
+    {
+      "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/3n4sFd0Yb6eHm1YVgALvXB"
+      },
+      "artists": [
+        {
+          "name": "Uchenna",
+          "url": "https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez"
     },
     {
       "album": {
@@ -2316,6 +2382,28 @@
     },
     {
       "album": {
+        "name": "Worry About Nothing",
+        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204975,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
+    },
+    {
+      "album": {
         "name": "Project 1920",
         "url": "https://open.spotify.com/album/7modcUKac3bHXTADzsTD7v"
       },
@@ -2327,7 +2415,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 196972,
       "name": "You Are More",
       "url": "https://open.spotify.com/track/3ZdAm8njX4hyT2Q0IEnLPe"

@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: HotKid
 
-198 songs - 9 hr 11 min
+199 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,9 +144,10 @@
 | [Oga Mi Sir](https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Oga Mi Sir](https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM) | 2:40 | 2023-01-27 | 2023-10-20 |
 | [Oluchi](https://open.spotify.com/track/6AawOer84g4y7MovhjSKzH) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Oluchi](https://open.spotify.com/album/391gOMyDsty5F8zBLjdTgb) | 2:42 | 2023-03-10 | 2023-04-06 |
 | [Oluchi](https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Oluchi](https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f) | 2:42 | 2023-03-30 | 2023-07-01 |
-| [omg](https://open.spotify.com/track/3wgNPlMJXtoc7H8o4aG9cN) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [omg](https://open.spotify.com/album/0mNSOVqTwckAbv6uQAUsnY) | 1:59 | 2023-12-15 |  |
+| [omg](https://open.spotify.com/track/3wgNPlMJXtoc7H8o4aG9cN) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [omg](https://open.spotify.com/album/0mNSOVqTwckAbv6uQAUsnY) | 1:59 | 2023-12-15 | 2024-01-13 |
 | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS) | 2:40 | 2023-04-14 | 2023-09-08 |
 | [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 | 2022-12-02 | 2023-02-28 |
+| [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-12 |  |
 | [Oscroh \(Pepperline\)](https://open.spotify.com/track/5Trqt6aqWnhqAcWS4Zto7v) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Oscroh \(Pepperline\)](https://open.spotify.com/album/3t6Awr5SrYlepeBSzC83sg) | 2:44 | 2023-10-17 |  |
 | [Oshey Boys](https://open.spotify.com/track/5B2gyPpOBTrxaixIoBct5G) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Oshey Boys](https://open.spotify.com/album/7zXngUfueV6bS1hzS7ustQ) | 3:09 | 2022-12-02 | 2023-07-18 |
 | [OTE!](https://open.spotify.com/track/2EN5MHa0Gihyf54OfIlSCB) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [SPORT](https://open.spotify.com/album/7mQ3kE0HJD3m67PE3dIXgm) | 1:32 | 2023-11-17 | 2023-11-26 |

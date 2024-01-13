@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1001 Nuits (Extended Mix)",
+        "url": "https://open.spotify.com/album/71DuLGOJwXTcvUzgndjClw"
+      },
+      "artists": [
+        {
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268524,
+      "name": "1001 Nuits - Radio Edit",
+      "url": "https://open.spotify.com/track/74JKZeV9CIFMFu7xKtasi4"
+    },
+    {
+      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 229548,
       "name": "Entaha (Salvatore Ganacci MDLBEAST Remix)",
       "url": "https://open.spotify.com/track/19k16k7aJEjAkOnSxKxyc7"

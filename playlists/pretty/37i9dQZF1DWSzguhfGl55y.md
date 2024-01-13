@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,787 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,705 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 28 | [CLA$$IC](https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CLA$$IC](https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL) | 3:46 |
 | 29 | [Kompass ohne Norden](https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY) | 4:12 |
 | 30 | [Schwule Mädchen](https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905) | 3:25 |
-| 31 | [Prison Break Anthem \(Ich glaub an Dich\) \- Single Version](https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Prison Break Anthem \(Ich glaub an Dich\)](https://open.spotify.com/album/1xeVXMLFtHrldJwO4nbNdK) | 4:02 |
+| 31 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
 | 32 | [Walpurgisnacht](https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:01 |
-| 33 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
+| 33 | [Prison Break Anthem \(Ich glaub an Dich\) \- Single Version](https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Prison Break Anthem \(Ich glaub an Dich\)](https://open.spotify.com/album/1xeVXMLFtHrldJwO4nbNdK) | 4:02 |
 | 34 | [Bon voyage \(feat\. Nina\)](https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte Ziehen Sie Durch](https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn) | 3:27 |
 | 35 | [Hinterland](https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 3:55 |
 | 36 | [Schmetterling](https://open.spotify.com/track/7zIZF5nHbZXS3Um6p9tiO2) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Electro Ghetto \(Re\-Release\)](https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 | 50 | [Panamera Flow \(feat\. Bushido\)](https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34), [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [NWA](https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS) | 4:17 |
 
-Snapshot ID: `MCwyYTljY2QxYmFmOTY1ZGY5ZjdhMTQxMzA4YWI4YmZiMjE5ZjA2MjAx`
+Snapshot ID: `MCwyMzIyY2Q5ZWRjMjJhZmEyYzEyMzI1ZmJmOGM1ZTY2NWU5MThhZjU3`

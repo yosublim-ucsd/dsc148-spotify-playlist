@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,001 likes - 48 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,004 likes - 48 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 47 | [Crossroads](https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:30 |
 | 48 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBjYmM2OWMyZDE1MjcwMTc4YmQ4YjY2NzE5ZTdiZjJlOQ==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA1ZDE3MzBkYzNkMjc3MjdlNTY0NTA2NGRjNWEzMmFkMA==`

@@ -4,14 +4,14 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Sukha
 
-286 songs - 13 hr 34 min
+287 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2023-03-29 |  |
 | [10 Bande](https://open.spotify.com/track/6yOfrhPr40G18wPui5CXxu) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC) | [10 Bande](https://open.spotify.com/album/5zpxoPuMHZIOYBoJjl1oO7) | 3:21 | 2023-03-29 | 2023-04-28 |
 | [100](https://open.spotify.com/track/1i0OA7qz1PQkX01TeR8Ua8) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 1:47 | 2023-04-01 | 2023-04-09 |
-| [2 Jhotte](https://open.spotify.com/track/0DxBL4xyFvChXhx5sDcspR) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC), [The Kidd](https://open.spotify.com/artist/6yeA7sj0onAAn0VdyioVKk) | [2 Jhotte](https://open.spotify.com/album/1vBYyrYGVD6wJgYGwcTWNV) | 2:38 | 2023-07-12 |  |
+| [2 Jhotte](https://open.spotify.com/track/0DxBL4xyFvChXhx5sDcspR) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC), [The Kidd](https://open.spotify.com/artist/6yeA7sj0onAAn0VdyioVKk) | [2 Jhotte](https://open.spotify.com/album/1vBYyrYGVD6wJgYGwcTWNV) | 2:38 | 2023-07-12 | 2024-01-13 |
 | [2 Number](https://open.spotify.com/track/1CcrisvtZrXmRgVhCFAmhX) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 2:58 | 2023-10-25 |  |
 | [21 Saal](https://open.spotify.com/track/4Wjifq4eFqE1LUNHXuhIzH) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Sikander Singh Kahlon](https://open.spotify.com/artist/2Sl26txhr9sJKbPNX7dKqz), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [21 Saal](https://open.spotify.com/album/2HC11f2TtP2lVlDqxXCw9I) | 2:50 | 2023-06-23 | 2023-08-04 |
 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 | 2023-03-29 | 2023-07-06 |
@@ -176,6 +176,7 @@
 | [Mann Di Ni Tu](https://open.spotify.com/track/27hoh50gG4ls3RIyZeCqiA) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Mann Di Ni Tu](https://open.spotify.com/album/2MouNJrp808vRMsSsMgDUJ) | 2:28 | 2023-05-11 | 2023-07-21 |
 | [Mehange Mull](https://open.spotify.com/track/3eKHyxRecroxupHyA9qHmf) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:10 | 2023-06-09 | 2023-06-14 |
 | [Mere Wala Jatt](https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mere Wala Jatt](https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi) | 3:43 | 2023-03-29 | 2023-04-27 |
+| [Mind Map](https://open.spotify.com/track/5gYF95v7W7sbKWHLM5VTBj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Mind Map](https://open.spotify.com/album/0qQ6zM8aN3d3Gqy6w3g3tL) | 2:42 | 2024-01-12 |  |
 | [Miss India](https://open.spotify.com/track/25YxiGah27DBUtuxADIzug) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8), [Riyaaz](https://open.spotify.com/artist/7CpYGl06EZeQ7cQJ6lCTkq) | [Miss India](https://open.spotify.com/album/2jPAZcpRzdI7GIMThM56am) | 2:56 | 2023-04-17 | 2023-04-21 |
 | [Mittran Di Tohr](https://open.spotify.com/track/3ZHt5EVUy4bIAWXjEJQKkf) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c) | [Villain](https://open.spotify.com/album/5tS0ZaJl2qopJ4ghermqUS) | 2:43 | 2023-11-07 |  |
 | [Modern Mirza](https://open.spotify.com/track/20gi7fdusYZmDvsj8hBd3Z) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Modern Mirza](https://open.spotify.com/album/2Dnw9FRBqVGdmKpwuVCLJa) | 3:33 | 2023-03-29 | 2023-07-15 |

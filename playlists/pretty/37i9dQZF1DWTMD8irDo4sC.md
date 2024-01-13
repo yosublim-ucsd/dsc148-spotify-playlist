@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,316 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,323 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 27 | [Zwit rwit](https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 3:37 |
 | 28 | [لما بنتولد](https://open.spotify.com/track/73JzEqIY2tKAkbZB63rrbG) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 3:52 |
 | 29 | [Soul \(Rouh\)](https://open.spotify.com/track/4azmg1dcdnaNdppq6i8MgF) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl) | [Soul \(Rouh\)](https://open.spotify.com/album/499lxS0hhJcexWf3dZX2g8) | 6:58 |
-| 30 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
-| 31 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 |
+| 30 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 |
+| 31 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
 | 32 | [Aw'at \(Acoustic Version\)](https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at \(Acoustic Version\)](https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1) | 3:05 |
 | 33 | [Betrouh](https://open.spotify.com/track/3sg5wboOGpcM4OdlRra6yf) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:29 |
 | 34 | [Win Yamchi Zine](https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD) | [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [Win Yamchi Zine](https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf) | 3:13 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 55 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [El Nour](https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF) | 3:19 |
 | 56 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
 | 57 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
-| 58 | [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 |
+| 58 | [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 |
 | 59 | [Memories Of A Palestinian Wound](https://open.spotify.com/track/7EuovX8mMPgIuDjAPECG02) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 3:09 |
 | 60 | [Salam](https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:24 |
 | 61 | [Habibi Ta'al](https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Alsahraa](https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2) | 6:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
 | 70 | [Estihala \- Live Acoustic](https://open.spotify.com/track/65FeLB4ilmJRzMBzSzKJXJ) | [Sherif Abdelmeged](https://open.spotify.com/artist/6jjt4meb4Y0U7MbzYDjMrQ) | [Estihala \(Live Acoustic\)](https://open.spotify.com/album/2al5I60LV1UgE4lZUSm9WY) | 3:18 |
 
-Snapshot ID: `MCwxOTU4YzVmNjliODllMDU1MGM2MGY1YTQxMjQzNDc2MDdjZTU4N2Y0`
+Snapshot ID: `MCw1ZWM4Y2NjZWU2ZWVmMWFmZWVkNzE2OTNlMGIzYThhOGYwNzI1MWYz`

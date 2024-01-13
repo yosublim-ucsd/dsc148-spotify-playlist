@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 5 min
+74 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Don't Call Me \(feat\. Yuna\)](https://open.spotify.com/track/0Dy8xi4hjZHaZij3I4pyWP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:37 | 2023-05-02 |  |
 | [Dream Chorus](https://open.spotify.com/track/6kEZ1FCPDkCeaDeORgMzzZ) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Dream Chorus](https://open.spotify.com/album/3LsLYmmHtxx3j5aes44tZM) | 2:19 | 2023-05-02 |  |
 | [Drive](https://open.spotify.com/track/6Rspcj5SfbODT0JVlPxmca) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Arama](https://open.spotify.com/artist/3bRj518241KTJEkmDDgv57) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:14 | 2023-05-19 | 2023-09-10 |
-| [Dusty Stars](https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:11 | 2023-05-05 |  |
+| [Dusty Stars](https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:11 | 2023-05-05 | 2024-01-13 |
 | [Early to Dawn \(feat\. Selah Sue\)](https://open.spotify.com/track/3VIQEM7WmXhLBQBahoyPf2) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:38 | 2023-08-27 | 2023-09-10 |
 | [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-13 |  |
 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 | 2023-05-02 |  |
@@ -36,6 +36,7 @@
 | [Gamble](https://open.spotify.com/track/2ahtfg7eIq70ftILthfSnr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 2:26 | 2023-05-02 |  |
 | [Get Me Some](https://open.spotify.com/track/54bJVMbRyGmVHWslFpU4nK) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:32 | 2023-05-02 |  |
 | [Go With It](https://open.spotify.com/track/5dFhRQKsHnAiyg9wXKtJDz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 4:23 | 2023-05-02 | 2024-01-12 |
+| [Go With It \(feat\. MNDR\)](https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 4:23 | 2024-01-12 |  |
 | [Golden Years \- TOKiMONSTA Remix](https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Golden Years \(TOKiMONSTA Remix\)](https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp) | 3:01 | 2023-05-06 | 2023-06-04 |
 | [Green](https://open.spotify.com/track/0fhyPqMIwWmEMmScVOXk0H) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 3:58 | 2023-05-29 | 2024-01-11 |
 | [Heart on the Ground](https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:31 | 2023-05-02 | 2023-12-14 |

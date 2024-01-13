@@ -4,7 +4,7 @@
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-199 songs - 12 hr 50 min
+200 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Sempre e per sempre](https://open.spotify.com/track/5K8tLt1YQiLALZGwcErrjH) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Amore nel pomeriggio](https://open.spotify.com/album/7cHl1TaO6qOvyrfoqCofUT) | 3:23 | 2021-09-26 | 2022-07-29 |
 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 | 2021-09-26 |  |
 | [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 | 2021-09-26 | 2023-12-23 |
-| [Sere nere](https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 4:24 | 2023-02-20 |  |
+| [Sere nere](https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 4:24 | 2023-02-20 | 2024-01-13 |
 | [Siamo](https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:38 | 2021-09-26 | 2022-07-21 |
 | [Simili](https://open.spotify.com/track/53i6D188bSUeVZeR1sMucH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Simili](https://open.spotify.com/album/02vgS0e67Hdjt4lu6Yp11n) | 3:35 | 2021-09-26 | 2022-05-25 |
 | [Solo3min](https://open.spotify.com/track/7wd4HV7CA1T5PZeJjfa5ez) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:40 | 2021-09-26 | 2022-07-21 |
@@ -185,6 +185,7 @@
 | [Ti dedico il silenzio](https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:54 | 2021-09-26 |  |
 | [Ti ho voluto bene veramente](https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 2:49 | 2021-09-26 |  |
 | [Ti porto a cena con me](https://open.spotify.com/track/4q5gpE90NNbtuVLczJmKfu) | [Giusy Ferreri](https://open.spotify.com/artist/0dwEXtB6gceh7EO7tCsxhD) | [L'attesa](https://open.spotify.com/album/0loxSv6A3y8bGG4V3KXlUo) | 3:54 | 2021-09-26 | 2022-06-04 |
+| [Ti scatterò una foto](https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Nessuno è solo](https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi) | 4:32 | 2023-02-20 |  |
 | [Ti sposerò perché](https://open.spotify.com/track/0Jp3BOdSROQLzAnfUGl8ce) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica è](https://open.spotify.com/album/0OCZyh2eM52kiVJYBZZ3fJ) | 4:01 | 2021-09-26 | 2022-07-27 |
 | [Ti vorrei sollevare \- With Giuliano Sangiorgi](https://open.spotify.com/track/26DAbhgVoOIPBCfDxyP7xN) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Heart \(Deluxe Edition\)](https://open.spotify.com/album/2XiF0XJOfyOtD5m3QgBDBH) | 4:27 | 2021-09-26 | 2022-07-29 |
 | [Tu](https://open.spotify.com/track/0ZZsGEpFws0EDn7Kos1U2z) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/1gmgzeAMpCDunSHil00fXW) | 4:11 | 2021-09-26 | 2022-07-22 |

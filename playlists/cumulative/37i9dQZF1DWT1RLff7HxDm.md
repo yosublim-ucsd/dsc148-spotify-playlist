@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-152 songs - 15 hr 22 min
+153 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bird On The Wire \- Live](https://open.spotify.com/track/2D1b4pdLJWi9rU309xLcBK) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 5:38 | 2020-10-30 |  |
 | [Blue On Black \- Live](https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:59 | 2020-11-20 |  |
 | [Blue On Black \- Live](https://open.spotify.com/track/4eUhCAOrhmKZavEf08lhgL) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Blue On Black \(Live\)](https://open.spotify.com/album/7hi34Iyim7nwlMgZNISz0X) | 4:59 | 2020-11-20 | 2022-07-29 |
+| [Blues Music \- Live at the Knitting Factory, NYC, NY \- 7/20/1994 \(Set 1\)](https://open.spotify.com/track/2jEBAgMU9Mhb0tpaEUxE5o) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love & Special Sauce \(30th Anniversary Expanded Edition\)](https://open.spotify.com/album/76IqHvS37OvwXviTLbOx4Q) | 4:58 | 2024-01-12 |  |
 | [Born Under A Bad Sign \(Live\)](https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:03 | 2020-10-30 | 2023-07-19 |
 | [Broke Down On The Brazos \(Live\)](https://open.spotify.com/track/5OITHr7K2kAAMG9CDO5GHJ) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Broke Down On The Brazos \(Live\)](https://open.spotify.com/album/5R53kCyQtLd4oQIBO4SJGs) | 8:48 | 2020-10-30 | 2022-07-29 |
 | [Broke Down On The Brazos \- Live](https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Bring On The Music: Live at The Capitol Theatre, Pt\. 2](https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu) | 8:48 | 2020-10-30 |  |
@@ -116,7 +117,7 @@
 | [Some Other Day, Some Other Time \- Live](https://open.spotify.com/track/6w7zKtNuKcSkYg3WFo1zGX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 4:01 | 2020-10-30 | 2022-07-29 |
 | [Soul Salvation \- Live](https://open.spotify.com/track/5zh6I3FXW2MtDCq3QfT5bw) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Soul Salvation \(Live\)](https://open.spotify.com/album/3ptXSdbiTNTOnzfTepmCtI) | 4:32 | 2020-10-30 | 2022-07-29 |
 | [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 | 2020-10-30 |  |
-| [SoulBQue \- Live in Boston](https://open.spotify.com/track/5Q1osWuey1198DjmVlaHrJ) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Live in Boston](https://open.spotify.com/album/5h3MWDw8xiiRCWxWMvoIaS) | 7:37 | 2023-09-15 |  |
+| [SoulBQue \- Live in Boston](https://open.spotify.com/track/5Q1osWuey1198DjmVlaHrJ) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Live in Boston](https://open.spotify.com/album/5h3MWDw8xiiRCWxWMvoIaS) | 7:37 | 2023-09-15 | 2024-01-13 |
 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 | 2020-10-30 |  |
 | [Steamroller / Powerful Thing \- Live](https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol.1 \(Live\)](https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3) | 6:22 | 2020-10-30 |  |
 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 | 2020-10-30 |  |

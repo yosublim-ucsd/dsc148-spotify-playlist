@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [More Than Friends](https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [More Than Friends](https://open.spotify.com/album/4enAteB9DBZD3W9jmAaYYc) | 3:03 |
 | 2 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 |
-| 3 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
-| 4 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 |
+| 3 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 |
+| 4 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
 | 5 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 |
 | 6 | [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 |
 | 7 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 |
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 12 | [I Can't Be Your Friend](https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:51 |
 | 13 | [Twenty Something](https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Twenty Something](https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6) | 3:09 |
 | 14 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 |
-| 15 | [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 |
+| 15 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 | 16 | [Different](https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Different](https://open.spotify.com/album/2gMqEdAujugcErSftyzTki) | 3:20 |
 | 17 | [A Song For Her](https://open.spotify.com/track/0K7FOB1sgaKj4KdUWFiR8J) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:39 |
 | 18 | [Worst Girls of All Time](https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Worst Girls Of All Time](https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm) | 2:53 |
-| 19 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
+| 19 | [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 |
 | 20 | [So High](https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [So High](https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb) | 2:49 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA0ZTQ5YmJlYzgxNjUwNDc0ZDU1Y2VlOTg1MWRkZjM0OQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDBjYzgxYWE5MmQwYmZjZTI2NTk4Nzg3OTI2N2U0OTA4Zg==`

@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-187 songs - 10 hr 41 min
+188 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Tonight the Streets Are Ours](https://open.spotify.com/track/4tNTYxKPa8yWpoxpBEueIF) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [False Lights From the Land EP](https://open.spotify.com/album/2eswYuox4Rj1UKy40yUGDp) | 3:41 | 2023-07-17 | 2024-01-03 |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-05-26 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
-| [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 | 2023-07-07 |  |
+| [Turn Away](https://open.spotify.com/track/3iYfXX61UYS2fZPA16amzL) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line \(Extended\)](https://open.spotify.com/album/58MszPAmQJIbDklhdMCv7I) | 3:46 | 2024-01-11 |  |
+| [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 | 2023-07-07 | 2024-01-13 |
 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 | 2023-06-19 | 2023-12-16 |
 | [Us Without Me](https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Us Without Me](https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt) | 3:20 | 2023-03-23 | 2023-10-04 |
 | [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2022-12-21 | 2023-02-28 |

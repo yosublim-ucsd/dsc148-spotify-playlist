@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106893,
+  "num_followers": 106826,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmQwZGU2NjZiNDM1ZDk1OTM2ZWQxNzQ1ZDY4MWFjYzdmMGZhNDk1",
+  "snapshot_id": "MCw1NmY5NDRiMjhjZWFiZDU0YjdjMmE3ODFmOWZhZjIzNzNlZTE4ZTg2",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "I Want an Earth",
         "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 362626,
       "name": "I Want an Earth",
       "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Jewels from the Sun EP",
+        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 290847,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 264003,
       "name": "Sea To Sky",
       "url": "https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Jewels from the Sun EP",
-        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 290847,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Basic Instinct",
-        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 284477,
-      "name": "SFC - Hommage Mix",
-      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 329784,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 284477,
+      "name": "SFC - Hommage Mix",
+      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
+        "name": "Justine",
+        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
       },
       "artists": [
         {
-          "name": "Mr. Sosa",
-          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         }
       ],
-      "duration_ms": 349000,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
+      "duration_ms": 219000,
+      "name": "Justine",
+      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Justine",
-        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
       },
       "artists": [
         {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+          "name": "Mr. Sosa",
+          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Justine",
-      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
+      "duration_ms": 349000,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
     },
     {
       "added_at": "2023-08-31 14:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,625 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,512 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 13 | [Kryptonite](https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
 | 14 | [The Reason \- Acoustic](https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(Acoustic\) / Right Before Your Eyes](https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36) | 3:54 |
 | 15 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |
-| 16 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
-| 17 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 |
+| 16 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 |
+| 17 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
 | 18 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
 | 19 | [How to Save a Life \- Live in NYC \- 2009](https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Live From Soho](https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq) | 4:50 |
 | 20 | [1979 \- Acoustic](https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aeroplane Flies High \(Deluxe Edition\)](https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c) | 4:12 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 28 | [Radioactive \- Live London Sessions / 2013](https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Expanded Edition / Super Deluxe\)](https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh) | 4:30 |
 | 29 | [The Funeral \- Live Acoustic](https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Acoustic at The Ryman \(Live\)](https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR) | 5:07 |
 | 30 | [All I Want \- Acoustic](https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [All I Want \(Acoustic\)](https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4) | 3:19 |
-| 31 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
-| 32 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 |
+| 31 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 |
+| 32 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
 | 33 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
 | 34 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 35 | [When You're Gone \- Acoustic Version](https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [12" Masters \- The Essential Mixes](https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 | 50 | [Pardon Me \- Acoustic](https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:47 |
 
-Snapshot ID: `MCwyMGYzZjM4ODc0Yzc5YTFkMTkyMWViZTFhNmVkYzA5NDM1ZmQzYTVh`
+Snapshot ID: `MCw5YzMxMDNkN2I3YzRlNmI1NTk2ZDYwZGFlMzk4YzY4YTI3YjQ3ZTY3`

@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 74402,
+  "num_followers": 74394,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDAyY2Y1MmU2NDY5YWU1NGJjZjhmZjM2ZjI4MGQzODNiMDI4MWQ5",
+  "snapshot_id": "MCw4YmFjMjAxOTIwOTg5NWFkYzFmNjE3MmJhMThiMTdlZjVjODQyOWFl",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Prepare Him Room: Celebrating the Birth of Jesus in Song",
-        "url": "https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Who Would Have Dreamed",
-      "url": "https://open.spotify.com/track/4jTuubX6rorxTmB2sAz6qf"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Campfire II: Simplicity",
         "url": "https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 283066,
       "name": "Oceans (Where Feet May FaiI)",
       "url": "https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "duration_ms": 346750,
+      "name": "Shepherd of My Soul",
+      "url": "https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a"
+        "name": "Prepare Him Room: Celebrating the Birth of Jesus in Song",
+        "url": "https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W"
       },
       "artists": [
         {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 346750,
-      "name": "Shepherd of My Soul",
-      "url": "https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz"
+      "duration_ms": 232506,
+      "name": "Who Would Have Dreamed",
+      "url": "https://open.spotify.com/track/4jTuubX6rorxTmB2sAz6qf"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -971,38 +971,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Head to the Heart (Live)",
-      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "30: Three Decades of Songs for the Church",
         "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
       },
@@ -1023,6 +991,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Head to the Heart (Live)",
+      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "The Worship Initiative, Vol. 5",
         "url": "https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 228330,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1143,22 +1143,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+        "name": "The Worship Initiative, Vol. 6",
+        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
         },
         {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 378693,
-      "name": "Take Courage - Live",
-      "url": "https://open.spotify.com/track/6fiARGC2wsBpuOech1FAun"
+      "duration_ms": 271766,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1179,22 +1179,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "The Worship Initiative, Vol. 6",
-        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
       "artists": [
         {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         }
       ],
-      "duration_ms": 271766,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
+      "duration_ms": 378693,
+      "name": "Take Courage - Live",
+      "url": "https://open.spotify.com/track/6fiARGC2wsBpuOech1FAun"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Lead Thou Me On: Hymns and Inspiration",
-        "url": "https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M"
-      },
-      "artists": [
-        {
-          "name": "BYU Vocal Point",
-          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Come, Thou Fount of Every Blessing (Arr. Keith McKay Evans)",
-      "url": "https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Fortunate Fall",
         "url": "https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 280666,
       "name": "I Shall Not Want",
       "url": "https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Lead Thou Me On: Hymns and Inspiration",
+        "url": "https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M"
+      },
+      "artists": [
+        {
+          "name": "BYU Vocal Point",
+          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Come, Thou Fount of Every Blessing (Arr. Keith McKay Evans)",
+      "url": "https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "At the Foot of the Cross - Acoustic",
+      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Tow'rs",
         "url": "https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 235240,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/52Ow3Du0P5XMBIRvOMHXUj"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "At the Foot of the Cross - Acoustic",
-      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 279253,
-      "name": "Doxology//Amen",
-      "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Even So Come: A Worship Album",
         "url": "https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 299787,
       "name": "Open the Eyes of My Heart",
       "url": "https://open.spotify.com/track/2THCQcUx495TezaDX57Syx"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 279253,
+      "name": "Doxology//Amen",
+      "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
     },
     {
       "added_at": "2023-02-18 04:59:55",

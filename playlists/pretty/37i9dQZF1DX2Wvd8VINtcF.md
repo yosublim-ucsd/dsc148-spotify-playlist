@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: boerd & Boko Yout
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,569 likes - 94 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,631 likes - 94 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 24 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 |
 | 25 | [Stuntin](https://open.spotify.com/track/44CSjBjs3mcn5c66XnB8It) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:02 |
 | 26 | [Over](https://open.spotify.com/track/68hMlnUaIdjJfpFogolkUG) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [Bathrobe Tony](https://open.spotify.com/artist/6ytnNrgYq2i0hz3rLjLkkb), [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57) | [Over](https://open.spotify.com/album/11c8AO04I8gh34Oc6ycFJ6) | 3:15 |
-| 27 | [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/track/3pFYuXwv3UwhwAe0IsuyqD) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/album/1OQlENDsvmiRYDM3WTBXhy) | 3:22 |
+| 27 | [Hocus Pocus](https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 3:22 |
 | 28 | [The Big Boom \- Bonus Track](https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/0AsVb7S4UL2760pQlRVpAe) | 3:14 |
 | 29 | [digital crush](https://open.spotify.com/track/4hYbCohbCENEkrnLih5s55) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [digital crush](https://open.spotify.com/album/4MEzMHYcPOkGiKBQ0mOjKd) | 2:39 |
 | 30 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 93 | [Evighet](https://open.spotify.com/track/4cEN3svbqObdDpaZiv9sWP) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 2:37 |
 | 94 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 |
 
-Snapshot ID: `MCw5MDZmNGQ2YWM0MzZmZTA3ZjBmZDY1YjdjYzE2NTY0YzNkYzI3ZjRm`
+Snapshot ID: `MCwyNWIyZGZhZGQ2NDk0MzY1ZDRjNGM3YmZhNzQzYWYyNTljNjJjZGU2`

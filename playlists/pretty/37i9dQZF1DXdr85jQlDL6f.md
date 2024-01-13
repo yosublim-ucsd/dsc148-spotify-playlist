@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 
 > just turn on some rainy weather at will, with this backdrop of dripping drizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,744 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,787 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 | 68 | [Rain Drops](https://open.spotify.com/track/5SP27iVBdW42lMZph6ceNR) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Heavy Rain](https://open.spotify.com/album/5wHrCh7SaGM0CqL0rLg1xY) | 3:21 |
 | 69 | [Sanur \(Rain\)](https://open.spotify.com/track/7kULnoSgYN5pv86XwmKmiA) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:50 |
 | 70 | [Gentle Pour](https://open.spotify.com/track/326CiwUuxd0LcLd3gwWy3N) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:16 |
-| 71 | [Daybreak Rain](https://open.spotify.com/track/6DNUn0G3eihQbE9RvlgJiL) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 |
-| 72 | [Rain throughout the Day](https://open.spotify.com/track/2LdwiQegqzF99iBr0foZr0) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 |
+| 71 | [Rain throughout the Day](https://open.spotify.com/track/2LdwiQegqzF99iBr0foZr0) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 |
+| 72 | [Daybreak Rain](https://open.spotify.com/track/6DNUn0G3eihQbE9RvlgJiL) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 |
 | 73 | [Crispy Rain](https://open.spotify.com/track/04uytXigV9aexEvfwbxU0C) | [Van Hailin'](https://open.spotify.com/artist/5US0y9Gj4DHIetQZYaZOMT) | [Under The Weather](https://open.spotify.com/album/4wfVuP6MPS1LafpLbEjN6F) | 2:14 |
 | 74 | [Rainy Street In Dublin](https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:38 |
-| 75 | [Peaceful Rain](https://open.spotify.com/track/0FMtY31utCdCUgSw0m86Yn) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:25 |
+| 75 | [Rainy Village](https://open.spotify.com/track/73FyKzJoLaYr5FIimh3Puz) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 3:01 |
 
-Snapshot ID: `MCxjNTU1ZmY4MDI4YjQ5Zjc5NDVkOTcyNTBhY2ZjNGY5ZGJkMTJlMjhl`
+Snapshot ID: `MCw1ZTExZTBjYzlhYTNhODJjNWMzZWIzNjk2MzkwMGNiM2Y1OTg2ZGY2`

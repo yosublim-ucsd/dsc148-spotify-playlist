@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,334 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,328 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
 | 70 | [To\. Sora 3/3](https://open.spotify.com/track/5BHwbNFuwj2fEsF9G645W4) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW), [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Dispatched to Germany : To Sora](https://open.spotify.com/album/3b178N4ToXGVG203uAjGKc) | 3:36 |
 
-Snapshot ID: `MCxhNWRiMmI1M2QzZDc1MTg5MmUwZmE0ZmQxYmYxZjYyMTUyNTI0MzU5`
+Snapshot ID: `MCxmMjIxZmYxZGViZjZlOTgyMmMxMDBlMzU2YzQ5NjQ2ZThmYmU5OWZj`

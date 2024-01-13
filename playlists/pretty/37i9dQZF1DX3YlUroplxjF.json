@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 476387,
+  "num_followers": 476230,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWIzMmRhNjgwZmI1MzAzODhiZTBmOGI5YTcwYzIxYTI2Yjk5ZTdi",
+  "snapshot_id": "MCwxMGU2YTlmNjIwYWQ1ZDJjYzMyNTNmMmQ4M2FjYjMyNGI3OTBhNzRk",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Beautiful Death",
-        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
       "artists": [
         {
-          "name": "SLAVES",
-          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Let This Haunt You",
-      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
+      "duration_ms": 168000,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+        "name": "Beautiful Death",
+        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "SLAVES",
+          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
         }
       ],
-      "duration_ms": 168000,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
+      "duration_ms": 225493,
+      "name": "Let This Haunt You",
+      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Euthanasia",
-        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Euthanasia",
+        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Were You Nervous?",
-        "url": "https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q"
-      },
-      "artists": [
-        {
-          "name": "Speech Patterns",
-          "url": "https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e"
-        }
-      ],
-      "duration_ms": 208258,
-      "name": "Were You Nervous?",
-      "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "In Our Wake",
         "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 193196,
       "name": "In Our Wake",
       "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Were You Nervous?",
+        "url": "https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q"
+      },
+      "artists": [
+        {
+          "name": "Speech Patterns",
+          "url": "https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e"
+        }
+      ],
+      "duration_ms": 208258,
+      "name": "Were You Nervous?",
+      "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "The Love You Let Too Close",
         "url": "https://open.spotify.com/album/1halV1wszbMMZ8DFZivS9V"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 202025,
       "name": "Tradition",
       "url": "https://open.spotify.com/track/3Q74UTLLIxNdcI4l9VRcOM"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
     },
     {
       "added_at": "2023-06-20 21:21:38",

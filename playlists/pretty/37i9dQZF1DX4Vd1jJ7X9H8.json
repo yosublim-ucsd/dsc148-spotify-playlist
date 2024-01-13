@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
-  "num_followers": 302369,
+  "num_followers": 302604,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWE0NTdkYTBmOWI3MWYxMjdiMWMzZTQyNTkwNTg2MTIwNmY4ZGI5",
+  "snapshot_id": "MCw0M2M0MDlkZjU0MDQ0OTJlNzU0ZGZmZDdjOGI1Y2UxNDczZjFkYzdk",
   "tracks": [
     {
       "added_at": "2023-12-27 20:39:24",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
+      "added_at": "2023-12-27 17:01:56",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
       "added_at": "2023-09-29 19:53:20",
       "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
@@ -311,22 +327,6 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2023-12-27 17:01:56",
-      "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "House Hues",
-        "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
-      },
-      "artists": [
-        {
-          "name": "IAMNOBODI",
-          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
-        }
-      ],
-      "duration_ms": 98461,
-      "name": "Separated",
-      "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Electric U",
         "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "House Hues",
+        "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
+      },
+      "artists": [
+        {
+          "name": "IAMNOBODI",
+          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
+        }
+      ],
+      "duration_ms": 98461,
+      "name": "Separated",
+      "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
     },
     {
       "added_at": "2023-09-29 19:53:20",

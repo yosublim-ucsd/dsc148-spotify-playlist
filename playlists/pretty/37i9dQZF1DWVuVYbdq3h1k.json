@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos!",
-  "num_followers": 1213346,
+  "num_followers": 1212911,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzUwYjFiYWZkNzlmMWI3ODg0NGVmYjNmZWE3NmVlZDJkMWZjM2Uw",
+  "snapshot_id": "MCxhZDEwM2VmZjE5MzFmOGYwZmFhMGM3MGY2YTQyYjNmNTg1ZTFhOTI0",
   "tracks": [
     {
       "added_at": "2020-11-17 04:03:12",
@@ -415,8 +415,8 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+      "duration_ms": 196360,
+      "name": "Nada Valgo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -495,8 +495,8 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Nada Valgo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Sabes Una Cosa",
-      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Euphoria (Standard US/Latin version)",
         "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Sabes Una Cosa",
+      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -823,6 +823,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "El Primer Instinto",
+        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "El Primer Instinto",
-        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
-      },
-      "artists": [
-        {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Sin Bandera",
         "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
-        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Sabor a Chocolate",
-      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
+        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -975,6 +975,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -1015,34 +1031,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
       },
       "artists": [
         {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2022-04-23 02:38:21",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 306986,
       "name": "Coleccionista de Canciones",
       "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Canciones De Hotel",
+        "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "El Eco de Tu Voz",
+      "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Anoche",
         "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
       },
@@ -1519,6 +1535,54 @@
       "duration_ms": 155920,
       "name": "Carism\u00e1tico",
       "url": "https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Afortunadamente No Eres Tu",
+        "url": "https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Afortunadamente No Eres Tu",
+      "url": "https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Punto",
+        "url": "https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Shabadabada",
+      "url": "https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Est\u00e9s Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1559,70 +1623,6 @@
       "duration_ms": 215746,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/7F7qwp7VZRVwZsNoddRRgX"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Canciones De Hotel",
-        "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "El Eco de Tu Voz",
-      "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Punto",
-        "url": "https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9"
-      },
-      "artists": [
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Shabadabada",
-      "url": "https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Est\u00e9s Donde Est\u00e9s",
-      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Afortunadamente No Eres Tu",
-        "url": "https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Afortunadamente No Eres Tu",
-      "url": "https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU"
     },
     {
       "added_at": "2020-11-17 04:03:12",

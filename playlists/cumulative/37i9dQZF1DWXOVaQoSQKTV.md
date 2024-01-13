@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-196 songs - 11 hr 37 min
+197 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Light up the Party](https://open.spotify.com/track/0mKVeA6fwC8GLHxFfEp6Nj) | [Skully Boyz](https://open.spotify.com/artist/0LqUbElKxWRmBSGK3V08hf) | [100 Styles & Gunnin'](https://open.spotify.com/album/1bIdRmt0JrgQD590hTIQ1c) | 2:35 | 2023-06-08 |  |
 | [Lightleak](https://open.spotify.com/track/3szbKoHJIy4dMCIPnmV9u4) | [There's Talk](https://open.spotify.com/artist/2WhB9sVFJmyQTjSx54za8L) | [Lightleak](https://open.spotify.com/album/3a0DLD5fuRlbEQQhARZFHY) | 3:54 | 2023-06-08 |  |
 | [Lilac House](https://open.spotify.com/track/3tRlEuSKHctR38ES9NYf2l) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Lavender](https://open.spotify.com/album/2vJ4wdrDggsYBywQSBhuMi) | 2:28 | 2023-06-08 |  |
-| [Lost](https://open.spotify.com/track/2ru0OaqYvJS8yXMMsZZWcH) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:29 | 2023-06-08 |  |
+| [Lost](https://open.spotify.com/track/1h45FLiZJT9oYjbrHKcHjy) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/7c844zy9jk6SzVpC57SGZL) | 4:29 | 2023-06-08 |  |
+| [Lost](https://open.spotify.com/track/2ru0OaqYvJS8yXMMsZZWcH) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:29 | 2023-06-08 | 2024-01-13 |
 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 | 2023-06-08 |  |
 | [Love Is a Phase](https://open.spotify.com/track/6JTeB7aJW2jwIjAyMCD9cv) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Voyage](https://open.spotify.com/album/71pGZ0F3laTMZPmwfXxmFS) | 5:38 | 2023-06-08 |  |
 | [Lucid](https://open.spotify.com/track/5GL0OMMSziz8VwN87p30TE) | [Innocent Bird](https://open.spotify.com/artist/3XKL5IuEz5yErHp6S3Wk8q) | [Vol\. 4](https://open.spotify.com/album/7L3orQnuqz95Y1e5W62y3V) | 3:43 | 2023-06-08 |  |

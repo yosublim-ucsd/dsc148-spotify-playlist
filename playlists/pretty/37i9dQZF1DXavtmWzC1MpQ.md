@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,717 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,520 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 32 | [Light Forest Rain 1](https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 33 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
 | 34 | [Suburban Forest Rain 1](https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:18 |
-| 35 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 |
-| 36 | [Birds by the Stream](https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ) | [Nature Recordings](https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv) | [2017 Relaxing Outdoor Soundscapes](https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l) | 3:29 |
+| 35 | [Birds by the Stream](https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ) | [Nature Recordings](https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv) | [2017 Relaxing Outdoor Soundscapes](https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l) | 3:29 |
+| 36 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 |
 | 37 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 |
 | 38 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
 | 39 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 49 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
 | 50 | [Zen Nature Sounds](https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj) | [The Rainforest Collective](https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:45 |
 
-Snapshot ID: `MCxmMjY0MWIzODIzMGFiZGNkMTM3OWJlMGQ4Yzk4OWMyYjU1OTMzM2Jk`
+Snapshot ID: `MCw3YzdhNjEzZTk5MTA3YWZhNzMxZTQwY2Q5YWVkYTI3ZWQ5ZDgyZDZl`

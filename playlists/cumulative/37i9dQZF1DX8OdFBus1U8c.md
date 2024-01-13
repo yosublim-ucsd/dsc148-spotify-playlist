@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : KSHMR, Dabzee, Vedan
 
-127 songs - 6 hr 51 min
+128 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,8 +117,9 @@
 | [THALAKKANAM](https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36) | 2:51 | 2023-08-28 | 2023-10-30 |
 | [Thalayana Manthram](https://open.spotify.com/track/5PyLZP4TRBUVBTEkYrfMyD) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Thalayana Manthram](https://open.spotify.com/album/5Cohg9TfF3ofvpNoAUsGUN) | 3:15 | 2023-03-06 | 2023-07-24 |
 | [Thamburati](https://open.spotify.com/track/7zZsi7kpplYLn7q7K6qQUu) | [Reyan](https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM), [Melvin](https://open.spotify.com/artist/2J9gqy4uIlVhZtgiLTTQOm) | [Thamburati](https://open.spotify.com/album/05fOT0Hp6GgFl5cdiFOCrN) | 2:58 | 2022-04-18 |  |
+| [Thampuran](https://open.spotify.com/track/4xKPUaIGFKtArC7di4oqDu) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Sachin Raj](https://open.spotify.com/artist/4N0UOy9N9HGnKVVjNcnBsR) | [Thampuran](https://open.spotify.com/album/33kfbVUPzhJmLENH92yis5) | 4:16 | 2024-01-12 |  |
 | [Thannatthaan \- From "Naradan"](https://open.spotify.com/track/6VcGJCQwQlpKWkrQ7wCIJS) | [DJ Sekhar](https://open.spotify.com/artist/2AepjEFzesduzgTezL8263), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Manchild](https://open.spotify.com/artist/29DEknQpxdiLrlgOHxnWKF) | [Thannatthaan \(From "Naradan"\)](https://open.spotify.com/album/4IMYANN7cQvkyFsFUtci3O) | 3:17 | 2022-04-18 |  |
-| [Therapara](https://open.spotify.com/track/5bcDMaATnR4HzSHzYjWRNS) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:10 | 2023-07-23 |  |
+| [Therapara](https://open.spotify.com/track/5bcDMaATnR4HzSHzYjWRNS) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:10 | 2023-07-23 | 2024-01-13 |
 | [Theruvinte Kalakaran](https://open.spotify.com/track/07m5XcQaa9fFVPsCPyTtof) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Theruvinte Kalakaran](https://open.spotify.com/album/363vnlGOUs1yjshF3cxwlX) | 3:28 | 2022-06-23 |  |
 | [Thirumbi Varuvathu \(From "Neymar"\)](https://open.spotify.com/track/2qJE0biPkcyUlmxXx5lny4) | [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Thirumbi Varuvathu \(From "Neymar"\)](https://open.spotify.com/album/7Gl8rMy67Br16RVGdN0F72) | 2:27 | 2023-07-19 | 2023-12-20 |
 | [Thokku](https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA) | [Azuran](https://open.spotify.com/artist/1OxvhhZ38t4JAe6tIRPmLQ), [Pakarcha Vyadhi](https://open.spotify.com/artist/1laDdJtAMkry4ChFpeQV1K), [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN) | [Thokku](https://open.spotify.com/album/0NiPKGCDAmRRAkPqyMw4XK) | 3:18 | 2023-07-23 | 2023-12-20 |

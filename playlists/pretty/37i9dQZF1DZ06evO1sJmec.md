@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891,945 likes - 51 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,891,515 likes - 51 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 36 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 |
 | 37 | [Welcome Home \(Sanitarium\) \- Remastered](https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 6:27 |
 | 38 | [Creeping Death \- Creeping Death EP Version / Remastered](https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:35 |
-| 39 | [If Darkness Had a Son](https://open.spotify.com/track/1oCQLSGSiHozdyx7lOqkIt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:36 |
-| 40 | [Motorbreath \- Remastered](https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 3:07 |
+| 39 | [Motorbreath \- Remastered](https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 3:07 |
+| 40 | [If Darkness Had a Son](https://open.spotify.com/track/1oCQLSGSiHozdyx7lOqkIt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:36 |
 | 41 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
 | 42 | [All Nightmare Long](https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:57 |
 | 43 | [Fight Fire With Fire \- Remastered](https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 4:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 50 | [The Thing That Should Not Be](https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:36 |
 | 51 | [Jump In The Fire \- Remastered](https://open.spotify.com/track/4fVBFyglBhMf0erfF7pBJp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:41 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA0ODBkNDk4MDI1ODQ5MzJiZWEwNzc3ZjU2NThkZmZkYQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA4MzRiZDhlZTliNGFiNzhlZWNhMzk1NmE4NDA0NGM1MA==`

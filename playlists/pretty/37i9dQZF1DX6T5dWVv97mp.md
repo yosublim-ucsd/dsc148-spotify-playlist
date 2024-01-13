@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6T5dWVv97mp.md) - [plain]
 
 > Get into a morning flow with this focus playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,570 likes - 90 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,575 likes - 90 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6T5dWVv97mp.md) - [plain]
 | 14 | [Youth](https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard, Pt\. 1](https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG) | 4:00 |
 | 15 | [Closer](https://open.spotify.com/track/42bUpQCOSt03mbI2X18n06) | [Omar Raafat](https://open.spotify.com/artist/1WbvLPPRx9AHgPt2OwUbi3) | [Closer](https://open.spotify.com/album/2GfCn8lzUGtgwI8oooCA3u) | 2:29 |
 | 16 | [Next Winter](https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Next Winter](https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P) | 3:54 |
-| 17 | [Shorelines](https://open.spotify.com/track/3jp7xKenvg8D6KsMNDglGI) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [All the Unknown](https://open.spotify.com/album/31U9MBpTspcwmENreYTt1Q) | 4:58 |
+| 17 | [Shorelines](https://open.spotify.com/track/4kFQlkYrZRr172migt59Ww) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [All the Unknown](https://open.spotify.com/album/1KH7ZMxIWPvw5tCDO43ZUX) | 4:58 |
 | 18 | [9:00 AM: Venture](https://open.spotify.com/track/2L14ycnXhBP4PXcwz76yD9) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Songs For The Morning](https://open.spotify.com/album/6zvbfn1GOLjCuVdsRUtoNL) | 3:39 |
 | 19 | [Privier Niño](https://open.spotify.com/track/3a1UgT5QX1JxdEf4Ghd6LW) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Privier Niño](https://open.spotify.com/album/5wqE4DyLaoIH0Yp5f1FWMM) | 1:37 |
 | 20 | [A Bach Response](https://open.spotify.com/track/4y9slcqIZOLrHFHTrpU59l) | [Tristan Barton](https://open.spotify.com/artist/0obGrBCNNmdEbcJfzjuA68) | [Minimal Piano Works](https://open.spotify.com/album/3i5F24FMzyHE3BTzJqBrHH) | 2:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6T5dWVv97mp.md) - [plain]
 | 89 | [Then the Quiet Explosion](https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 6:43 |
 | 90 | [Holding On](https://open.spotify.com/track/68odVUhFI8Ng0OgQpNvXNU) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 4:46 |
 
-Snapshot ID: `MCwwYzJhMjQwOWQ3MzM3YTc3YmE5OGNhMjU0N2U2MWM0MmMxNzA1MTAy`
+Snapshot ID: `MCxkMzNmY2ViODIzZWRhZWJiMTEwMGVjOGExMDMzMzhkYmU5ZTM0ZGNh`

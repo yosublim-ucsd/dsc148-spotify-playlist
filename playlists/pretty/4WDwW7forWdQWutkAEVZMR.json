@@ -1,13 +1,77 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, Bring Me The Horizon, Harry Styles &amp; more! Cover: Bring Me The Horizon",
-  "num_followers": 8430,
+  "description": "Your go-to playlist for this week's hottest music featuring Lil Nas X, Beyonc\u00e9, Harry Styles &amp; more! Cover: Lil Nas X",
+  "num_followers": 8406,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjY2NSw4YjgwYzExZTgzOGM3ZDRmZjFjMDVlZjZlNjNmNTliNmY0Zjg5ZTIz",
+  "snapshot_id": "NjY3MCwxZTkzOTYwYWMxNmVkOTFlYjUzMjQyOWUyZTg3OGRmZDNmY2U4MTM2",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:10:47",
+      "album": {
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
+    },
+    {
+      "added_at": "2024-01-12 05:10:58",
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 165799,
+      "name": "Bitter Sweet Love",
+      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
+    },
+    {
+      "added_at": "2024-01-12 05:12:38",
+      "album": {
+        "name": "Told Ya",
+        "url": "https://open.spotify.com/album/6sPmFdZn1p92RnXJYamKtz"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 168814,
+      "name": "Told Ya",
+      "url": "https://open.spotify.com/track/315z94HWFxprz0cqLv8oiD"
+    },
+    {
+      "added_at": "2024-01-12 05:13:18",
+      "album": {
+        "name": "jumpscare in your garden",
+        "url": "https://open.spotify.com/album/5PjAbxcY5tbb5eNJCLnKaH"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "jumpscare in your garden",
+      "url": "https://open.spotify.com/track/10Lv8IXH4wm6o8ymIJHfHG"
+    },
     {
       "added_at": "2024-01-05 20:59:39",
       "album": {

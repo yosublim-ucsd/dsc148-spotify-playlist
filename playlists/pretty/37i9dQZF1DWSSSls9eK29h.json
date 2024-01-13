@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 130296,
+  "num_followers": 130383,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2",
+  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Urban Knights",
-        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
       },
       "artists": [
         {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 437133,
-      "name": "Hearts Of Longing",
-      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
+      "duration_ms": 317133,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -631,6 +615,22 @@
       "duration_ms": 275333,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Urban Knights",
+        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
+      },
+      "artists": [
+        {
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+        }
+      ],
+      "duration_ms": 437133,
+      "name": "Hearts Of Longing",
+      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Intimacy",
-        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Just Hold Me",
-      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "A River In The Desert",
         "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 338933,
       "name": "The East from the West",
       "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Just Hold Me",
+      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
-      },
-      "artists": [
-        {
-          "name": "John Klemmer",
-          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Glass Dolphins",
-      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 291533,
       "name": "The Way To You",
       "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
+      },
+      "artists": [
+        {
+          "name": "John Klemmer",
+          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Glass Dolphins",
+      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
     },
     {
       "added_at": "2020-08-19 00:00:21",

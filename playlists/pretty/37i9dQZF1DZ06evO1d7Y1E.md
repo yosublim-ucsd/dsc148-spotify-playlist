@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,134 likes - 46 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,172 likes - 46 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 29 | [Cria do Rio](https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Cria do Rio](https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ) | 1:46 |
 | 30 | [Puxando Lança no Barco Cheio de Piranha](https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [DJ Alex da Baixada](https://open.spotify.com/artist/3CpM0dzOVpRwngLci6OKfm) | [Puxando Lança no Barco Cheio de Piranha](https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy) | 2:35 |
 | 31 | [Talvez](https://open.spotify.com/track/4LiVUPK4lUqO8yrRw9wOiu) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [DJ Nemo NTR](https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0), [Dj Felipe Rosa](https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 2:44 |
-| 32 | [Hoje Tem Baile](https://open.spotify.com/track/0MSaltm7kJNJ08cJLV4HJp) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Hoje Tem Baile](https://open.spotify.com/album/318Zwi6JnkpzPwhaKzvW2z) | 3:58 |
-| 33 | [Fica à Vontade](https://open.spotify.com/track/5579yRF96PYOFoh69ghsRZ) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Fica à Vontade](https://open.spotify.com/album/10QudDJ9YMqQlVTm36HVrz) | 4:36 |
+| 32 | [Fica à Vontade](https://open.spotify.com/track/5579yRF96PYOFoh69ghsRZ) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Fica à Vontade](https://open.spotify.com/album/10QudDJ9YMqQlVTm36HVrz) | 4:36 |
+| 33 | [Hoje Tem Baile](https://open.spotify.com/track/0MSaltm7kJNJ08cJLV4HJp) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Hoje Tem Baile](https://open.spotify.com/album/318Zwi6JnkpzPwhaKzvW2z) | 3:58 |
 | 34 | [Tá Fluindo](https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Tá Fluindo](https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk) | 2:39 |
 | 35 | [No Baile Nós É Mídia](https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ) | [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [No Baile Nós É Mídia](https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr) | 2:02 |
 | 36 | [Vida de Chefe](https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida de Chefe](https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T) | 2:48 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 45 | [Safadinha](https://open.spotify.com/track/1vuRoYIGP57PR4Vf5erTqP) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Safadinha](https://open.spotify.com/album/7qLJZYDUWFY4JhwSkhqazr) | 2:21 |
 | 46 | [Vida Louca \- Remix](https://open.spotify.com/track/48ni2OjDvFMl71tNU0Rc95) | [Malik Mustache](https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida Louca \(Remix\)](https://open.spotify.com/album/7suNFGCjsqqm31d6azA8I5) | 3:00 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA0NmVlOWZjMmQzNmRkNTkwMmJhMjczMWJmZDE3YzY3Yg==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDBlYTc4MmFiMjMwZWRkMTI4ZjkxNTY3YjI1OWU0N2Y1OA==`

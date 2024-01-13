@@ -4,7 +4,7 @@
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-134 songs - 8 hr 57 min
+135 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Heavy Metro](https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:37 | 2023-03-30 |  |
 | [Hombres de hierro](https://open.spotify.com/track/2JYIwI2gvuUbvEJdmJ7Aqn) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ) | 4:37 | 2023-03-30 |  |
 | [Hombres de hierro](https://open.spotify.com/track/5YcGLMLhYZlFznMAUbp8fs) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 4:37 | 2023-03-30 | 2023-04-13 |
-| [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2023-03-30 |  |
+| [Ji Ji Ji](https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI) | 5:34 | 2023-03-30 |  |
+| [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2023-03-30 | 2024-01-13 |
 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 | 2023-03-30 |  |
 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 | 2023-03-30 |  |
 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 | 2023-03-30 |  |

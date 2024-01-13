@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: UMI, V\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Kim Min Seok, Sam Ryder\)
 
-155 songs - 8 hr 18 min
+156 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Amigos \(with Becky G\)](https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Amigos \(with Becky G\)](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) | 2:31 | 2023-11-17 |  |
 | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/track/1huXH6cjXHN2ZpqnnG7dLo) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI), [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/album/1XSaxEw0RTVC2WRuFwONVP) | 3:32 | 2023-04-30 |  |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 |  |
+| [Back In Love](https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Back In Love](https://open.spotify.com/album/5ZHvtBvK20KcEayo2MDQTQ) | 3:15 | 2024-01-12 |  |
 | [Bad Habits \- SHAUN Remix](https://open.spotify.com/track/1ojXznve83pqLCTdy3945M) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Bad Habits \(The Remixes\)](https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK) | 3:44 | 2021-12-20 | 2022-04-20 |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2023-06-22 |  |
 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 | 2023-07-07 |  |

@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Marisa Monte
 
-611 songs - 1 day 12 hr 5 min
+612 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Quem Sim? \(Ao Vivo\)](https://open.spotify.com/track/61LTxSXQ0IEdWlHOSF2rIB) | [Nô Stopa](https://open.spotify.com/artist/1tvJkKNKt5zYCbbyR36fZa), [Bia Tucci](https://open.spotify.com/artist/1VSWRZULqi1BUaZERHQvNr) | [Segue o Movimento \(Ao Vivo\)](https://open.spotify.com/album/24B8aW3ZpoVtAlvBIKOGZ7) | 3:16 | 2022-11-25 | 2022-12-10 |
 | [QUEM?](https://open.spotify.com/track/02xe8NW9qbBGbTa4YPkSCg) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [O que restou da Maravilha](https://open.spotify.com/album/3wNYTUaJuK5e4XQDP1V115) | 3:29 | 2023-10-06 | 2023-10-14 |
 | [Quente e Colorido \- Acústico](https://open.spotify.com/track/0vskRIOzgDcoL7LH41OuiZ) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Quente e Colorido \(Acústico\)](https://open.spotify.com/album/08PpSQfER5pcINRuwINsbs) | 4:25 | 2023-06-23 | 2023-07-15 |
+| [quentinha](https://open.spotify.com/track/0Gvql6QqmLyGWoveIvDjiS) | [Theo Bial](https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5), [Raoni Ventapane](https://open.spotify.com/artist/4DRWN6Bm8bDZHPtcKWpGZI), [Ogrow Beats](https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr) | [2023](https://open.spotify.com/album/0NwDg971pu7KeDgnbrueEq) | 2:22 | 2024-01-12 |  |
 | [Querer Bem](https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj) | [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN), [Roberto Mendes](https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V) | [Querer Bem](https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT) | 3:14 | 2023-09-02 | 2023-11-25 |
 | [Raio X \(Baby Session\)](https://open.spotify.com/track/6dCtRnv9k1eKkIOwPPfaFN) | [BABY](https://open.spotify.com/artist/1Epq0XVctV49bwVPujtKxp), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Raio X \(Baby Session\)](https://open.spotify.com/album/6iKf5qW2mCXzmCz4CyQICI) | 4:07 | 2022-08-19 | 2022-09-03 |
 | [Ranço](https://open.spotify.com/track/40G6UdBzjpBroqGcP0OLAk) | [Getúlio Abelha](https://open.spotify.com/artist/5xA5rj8tUegPoax30Xs2uh) | [Ranço](https://open.spotify.com/album/3T0Ipsyv97z4dH4cuMtMjZ) | 3:31 | 2023-06-16 | 2023-07-08 |
@@ -567,7 +568,7 @@
 | [Três](https://open.spotify.com/track/5NkFAh88iCq7PULpgNoBuv) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Três](https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV) | 3:42 | 2022-07-15 | 2022-10-08 |
 | [Tua Mania](https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI) | [Jona Poeta](https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL) | [Tua Mania](https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv) | 3:26 | 2023-09-02 | 2023-10-07 |
 | [Tudo Bateu](https://open.spotify.com/track/73V4hpSoL889KOpT22uO49) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Tudo Bateu](https://open.spotify.com/album/2JPBsl0RmL0koMHG8hzE3Z) | 3:48 | 2022-02-01 | 2022-04-16 |
-| [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 | 2023-10-20 |  |
+| [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 | 2023-10-20 | 2024-01-13 |
 | [Tudo Vai Dar Certo](https://open.spotify.com/track/3P382EPA2uASutnTSOWcvq) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Tudo Vai Dar Certo](https://open.spotify.com/album/0GnrDJ5s5l8WAeVuDdsUiW) | 3:31 | 2022-02-11 | 2022-04-16 |
 | [Tudo Vai Ficar Bem](https://open.spotify.com/track/1k3fnP287Wsjf1xwPvinfF) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Perspectiva](https://open.spotify.com/album/6Qz2KgvgmuZ14h3ziFjS4Y) | 2:29 | 2022-09-02 | 2022-09-24 |
 | [Tudo Vale a Pena](https://open.spotify.com/track/1Ey6FQCBgmvLyVDuxgsJUy) | [Michael Sullivan](https://open.spotify.com/artist/3lF1WfwVjShSiYwJqhuZBb), [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ivanilton](https://open.spotify.com/album/0DVw3lG643Y0PKpIS57h1m) | 3:21 | 2023-03-24 | 2023-04-16 |

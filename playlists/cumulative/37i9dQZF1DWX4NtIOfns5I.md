@@ -2,12 +2,13 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> where folk flowers bloom..\. artists to watch edition 🪻 cover: Paris Paloma <3
+> where folk flowers bloom..\. artists to watch edition 🪻 cover: Michael Marcagi <3
 
-154 songs - 9 hr 2 min
+156 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 |  |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-01-05 |  |
 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 | 2023-10-06 |  |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2023-10-06 | 2023-10-21 |
@@ -116,6 +117,7 @@
 | [resentme2](https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE) | [Brett Seper](https://open.spotify.com/artist/0ha3FIe7oUSx86k9krBSKE) | [toxic ties & troubled minds](https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP) | 2:48 | 2023-10-06 |  |
 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-05 |  |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2023-12-22 |  |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-12 |  |
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-10-13 |  |
 | [Secrets](https://open.spotify.com/track/6HVr7aL6ZqGMO2gknTCZf7) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U) | 4:12 | 2023-10-06 |  |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-10-06 |  |

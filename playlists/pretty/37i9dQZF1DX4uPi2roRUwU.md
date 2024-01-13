@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,287 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,399 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 48 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 |
 | 49 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
 | 50 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
-| 51 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
-| 52 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
+| 51 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
+| 52 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
 | 53 | [Clap Your Hands](https://open.spotify.com/track/3LTuWsn3g5oA0ZEymfg1wp) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/0LAO0Lz7P7nO3MpRiQZBLL) | 3:09 |
 | 54 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 |
 | 55 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 |
 | 56 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
 | 57 | [Weekend \(Party, Sleep, Repeat\)](https://open.spotify.com/track/5066WzFaeJhqmQmKjBmrr6) | [Mark Mendy](https://open.spotify.com/artist/7AgS2ycsLUG0NPTY1AAboT), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Weekend \(Party, Sleep, Repeat\)](https://open.spotify.com/album/2rBpiaXs2GC7mPr6ckxfi3) | 2:18 |
 | 58 | [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 |
-| 59 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 |
-| 60 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
+| 59 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
+| 60 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 |
 
-Snapshot ID: `MCwxYjA5Yzc3MGQwMDRlNjY3MjY2ODhhYzdlMGJlNWEwOGU2OGFhODJh`
+Snapshot ID: `MCwwODkyMTNlMWRmN2Q3OTFjNmE0YzI3OTAzZWQwYWUwMzY2YTdkMGQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,075 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,077 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 17 | [LA DESPEDIDA \- Live \- Spotify Singles](https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Spotify Singles](https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5) | 3:28 |
 | 18 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 |
 | 19 | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ) | 2:19 |
-| 20 | [Mala Costumbre ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
-| 21 | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW) | 2:45 |
+| 20 | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW) | 2:45 |
+| 21 | [Mala Costumbre ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
 | 22 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 |
 | 23 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
 | 24 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 69 | [i don't think i love you anymore \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 4:12 |
 | 70 | [Back In Bahia \- Spotify Singles](https://open.spotify.com/track/6ModYZze07tx1R40jykgeL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Back In Bahia \- Spotify Singles](https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3) | 2:43 |
 
-Snapshot ID: `MCxkM2U1ZDI3MjUzMzQ3NTVhOWJiMzE5YzYxMTdiMzJiOWY5MDEwMmRk`
+Snapshot ID: `MCxhMDY2ODk3MDY5MmQwMGNkNmM2ODAxZmE4NDBiYzZiN2QxMzFmNzIw`

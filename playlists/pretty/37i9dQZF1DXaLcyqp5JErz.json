@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 541720,
+  "num_followers": 541412,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjYyYTc5YzQzNzNjZDdmNzcyYjkyMzI0YjFmNjZhNzAxMWFiYWZi",
+  "snapshot_id": "MCw2OTUyMjU0NmJkZmNiZDQ3YjA0MjE5ZTY4YjNiNzJkNjA1YTJkY2Jh",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "O Melhor de Deus Esta Por Vir",
-        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
-      },
-      "artists": [
-        {
-          "name": "Voz da Verdade",
-          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "O Escudo",
-      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Na Sala do Pai",
         "url": "https://open.spotify.com/album/57Zc0kM2ZK0vabo89mLX7V"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 430440,
       "name": "Arde Outra Vez",
       "url": "https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "O Melhor de Deus Esta Por Vir",
+        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
+      },
+      "artists": [
+        {
+          "name": "Voz da Verdade",
+          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "O Escudo",
+      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
     },
     {
       "added_at": "2023-10-13 16:02:51",

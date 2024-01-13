@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 84093,
+  "2024-01-13": 84152,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw\">  \u0645\u0635\u0637\u0641\u0649 \u062d\u062c\u0627\u062c </a>",
   "name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
@@ -2737,6 +2737,24 @@
     {
       "album": {
         "name": "\u0627\u0644\u062c\u062f\u0639",
+        "url": "https://open.spotify.com/album/1SBSlPem3rQ5r97XDh5DQQ"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199523,
+      "name": "\u0627\u0644\u062c\u062f\u0639",
+      "url": "https://open.spotify.com/track/1byDc7CCRVo5nhD7zk6Vs3"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062c\u062f\u0639",
         "url": "https://open.spotify.com/album/4uQI74QdNzXydIZjk26zuR"
       },
       "artists": [
@@ -2987,7 +3005,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 242308,
       "name": "\u0627\u0644\u063a\u0644 \u0645\u0646\u064a \u0647\u0627\u0631\u064a\u0643\u0648",
       "url": "https://open.spotify.com/track/4KACpmTcHspHtJCupdVozK"

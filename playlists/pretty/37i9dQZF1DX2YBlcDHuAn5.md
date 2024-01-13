@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,722 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,732 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 46 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
 | 47 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 |
 | 48 | [Rollin' with the Punches](https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Rollin' with the Punches](https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw) | 4:13 |
-| 49 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 |
-| 50 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 |
+| 49 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 |
+| 50 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 |
 
-Snapshot ID: `MCwwOWI3YTdjYTQ1YzJhODNlZmRlNDg3MTI2MDRlZGJiZGRiZTJjYjA5`
+Snapshot ID: `MCwxNmIxNzllZmFlYjM2NjllN2ExZjY1MDhlODE0Zjc0ZDgzZGY1OTAy`

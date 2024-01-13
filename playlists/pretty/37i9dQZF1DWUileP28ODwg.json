@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 330386,
+  "num_followers": 330220,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjBkNWYwNTFkYWMxNmU4NDZjNmM4MTRhMGM4ZGJkZTE5YzlkM2Yy",
+  "snapshot_id": "MCw0YTUzM2FhYTAzZWVkMmY5NTFmZTg3NzBjOTIxYzk1MmYxY2E0YjA3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1247,18 +1247,38 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Worst Days",
-        "url": "https://open.spotify.com/album/2cJ58kOSn3ilqpCdPUNFJO"
+        "name": "I LOVE YOU TO DEATH",
+        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
         }
       ],
-      "duration_ms": 211327,
-      "name": "Worst Days",
-      "url": "https://open.spotify.com/track/2LBcgkrR59qVYgwyuzy5Wg"
+      "duration_ms": 203832,
+      "name": "I LOVE YOU TO DEATH",
+      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Vanessa Hill",
+          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1295,38 +1315,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Ark",
-        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
+        "name": "Worst Days",
+        "url": "https://open.spotify.com/album/2cJ58kOSn3ilqpCdPUNFJO"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Vanessa Hill",
-          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 193040,
-      "name": "Ark",
-      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "I LOVE YOU TO DEATH",
-        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
-      },
-      "artists": [
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 203832,
-      "name": "I LOVE YOU TO DEATH",
-      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+      "duration_ms": 211327,
+      "name": "Worst Days",
+      "url": "https://open.spotify.com/track/2LBcgkrR59qVYgwyuzy5Wg"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 278119,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "At The End Of The River",
         "url": "https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 282848,
       "name": "At The End Of The River",
       "url": "https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 278119,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2023-11-17 05:00:00",

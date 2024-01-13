@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,826 likes - 46 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,281 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,6 +53,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 43 | [La Fory Fay](https://open.spotify.com/track/78IuTC0zgUmVL4jMcpwPAw) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:28 |
 | 44 | [El Aferrado](https://open.spotify.com/track/5H60a1evkC6f1VJ3TCkoIQ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:43 |
 | 45 | [Hay Amores](https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Ídolos, Hoy Mis Amigos!!!](https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc) | 3:15 |
-| 46 | [25 De Diciembre](https://open.spotify.com/track/2ZyPDr61OhPbnLp8L9rAjW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:54 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBiZGY4ZGRiODI4ZWMxNTAxZGQxOTU5MmI5MDEyMThiZQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA5YmU4YzQwMjE2Y2MzNmMzNTkzNTVmM2EzMWE4N2UyNw==`

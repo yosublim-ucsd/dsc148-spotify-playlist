@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 9523,
+  "num_followers": 9541,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWRkOTlkMGFhYmQ2MWQ1YWZmNTEyZWM2Mzg2ZGI2MjI2ODJiM2Iy",
+  "snapshot_id": "MCw4MjFlODEwYmZjMzgxNGY2ODg4ZTNiNmFjN2I3MWVhMjJjNDViYjRj",
   "tracks": [
     {
       "added_at": "2024-01-11 19:12:42",
@@ -871,18 +871,22 @@
     {
       "added_at": "2024-01-11 19:12:42",
       "album": {
-        "name": "Si Te Soy Sincera",
-        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
+        "name": "Mal Hecha (Deluxe)",
+        "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
       },
       "artists": [
         {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        },
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
         }
       ],
-      "duration_ms": 159835,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
+      "duration_ms": 137096,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb"
     },
     {
       "added_at": "2024-01-11 19:12:42",
@@ -903,22 +907,18 @@
     {
       "added_at": "2024-01-11 19:12:42",
       "album": {
-        "name": "Mal Hecha (Deluxe)",
-        "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
+        "name": "Si Te Soy Sincera",
+        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
       },
       "artists": [
         {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        },
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
         }
       ],
-      "duration_ms": 137096,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb"
+      "duration_ms": 159835,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
     },
     {
       "added_at": "2024-01-11 19:12:42",

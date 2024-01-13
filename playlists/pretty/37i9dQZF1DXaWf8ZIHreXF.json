@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 178273,
+  "num_followers": 178357,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmVjMDJlNzFkYTgyYTMwMmU2NDczNzJhZDMwNjZiZjk1NDVlYmU4",
+  "snapshot_id": "MCw0ZDhhNjNkMWMyY2JkNzQwYWRmYTQ2MTBjMjc1OTgxMWQ3YjJjNGZj",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -315,8 +315,8 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -427,8 +427,8 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 206413,
-      "name": "Feel So Close - Radio Edit",
-      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -539,8 +539,8 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "The Spectre",
-        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
       "artists": [
         {
@@ -548,29 +548,9 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 193787,
-      "name": "The Spectre",
-      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
+      "duration_ms": 160426,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -595,6 +575,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
@@ -611,46 +611,6 @@
       "duration_ms": 212640,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
-        "url": "https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 251088,
-      "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
-      "url": "https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -675,6 +635,46 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "url": "https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 251088,
+      "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+      "url": "https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Intense",
+        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "This Is What It Feels Like",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Intense",
-        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "This Is What It Feels Like",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Turn Down for What",
-        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Turn Down for What",
-      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Settle (Deluxe)",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 255866,
       "name": "Latch",
       "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Turn Down for What",
+        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Turn Down for What",
+      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Tuesday (feat. Danelle Sandoval)",
         "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 241874,
       "name": "Tuesday (feat. Danelle Sandoval)",
       "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1707,6 +1707,42 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "While The World Was Burning",
+        "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176218,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
       },
@@ -1747,38 +1783,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "While The World Was Burning",
-        "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Maty Noyes",
+          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
         }
       ],
-      "duration_ms": 176218,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+      "duration_ms": 239465,
+      "name": "Stay (feat. Maty Noyes)",
+      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1799,26 +1819,6 @@
       "duration_ms": 240000,
       "name": "I Want You To Know",
       "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Maty Noyes",
-          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
-        }
-      ],
-      "duration_ms": 239465,
-      "name": "Stay (feat. Maty Noyes)",
-      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
     },
     {
       "added_at": "2023-08-25 09:30:35",

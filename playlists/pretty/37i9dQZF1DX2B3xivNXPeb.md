@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,538 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,544 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 44 | [Strawberry Letter 23](https://open.spotify.com/track/4W8IEREeLldaSQyGXcZQ2I) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 3:59 |
 | 45 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 |
 | 46 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 |
-| 47 | [Take Yo' Praise](https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk) | [Camille Yarbrough](https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9) | [The Iron Pot Cooker](https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo) | 4:13 |
-| 48 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 |
+| 47 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 |
+| 48 | [Take Yo' Praise](https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk) | [Camille Yarbrough](https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9) | [The Iron Pot Cooker](https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo) | 4:13 |
 | 49 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 |
 | 50 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
 | 51 | [The Same Love That Made Me Laugh](https://open.spotify.com/track/6GETCaMrDCu3uFe2TMkyGA) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | ['Justments](https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt) | 3:24 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 65 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
 | 66 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 |
 | 67 | [Tell Mama](https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:24 |
-| 68 | [Falling Apart](https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:15 |
-| 69 | [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 |
+| 68 | [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 |
+| 69 | [Falling Apart](https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:15 |
 | 70 | [Us](https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/5H62A6LN8NeKBt4rB2K8Bq) | 3:03 |
 | 71 | [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 |
 | 72 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 99 | [King Midas](https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO) | [Martha Reeves & The Sweet Things](https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN) | [Willie Dynamite \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO) | 4:51 |
 | 100 | [East End Coast](https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:46 |
 
-Snapshot ID: `MCw5MjcwMTNkMzg1N2IzMzZjMjRiZDgxOWIxNjVmNWNhYmFiZWVhYTM2`
+Snapshot ID: `MCwxNmIxNWI2NjE3YjZlZGMxOTg3ZmYxZTUzOTY5ZWJkZDIxYjk0NTJj`

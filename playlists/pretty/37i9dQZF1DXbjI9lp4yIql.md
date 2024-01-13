@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,408 likes - 119 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,459 likes - 119 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 95 | [Pobre de Ti](https://open.spotify.com/track/1mBbKzmlbQUQNK7tw2Etdf) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [No](https://open.spotify.com/album/3glRjXzdGdiFA254NwD5Rs) | 4:37 |
 | 96 | [D\-Generación](https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Pasto](https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa) | 3:50 |
 | 97 | [Abarajame](https://open.spotify.com/track/3hhq2bSKf42wfuOWPvlmnr) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Solo Para Fanáticos](https://open.spotify.com/album/2AhDy5vggIg5MamFp3icCm) | 4:20 |
-| 98 | [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 |
+| 98 | [Ji Ji Ji](https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI) | 5:34 |
 | 99 | [Transgresores de la Ley](https://open.spotify.com/track/1tWVXH2sHASBg1W9CRObRH) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock Milenium](https://open.spotify.com/album/7sTufh6pGV76HicANbWbSA) | 5:02 |
 | 100 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 101 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 118 | [Florecita Rockera \(feat\. Goyo & Catalina García Barahona\)](https://open.spotify.com/track/0cewuMPpGs38dYsv18LFRW) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Goyo](https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC), [Catalina García Barahona](https://open.spotify.com/artist/01CeOOSN2oyRaRXj1a3SJi) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 6:40 |
 | 119 | [Perro Negro \- En Vivo](https://open.spotify.com/track/3avqqo8GtaFUHOv613wLeo) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/5FpyQF5KLYwi1cq34Sbk0W) | 3:53 |
 
-Snapshot ID: `MCw3YWJjYWI1NDQ5NTI5MzMzYzY1ZmU2MzFkNGM2ODkzNjhlYzQzNDMy`
+Snapshot ID: `MCwzNDQ1OWEyYTA3YjU3MzU2MTViNmVmZGZlMDFkZTUxMjRlMWMwMzFi`

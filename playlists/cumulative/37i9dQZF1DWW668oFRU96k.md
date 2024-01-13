@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren x Goodboys
 
-773 songs - 1 day 14 hr 30 min
+774 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [For You](https://open.spotify.com/track/3yJFPMWSYXqbGW9BfKqGsr) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [For You](https://open.spotify.com/album/5QYjjjGP0pPDKrIsx2qLvZ) | 2:41 | 2023-03-09 | 2023-03-26 |
 | [For You](https://open.spotify.com/track/3lXATa5ilc2iVIuKbBjpiK) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [For You](https://open.spotify.com/album/5GSC5Vv4uTRoRLpimnoKS9) | 2:42 | 2023-03-23 | 2023-04-14 |
 | [Forever](https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Forever](https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz) | 2:20 | 2023-03-09 | 2023-04-14 |
-| [Forever \(Stay Like This\)](https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:32 | 2024-01-11 |  |
+| [Forever \(Stay Like This\)](https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:32 | 2024-01-11 | 2024-01-13 |
+| [Forever \(Stay Like This\)](https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm) | 2:32 | 2024-01-11 |  |
 | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/album/4tSBBYZHikk7WnaZclkZ0i) | 2:18 | 2023-02-09 | 2023-03-31 |
 | [Found Myself](https://open.spotify.com/track/5Ha9duO6ABWlyweeBU4mI1) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [Mag Thanra](https://open.spotify.com/artist/4ve1B4AluBDAC3qMPnpc2Q) | [Found Myself](https://open.spotify.com/album/6eMugEcaLIohoEn40R7CaH) | 2:31 | 2023-04-13 | 2023-05-19 |
 | [Fragment](https://open.spotify.com/track/5vM0O2kcBc2xnJeQ9NhOK1) | [DAZI](https://open.spotify.com/artist/2bUeVsRE7j8IL8NqTpGPRf) | [FRAGMENT](https://open.spotify.com/album/7b2FPcttzUfqWrDtb9E3kS) | 2:11 | 2023-03-23 | 2023-04-28 |

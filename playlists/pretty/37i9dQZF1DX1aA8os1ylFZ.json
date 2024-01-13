@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241518,
+  "num_followers": 241298,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGM0N2M5ZDAyZWFjNDFhMmM4ZjUyYzU3OTJkMTVmMjU2OGZmMmU0",
+  "snapshot_id": "MCxkYjg0MWM2MDVlMWI0YjQ3NTdkMDQ0MTc3OTc0Yjk5ZDhjMzZjNmJh",
   "tracks": [
     {
       "added_at": "2023-12-28 23:00:00",
@@ -181,7 +181,7 @@
         },
         {
           "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
         }
       ],
       "duration_ms": 152347,
@@ -327,22 +327,18 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Moment Of Your Life",
-        "url": "https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis"
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Moment Of Your Life",
-      "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
+      "duration_ms": 185666,
+      "name": "These Four Walls",
+      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -367,18 +363,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "A Brief Nirvana",
-        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
+        "name": "Moment Of Your Life",
+        "url": "https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 185666,
-      "name": "These Four Walls",
-      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
+      "duration_ms": 195000,
+      "name": "Moment Of Your Life",
+      "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Little Blue Moon",
+        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Little Blue Moon",
+      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 190498,
       "name": "All or Nothing (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Little Blue Moon",
-        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Little Blue Moon",
-      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 229040,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 157991,
-      "name": "History",
-      "url": "https://open.spotify.com/track/00YFNV9oDlWZduvoJsjpi0"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 210100,
       "name": "All That It Takes",
       "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 157991,
+      "name": "History",
+      "url": "https://open.spotify.com/track/00YFNV9oDlWZduvoJsjpi0"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Bag (with Lucky Daye)",
-        "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Bag (with Lucky Daye)",
-      "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
       },
@@ -1171,22 +1151,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "On Mine",
-        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+        "name": "Bag (with Lucky Daye)",
+        "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
       },
       "artists": [
         {
-          "name": "Imani Williams",
-          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
         },
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 143986,
-      "name": "On Mine",
-      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+      "duration_ms": 211400,
+      "name": "Bag (with Lucky Daye)",
+      "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1207,6 +1187,26 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1257,7 +1257,7 @@
         },
         {
           "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
         }
       ],
       "duration_ms": 167145,
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp"
-      },
-      "artists": [
-        {
-          "name": "AKA Block",
-          "url": "https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B"
-        }
-      ],
-      "duration_ms": 190495,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Fierce",
         "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 142615,
       "name": "Fierce",
       "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp"
+      },
+      "artists": [
+        {
+          "name": "AKA Block",
+          "url": "https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B"
+        }
+      ],
+      "duration_ms": 190495,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1623,38 +1623,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
-      },
-      "artists": [
-        {
-          "name": "Quessswho",
-          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
-        }
-      ],
-      "duration_ms": 121263,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Love On Film",
-        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 123825,
-      "name": "Love On Film",
-      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
       },
@@ -1667,6 +1635,22 @@
       "duration_ms": 181422,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
+      },
+      "artists": [
+        {
+          "name": "Quessswho",
+          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
+        }
+      ],
+      "duration_ms": 121263,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1707,6 +1691,22 @@
       "duration_ms": 182222,
       "name": "WASTEMAN",
       "url": "https://open.spotify.com/track/6RqUIRQuupESKh8DvgTuRV"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Love On Film",
+        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 123825,
+      "name": "Love On Film",
+      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
     },
     {
       "added_at": "2023-12-28 23:00:00",

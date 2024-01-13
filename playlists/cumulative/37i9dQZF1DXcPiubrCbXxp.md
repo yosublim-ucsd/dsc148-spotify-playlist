@@ -4,7 +4,7 @@
 
 > that 50s kinda feeling, cover: Laufey
 
-65 songs - 3 hr 35 min
+66 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78) | 4:41 | 2023-08-04 | 2023-09-23 |
 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 | 2023-08-04 |  |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-04 | 2023-12-09 |
-| [Blue Lips](https://open.spotify.com/track/6RG8y3WSNUE3DcIC3eQCXO) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:42 | 2023-08-04 |  |
+| [Blue Lips](https://open.spotify.com/track/6RG8y3WSNUE3DcIC3eQCXO) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:42 | 2023-08-04 | 2024-01-13 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/0IJ2TYANZHDVBuFvN09QvF) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 2:48 | 2023-08-04 |  |
 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2023-08-04 |  |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2023-08-04 |  |
@@ -43,6 +43,7 @@
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2023-08-04 | 2023-10-01 |
 | [I Wonder](https://open.spotify.com/track/3SHLX5ePGvPKcWKM05Thga) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:37 | 2023-09-15 |  |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-09-08 |  |
+| [It's All You](https://open.spotify.com/track/3kE62aRIdnW6Hd9fvXLgA8) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [It's All You](https://open.spotify.com/album/2UOEEPeGKrKIMzHJDLfVKT) | 1:43 | 2024-01-12 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [\(i would have followed you\)](https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I) | 4:49 | 2023-08-04 |  |
 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2023-08-04 |  |
 | [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 | 2023-08-04 |  |

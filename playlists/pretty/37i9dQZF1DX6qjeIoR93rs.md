@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,251 likes - 70 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,302 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 16 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 |
 | 17 | [Haifa in a Tesla](https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Haifa in a Tesla](https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4) | 2:45 |
 | 18 | [Take me to Palestine](https://open.spotify.com/track/5uVfYfPcRNWeEDoTQytLWi) | [El\-Funoun Palestinian Popular Dance Troupe](https://open.spotify.com/artist/6VH1HRNwtjHE2txVKksXtm) | [Zajel](https://open.spotify.com/album/7n96wcZ7T4BfLEq3IK7ONq) | 4:10 |
-| 19 | [Dalaa Dalouna](https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Dalaa Dalouna](https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX) | 3:19 |
-| 20 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 |
+| 19 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 |
+| 20 | [Dalaa Dalouna](https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Dalaa Dalouna](https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX) | 3:19 |
 | 21 | [ميدلي فلسطيني](https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw) | [فرقة زمن](https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn) | [بطلتي الي](https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ) | 3:48 |
 | 22 | [دبرها](https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [دبرها](https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx) | 4:49 |
 | 23 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 |
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 28 | [Don't Care Where You From](https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 4:23 |
 | 29 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 |
 | 30 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
-| 31 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
+| 31 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
 | 32 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
 | 33 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 34 | [Killing The Game](https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Killing The Game](https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1) | 2:21 |
 | 35 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |
 | 36 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
 | 37 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
-| 38 | [عكا على راسي](https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 3:46 |
-| 39 | [Nijmet El\-Subeh](https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 4:45 |
+| 38 | [Nijmet El\-Subeh](https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 4:45 |
+| 39 | [عكا على راسي](https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 3:46 |
 | 40 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
 | 41 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
 | 42 | [A3MEL ESH](https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm) | [Ram Nafar](https://open.spotify.com/artist/28CdLDNuzChKqZNArRgI5F), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [A3MEL ESH](https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP) | 1:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 69 | [يا منجنيق](https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC) | 3:05 |
 | 70 | [Abu 3ntr \(feat\. Lina Makoul\)](https://open.spotify.com/track/68DqedAzUtn8RsX7hFRQGy) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr \(feat\. Lina Makoul\)](https://open.spotify.com/album/0RZwnKlm8Oo2EtqcjrDQz3) | 3:33 |
 
-Snapshot ID: `MCw3ODM4NmI4ODJjN2I3NzgwNGNjNzRkOGFkYzQ3Yzc3NjFhZGE3Nzk4`
+Snapshot ID: `MCwzYzZmYmRhMDlkMGY3NThlYjM0MTdjYWQwMGFjNzY2Nzc0YTVjNTg0`

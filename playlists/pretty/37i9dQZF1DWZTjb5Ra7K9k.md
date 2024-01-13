@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,237 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,026 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 31 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 |
 | 32 | [Are You In?](https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:24 |
 | 33 | [Queen of California](https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Born and Raised](https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0) | 4:10 |
-| 34 | [Burn One Down](https://open.spotify.com/track/2QzMJkYUhThZxM94ahgOzN) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 3:31 |
-| 35 | [Pressure Drop \- Single Version](https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM) | 2:53 |
+| 34 | [Pressure Drop \- Single Version](https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM) | 2:53 |
+| 35 | [Burn One Down](https://open.spotify.com/track/2QzMJkYUhThZxM94ahgOzN) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 3:31 |
 | 36 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
 | 37 | [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 |
 | 38 | [Flake](https://open.spotify.com/track/54S3uCvfZauNw8lVCHZYYo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Brushfire Fairytales \[Remastered \(Bonus Version\)\]](https://open.spotify.com/album/23BBbqDGMhloT6f2YBecSr) | 4:41 |
 | 39 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 |
-| 40 | [Forever](https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 3:24 |
-| 41 | [Romeo And Juliet](https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sawdust](https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz) | 5:27 |
-| 42 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 |
+| 40 | [Romeo And Juliet](https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sawdust](https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz) | 5:27 |
+| 41 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 |
+| 42 | [Forever](https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 3:24 |
 | 43 | [No One Knows](https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Runtastic \- Power Workout \(Vol\. 1\)](https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey) | 4:13 |
 | 44 | [Toes Across The Floor](https://open.spotify.com/track/3NfLSMOVWDKfYDE0WAm7uf) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:07 |
 | 45 | [Young and Able](https://open.spotify.com/track/5zFsvJDJ48m45J82CipNpD) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Protect Your Own](https://open.spotify.com/album/5go4cEu6ll2JbN7ANcJ1xd) | 4:06 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 71 | [Pipeline](https://open.spotify.com/track/4JnefzMlvvO3OUBRW4oLlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 2:59 |
 | 72 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 | 73 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
-| 74 | [Surpresa Maior](https://open.spotify.com/track/6YvLJs2eVQMCxBPHAZF7iy) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Surpresa Maior](https://open.spotify.com/album/1hdxDWKo2bZLutjDLDOySi) | 3:50 |
-| 75 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
+| 74 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
+| 75 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 |
 
-Snapshot ID: `MCwzN2U5MmEyNmRjNjM1NzhlMWVkMzE1MjQ3NjhjYWEzMGY3ZTE1Yjhj`
+Snapshot ID: `MCw0NTQ1N2QzZTc5NjljZWRiZDhkNDRiOWNjNTMxMjYyNmE0YzFjMWFl`

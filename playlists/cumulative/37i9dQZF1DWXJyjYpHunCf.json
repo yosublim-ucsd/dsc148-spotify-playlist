@@ -4615,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/6b4Az2MguoWdDlB9Jm2815"
       },
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 180533,
       "name": "This Could Be Good",
       "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"

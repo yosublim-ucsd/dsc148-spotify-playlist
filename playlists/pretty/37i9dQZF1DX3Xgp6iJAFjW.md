@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,115 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,091 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 5 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 6 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
 | 7 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 |
-| 8 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
-| 9 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
+| 8 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
+| 9 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
 | 10 | [Me Voy A Regalar](https://open.spotify.com/track/3zgmOyM7uUT1xdEXU9r8Bl) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:25 |
 | 11 | [CANTARES DE NAVIDAD](https://open.spotify.com/track/2Iv6YBslkxslMJQsxshZh5) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:19 |
 | 12 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 92 | [Tan Pronto Llegan los Reyes](https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Tarjeta de Navidad III](https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo) | 4:46 |
 | 93 | [Abreme La Puerta](https://open.spotify.com/track/1ZkZDxTpCQVy4dZCq4oTG8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:11 |
 | 94 | [Adornemos los Salones](https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Caribe Wonderland](https://open.spotify.com/artist/4CBkIh7uqfe3wKKywz1H0j) | [Adornemos los Salones](https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE) | 3:10 |
-| 95 | [Eso Es Navidad \- Aguinaldo Cayeyano](https://open.spotify.com/track/24jcp1EzuQG2esEJxBnrc3) | [Luis Miranda](https://open.spotify.com/artist/197zNqqJ78Awm1Y45O4zkv) | [De Parranda con Don Luis](https://open.spotify.com/album/6Wd576TdlOYVGVVOpEszgp) | 3:28 |
-| 96 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 |
+| 95 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 |
+| 96 | [Eso Es Navidad \- Aguinaldo Cayeyano](https://open.spotify.com/track/24jcp1EzuQG2esEJxBnrc3) | [Luis Miranda](https://open.spotify.com/artist/197zNqqJ78Awm1Y45O4zkv) | [De Parranda con Don Luis](https://open.spotify.com/album/6Wd576TdlOYVGVVOpEszgp) | 3:28 |
 | 97 | [El Burrito de Belen](https://open.spotify.com/track/2qAmDGh1zscmI2VHWngoFq) | [Chino Espinoza y Los Duenos del Son](https://open.spotify.com/artist/7jSIb1Ypq4ZYLYBmh39xOP) | [Ponle Salsa a Tu Navidad](https://open.spotify.com/album/4RDkbrYWX7pb7BH3lhMIC1) | 5:00 |
 | 98 | [Parranda Quisqueyana](https://open.spotify.com/track/09JoV9u9sijtmIWY9j0NX6) | [Dimension Dominicana](https://open.spotify.com/artist/2MghxItTMU77qHH5Q7yBCf) | [Navidad Caribeña: Desde Quisqueya y Puerto Rico](https://open.spotify.com/album/0ChiBQiatrvyHDGABY7V68) | 5:02 |
 | 99 | [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 |
 | 100 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 |
 
-Snapshot ID: `MCw5MjljYjYzZTY4NWMyNzc0ZjZmY2JjMGI5YWQ5NjE0MmQ4YjU4OGRk`
+Snapshot ID: `MCw3MTM5YTc3MDliZDIyNzRmZjdjMTZhMzI1ZTU2OGE5YjdhYjg0ODQ1`

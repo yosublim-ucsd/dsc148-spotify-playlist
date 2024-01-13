@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 145015,
+  "num_followers": 145073,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNmOGU5ZTVjM2QwZDhiNWU2ODYwNDdlY2VkZDRmYWRiNGIwYjdj",
+  "snapshot_id": "MCxlNjE2MzgzZjYwMzZmZTczOTAzMTMxYzc5OWM3YjdkY2Q1NDAyOGJj",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262231,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -251,22 +251,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Falling for U",
-        "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
-          "name": "Peachy!",
-          "url": "https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Falling for U",
-      "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
+      "duration_ms": 262600,
+      "name": "Television / So Far So Good",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -287,18 +283,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+        "name": "Falling for U",
+        "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Peachy!",
+          "url": "https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 262600,
-      "name": "Television / So Far So Good",
-      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
+      "duration_ms": 124000,
+      "name": "Falling for U",
+      "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Sacred Hearts Club",
         "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 219013,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Pop Food",
         "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 232373,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 279693,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -595,22 +595,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -627,22 +623,6 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -667,6 +647,26 @@
       "duration_ms": 260672,
       "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
       "url": "https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Loving is Easy",
+        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 237231,
+      "name": "Raingurl",
+      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Thousand Peaces",
         "url": "https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+        "name": "Holo",
+        "url": "https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "Limbo",
+          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
         }
       ],
-      "duration_ms": 237231,
-      "name": "Raingurl",
-      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+      "duration_ms": 164000,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1031,22 +1047,6 @@
       "duration_ms": 172941,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Holo",
-        "url": "https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC"
-      },
-      "artists": [
-        {
-          "name": "Limbo",
-          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Lost in You",
-        "url": "https://open.spotify.com/album/3wTzHcPe5EkkpLiecOj7ZZ"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 101000,
-      "name": "Lost in You",
-      "url": "https://open.spotify.com/track/5BIY4jMiYsp5QKKE05AXUF"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Lost in You",
+        "url": "https://open.spotify.com/album/3wTzHcPe5EkkpLiecOj7ZZ"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 101000,
+      "name": "Lost in You",
+      "url": "https://open.spotify.com/track/5BIY4jMiYsp5QKKE05AXUF"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct"
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 215773,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1535,22 +1551,6 @@
       "duration_ms": 237920,
       "name": "Idle Town",
       "url": "https://open.spotify.com/track/0cXRafInOlc1QH519RXltN"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
     },
     {
       "added_at": "2022-10-27 05:38:58",

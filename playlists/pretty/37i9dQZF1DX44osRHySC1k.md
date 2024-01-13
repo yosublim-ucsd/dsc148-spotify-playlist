@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,420 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,415 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 45 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:41 |
 | 46 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |
 | 47 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
-| 48 | [If you ever change your mind](https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [If you ever change your mind](https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2) | 2:02 |
-| 49 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 |
+| 48 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 |
+| 49 | [If you ever change your mind](https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [If you ever change your mind](https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2) | 2:02 |
 | 50 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
 | 51 | [Mother's Wingspan](https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 8:33 |
 | 52 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 83 | [Inside Out](https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V) | [Borghild Wenn](https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7) | [Inside Out](https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7) | 2:32 |
 | 84 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 |
 | 85 | [Balance](https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer) | [T\. Landley](https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW) | [Balance](https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e) | 2:11 |
-| 86 | [Soothing Mountain Winds \- Massage Music With Tibetan Flute & Restful Winds](https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC) | [Lullaby Tribe](https://open.spotify.com/artist/0GPPKMS6tmfbyCwpy0Frcy) | [World Flute Lullabies \- Native American & Asian Flutes for Sleep Therapy](https://open.spotify.com/album/2SMZ78xm92pM7R25LxOm9q) | 5:22 |
-| 87 | [Heavenly Walk](https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Heavenly Walk](https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS) | 4:44 |
+| 86 | [Heavenly Walk](https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Heavenly Walk](https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS) | 4:44 |
+| 87 | [Soothing Mountain Winds \- Massage Music With Tibetan Flute & Restful Winds](https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC) | [Lullaby Tribe](https://open.spotify.com/artist/0GPPKMS6tmfbyCwpy0Frcy) | [World Flute Lullabies \- Native American & Asian Flutes for Sleep Therapy](https://open.spotify.com/album/2SMZ78xm92pM7R25LxOm9q) | 5:22 |
 | 88 | [As She Awakens](https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Monument](https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv) | 3:15 |
 | 89 | [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 |
 | 90 | [Sleep Well](https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 99 | [Rain](https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:32 |
 | 100 | [Sonno Profondo](https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM) | [Sleep n Love](https://open.spotify.com/artist/4lAObIqbk5Qpsb7j0avEvC) | [Destinazione Pianoforte New Age: Musica Relax Piano Collection, Musica Rilassante per Studio & Concentrazione, Meditazione, Dormire Bene & Yoga](https://open.spotify.com/album/0Fi6h7AcurDKDQaMi5xjA8) | 6:14 |
 
-Snapshot ID: `MCwzOWMyMDlkNjRmMGNhZjdlMjZjZDg1OTYwMzAyZmQyOGU0MjVjMGQ5`
+Snapshot ID: `MCw0ODc3MTUxYjhiODExYzFhYzIzYzlmMzE0Mzk2MjdkZTZiZGI1MDNl`

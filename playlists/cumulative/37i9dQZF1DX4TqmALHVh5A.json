@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 353858,
       "name": "Conspire",
       "url": "https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH"
@@ -1566,6 +1566,24 @@
       "duration_ms": 178413,
       "name": "Resto Basket",
       "url": "https://open.spotify.com/track/3SdMH600ZTeaeSFcQuAxE6"
+    },
+    {
+      "album": {
+        "name": "Rock 2000",
+        "url": "https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV"
+      },
+      "artists": [
+        {
+          "name": "Gwendoline",
+          "url": "https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Rock 2000",
+      "url": "https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt"
     },
     {
       "album": {

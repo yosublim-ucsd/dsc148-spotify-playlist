@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-401 songs - 1 day 4 hr 27 min
+402 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [The Goddess](https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Goddess](https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO) | 4:06 | 2021-10-01 | 2022-09-17 |
 | [The High Road](https://open.spotify.com/track/0Be3igRj4IK9an9kub3YBX) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The High Road](https://open.spotify.com/album/3ZTFOYdW7dM8A1pqlIrwxn) | 3:55 | 2020-10-30 | 2022-03-18 |
 | [The Last Minute](https://open.spotify.com/track/3tzYgQTDUiJbJfbac2pvpH) | [Keith Slattery](https://open.spotify.com/artist/7jaES4z1jJqD3Jp5YSJv77) | [Duality](https://open.spotify.com/album/3MeM8N8Pyu9ZU9EwAoAaeN) | 5:26 | 2021-08-20 | 2022-07-29 |
+| [The Midnight Hour](https://open.spotify.com/track/3jqojVnh48SfXj2habMRC3) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Kenny McNeil](https://open.spotify.com/artist/2f4y9aaQv5kxA2xDdsXGEg), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx) | [The Midnight Hour](https://open.spotify.com/album/61ab02LuWOgobf26KFTzNt) | 5:00 | 2024-01-12 |  |
 | [The One \- Vocal](https://open.spotify.com/track/2BthCO2NWEyStwmCcQANRe) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [The One](https://open.spotify.com/album/16M4hOJYp2hXZcRYMjh06F) | 4:31 | 2023-02-03 | 2023-06-10 |
 | [The Sailor](https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Ed Roth](https://open.spotify.com/artist/7EBeeH2oJR0OXd0mPSv6PD) | [The Sailor](https://open.spotify.com/album/1N3Y4lr7CBNDDfjLLLmHA0) | 4:33 | 2021-06-18 | 2022-09-17 |
 | [The Thing Is...](https://open.spotify.com/track/74TMwWbbqCMNtie5jGo7rL) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [The Thing Is...](https://open.spotify.com/album/7sQfXibE5MKsDrEgZLMC9K) | 3:58 | 2023-08-18 |  |
@@ -386,7 +387,7 @@
 | [Up All Night](https://open.spotify.com/track/4cayMK8FdWRvfVzZgsgElI) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Up All Night \(feat\. Boney James\)](https://open.spotify.com/album/3MgeZPkZbPAN2cdTKiVzMs) | 4:10 | 2021-03-12 | 2022-03-18 |
 | [Uptop](https://open.spotify.com/track/2dVePyjsLCrWmu6ICDm8cF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Uptop](https://open.spotify.com/album/0e9CbmyR2qGr4k1vGQYtSv) | 4:20 | 2023-08-04 |  |
 | [Victoria Falls](https://open.spotify.com/track/4fudubz4Z7yzxrbn6Ytgnr) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/0XeOa7J4MyLZcpvEDkq4fp) | 5:18 | 2023-10-13 | 2023-12-24 |
-| [Victoria Falls](https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/3fYI1OMxP4ZkBRfklrnVWg) | 5:18 | 2023-10-13 |  |
+| [Victoria Falls](https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/3fYI1OMxP4ZkBRfklrnVWg) | 5:18 | 2023-10-13 | 2024-01-13 |
 | [Vision Realized](https://open.spotify.com/track/6iupviWvu7nbvJYkdrUflk) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Vision Realized](https://open.spotify.com/album/0sPOEr6fmqrtZz5VvVomHz) | 4:05 | 2020-10-30 | 2022-03-13 |
 | [Wait! \- Smooth Jazz Mix](https://open.spotify.com/track/5R7wrZ2QIHMFzNX76WDgCv) | [Da Phatfunk Clique](https://open.spotify.com/artist/6WFRo8ZfzZwINeTHSzTyGS), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Wait! \(Smooth Jazz Mix\)](https://open.spotify.com/album/1R57SXOmQjt2vdM0KIjY8l) | 3:50 | 2022-04-08 | 2023-07-08 |
 | [Waiting in the Wings](https://open.spotify.com/track/0tbZoaS14AUWqkrXG4Twcr) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV) | [Stick It Out](https://open.spotify.com/album/5Cd0BxylSBhnRDhFCNxSPz) | 4:32 | 2023-06-16 |  |

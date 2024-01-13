@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 
 > A collection of tracks for punks big and small.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,539 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,604 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 47 | [Disconnected](https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Don't Turn Away](https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4) | 3:27 |
 | 48 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
 | 49 | [Salvation](https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:53 |
-| 50 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
-| 51 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 |
+| 50 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 |
+| 51 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
 | 52 | [Super Rad!](https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Fury of the Aquabats!](https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM) | 3:02 |
 | 53 | [Punk Rock Girl](https://open.spotify.com/track/7GM4pXdPHflQqnV7s7VIKb) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/5dh7gE83BxORzm7WCQLe5k) | 2:38 |
 | 54 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 59 | [Sliver](https://open.spotify.com/track/6vA9MwQSTgsGw2aaiVQdq2) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:11 |
 | 60 | [New Rose](https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:44 |
 
-Snapshot ID: `MCwwZTg2ZDI1MTBjNzg0ZjE3NDViNTE3MjI1ZmY4M2IzNTVkZWU3MjQ1`
+Snapshot ID: `MCxlYTE5M2RjMDFjMzkyYTMxOTFjY2Y2MjhlNzgwMDBlMDQ4NzBkMWE0`

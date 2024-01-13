@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,005 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,080 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 54 | [Perdón](https://open.spotify.com/track/6ATUv2VnD9x4F2zEFMQ1sT) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz) | [Éxitos, Vol\. 2](https://open.spotify.com/album/0bJflknytQqeyAG4HGDZyR) | 3:50 |
 | 55 | [Aquí Todo Esta Bien](https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nico Maleón](https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 4:01 |
 | 56 | [Rastaman\- Dita](https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Apocalypshit](https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ) | 3:48 |
-| 57 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
-| 58 | [Con el Coco Rapado](https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091) | 4:02 |
+| 57 | [Con el Coco Rapado](https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091) | 4:02 |
+| 58 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
 | 59 | [Natural](https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Teorema](https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU) | 3:24 |
 | 60 | [By My Own](https://open.spotify.com/track/1XiptdPHH8raaPDU3gdrWW) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [By My Own](https://open.spotify.com/album/45A5aSPBspEdUdYgWDW0B4) | 3:40 |
 | 61 | [Me Puse Pedo](https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Me Puse Pedo](https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx) | 3:10 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 65 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
 | 66 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
 | 67 | [Amor Libre](https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Shuga Wuga](https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G) | [Poesia Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:09 |
-| 68 | [PURPURA](https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PURPURA](https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2) | 3:14 |
-| 69 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 |
+| 68 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 |
+| 69 | [PURPURA](https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PURPURA](https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2) | 3:14 |
 | 70 | [I Love You a Lo Vío](https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Adosene](https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk) | [Techymuv](https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe) | 5:11 |
 | 71 | [Pavos Reales \(con Hermano L, Shabu One Shant y Mcklopedia\)](https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1), [Shabu One Shant](https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 4:31 |
 | 72 | [Love & Money](https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Love & Money](https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te) | 3:36 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 77 | [Rolemos Otro](https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:14 |
 | 78 | [Cantando](https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 5:32 |
 | 79 | [Cantidad y Quality \(feat\. Cancerbero\)](https://open.spotify.com/track/2ZtwyLSmuCO1QGXINW2aOC) | [Rapper School](https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [We Don´t Play](https://open.spotify.com/album/013m9uu0v5Lur1lOdohitX) | 4:57 |
-| 80 | [Estilo Libre](https://open.spotify.com/track/2KxvTs9bHxy96HXROF23g2) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [For Life](https://open.spotify.com/album/1IfdGBB0FWhM38z7s5DuAH) | 3:07 |
-| 81 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
+| 80 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
+| 81 | [Estilo Libre](https://open.spotify.com/track/2KxvTs9bHxy96HXROF23g2) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [For Life](https://open.spotify.com/album/1IfdGBB0FWhM38z7s5DuAH) | 3:07 |
 | 82 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
 | 83 | [Gimme Tha Power](https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 4:10 |
 | 84 | [Desahogo](https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Desahogo](https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Sexo de Despedida](https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:41 |
 | 100 | [Ninguna Chavala Tiene Dueño \- Porque Ella Me Lo Dijo](https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vicios y Virtudes](https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY) | 4:29 |
 
-Snapshot ID: `MCxjY2VmZjY5MzY2YTg1ZTNhYjEzZGYzNGU5ZjhjMjdhYTg2Y2E5MWFi`
+Snapshot ID: `MCwwZjFlNDUxMDM5OTNjYWM0Y2M5OGI3NjA5M2RmYzE3MmQ0MGQ5ZTcy`

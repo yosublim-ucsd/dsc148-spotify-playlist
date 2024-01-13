@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,472 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,491 likes - 49 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 13 | [If](https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:25 |
 | 14 | [Silhouette](https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Silhouette](https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi) | 5:27 |
 | 15 | [Mi manchi](https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE) | [Fabrizio Berlincioni](https://open.spotify.com/artist/7EI7G45KH76Fdywj5JhX0h), [Gianfranco Fasano](https://open.spotify.com/artist/5hTXF4Di7MKw9UeTIBE52A), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Amore \(Remastered\)](https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ) | 3:34 |
-| 16 | [Clair de Lune \(feat\. Kenny G\)](https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 1:17 |
+| 16 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 |
 | 17 | [The Way We Were](https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:50 |
-| 18 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 |
+| 18 | [Clair de Lune \(feat\. Kenny G\)](https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 1:17 |
 | 19 | [Loving You \- Edit](https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 3:19 |
 | 20 | [Morning](https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 5:13 |
 | 21 | [Everlasting](https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:16 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 48 | [Baby G](https://open.spotify.com/track/43BthQDBthBJM8dflfeoIF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/1i2GAfGtYhaveFdUX3mcgj) | 3:35 |
 | 49 | [Don't Make Me Wait for Love](https://open.spotify.com/track/4xbJyF9RDa1VLoZNoCFy1r) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa) | 4:05 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA0ZGVjYzY1ZDk4Mzk2YTFkMWE3N2ZlMjU2NTEyYmZlMA==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA0YzU5Y2ZiOWM0ZGMyNmY0ZGM5ZmEwMjlhMjZmMDY0MQ==`

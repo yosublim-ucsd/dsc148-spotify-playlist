@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,391 likes - 46 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,536 likes - 46 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 45 | [Amanda \(feat\. Morgane Stapleton\)](https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX) | [Gentle Giants: The Songs of Don Williams](https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt) | 3:02 |
 | 46 | [Either Way](https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 4:08 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBkMDhhMjk3ZjRiMDE3MWFlNWFhMzBiOGEyZWIyMDI3NA==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDAzNzk4MDY1YjY1MzFhMGRjNzdkNTNhZTU4MmZjYzkwOQ==`

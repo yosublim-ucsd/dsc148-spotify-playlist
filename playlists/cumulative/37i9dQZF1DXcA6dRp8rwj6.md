@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Nas X\)
 
-1,757 songs - 3 day 17 hr 24 min
+1,758 songs - 3 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1000,6 +1000,7 @@
 | [Mykonos Flow](https://open.spotify.com/track/28jZf6qRHl8x0pBv0azAKk) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Mykonos Flow](https://open.spotify.com/album/14qGxz6afgMYEnYlZh1quo) | 2:29 | 2022-12-29 | 2023-02-10 |
 | [Myself](https://open.spotify.com/track/7tsNi8goGCNC6evPolqs0b) | [FABD](https://open.spotify.com/artist/31oeYPedW4SdPumsV9936x), [Montrealways](https://open.spotify.com/artist/3m1PSRpCJ7tHzxKTQUBY97), [Amalia and Nino Flamenco](https://open.spotify.com/artist/3xxh1pZMrFmT10VBJyzhLq) | [Myself](https://open.spotify.com/album/3QysGsRLV0fS0hb9uuRdyS) | 3:18 | 2022-01-27 | 2022-03-04 |
 | [Máu Lên Nào](https://open.spotify.com/track/0yMMhsqNQaJYVSYXENmACb) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Máu Lên Nào](https://open.spotify.com/album/2kfjiUo1bfh3cz8LjFQhhR) | 1:55 | 2023-04-14 | 2023-06-02 |
+| [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-11 |  |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-13 | 2022-07-29 |
 | [NAFAS JAAN](https://open.spotify.com/track/5vSLoi3axfpz0MjNfQnwZp) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [Young Jin](https://open.spotify.com/artist/5GEcTlDT5qgsxEBBMoKyhY) | [NAFAS JAAN](https://open.spotify.com/album/61qNRKbJmhScOAm7fSTrjh) | 2:28 | 2023-06-01 | 2023-07-07 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 | 2022-03-18 |

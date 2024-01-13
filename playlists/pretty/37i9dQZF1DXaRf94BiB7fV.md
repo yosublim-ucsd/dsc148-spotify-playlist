@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Archit Tak, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,071 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,091 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 4 | [Kabhi Kabhi](https://open.spotify.com/track/6mh140yXGpf0ABlVna1out) | [Pho](https://open.spotify.com/artist/3QXoQ4PbVx1LgzFFVOnvbu), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc) | 3:18 |
 | 5 | [Ae Bandey](https://open.spotify.com/track/0eVEI23kHZob5VL93Iy6cI) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Ae Bandey](https://open.spotify.com/album/2QvEclNhlVvllLkRhRr1LT) | 3:04 |
 | 6 | [Peace](https://open.spotify.com/track/51XJgxc4jML9Tqjr1Sj4c8) | [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP), [Yoki](https://open.spotify.com/artist/4XKqcsAJmeJ3rVC9Oy2OBG) | [Peace](https://open.spotify.com/album/4PtU9NJ1xgx0fcDMUo8oPE) | 1:24 |
-| 7 | [Zaai Go?](https://open.spotify.com/track/7D4ANCfZ9XG2lZynrZUYCz) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY), [Joanne Fernandes](https://open.spotify.com/artist/5hGAuNl8gBn5A3OkOh0nah) | [Zaai Go?](https://open.spotify.com/album/5g1RmspRqUpjOWOJAcJg8p) | 2:58 |
+| 7 | [Zaai Go?](https://open.spotify.com/track/7D4ANCfZ9XG2lZynrZUYCz) | [Joanne Fernandes](https://open.spotify.com/artist/5hGAuNl8gBn5A3OkOh0nah), [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Zaai Go?](https://open.spotify.com/album/5g1RmspRqUpjOWOJAcJg8p) | 2:58 |
 | 8 | [Masoomiyan](https://open.spotify.com/track/6btBf4Dc2Y5VoubtkhQh50) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [Masoomiyan](https://open.spotify.com/album/0sj1Th9Cb8VEvUKHb2g8mk) | 3:10 |
 | 9 | [Can I Change?](https://open.spotify.com/track/29iKpW1tR3s6mb2Xl6gPUs) | [Inayat Kaur Bajaj](https://open.spotify.com/artist/3tUsiQAwzswWX1pTflob0o) | [Can I Change?](https://open.spotify.com/album/4DzMHGL0Ku9EQWRgTAMfcN) | 2:31 |
 | 10 | [O Sanam](https://open.spotify.com/track/2BWOGVkXKE0U5T4Fwb6flB) | [Ummeed](https://open.spotify.com/artist/2xEft5R8UkOaKA2fgsT9Kq) | [O Sanam](https://open.spotify.com/album/3sV45qmExlCLqnpym6d7HY) | 2:42 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 98 | [Rehgayi](https://open.spotify.com/track/4D5NjvtKg8doqJO8Rllfui) | [Amy Mamtura](https://open.spotify.com/artist/76eG5F9jgoEsAnDkgMZl8K) | [Rehgayi](https://open.spotify.com/album/7DI8naLd05x0iCVbGmmShJ) | 2:33 |
 | 99 | [Ishaare](https://open.spotify.com/track/1VFIOx2iSJfQqWJPV4tzFv) | [Shirish](https://open.spotify.com/artist/1gCoDNvciyx11iMi6aASNV) | [Ishaare](https://open.spotify.com/album/4ZnaQqu6NwYdTeE5uRltsE) | 2:55 |
 
-Snapshot ID: `MCxjMzY3ZTYzMmM0MjI2NWI4NjlkNmM5M2IyYTRmOTUzZDM1ZDI4YmIy`
+Snapshot ID: `MCxiZWZlYWMyMDk0Mjc2ZjUyMzI2Mzc5MGM3ZjA1NTZlMWJkMTA4ZjZh`

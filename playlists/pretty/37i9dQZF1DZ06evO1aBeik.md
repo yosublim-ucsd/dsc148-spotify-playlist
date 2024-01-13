@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,629,259 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,628,615 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 24 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 |
 | 25 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 |
 | 26 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 |
-| 27 | [Pickup Man \(feat\. Post Malone\)](https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [HIXTAPE Vol\. 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 3:36 |
-| 28 | [Too Cool To Die](https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:24 |
+| 27 | [Too Cool To Die](https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:24 |
+| 28 | [Pickup Man \(feat\. Post Malone\)](https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [HIXTAPE Vol\. 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 3:36 |
 | 29 | [Cooped Up / Return Of The Mack](https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Cooped Up / Return Of The Mack](https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF) | 2:07 |
 | 30 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 |
 | 31 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 49 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 |
 | 50 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDAzZjg1NDc1NzdjMTMyZDVkY2JhZjQ2ZTA5YzQ2YjYyOQ==`
+Snapshot ID: `Mjg0MTc2OTQsMDAwMDAwMDA5NDFmOGQ3ZTdiMzUyOGY5YTgxZjc3ZDhjNTAzYTc4ZQ==`

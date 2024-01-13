@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 
 > Sommer für immer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,093 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,843 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 43 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 44 | [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4) | 4:19 |
 | 45 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 |
-| 46 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 |
-| 47 | [Lean On](https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission](https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM) | 2:56 |
+| 46 | [Lean On](https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission](https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM) | 2:56 |
+| 47 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 |
 | 48 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
 | 49 | [Ain't Nobody \(Loves Me Better\) \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:06 |
 | 50 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 54 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 55 | [Mama](https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:04 |
 
-Snapshot ID: `MCw2MmNlMWRlZjBiZjRmMDg1YmU2MzhlNDk0Nzk2ZDU0MzAyYjBiNDlm`
+Snapshot ID: `MCwzMGNkMjViZmQyOTg3NGQ3MmYzYzg2YmI5NzAzNDFjMmEwMDA3YTg2`

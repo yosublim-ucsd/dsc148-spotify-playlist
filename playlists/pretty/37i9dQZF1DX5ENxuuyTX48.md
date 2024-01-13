@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 ### [OTW ](https://open.spotify.com/playlist/37i9dQZF1DX5ENxuuyTX48)
 
-> wru? OTW! Cover: Charlie Lim
+> wru? OTW! Cover: Basboi
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,446 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,454 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Future Days](https://open.spotify.com/track/1F8YOxbte7dU0beogEd5sg) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Future Days](https://open.spotify.com/album/1PA9d84FlzxZrLroo8n7xC) | 2:44 |
-| 2 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 |
-| 3 | [Api \- From The Cadets Original Soundtrack](https://open.spotify.com/track/3ksPYRSsFmygVddzKEtLYY) | [Kmy Kmo](https://open.spotify.com/artist/43ZXvAH7c6jRsqNIRWft4P), [Luca Sickta](https://open.spotify.com/artist/3pTnpQxoPsO7pptxSxA7yG) | [Api \(From The Cadets Original Soundtrack\)](https://open.spotify.com/album/5oLzRKysU8eR66ayOeWPPy) | 2:56 |
-| 4 | [spirit](https://open.spotify.com/track/1pdtUzQ8AtIxKjWCs2JzRk) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [spirit](https://open.spotify.com/album/7gLzxh2yBy90ZlP4BMjuml) | 2:55 |
-| 5 | [venus \(stripped ver.\)](https://open.spotify.com/track/06plHU0Ih0ttyWj9XwxlGC) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/70khWHyd9gGRrSz0dguife) | 4:12 |
-| 6 | [ADRENALINE RUSH](https://open.spotify.com/track/52K1WzTSwoeycBkVQhhzQn) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [162 °F](https://open.spotify.com/album/5Q1DvpXkaAy51ZPEqFA3kg) | 3:43 |
-| 7 | [INI MASA AKU](https://open.spotify.com/track/1F2mblK5PB6KoUd6qfKNBV) | [Deejyn](https://open.spotify.com/artist/2uYpUwuCRkel0KzDdwiyF0), [Reedzwann](https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok) | [INI MASA AKU](https://open.spotify.com/album/4k0mjYfIUk7qckspnMVyDV) | 2:27 |
-| 8 | [Yang Lain Boleh Hilang Asal Kau Jangan \- Live Acoustic & Choir Version](https://open.spotify.com/track/6qwMjOsx755Qo3RRngrlQZ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz), [Paramadaya Choir and Friends](https://open.spotify.com/artist/1pN9U44rp8CVwjyHCVp9kL) | [Yang Lain Boleh Hilang Asal Kau Jangan \(Live Acoustic & Choir Version\)](https://open.spotify.com/album/4VsQlaaEeNI3Z7BaY5yWCi) | 4:22 |
-| 9 | [Ihsan](https://open.spotify.com/track/0MOB1QOd9D29GncEIFL8o4) | [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Ihsan](https://open.spotify.com/album/3ITo1iaOXhp8abKTAcXOJF) | 3:03 |
-| 10 | [Biru](https://open.spotify.com/track/5UzF5xynKjsHvGyWqvfzZx) | [OKAAY](https://open.spotify.com/artist/0qeOMneLDwmcxGM2CuFnfq) | [Biru](https://open.spotify.com/album/52Y37vb9mJEq39e7wuFBQg) | 4:06 |
-| 11 | [Terang Malam](https://open.spotify.com/track/6jKFvfCcLAI6CYlQWcOcvF) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [Izzal Anuar](https://open.spotify.com/artist/1ALRXaySc1IKz6sTQl86oH) | [Terang Malam](https://open.spotify.com/album/1pDziVhCMLfbTHPUH21Fkg) | 3:38 |
-| 12 | [Dag Dig Dug](https://open.spotify.com/track/1VbdFxbe3Bt41FGVe4gI8x) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Alessa](https://open.spotify.com/album/0HH8oiW48EN0Q3z42GKLcS) | 3:52 |
-| 13 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
-| 14 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
-| 15 | [I Think I'm in Love With You](https://open.spotify.com/track/6XoxG4BO9dIhOBb8QMn5mV) | [Lula](https://open.spotify.com/artist/3Pae4Yku6Q4rViX6QkHsMI) | [Curhat Lula](https://open.spotify.com/album/2SSpylYXnejpidV8o7gLKh) | 3:27 |
+| 1 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 |
+| 2 | [Banyak Yang Bilang](https://open.spotify.com/track/0f0jZj5PDrNqNIhWMaJBK7) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Banyak Yang Bilang](https://open.spotify.com/album/2uwnHeJgR6gprHxsQNSBPa) | 2:29 |
+| 3 | [Diam](https://open.spotify.com/track/3Kjftr1Zz1iVNvTB1SyodI) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Antonim Pt\. I](https://open.spotify.com/album/02SRZ4OSSxnHvyLQX83fwl) | 3:21 |
+| 4 | [GOODLUCK](https://open.spotify.com/track/7dYM7VucT6reu7Q0wGio85) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU) | 4:38 |
+| 5 | [GADISKU](https://open.spotify.com/track/1qLdhMIr4aah67C0MhZy12) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [FITTO](https://open.spotify.com/artist/3OG2k4C5SSrH69YbBU3Mbp), [Gard](https://open.spotify.com/artist/1YeerhN60nteXqkUo06htu) | [CHRONOSPHERE](https://open.spotify.com/album/4bUD7FuNjWluM7QlFxPl45) | 4:07 |
+| 6 | [Coba Cintaku](https://open.spotify.com/track/1Sx8A2P6hI1YpUkTiL7WnC) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [In Diversity](https://open.spotify.com/album/4sTb2l0f5cRgbRxq6HvZyU) | 3:26 |
+| 7 | [Sunyi Sepi](https://open.spotify.com/track/3MvWwT3UudBf4hE0ScyZ0L) | [Fiko Nainggolan](https://open.spotify.com/artist/0fOEDOEkZobdwo8jksF98r) | [Sunyi Sepi](https://open.spotify.com/album/4dLOnpFp2eCcLZAObRKNce) | 4:20 |
+| 8 | [Runaway](https://open.spotify.com/track/43HfQRPkzRg74NljGk7J4D) | [Vousé](https://open.spotify.com/artist/2om7HtKY9IwLHcGC7olM24) | [Runaway](https://open.spotify.com/album/35Ghmu79l9ypnYgfN5koCK) | 3:02 |
+| 9 | [Try Again](https://open.spotify.com/track/3KcA0bHgVxjIWMPlh9mBuZ) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW), [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [Try Again](https://open.spotify.com/album/7mfN9bmmT4IP21G064FOJz) | 4:14 |
+| 10 | [Say It As It Is](https://open.spotify.com/track/1cRvopSGQZDCH3VlrilcQY) | [Mirabeth](https://open.spotify.com/artist/3Xpap1vsMoPjVutjOxevPc) | [Say It As It Is](https://open.spotify.com/album/7r6dS7jLHDZcW41rjjsN0m) | 4:18 |
+| 11 | [cryin over nothin \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 |
+| 12 | [LDDT](https://open.spotify.com/track/43IR9onZwu3shjgkNgxdZz) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [LDDT](https://open.spotify.com/album/6NXwLalTLEsz52Yh4iqQJG) | 2:54 |
+| 13 | [Mati Rasa](https://open.spotify.com/track/6LnhuOUUAjue4FW4gJe1yx) | [Zaki Yamani](https://open.spotify.com/artist/50Or8lcMSe9UF559vd963e) | [Mati Rasa](https://open.spotify.com/album/1q8BPl9CaVBq1ifnvDHfok) | 4:38 |
+| 14 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
+| 15 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
 | 16 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 |
 | 17 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
 | 18 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 38 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
 | 39 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 40 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 |
-| 41 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
-| 42 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
+| 41 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
+| 42 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
 | 43 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 |
 | 44 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
 | 45 | [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 |
 | 50 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
 
-Snapshot ID: `MCxkMjU3NjM4OWM4MThhMTFjZDM2ZmRhZjY3ZTdhYmVjZDBiMDJiYzBi`
+Snapshot ID: `MCxiYTdmOGM4MmEyMzllMzg3ODBhZTg4YmM0MjBmODEwYTMyMjZmNDU2`

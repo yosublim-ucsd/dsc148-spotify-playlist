@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 157104,
+  "num_followers": 157089,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWU3ZDFlNmRhZjFlZmE0NTlhYmUxOTBjYzZmMjkzY2JlYzg1OTk4",
+  "snapshot_id": "MCw0Y2YxNTU5NGUzZDEyNjMzZjNhMzhkZTAxNjIwMWFmZGNlZjg1MWEx",
   "tracks": [
     {
       "added_at": "2023-10-23 20:26:24",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
-      },
-      "artists": [
-        {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
-        }
-      ],
-      "duration_ms": 214366,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "Suicida (Remastered)",
         "url": "https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 243670,
       "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
       "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+      },
+      "artists": [
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "duration_ms": 214366,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
+        "name": "\u00c9l No Lo Mat\u00f3",
+        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 278934,
+      "name": "\u00c9l No Lo Mat\u00f3",
+      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
         "name": "En Sentido Contrario",
         "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 186493,
       "name": "Y Como Es \u00c9l",
       "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
-        "name": "\u00c9l No Lo Mat\u00f3",
-        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 278934,
-      "name": "\u00c9l No Lo Mat\u00f3",
-      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 155852,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 166638,
       "name": "El y Yo",
       "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
-        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 203685,
-      "name": "Asalto Chido",
-      "url": "https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
         }
       ],
-      "duration_ms": 155852,
-      "name": "Juan el Descuartizador",
-      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
+      "duration_ms": 203685,
+      "name": "Asalto Chido",
+      "url": "https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Los Nopales Tienen la Fuerza",
-        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 389863,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "Hurbanistorias",
         "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 301680,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "Los Nopales Tienen la Fuerza",
+        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 389863,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
     },
     {
       "added_at": "2023-10-23 20:26:24",

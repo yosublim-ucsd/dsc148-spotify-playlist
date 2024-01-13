@@ -6877,6 +6877,36 @@
     },
     {
       "album": {
+        "name": "The Midnight Hour",
+        "url": "https://open.spotify.com/album/61ab02LuWOgobf26KFTzNt"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Kenny McNeil",
+          "url": "https://open.spotify.com/artist/2f4y9aaQv5kxA2xDdsXGEg"
+        },
+        {
+          "name": "Sami Turunen",
+          "url": "https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO"
+        },
+        {
+          "name": "Cord Martin",
+          "url": "https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300331,
+      "name": "The Midnight Hour",
+      "url": "https://open.spotify.com/track/3jqojVnh48SfXj2habMRC3"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/16M4hOJYp2hXZcRYMjh06F"
       },
@@ -7464,7 +7494,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 318578,
       "name": "Victoria Falls",
       "url": "https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk"

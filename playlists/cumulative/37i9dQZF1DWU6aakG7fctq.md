@@ -2,9 +2,9 @@
 
 ### [el nuevo indie](https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq)
 
-> Fresh Latin Indie\. Cover: Nsqk & legallyrxx
+> Fresh Latin Indie\. Cover: daniel sabater
 
-516 songs - 1 day 4 hr 41 min
+517 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 | 2023-02-17 | 2023-08-12 |
 | [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 | 2023-08-11 | 2023-11-11 |
 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 | 2022-08-19 | 2023-04-02 |
-| [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-06-02 |  |
+| [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-06-02 | 2024-01-13 |
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-14 |  |
 | [Memorias](https://open.spotify.com/track/10lioNEUsuH1Jk3qDTsGCA) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Memorias](https://open.spotify.com/album/67WIKZx249OeXbbN0Igjmb) | 3:19 | 2023-06-02 | 2023-08-20 |
 | [Mexico](https://open.spotify.com/track/3FAOA3cYNCXAwDIePAW19V) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/6glbSrF6iIteSZsPdzgdY3) | 3:40 | 2023-05-26 | 2023-08-23 |
@@ -309,6 +309,7 @@
 | [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 | 2023-10-13 | 2023-12-19 |
 | [no hace falta saber](https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [no hace falta saber](https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW) | 2:48 | 2023-06-23 | 2023-08-25 |
 | [No Huí](https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [El Individuo](https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O) | [No Huí](https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm) | 3:33 | 2023-09-22 |  |
+| [NO ME QUIERO PEGAR](https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO ME QUIERO PEGAR](https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0) | 2:22 | 2024-01-12 |  |
 | [no puedo decir que no \(no regrets\)](https://open.spotify.com/track/50sLVKctDmmJ9LRDUMjXEC) | [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [no puedo decir que no \(no regrets\)](https://open.spotify.com/album/1DEWooZAic8b4wRHYEjewL) | 3:33 | 2023-06-09 |  |
 | [No Puedo Dejar De Decir Que Te Quiero](https://open.spotify.com/track/0H5VvDGOVbHFGuxCTQ41FD) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [La Máquina Persona](https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP) | 5:22 | 2023-12-01 |  |
 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 | 2023-03-10 | 2023-03-25 |
@@ -326,7 +327,7 @@
 | [Obra de Arte](https://open.spotify.com/track/5ntg6WcHvCEoIfWS1PpMtH) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Obra de Arte](https://open.spotify.com/album/5Gpr1tWltTqDMaVL367II0) | 2:50 | 2022-10-27 | 2022-11-14 |
 | [Obras](https://open.spotify.com/track/6f0HsVqhnyhIh4KqW6ew3K) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7) | [Obras](https://open.spotify.com/album/4d0S9WvYAMv3cwuDOzgyCk) | 4:06 | 2022-10-27 | 2022-12-02 |
 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 | 2023-04-21 | 2023-12-02 |
-| [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 | 2023-05-15 | 2024-01-10 |
+| [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 | 2023-05-15 |  |
 | [oggy](https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [oggy](https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN) | 2:08 | 2023-11-03 |  |
 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 | 2023-04-14 | 2023-05-28 |
 | [ojitos caramelo \- Remix](https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [ojitos caramelo \(Remix\)](https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID) | 2:24 | 2023-03-10 | 2023-08-19 |
@@ -496,7 +497,7 @@
 | [Verte Otra Vez](https://open.spotify.com/track/3cDfdnyHHHjjJGifdTaToT) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Verte Otra Vez](https://open.spotify.com/album/0VQOxV4o6TPKxF7oePOIAi) | 3:49 | 2023-02-03 | 2023-08-05 |
 | [vidas](https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [vidas](https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U) | 4:13 | 2023-11-10 | 2023-12-30 |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 | 2023-09-08 |
-| [Volando](https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [En Tus Aguas](https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP) | 3:48 | 2023-08-11 |  |
+| [Volando](https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [En Tus Aguas](https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP) | 3:48 | 2023-08-11 | 2024-01-13 |
 | [Volver](https://open.spotify.com/track/2RnHwAElxef6tyAkt7mKl1) | [Jorge Prada](https://open.spotify.com/artist/7MNJy93yO4MA7MWAzfAMGo) | [Volver](https://open.spotify.com/album/2YtzQcmkcgzO2kzpNm1AoC) | 2:12 | 2023-12-15 |  |
 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 | 2021-11-18 | 2022-09-07 |
 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 | 2022-09-06 | 2023-02-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,160 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,062 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,7 +253,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 243 | [Solferino](https://open.spotify.com/track/3A16XdCOg7TkFi7JiVf8fq) | [The Blisters Boyz](https://open.spotify.com/artist/0Q39GyCskLcmJGdV2UDXbd) | [BBZ \- EP](https://open.spotify.com/album/1RGi41QJGn8Sl5Y0psQq5N) | 4:01 |
 | 244 | [Give It Up](https://open.spotify.com/track/70pdi54GtSajAFuWXx5bEZ) | [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [I Am Your God](https://open.spotify.com/album/334G6Jh3OfPhafSzL8PwzN) | 3:01 |
 | 245 | [Lightblood](https://open.spotify.com/track/633oagbtuixF4CWWR34OKH) | [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [In The Real World](https://open.spotify.com/album/5TDehxSjzWraYDIzAjtxi6) | 5:06 |
-| 246 | [Foolius Caesar](https://open.spotify.com/track/2Q50Nd5HhZl1A3u7Z96qUs) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:46 |
+| 246 | [Foolius Caesar](https://open.spotify.com/track/6M0ezQOjP85le2b4VrFgyT) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/42anHsnzFORglZyMr9udzN) | 3:46 |
 | 247 | [Volta](https://open.spotify.com/track/4Qq8rERaPWkDuZsvSWR9LL) | [O Terno](https://open.spotify.com/artist/2TuVzZPwEPqpstqmA0qLl6) | [Melhor do Que Parece](https://open.spotify.com/album/7nf6cMzbnj1BqhY5VBwT16) | 3:42 |
 | 248 | [Heaven's Nail and Hammer](https://open.spotify.com/track/4OKfEpmKFuWw8opI89yDjf) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 4:42 |
 | 249 | [Tomboy \(20syl Remix\)](https://open.spotify.com/track/55cFzYUexsnEqKy3Nz3y9W) | [Inüit](https://open.spotify.com/artist/7KFe5HjgvzsDZvgfzEXLVY), [20syl](https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV) | [Tomboy \(20syl Remix\)](https://open.spotify.com/album/2C3ANmz6pxbomH6fySOCSz) | 3:11 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCxlNjY5MWFiNDgyODA0NTZhODY4MGYxYjgxMGYyZDUwNzFlMzEyYmZi`
+Snapshot ID: `MCxjODA5ODI1ODI1OTIyOGM5MTk0ODMyMmVlYWRiOWQ5NGEwY2NhZDFk`

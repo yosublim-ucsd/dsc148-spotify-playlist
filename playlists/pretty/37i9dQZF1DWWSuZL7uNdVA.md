@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Shaka Ponk au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,542 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,196 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 29 | [Pyromane](https://open.spotify.com/track/7fpg6UBygCX0UR93lBPATO) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [11:11](https://open.spotify.com/album/0jfiAUw1sZ8EyNYaNMTe7T) | 2:58 |
 | 30 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 |
 | 31 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 |
-| 32 | [Taste The Sun](https://open.spotify.com/track/2DSMg1St3kwmv7uvrRBJZv) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 |
+| 32 | [Taste The Sun](https://open.spotify.com/track/0pGmOeAeuQGsFcxP928ima) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [A New Breed](https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e) | 4:03 |
 | 33 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
 | 34 | [Relegate](https://open.spotify.com/track/368lXXsAbFI1JCNY7v5w25) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Relegate](https://open.spotify.com/album/6RJHE9yzHZbXmxkCEe2rMW) | 3:27 |
 | 35 | [Sweet Life](https://open.spotify.com/track/3XHdtukUPR5db9KVyZwDCt) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Beguiled](https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:58 |
 | 50 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
 
-Snapshot ID: `MCw5NmIzNWI4YTgyYmNiMjg3ODhjMGVlM2RmNDc0ZWNlMDY5ZDk4ZDg1`
+Snapshot ID: `MCwxMjQ1MTgxMjc0MGViNzc3OTcyN2M1YzMwODZlNzU0NDQxOWMxNDgz`

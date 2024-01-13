@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 621538,
+  "num_followers": 621757,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDUzMTQxNzdmMWIyNmJjY2EwYmIzNjc3MWZiNGRhMDhiMzM5ZGYz",
+  "snapshot_id": "MCwzYzI2YjAxNjNjNTUxYTY2ZTUzNzcxYjRkMzVhYzM5OTQyMWM5YTBm",
   "tracks": [
     {
       "added_at": "2023-10-18 07:32:49",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-18 07:32:49",
       "album": {
-        "name": "MOONLIGHT SUNRISE",
-        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
-    },
-    {
-      "added_at": "2023-10-18 07:32:49",
-      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -1255,22 +1239,6 @@
       "duration_ms": 170805,
       "name": "Blessed-Cursed",
       "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
-    },
-    {
-      "added_at": "2023-10-18 07:32:49",
-      "album": {
-        "name": "AD MARE",
-        "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 172936,
-      "name": "O.O",
-      "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
     },
     {
       "added_at": "2023-10-18 07:32:49",
@@ -1291,6 +1259,38 @@
       "duration_ms": 204991,
       "name": "MOMMAE (Feat. Ugly Duck)",
       "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
+    },
+    {
+      "added_at": "2023-10-18 07:32:49",
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 172936,
+      "name": "O.O",
+      "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
+    },
+    {
+      "added_at": "2023-10-18 07:32:49",
+      "album": {
+        "name": "MOONLIGHT SUNRISE",
+        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
     },
     {
       "added_at": "2023-10-18 07:32:49",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-18 07:32:49",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
-      },
-      "artists": [
-        {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
-    },
-    {
-      "added_at": "2023-10-18 07:32:49",
-      "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 196170,
       "name": "Tamed-Dashed",
       "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
+    },
+    {
+      "added_at": "2023-10-18 07:32:49",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
     },
     {
       "added_at": "2023-10-18 07:32:49",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-18 07:32:49",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
-    },
-    {
-      "added_at": "2023-10-18 07:32:49",
-      "album": {
         "name": "EXODUS - The 2nd Album",
         "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 211013,
       "name": "CALL ME BABY",
       "url": "https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8"
+    },
+    {
+      "added_at": "2023-10-18 07:32:49",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
     },
     {
       "added_at": "2023-10-18 07:32:49",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-10-18 07:32:49",
       "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+    },
+    {
+      "added_at": "2023-10-18 07:32:49",
+      "album": {
         "name": "2021 Winter SMTOWN : SMCU EXPRESS",
         "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 177413,
       "name": "ZOO",
       "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
-    },
-    {
-      "added_at": "2023-10-18 07:32:49",
-      "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2023-10-18 07:32:49",

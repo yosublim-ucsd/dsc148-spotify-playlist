@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 65260,
+  "num_followers": 65311,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDI0ODQwNTAyYTI1MDM3ZTgwYmZlOTQwZTdkZmNmY2FmMzQ3MGJj",
+  "snapshot_id": "MCxiNDY2MDUyNmExNzQzN2FlYzkwOWQ5YWI4YWEwZGVlZmQyN2Q4NGFk",
   "tracks": [
     {
       "added_at": "2023-06-15 16:40:57",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Pel\u00edcula Muda, Pt. 2",
-        "url": "https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW"
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 303532,
-      "name": "Ll\u00e9vame en un Beso",
-      "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Pel\u00edcula Muda, Pt. 2",
+        "url": "https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+      "duration_ms": 303532,
+      "name": "Ll\u00e9vame en un Beso",
+      "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 233346,
       "name": "Si Alguna Vez",
       "url": "https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Sembrando Flores",
-        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 316520,
-      "name": "Sembrando Flores",
-      "url": "https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Latin & Love Studies",
         "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 240298,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Sembrando Flores",
+        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 316520,
+      "name": "Sembrando Flores",
+      "url": "https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu"
     },
     {
       "added_at": "2023-06-15 16:40:57",

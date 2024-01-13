@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,191 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,961 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 33 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 34 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 | 35 | [明室](https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:19 |
-| 36 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
-| 37 | [就算我放棄了世界](https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [給天王星](https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY) | 3:45 |
-| 38 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
-| 39 | [藏在你的名字里](https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [《一闪一闪亮星星》电影原声带](https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm) | 3:16 |
+| 36 | [藏在你的名字里](https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [《一闪一闪亮星星》电影原声带](https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm) | 3:16 |
+| 37 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
+| 38 | [就算我放棄了世界](https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [給天王星](https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY) | 3:45 |
+| 39 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 40 | [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 |
 | 41 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
 | 42 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 49 | [Miss missed Love](https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:06 |
 | 50 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
 
-Snapshot ID: `MCw4MDI5YzYzZmJkYTg3Y2E1NmEzMGQ0Yzg3NTU0NGE5NmJiNTM5NTU3`
+Snapshot ID: `MCxiYzFlOTBiMjU2ZDBiMDQ2YWNjYzIwM2JmOThmYzkyYTI3ZTBjMGMw`

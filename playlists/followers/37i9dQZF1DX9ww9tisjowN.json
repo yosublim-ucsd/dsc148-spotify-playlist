@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 271138,
+  "2024-01-13": 271844,
   "date_first_scraped": "2023-05-09",
   "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Rokudenashi(\u30ed\u30af\u30c7\u30ca\u30b7)",
   "name": "Gacha Pop",
@@ -1976,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Magic sword",
+        "url": "https://open.spotify.com/album/4CZuzm3N2YLi8m7RM4Ek0A"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "Magic sword",
+      "url": "https://open.spotify.com/track/2SDG8TEEBGX3tPwSjqX5xG"
+    },
+    {
+      "album": {
         "name": "MAGICAL DREAM",
         "url": "https://open.spotify.com/album/3V6tFl2XWnYgSl5WUR6k6D"
       },
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 183000,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/08TD3JtW8nc3NEgxaSBNbL"
@@ -3875,7 +3893,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 250333,
       "name": "Why",
       "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
@@ -5057,6 +5075,32 @@
       "duration_ms": 164917,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/5iYQ3bdL5XsPPpu8iZskQJ"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        },
+        {
+          "name": "\u5de1\u5de1",
+          "url": "https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167966,
+      "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75"
     },
     {
       "album": {

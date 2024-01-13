@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,416 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,882 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 33 | [Bakit Ba Ikaw](https://open.spotify.com/track/0RYRExrU329MHOwuiueWIq) | [Michael Pangilinan](https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV) | [Michael Pangilinan](https://open.spotify.com/album/5smhvbie90IDjoJoQTI7lk) | 4:05 |
 | 34 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
 | 35 | [Aking Pahinga](https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [I\-Ghie](https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf) | [Aking Pahinga](https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb) | 4:34 |
-| 36 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 |
-| 37 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |
+| 36 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |
+| 37 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 |
 | 38 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 |
 | 39 | [Oks Lang](https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Oks Lang](https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf) | 5:36 |
 | 40 | [Kahit Di Mo Alam](https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
 | 50 | [Huwag Na Lang Kaya](https://open.spotify.com/track/6v5gynE8gZcLwipN1UjCaD) | [True Faith](https://open.spotify.com/artist/6RV3CKY0UJIPKXyGs85Thm) | [Beyond Doubt](https://open.spotify.com/album/7AetQy7fe8Nt13bSJCELXH) | 3:31 |
 
-Snapshot ID: `MCwyMWJiZmQ0NjVmZTQ4NmFjZjlhYWIzZDM4YjczYzE5ZTE2NTBkODhh`
+Snapshot ID: `MCw5NzVjZGVhNTRhOTQzZDNiNmRkZWFmZjFlMDU4NmY3ZGI2NmJjNGQ5`

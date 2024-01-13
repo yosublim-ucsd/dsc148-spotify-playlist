@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,843 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,899 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 18 | [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 |
 | 19 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 |
 | 20 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
-| 21 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
-| 22 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/3jxtdFRy3VX71AbEPEjKgq) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/0d1R6Y3apuX2qB5MOP61F6) | 2:01 |
+| 21 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/3jxtdFRy3VX71AbEPEjKgq) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/0d1R6Y3apuX2qB5MOP61F6) | 2:01 |
+| 22 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
 | 23 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
-| 24 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 |
-| 25 | [I Know Why](https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR) | 2:50 |
+| 24 | [I Know Why](https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR) | 2:50 |
+| 25 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 |
 | 26 | [Just Can't Hate Enough](https://open.spotify.com/track/4ONnFr8aItCbbRCnTNeSJh) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH) | 1:44 |
 | 27 | [Some Came Running](https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA) | [Bane](https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi) | [Give Blood](https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9) | 2:37 |
 | 28 | [Blistered](https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
 | 50 | [Choices Made](https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Set Your Goals](https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda) | 2:28 |
 
-Snapshot ID: `MCw5N2YxYTA1Y2ZjMDUyODM5NDdhMTMxNjM0YzJmZjA4ZGZlOGY2ODZi`
+Snapshot ID: `MCxmOTVmY2ZhZjAwOTExZTZhMmZiNjBmOTI1YjUxZTJkYTRiZDkyYjRh`

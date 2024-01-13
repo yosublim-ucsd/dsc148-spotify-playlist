@@ -1700,7 +1700,7 @@
     {
       "album": {
         "name": "alex",
-        "url": "https://open.spotify.com/album/10SG5uKlmqbZwUsnUoyZQx"
+        "url": "https://open.spotify.com/album/0qktUUwmQg4BnppgbfS4Dv"
       },
       "artists": [
         {
@@ -1711,6 +1711,24 @@
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207576,
+      "name": "alex",
+      "url": "https://open.spotify.com/track/3ddR77lwaLNCCLzGzHZQ9c"
+    },
+    {
+      "album": {
+        "name": "alex",
+        "url": "https://open.spotify.com/album/10SG5uKlmqbZwUsnUoyZQx"
+      },
+      "artists": [
+        {
+          "name": "ioakim",
+          "url": "https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
       "duration_ms": 207576,
       "name": "alex",
       "url": "https://open.spotify.com/track/40GYIRcSPWp9k0QxJjtzly"
@@ -29949,6 +29967,28 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
+    },
+    {
+      "album": {
         "name": "N.P.D",
         "url": "https://open.spotify.com/album/29hxvEZkaNi0quZsfpcp2U"
       },
@@ -43105,6 +43145,24 @@
     },
     {
       "album": {
+        "name": "TELL ME",
+        "url": "https://open.spotify.com/album/0ozhOOtj0wB8p55EsfNiDp"
+      },
+      "artists": [
+        {
+          "name": "Kwest",
+          "url": "https://open.spotify.com/artist/4d5kNx2Bv7ieK2en82Dgzu"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200646,
+      "name": "TELL ME",
+      "url": "https://open.spotify.com/track/4KHafHbVn6xp0HmAufJ2Kc"
+    },
+    {
+      "album": {
         "name": "Coalesce",
         "url": "https://open.spotify.com/album/7w8VZmBYyc8lzb1EkKTxhF"
       },
@@ -49518,6 +49576,24 @@
       "duration_ms": 164973,
       "name": "Yes I'm A Mess",
       "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "album": {

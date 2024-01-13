@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,275 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,248 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 14 | [Bi' Tek Ben Anlarım](https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Bi' Tek Ben Anlarım](https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV) | 3:16 |
 | 15 | [AHŞAP DÜŞLERİM](https://open.spotify.com/track/5n6OeMQ2Rz7QywQfhQaqyi) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 2:40 |
 | 16 | [Sakın Gelme](https://open.spotify.com/track/0Wtrou4tplwRr2ZHN9SG96) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [M.V.A.B](https://open.spotify.com/album/6A2kt6EmZI2L6UV2dZak7W) | 2:49 |
-| 17 | [Divane](https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:52 |
-| 18 | [Marlon Brando](https://open.spotify.com/track/58LXONBewBn7XmEqG3D3TB) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/0xZtgrWTCdXFrSWVNcrXSH) | 3:30 |
+| 17 | [Marlon Brando](https://open.spotify.com/track/58LXONBewBn7XmEqG3D3TB) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/0xZtgrWTCdXFrSWVNcrXSH) | 3:30 |
+| 18 | [Divane](https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:52 |
 | 19 | [Sevmek Yüzünden](https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL) | 3:39 |
 | 20 | [Mod](https://open.spotify.com/track/4WfaeGpZO2YvXMbUfbpK7i) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo), [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Mod](https://open.spotify.com/album/0syScxCrlh8NE7rissCPu9) | 3:03 |
 | 21 | [Bambaşka](https://open.spotify.com/track/4cQmpiV9R08UhQuFMAzph0) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 4:02 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 43 | [Kimler Gelmiş](https://open.spotify.com/track/2MDgUGZ4HbtwzKd1GWZTFL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP), [Manuş Baba](https://open.spotify.com/artist/6p4UYgBKfV1XMDvD9KrtTv) | [Durum Şarkıları](https://open.spotify.com/album/4qczrbpvQeGJrIym4k1oo6) | 3:52 |
 | 44 | [Galiba Sevmiyorlar](https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Kötü Şeyler](https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5) | 2:59 |
 | 45 | [Benim Hala Umudum Var](https://open.spotify.com/track/4Rjf4c0Zumg9XNwlPdSDFN) | [Mazhar Alanson](https://open.spotify.com/artist/1CTvStsvYcGi6FfDHzNg0t) | [Türk Lokumuyla Tatlı Rüyalar](https://open.spotify.com/album/3rfM50ROn3Xkbt8ryxVhvR) | 3:37 |
-| 46 | [Sen Benim Şarkılarımsın](https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ) | [Gündoğarken](https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei) | [Bir Yaz Daha Bitiyor](https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl) | 2:59 |
-| 47 | [Ben Her Zaman Sana Aşıktım](https://open.spotify.com/track/4CWwQBDEI444gJh9rSg6iB) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 2:57 |
+| 46 | [Ben Her Zaman Sana Aşıktım](https://open.spotify.com/track/4CWwQBDEI444gJh9rSg6iB) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 2:57 |
+| 47 | [Sen Benim Şarkılarımsın](https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ) | [Gündoğarken](https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei) | [Bir Yaz Daha Bitiyor](https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl) | 2:59 |
 | 48 | [Nereye Böyle](https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A) | 4:37 |
-| 49 | [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 |
-| 50 | [Düşünme Hiç](https://open.spotify.com/track/6NBQtJawIW0RgszCkIqSr2) | [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Seksenlerin En Güzel 4 Albümü](https://open.spotify.com/album/1yJ3YjdPpY59Cm4kQbVMeC) | 4:09 |
+| 49 | [Düşünme Hiç](https://open.spotify.com/track/6NBQtJawIW0RgszCkIqSr2) | [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Seksenlerin En Güzel 4 Albümü](https://open.spotify.com/album/1yJ3YjdPpY59Cm4kQbVMeC) | 4:09 |
+| 50 | [Çıkmaz Sokaklar](https://open.spotify.com/track/1XA15AzxjLcZdIiyIaxIM0) | [Eflatun](https://open.spotify.com/artist/4C6z2n5FgN4t6Eu2n9xjGC), [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Çıkmaz Sokaklar](https://open.spotify.com/album/2jBSfhq7mFVnTtLMZDi3CW) | 4:21 |
 
-Snapshot ID: `MCw3YTY4NzY0YTY5ZDFkNTZhZmUzNjMyNDlhZGUyNTM4YjRjZDVhZTI5`
+Snapshot ID: `MCxlNWY2ODdhMjMxNDliYmFjMjg1NTE1MDA0MTE1ZTA3MDg3NDUyMDEx`

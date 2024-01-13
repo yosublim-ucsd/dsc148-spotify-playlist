@@ -2,9 +2,9 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV?si=ndRLzt9bRZG3Fej223JWTw">DJ Vyrusky </a>
+> The hottest tracks in Ghana\. Cover: Black Sherif
 
-237 songs - 12 hr 8 min
+238 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2023-05-26 |  |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-09-27 | 2023-11-14 |
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-07-25 | 2023-09-28 |
+| [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-01-12 |  |
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2021-09-24 | 2023-05-27 |
 | [JJC](https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [JJC](https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN) | 4:57 | 2023-03-24 | 2023-05-27 |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-28 | 2023-02-24 |
@@ -219,7 +220,7 @@
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 | 2023-02-24 |
 | [Terminator](https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:35 | 2023-11-13 | 2023-12-02 |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-05-04 |  |
-| [Terminator \- Remix](https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Terminator \(Remix\)](https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN) | 3:31 | 2023-12-08 |  |
+| [Terminator \- Remix](https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Terminator \(Remix\)](https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN) | 3:31 | 2023-12-08 | 2024-01-13 |
 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 | 2023-11-13 |  |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-05-05 | 2023-05-27 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 |  |

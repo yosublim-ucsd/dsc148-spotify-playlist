@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 103301,
+  "num_followers": 103156,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzFlZGIwNzU4NGVlMmE1YjE4MTFkNWVmY2Q5NWE1YTVkMTVmZjY5",
+  "snapshot_id": "MCw2YjE1MDY0NjllMmRmN2U3ZmNhNjVjYjFlYTU0ZWFhOTA4YTllMDQw",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -839,6 +839,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "Eleven (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 206080,
       "name": "Eleven (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "OBSESSION \u2013 The 6th Album",
-        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD"
     },
     {
       "added_at": "2020-08-24 22:19:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,186 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,043 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 23 | [Odio \(feat\. Drake\)](https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:45 |
 | 24 | [Por un Segundo](https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:15 |
 | 25 | [El Intruso](https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 2:52 |
-| 26 | [Ayer Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC) | 4:16 |
-| 27 | [Te Soñé \- Bonus Track](https://open.spotify.com/track/4lfwM9i07jPYy2iHyBmHTP) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:25 |
+| 26 | [Te Soñé \- Bonus Track](https://open.spotify.com/track/4lfwM9i07jPYy2iHyBmHTP) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:25 |
+| 27 | [Ayer Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC) | 4:16 |
 | 28 | [Señor Juez](https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Señor Juez](https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v) | 4:24 |
 | 29 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 |
 | 30 | [Si Estuvieras Aquí](https://open.spotify.com/track/5LaOePNL1J2kjhmj98xKif) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 |
 
-Snapshot ID: `MCw0NTQwN2Q2MzljMmE3N2M0ODk4OWE3YjQ3MjllNzgwOTAyOGM5MDEw`
+Snapshot ID: `MCw1ZjZlMzI5NDVkNDAxNWIzNzFkOTAwNjY1ZDk1ZjgxOTcwNmQzMjBi`

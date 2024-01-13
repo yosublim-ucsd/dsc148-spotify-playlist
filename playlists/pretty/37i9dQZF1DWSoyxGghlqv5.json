@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 460640,
+  "num_followers": 460479,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzNiNTYzYmNiYjBkZDI3YTMyZmNlZTA4MDJkODFjZjg5Y2FlODNh",
+  "snapshot_id": "MCwzMGIyNjBiZGRmNmNlZjczYzFmMGUyODAyNzNiYmYwZjE3ZGIzYzAx",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -367,18 +351,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 120308,
-      "name": "this is what falling in love feels like",
-      "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -395,6 +379,22 @@
       "duration_ms": 230240,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 120308,
+      "name": "this is what falling in love feels like",
+      "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+      "duration_ms": 211360,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -643,34 +643,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Shawn Mendes",
-        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 211360,
-      "name": "In My Blood",
-      "url": "https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -687,6 +671,22 @@
       "duration_ms": 240200,
       "name": "River",
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -735,6 +735,22 @@
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -827,22 +843,6 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2022-07-21 17:03:38",

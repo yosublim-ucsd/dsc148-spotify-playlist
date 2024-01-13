@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,347 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,360 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [NEW REAL](https://open.spotify.com/track/6XDPT5hDzyCibE904EpNx2) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/3soVw5GCfP8alGAzFYdhfN) | 3:15 |
 | 50 | [Kamasu or Die](https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [Kamasu or Die](https://open.spotify.com/album/5lbYwvOXS7YZIdRdKvLaTw) | 3:41 |
 
-Snapshot ID: `MCwxMjAwOTk5M2Q1NDYwODkwOWEzNTRjZDM3YmM0OGE2OGExZDkyMTli`
+Snapshot ID: `MCwwOWY2ZjcwZWNkMDQ3ZjFlNWRiNmFiY2FlZDMyZDM3Y2EyY2EwMzY0`

@@ -2,9 +2,9 @@
 
 ### [Infinite Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DX2taNm7KfjOX)
 
-> Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
+> Repeat\-free hours of new and beloved indie folk\. Cover: Marika Hackman
 
-558 songs - 1 day 10 hr 48 min
+559 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 4:25 | 2022-06-24 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2021-10-22 | 2022-07-29 |
 | [Everything Looks Better \(In Hindsight\)](https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 5:28 | 2021-10-22 |  |
-| [Exploding](https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Exploding](https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ) | 4:01 | 2023-09-22 |  |
+| [Exploding](https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Exploding](https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ) | 4:01 | 2023-09-22 | 2024-01-13 |
 | [Eye of the Canyon](https://open.spotify.com/track/2dd8AouAUzOXkoeGYj5KXA) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Lost Dreams](https://open.spotify.com/album/6VMaL2uxCKWWFHi1NDIcyz) | 4:11 | 2023-09-15 | 2023-10-11 |
 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 | 2022-01-14 | 2024-01-06 |
 | [Faith Healer](https://open.spotify.com/track/2hNXb6IDn3CvvHjjwauEM3) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/4poKpzHqjS4Ak1usjjNvvz) | 2:54 | 2021-10-22 | 2022-07-29 |
@@ -480,6 +480,7 @@
 | [The Wave](https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Wave](https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V) | 3:48 | 2021-10-22 | 2022-07-29 |
 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 | 2022-06-24 |  |
 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 | 2021-10-22 | 2022-07-27 |
+| [The Yellow Mile](https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [The Yellow Mile](https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b) | 3:03 | 2024-01-12 |  |
 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 | 2021-10-22 |  |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/4ddQlwDGMpXylyxbYvPRab) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/7h2UPCT7JKl8wFZZtZJtzE) | 2:45 | 2022-04-13 | 2022-08-18 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM) | 2:45 | 2022-08-12 | 2024-01-06 |

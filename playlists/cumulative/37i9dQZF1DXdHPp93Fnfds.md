@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-568 songs - 1 day 8 hr 19 min
+569 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 | 2022-10-14 | 2023-06-10 |
 | [Fantástico](https://open.spotify.com/track/3FpnoOgJnoihLQoEmm9Y8h) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR), [Oli Miglioli](https://open.spotify.com/artist/2c1M2ZvDn2Ikm4III7GrOy) | [Fantástico](https://open.spotify.com/album/7D0GfKfbXGfJW6YHfeAWTw) | 4:51 | 2022-01-21 | 2022-07-29 |
 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 | 2022-01-14 | 2022-07-29 |
-| [Formas](https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:18 | 2022-01-21 |  |
+| [Formas](https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:18 | 2022-01-21 | 2024-01-13 |
 | [Fotos y Videos](https://open.spotify.com/track/4FqqOPeMZDiHXkDWakgjN5) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Fotos y Videos](https://open.spotify.com/album/0SlIh51qhhnp3FcqYqCLCL) | 2:56 | 2022-02-11 | 2022-07-27 |
 | [Fotosintesis](https://open.spotify.com/track/3tGSbX8xExdmdoMgHV3f7C) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Fotosintesis](https://open.spotify.com/album/5NffZbyXrV9HdUqb8hBrhL) | 3:45 | 2022-01-14 | 2022-07-29 |
 | [frenemy](https://open.spotify.com/track/6K8R0X0a79Y4w4WugvnxmZ) | [Carolina Blanco](https://open.spotify.com/artist/1hyYPi9Ev0z6rjoz96gw4X) | [frenemy](https://open.spotify.com/album/256lDAuNuhmn1mWHpxzkCL) | 3:04 | 2022-02-11 | 2022-07-26 |
@@ -235,6 +235,7 @@
 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 | 2022-03-09 | 2023-08-19 |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2022-01-21 | 2022-07-29 |
 | [Ilusionismo](https://open.spotify.com/track/0MvfYreR1vSHyRmST7pLcO) | [Srta\. Trueno Negro](https://open.spotify.com/artist/5hVTdFTyOgwBKn5CWKnwrQ), [Julen y la Gente Sola](https://open.spotify.com/artist/6LOIQfbOC8gCrm9Y45EPki) | [Ilusionismo](https://open.spotify.com/album/7bTwGa9tJU69YPK1VHdj6Y) | 3:51 | 2022-07-15 | 2022-07-25 |
+| [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 | 2024-01-12 |  |
 | [Interestellar](https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [Interestellar](https://open.spotify.com/album/7mELjly5TtO9ypSo6aHtpV) | 4:24 | 2022-04-01 | 2022-04-21 |
 | [Invisible](https://open.spotify.com/track/0djLkNA7QEk59oZfIkZP1v) | [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK) | [Invisible](https://open.spotify.com/album/3rZ79m4x5Am9OXlgPnjSfi) | 3:35 | 2022-04-01 | 2022-06-18 |
 | [IR](https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:32 | 2022-07-15 | 2023-06-10 |

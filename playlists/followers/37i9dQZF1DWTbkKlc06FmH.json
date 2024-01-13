@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 125567,
+  "2024-01-13": 125563,
   "date_first_scraped": "2022-10-24",
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
   "name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
@@ -4428,6 +4428,28 @@
     },
     {
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "album": {
         "name": "Impurities",
         "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
       },
@@ -6477,7 +6499,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 157333,
       "name": "No One",
       "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"

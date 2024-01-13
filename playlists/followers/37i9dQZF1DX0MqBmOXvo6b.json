@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 404856,
+  "2024-01-13": 404704,
   "date_first_scraped": "2022-07-19",
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
   "name": "Concentraci\u00f3n Perfecta",
@@ -838,6 +838,24 @@
     },
     {
       "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "album": {
         "name": "Auf dem Felde",
         "url": "https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm"
       },
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 167463,
       "name": "Boulangerie",
       "url": "https://open.spotify.com/track/2r91I9ptlPt7l5AesfBngD"
@@ -3013,7 +3031,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 164901,
       "name": "For A Gentle Morning",
       "url": "https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4"
@@ -8015,6 +8033,24 @@
       "duration_ms": 152812,
       "name": "Sinkadus",
       "url": "https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO"
+    },
+    {
+      "album": {
+        "name": "Skies Seducing The Clouds",
+        "url": "https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134357,
+      "name": "Skies Seducing The Clouds",
+      "url": "https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY"
     },
     {
       "album": {

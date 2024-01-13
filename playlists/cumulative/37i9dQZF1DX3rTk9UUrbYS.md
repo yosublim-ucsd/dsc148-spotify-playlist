@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-136 songs - 18 hr 23 min
+137 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Attack of the Mikrokosmos](https://open.spotify.com/track/42wVyu4ZVkFLBMK2cqZEYB) | [Steve Swell](https://open.spotify.com/artist/63mW3Dk3IOcppvvV3R5Hlo), [Kende Dreams](https://open.spotify.com/artist/3UavYzlEiScQBO8Rsq8VVo) | [Hommage À Bartòk](https://open.spotify.com/album/3gHuZtGKNrYV5sOUvYouly) | 8:12 | 2020-08-25 |  |
 | [Awake Nu \(Remastered\)](https://open.spotify.com/track/1YlTuLs7h8VxqxImc1mh2l) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI) | [Now Playing Don Cherry](https://open.spotify.com/album/3fvpOLLX8Rhulm9ChxqX8O) | 6:55 | 2020-08-25 | 2022-07-29 |
 | [Awake Nu \- 2005 Remastered](https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI) | [Where Is Brooklyn](https://open.spotify.com/album/5MfuoMr4VQqgrjQcQiPc2z) | 6:55 | 2020-08-25 |  |
+| [Baghèt](https://open.spotify.com/track/21464HJPf8GrBxzWpDnq45) | [Gianluigi Trovesi](https://open.spotify.com/artist/72vioIyz3G8Ihu1CboAVSA), [Paolo Damiani](https://open.spotify.com/artist/4Kcev97eG1s5FLhs5iB1Xc), [Gianni Cazzola](https://open.spotify.com/artist/0gMoZy1oz4x7XZiwbFSDl9) | [Baghèt \(Remastered\)](https://open.spotify.com/album/1arsrww8NTIgtt6YmV4rxm) | 5:54 | 2024-01-12 |  |
 | [blakey jazz](https://open.spotify.com/track/2lcm5CnL3Eu6xobycEr7HJ) | [okuwaki teQ](https://open.spotify.com/artist/6MxdeL7D339oUVRyTmsbxU), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [blakey jazz](https://open.spotify.com/album/7ElnyXPSXcKtWbmyffJTKq) | 3:23 | 2022-07-15 |  |
 | [Blue Threads](https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY) | [Whit Dickey](https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo), [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [Morph](https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe) | 3:30 | 2020-08-25 |  |
 | [Blue Threads](https://open.spotify.com/track/1Vs1wAPWPnLondVj2OTguz) | [Whit Dickey](https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo), [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [Morph](https://open.spotify.com/album/2s9MewAV3KnqC0Pq0qjzgL) | 3:30 | 2020-08-25 | 2022-07-28 |

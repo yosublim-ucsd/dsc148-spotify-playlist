@@ -4,7 +4,7 @@
 
 > Get happy with today's dose of feel\-good songs!
 
-459 songs - 1 day 0 hr 11 min
+460 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Lights Up](https://open.spotify.com/track/2plLJpUcYPFrl1sW2pMG63) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Lights Up](https://open.spotify.com/album/4Aag1alBrdk2TFnATVmn8D) | 2:52 | 2019-10-11 | 2020-07-31 |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-07-24 |  |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-08-29 |  |
-| [Little Bit of Love](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Acoustic\)](https://open.spotify.com/album/4TFniUvcapARz1DzhdKPas) | 3:46 | 2021-03-14 |  |
+| [Little Bit of Love](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Acoustic\)](https://open.spotify.com/album/4TFniUvcapARz1DzhdKPas) | 3:46 | 2021-03-14 | 2024-01-13 |
 | [Little Bit Of Love \- Indian Summer Remix](https://open.spotify.com/track/7piFoJog4nNUCfnpOzFzSO) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Mark Ralph](https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc) | [Little Bit Of Love \(Indian Summer Remix\)](https://open.spotify.com/album/5mwiATjJ271pTlihyhQuCL) | 3:25 | 2020-06-06 | 2020-10-02 |
 | [Live Forever \(With Cheat Codes\)](https://open.spotify.com/track/3HuUmYXZw4t4u3RvbfQgfK) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [LP1](https://open.spotify.com/album/41K9itFFAUyNf92LOhx4Br) | 2:54 | 2019-12-07 | 2020-02-07 |
 | [Living Proof](https://open.spotify.com/track/1jg9clsGCDqOumfS0X5xm9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Living Proof](https://open.spotify.com/album/7BG1hKMWQAUkHBm8f7ppC1) | 3:14 | 2019-11-22 | 2019-12-07 |
@@ -292,6 +292,7 @@
 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 | 2019-07-29\* | 2021-03-19 |
 | [Nobody's Love](https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Nobody's Love](https://open.spotify.com/album/2cDt5R89HP8ZCXhNAmZs27) | 3:31 | 2020-07-31 | 2020-10-02 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2022-12-09 |  |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2024-01-12 |  |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-10 |  |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-08-05 |  |
 | [OK \(Anxiety Anthem\)](https://open.spotify.com/track/5Wdf9bRdfnYRCgfahgpNHM) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/7G9QcvG6U223NqJzVIMNrZ) | 3:36 | 2019-08-02 | 2019-10-11 |

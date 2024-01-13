@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,426 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,364 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 45 | [Free Them \(feat\. Teddy Swims\)](https://open.spotify.com/track/0kdIxHnIj3Tk9tcj1fOUaH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:12 |
 | 46 | [L.I.F.E.](https://open.spotify.com/track/3QVlMl0HR3ltlbFpzKvBi4) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 2:34 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDA0ZTM1MDZjNDY5YTk3ZDZkNzY4MDhhNTYyYjNmMmQ2MA==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDAwMWQ1ZjA0M2ExZmFmOTY5NjEzYzdjM2M0NWNlZTJmNA==`

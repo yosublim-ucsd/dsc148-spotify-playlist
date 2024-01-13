@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-390 songs - 1 day 3 hr 52 min
+392 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Authority](https://open.spotify.com/track/6GkXvjZVcL1Eaajzm9hb9r) | [Iron Reagan](https://open.spotify.com/artist/160vd9V7P2OiPVOndsKCJO) | [Dark Days Ahead](https://open.spotify.com/album/7hJfhI1Eht1CvetUEKTtEp) | 1:20 | 2021-12-17 | 2022-03-05 |
 | [Awakening](https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI) | [Paladin](https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ) | [Ascension](https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN) | 5:41 | 2021-12-17 | 2022-07-24 |
 | [Beneath The Wheel](https://open.spotify.com/track/3JqTeGdODAcf9mWM9mKJOO) | [D.R.I.](https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv) | [Thrash Zone](https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC) | 5:36 | 2022-12-15 |  |
-| [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 | 2022-07-13 |  |
+| [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 | 2022-07-13 | 2024-01-13 |
 | [Betrayed](https://open.spotify.com/track/2WZbwWB05tnjUzJHt4KL4H) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:05 | 2021-12-17 | 2022-07-18 |
 | [Beyond the Convent Walls](https://open.spotify.com/track/7zVIIZOOoO6keBdfKL8WGH) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/5dcBkiNfBkgdLeXseS88JM) | 4:29 | 2021-12-17 | 2022-07-27 |
 | [Black Magic](https://open.spotify.com/track/4cJhBmeJ7KiBeuy7oxRnZ3) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Show No Mercy](https://open.spotify.com/album/3D6BriGykla1Qi2YzeoE7X) | 4:03 | 2022-07-13 |  |
@@ -52,7 +52,7 @@
 | [Blood On Your Hands](https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/7Jr3AHWcPDUAQx3gGFO4lD) | 3:54 | 2021-12-17 | 2022-08-21 |
 | [Bloody Rain](https://open.spotify.com/track/6tSDBDxtrQR4dEWWG5aymJ) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Bloody Rain](https://open.spotify.com/album/5aWuJV6GQ0whl0InQyMuqV) | 5:16 | 2021-12-17 | 2022-07-25 |
 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 | 2021-12-17 | 2022-12-03 |
-| [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 |  |
+| [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 | 2024-01-13 |
 | [Bonded by Blood](https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:44 | 2022-07-13 |  |
 | [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 | 2022-07-13 |  |
 | [Born of Hate](https://open.spotify.com/track/7snzHEKAaNQvzl4VBhN9xQ) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Born of Hate](https://open.spotify.com/album/0GCuoA1qUQQS507pkgUkJo) | 4:17 | 2021-12-17 | 2022-07-29 |
@@ -270,6 +270,7 @@
 | [Prisoner](https://open.spotify.com/track/3YLyBeCT9tgFLvZMpjyf8m) | [The Southern Oracle](https://open.spotify.com/artist/1IV9JLta5jCCN6YmlNoLq7) | [Prisoner](https://open.spotify.com/album/4zv6HmhOHygHHDZVs7qBhF) | 2:21 | 2021-12-17 | 2022-07-07 |
 | [Prospect of Immortality](https://open.spotify.com/track/4011bzR6xClAGZ71YCcHOO) | [Cryptosis](https://open.spotify.com/artist/6wOhrwpLn8mjwUs14xh9nD) | [Prospect of Immortality](https://open.spotify.com/album/5FLNpvpZtonW80c2IOicDn) | 6:21 | 2021-12-17 | 2022-03-03 |
 | [Punish the Punisher](https://open.spotify.com/track/443FxTiQx9GsJucnUTCLM7) | [Tantara](https://open.spotify.com/artist/7mQqEScLIhXEDhVs4gyxZr) | [Sum of Forces](https://open.spotify.com/album/3khbZwNT8as5kIcjnv411x) | 5:00 | 2021-12-17 | 2022-03-05 |
+| [Pyhä Vitutus](https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Pyhä Vitutus](https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT) | 3:21 | 2024-01-12 |  |
 | [Raining Blood](https://open.spotify.com/track/5eF4Kv3HcYJyAtgTmHVzH9) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Soundtrack To The Apocalypse](https://open.spotify.com/album/4i1dW5u1egajFXlgpuVPVe) | 4:12 | 2022-09-09 | 2022-11-13 |
 | [Raining Blood](https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:14 | 2022-07-13 |  |
 | [Raining Blood](https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:15 | 2022-07-13 | 2022-07-29 |
@@ -390,6 +391,7 @@
 | [Winds Of Slaughter](https://open.spotify.com/track/1st60RcopofZkit6bSltag) | [Shrapnel](https://open.spotify.com/artist/5svar5SaK3U0NvKzTUPGjf) | [Winds Of Slaughter](https://open.spotify.com/album/1Mc6fY65sHE2Jkx7a27d9h) | 4:44 | 2021-12-17 | 2022-07-28 |
 | [Wings Of Judgement](https://open.spotify.com/track/69SeadjXbRQQxTSoJVBqzy) | [Heart Attack](https://open.spotify.com/artist/3ZNpC1P3jaqgAyx7bDWk6q) | [Wings Of Judgement](https://open.spotify.com/album/0wdBDkFKeSkEu09QxOn9zt) | 3:48 | 2022-04-01 | 2022-07-14 |
 | [Witching Hour](https://open.spotify.com/track/1V36Hxv16qWjGvnK2FV4cO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Witching Hour](https://open.spotify.com/album/5pBhA2ZnRbP16R4mQ6xh9z) | 3:03 | 2022-07-01 | 2022-08-12 |
+| [Witching Metal](https://open.spotify.com/track/6FFhcYF1E0tZNE7qiUfBTr) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [1982](https://open.spotify.com/album/41vrCbXFyOwLTHls46ugCV) | 3:28 | 2024-01-12 |  |
 | [Word of God](https://open.spotify.com/track/6MJKSvcUgn7PHwoiM5b2ny) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [Word of God](https://open.spotify.com/album/7AoO9136P69B9CSzuXcMwZ) | 3:04 | 2021-12-17 | 2022-03-03 |
 | [World At War](https://open.spotify.com/track/5kIcyPnL7SCLnhtotmgJj3) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [World At War](https://open.spotify.com/album/0rPnPihtO9vlb5tSPpMO6l) | 3:19 | 2021-12-17 | 2022-07-23 |
 | [World in a World](https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Crisix Session \# 1: American Thrash](https://open.spotify.com/album/6kUbRggyg1IbfV8bL6Beaf) | 4:16 | 2021-12-17 | 2022-07-29 |

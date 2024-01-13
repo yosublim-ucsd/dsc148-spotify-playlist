@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,614 likes - 94 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,096 likes - 94 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 23 | [Jet Black \(feat\. Brandy\)](https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:28 |
 | 24 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
 | 25 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
-| 26 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
-| 27 | [Roll Some Mo](https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:52 |
+| 26 | [Roll Some Mo](https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:52 |
+| 27 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
 | 28 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 |
 | 29 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 |
 | 30 | [Heart Don't Stand a Chance](https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 5:12 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 73 | [Avenue](https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Avenue](https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM) | 3:16 |
 | 74 | [Orbit \- Live from Air Studios](https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Orbit \(Live from Air Studios\)](https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV) | 3:54 |
 | 75 | [Sweet Life](https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Sweet Life](https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr) | 2:56 |
-| 76 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
-| 77 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
+| 76 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
+| 77 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
 | 78 | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:05 |
 | 79 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
 | 80 | [21](https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [21](https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf) | 3:15 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Worst Way](https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [themes](https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Worst Way](https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz) | 2:52 |
 | 94 | [Slow](https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Slow](https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l) | 2:40 |
 
-Snapshot ID: `MCxkMGVmZDc3YzQ1YTJlMTYxYzA4OThiOTI2MDUzM2YxMmYxZDJiMjcy`
+Snapshot ID: `MCxhZGZiY2JlYmE2MzY4MzllMDY3M2Q3Mzg2ODlmZmQyNTUyZGY1MzNl`

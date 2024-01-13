@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Hollow Coves",
+  "description": "The best in folk & acoustic today featuring music from Mon Rov\u00cea",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -2000,6 +2000,24 @@
       "duration_ms": 146573,
       "name": "cigarette holes",
       "url": "https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH"
+    },
+    {
+      "album": {
+        "name": "City On A Hill",
+        "url": "https://open.spotify.com/album/14QqcZuUzIMFOFfphJq4Y4"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00cea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170759,
+      "name": "City On A Hill",
+      "url": "https://open.spotify.com/track/4eklSuk7sHcFDVLQR74QLn"
     },
     {
       "album": {
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 237284,
       "name": "Lonesome & Mad",
       "url": "https://open.spotify.com/track/43cdY9ASMvp94qmVuLEoxd"
@@ -6405,6 +6423,28 @@
     },
     {
       "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
+    },
+    {
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
       },
@@ -7428,7 +7468,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"

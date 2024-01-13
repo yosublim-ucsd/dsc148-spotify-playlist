@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1314406,
+  "num_followers": 1314321,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTU1YmIyMWY1NTUxNzc1OGU2N2I4OGExYWZhM2I4ZTAxZjU0M2Uz",
+  "snapshot_id": "MCxjZjM0NjAyYTFlOGQwNGNiMTYxNjQyZjNiNTYwNzVmYWUwZjRhNzI2",
   "tracks": [
     {
       "added_at": "2024-01-02 10:36:29",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 276146,
-      "name": "Snuff",
-      "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Theatre of Pain",
         "url": "https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 239666,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 276146,
+      "name": "Snuff",
+      "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
       "artists": [
         {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
+      "duration_ms": 387160,
+      "name": "The Unforgiven (Remastered)",
+      "url": "https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 387160,
-      "name": "The Unforgiven (Remastered)",
-      "url": "https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -683,6 +683,22 @@
       "duration_ms": 210480,
       "name": "To Be With You - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "Fade To Black (Remastered)",
+      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -747,22 +763,6 @@
       "duration_ms": 232640,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "Fade To Black (Remastered)",
-      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Wings Of Tomorrow",
-        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "The Great Radio Controversy",
         "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 323360,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Wings Of Tomorrow",
+        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
     },
     {
       "added_at": "2024-01-02 10:36:29",

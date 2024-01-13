@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-755 songs - 2 day 1 hr 54 min
+756 songs - 2 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [SOMETHING](https://open.spotify.com/track/0YUWGLoMy9Uc2W0HiBHtmp) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 3:18 | 2023-01-24 | 2023-02-01 |
 | [SOSOGU](https://open.spotify.com/track/54x8nltyUeJxylMzAev90H) | [陽真](https://open.spotify.com/artist/6Kn0OX8yBp3EqLM5PaLgN2) | [SOSOGU](https://open.spotify.com/album/1FERVrFwHGs6S6BoEd0q64) | 3:24 | 2022-05-31 | 2023-11-11 |
 | [Space Traveler](https://open.spotify.com/track/6Vw38ZQiy5cfij2BOokGk1) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Space Traveler](https://open.spotify.com/album/4iMHcf6TLvNG69OLPxwdjK) | 4:25 | 2022-05-24 | 2022-07-25 |
-| [SPARKLE](https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe) | [CITY POP LOVERS](https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48) | 5:39 | 2022-11-30 |  |
+| [SPARKLE](https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe) | [CITY POP LOVERS](https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48) | 5:39 | 2022-11-30 | 2024-01-13 |
 | [Spell of Love](https://open.spotify.com/track/6g7G47NvL7fM1DugJgFDrX) | [Yuko Imai](https://open.spotify.com/artist/4YMuXk2Q6sKh3ZBorVDwA6) | [Spell of Love](https://open.spotify.com/album/4nsef5iJhBX00Il9xQabWm) | 5:09 | 2022-09-27 | 2022-10-05 |
 | [SPINNIN'](https://open.spotify.com/track/5B6fLEaxiqXVvwr5a2fjM8) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [SPINNIN'](https://open.spotify.com/album/7h4RiywJ7vwSgMPUKSwDcm) | 2:39 | 2023-12-12 | 2023-12-20 |
 | [Splendid Silent Sun](https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Splendid Silent Sun](https://open.spotify.com/album/3KOMMTYKtp0qvof3Op7tcm) | 3:59 | 2023-04-04 | 2023-04-26 |
@@ -650,6 +650,7 @@
 | [低気圧ボーイ](https://open.spotify.com/track/4vZMcTObOGq67qN6aiDgim) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [低気圧ボーイ](https://open.spotify.com/album/12wpyZQ1Y3JKoQPhUrECsW) | 4:33 | 2022-06-21 | 2022-07-13 |
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [入江にて](https://open.spotify.com/track/5xHubhwMi8QcbEz6ZpinEa) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [Sunset Rain](https://open.spotify.com/album/22BSXUMxOXc7ld5DxexT6J) | 4:08 | 2023-03-21 | 2023-03-29 |
+| [出ていけ！カレシ！](https://open.spotify.com/track/25zrDXmnAZulWCfljroSc9) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [出ていけ！カレシ！](https://open.spotify.com/album/6FucYwKJxu8VRNCzvrMWIx) | 4:21 | 2024-01-09 |  |
 | [君の居場所](https://open.spotify.com/track/2p2aLfEpB9ItHaT5yC9Ylx) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [君の居場所](https://open.spotify.com/album/15x6ok2P0OFJrmk9DcAVUN) | 3:43 | 2023-12-19 | 2023-12-22 |
 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 | 2022-08-09 | 2022-10-06 |
 | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [ミズノマリ \(from paris match\)](https://open.spotify.com/artist/1YDvWXGgyyceWTsBziydY7) | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/album/3owjP8KGMy2LE1alSWSQSI) | 4:39 | 2023-06-06 | 2023-08-20 |

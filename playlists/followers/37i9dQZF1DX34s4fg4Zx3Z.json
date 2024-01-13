@@ -1,7 +1,7 @@
 {
-  "2024-01-12": 21348,
+  "2024-01-13": 21357,
   "date_first_scraped": "2022-01-09",
-  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Southalid",
+  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: N\u00c2N",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -410,6 +410,28 @@
     },
     {
       "album": {
+        "name": "2512",
+        "url": "https://open.spotify.com/album/60bx8NSYuYTXOaiJOwtBov"
+      },
+      "artists": [
+        {
+          "name": "Nsta",
+          "url": "https://open.spotify.com/artist/7N1y3zllMyTEh7WSRaiu3F"
+        },
+        {
+          "name": "VCC Left Hand",
+          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248163,
+      "name": "2512",
+      "url": "https://open.spotify.com/track/5SR4uyxcgtXPNlZbghFZu7"
+    },
+    {
+      "album": {
         "name": "3 Con C\u00e1 M\u1eadp",
         "url": "https://open.spotify.com/album/7HISCu7JnTHQeduJXUMIzB"
       },
@@ -637,7 +659,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 200278,
       "name": "Ai B\u00edt G\u00ec \u0110\u00e2u ?",
       "url": "https://open.spotify.com/track/6MBdY1SUmxdKLpPco9smID"
@@ -6932,6 +6954,28 @@
     },
     {
       "album": {
+        "name": "XT-TX",
+        "url": "https://open.spotify.com/album/5BFT5j8R4db316nYCG8KGo"
+      },
+      "artists": [
+        {
+          "name": "N\u00c2N",
+          "url": "https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB"
+        },
+        {
+          "name": "Maiki",
+          "url": "https://open.spotify.com/artist/57WeoKhfgxj1pX9tH93w4N"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241422,
+      "name": "C\u01a0 TH\u1ec2 PH\u1ea2N B\u1ed8I",
+      "url": "https://open.spotify.com/track/2KMrUiJcPq7tHdsjqhe8CN"
+    },
+    {
+      "album": {
         "name": "C\u01a1m Nh\u00e0",
         "url": "https://open.spotify.com/album/54oIo1WVgy6zXZWSy2gBkt"
       },
@@ -9246,6 +9290,24 @@
     },
     {
       "album": {
+        "name": "feral",
+        "url": "https://open.spotify.com/album/07lAqxTsQ3hmA7A1tk4hQZ"
+      },
+      "artists": [
+        {
+          "name": "Ho\u0101ng",
+          "url": "https://open.spotify.com/artist/49xfNJ1T52Uv87QiVhRbTf"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156988,
+      "name": "feral",
+      "url": "https://open.spotify.com/track/4B0PGbE1tWZh3ngQ7uftsx"
+    },
+    {
+      "album": {
         "name": "fine",
         "url": "https://open.spotify.com/album/5p17n3Oer9Yd3h4lPjW6QK"
       },
@@ -10425,6 +10487,32 @@
       "duration_ms": 259500,
       "name": "G\u1eedi Ng\u00e0n L\u1eddi Y\u00eau",
       "url": "https://open.spotify.com/track/64iWUlgGOEmsKUZSCXHfl4"
+    },
+    {
+      "album": {
+        "name": "GOLDEN BOY",
+        "url": "https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH"
+      },
+      "artists": [
+        {
+          "name": "Rocky CDE",
+          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
+        },
+        {
+          "name": "STRANGE H",
+          "url": "https://open.spotify.com/artist/65d2rn78XJ1xpeFfbeWXmF"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Ha Va Oai",
+      "url": "https://open.spotify.com/track/7m3XEa7rP33gsjeYJYoRBl"
     },
     {
       "album": {
@@ -12895,7 +12983,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 205742,
       "name": "K\u00dd \u1ee8C S\u00d3T L\u1ea0I",
       "url": "https://open.spotify.com/track/6DJJ7a9gVUB5OOw9hOXo4V"
@@ -17207,7 +17295,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 170850,
       "name": "Ng\u01b0\u1eddi Trong M\u01a1",
       "url": "https://open.spotify.com/track/4XFGUW4u7tY7CUiI10CKPs"
@@ -22938,6 +23026,28 @@
     },
     {
       "album": {
+        "name": "TH\u00caM M\u1ed8T NG\u00c0Y N\u1eeeA",
+        "url": "https://open.spotify.com/album/5ajuDudlnOhe0wqjRByl0k"
+      },
+      "artists": [
+        {
+          "name": "16 BrT",
+          "url": "https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR"
+        },
+        {
+          "name": "Gxxfy",
+          "url": "https://open.spotify.com/artist/1i9boYyWPAZZLSrDcIov6U"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "TH\u00caM M\u1ed8T NG\u00c0Y N\u1eeeA",
+      "url": "https://open.spotify.com/track/2tyfl0O2nZEbug72WPg227"
+    },
+    {
+      "album": {
         "name": "Th\u00ec Th\u00f4i",
         "url": "https://open.spotify.com/album/5Lxn6fKLRUjHMFGaRVBCxl"
       },
@@ -26539,6 +26649,24 @@
       "duration_ms": 193548,
       "name": "V\u1eabn ch\u01b0a \u0111\u1ebfn l\u00fac",
       "url": "https://open.spotify.com/track/2fM8m8MTHjVGzcV1wVNVwu"
+    },
+    {
+      "album": {
+        "name": "v\u1eabn c\u00f2n bu\u1ed3n",
+        "url": "https://open.spotify.com/album/3SxS4SedPnhiPcJSPwriiJ"
+      },
+      "artists": [
+        {
+          "name": "qt.",
+          "url": "https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194374,
+      "name": "v\u1eabn c\u00f2n bu\u1ed3n",
+      "url": "https://open.spotify.com/track/47LPfHZuLX0QUH2GCfiNv0"
     },
     {
       "album": {

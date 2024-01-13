@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Iseo & Dodosound",
-  "num_followers": 1236555,
+  "num_followers": 1233016,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjBkYTFmMTZhMGJhYWY0NmY1OTY1ZmE4MTMxN2QzYmY0NzA2NGJj",
+  "snapshot_id": "MCw5NzAxYmIxMjk3Njk2N2JmMTBhZTRkOThmYjA5OTgzZDg2MzUyNzc2",
   "tracks": [
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "CAHUITA",
-        "url": "https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 215908,
-      "name": "CAHUITA",
-      "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "M\u00fasica Libre",
         "url": "https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 258693,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2BmtCTlt1A9z4z9k8qL1OV"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "CAHUITA",
+        "url": "https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 215908,
+      "name": "CAHUITA",
+      "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Criminal (feat. Elsa y Elmar)",
-        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 221042,
-      "name": "Criminal (feat. Elsa y Elmar)",
-      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "El Playlist de Anoche",
         "url": "https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 233000,
       "name": "Las Ganas de Vivir",
       "url": "https://open.spotify.com/track/3ZtGBBtfUyfV1KYiIZSf35"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Criminal (feat. Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 221042,
+      "name": "Criminal (feat. Elsa y Elmar)",
+      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "3 Caras",
-        "url": "https://open.spotify.com/album/4Ri4oLcXbyqs3rNs6s1mrs"
-      },
-      "artists": [
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        }
-      ],
-      "duration_ms": 134960,
-      "name": "3 Caras",
-      "url": "https://open.spotify.com/track/2lk6cFN10oFbEQyJ07VHyx"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1699,22 +1683,18 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+        "name": "3 Caras",
+        "url": "https://open.spotify.com/album/4Ri4oLcXbyqs3rNs6s1mrs"
       },
       "artists": [
         {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
         }
       ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+      "duration_ms": 134960,
+      "name": "3 Caras",
+      "url": "https://open.spotify.com/track/2lk6cFN10oFbEQyJ07VHyx"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1743,6 +1723,26 @@
       "duration_ms": 213000,
       "name": "Pipa y Placa",
       "url": "https://open.spotify.com/track/6CiBBWXURdhh84dJZbGAfU"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
     },
     {
       "added_at": "2023-11-10 04:59:00",

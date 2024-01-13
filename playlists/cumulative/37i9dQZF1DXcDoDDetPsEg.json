@@ -6875,6 +6875,28 @@
     },
     {
       "album": {
+        "name": "Blood Diamond",
+        "url": "https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5"
+    },
+    {
+      "album": {
         "name": "Hocus Pocus (Feat. Loyle Carner)",
         "url": "https://open.spotify.com/album/1OQlENDsvmiRYDM3WTBXhy"
       },
@@ -6890,7 +6912,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 202886,
       "name": "Hocus Pocus (Feat. Loyle Carner)",
       "url": "https://open.spotify.com/track/3pFYuXwv3UwhwAe0IsuyqD"
@@ -10597,6 +10619,28 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -11738,6 +11782,24 @@
       "duration_ms": 160000,
       "name": "One Up",
       "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "album": {

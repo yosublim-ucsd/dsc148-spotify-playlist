@@ -1,5 +1,5 @@
 {
-  "2024-01-12": 739967,
+  "2024-01-13": 741598,
   "date_first_scraped": "2022-08-23",
   "description": "no-clip out of reality",
   "name": "liminal",
@@ -123,24 +123,6 @@
     {
       "album": {
         "name": "Agony (Instrumental)",
-        "url": "https://open.spotify.com/album/7CoUIJf8UmStUci7q0Mftu"
-      },
-      "artists": [
-        {
-          "name": "Scammacist",
-          "url": "https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn"
-        }
-      ],
-      "date_added": "2023-08-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 301494,
-      "name": "Agony - Instrumental",
-      "url": "https://open.spotify.com/track/79dGhCtRRTj3XqqXnvSkG7"
-    },
-    {
-      "album": {
-        "name": "Agony (Instrumental)",
         "url": "https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm"
       },
       "artists": [
@@ -173,6 +155,28 @@
       "duration_ms": 301673,
       "name": "Agony - Instrumental",
       "url": "https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF"
+    },
+    {
+      "album": {
+        "name": "Agony (Instrumental)",
+        "url": "https://open.spotify.com/album/7CoUIJf8UmStUci7q0Mftu"
+      },
+      "artists": [
+        {
+          "name": "Scammacist",
+          "url": "https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn"
+        },
+        {
+          "name": "Sovara",
+          "url": "https://open.spotify.com/artist/5LvxxkEWNKHYGIntNEg2NY"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301494,
+      "name": "Agony - Instrumental",
+      "url": "https://open.spotify.com/track/79dGhCtRRTj3XqqXnvSkG7"
     },
     {
       "album": {

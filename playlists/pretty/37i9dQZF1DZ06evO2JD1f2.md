@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,340 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,347 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 42 | [Scarface \(feat\. EST Gee\)](https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 3:24 |
 | 43 | [Cold Gangsta](https://open.spotify.com/track/700cZW0tW9q1amsUhsUDkA) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Cold Gangsta](https://open.spotify.com/album/59XP7yesh6A9KlpST9Rx11) | 3:31 |
 | 44 | [All I Know \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:12 |
-| 45 | [I LIKE](https://open.spotify.com/track/5rAV8NxCASv0isWVJVff6k) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:47 |
-| 46 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 |
-| 47 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
+| 45 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 |
+| 46 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
+| 47 | [I LIKE](https://open.spotify.com/track/5rAV8NxCASv0isWVJVff6k) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:47 |
 | 48 | [Special](https://open.spotify.com/track/2fTWKA83JIAdEJk8vLUvy6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:31 |
-| 49 | [XXL](https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 |
-| 50 | [Blood](https://open.spotify.com/track/2mcunJucOjUZfPzfBwXal6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:34 |
-| 51 | [Steve and Jony](https://open.spotify.com/track/43FHpBvKLq6PBVYD4kLDSL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 2:56 |
+| 49 | [Blood](https://open.spotify.com/track/2mcunJucOjUZfPzfBwXal6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:34 |
+| 50 | [Steve and Jony](https://open.spotify.com/track/43FHpBvKLq6PBVYD4kLDSL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 2:56 |
+| 51 | [XXL](https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 |
 
-Snapshot ID: `Mjg0MTYyNDMsMDAwMDAwMDBkNDgyOWU3OWExZjdlNjk0MGQ0YmZiNjRmY2UyOTFmZg==`
+Snapshot ID: `Mjg0MTc2OTUsMDAwMDAwMDA3M2Q4OTllYWYzZmUxZjM1ZWM2ZjI4M2U1YTUzOWVjMA==`
