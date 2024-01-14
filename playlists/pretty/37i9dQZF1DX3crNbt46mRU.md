@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,052 likes - 95 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,042 likes - 95 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 94 | [deplatziert](https://open.spotify.com/track/3RydWx9dRmRJmvrEBoCAJK) | [ameliy](https://open.spotify.com/artist/3T4fIhGxnUtCJ84Us8H8Gj) | [deplatziert](https://open.spotify.com/album/7dHyTpo3DhRwRnX3O98Mti) | 2:50 |
 | 95 | [Nur noch einmal](https://open.spotify.com/track/47LRy3nalzTBvb2ksqhcka) | [Angela Asiana](https://open.spotify.com/artist/25vgYguyPkprd0hE2IRnZT) | [Nur noch einmal](https://open.spotify.com/album/3xi9i0hZNkvWEZ2PPC7qx5) | 2:04 |
 
-Snapshot ID: `MCwxODExMDRjMjkyNzliYjEwNTg2ODVmZmI4OTQ4NDEyMTk4MjkyOTI5`
+Snapshot ID: `MCw5ZmRlNzJlOTMzOGU4NDdlNDg1NmM2ZTFmOWYwN2FkODJhNmExMzJm`

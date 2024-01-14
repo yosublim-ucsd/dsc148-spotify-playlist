@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 266579,
       "name": "By Your Stripes",
       "url": "https://open.spotify.com/track/4wSv15ySAkejSbUmpWI8Nt"
@@ -6768,6 +6768,32 @@
       "duration_ms": 161632,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0pyOoYHx2hFK7GaTP4fviU"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4YXNOs51XA1tTdcMoJg7kk"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161697,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fn9wyVJvDOVkOI1UpU20x"
     },
     {
       "album": {

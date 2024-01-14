@@ -1,12 +1,12 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
-  "num_followers": 284945,
+  "num_followers": 284460,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVkNjAxYTEyYzQ3NDUxMjhjMWM1NGQ3YmMxNjNlM2NlYmIzOTQ2",
+  "snapshot_id": "MCxlMWQyMTQwN2Q4YzljZjI3ZGM3NzQwNWMxZWVjOWUyNGY0MGZlN2U3",
   "tracks": [
     {
       "added_at": "2023-12-20 18:00:15",
@@ -59,22 +59,18 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "You Make It Feel Like Christmas (Deluxe Edition - 2020)",
-        "url": "https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8"
+        "name": "Toxic Christmas",
+        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 162680,
-      "name": "Feliz Navidad (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd"
+      "duration_ms": 199546,
+      "name": "Toxic Christmas",
+      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -99,18 +95,22 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Toxic Christmas",
-        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
+        "name": "You Make It Feel Like Christmas (Deluxe Edition - 2020)",
+        "url": "https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Toxic Christmas",
-      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
+      "duration_ms": 162680,
+      "name": "Feliz Navidad (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
+        "name": "Diciembre Fr\u00edo",
+        "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Diciembre Fr\u00edo",
+      "url": "https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
         "name": "Al Ni\u00f1o Dios",
         "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 236440,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
-        "name": "Diciembre Fr\u00edo",
-        "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Diciembre Fr\u00edo",
-      "url": "https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -915,30 +915,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Regres\u00e9 Para Navidad",
-        "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        },
-        {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
-        },
-        {
-          "name": "Sophiv",
-          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Regres\u00e9 Para Navidad",
-      "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Se Acerca Navidad",
         "url": "https://open.spotify.com/album/3ZE9lMRkHFM2RnjzSyxe5C"
       },
@@ -963,6 +939,30 @@
       "duration_ms": 196166,
       "name": "Se Acerca Navidad",
       "url": "https://open.spotify.com/track/3RBTdjq25TnsJRIpkZxMkw"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Regres\u00e9 Para Navidad",
+        "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        },
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Regres\u00e9 Para Navidad",
+      "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
     },
     {
       "added_at": "2023-12-20 18:00:15",

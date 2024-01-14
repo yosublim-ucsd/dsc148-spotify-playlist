@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-43 songs - 3 hr 18 min
+44 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [TIME](https://open.spotify.com/track/1hQZiYDGr6bbLc3ZxsT1CM) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [何度でも新しく生まれる](https://open.spotify.com/album/3IhDlS0GsKJHNCcJA7xocM) | 4:44 | 2023-11-21 |  |
 | [two moons](https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk) | 4:10 | 2023-11-21 |  |
 | [untitled](https://open.spotify.com/track/6Pn1Vq9ubtguEO1QaO8DXk) | [The L.B.](https://open.spotify.com/artist/5GY7ls4IK8kxpIPhsdOrDX), [Lin](https://open.spotify.com/artist/4YAz97xFI0XcbVaK3QMuPA) | [untitled](https://open.spotify.com/album/2TRJIEzxHCQzKf5nYydRJf) | 3:08 | 2023-11-21 |  |
+| [we can't change the world without you here](https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [driven by impulse](https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5) | 4:14 | 2024-01-13 |  |
 | [Will](https://open.spotify.com/track/5altcHTL2RsY4HpUZZKiZ3) | [Kazusa](https://open.spotify.com/artist/2wWiqYc0aBOeBtNu3mfkxN) | [Will](https://open.spotify.com/album/6jZwUaBLAtRjVlyEEs03T9) | 4:40 | 2023-11-21 |  |
 | [Yin And Yang](https://open.spotify.com/track/3xiQhLKL1MbH7uAZph543m) | [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd) | [freeform jazz](https://open.spotify.com/album/0Fjw0gKbYspFhPTtMVUJe4) | 3:11 | 2023-11-21 |  |
 | [みまちがい](https://open.spotify.com/track/106MVOWcSInpn518DDKh6P) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [みまちがい](https://open.spotify.com/album/47AE25PbERBrFO857MmDFG) | 4:08 | 2023-11-21 |  |
@@ -41,7 +42,7 @@
 | [アブサン](https://open.spotify.com/track/15T8Cgslf1egP4NX3KVmKP) | [Greecelove](https://open.spotify.com/artist/4Tv5ODUYO9KGuLmv2KtJ9A) | [無・無・無・無・無](https://open.spotify.com/album/7r2MtOjyJKmrZjpaUZ59MG) | 3:35 | 2023-11-21 |  |
 | [オーロラ](https://open.spotify.com/track/6ApWNvN5MRk5MdyDoxoOh0) | [toggle](https://open.spotify.com/artist/6CGPuICwE9tU5mZyGDtTeB) | [オーロラ / 帰ろう \- Single](https://open.spotify.com/album/3iAMo6dnNoILyyvBjaSeE3) | 5:43 | 2023-11-21 |  |
 | [メリーゴーランド](https://open.spotify.com/track/72VxnVlmdTNy5gePW3udEA) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [メリーゴーランド](https://open.spotify.com/album/614bxz7OLT117PPV9fssCJ) | 4:07 | 2023-11-21 |  |
-| [ロックンロール](https://open.spotify.com/track/6p78WwlWLHnTTxCXJfbJAN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [アンテナ](https://open.spotify.com/album/33msjdmr793xfoWcbCA8HD) | 4:10 | 2023-11-21 |  |
+| [ロックンロール](https://open.spotify.com/track/6p78WwlWLHnTTxCXJfbJAN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [アンテナ](https://open.spotify.com/album/33msjdmr793xfoWcbCA8HD) | 4:10 | 2023-11-21 | 2024-01-14 |
 | [丸の内サディスティック](https://open.spotify.com/track/6PDL4t1R5m3kYN2qIumKc1) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Love & Groove Delivery](https://open.spotify.com/album/2ybDbV5RhfXim6vLWH2ymt) | 4:03 | 2023-11-21 |  |
 | [京都](https://open.spotify.com/track/4yzSiZGtwCIa3sku0v60jv) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [日本](https://open.spotify.com/album/3fdYfZ7IpS4oeKcNMK3HL9) | 4:29 | 2023-11-21 |  |
 | [傘](https://open.spotify.com/track/3tnvtrKp719KqwclPDi0hK) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [オーパスゼロ](https://open.spotify.com/album/3skAGESOBjyEnHZJtqRxRd) | 4:16 | 2023-11-21 |  |

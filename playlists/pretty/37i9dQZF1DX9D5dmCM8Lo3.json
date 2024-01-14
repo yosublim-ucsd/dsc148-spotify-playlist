@@ -1,28 +1,28 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 212054,
+  "num_followers": 212199,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjVmNGY2MTg3M2E2YjczMzVlNDZlODAzOGY0YThiOTVjMzJlZDY0",
+  "snapshot_id": "MCwzMzYxODFhMGY2ZGYyY2E3ZWNmOWNhYTllYzBiN2Q5NTM0ODYwMGMz",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "My Ordinary Life",
-        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
       },
       "artists": [
         {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         }
       ],
-      "duration_ms": 230893,
-      "name": "My Ordinary Life",
-      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
+      "duration_ms": 222000,
+      "name": "Dark Beach",
+      "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -43,18 +43,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
       },
       "artists": [
         {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Dark Beach",
-      "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
+      "duration_ms": 230893,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Pink Origins",
-        "url": "https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H"
+        "name": "About You Now",
+        "url": "https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD"
       },
       "artists": [
         {
-          "name": "Metaroom",
-          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
+          "name": "OTTO",
+          "url": "https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046"
+        },
+        {
+          "name": "Max Beirne Shafer",
+          "url": "https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE"
         }
       ],
-      "duration_ms": 137513,
-      "name": "Pink Origins",
-      "url": "https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7"
+      "duration_ms": 218786,
+      "name": "About You Now",
+      "url": "https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8"
     }
   ],
   "unique_name": "webcore",

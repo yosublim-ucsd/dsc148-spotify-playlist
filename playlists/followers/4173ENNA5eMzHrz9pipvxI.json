@@ -1,7 +1,7 @@
 {
-  "2024-01-13": 121208,
+  "2024-01-14": 121137,
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Ti\u00ebsto x FAST BOY",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Timmy Trumpet",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -861,7 +861,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 189565,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/4p9O7uT8RD1Ji7GidOX4sx"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
@@ -1786,6 +1786,28 @@
     },
     {
       "album": {
+        "name": "Bala",
+        "url": "https://open.spotify.com/album/0eMMY6AJt2EFpUI2eI5Ebz"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Anthony Attalla",
+          "url": "https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201875,
+      "name": "Bala",
+      "url": "https://open.spotify.com/track/6pxs9VHwNBOxQZQKx37rox"
+    },
+    {
+      "album": {
         "name": "Banaan Meloen Kiwi & Citroen",
         "url": "https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os"
       },
@@ -2076,6 +2098,28 @@
     },
     {
       "album": {
+        "name": "Best Friend (Never Let Me Down) [BLR Mix]",
+        "url": "https://open.spotify.com/album/0AAPEgBSt4ERy3NCNYhikX"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Best Friend (Never Let Me Down) [BLR Mix]",
+      "url": "https://open.spotify.com/track/7a2ZxSSWQRyK7jihIni8PW"
+    },
+    {
+      "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v"
       },
@@ -2113,6 +2157,24 @@
       "duration_ms": 193636,
       "name": "Best Part Missing",
       "url": "https://open.spotify.com/track/4SCbbGalpHU7n4hqhL5kul"
+    },
+    {
+      "album": {
+        "name": "Best Thing",
+        "url": "https://open.spotify.com/album/2iM4du2HvU2hmHzdn7s0Ys"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136727,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/3ZDpJbRqKXrk3tL4kHBHpT"
     },
     {
       "album": {
@@ -2373,7 +2435,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 208124,
       "name": "Blessed (Lost & Found)",
       "url": "https://open.spotify.com/track/61YKjWGAo6dGy43mHmQ8un"
@@ -3772,6 +3834,24 @@
     },
     {
       "album": {
+        "name": "Classics Never Die",
+        "url": "https://open.spotify.com/album/16e9wotFDqiAYZmDrdP86W"
+      },
+      "artists": [
+        {
+          "name": "Marnage",
+          "url": "https://open.spotify.com/artist/1WVacTvQLSx5Kg3sji9WZP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144232,
+      "name": "Classics Never Die",
+      "url": "https://open.spotify.com/track/1uH6WvAo3x0OywxfFuLJnL"
+    },
+    {
+      "album": {
         "name": "Clear All Patterns",
         "url": "https://open.spotify.com/album/0olPObVYoUXz01HB1VjgwP"
       },
@@ -4363,7 +4443,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 150400,
       "name": "Crazy Like A Fool (Hyper Techno Mix)",
       "url": "https://open.spotify.com/track/4b9bWqeNN6kTZsrvPu19Xm"
@@ -4949,7 +5029,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 157000,
       "name": "Derni\u00e8re Danse (Aaxis HYPER Mix)",
       "url": "https://open.spotify.com/track/7ajJeUkUltHkIQ0lI0bG7J"
@@ -5117,6 +5197,24 @@
       "duration_ms": 199218,
       "name": "Disco Baby",
       "url": "https://open.spotify.com/track/3fIAiG44DasK0wYAznuMlk"
+    },
+    {
+      "album": {
+        "name": "Disko Demon EP",
+        "url": "https://open.spotify.com/album/29Kkdp340fgpybVEf33Zil"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Disko Demon",
+      "url": "https://open.spotify.com/track/0ZV9USjXxHVbLo4aelw5o3"
     },
     {
       "album": {
@@ -5526,6 +5624,24 @@
     },
     {
       "album": {
+        "name": "Down Under",
+        "url": "https://open.spotify.com/album/1H7ww7qlIruP2okP9tmkRH"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149793,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/0OOr1PsZZcTFhp6KXO9Oa7"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/1VfAbxMuBV7L54UYLLsnFm"
       },
@@ -5892,6 +6008,24 @@
     },
     {
       "album": {
+        "name": "Du Bon Dieu",
+        "url": "https://open.spotify.com/album/6VNWGGMHo1GA5uKumGhObb"
+      },
+      "artists": [
+        {
+          "name": "Sea Shanty",
+          "url": "https://open.spotify.com/artist/0mFdUcqo7TnJNeWxzqqJax"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "Du Bon Dieu",
+      "url": "https://open.spotify.com/track/2w5IGNyAb9nrdur5YN60jz"
+    },
+    {
+      "album": {
         "name": "Dynamite (feat. Mougleta)",
         "url": "https://open.spotify.com/album/5ceZ4UwKLLZ9ilzrNjPgnq"
       },
@@ -6181,7 +6315,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 234285,
       "name": "Elude",
       "url": "https://open.spotify.com/track/5g70bz611yoPg8ay5Y2znZ"
@@ -7801,7 +7935,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 139818,
       "name": "Fugazi - LAWRENT Remix",
       "url": "https://open.spotify.com/track/6PEDXWBUR1mTmOyJ9jCDtP"
@@ -8264,6 +8398,28 @@
     },
     {
       "album": {
+        "name": "Good God (Sunnery James & Ryan Marciano Remix)",
+        "url": "https://open.spotify.com/album/0RbpWANRg0P5mRBrDgSMF9"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149280,
+      "name": "Good God (Sunnery James & Ryan Marciano Remix)",
+      "url": "https://open.spotify.com/track/1aXf9GykmY5jprsRYAlrL6"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/4G1FKnmkqX85FV7t6KeSz4"
       },
@@ -8451,7 +8607,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 135000,
       "name": "HABANERO",
       "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
@@ -8593,7 +8749,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 159375,
       "name": "Headphones (feat. Aron Blom)",
       "url": "https://open.spotify.com/track/5lSvT7dzt2iFriCShrRlKv"
@@ -9107,6 +9263,24 @@
       "duration_ms": 128437,
       "name": "Home",
       "url": "https://open.spotify.com/track/01XG7WAJo7Zh4hAKIsXYPA"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/1MRXF24aiT8BLW0hV7seBo"
+      },
+      "artists": [
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/0oTNlCTyhIqa3my7tOPPeG"
     },
     {
       "album": {
@@ -9896,6 +10070,24 @@
     },
     {
       "album": {
+        "name": "Disko Demon EP",
+        "url": "https://open.spotify.com/album/29Kkdp340fgpybVEf33Zil"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185144,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/660utC16unn1ThXISuL0oy"
+    },
+    {
+      "album": {
         "name": "I Wanna Dance With Somebody",
         "url": "https://open.spotify.com/album/2bBlKGj0lQkLO4K0b664sS"
       },
@@ -10429,7 +10621,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 245806,
       "name": "Intercept",
       "url": "https://open.spotify.com/track/3ZfUuucwsGA1GExZcpDKKn"
@@ -10797,6 +10989,32 @@
       "duration_ms": 181855,
       "name": "John Wick",
       "url": "https://open.spotify.com/track/3OvP7mNTZpwzO6AiKHh3AQ"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "ILSE",
+          "url": "https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121116,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr"
     },
     {
       "album": {
@@ -12597,7 +12815,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 140314,
       "name": "Lose Control (feat. David Allen)",
       "url": "https://open.spotify.com/track/1SmJqreQjRhIxKuEbO3W0Z"
@@ -14847,7 +15065,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 226285,
       "name": "My Beat Goes",
       "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
@@ -15189,7 +15407,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 203469,
       "name": "Need Ya (I Don't Wanna) [VIP Mix]",
       "url": "https://open.spotify.com/track/2TMTLZociLAMf3PleDGccB"
@@ -15339,6 +15557,32 @@
       "duration_ms": 145161,
       "name": "Never Get Enough",
       "url": "https://open.spotify.com/track/5Odwghtq7NisUYaerhjYvg"
+    },
+    {
+      "album": {
+        "name": "Never Give Up (feat. NAJA)",
+        "url": "https://open.spotify.com/album/3IfHJ0KgxE9XmNVHo5DwHZ"
+      },
+      "artists": [
+        {
+          "name": "EMDI",
+          "url": "https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt"
+        },
+        {
+          "name": "B.R.T",
+          "url": "https://open.spotify.com/artist/1JNj4L9dFFnptBKFKpUaFL"
+        },
+        {
+          "name": "NAJA",
+          "url": "https://open.spotify.com/artist/5upYH7rY7XhDuDIzzGuaIE"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120888,
+      "name": "Never Give Up (feat. NAJA)",
+      "url": "https://open.spotify.com/track/1s9fEvvnuUoBcXWhySnakZ"
     },
     {
       "album": {
@@ -17321,7 +17565,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 129600,
       "name": "Pira\u00f1a (1,2,3)",
       "url": "https://open.spotify.com/track/04OwNrnAfuavWProetNBs7"
@@ -17839,7 +18083,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 230624,
       "name": "Rapture (BLR Remix)",
       "url": "https://open.spotify.com/track/2rFGvptgcdcYoYHZ89GNL3"
@@ -18269,7 +18513,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 126500,
       "name": "Rindfleischetikettierungs\u00fcberwachungsaufgaben\u00fcbertragungsgesetz (Hyper Techno Mix)",
       "url": "https://open.spotify.com/track/3hqAbVDWMR62ylTI5LNQ98"
@@ -20031,7 +20275,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 147096,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/3L0bFYsgS0LSfLmJrsecqT"
@@ -20629,6 +20873,28 @@
       "duration_ms": 205440,
       "name": "Suave",
       "url": "https://open.spotify.com/track/5XfJOhc3H1XXIcqReg8eQ2"
+    },
+    {
+      "album": {
+        "name": "360 Yellow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1Fq6i9cUYSYZgP0pGzeWrB"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": ".EXA",
+          "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1MCykbR6IJsiaXuZ1VTN6j"
     },
     {
       "album": {
@@ -22207,7 +22473,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 191750,
       "name": "The Warehouse",
       "url": "https://open.spotify.com/track/3aGl9EKwX38Uob6MVtBDWw"

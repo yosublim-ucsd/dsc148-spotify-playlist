@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Arrombado",
+        "url": "https://open.spotify.com/album/2RdtAGp6rEomxV09t3JNGf"
+      },
+      "artists": [
+        {
+          "name": "Luan Estilizado",
+          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130384,
+      "name": "Arrombado",
+      "url": "https://open.spotify.com/track/1rPUvbv6OU3b50uiwKCKLr"
+    },
+    {
+      "album": {
         "name": "Balan\u00e7o da Rede",
         "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
       },
@@ -1160,7 +1182,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 144535,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6TVLKukS66i3irRvWlt4j5"

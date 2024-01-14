@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 1,
+  "2024-01-14": 1,
   "date_first_scraped": "2023-06-01",
   "description": "",
   "name": "\ud835\ude5b\ud835\ude68\ud835\ude5d \ud835\ude63\ud835\ude59 \ud835\ude58\ud835\ude5d\ud835\ude65 \ud835\ude5f\ud835\ude62\ud835\ude68 ",
@@ -2827,6 +2827,24 @@
       "duration_ms": 159280,
       "name": "Backmask",
       "url": "https://open.spotify.com/track/24Mp5KQUyFUD1L94a671Hr"
+    },
+    {
+      "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116732,
+      "name": "Backstairs Breathing",
+      "url": "https://open.spotify.com/track/2Eb52yvmy4yZRJkGVgSstE"
     },
     {
       "album": {

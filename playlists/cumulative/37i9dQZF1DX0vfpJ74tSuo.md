@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-217 songs - 13 hr 19 min
+218 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Coin Operated Woman \(feat\. Johnny Burgin\)](https://open.spotify.com/track/3UzFhxg69DF9bzb7sWsmJ4) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 4:23 | 2023-08-25 | 2023-11-05 |
 | [Colt 45](https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Colt 45](https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK) | 2:45 | 2023-08-18 |  |
 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 | 2022-05-27 |  |
-| [Dallas Blues \- Remastered](https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh) | [Wizz Jones](https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG) | [Huldenberg Blues \(Remastered\)](https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM) | 3:54 | 2023-09-15 |  |
+| [Dallas Blues \- Remastered](https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh) | [Wizz Jones](https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG) | [Huldenberg Blues \(Remastered\)](https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM) | 3:54 | 2023-09-15 | 2024-01-14 |
 | [Death Valley Blues](https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:43 | 2023-04-28 |  |
 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 | 2022-09-20 | 2023-04-30 |
 | [Dengue Woman Blues](https://open.spotify.com/track/76l8o9qZ4tnUAyMF9Y9qRI) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [From Dusk Till Dawn \- Music From The Motion Picture](https://open.spotify.com/album/0hlyemXrKRyStIVw2O8S7f) | 6:23 | 2022-05-27 | 2022-07-15 |
@@ -177,6 +177,7 @@
 | [Same Train](https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N) | [Sue Ray](https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B) | [Same Train](https://open.spotify.com/album/4dntdgAScxEYy00uXNYQsY) | 3:52 | 2023-05-22 | 2023-12-18 |
 | [San Quentin Infirmary Blues \- Stripped Back](https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [All The Bad Things \(Stripped Back\)](https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4) | 3:12 | 2023-05-22 |  |
 | [See See Rider](https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Country Blues](https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2) | 3:14 | 2022-10-14 |  |
+| [Shake and Bake](https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha) | [Kerri Powers](https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c) | [Shake and Bake](https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG) | 4:01 | 2023-09-15 |  |
 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2022-05-25 |  |
 | [Shake It Up \- Acoustic](https://open.spotify.com/track/01lLPrIDxsRdPpx0jpkS4S) | [Mitch Grainger](https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G) | [Shake It Up](https://open.spotify.com/album/2uda262NCN5VZeMQVjtaox) | 4:01 | 2023-06-09 |  |
 | [She's Long, She's Tall, She Weeps Like A Willow Tree](https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:47 | 2023-08-18 |  |

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,153 songs - 2 day 11 hr 10 min
+1,154 songs - 2 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [21st Century Hobby](https://open.spotify.com/track/4RMGlgCIVjvnBYUGRsSe82) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [21st Century Hobby](https://open.spotify.com/album/62nfKZNeYExKqSD87tWH8D) | 3:59 | 2021-06-12 | 2021-06-19 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-02-27 | 2021-05-15 |
 | [25](https://open.spotify.com/track/1osKpP5b18Xi1VmjXyF7Ig) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [Just Existing](https://open.spotify.com/album/0HguTMRMvOvE7eSxM24tiC) | 2:42 | 2021-10-09 | 2022-02-05 |
-| [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 | 2023-11-17 |  |
+| [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 | 2023-11-17 | 2024-01-14 |
+| [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 | 2024-01-12 |  |
 | [2725](https://open.spotify.com/track/5qYP2Jpli9QkYdgqAy5DEV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:21 | 2020-10-29\* | 2021-02-20 |
 | [2b happy](https://open.spotify.com/track/0RXWN2VmORaPRzklOjz3B9) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [2b happy](https://open.spotify.com/album/2QHx8NdsnaTnczm9F51TQh) | 1:40 | 2020-10-29\* | 2020-11-03 |
 | [3am in nyc](https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:09 | 2022-08-26 | 2023-05-06 |

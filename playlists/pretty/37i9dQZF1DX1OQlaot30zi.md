@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Club Dogo, Vale Lambo e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,682 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,731 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mafia Del Boom Bap](https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
-| 2 | [Baby U Want Me \(feat\. Geolier\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
+| 2 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/7z29jwhaE82uACHM2Ovzgs) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
 | 3 | [BECCARIA SAN VITTORE \(feat\. Baby Gang\)](https://open.spotify.com/track/71RDmxuDZrWm0ZuImtm4AP) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:23 |
 | 4 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 | 5 | [Nato Per Questo \(feat\. Marracash\)](https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:46 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 28 | [Moto e Stasi](https://open.spotify.com/track/4yMkWeaJyioQxy9225fKPC) | [Mas](https://open.spotify.com/artist/21E7HIusv4ooGtetpAtxNk), [Marta Brando](https://open.spotify.com/artist/5NUfGi0PaKeSBkvCtgtAD3) | [Moto e Stasi](https://open.spotify.com/album/5CecYKuN34jKMnfoO7XaYL) | 3:04 |
 | 29 | [Roby Esce A Maggio](https://open.spotify.com/track/0Rb3yx9g0GFNZ6fP0hwUSS) | [Caneda](https://open.spotify.com/artist/0sFpREh3MXhfRxOFZVStVG) | [Roby Esce A Maggio](https://open.spotify.com/album/5EPD3gW8M8eURJF3NuEeiJ) | 2:54 |
 | 30 | [GENEVIEVE](https://open.spotify.com/track/0FaNdZ9t8Le9CvlS7fAcMS) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [GENEVIEVE](https://open.spotify.com/album/0xyjoOGikHhA6bxT9pXOzk) | 2:34 |
-| 31 | [STEP BY STEP](https://open.spotify.com/track/6azRsazhYFpDXcjOcEaqdC) | [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY) | [STEP BY STEP](https://open.spotify.com/album/3QmRXmRqLCBpOxAiN78Ibg) | 2:29 |
+| 31 | [STEP BY STEP](https://open.spotify.com/track/6azRsazhYFpDXcjOcEaqdC) | [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE), [Vaglie](https://open.spotify.com/artist/0TwdOHVNvrlbU0YSJ487KK) | [STEP BY STEP](https://open.spotify.com/album/3QmRXmRqLCBpOxAiN78Ibg) | 2:29 |
 | 32 | [SEMP CHIU FRIDD](https://open.spotify.com/track/6CstFw7Gg2dLLEvjZ1VQpA) | [Drug](https://open.spotify.com/artist/3ZNlJeYWxZIKL9kCqWASin), [Aura](https://open.spotify.com/artist/02AZZZ3qYZEriU9ym1jXmK) | [SEMP CHIU FRIDD](https://open.spotify.com/album/7kgEp8yrYtqDRX8hlGztqt) | 2:22 |
 | 33 | [Fuochi D'artificio](https://open.spotify.com/track/65mYPEqBTis9kwzc1SOydw) | [A7BE](https://open.spotify.com/artist/1eDn2I7kVEK2pczH9udTTX), [kikko](https://open.spotify.com/artist/3XlGq5h5mdlsvngCif3tpo) | [Fuochi D'artificio](https://open.spotify.com/album/58qgxEiLucXDdjV8auzdd3) | 3:20 |
 | 34 | [A TE E FAMIGLIA](https://open.spotify.com/track/1nkvAikEmFzfGuJGRRmtwS) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [A TE E FAMIGLIA](https://open.spotify.com/album/60yspPJFP249kQ0kzbsG8D) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [Cavallo Bianco](https://open.spotify.com/track/6W8D182SLIjb2uIbdOpqoU) | [Doxa Laem](https://open.spotify.com/artist/3bc4Xbf9QPUdWIN0ooiUyu), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Christmas Carol 2](https://open.spotify.com/album/7JLAnoRG331a3cc6UbWE9J) | 2:00 |
 | 80 | [Caramella](https://open.spotify.com/track/3xsHQAueBhbwgoVaK3Hf1y) | [GOTIK](https://open.spotify.com/artist/3Ey9eEXfND6R45RySALanw) | [Caramella](https://open.spotify.com/album/6DEYDwiUQuhaySNtBcAEsG) | 2:24 |
 
-Snapshot ID: `MCxmN2Q3MzY2ZDM1Njk1YTJlMDdkODgyM2RkODkyMzFhYjZlZTE1Zjhm`
+Snapshot ID: `MCw2ODEyNDZjZGEyNGUwNjkzYTA4MWU0MjkwYTA3OWJjNTJmMjExNjhi`

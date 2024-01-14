@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43621,
+  "num_followers": 43640,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGY2OTcxYjkzNjBlNThlYzgyMzUyZTlmYjRlZTQ1M2Q0NjQ0NDk4",
+  "snapshot_id": "MCw5NDYxOTM3YmQ5YTY1NDNkZWVlNDc1MmVkYmQzZGJmYTY3ZGYzYzUz",
   "tracks": [
     {
       "added_at": "2024-01-11 16:17:43",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Mancati",
-        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Mancati",
-      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "REBEL (Deluxe)",
         "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 220485,
       "name": "Horror - Acoustic",
       "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "Mancati",
+        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Mancati",
+      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
+        "name": "Ci\u00f2 che amo scompare",
+        "url": "https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r"
+      },
+      "artists": [
+        {
+          "name": "Rayan Seventeen17",
+          "url": "https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S"
+        }
+      ],
+      "duration_ms": 183642,
+      "name": "Ci\u00f2 che amo scompare",
+      "url": "https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
         "name": "Testa e cuore",
         "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 171641,
       "name": "Dentro di Te",
       "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
-        "name": "Ci\u00f2 che amo scompare",
-        "url": "https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r"
-      },
-      "artists": [
-        {
-          "name": "Rayan Seventeen17",
-          "url": "https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S"
-        }
-      ],
-      "duration_ms": 183642,
-      "name": "Ci\u00f2 che amo scompare",
-      "url": "https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Non te l'ho detto mai",
-        "url": "https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS"
+        "name": "Ci penser\u00f2 domani",
+        "url": "https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw"
       },
       "artists": [
         {
           "name": "Sol\u00f8",
           "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        },
+        {
+          "name": "NIVEO",
+          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
         }
       ],
-      "duration_ms": 136235,
-      "name": "Non te l'ho detto mai",
-      "url": "https://open.spotify.com/track/4PkT1On1EL0WdX5CilUbAU"
+      "duration_ms": 137964,
+      "name": "Ci penser\u00f2 domani",
+      "url": "https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1151,38 +1155,34 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
       "artists": [
         {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         }
       ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
     },
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Devil May Cry",
-        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
       },
       "artists": [
         {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglianone",
-          "url": "https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn"
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
         }
       ],
-      "duration_ms": 148818,
-      "name": "Devil May Cry",
-      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1219,54 +1219,38 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
+        "name": "Devil May Cry",
+        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
-        "name": "LOVE?",
-        "url": "https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm"
-      },
-      "artists": [
-        {
-          "name": "Cloud\u00ec",
-          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
         },
         {
-          "name": "Bipolar",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+          "name": "Gaglianone",
+          "url": "https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Bombay Lemon",
-      "url": "https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG"
+      "duration_ms": 148818,
+      "name": "Devil May Cry",
+      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1291,6 +1275,26 @@
       "duration_ms": 165714,
       "name": "SEMBREREMO DISTANTI",
       "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "LOVE?",
+        "url": "https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm"
+      },
+      "artists": [
+        {
+          "name": "Cloud\u00ec",
+          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
+        },
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Bombay Lemon",
+      "url": "https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1387,22 +1391,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Non Mi Passa",
-        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
-      },
-      "artists": [
-        {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
-        }
-      ],
-      "duration_ms": 136265,
-      "name": "Non Mi Passa",
-      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "setiva",
         "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
       },
@@ -1415,6 +1403,22 @@
       "duration_ms": 137137,
       "name": "setiva",
       "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "Non Mi Passa",
+        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "duration_ms": 136265,
+      "name": "Non Mi Passa",
+      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1535,22 +1539,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Marie 3 (Principessa Paranoia)",
-        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
-      },
-      "artists": [
-        {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Marie 3 - Principessa Paranoia",
-      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "Credimi ancora",
         "url": "https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB"
       },
@@ -1567,6 +1555,22 @@
       "duration_ms": 215283,
       "name": "Credimi ancora",
       "url": "https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "Marie 3 (Principessa Paranoia)",
+        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Marie 3 - Principessa Paranoia",
+      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
     },
     {
       "added_at": "2024-01-11 16:17:43",
@@ -1691,26 +1695,6 @@
     {
       "added_at": "2024-01-11 16:17:43",
       "album": {
-        "name": "Demonio",
-        "url": "https://open.spotify.com/album/2FHdSgPhLBJVaXWqMOK1dT"
-      },
-      "artists": [
-        {
-          "name": "Enea",
-          "url": "https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj"
-        },
-        {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Demonio",
-      "url": "https://open.spotify.com/track/4ggaABHfPX3ZgH7stluAAo"
-    },
-    {
-      "added_at": "2024-01-11 16:17:43",
-      "album": {
         "name": "sai che...",
         "url": "https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b"
       },
@@ -1727,6 +1711,26 @@
       "duration_ms": 160434,
       "name": "sai che...",
       "url": "https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH"
+    },
+    {
+      "added_at": "2024-01-11 16:17:43",
+      "album": {
+        "name": "Demonio",
+        "url": "https://open.spotify.com/album/2FHdSgPhLBJVaXWqMOK1dT"
+      },
+      "artists": [
+        {
+          "name": "Enea",
+          "url": "https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj"
+        },
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Demonio",
+      "url": "https://open.spotify.com/track/4ggaABHfPX3ZgH7stluAAo"
     },
     {
       "added_at": "2024-01-11 16:17:43",

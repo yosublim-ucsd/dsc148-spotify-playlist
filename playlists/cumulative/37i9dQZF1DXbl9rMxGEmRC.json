@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 269453,
       "name": "Anima",
       "url": "https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq"
@@ -2156,6 +2156,28 @@
       "duration_ms": 369499,
       "name": "Dead To You",
       "url": "https://open.spotify.com/track/3FE9t4BzzOGYduUXVdfSxJ"
+    },
+    {
+      "album": {
+        "name": "Death Cult",
+        "url": "https://open.spotify.com/album/62D0IksCdSnviilNJpWtws"
+      },
+      "artists": [
+        {
+          "name": "Aborted",
+          "url": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR"
+        },
+        {
+          "name": "Despised Icon",
+          "url": "https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220474,
+      "name": "Death Cult",
+      "url": "https://open.spotify.com/track/1CN2mzJBqxVgPVRlzcxrhZ"
     },
     {
       "album": {
@@ -6534,7 +6556,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 333000,
       "name": "Out of the Light",
       "url": "https://open.spotify.com/track/4qZ0AWdxYwtQj8rSLBbDjY"
@@ -7634,6 +7656,24 @@
       "duration_ms": 397706,
       "name": "Seeds Of The Ancient Gods",
       "url": "https://open.spotify.com/track/1r9HG7xOQ2D51jYXuLWfwN"
+    },
+    {
+      "album": {
+        "name": "Seeking To Pierce",
+        "url": "https://open.spotify.com/album/7sG0xaqhk1fjO7ZWbOJWYE"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Throne",
+          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253787,
+      "name": "Seeking To Pierce",
+      "url": "https://open.spotify.com/track/33LU20qyNQHxAEs9zkhimp"
     },
     {
       "album": {

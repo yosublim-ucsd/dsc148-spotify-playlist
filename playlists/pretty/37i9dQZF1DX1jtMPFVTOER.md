@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,957 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,997 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 98 | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Bran Movay](https://open.spotify.com/artist/6qOnVqczf3XJzyy3eQazOu) | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD) | 2:49 |
 | 99 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCwwMzZkZDRmN2Y2ZDQ2YWQzMGFkZmFjNDZiYzM0NGIxZWNiM2NjOTc2`
+Snapshot ID: `MCxiZjM4NDQxZjQ4YjBiNmIwYTNjNjI0NjA1MzcwMzhlNjMzYWViMDhm`

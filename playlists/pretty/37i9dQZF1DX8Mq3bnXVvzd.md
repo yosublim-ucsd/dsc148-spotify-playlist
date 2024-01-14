@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > Blood runs in the family\. Listen to the music from and inspired by The Brothers Sun, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,834 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,276 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [First Cut is the Deepest \(from the Netflix series "The Brothers Sun"\)](https://open.spotify.com/track/2HxkSJeRaMKQ5mW4byIcnS) | [Bo Wang](https://open.spotify.com/artist/11kktLrzNLh4b8Py1NWC0K) | [First Cut is the Deepest \(from the Netflix series "The Brothers Sun"\)](https://open.spotify.com/album/3fPxTIF0RypVhhY0sifq8t) | 3:02 |
+| 1 | [First Cut is the Deepest \(from the Netflix series "The Brothers Sun"\)](https://open.spotify.com/track/2HxkSJeRaMKQ5mW4byIcnS) | [Bo Wang](https://open.spotify.com/artist/7dn2V74dmnlB4GtFt0BCoZ) | [First Cut is the Deepest \(from the Netflix series "The Brothers Sun"\)](https://open.spotify.com/album/3fPxTIF0RypVhhY0sifq8t) | 3:02 |
 | 2 | [I Can Dream, Can't I](https://open.spotify.com/track/7ckAm7iXyr54TX9kp3iseG) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Late Date With Ruth Brown](https://open.spotify.com/album/37bzCumGcvE7Tw9EYylulN) | 2:37 |
 | 3 | [Go Up](https://open.spotify.com/track/6uCXLIt9GrSMKMxBMi1PY0) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq) | [Go Up](https://open.spotify.com/album/3c5mlioxvBca2UlUHu1CAj) | 2:24 |
 | 4 | [New House](https://open.spotify.com/track/26I5ccX6wQKwCdrfDykIif) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 2:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 84 | [Dragon Queen](https://open.spotify.com/track/2AbwN6pn80Q15HXFmyQFBC) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 1:05 |
 | 85 | [The Brothers Sun Theme](https://open.spotify.com/track/52J5I49col4MOn9AQsBl3Y) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 1:03 |
 
-Snapshot ID: `MCw5NmY4ODllMzQzZjgzMjI5OTA2MDA1ZjM2ZTlhODNmNWE0NjkxNDIy`
+Snapshot ID: `MCwzYTI3ZGRlODhkODU1MmFmNDE1ZjI3ZWQ3Nzk1ZmQyZGI5MGNlYTU5`

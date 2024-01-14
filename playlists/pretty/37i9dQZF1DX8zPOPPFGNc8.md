@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="http://tbhits.com/">Tommy Brown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,556 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,585 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 | 43 | [Bam Bam](https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:10 |
 | 44 | [1+1](https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:33 |
 | 45 | [Back To Life](https://open.spotify.com/track/7fis60AUmZQI3maiU08Whd) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:39 |
-| 46 | [Sucky Ducky](https://open.spotify.com/track/2JDb4hjA4JK4PoI47Ra492) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Planet Reggae](https://open.spotify.com/album/635rqHGKQs1naHN7W0uLB5) | 2:58 |
-| 47 | [Bashment Time \(feat\. Mr\. Easy\)](https://open.spotify.com/track/0D9VHACaA1aaW6mf03qqD8) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7), [Mr\. Easy](https://open.spotify.com/artist/58e5hDoKHUV6rI8rDtr9a2) | [Finally](https://open.spotify.com/album/6HJ0FiBSHswlkAQkFGj6rD) | 3:11 |
+| 46 | [Bashment Time \(feat\. Mr\. Easy\)](https://open.spotify.com/track/0D9VHACaA1aaW6mf03qqD8) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7), [Mr\. Easy](https://open.spotify.com/artist/58e5hDoKHUV6rI8rDtr9a2) | [Finally](https://open.spotify.com/album/6HJ0FiBSHswlkAQkFGj6rD) | 3:11 |
+| 47 | [Sucky Ducky](https://open.spotify.com/track/2JDb4hjA4JK4PoI47Ra492) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Planet Reggae](https://open.spotify.com/album/635rqHGKQs1naHN7W0uLB5) | 2:58 |
 | 48 | [Who I Am](https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:19 |
 | 49 | [Fade](https://open.spotify.com/track/3cCxoOgfi6hgt8MNteuiiD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:13 |
 | 50 | [Blood On The Leaves](https://open.spotify.com/track/42GcjriRK6srwHkfbkBqVl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 5:59 |
 
-Snapshot ID: `MCwzODA1NDBmNzUyMjBjMjczYzE1YjdjNjliOTU0Yzg5ZGY0NWNhZmM4`
+Snapshot ID: `MCw2OWY1Y2Y2OTkzNjkxZGJkNjJkYWIwNTkxNWIzZGQwMDZjMjEyMzZh`

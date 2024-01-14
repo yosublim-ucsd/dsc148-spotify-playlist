@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 77346,
+  "num_followers": 77344,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTM5ZjY2NjRmYTcyMzFkYjM5NTg3ZmZhN2Y0YTdlZDUxZmY4NjAy",
+  "snapshot_id": "MCwwZTgwOTkyMThmMmJjZmE0NTQ0YjQwYzFmODQwNjMyNTk4YmE2MWRm",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Essential John P. Kee",
-        "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
-      },
-      "artists": [
-        {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        }
-      ],
-      "duration_ms": 326493,
-      "name": "I Do Worship (feat. John P. Kee) - Live",
-      "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Setlist: The Very Best Of Kirk Franklin Live",
         "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
       },
@@ -451,22 +431,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Blessed By Association",
-        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
+        "name": "The Essential John P. Kee",
+        "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
       },
       "artists": [
         {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        },
-        {
           "name": "The New Life Community Choir",
           "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
         }
       ],
-      "duration_ms": 292466,
-      "name": "I Won't Let Go - Live",
-      "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
+      "duration_ms": 326493,
+      "name": "I Do Worship (feat. John P. Kee) - Live",
+      "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -491,6 +471,26 @@
       "duration_ms": 402826,
       "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
       "url": "https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Blessed By Association",
+        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "I Won't Let Go - Live",
+      "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Your Great Name (Live) - Single",
-        "url": "https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Your Great Name (Live)",
-      "url": "https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Setlist: The Very Best Of Kirk Franklin Live",
         "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 412200,
       "name": "Now Behold the Lamb - Live",
       "url": "https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Your Great Name (Live) - Single",
+        "url": "https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Your Great Name (Live)",
+      "url": "https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -687,22 +687,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
-        "url": "https://open.spotify.com/album/1th2131XTDQCahpTXc0ZxU"
+        "name": "Setlist Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        },
-        {
-          "name": "Nicole Harris",
-          "url": "https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 228791,
-      "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
-      "url": "https://open.spotify.com/track/1Y0XTbnb53whT7mOkx2TNf"
+      "duration_ms": 338894,
+      "name": "Intentional - Live",
+      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -723,18 +719,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Setlist Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
+        "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+        "url": "https://open.spotify.com/album/1th2131XTDQCahpTXc0ZxU"
       },
       "artists": [
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Nicole Harris",
+          "url": "https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8"
         }
       ],
-      "duration_ms": 338894,
-      "name": "Intentional - Live",
-      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
+      "duration_ms": 228791,
+      "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+      "url": "https://open.spotify.com/track/1Y0XTbnb53whT7mOkx2TNf"
     },
     {
       "added_at": "2023-02-18 05:28:04",

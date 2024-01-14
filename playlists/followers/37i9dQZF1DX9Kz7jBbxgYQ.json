@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 139335,
+  "2024-01-14": 139511,
   "date_first_scraped": "2022-05-30",
   "description": "Home to the best of South Asian Indie scene. Cover: AUR\n",
   "name": "Desi Indie",
@@ -642,6 +642,32 @@
     },
     {
       "album": {
+        "name": "Bhaagoon",
+        "url": "https://open.spotify.com/album/3vPIQjEt5lDTSgS6vRTFuV"
+      },
+      "artists": [
+        {
+          "name": "Natasha Baig",
+          "url": "https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8"
+        },
+        {
+          "name": "Bilal Ali",
+          "url": "https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX"
+        },
+        {
+          "name": "Sinnan Fazwani",
+          "url": "https://open.spotify.com/artist/3gAgVxm4l9CwpWtTI0NF52"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "Bhaagoon",
+      "url": "https://open.spotify.com/track/0XZNiP6VU0e9Orm1Lzc7cr"
+    },
+    {
+      "album": {
         "name": "Bikhra",
         "url": "https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn"
       },
@@ -661,6 +687,28 @@
       "duration_ms": 168300,
       "name": "Bikhra",
       "url": "https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X"
+    },
+    {
+      "album": {
+        "name": "Bindiya",
+        "url": "https://open.spotify.com/album/6Cpn0R0rBad5JwXnr2AFFi"
+      },
+      "artists": [
+        {
+          "name": "Ali Pirzada",
+          "url": "https://open.spotify.com/artist/3hbVRwKqgrKHjWQNMex0vG"
+        },
+        {
+          "name": "Rakae Jamil",
+          "url": "https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Bindiya",
+      "url": "https://open.spotify.com/track/5xXOeKjYM1bXMkxtZRimAc"
     },
     {
       "album": {
@@ -745,6 +793,28 @@
       "duration_ms": 219280,
       "name": "Chad Gayi",
       "url": "https://open.spotify.com/track/4YLD5sgxNXXhDrb0Jltp01"
+    },
+    {
+      "album": {
+        "name": "Cham Cham",
+        "url": "https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx"
+      },
+      "artists": [
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        },
+        {
+          "name": "Kumail Abbas",
+          "url": "https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226365,
+      "name": "Cham Cham",
+      "url": "https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw"
     },
     {
       "album": {
@@ -2010,6 +2080,24 @@
     },
     {
       "album": {
+        "name": "Ishq Ibaadat",
+        "url": "https://open.spotify.com/album/04hYdVboRgH9BmmS7gvqnC"
+      },
+      "artists": [
+        {
+          "name": "Ali Tariq",
+          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161773,
+      "name": "Ishq Ibaadat",
+      "url": "https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp"
+    },
+    {
+      "album": {
         "name": "It'll Be Alright",
         "url": "https://open.spotify.com/album/6ey6At5pDT8X1fIaSaIbsf"
       },
@@ -2203,6 +2291,24 @@
       "duration_ms": 189357,
       "name": "Joona",
       "url": "https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs"
+    },
+    {
+      "album": {
+        "name": "Jurmana",
+        "url": "https://open.spotify.com/album/1LaWqK7YRtxm9ecqEne6Fj"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Jurmana",
+      "url": "https://open.spotify.com/track/76pWGIqdI2d7X4MmoUT4L5"
     },
     {
       "album": {
@@ -2609,7 +2715,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 154434,
       "name": "KTMBK",
       "url": "https://open.spotify.com/track/4R8VBRb5nKbEfi1EIA2B7p"

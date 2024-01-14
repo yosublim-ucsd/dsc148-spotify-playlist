@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 254,
+  "2024-01-14": 254,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5iBiIuZrYOSsUgC0CpwOx3\">Secret Code</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Secret Code",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 218826,
       "name": "Casi Nada",
       "url": "https://open.spotify.com/track/7p7erLN6ursMA8uvWiXj7Z"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 222680,
       "name": "Casi Nada",
       "url": "https://open.spotify.com/track/49KyJxswNergseDQZIiK1V"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 237269,
       "name": "La Temperatura",
       "url": "https://open.spotify.com/track/7zUMeJ7wp2RZkwPYiNocZJ"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 224786,
       "name": "La Temperatura (feat. Eli Palacios)",
       "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"

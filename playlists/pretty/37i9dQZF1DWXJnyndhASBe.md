@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Szpaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,726 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,736 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plaster](https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [CERBER EP](https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU) | 2:35 |
-| 2 | [Miyabi](https://open.spotify.com/track/2GgLLdsRjbiAtN5nfm7i7i) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:00 |
+| 2 | [Miyabi](https://open.spotify.com/track/2lCNJCCu7eiBeGVu9AevkW) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5RXFK1MabLZM3SEGlidoqs) | 3:00 |
 | 3 | [Kevin sam w domu](https://open.spotify.com/track/0DhKkQjcrOXLBr9eCtocfc) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Venom Valentino](https://open.spotify.com/artist/4QqbTDfK1yAeJuNaPTivXy), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [Kevin sam w domu](https://open.spotify.com/album/6oUD84BY3ycUXnlfqSnj27) | 2:51 |
 | 4 | [NIENAWIDZĘ WARSZAWY!](https://open.spotify.com/track/0JvlaGyGok0jMp8wCQhI9p) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [NIENAWIDZĘ WARSZAWY!](https://open.spotify.com/album/48f7zFPrWZT3Iaku5XQWIH) | 2:22 |
 | 5 | [Niebezpiecznie](https://open.spotify.com/track/3wx8tIIDVJZRLN85B4TNxa) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Szamz](https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE) | [Niebezpiecznie](https://open.spotify.com/album/69P4WKZ24Dibry7bhdpT5D) | 2:34 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 26 | [Czarna Perła](https://open.spotify.com/track/2KEEXp9tP8rA5gcVJlbAtI) | [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [Czarna Perła](https://open.spotify.com/album/4yL9yrzZHVkIro6o4evAYs) | 3:03 |
 | 27 | [Cringowy Lovesong](https://open.spotify.com/track/4RglJQMuFuC06tiqN5rRU0) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Cringowy Lovesong](https://open.spotify.com/album/1fkoUozkkQHFSp3lvvpYvh) | 3:09 |
 | 28 | [Mam Cię](https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Poly](https://open.spotify.com/artist/0UyJNcG74XhDLo1cPXXFeO) | [Mam Cię](https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V) | 2:21 |
-| 29 | [Nicea](https://open.spotify.com/track/49pLSmIFXk7rTfWcQ2Bvh7) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:37 |
+| 29 | [Nicea](https://open.spotify.com/track/4GoDN5dPdSQbAOwTt1y9F3) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5RXFK1MabLZM3SEGlidoqs) | 3:37 |
 | 30 | [Samotność](https://open.spotify.com/track/6QBtD08lrQIOQqc7teDrY8) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Samotność](https://open.spotify.com/album/4hwkvB5RdaCAITCoaNZz1z) | 3:09 |
 | 31 | [co by się nie działo](https://open.spotify.com/track/0WTvAeSKmSE7SE73u40OLG) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [co by się nie działo](https://open.spotify.com/album/1KyewsVbz0uYBY4SMEu5Tt) | 3:19 |
 | 32 | [Spaceship](https://open.spotify.com/track/65mX5QJ1158toYcgZy6L1P) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Spaceship](https://open.spotify.com/album/41Ay57QacWWC33mFq4mUWi) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [JEREMY SOCHAN](https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [JEREMY SOCHAN](https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw) | 2:25 |
 | 50 | [noWy baTmAN](https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [noWy baTmAN](https://open.spotify.com/album/5IjxyKPttlngllJPFmfSeE) | 2:49 |
 
-Snapshot ID: `MCxjMjkxYTNkODNhNmMyNjU1ZmM2MGM5YzdkMWVhZTMwNTllMGM5NzI5`
+Snapshot ID: `MCwyNzVkYTZkZjcyZmFkZTAyNWFiMzU3MTdmODBiM2YxODBiNWY2ZWJk`

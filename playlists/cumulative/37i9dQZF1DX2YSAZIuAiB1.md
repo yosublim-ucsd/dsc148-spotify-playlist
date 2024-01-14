@@ -4,7 +4,7 @@
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-186 songs - 9 hr 8 min
+187 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2023-12-11 |  |
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-11-17 | 2023-12-12 |
 | [No One Else \(feat\. Fridayy\)](https://open.spotify.com/track/6PpJ215wBUqB31xLLWKq66) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [11:11](https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL) | 3:43 | 2023-11-17 | 2023-12-12 |
-| [Noch einmal](https://open.spotify.com/track/2DynufiRAu0Nyn5TM1Cdpx) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Noch einmal](https://open.spotify.com/album/6aZQMijJZ50b7rxUNINjd6) | 2:26 | 2023-10-18 |  |
+| [Noch einmal](https://open.spotify.com/track/26ZTc7aKnYHgNpaAXVueMb) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [NINETYNINE](https://open.spotify.com/album/6j4H7Z52aDxJMjaog31UDE) | 2:26 | 2024-01-03 |  |
+| [Noch einmal](https://open.spotify.com/track/2DynufiRAu0Nyn5TM1Cdpx) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Noch einmal](https://open.spotify.com/album/6aZQMijJZ50b7rxUNINjd6) | 2:26 | 2023-10-18 | 2024-01-14 |
 | [Normal](https://open.spotify.com/track/3pyZgbg3uC8NlBQ3E81zlb) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Normal](https://open.spotify.com/album/2qwtH3Q4KzAKoCxwX9fgml) | 2:46 | 2023-07-26 | 2023-09-09 |
 | [Normal ist](https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Normal ist](https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1) | 1:41 | 2023-07-26 | 2023-12-12 |
 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 | 2023-11-17 |  |

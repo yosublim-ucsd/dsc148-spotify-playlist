@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Delfina Campos.
 
-225 songs - 13 hr 33 min
+226 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 | 2023-10-07 |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 | 2023-10-07 |
 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-04-07 | 2023-10-07 |
-| [En Otra](https://open.spotify.com/track/180zgaUXPmRC4e58bfxLLQ) | [El Cofla](https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk) | [En Otra](https://open.spotify.com/album/3DBDFatabl3bl9F1wd0HRC) | 2:11 | 2023-07-14 |  |
+| [En Otra](https://open.spotify.com/track/180zgaUXPmRC4e58bfxLLQ) | [El Cofla](https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk) | [En Otra](https://open.spotify.com/album/3DBDFatabl3bl9F1wd0HRC) | 2:11 | 2023-07-14 | 2024-01-14 |
 | [Enigma](https://open.spotify.com/track/35wEmFysg3dA4un1zBbvmh) | [Chala](https://open.spotify.com/artist/7GnPv7aXKmKqFSAjoJGHvW) | [Ninfas](https://open.spotify.com/album/3bRsYZ0Pcaoa7osqwItDGZ) | 3:05 | 2023-05-26 | 2023-06-26 |
 | [Enigma](https://open.spotify.com/track/3s9DwqX5OKIWoqynT0F1sn) | [Chala](https://open.spotify.com/artist/7GnPv7aXKmKqFSAjoJGHvW) | [Ninfas](https://open.spotify.com/album/4fPKA89F5TsuVepQZKhgvz) | 3:05 | 2023-10-06 | 2023-12-10 |
 | [es mejor](https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [es mejor](https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ) | 2:56 | 2023-03-17 | 2023-10-07 |
@@ -179,6 +179,7 @@
 | [Puedo Buscar](https://open.spotify.com/track/7lM2IOzav0PLGiCnfvN4hQ) | [Ringo Galperin](https://open.spotify.com/artist/7zaSn96HaddSuMkSIun9Q3) | [RINGO](https://open.spotify.com/album/0VeTiYO5g15QjPvJksVBJi) | 2:38 | 2023-06-16 | 2023-11-11 |
 | [pulso](https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [pulso/yotuoro](https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme) | 2:45 | 2023-03-17 | 2023-04-22 |
 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 | 2023-12-08 |  |
+| [pétalos](https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48) | [Yaima Cat](https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI), [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [pétalos](https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI) | 3:30 | 2024-01-12 |  |
 | [Que Nunca Pare](https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Que Nunca Pare](https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v) | 3:24 | 2023-11-10 |  |
 | [Quemándome al Sol](https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y) | [Axel Krygier](https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF) | [Quemándome al Sol](https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh) | 3:21 | 2023-03-17 | 2023-05-06 |
 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2023-03-17 | 2023-11-25 |

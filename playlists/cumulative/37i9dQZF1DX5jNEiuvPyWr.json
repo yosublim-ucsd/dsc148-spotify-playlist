@@ -2744,10 +2744,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 147986,
       "name": "J'connais",
       "url": "https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN"
+    },
+    {
+      "album": {
+        "name": "ALPHA (Parties 1&2)",
+        "url": "https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147986,
+      "name": "J'connais",
+      "url": "https://open.spotify.com/track/30XqjaNJxeglrqz79AQWwo"
     },
     {
       "album": {

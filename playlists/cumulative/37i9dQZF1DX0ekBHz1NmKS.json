@@ -4843,6 +4843,24 @@
     },
     {
       "album": {
+        "name": "Frenemy",
+        "url": "https://open.spotify.com/album/4nnLQ5qxI10HWd6cYuIBbt"
+      },
+      "artists": [
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155411,
+      "name": "Frenemy",
+      "url": "https://open.spotify.com/track/38fGD18era2pGm0GO82sSn"
+    },
+    {
+      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -9590,7 +9608,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 126891,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X"
@@ -10426,7 +10444,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 163200,
       "name": "N\u00e5n annans s\u00e4ng",
       "url": "https://open.spotify.com/track/4aVGpY7xdFsdESoPT2sP9H"
@@ -10528,7 +10546,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 178000,
       "name": "Ocean In Me",
       "url": "https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp"
@@ -14161,6 +14179,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4ger att andra \u00e4r d\u00e5rar",
+        "url": "https://open.spotify.com/album/61puoNqBbNWh1CMGePdFZd"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "S\u00e4ger att andra \u00e4r d\u00e5rar",
+      "url": "https://open.spotify.com/track/5eqV3qSaCJPqQ7zUtyOYAN"
+    },
+    {
+      "album": {
         "name": "Ta p\u00e5 mig",
         "url": "https://open.spotify.com/album/79TfkDuxlL9r42jGcj2AL4"
       },
@@ -15501,6 +15537,46 @@
     },
     {
       "album": {
+        "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
+        "url": "https://open.spotify.com/album/6tXvfkYROWTQMEogumpH6l"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195665,
+      "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
+      "url": "https://open.spotify.com/track/2g8XBeoofozyEskURWikFb"
+    },
+    {
+      "album": {
+        "name": "Vakna (Wake Me Up)",
+        "url": "https://open.spotify.com/album/5PSqlOEp3NoiHCGExXg963"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        },
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230608,
+      "name": "Vakna (Wake Me Up)",
+      "url": "https://open.spotify.com/track/1tv2VdXemEiW1wmQmS8lOZ"
+    },
+    {
+      "album": {
         "name": "Valborg - Spotify Singles",
         "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
       },
@@ -16546,7 +16622,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 221489,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"

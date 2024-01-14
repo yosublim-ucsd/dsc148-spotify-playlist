@@ -2,7 +2,7 @@
 
 ### [PURO SUCO DE VERÃO](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> silêncio a queen está falando!! se Joelma falou vc por favor não desobedeça!!
+> aqui tem tacacá hot dog com purê feijoada pizza com ketchup cuscuz e mto mais espero que goste
 
 212 songs - 9 hr 58 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: Good Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,144 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,142 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 19 | [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 |
 | 20 | [Static On The Radio](https://open.spotify.com/track/4acv26AvU3NmZLZDu9Q4uz) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS), [GAGNE](https://open.spotify.com/artist/2DxTjfUxpOfKs1uWCRzIMu) | [Static On The Radio](https://open.spotify.com/album/7Lf8JVgsnvE36Q4rgrHbKJ) | 2:54 |
 | 21 | [the mom song](https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [the mom song](https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI) | 2:32 |
-| 22 | [luvsick \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [luvsick \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
+| 22 | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
 | 23 | [blame \(feat\. Valley\)](https://open.spotify.com/track/3oaUVz98IlIICzuxLyUvyG) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Maine \(deluxe\)](https://open.spotify.com/album/2U5AQJj6WHdMYMuLWDun6q) | 3:10 |
 | 24 | [Should We](https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Should We](https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA) | 2:33 |
 | 25 | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Pale As Rain](https://open.spotify.com/track/75OQq4ClNxSlLPLrzRpCnj) | [Le Trouble](https://open.spotify.com/artist/06VIKb27bR2kPbSitSxI9S), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Excess Baggage](https://open.spotify.com/album/5uz4OGwi4GfpTCRK7Wfdtr) | 3:21 |
 | 100 | [get it together !](https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 2:43 |
 
-Snapshot ID: `MCwzY2Q1NjdiODM5ZGJmMzA0ODk0OTBiYTBmMTZlNmU1YzRmMDk3OGU3`
+Snapshot ID: `MCwzYTU5MWE1YzZkNGE5ZGVhNDkyZjc3ZmE2MzlhNjg3NjY0ODlmMmMw`

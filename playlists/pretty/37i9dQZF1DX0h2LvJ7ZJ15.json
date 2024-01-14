@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1163455,
+  "num_followers": 1164999,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDA3NzEwZDUzMzFmNjhhZTNiZTkwZWNjZDZlOTBiNGI5NjVmM2I2",
+  "snapshot_id": "MCxmZTMzMDlkZmQ2ZTY3ZDc3NWYxNjYxYjI5ZjY3NjU4MWRmYjVhMDVh",
   "tracks": [
     {
       "added_at": "2024-01-05 17:40:54",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
+        "name": "Call Me (Slowed)",
+        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Call Me - Slowed",
+      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
         "name": "LOVELY BASTARDS (Slowed)",
         "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 152674,
       "name": "LOVELY BASTARDS - Slowed",
       "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
-        "name": "Call Me (Slowed)",
-        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
-      },
-      "artists": [
-        {
-          "name": "plenka",
-          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Call Me - Slowed",
-      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "New Home (Slowed)",
-        "url": "https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq"
-      },
-      "artists": [
-        {
-          "name": "Austin Farwell",
-          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "New Home (Slowed)",
-      "url": "https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
         "name": "sex money feelings die (slowed version)",
         "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 143769,
       "name": "Close Eyes - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
+        "name": "New Home (Slowed)",
+        "url": "https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq"
+      },
+      "artists": [
+        {
+          "name": "Austin Farwell",
+          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "New Home (Slowed)",
+      "url": "https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "Daylight (Reimagined)",
-        "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Daylight - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/0hy0avC3ZHXuSmob8ymMXD"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
         "name": "Flare (Remixes)",
         "url": "https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
+        "name": "Daylight (Reimagined)",
+        "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Daylight - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/0hy0avC3ZHXuSmob8ymMXD"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
         "name": "Never Let Go (Of Me) [Heist Edit]",
         "url": "https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 94028,
       "name": "Never Let Go (Of Me) - Slowed",
       "url": "https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
-        "name": "drowning (remixes)",
-        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
-      },
-      "artists": [
-        {
-          "name": "Vague003",
-          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
-        }
-      ],
-      "duration_ms": 132576,
-      "name": "drowning (slowed + reverb)",
-      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -563,6 +547,38 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
+        "name": "NO GOING BACK",
+        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "BAIXO - slowed",
+      "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
+        "name": "drowning (remixes)",
+        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
+      },
+      "artists": [
+        {
+          "name": "Vague003",
+          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
+        }
+      ],
+      "duration_ms": 132576,
+      "name": "drowning (slowed + reverb)",
+      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
         "name": "Memory Reboot",
         "url": "https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 236307,
       "name": "Memory Reboot - Slowed",
       "url": "https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
-        "name": "NO GOING BACK",
-        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "BAIXO - slowed",
-      "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "prolly my spookiest beat (slowed + reverb)",
-        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
-      },
-      "artists": [
-        {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "prolly my spookiest beat (slowed + reverb)",
-      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
         "name": "Sahara (Slowed)",
         "url": "https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 214894,
       "name": "Sahara - Slowed",
       "url": "https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
+        "name": "prolly my spookiest beat (slowed + reverb)",
+        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
+      },
+      "artists": [
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "prolly my spookiest beat (slowed + reverb)",
+      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
     },
     {
       "added_at": "2024-01-05 17:40:54",

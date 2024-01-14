@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 19 min
+56 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Talk](https://open.spotify.com/track/1SMfme1fHq7eWc5mH1Mvj2) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [All Talk](https://open.spotify.com/album/3kHWyrNZeswPGLAoGsSS5A) | 4:16 | 2024-01-03 |  |
 | [B2TF \(feat\. JC Stormz\)](https://open.spotify.com/track/7bp6FEBpMRPS3Iak0hjA8c) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [B2TF \(feat\. JC Stormz\)](https://open.spotify.com/album/4952qWUyIqIZopeUc9MK2p) | 3:50 | 2024-01-03 |  |
 | [Bad Girl](https://open.spotify.com/track/4V56SK5ufak6TjpNq2kfpr) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [Bad Girl](https://open.spotify.com/album/2k9kQzygXAZ2R5g021gAqw) | 3:02 | 2024-01-03 |  |
+| [Badd](https://open.spotify.com/track/1Pfbotjg9CDpq5GlJykKVW) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 4:07 | 2024-01-13 |  |
 | [Caldera](https://open.spotify.com/track/0T1P5ngGzqMhLWV6gRevha) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Caldera](https://open.spotify.com/album/5881VqXsgmHR7Ib16nzl9b) | 3:10 | 2024-01-03 |  |
 | [Chai Tea](https://open.spotify.com/track/7BCIfos9MNom10BdK2domq) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:48 | 2024-01-04 |  |
 | [Dance Again](https://open.spotify.com/track/3xnqyNhS24WPwuGg5Ktjn2) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:41 | 2024-01-03 |  |
@@ -46,7 +47,7 @@
 | [Ohh](https://open.spotify.com/track/7oiS5Rx9iAmdFNsIoo6Oeh) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Alien](https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa) | 3:50 | 2024-01-03 |  |
 | [On Time](https://open.spotify.com/track/39c7seNRijZVUBqXVDtJ42) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cataclysm](https://open.spotify.com/album/7zohwMTAFoqBaVhM7ll8h3) | 3:02 | 2024-01-03 |  |
 | [Outta Nothing](https://open.spotify.com/track/1CNKVBJdbQEVRWoUmpzrWX) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Workshop](https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC) | 3:18 | 2024-01-03 |  |
-| [Play It](https://open.spotify.com/track/6Mb4HGtEwowwZ3aFDK2s9y) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Play It](https://open.spotify.com/album/1lbSa349DdXHGneMapw1cg) | 2:33 | 2024-01-03 |  |
+| [Play It](https://open.spotify.com/track/6Mb4HGtEwowwZ3aFDK2s9y) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Play It](https://open.spotify.com/album/1lbSa349DdXHGneMapw1cg) | 2:33 | 2024-01-03 | 2024-01-14 |
 | [Ponder](https://open.spotify.com/track/2aPkC8UGlOtEcYTl0aGyt8) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cataclysm](https://open.spotify.com/album/7zohwMTAFoqBaVhM7ll8h3) | 2:30 | 2024-01-03 |  |
 | [Pretty Deep](https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:18 | 2024-01-03 |  |
 | [Problem](https://open.spotify.com/track/4E9enYOmhzIld9ezlik57W) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Problem](https://open.spotify.com/album/4SU1oWWE8KK62aRXiitiG6) | 3:50 | 2024-01-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits \| 2023 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Disco Lines, J\. Worra, Anabel Englund
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 109,133 likes - 131 songs - 6 hr 43 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 108,487 likes - 131 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

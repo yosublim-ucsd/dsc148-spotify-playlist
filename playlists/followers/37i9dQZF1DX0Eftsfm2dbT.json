@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 129440,
+  "2024-01-14": 129463,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: eyden",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -5578,6 +5578,28 @@
     },
     {
       "album": {
+        "name": "NOROSHI",
+        "url": "https://open.spotify.com/album/5J8YRNZtbS0rwbgDPQDisb"
+      },
+      "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212282,
+      "name": "NOROSHI",
+      "url": "https://open.spotify.com/track/4VWZnh8PCzPPaAK64I6ygG"
+    },
+    {
+      "album": {
         "name": "Oboresounahodo",
         "url": "https://open.spotify.com/album/4sRDMulpWKhmUd0B5YgI6w"
       },
@@ -6967,6 +6989,24 @@
       "duration_ms": 142595,
       "name": "Sole to Soul",
       "url": "https://open.spotify.com/track/72UTUM9CT7NfBeSFKkOjwx"
+    },
+    {
+      "album": {
+        "name": "coronas",
+        "url": "https://open.spotify.com/album/6yFXsaY1bfjicCkIRR9HmL"
+      },
+      "artists": [
+        {
+          "name": "dodo",
+          "url": "https://open.spotify.com/artist/1YwZlTKyH1RiGnCDb8O7TT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246149,
+      "name": "sotugyo",
+      "url": "https://open.spotify.com/track/48P74YCntZEF0c2FSKlzx3"
     },
     {
       "album": {

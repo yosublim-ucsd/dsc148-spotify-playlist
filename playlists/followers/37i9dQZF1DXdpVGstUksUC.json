@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 538907,
+  "2024-01-14": 538838,
   "date_first_scraped": "2021-12-21",
   "description": "riff-heavy, fuzzed-out numbers. ",
   "name": "Stoner Rock",
@@ -2257,6 +2257,24 @@
     {
       "album": {
         "name": "Tame Impala",
+        "url": "https://open.spotify.com/album/78FAAvXmfdj0VKUuUEYeoV"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266626,
+      "name": "Half Full Glass Of Wine",
+      "url": "https://open.spotify.com/track/4t6vrJg7GcUELCAxHX1z5W"
+    },
+    {
+      "album": {
+        "name": "Tame Impala",
         "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
       },
       "artists": [
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 266920,
       "name": "Half Full Glass Of Wine",
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"

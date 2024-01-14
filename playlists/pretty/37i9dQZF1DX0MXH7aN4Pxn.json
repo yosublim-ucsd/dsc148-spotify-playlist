@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 681124,
+  "num_followers": 680295,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDVhNjQzMDI3OTAyNjNjNGY0MWRjMDNkOWY3MzUxNzAzYzVjMTUy",
+  "snapshot_id": "MCw4Y2RmNmUxYWU1NDgwODZhYWQ3Y2RiNDdiNmRhZjI1MzRlZGVmZmJl",
   "tracks": [
     {
       "added_at": "2024-01-12 13:41:04",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-01-12 13:41:04",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 161658,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
+    },
+    {
+      "added_at": "2024-01-12 13:41:04",
+      "album": {
         "name": "Rhymes",
         "url": "https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 200005,
       "name": "Rhymes",
       "url": "https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p"
-    },
-    {
-      "added_at": "2024-01-12 13:41:04",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 161658,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
     },
     {
       "added_at": "2024-01-12 13:41:04",
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-01-12 13:41:04",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 154083,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
+    },
+    {
+      "added_at": "2024-01-12 13:41:04",
+      "album": {
         "name": "Against The Wall",
         "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
       },
@@ -847,6 +867,26 @@
       "duration_ms": 205061,
       "name": "Against The Wall",
       "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
+    },
+    {
+      "added_at": "2024-01-12 13:41:04",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2024-01-12 13:41:04",
@@ -871,26 +911,6 @@
       "duration_ms": 205773,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz"
-    },
-    {
-      "added_at": "2024-01-12 13:41:04",
-      "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2024-01-12 13:41:04",
@@ -1135,6 +1155,22 @@
     {
       "added_at": "2024-01-12 13:41:04",
       "album": {
+        "name": "Every Little Time",
+        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Every Little Time",
+      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
+    },
+    {
+      "added_at": "2024-01-12 13:41:04",
+      "album": {
         "name": "Piece Of Me",
         "url": "https://open.spotify.com/album/7upcRDTY9YCYtAxuZkpJa2"
       },
@@ -1151,22 +1187,6 @@
       "duration_ms": 187510,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/5xCKDXzh2JPFFcyHr39ROH"
-    },
-    {
-      "added_at": "2024-01-12 13:41:04",
-      "album": {
-        "name": "Every Little Time",
-        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
-      },
-      "artists": [
-        {
-          "name": "Matt Guy",
-          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Every Little Time",
-      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
     },
     {
       "added_at": "2024-01-12 13:41:04",
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2024-01-12 13:41:04",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 163957,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
-    },
-    {
-      "added_at": "2024-01-12 13:41:04",
-      "album": {
         "name": "Outta My Head",
         "url": "https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA"
       },
@@ -1439,6 +1439,26 @@
       "duration_ms": 158692,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t"
+    },
+    {
+      "added_at": "2024-01-12 13:41:04",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 163957,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
     },
     {
       "added_at": "2024-01-12 13:41:04",
@@ -1499,26 +1519,6 @@
     {
       "added_at": "2024-01-12 13:41:04",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/2bJ75kaDgkRHnPAfLDaz6n"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Queen Millz",
-          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
-        }
-      ],
-      "duration_ms": 162844,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/0S3b1jhjbkaeg3QYmfObXz"
-    },
-    {
-      "added_at": "2024-01-12 13:41:04",
-      "album": {
         "name": "Tic Tacs (JAKKOB Remix)",
         "url": "https://open.spotify.com/album/3667AW7fmvUul08gOsR0L7"
       },
@@ -1539,6 +1539,26 @@
       "duration_ms": 179076,
       "name": "Tic Tacs - JAKKOB Remix",
       "url": "https://open.spotify.com/track/1THLb2bASzBj3HNpeW4QwG"
+    },
+    {
+      "added_at": "2024-01-12 13:41:04",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/2bJ75kaDgkRHnPAfLDaz6n"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Queen Millz",
+          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+        }
+      ],
+      "duration_ms": 162844,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/0S3b1jhjbkaeg3QYmfObXz"
     },
     {
       "added_at": "2024-01-12 13:41:04",
@@ -1911,22 +1931,6 @@
       "duration_ms": 224390,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6FYiUGWk4P8mDKUCj5m7ID"
-    },
-    {
-      "added_at": "2024-01-12 13:41:04",
-      "album": {
-        "name": "Can't You See",
-        "url": "https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "Can't You See - Radio Edit",
-      "url": "https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF"
     }
   ],
   "unique_name": "PARTY MODE",

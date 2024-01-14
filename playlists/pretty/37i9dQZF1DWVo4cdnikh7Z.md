@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Captain Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,133 likes - 82 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,174 likes - 82 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Killer Killer \(From "Captain Miller"\) \(Tamil\)](https://open.spotify.com/track/2aFg2jORQAQwny1oIivRun) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Killer Killer \(From "Captain Miller"\) \(Tamil\)](https://open.spotify.com/album/07EqQR1SJqHexUWW3UPDfX) | 3:40 |
 | 2 | [Suro Suro](https://open.spotify.com/track/2cWZSy1oeDB4F1QYRKjMg9) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Ayalaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LaGxMvMmaBHrXGN43v6J2) | 3:52 |
-| 3 | [Rise of Miller \(From "Captain Miller"\) \(Tamil\)](https://open.spotify.com/track/2TO1HlIw1DVqkqoH3rejNF) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Rise of Miller \(From "Captain Miller"\) \(Tamil\)](https://open.spotify.com/album/7vchSoylLXUFo8yNPvhipc) | 3:06 |
+| 3 | [Rise of Miller \(From "Captain Miller"\)](https://open.spotify.com/track/5XjW09Zha0Y0f0SUE3swep) | [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Rise of Miller \(From "Captain Miller"\)](https://open.spotify.com/album/0NOaai0nhdN581ZndcrcKp) | 3:06 |
 | 4 | [Maanja Nee](https://open.spotify.com/track/2evmZa93wRifY0BBcPW6SZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Ayalaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LaGxMvMmaBHrXGN43v6J2) | 3:54 |
 | 5 | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/track/5I5UHofyht01Idg7KXcjWe) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/album/2KZ00vSugPSwx9v0OmpPCo) | 3:16 |
 | 6 | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/track/2r0ROhr7pRN4MXDMT1fEmd) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/album/1zPUq6zLrJyDUtNJBN7eQh) | 1:37 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 81 | [Feel of Jailer \(From "Jailer"\)](https://open.spotify.com/track/7dcufQ1B7SkfSJk0k6OFKl) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Feel of Jailer \(From "Jailer"\)](https://open.spotify.com/album/4iXamksijt8eXPoOkIZTBW) | 3:12 |
 | 82 | [Pattasa](https://open.spotify.com/track/79jbwGgknCBKjikDDdfSph) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Jawan \(TAMIL\)](https://open.spotify.com/album/6IPocVtoXfw3YaBwC9M5tX) | 3:15 |
 
-Snapshot ID: `MCxjMjFkYzE0NWMxMzM0YjI4MTA1ZWMwZGU2ZTNmNzgxZmQyYWU2OWU1`
+Snapshot ID: `MCw4ZTI0OThlZGMwM2MzNDVhNzcxOWVkMzI1ODFiNmRkY2E0ZGMwODI1`

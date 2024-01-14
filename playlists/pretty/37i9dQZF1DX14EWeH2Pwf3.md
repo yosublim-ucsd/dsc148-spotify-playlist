@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Club Dogo
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,372 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,097 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 37 | [HOODRICH](https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:36 |
 | 38 | [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT) | 3:05 |
 | 39 | [LE BAMBINE FANNO OH \(feat\. Nerissima Serpe, ANNA, Papa V, Artie 5ive\)](https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:16 |
-| 40 | [Baby U Want Me \(feat\. Geolier\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
+| 40 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/7z29jwhaE82uACHM2Ovzgs) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
 | 41 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 |
 | 42 | [Nato Per Questo](https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nato Per Questo](https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v) | 2:47 |
 | 43 | [N.47](https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [N.47](https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [E.T.A\. \(feat\. J Balvin & Geolier\)](https://open.spotify.com/track/5MM97FmbSq9I2azOWBvXAY) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Ultimo piano](https://open.spotify.com/album/18frnKzFZcE7T8NqELRzOr) | 2:55 |
 | 50 | [Giorgia \(feat\. Ernia\)](https://open.spotify.com/track/1cL7CwiRexam7rkd8nHZEr) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Giorgia \(feat\. Ernia\)](https://open.spotify.com/album/3w2x6OtrsJ65EBilNXUlIi) | 2:32 |
 
-Snapshot ID: `MCw4NGJmNGMwY2ExYmU2OWEyZmY0NTk2NzE4OGRmOGUxNmUwNTdjODMz`
+Snapshot ID: `MCxlNzE5ZjJmMTM1ZTk3YmM4NTU4NTk5ODVmZjJjNWE5ZGIwMmFmYzhi`

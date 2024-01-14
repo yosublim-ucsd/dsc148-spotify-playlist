@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 10620,
+  "2024-01-14": 10618,
   "date_first_scraped": "2022-09-09",
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
   "name": "Jazzia Suomesta",
@@ -307,6 +307,40 @@
       "duration_ms": 404265,
       "name": "Avanto",
       "url": "https://open.spotify.com/track/5LyLPzWnFNxv42Hwi3ARph"
+    },
+    {
+      "album": {
+        "name": "Beatrice",
+        "url": "https://open.spotify.com/album/10vAsdPkBTCuDQ0dYPUBaf"
+      },
+      "artists": [
+        {
+          "name": "Pasilians",
+          "url": "https://open.spotify.com/artist/7zSpcpgQ6nuYkUprUyKPuF"
+        },
+        {
+          "name": "Sami Leponiemi",
+          "url": "https://open.spotify.com/artist/5B0mj0AddmNVtt03xhfNJa"
+        },
+        {
+          "name": "Peter Gyarfas",
+          "url": "https://open.spotify.com/artist/71JSIhDvAIyoDOIRjffcZq"
+        },
+        {
+          "name": "Nathan Francis",
+          "url": "https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc"
+        },
+        {
+          "name": "Aleksi Heinola",
+          "url": "https://open.spotify.com/artist/5YghcykRpkLlLQYJgIQHh2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328610,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/4gWVLCKWXrVoTFj8pB2PS0"
     },
     {
       "album": {
@@ -1440,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "Eir",
+        "url": "https://open.spotify.com/album/0eNjznsErSmBEn2Iq8Q9Fu"
+      },
+      "artists": [
+        {
+          "name": "Anni Kiviniemi Trio",
+          "url": "https://open.spotify.com/artist/7pbZ2vbzXkOEPrCBA8Hvz3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230119,
+      "name": "Judy",
+      "url": "https://open.spotify.com/track/0sUahCQC99u2oydAwo1OtW"
+    },
+    {
+      "album": {
         "name": "Junassa",
         "url": "https://open.spotify.com/album/43RH8KMHg3VtQrOWH4aDgY"
       },
@@ -1851,6 +1903,28 @@
       "duration_ms": 548634,
       "name": "Little Rabbit",
       "url": "https://open.spotify.com/track/21fpqfJHEbFfndoFzCBAz0"
+    },
+    {
+      "album": {
+        "name": "Long Walk",
+        "url": "https://open.spotify.com/album/2Ho846LuSN0tiZagCKmBGS"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271840,
+      "name": "Long Walk",
+      "url": "https://open.spotify.com/track/0a2FbI03OXqueoEoVI5vdJ"
     },
     {
       "album": {
@@ -3259,7 +3333,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 427146,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/1rqk8yEMJ0R1oPvPjbM7Sv"
@@ -3849,7 +3923,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 246706,
       "name": "Y\u00f6laulu",
       "url": "https://open.spotify.com/track/2ht22f3HTPT33rwoUAhCyJ"

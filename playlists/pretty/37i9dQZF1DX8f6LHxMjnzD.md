@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,892 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,260 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 | 40 | [Mountain Snow](https://open.spotify.com/track/3NZEfp0Mc9G57oBInLYIpV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Mountain Snow](https://open.spotify.com/album/2QCc4wTc9nmYryvDXF43k0) | 2:59 |
 
-Snapshot ID: `MCw5NzQ1MDgzMzU4ZmYyZTIyZDY1OWFmNzAxZjI0N2FhNzAxMDUzYTBh`
+Snapshot ID: `MCw3NWE0M2UxZjI2NDQ5YmQ0MTBjZThmNWNlYWIxYmQ1ZGNkNDM5Yzhl`

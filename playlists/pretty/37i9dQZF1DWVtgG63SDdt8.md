@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,565 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,611 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Favorite Trapper](https://open.spotify.com/track/6ELsXVHVwBNS81g4CXiXle) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Favorite Trapper](https://open.spotify.com/album/0OOX0GDbvpMpAYZEyqM1RJ) | 2:26 |
 | 100 | [Bands](https://open.spotify.com/track/1jutX4tpnkTBu94RsGKDX3) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bands](https://open.spotify.com/album/5veg02OZ3szLtOtf4D5eHB) | 3:17 |
 
-Snapshot ID: `MCxiMTY0OTVhNzUwOGJkNjgxZWQ5ZjZjN2I1ZWZhN2FlMzIwOTBmMzVk`
+Snapshot ID: `MCw1ZjM3NjkxMzFkM2NkMzMwNDBhZjA5MDQ3ZmRlZDcwNGRjMDgxN2Uz`

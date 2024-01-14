@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 72144,
+  "num_followers": 72216,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDEwMmM4MGY3ZWVlMTg2ZTI1ZDQwZTIxMDczZGM2ZmRmNTIxNGEy",
+  "snapshot_id": "MCxhZjVlM2QyZTRhMThkMmRhZWY3ZWIxZTc0ZTZmZWJmMWY4YjFmNDQ3",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -279,22 +279,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "NEVER MET! (feat. Glitch Gum)",
-        "url": "https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN"
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
       },
       "artists": [
         {
-          "name": "CMTEN",
-          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
-        },
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 147000,
-      "name": "NEVER MET! (feat. Glitch Gum)",
-      "url": "https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n"
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -355,18 +351,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+        "name": "NEVER MET! (feat. Glitch Gum)",
+        "url": "https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "CMTEN",
+          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+        },
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
         }
       ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
+      "duration_ms": 147000,
+      "name": "NEVER MET! (feat. Glitch Gum)",
+      "url": "https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "doing it wrong",
+        "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
+      },
+      "artists": [
+        {
+          "name": "oaf1",
+          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
+        },
+        {
+          "name": "Dreamcache",
+          "url": "https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa"
+        }
+      ],
+      "duration_ms": 147965,
+      "name": "doing it wrong",
+      "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Good Luck (Deluxe)",
         "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 120754,
       "name": "Drama",
       "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "doing it wrong",
-        "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
-      },
-      "artists": [
-        {
-          "name": "oaf1",
-          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
-        },
-        {
-          "name": "Dreamcache",
-          "url": "https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa"
-        }
-      ],
-      "duration_ms": 147965,
-      "name": "doing it wrong",
-      "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
     },
     {
       "added_at": "2023-04-27 17:13:18",

@@ -1,12 +1,12 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1129033,
+  "num_followers": 1128668,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTNlNTMzMjUyZmI0ZDYyNWFlN2FjMzA5OWY1NTdkYzBhYTFiOGQ5",
+  "snapshot_id": "MCw1M2RlNzRlYWRkOTJiYmY3NzA0YmU2OTE1YjNmNWY1MTJmOTRkOTZh",
   "tracks": [
     {
       "added_at": "2023-07-28 16:40:26",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 261868,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
         "name": "Port Of Morrow",
         "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 255400,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 261868,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
     },
     {
       "added_at": "2023-07-28 16:40:26",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "If You Ever Leave, I'm Coming with You",
-      "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 253120,
       "name": "Patience",
       "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "If You Ever Leave, I'm Coming with You",
+      "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
     },
     {
       "added_at": "2023-07-28 16:40:26",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "My Honest Face",
-        "url": "https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 453600,
-      "name": "There's No Other Place",
-      "url": "https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
         "name": "Stop Talking",
         "url": "https://open.spotify.com/album/79zkXOJ2uCrl6pXQPPG1ME"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 198986,
       "name": "Float",
       "url": "https://open.spotify.com/track/3yt2uGIGep27Q3vtwMXM7d"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "My Honest Face",
+        "url": "https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 453600,
+      "name": "There's No Other Place",
+      "url": "https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ"
     }
   ],
   "unique_name": "You & Me",

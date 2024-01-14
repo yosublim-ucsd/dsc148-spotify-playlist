@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Suki Waterhouse
 
-6,368 songs - 15 day 11 hr 52 min
+6,369 songs - 15 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1798,7 +1798,8 @@
 | [Far Out](https://open.spotify.com/track/6H6NrMPFl4HC7Pz9bSVmTZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Far Out / Follies Fixture](https://open.spotify.com/album/2LONjruohqPKqKsMVwChw8) | 4:18 | 2021-02-26 | 2021-04-10 |
 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 | 2021-07-17 | 2021-09-04 |
 | [Fast Lane](https://open.spotify.com/track/5hdPK5xykxHncn7e0cjM2c) | [J4](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Fast Lane](https://open.spotify.com/album/2rwT9A9iLERLtsNDKyoiPP) | 2:06 | 2022-06-17 | 2022-07-23 |
-| [FAST LOVE](https://open.spotify.com/track/21mtm9jy3qJrrajtWXvQel) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/4QUB4pWidBTtksxXVhDO19) | 3:26 | 2023-12-01 |  |
+| [FAST LOVE](https://open.spotify.com/track/21mtm9jy3qJrrajtWXvQel) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/4QUB4pWidBTtksxXVhDO19) | 3:26 | 2023-12-01 | 2024-01-14 |
+| [FAST LOVE](https://open.spotify.com/track/49RXDNZ5DB9v3YhB6fFM2C) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/2C1ihKLZTjo8wYGG0TGtDQ) | 3:26 | 2023-12-01 |  |
 | [Father Bird, Mother Bird \(Sunbirds\)](https://open.spotify.com/track/6KLt1jUSyoXAWwSxhVaNpI) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 2:53 | 2021-08-07 | 2021-09-18 |
 | [Father's Son](https://open.spotify.com/track/1w7uw5Glc9byYGG9D7pa9U) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [FUNNY BONE](https://open.spotify.com/album/4Urq1dEC7ZM94KoabRX3P2) | 2:37 | 2021-09-04 | 2021-10-02 |
 | [Faultline](https://open.spotify.com/track/0wssiCpBengvOADco2G3GI) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Faultline](https://open.spotify.com/album/2ivM0FlRjtPUuLcHNh64MK) | 4:11 | 2021-12-10 | 2022-02-19 |
@@ -2626,7 +2627,7 @@
 | [I Don't Want to Talk](https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [I Don't Want to Talk](https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I) | 3:43 | 2021-10-02 | 2021-11-20 |
 | [I don’t care about the rain](https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [I don’t care about the rain](https://open.spotify.com/album/0X9D08RXensTJaGFiHH09i) | 3:34 | 2022-11-25 | 2022-12-17 |
 | [I Don’t Have Control Sometimes](https://open.spotify.com/track/4iuyaXj8B2WPjcqqbOSMB6) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [I Don’t Have Control Sometimes](https://open.spotify.com/album/1q6sKXBOqyDL5iv1A89wqa) | 2:33 | 2022-04-08 | 2022-04-23 |
-| [I Fall in love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 | 2024-01-12 |  |
+| [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 | 2024-01-12 |  |
 | [I Feel Alive](https://open.spotify.com/track/2SUOguFCaHuGeKuX39KExD) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [I Feel Alive](https://open.spotify.com/album/69rxQQGh0uirsNoqlWD10e) | 2:34 | 2020-01-24 | 2020-02-28 |
 | [I Feel Fantastic](https://open.spotify.com/track/47jOHlHtl1AWERc1SITALU) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ) | 2:15 | 2020-12-04 | 2021-02-12 |
 | [i feel good sometimes](https://open.spotify.com/track/2AfMN44v6Mols9dxOzFeef) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [graduation](https://open.spotify.com/album/6GdwAFHEJQsCTp7lkjwhU8) | 2:03 | 2021-09-25 | 2021-11-20 |

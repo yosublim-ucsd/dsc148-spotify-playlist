@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: NewDad
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,380 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,383 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 33 | [Never To Be Real](https://open.spotify.com/track/6cYArVpkURcyDOS5pzbjK9) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Morning Ritual](https://open.spotify.com/album/5qshGdKKt0bR3lBLJDhmoc) | 3:49 |
 | 34 | [Do This Right](https://open.spotify.com/track/2TQOzVHI1Rp1uWwYLxxec4) | [Coco](https://open.spotify.com/artist/4NxTtZTeJqQ1n27i2qnPCe) | [Do This Right](https://open.spotify.com/album/2snbrz5sj2bTWvprCmx6dH) | 5:48 |
 | 35 | [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 |
-| 36 | [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 |
+| 36 | [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 |
 | 37 | [Raining All The Time](https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 3:00 |
 | 38 | [Moon](https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [All Over Again b/w Moon](https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty) | 2:42 |
 | 39 | [T\-Shirt](https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [T\-Shirt](https://open.spotify.com/album/4xxjiWgYKD5P1g0SFKBqNh) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [High School Gym](https://open.spotify.com/track/087RIqgZWehk36IdWeAmxe) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Rainbow Wheel of Death](https://open.spotify.com/album/5HSwTNvgYwVtmma4mnTRXL) | 4:10 |
 | 100 | [Adderall](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 
-Snapshot ID: `MCwyMWVmNmNkOGI5MzgwZjMzOTM5ZDI1MDNjYzY3ZTM5MmFkZmE0MTQ4`
+Snapshot ID: `MCxlNTQ3M2NjNWUxMTFjMDRjZTE5OTU4MDk2ZmZjMjJiOGU5MDFjNzll`

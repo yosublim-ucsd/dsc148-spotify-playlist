@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 178419,
+  "2024-01-14": 178568,
   "date_first_scraped": "2022-01-25",
   "description": "Hymns for darker hours.",
   "name": "Dark Ambient",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 232000,
       "name": "1 Room",
       "url": "https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 318995,
       "name": "H\u00e1vam\u00e1l",
       "url": "https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m"
@@ -1919,6 +1919,24 @@
       "duration_ms": 196634,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8"
+    },
+    {
+      "album": {
+        "name": "Indifference",
+        "url": "https://open.spotify.com/album/2NOcwQdh1hOi3YudH6pwD9"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Indifference - Slowed",
+      "url": "https://open.spotify.com/track/1gjBYuGJM1RPLKrhQy5Sjo"
     },
     {
       "album": {
@@ -4727,7 +4745,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 236750,
       "name": "Vow",
       "url": "https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX"

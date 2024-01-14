@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
@@ -489,6 +489,32 @@
     },
     {
       "album": {
+        "name": "2024",
+        "url": "https://open.spotify.com/album/7bfNrONjEthyd771rPgoAH"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos"
+        },
+        {
+          "name": "Ratno",
+          "url": "https://open.spotify.com/artist/1oKl6VIOQMGsXfAUUlD2et"
+        },
+        {
+          "name": "Armut",
+          "url": "https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/1dDED8PoTl3oJA9MMYmwkW"
+    },
+    {
+      "album": {
         "name": "2024 (Freestyle)",
         "url": "https://open.spotify.com/album/7c9ZMe54iv35c2cEX1dP13"
       },
@@ -500,7 +526,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 211858,
       "name": "2024 (Freestyle)",
       "url": "https://open.spotify.com/track/4PIucCm13InnDwukJEVUL3"
@@ -1710,6 +1736,24 @@
       "duration_ms": 115295,
       "name": "Africa",
       "url": "https://open.spotify.com/track/4JuRS40lZe0yfSewmnR9mT"
+    },
+    {
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/2xJBXWvEMg9lPN08qmERdu"
+      },
+      "artists": [
+        {
+          "name": "Santea2",
+          "url": "https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114154,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/6ePxkskGVXrhMNFBKpenGX"
     },
     {
       "album": {
@@ -20674,7 +20718,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
@@ -22556,7 +22600,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 89426,
       "name": "Love on me",
       "url": "https://open.spotify.com/track/2qHTaWYpcuWoOh8bZBhbrI"
@@ -26723,6 +26767,28 @@
     },
     {
       "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+    },
+    {
+      "album": {
         "name": "Not My Fault (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
       },
@@ -26738,7 +26804,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
@@ -31582,7 +31648,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 289227,
       "name": "Sabry Aalil",
       "url": "https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU"

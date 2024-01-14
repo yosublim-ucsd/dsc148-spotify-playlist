@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 32510,
+  "num_followers": 32546,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODdiOTVjYzZhNzZlOTMxNzI2YTBlYjFlMzUwYThiNGNjMzJiNjQ5",
+  "snapshot_id": "MCxiMmU5ODJjYjM3MTAzZDM1MzgwMDg4M2JjYzU4MjMwN2ZlOTEwZGEx",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -264,12 +264,12 @@
           "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
         },
         {
-          "name": "Willie \"Big Eyes\" Smith",
-          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
-        },
-        {
           "name": "Calvin \"fuzz\" Jones",
           "url": "https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb"
+        },
+        {
+          "name": "Willie \"Big Eyes\" Smith",
+          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
         }
       ],
       "duration_ms": 288240,
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Chess Story 1947-1956",
-        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
-      },
-      "artists": [
-        {
-          "name": "Little Johnny Jones",
-          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "Big Town Playboy",
-      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 217720,
       "name": "Booker's Boogie",
       "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Chess Story 1947-1956",
+        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
+      },
+      "artists": [
+        {
+          "name": "Little Johnny Jones",
+          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
+        }
+      ],
+      "duration_ms": 175640,
+      "name": "Big Town Playboy",
+      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Solo Ride",
-        "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
-      },
-      "artists": [
-        {
-          "name": "Bruce Katz",
-          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 185933,
       "name": "Some Nerve",
       "url": "https://open.spotify.com/track/6VD8KPBkAg3FR4tFjiuuCa"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Solo Ride",
+        "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
+      },
+      "artists": [
+        {
+          "name": "Bruce Katz",
+          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Biggest Thing Since Colossus",
-        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 315373,
-      "name": "Ain't Nobody's Business",
-      "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Classified (Remixed & Expanded Edition)",
         "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 223386,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 315373,
+      "name": "Ain't Nobody's Business",
+      "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "I've Got News For You",
-        "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
-      },
-      "artists": [
-        {
-          "name": "Hadda Brooks",
-          "url": "https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Anytime, Anyplace, Anywhere",
-      "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 322426,
       "name": "Somebody To Shack",
       "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "I've Got News For You",
+        "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
+      },
+      "artists": [
+        {
+          "name": "Hadda Brooks",
+          "url": "https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Anytime, Anyplace, Anywhere",
+      "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Harlem Blues Operator",
-        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
+        "name": "Fess at Home",
+        "url": "https://open.spotify.com/album/5mRGdyNwVwCvVG8g3FiMCO"
       },
       "artists": [
         {
-          "name": "Bob Gaddy",
-          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        },
+        {
+          "name": "Tipitina\u2019s Record Club",
+          "url": "https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ"
         }
       ],
-      "duration_ms": 150333,
-      "name": "I Love My Baby",
-      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
+      "duration_ms": 231632,
+      "name": "Tipitina",
+      "url": "https://open.spotify.com/track/764IqpFAE6Xe7WVXavGchU"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -839,18 +843,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Bach of Rock",
-        "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
+        "name": "Harlem Blues Operator",
+        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Bob Gaddy",
+          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
         }
       ],
-      "duration_ms": 344440,
-      "name": "Hey Now Baby",
-      "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
+      "duration_ms": 150333,
+      "name": "I Love My Baby",
+      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -919,22 +923,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Fess at Home",
-        "url": "https://open.spotify.com/album/5mRGdyNwVwCvVG8g3FiMCO"
+        "name": "The Bach of Rock",
+        "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
       },
       "artists": [
         {
           "name": "Professor Longhair",
           "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        },
-        {
-          "name": "Tipitina\u2019s Record Club",
-          "url": "https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ"
         }
       ],
-      "duration_ms": 231632,
-      "name": "Tipitina",
-      "url": "https://open.spotify.com/track/764IqpFAE6Xe7WVXavGchU"
+      "duration_ms": 344440,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
     },
     {
       "added_at": "2023-09-15 11:43:10",

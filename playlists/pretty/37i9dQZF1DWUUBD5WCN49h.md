@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP?si=xnTHW\-tpR\_ql\_tcv1TnHjA"> Darkua </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,723 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,734 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Temptation \(Crazy\)](https://open.spotify.com/track/17dakSfRLaNL4T8GbqakLi) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd), [Lyandra](https://open.spotify.com/artist/5QD1WYJJuEmR4i1zjYeEq2) | [Aphropop Vol.2](https://open.spotify.com/album/6B62GpntVq9fI3EXBd9byX) | 2:36 |
 | 80 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 |
 
-Snapshot ID: `MCwxYmFiZjY5M2FhZjJiOTU1NWU5ZTQwODE2YzhjZWUxOWY4NDg4MmRm`
+Snapshot ID: `MCw0MWRkNGY5YmI4ZTkwMzZhZTk2YjYwODNmMDllNzUwNGMxNDYzZDJl`

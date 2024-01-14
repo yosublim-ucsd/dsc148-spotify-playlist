@@ -1,4 +1,4 @@
-## Playlists \(7391\)
+## Playlists \(7393\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3772,6 +3772,7 @@
 - [OTW](/playlists/pretty/37i9dQZF1DX5ENxuuyTX48.md)
 - [Obama’s Summer Playlist 2023 \| Favorite Songs of 2023](/playlists/pretty/3xN6J0LCyVj8k1gVCguWRH.md)
 - [Oblique](/playlists/pretty/37i9dQZF1DWWv8B5EWK7bn.md)
+- [Obscure Soundtracks](/playlists/pretty/37i9dQZF1DX1VkXQDZaE2r.md)
 - [Ocean Waves](/playlists/pretty/37i9dQZF1DX9if5QDLdzCa.md)
 - [Oceanvs Orientalis' track IDs](/playlists/pretty/37i9dQZF1DX6NYc6NOT7sQ.md)
 - [Of Monsters and Men](/playlists/pretty/4pL8YJw0ts5YcpxEgl1LiL.md)
@@ -4855,6 +4856,7 @@
 - [Spring Break](/playlists/pretty/37i9dQZF1DWTLlRxFAxbpj.md)
 - [Spring Garden](/playlists/pretty/6YMK6nqc1jS11fGraCU1o2.md)
 - [Spring Jazz](/playlists/pretty/37i9dQZF1DX1mPHJeSJNRN.md)
+- [Spy Games](/playlists/pretty/37i9dQZF1DWWJGGypWYxMJ.md)
 - [Spécial soleil](/playlists/pretty/37i9dQZF1DXcEdamGPOi1T.md)
 - [Squid Game \(오징어게임\)](/playlists/pretty/37i9dQZF1DWTThV2562fDa.md)
 - [Ssuply \(썰플리\)](/playlists/pretty/37i9dQZF1DX7ugUAewqF7z.md)

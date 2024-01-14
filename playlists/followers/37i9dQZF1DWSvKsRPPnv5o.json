@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 727018,
+  "2024-01-14": 726414,
   "date_first_scraped": "2021-12-21",
   "description": "Holdin' it down for the westside. Cover: The Game & Big Hit",
   "name": "Westside Story",
@@ -425,7 +425,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 154697,
       "name": "84 CUTLASS",
       "url": "https://open.spotify.com/track/2CJdpuhYsXJXgilLnvKWXN"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 165500,
       "name": "Bank Truck",
       "url": "https://open.spotify.com/track/4ZsXWjCRhEkKPlDVtNvap6"
@@ -2879,6 +2879,32 @@
       "duration_ms": 218637,
       "name": "Crip Ya Enthusiasm",
       "url": "https://open.spotify.com/track/35tDfJl8QOSgXV2wN2B9j8"
+    },
+    {
+      "album": {
+        "name": "Paisley Dreams",
+        "url": "https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/7jL3F2KBwtlSG7QU2Xemiq"
     },
     {
       "album": {
@@ -4999,7 +5025,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 147375,
       "name": "Glasshouse Knockin'",
       "url": "https://open.spotify.com/track/6MQtJ3infBYmN3scogJ4Ac"
@@ -5265,7 +5291,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 141734,
       "name": "Gz Up, Hoes Down",
       "url": "https://open.spotify.com/track/0cCLG47Bxcj7GpCXmkKP5r"
@@ -7435,10 +7461,32 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 209504,
       "name": "Live From Brooklyn",
       "url": "https://open.spotify.com/track/5rWgGCM9oKmeQ3lD7e489t"
+    },
+    {
+      "album": {
+        "name": "LMK Something",
+        "url": "https://open.spotify.com/album/5px4Kh1KQ39ze6yj02n98o"
+      },
+      "artists": [
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        },
+        {
+          "name": "RONRONTHEPRODUCER",
+          "url": "https://open.spotify.com/artist/13iHfCJycQVyCypXHeVMoU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103529,
+      "name": "LMK Something",
+      "url": "https://open.spotify.com/track/5QPONzQY14PDgdnZ1zCz6t"
     },
     {
       "album": {
@@ -7799,6 +7847,28 @@
       "duration_ms": 146285,
       "name": "Meat This",
       "url": "https://open.spotify.com/track/52jBY28ULSi4ayJ57QFbLP"
+    },
+    {
+      "album": {
+        "name": "My Side Of Towne",
+        "url": "https://open.spotify.com/album/55C7LIIdA322aoF1ApIgMB"
+      },
+      "artists": [
+        {
+          "name": "Gudda Brvckin",
+          "url": "https://open.spotify.com/artist/1uBM3OueZouNJbNhutkJXm"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172312,
+      "name": "MEMBERS ONLY",
+      "url": "https://open.spotify.com/track/42vA9mnbdPzKuIM7FvqlLu"
     },
     {
       "album": {
@@ -9270,6 +9340,24 @@
     },
     {
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/6tlOv3F5sWoblEXlgNwyRz"
+      },
+      "artists": [
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142011,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/6vHzZYu56CfLbNf4VkA0m7"
+    },
+    {
+      "album": {
         "name": "One of Those (feat. Eric Bellinger)",
         "url": "https://open.spotify.com/album/00uubRZtJFzz0eJx863yhb"
       },
@@ -10267,7 +10355,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 143005,
       "name": "Pull Up (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4Z6YkvTUHzGfbVRP5ucOBA"
@@ -10372,6 +10460,24 @@
     },
     {
       "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/3CX3lvLLNnqsTRL3owcdxG"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137568,
+      "name": "Recess",
+      "url": "https://open.spotify.com/track/7yxXAh18ta3thwaU3iaHrO"
+    },
+    {
+      "album": {
         "name": "RECKLESS & RATCHET",
         "url": "https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx"
       },
@@ -10459,7 +10565,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 181894,
       "name": "Rich On Grape Street",
       "url": "https://open.spotify.com/track/3F6sLMtMvTeTrREKH2Y1Od"
@@ -11552,6 +11658,28 @@
     },
     {
       "album": {
+        "name": "Still Numb",
+        "url": "https://open.spotify.com/album/066UpTuyIXbqv2XAQwTZQj"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "420tiesto",
+          "url": "https://open.spotify.com/artist/68w9bGhGIhqjAXNtKgXS7L"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161688,
+      "name": "Still Numb",
+      "url": "https://open.spotify.com/track/5rIT3IR3w6szWJhD2vVkv5"
+    },
+    {
+      "album": {
         "name": "Stop Breathing",
         "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
       },
@@ -11673,6 +11801,28 @@
       "duration_ms": 104212,
       "name": "Streets Don't Love You",
       "url": "https://open.spotify.com/track/1kV59Fg5fPiuWGYxFurasX"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2mEAQvsqwjJmeaeQdKRB2C"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV"
     },
     {
       "album": {
@@ -12184,6 +12334,24 @@
     },
     {
       "album": {
+        "name": "That\u2019s Facts",
+        "url": "https://open.spotify.com/album/0VeCKffdlImHPx3PywDUf6"
+      },
+      "artists": [
+        {
+          "name": "ATM Danny",
+          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184620,
+      "name": "That\u2019s Facts",
+      "url": "https://open.spotify.com/track/3Vc66RkLDnpIRxZTeJLGhu"
+    },
+    {
+      "album": {
         "name": "Trophies",
         "url": "https://open.spotify.com/album/4QcAsaILcr6N6VcLmDiZkp"
       },
@@ -12353,6 +12521,28 @@
       "duration_ms": 204800,
       "name": "The Hillbillies",
       "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
+    },
+    {
+      "album": {
+        "name": "Rapper Overnight 3",
+        "url": "https://open.spotify.com/album/3vBlCbUO4d5FDFPzInMdqe"
+      },
+      "artists": [
+        {
+          "name": "Ralfy the Plug",
+          "url": "https://open.spotify.com/artist/1yI0tX9OnfOx9siPj8KNOO"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135382,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0KPe2Kbminv6Lb7Ev9GVJy"
     },
     {
       "album": {
@@ -12979,7 +13169,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 167272,
       "name": "Vicious Bhristmas",
       "url": "https://open.spotify.com/track/0J8GIep8MSnD8Glt48iuu3"

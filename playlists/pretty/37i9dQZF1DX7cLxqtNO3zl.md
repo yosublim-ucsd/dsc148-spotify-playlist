@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,724 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,698 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 20 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
 | 21 | [Ya Ali](https://open.spotify.com/track/1LJRNbwOZ9TopITPaWDbsr) | [Zubeen Garg](https://open.spotify.com/artist/3mpgtUc7wYBNjr04gEiQ4u) | [Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh) | 4:55 |
 | 22 | [Crazy Habibi Vs Decent Munda \(From "Arjun Patiala"\)](https://open.spotify.com/track/7yy3HgKJEcwArL5k0v5rhF) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Crazy Habibi Vs Decent Munda \(From "Arjun Patiala"\)](https://open.spotify.com/album/5bmu1BwfMDK5uckWSVLZWZ) | 3:03 |
-| 23 | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb) | 4:04 |
-| 24 | [Ishq](https://open.spotify.com/track/0AKWRh7wMW7Pzz2xo7SXlV) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [shipra goyal](https://open.spotify.com/artist/2RYQVpBwHLxuqpDZtlM5BP), [Myles Castello](https://open.spotify.com/artist/7o91XC7guOffmKcTtc5UvS) | [Ishq](https://open.spotify.com/album/2eYD0f2Tp1n8GQbmDoVft3) | 3:41 |
+| 23 | [Ishq](https://open.spotify.com/track/0AKWRh7wMW7Pzz2xo7SXlV) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [shipra goyal](https://open.spotify.com/artist/2RYQVpBwHLxuqpDZtlM5BP), [Myles Castello](https://open.spotify.com/artist/7o91XC7guOffmKcTtc5UvS) | [Ishq](https://open.spotify.com/album/2eYD0f2Tp1n8GQbmDoVft3) | 3:41 |
+| 24 | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb) | 4:04 |
 | 25 | [Dil Bechara](https://open.spotify.com/track/4UJkUnfEEL8B2JZ1OQfYOO) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 2:43 |
 | 26 | [Dilbar Arabic](https://open.spotify.com/track/5EdkHBTXHVXrLz1AkIMweE) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Fnaire](https://open.spotify.com/artist/1g8q1m1XjmUW8zOO3vCqcW), [Mohcine Tizaf](https://open.spotify.com/artist/2iO6cqotEJYZC0H3mch1ZC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dilbar Arabic](https://open.spotify.com/album/4EF0E4sgNEA27ZrB4QMbjy) | 3:18 |
 | 27 | [Didi](https://open.spotify.com/track/6ZOSOeJi0C6FAOUVn1YD6Q) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Khaled](https://open.spotify.com/album/5vp5VVCujQe9SmpSaD4uEL) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 49 | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/track/7LasZEDby0I9uVNUjED1yS) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/album/4msvzEOis0kGxDHn2ZaQQx) | 3:32 |
 | 50 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 |
 
-Snapshot ID: `MCxkOTg3Y2UwNmIzYWMwNTg0MDNlMmIwMjIyOTk0ZTNhZDMzYTBhNDlk`
+Snapshot ID: `MCxjMWI5OGMxOTg4ZWVhNDNhNGRhOGNlYTExOTA4YTUxNTA2ZGZhZTQ5`

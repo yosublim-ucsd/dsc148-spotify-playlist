@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 hertz](https://open.spotify.com/track/0SQItD7OT756ZeYEOVeNKz) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [1 hertz](https://open.spotify.com/album/38x03kzY0gNwycJmFwZ7mR) | 3:15 | 2023-07-20 | 2023-08-25 |
-| [1000 Liter Teer](https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt) | [therror](https://open.spotify.com/artist/19umoxJexdhKLQBrkUngZq) | [1000 Liter Teer](https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT) | 3:08 | 2023-11-09 |  |
+| [1000 Liter Teer](https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [1000 Liter Teer](https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT) | 3:08 | 2023-11-09 |  |
 | [1000 songs](https://open.spotify.com/track/3jXA5jKVV8qwFrHLlqYN0e) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [1000 songs](https://open.spotify.com/album/6QQiiBlobTDUx9bRMjpky6) | 2:39 | 2023-02-16 | 2023-05-05 |
 | [110 km/h](https://open.spotify.com/track/019qHAL5i793FKmBomt6Py) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [110 km/h](https://open.spotify.com/album/34RHqZHk0AD9yXaQF8Rve9) | 3:13 | 2023-02-16 | 2023-03-18 |
 | [14\. Stock](https://open.spotify.com/track/6f77E75f6dwDzT6o4zXaYv) | [Jona Straub](https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao) | [14\. Stock](https://open.spotify.com/album/6hYmjAfCwpsxdq81K0ytMN) | 2:34 | 2023-09-07 | 2023-09-29 |

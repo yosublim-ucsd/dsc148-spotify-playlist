@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,860 likes - 68 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,347 likes - 68 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 38 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 |
 | 39 | [Prelude in B minor, BWV 855a \(Arr\. by Alexander Siloti\)](https://open.spotify.com/track/18JxYMTSFKZlxqdNFrOs1r) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Prelude in B minor, BWV 855a \(Arr\. by Alexander Siloti\)](https://open.spotify.com/album/1J2gEYm9QCKqxwpGl3xDtT) | 4:01 |
 | 40 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [Sonic Apothecary](https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 |
-| 41 | [6 Encores for Piano \(1965\): No\. 3, Wasserklavier](https://open.spotify.com/track/0RnF44RV45by9HTtZuttgl) | [Luciano Berio](https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO), [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Liszt Inspections](https://open.spotify.com/album/0HOOCAPfWkh6e24UQLkok5) | 2:19 |
+| 41 | [6 Encores for Piano: No\. 3, Wasserklavier](https://open.spotify.com/track/6PBgR7SwyebLZhMltvwoVv) | [Luciano Berio](https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO), [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Liszt Inspections](https://open.spotify.com/album/4Ofh29U0AkzCoDFH4cyaeR) | 2:19 |
 | 42 | [Goldberg Variations, BWV 988: Variation 1 \(Arr\. for Harp\)](https://open.spotify.com/track/36EnMgx9PmtnzUtmKwI63h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Parker Ramsay](https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb) | [Bach: Goldberg Variations: Variation 1 \(Arranged for Harp\)](https://open.spotify.com/album/5a12E7Hn3S4QlR4egf9cHA) | 1:56 |
 | 43 | [Morgen, Op\. 27 No\. 4 \(Arr\. Reger for Piano\)](https://open.spotify.com/track/1YHB1xwXPgCkuGjQ0prNdb) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Love Songs \- Piano Transcriptions Without Words](https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w) | 3:52 |
 | 44 | [Winter](https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Seasons](https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh) | 3:08 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 67 | [Suite compostelana: II\. Coral](https://open.spotify.com/track/1FbAQqtKHiQhLbz5Yodjbf) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Krzysztof Meisinger](https://open.spotify.com/artist/43JBMYEGjtG25QfTpngBWM) | [Mystique](https://open.spotify.com/album/25nuEAVTtDUOSLcYmuZQkx) | 3:28 |
 | 68 | [Piano Concerto in A minor, Op\. 16: II\. Adagio \- Live](https://open.spotify.com/track/48ncsTkxc9KlRZEG0PC2rZ) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q), [Symphonieorchester des Bayerischen Rundfunks](https://open.spotify.com/artist/4WXodir2Ci7Ywk0uTaTKkt), [Esa\-Pekka Salonen](https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl) | [Wonderland \- Edvard Grieg: Piano Concerto, Lyric Pieces](https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m) | 6:38 |
 
-Snapshot ID: `MCxlNDg0ODI3MTk1NjZlYTQ1NTUwMDVlYTgxNjYyODYzOWNjY2MyMGQy`
+Snapshot ID: `MCxhZjZhOWRmNjEyMWFhMDgwMzhiNzc4Y2Q3Y2I4ZTQ2ZGJkOTkwMDdh`

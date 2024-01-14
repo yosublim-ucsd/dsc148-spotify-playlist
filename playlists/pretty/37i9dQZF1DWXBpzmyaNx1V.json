@@ -1,12 +1,12 @@
 {
   "description": "Un paseo por la ciudad pintada de violeta.",
-  "num_followers": 27929,
+  "num_followers": 27943,
   "original_name": "Jacarandas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjRmZjE5NTYxYjE4NzQzODEwMjUyZWE1NDg3ZjZkNzYyNmE0MTEz",
+  "snapshot_id": "MCxlMDY3NDA1NDZjYTcyZmM4OTZhYTBjZDA3ZTI2YmI5YzM2ZjdkNGE1",
   "tracks": [
     {
       "added_at": "2022-03-13 21:12:32",
@@ -829,20 +829,24 @@
       "url": "https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA"
     },
     {
-      "added_at": "2022-03-13 21:12:32",
+      "added_at": "2023-03-16 23:05:16",
       "album": {
-        "name": "What Do You Want It To Be?",
-        "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
       },
       "artists": [
         {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 258832,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X"
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
     }
   ],
   "unique_name": "Jacarandas",

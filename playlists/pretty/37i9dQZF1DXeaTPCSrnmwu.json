@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 25741,
+  "num_followers": 25751,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTQwNWQwMzQ4MzQ4NjRkMDJhYTQzNTRlY2E1NjJmOTgzNTNkMzRi",
+  "snapshot_id": "MCxjZjE2OWVmMzNhOTJkOTg1ZmM1YjUyMjMwMjU2ZTA2NTI4ODFjMDcw",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Z\u00e9phyrine",
-        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
-      },
-      "artists": [
-        {
-          "name": "Elliot Ziegler",
-          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
-        }
-      ],
-      "duration_ms": 140374,
-      "name": "Z\u00e9phyrine",
-      "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
         "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 195120,
       "name": "La Paloma - Yradier",
       "url": "https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Z\u00e9phyrine",
+        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
+      },
+      "artists": [
+        {
+          "name": "Elliot Ziegler",
+          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+        }
+      ],
+      "duration_ms": 140374,
+      "name": "Z\u00e9phyrine",
+      "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Orobroy",
-        "url": "https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt"
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf"
       },
       "artists": [
         {
-          "name": "Dorantes",
-          "url": "https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu"
+          "name": "Tony Soleno",
+          "url": "https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd"
         }
       ],
-      "duration_ms": 232720,
-      "name": "Ventanales",
-      "url": "https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB"
+      "duration_ms": 201996,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -451,18 +451,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf"
+        "name": "Orobroy",
+        "url": "https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt"
       },
       "artists": [
         {
-          "name": "Tony Soleno",
-          "url": "https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd"
+          "name": "Dorantes",
+          "url": "https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu"
         }
       ],
-      "duration_ms": 201996,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB"
+      "duration_ms": 232720,
+      "name": "Ventanales",
+      "url": "https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB"
     },
     {
       "added_at": "2021-01-18 15:57:14",

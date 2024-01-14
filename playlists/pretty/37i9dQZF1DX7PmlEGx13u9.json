@@ -1,12 +1,12 @@
 {
   "description": "Certified R&B Hits. Cover: Raye",
-  "num_followers": 49157,
+  "num_followers": 49198,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTRhZmFjMTY5Y2Y3ZDZkMGMzZWUwYTI0YWQzOWQ5MGZkNGIyMDBk",
+  "snapshot_id": "MCw4OTljNDNmNDQ1M2JjODI3NjM0YzU1ZmQ1YjkwMTIzMzk0ZmM5ZDE2",
   "tracks": [
     {
       "added_at": "2023-12-15 15:49:35",
@@ -523,8 +523,8 @@
     {
       "added_at": "2023-12-15 15:49:35",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 150720,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2023-12-15 15:49:35",
@@ -655,8 +655,8 @@
     {
       "added_at": "2023-12-15 15:49:35",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+      "duration_ms": 150720,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
     },
     {
       "added_at": "2023-12-15 15:49:35",

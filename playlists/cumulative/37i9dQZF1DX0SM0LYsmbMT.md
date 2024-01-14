@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,957 songs - 6 day 7 hr 19 min
+3,958 songs - 6 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Bathtub](https://open.spotify.com/track/3ediINZe9qVvotp6D65XVs) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Bathtub](https://open.spotify.com/album/0bxN998qF7rffUXPZqjm5L) | 1:52 | 2022-12-01 | 2022-12-09 |
 | [Batumi](https://open.spotify.com/track/2vYnsBFpnlF7kPkUh51bJl) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Batumi](https://open.spotify.com/album/74znblG3Y4CrKReigLMTsF) | 2:29 | 2021-11-27 | 2022-03-31 |
 | [Batumi Nights](https://open.spotify.com/track/22pUrv2FB7sXTp4g6qyvPz) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Batumi Nights](https://open.spotify.com/album/71ofD2C0UrPp8k50wVn8a2) | 1:35 | 2020-08-30 | 2021-04-16 |
-| [bay bridge](https://open.spotify.com/track/0Y6RcHx3zWT0B7Zeak5Dss) | [Mr\. Hong](https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId) | [bay bridge](https://open.spotify.com/album/2nXSYXnwDcavlKCM7kRv6n) | 3:24 | 2024-01-11 |  |
+| [bay bridge](https://open.spotify.com/track/0Y6RcHx3zWT0B7Zeak5Dss) | [Mr\. Hong](https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId) | [bay bridge](https://open.spotify.com/album/2nXSYXnwDcavlKCM7kRv6n) | 3:24 | 2024-01-11 | 2024-01-14 |
 | [Be Grateful for What You Got](https://open.spotify.com/track/2q66J499bWS25dph3DD4c2) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Be Grateful for What You Got](https://open.spotify.com/album/7bw8AQI6UdUXPHLxksNr4i) | 2:32 | 2019-09-06 | 2020-02-21 |
 | [Be Prepared](https://open.spotify.com/track/0m9uI9t4RRqgUXgqbD4rg4) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Be Prepared](https://open.spotify.com/album/7lskXK2HGFlxyjifEzpVc7) | 2:18 | 2022-08-11 | 2022-09-23 |
 | [Beach Date](https://open.spotify.com/track/28heBSh9X0tpKHcLoSCg5b) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Beach Date](https://open.spotify.com/album/1CnYVaau2HnDSuVoauPFUG) | 2:10 | 2022-09-22 | 2023-01-27 |
@@ -3227,6 +3227,7 @@
 | [Strawberry Daiquiri](https://open.spotify.com/track/6Fdz3m5PzjdEGurELmAz9V) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Strawberry Daiquiri & Toffee Time](https://open.spotify.com/album/5LXNaWrdvrC6piyvo9Cakw) | 2:05 | 2020-02-01 | 2020-05-08 |
 | [Strawberry Jam](https://open.spotify.com/track/0yAgZXR8QQOE0oPwIUk5OD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Strawberry Jam](https://open.spotify.com/album/5GS6uNiASwKSsLLgPTWtRA) | 2:17 | 2019-06-08 | 2019-12-04 |
 | [String Rider](https://open.spotify.com/track/5l5ns1POwdBQAapLru70S0) | [Funkonami](https://open.spotify.com/artist/6JkzdEK1Ow5fUGJQ5zGgkk) | [Interstellar Funk \(El Mundo\) / String Rider](https://open.spotify.com/album/4BXZc5BFahNTaGgFFIw5yo) | 2:56 | 2020-09-19 | 2021-04-09 |
+| [Stroll](https://open.spotify.com/track/7w7jNbglIedd2HDaQwJqaK) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Stroll](https://open.spotify.com/album/6pSmR7ZyMToEopTCHWfjHc) | 2:15 | 2024-01-11 |  |
 | [Study Babyyy](https://open.spotify.com/track/0DgwyHW3TQQG0dGW15vdM1) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Study Babyyy](https://open.spotify.com/album/5uQUympwgyBRAEbvTqS8lz) | 2:25 | 2020-07-24 | 2021-04-16 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2021-09-04 | 2022-11-04 |
 | [Suavemente](https://open.spotify.com/track/7uRryFPC3zxr6rbHQvEyJZ) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Suavemente](https://open.spotify.com/album/3fFPO87T5pWcuHDatClFpn) | 1:57 | 2020-06-05 | 2020-10-23 |

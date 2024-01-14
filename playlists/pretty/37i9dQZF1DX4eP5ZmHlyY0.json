@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: JO1",
-  "num_followers": 46749,
+  "num_followers": 46735,
   "original_name": "Boys Group Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTY0OTgzYzk0ZDU2YmYyMDg3OTE4MTQ0ODMwMWYwNTFiYzYzZjA5",
+  "snapshot_id": "MCwyNjUzMjg3N2Y5OTdkNjljMGI5ZWJjYTU3OTZkZjk2ZWUwMjMyODA0",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "TAG ME",
-        "url": "https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau"
+        "name": "HIDEOUT",
+        "url": "https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY"
       },
       "artists": [
         {
-          "name": "INI",
-          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
         }
       ],
-      "duration_ms": 203026,
-      "name": "HANA_\u82b1",
-      "url": "https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl"
+      "duration_ms": 179973,
+      "name": "HIDEOUT",
+      "url": "https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -683,34 +683,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Clutch",
-        "url": "https://open.spotify.com/album/4ZRuszFQ1iBgRrgsOoMKmz"
+        "name": "TAG ME",
+        "url": "https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau"
       },
       "artists": [
         {
-          "name": "\u3044\u308c\u3044\u3059",
-          "url": "https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu"
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
         }
       ],
-      "duration_ms": 201899,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "HIDEOUT",
-        "url": "https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "HIDEOUT",
-      "url": "https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po"
+      "duration_ms": 203026,
+      "name": "HANA_\u82b1",
+      "url": "https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -731,18 +715,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Candy Kiss",
-        "url": "https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK"
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl"
       },
       "artists": [
         {
-          "name": "Travis Japan",
-          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 199880,
-      "name": "Candy Kiss",
-      "url": "https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1"
+      "duration_ms": 171000,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -759,6 +747,22 @@
       "duration_ms": 224320,
       "name": "SIN",
       "url": "https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Candy Kiss",
+        "url": "https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "Candy Kiss",
+      "url": "https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1"
     },
     {
       "added_at": "2024-01-11 15:00:00",

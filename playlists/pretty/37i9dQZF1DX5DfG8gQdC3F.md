@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ariana Grande, 21 Savage, Josh Ross, Lil Nas X, Preme and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,508 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,395 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 92 | [Say Goodbye](https://open.spotify.com/track/44mw4OdRaYz6KkRVP5PEjN) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Say Goodbye](https://open.spotify.com/album/3n66BWhi8FGqDOHFbkON6y) | 3:58 |
 | 93 | [Big Bank](https://open.spotify.com/track/7onMcwREc7risUlE4mDhG4) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Big Bank \(feat\. Billy Lemos\)](https://open.spotify.com/album/4dBkm25j36XB7a0669Shi6) | 2:42 |
 | 94 | [Same Thing](https://open.spotify.com/track/7mUmDFHA4aEnhGqJ8ttlvf) | [Rosemary Fairweather](https://open.spotify.com/artist/4I4taY0pRzBIGmIgsBqcrE), [Jonathan Evans](https://open.spotify.com/artist/0OHFZ0JsJpH5ZhCCieuJdI) | [Same Thing](https://open.spotify.com/album/1apDNfLQm7XeNZqwhr0CAs) | 3:46 |
-| 95 | [luvsick \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [luvsick \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
+| 95 | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
 | 96 | [Nowhere Town](https://open.spotify.com/track/1Wc5fINADFJzBaGlxcpIjh) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Trouble Is](https://open.spotify.com/album/7kDzDEi9qffLWSMeLPkEMZ) | 2:29 |
 | 97 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 |
 | 98 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 |
 | 99 | [Field Of Ruins](https://open.spotify.com/track/2BXzFWbrIzc7TYfs3z8Igv) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Field Of Ruins](https://open.spotify.com/album/5ic3ni2tPnm9mrK6DfvfJg) | 3:42 |
 | 100 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
 
-Snapshot ID: `MCw2NTI2M2Y5ZjFiMzVmNTMyYTgxNDI3MTU5ZGM3OGM1NGM2YTA2NDMz`
+Snapshot ID: `MCwyODg0ZjU0MjVkN2VhZGUwMzNmYzUyZTM3YTg4OWM3MjFlODgwOTk4`

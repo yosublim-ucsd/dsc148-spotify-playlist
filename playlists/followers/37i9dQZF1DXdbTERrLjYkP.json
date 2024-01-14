@@ -1,7 +1,7 @@
 {
-  "2024-01-13": 92851,
+  "2024-01-14": 92863,
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Devon Gabriella",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Georgia Webster",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -843,6 +843,24 @@
       "duration_ms": 184841,
       "name": "at the end of the world",
       "url": "https://open.spotify.com/track/5ivyykAJXgoxXRTaNli7JB"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH"
     },
     {
       "album": {
@@ -3893,7 +3911,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 202285,
       "name": "Hahaha",
       "url": "https://open.spotify.com/track/0E6mNyZk7aN8XYkZ3rLD9n"

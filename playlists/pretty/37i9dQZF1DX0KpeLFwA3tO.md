@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sailor Honeymoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,944 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,927 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [CBD](https://open.spotify.com/track/5J7ftbuLUi35CDW29GHaxn) | [This Modern](https://open.spotify.com/artist/483EUi5pUJ5MDXow158yT7) | [CBD](https://open.spotify.com/album/49J55fxrJnV1GOHilhxgZn) | 2:46 |
 | 100 | [Forgot To Grow](https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Forgot To Grow](https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX) | 3:12 |
 
-Snapshot ID: `MCxhZGYwMjZhZTNkMGM1ZWZjYWQyZGRjMGI3ODZmMjljYmI5MTc1NGNm`
+Snapshot ID: `MCwyMjMyMDAxOGVhZTI5NzVmM2E0OWFmYWYyNjI3M2JmY2Y3NWQ4NjVm`

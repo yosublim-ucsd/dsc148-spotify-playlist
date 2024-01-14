@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,273 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,172 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 82 | [DALIA](https://open.spotify.com/track/1cvaWa3yUprEFJE7LHSwYs) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/3R2jNXD3phm411Luzlz1DJ) | 3:32 |
 | 83 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
 
-Snapshot ID: `MCw1ZWM0M2U3ZTQxNjdiYjc1YjVlOTEzY2Q4ZGI4ZTU5MDFjMzVkNTI1`
+Snapshot ID: `MCw5NzlkM2Q0NjA0YjA4NWE5YjdhYjgyMjFjMzlhNTA2ZTI3ZTI5YjIy`

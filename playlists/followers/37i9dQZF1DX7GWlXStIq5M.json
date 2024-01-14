@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 366497,
+  "2024-01-14": 366060,
   "date_first_scraped": "2022-03-24",
   "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla",
   "name": "Palco POP",
@@ -793,7 +793,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 128021,
       "name": "ALTA TENS\u00c3O",
       "url": "https://open.spotify.com/track/3WpW3fck8V6yljWCRNynXL"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 147200,
       "name": "Baile",
       "url": "https://open.spotify.com/track/2b2pOFQ3bpSzse6haFIUHY"
@@ -1888,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Pesco\u00e7o Salgado",
+        "url": "https://open.spotify.com/album/7F2Ym3Aze5awn7uWOYhO2x"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Blayblayde",
+      "url": "https://open.spotify.com/track/5LWf6aSIrK4Bj7exlmnDRB"
+    },
+    {
+      "album": {
         "name": "BLAME IT ON BABY (DELUXE)",
         "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
       },
@@ -2035,6 +2053,28 @@
       "duration_ms": 205000,
       "name": "Bora Ser",
       "url": "https://open.spotify.com/track/4nJ8ZmUAGopgJ4getE1o4z"
+    },
+    {
+      "album": {
+        "name": "Bota Ni\u00f1a",
+        "url": "https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209693,
+      "name": "Bota Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
     },
     {
       "album": {
@@ -2805,7 +2845,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 143664,
       "name": "cinco anos em cinco minutos",
       "url": "https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI"
@@ -4279,7 +4319,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 172308,
       "name": "eu vivo negando o amor",
       "url": "https://open.spotify.com/track/3dUjqZzAvcy7RQGJSDj1fi"
@@ -6143,7 +6183,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 179236,
       "name": "Juras De Amor",
       "url": "https://open.spotify.com/track/5TTerkWDZPhRqFaHBTfiV0"
@@ -6373,6 +6413,28 @@
       "duration_ms": 261492,
       "name": "Laugh Now Cry Later (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS"
+    },
+    {
+      "album": {
+        "name": "La\u00e7o",
+        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
+      },
+      "artists": [
+        {
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149349,
+      "name": "La\u00e7o",
+      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
     },
     {
       "album": {
@@ -7007,6 +7069,24 @@
       "duration_ms": 195692,
       "name": "Mant\u00e9m",
       "url": "https://open.spotify.com/track/17rF54WvGGqPVxDheq8PP8"
+    },
+    {
+      "album": {
+        "name": "mapa da mina",
+        "url": "https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163375,
+      "name": "mapa da mina",
+      "url": "https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq"
     },
     {
       "album": {
@@ -10074,6 +10154,24 @@
     },
     {
       "album": {
+        "name": "Por Uma Noite S\u00f3",
+        "url": "https://open.spotify.com/album/6QkXH21EkvWLGFR67UlEqj"
+      },
+      "artists": [
+        {
+          "name": "Marianna",
+          "url": "https://open.spotify.com/artist/4cB54ned9TBsah6DMU8ALL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138378,
+      "name": "Por Uma Noite S\u00f3",
+      "url": "https://open.spotify.com/track/7fzCFGhCDzvn15HZWMDW3F"
+    },
+    {
+      "album": {
         "name": "Porsche",
         "url": "https://open.spotify.com/album/78GkqDrHMgb9Fl1ovYfBuP"
       },
@@ -10809,7 +10907,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 265068,
       "name": "Que saudade de voc\u00ea",
       "url": "https://open.spotify.com/track/6P6B7hMCL4irsQQ1jQu7qY"
@@ -14017,6 +14115,32 @@
       "duration_ms": 316293,
       "name": "Vergonha Pra M\u00eddia 2 - O Retorno do Jedi",
       "url": "https://open.spotify.com/track/2iHe4RNM0IzIoPH3dq34jv"
+    },
+    {
+      "album": {
+        "name": "Veste a Camisa",
+        "url": "https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Maikinho DJ",
+          "url": "https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151389,
+      "name": "Veste a Camisa",
+      "url": "https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI"
     },
     {
       "album": {

@@ -1,49 +1,13 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Subtronics and Rezz",
-  "num_followers": 975865,
+  "num_followers": 975715,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmFkNjE5NDg4OGFiZDUzZDRhY2VjNjNjNTQwYWFmYzc1NGEyNTk0",
+  "snapshot_id": "MCwyMWIzYWE0YzE0YzI5N2Q3NzM1NGYzZjQxMThlMTVmMjU1ZDhiNmRm",
   "tracks": [
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Brain Tickler",
-        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
-      },
-      "artists": [
-        {
-          "name": "Ahee",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 144134,
-      "name": "Brain Tickler",
-      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
-    },
-    {
-      "added_at": "2023-12-15 05:13:07",
-      "album": {
-        "name": "leavemealone",
-        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
-    },
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
@@ -63,6 +27,70 @@
       "duration_ms": 260001,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "Ahee",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -127,30 +155,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Ball So Hard (PIERCE Remix)",
         "url": "https://open.spotify.com/album/2TEa0aL1nxqMB4nLRHrbnt"
       },
@@ -173,30 +177,6 @@
       "url": "https://open.spotify.com/track/3Xe1gYN2scJOx0R4C289YY"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "KC",
-          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Shut Shit Down",
@@ -215,6 +195,26 @@
       "duration_ms": 162373,
       "name": "Shut Shit Down",
       "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
+    },
+    {
+      "added_at": "2023-12-15 05:13:07",
+      "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -497,20 +497,20 @@
       "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/04XH5n5B8pnoJAOXS3CAlh"
+        "name": "BOSS FIGHT",
+        "url": "https://open.spotify.com/album/5nZXNqdF0BInnCkJwFA5a5"
       },
       "artists": [
         {
-          "name": "Everen Maxwell",
-          "url": "https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB"
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/0DhKFPcJHBS89YwgD5Oz5B"
+      "duration_ms": 167176,
+      "name": "BOSS FIGHT",
+      "url": "https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR"
     },
     {
       "added_at": "2024-01-05 05:03:38",
@@ -557,24 +557,24 @@
       "url": "https://open.spotify.com/track/4iJkmySR14Sgy9nq4dpFnN"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+        "name": "Antagonist",
+        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
         },
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 152015,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+      "duration_ms": 167001,
+      "name": "King",
+      "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -673,24 +673,24 @@
       "url": "https://open.spotify.com/track/0GhXFQpQIhmHnpg7sVqSqY"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Antagonist",
-        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
       },
       "artists": [
         {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         },
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
         }
       ],
-      "duration_ms": 167001,
-      "name": "King",
-      "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/50y6kX6Sd8wK5lZJcyAmX0"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "BOSS FIGHT",
-        "url": "https://open.spotify.com/album/5nZXNqdF0BInnCkJwFA5a5"
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/04XH5n5B8pnoJAOXS3CAlh"
       },
       "artists": [
         {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+          "name": "Everen Maxwell",
+          "url": "https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB"
         }
       ],
-      "duration_ms": 167176,
-      "name": "BOSS FIGHT",
-      "url": "https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR"
+      "duration_ms": 208000,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/0DhKFPcJHBS89YwgD5Oz5B"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1701,26 +1701,6 @@
       "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Fight or Flight",
-        "url": "https://open.spotify.com/album/21flOOgl2FgBHpxum2PVVH"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        }
-      ],
-      "duration_ms": 151538,
-      "name": "Fight or Flight",
-      "url": "https://open.spotify.com/track/0biZ6lxXHy4eHweTbOD33W"
-    },
-    {
       "added_at": "2023-12-15 05:13:07",
       "album": {
         "name": "Skanka (P Money Vocal Dub)",
@@ -1739,6 +1719,26 @@
       "duration_ms": 192049,
       "name": "Skanka - P Money Vocal Dub",
       "url": "https://open.spotify.com/track/4n7PlmHa8DU1elvSbYTOFY"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Fight or Flight",
+        "url": "https://open.spotify.com/album/21flOOgl2FgBHpxum2PVVH"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "duration_ms": 151538,
+      "name": "Fight or Flight",
+      "url": "https://open.spotify.com/track/0biZ6lxXHy4eHweTbOD33W"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1783,30 +1783,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2023-12-15 05:13:07",
-      "album": {
-        "name": "For The Love Of Bounce",
-        "url": "https://open.spotify.com/album/0JVygXqxUp7sIyDrFDiRvB"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "UK Ting",
-      "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1857,6 +1833,30 @@
       "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
     },
     {
+      "added_at": "2023-12-15 05:13:07",
+      "album": {
+        "name": "For The Love Of Bounce",
+        "url": "https://open.spotify.com/album/0JVygXqxUp7sIyDrFDiRvB"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "UK Ting",
+      "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Stone cold.",
@@ -1889,26 +1889,6 @@
       "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Don't You Dare Go Hollow",
-        "url": "https://open.spotify.com/album/1Hhc7Xf30VgmsLaRuyMGWY"
-      },
-      "artists": [
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
-        }
-      ],
-      "duration_ms": 225857,
-      "name": "Don't You Dare Go Hollow",
-      "url": "https://open.spotify.com/track/26TKv9T50hSeZUi995fg5x"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "LOYAL",
@@ -1927,6 +1907,26 @@
       "duration_ms": 255882,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Don't You Dare Go Hollow",
+        "url": "https://open.spotify.com/album/1Hhc7Xf30VgmsLaRuyMGWY"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "duration_ms": 225857,
+      "name": "Don't You Dare Go Hollow",
+      "url": "https://open.spotify.com/track/26TKv9T50hSeZUi995fg5x"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2053,26 +2053,6 @@
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Gladiator",
-        "url": "https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Def3",
-          "url": "https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Gladiator",
-      "url": "https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Eyes Wide Open",
@@ -2091,6 +2071,26 @@
       "duration_ms": 231529,
       "name": "Going Insane",
       "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Def3",
+          "url": "https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb"
     },
     {
       "added_at": "2023-11-10 05:00:00",

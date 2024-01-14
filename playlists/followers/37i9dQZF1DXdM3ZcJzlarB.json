@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 13512,
+  "2024-01-14": 13518,
   "date_first_scraped": "2022-06-15",
   "description": "Lo nuevo y lo m\u00e1s destacado de la electr\u00f3nica nacional. Portada: Pyura",
   "name": "mint argentina",
@@ -799,7 +799,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 261532,
       "name": "Fuck el Police - Remix",
       "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
@@ -983,6 +983,24 @@
       "duration_ms": 508000,
       "name": "Hy Macrophylla - Original Mix",
       "url": "https://open.spotify.com/track/4Bsg82R9JpPZcaA1OtdTsF"
+    },
+    {
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/0XME6kWqZQ3A6KIafuf3RX"
+      },
+      "artists": [
+        {
+          "name": "Paul (AR)",
+          "url": "https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379875,
+      "name": "Hypnotic - Original Mix",
+      "url": "https://open.spotify.com/track/51i9iRJKkJe4MIDifV2OYs"
     },
     {
       "album": {
@@ -2225,6 +2243,28 @@
       "duration_ms": 641311,
       "name": "Voltaire",
       "url": "https://open.spotify.com/track/6RhZ3wEOHmJpZGuXhfl2HJ"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0AesViTH39o6tWSWcei7oV"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Arias",
+          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+        },
+        {
+          "name": "Folgar",
+          "url": "https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230312,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4y7vFdToiMWc39r50bDAD6"
     },
     {
       "album": {

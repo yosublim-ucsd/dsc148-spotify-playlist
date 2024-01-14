@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-2,257 songs - 5 day 0 hr 34 min
+2,258 songs - 5 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1328,7 +1328,7 @@
 | [Mama](https://open.spotify.com/track/63lZCrUiCmSU2ofO0AcCKs) | [Kosla](https://open.spotify.com/artist/0WEnusOFYWy1WdoyeSPC72), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Mama](https://open.spotify.com/album/1RJS9HVhlZucCIXiBmC6Xo) | 3:32 | 2023-02-24 | 2023-03-11 |
 | [Maman](https://open.spotify.com/track/5FwtloM8eGWtqPtglVcqfX) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Maman](https://open.spotify.com/album/21Yoob2SRAwz7aDHDWf7qr) | 3:31 | 2023-11-24 | 2023-12-02 |
 | [maman](https://open.spotify.com/track/5Nr5MNAlmvFw2z7LQV1C6F) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8), [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [vie rapide](https://open.spotify.com/album/3B4fTEOw0x0ku2woLbPop2) | 2:30 | 2023-02-10 | 2023-02-25 |
-| [Maman savait](https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Maman savait](https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH) | 2:58 | 2023-11-24 |  |
+| [Maman savait](https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Maman savait](https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH) | 2:58 | 2023-11-24 | 2024-01-14 |
 | [Mambo](https://open.spotify.com/track/6jENkrUkcJ96UHsCrYrAdt) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [Mambo](https://open.spotify.com/album/56azZerCoXBxVvvZ3lofnf) | 2:38 | 2022-04-29 | 2022-05-07 |
 | [Mandarine](https://open.spotify.com/track/5ZIpjXSsmSigTX6UY0lkCb) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Sur nos joues](https://open.spotify.com/album/60WvnemKPicPjBiyCTMjjM) | 2:53 | 2022-03-25 | 2022-04-09 |
 | [Manhattan](https://open.spotify.com/track/5e3g0TcgR49Kw7TG6E2z1g) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Manhattan](https://open.spotify.com/album/1isnBBe4E6mC70DBwaxIhZ) | 4:03 | 2022-01-07 | 2022-01-22 |
@@ -1979,6 +1979,7 @@
 | [Tee](https://open.spotify.com/track/7lipUxEvDX7gvpVLOoqiau) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Tee](https://open.spotify.com/album/33WzuSWcCF9RWYodM9c9aG) | 3:22 | 2022-06-03 | 2022-06-18 |
 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 | 2022-04-22 | 2022-05-07 |
 | [Teke Fren \- Voilaaa Remix](https://open.spotify.com/track/2GIEDsWQGAY0Kv4bnzflVy) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Teke Fren \(Voilaaa Remix\)](https://open.spotify.com/album/1zPNlZXn6vnpZqlzeGeTSh) | 3:31 | 2023-03-24 | 2023-04-16 |
+| [Temps en temps \(feat\. Kore\)](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [Temps en temps \(feat\. Kore\)](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 |  |
 | [Temps Mort](https://open.spotify.com/track/5SjDYaaYpyuNqYgNFrwLJv) | [RIP](https://open.spotify.com/artist/5VyEjYKwnt9lyULWcLJS9f) | [Temps Mort](https://open.spotify.com/album/4pKgXmDrEJL7kKKPftkOYt) | 2:51 | 2022-04-08 | 2022-04-16 |
 | [Temps perdu](https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:27 | 2022-03-04 | 2022-03-12 |
 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 | 2023-10-20 |  |

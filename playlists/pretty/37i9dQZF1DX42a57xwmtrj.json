@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 157089,
+  "num_followers": 157097,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2YxNTU5NGUzZDEyNjMzZjNhMzhkZTAxNjIwMWFmZGNlZjg1MWEx",
+  "snapshot_id": "MCxiOWU3ZDFlNmRhZjFlZmE0NTlhYmUxOTBjYzZmMjkzY2JlYzg1OTk4",
   "tracks": [
     {
       "added_at": "2023-10-23 20:26:24",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
+        "name": "\u00c9l No Lo Mat\u00f3",
+        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 278934,
+      "name": "\u00c9l No Lo Mat\u00f3",
+      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
         "name": "Cristo Viejo",
         "url": "https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy"
       },
@@ -687,22 +707,18 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "\u00c9l No Lo Mat\u00f3",
-        "url": "https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+          "name": "California Blues",
+          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
         }
       ],
-      "duration_ms": 278934,
-      "name": "\u00c9l No Lo Mat\u00f3",
-      "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"
+      "duration_ms": 186493,
+      "name": "Y Como Es \u00c9l",
+      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -719,22 +735,6 @@
       "duration_ms": 157988,
       "name": "Barata y Descont\u00f3",
       "url": "https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
-      },
-      "artists": [
-        {
-          "name": "California Blues",
-          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Y Como Es \u00c9l",
-      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 155852,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
         "name": "Caf\u00e9 Tacvba",
         "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 253013,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 155852,
-      "name": "Juan el Descuartizador",
-      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "Chavo de onda",
-      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "Por Tu Amor",
         "url": "https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 200388,
       "name": "Por Tu Amor",
       "url": "https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "Chavo de onda",
+      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+        "name": "Unidos Por El Rock, Vol. 1",
+        "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
       },
       "artists": [
         {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+          "name": "Isis",
+          "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
         }
       ],
-      "duration_ms": 188546,
-      "name": "Perro negro y callejero",
-      "url": "https://open.spotify.com/track/67RXRr041mkHvVAftpvKXm"
+      "duration_ms": 310706,
+      "name": "Peque\u00f1a y Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Unidos Por El Rock, Vol. 1",
-        "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
       },
       "artists": [
         {
-          "name": "Isis",
-          "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
         }
       ],
-      "duration_ms": 310706,
-      "name": "Peque\u00f1a y Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe"
+      "duration_ms": 188546,
+      "name": "Perro negro y callejero",
+      "url": "https://open.spotify.com/track/67RXRr041mkHvVAftpvKXm"
     },
     {
       "added_at": "2023-10-23 20:26:24",

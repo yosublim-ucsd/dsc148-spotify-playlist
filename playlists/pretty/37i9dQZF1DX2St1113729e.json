@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. PauByChance",
-  "num_followers": 124762,
+  "num_followers": 124754,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDUwYzdiZDMyNTlhZjNhOTVmYTZiOWE3NGY1NzU2ODQ5ZjQ5ZGY0",
+  "snapshot_id": "MCw5MDRmNDRhMmQyNDg3NGFjZWYzNjY2NTIwOWVjMzk1NDVjOTIxYzFh",
   "tracks": [
     {
       "added_at": "2023-12-15 09:57:03",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "debo dejar de fumar",
+        "url": "https://open.spotify.com/album/4G8fBBPQC00s5VH8d2p142"
+      },
+      "artists": [
+        {
+          "name": "Sergi Prim",
+          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+        },
+        {
+          "name": "exit303",
+          "url": "https://open.spotify.com/artist/3B77kZJvJq4OR9qsC7UXNW"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "debo dejar de fumar",
+      "url": "https://open.spotify.com/track/23ALSFU0TSYIf4Hp2IZdpG"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "INCEL",
         "url": "https://open.spotify.com/album/3eX3K3tfZF6UBaiTubLoWK"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 144348,
       "name": "pensando en m\u00ed",
       "url": "https://open.spotify.com/track/32hmIJoOZOS1WM0LL9zzeM"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "debo dejar de fumar",
-        "url": "https://open.spotify.com/album/4G8fBBPQC00s5VH8d2p142"
-      },
-      "artists": [
-        {
-          "name": "Sergi Prim",
-          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
-        },
-        {
-          "name": "exit303",
-          "url": "https://open.spotify.com/artist/3B77kZJvJq4OR9qsC7UXNW"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "debo dejar de fumar",
-      "url": "https://open.spotify.com/track/23ALSFU0TSYIf4Hp2IZdpG"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Cuando Te Veo Pasar",
-        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
+        "name": "Palante",
+        "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
       },
       "artists": [
         {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+          "name": "El Virtual",
+          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+        },
+        {
+          "name": "Valley Fresh On Sauce",
+          "url": "https://open.spotify.com/artist/1yij0rXHCHACWoIJVBjULZ"
         }
       ],
-      "duration_ms": 134697,
-      "name": "Cuando Te Veo Pasar",
-      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
+      "duration_ms": 111552,
+      "name": "Palante",
+      "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Palante",
-        "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
+        "name": "Cuando Te Veo Pasar",
+        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
       },
       "artists": [
         {
-          "name": "El Virtual",
-          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
-        },
-        {
-          "name": "Valley Fresh On Sauce",
-          "url": "https://open.spotify.com/artist/1yij0rXHCHACWoIJVBjULZ"
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
         }
       ],
-      "duration_ms": 111552,
-      "name": "Palante",
-      "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
+      "duration_ms": 134697,
+      "name": "Cuando Te Veo Pasar",
+      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "estr333s",
+        "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "estr333s",
+      "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Sailor Moon",
         "url": "https://open.spotify.com/album/0tUeOsk0jew3fjapOr68zQ"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 144544,
       "name": "L\u00aa N\u00aave",
       "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "estr333s",
-        "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
-      },
-      "artists": [
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "estr333s",
-      "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "BRAGUETA ABIERTA",
+        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
+      },
+      "artists": [
+        {
+          "name": "Sergi Prim",
+          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "BRAGUETA ABIERTA",
+      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Es Un Placer Conocerte",
         "url": "https://open.spotify.com/album/1AwLP3aCyVDW7WT770AVqz"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 160075,
       "name": "Es Un Placer Conocerte",
       "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "BRAGUETA ABIERTA",
-        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
-      },
-      "artists": [
-        {
-          "name": "Sergi Prim",
-          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "BRAGUETA ABIERTA",
-      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1699,6 +1699,46 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "GUAPO",
+        "url": "https://open.spotify.com/album/1z1A6QmxA6t9DbUFsBZ8bT"
+      },
+      "artists": [
+        {
+          "name": "BRAVA",
+          "url": "https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ"
+        },
+        {
+          "name": "Methone",
+          "url": "https://open.spotify.com/artist/0RRVkxuWM8c44DLsOOxYdG"
+        }
+      ],
+      "duration_ms": 152202,
+      "name": "GUAPO",
+      "url": "https://open.spotify.com/track/7Mlbm8PnW1HhyosWntcqdG"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "TikTok",
+        "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
+      },
+      "artists": [
+        {
+          "name": "Ure",
+          "url": "https://open.spotify.com/artist/0zdYNVXKtTexSAyDN5Wlz3"
+        },
+        {
+          "name": "Autotune Angel",
+          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
+        }
+      ],
+      "duration_ms": 128003,
+      "name": "TikTok",
+      "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Psicomaniatico",
         "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
       },
@@ -1727,46 +1767,6 @@
       "duration_ms": 200000,
       "name": "mis amigos! \u30fd(\u00b4\u25bd\uff40)\u30ce\"",
       "url": "https://open.spotify.com/track/6UH3GhaBcPyQ4Gs2T66VeS"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "TikTok",
-        "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
-      },
-      "artists": [
-        {
-          "name": "Ure",
-          "url": "https://open.spotify.com/artist/0zdYNVXKtTexSAyDN5Wlz3"
-        },
-        {
-          "name": "Autotune Angel",
-          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
-        }
-      ],
-      "duration_ms": 128003,
-      "name": "TikTok",
-      "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "GUAPO",
-        "url": "https://open.spotify.com/album/1z1A6QmxA6t9DbUFsBZ8bT"
-      },
-      "artists": [
-        {
-          "name": "BRAVA",
-          "url": "https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ"
-        },
-        {
-          "name": "Methone",
-          "url": "https://open.spotify.com/artist/0RRVkxuWM8c44DLsOOxYdG"
-        }
-      ],
-      "duration_ms": 152202,
-      "name": "GUAPO",
-      "url": "https://open.spotify.com/track/7Mlbm8PnW1HhyosWntcqdG"
     },
     {
       "added_at": "2023-12-15 09:57:03",

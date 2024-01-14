@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,778 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,783 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 18 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
 | 19 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 |
 | 20 | [For The One \- Instrumental](https://open.spotify.com/track/7ph250c2s06TIsL18QceuA) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 4:01 |
-| 21 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 |
-| 22 | [Take My Heart](https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW) | [Jordan Biel](https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw) | [Instrumental Worship Music, Vol\. 1](https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx) | 5:30 |
+| 21 | [Take My Heart](https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW) | [Jordan Biel](https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw) | [Instrumental Worship Music, Vol\. 1](https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx) | 5:30 |
+| 22 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 |
 | 23 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
 | 24 | [We Have Overcome](https://open.spotify.com/track/5kw4tBzuZmZpmlzDHjAuAn) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 4:24 |
 | 25 | [GO BACK](https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [GO BACK](https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1) | 2:37 |
@@ -91,16 +91,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 81 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 |
 | 82 | [Celeste](https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv) | [Kye Kye](https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ) | [Fantasize](https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3) | 3:44 |
 | 83 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 |
-| 84 | [Beckon](https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 6:34 |
-| 85 | [Weight of Heaven](https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv) | [Mezzo Piano](https://open.spotify.com/artist/5DD8fdenQJ9zgVLaQVYdPQ) | [Love Has a Name](https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c) | 4:30 |
+| 84 | [Weight of Heaven](https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv) | [Mezzo Piano](https://open.spotify.com/artist/5DD8fdenQJ9zgVLaQVYdPQ) | [Love Has a Name](https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c) | 4:30 |
+| 85 | [Beckon](https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 6:34 |
 | 86 | [A Dream Familiar](https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD) | [Daniel Jorgensen](https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ) | [A Search for Somewhere Else](https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs) | 2:32 |
 | 87 | [I Won't Let Go](https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won't Let Go](https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn) | 3:52 |
 | 88 | [Undress My Heart](https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Undress My Heart](https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo) | 3:45 |
 | 89 | [Psalm 108](https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 108](https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA) | 4:37 |
 | 90 | [Reverie](https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa) | [In Cathedrals](https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n) | [Reverie](https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1) | 4:12 |
 | 91 | [dust to dust/lose myself \(undone\)](https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone](https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z) | 4:51 |
-| 92 | [Suddenly](https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \- EP](https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN) | 4:49 |
-| 93 | [Anthem](https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK) | [SpiritFit Music](https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew) | [Spirit Stretch \(For Christian Yoga, Relaxation and Massage\)](https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4) | 5:46 |
+| 92 | [Anthem](https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK) | [SpiritFit Music](https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew) | [Spirit Stretch \(For Christian Yoga, Relaxation and Massage\)](https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4) | 5:46 |
+| 93 | [Suddenly](https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \- EP](https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN) | 4:49 |
 | 94 | [Faith Fall \- pensive piano](https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 4:18 |
 | 95 | [Velveteen](https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy) | [Christa Wells](https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby) | [Velveteen](https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO) | 3:57 |
 | 96 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [Even Here Love Comes \- Acoustic](https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo), [Teresa Bitoy](https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2) | [Even Here Love Comes](https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc) | 4:27 |
 | 100 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
 
-Snapshot ID: `MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4`
+Snapshot ID: `MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4`

@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 19575,
+  "2024-01-14": 19592,
   "date_first_scraped": "2022-12-01",
   "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1?si=TOzAEf6yTvWEDysOJWHqPA\"> Olivetheboy </a>",
   "name": "Ghana Party",
@@ -207,6 +207,24 @@
       "duration_ms": 164000,
       "name": "Affairs",
       "url": "https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a"
+    },
+    {
+      "album": {
+        "name": "Afrafranto",
+        "url": "https://open.spotify.com/album/6eaqs8ArRnHL7kpSeqj4mK"
+      },
+      "artists": [
+        {
+          "name": "Limuel",
+          "url": "https://open.spotify.com/artist/3NBnMiLgFDVmRmPEFTaWT8"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201702,
+      "name": "Afrafranto",
+      "url": "https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr"
     },
     {
       "album": {
@@ -431,7 +449,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 286039,
       "name": "Asikyire",
       "url": "https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 214629,
       "name": "Feeli Free",
       "url": "https://open.spotify.com/track/5vxXhQPRO0oMXujM4A0o7V"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 148490,
       "name": "Gbemidebe",
       "url": "https://open.spotify.com/track/7GnTsvc6WXJLnc94DT8wCG"
@@ -3241,7 +3259,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 173465,
       "name": "MY BABY",
       "url": "https://open.spotify.com/track/5WocaJtnBuISqoXTq89FYp"
@@ -5519,7 +5537,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 216911,
       "name": "Walk & Move",
       "url": "https://open.spotify.com/track/7MMmZ6Ja9JmKyFSKZhziPh"
@@ -5573,7 +5591,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 154811,
       "name": "Wo Be Di",
       "url": "https://open.spotify.com/track/3qdewg2LKF0GWD8Uw7JpHP"

@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14578,
+  "num_followers": 14586,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjhhNmFjODA1NjRkZjNjMDE5NTFkNTIxNWNkN2Y5OWZkYjZkNzQ4",
+  "snapshot_id": "MCxjZTE0NDgxNjY2NDdmYjU4MDVkYWY0YTBmMWU2YmUzNmJjNzJhMTAx",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Beware the Ides of March",
         "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 131039,
       "name": "You'll Be Sorry Now",
       "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+        "name": "Nothing Can Stop These Men",
+        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
       },
       "artists": [
         {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+          "name": "The Milkshakes",
+          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
         }
       ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
+      "duration_ms": 135400,
+      "name": "Ida Honey (Tell Me You'll Be Mine)",
+      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Nothing Can Stop These Men",
-        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
       "artists": [
         {
-          "name": "The Milkshakes",
-          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
         }
       ],
-      "duration_ms": 135400,
-      "name": "Ida Honey (Tell Me You'll Be Mine)",
-      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "14 Frenzied Shakers",
-        "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
-      },
-      "artists": [
-        {
-          "name": "Les Sexareenos",
-          "url": "https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "(Oh Mom) Teach Me How to Uncle Willy",
-      "url": "https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Whatcha Doin'",
         "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 217040,
       "name": "Summer Sun Blues",
       "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "14 Frenzied Shakers",
+        "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
+      },
+      "artists": [
+        {
+          "name": "Les Sexareenos",
+          "url": "https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4"
+        }
+      ],
+      "duration_ms": 154386,
+      "name": "(Oh Mom) Teach Me How to Uncle Willy",
+      "url": "https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj"
     },
     {
       "added_at": "2022-03-28 20:14:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,910 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,801 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 33 | [1, 2, 3 \(with Topic\)](https://open.spotify.com/track/0ELy9afthy6LVjF43Yw47l) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [1, 2, 3 \(with Topic\)](https://open.spotify.com/album/7nBfkzrJ7wG5Jjoyru5dvu) | 2:11 |
 | 34 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 35 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 |
-| 36 | [WYA](https://open.spotify.com/track/3EMYNGpOBYNstnpJvUJdzp) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Make It Better](https://open.spotify.com/album/5sk66M71toBpOhNFFZZcRx) | 2:51 |
+| 36 | [WYA](https://open.spotify.com/track/3EMYNGpOBYNstnpJvUJdzp) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Make It All Better](https://open.spotify.com/album/5sk66M71toBpOhNFFZZcRx) | 2:51 |
 | 37 | [Redline \- InHer Room](https://open.spotify.com/track/1w4iW3Bv2BmowTKzE7tORe) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer Room](https://open.spotify.com/album/4yuCd5c4U8IWNPgL671vlx) | 3:22 |
 | 38 | [Scars \(with Peder Elias\)](https://open.spotify.com/track/40d2xjTwbA5T0CNT0ljdR8) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Scars \(with Peder Elias\)](https://open.spotify.com/album/0eXBHqXWsdI8Vmy6SfSwZH) | 3:12 |
 | 39 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 74 | [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 |
 | 75 | [Drums \(Feat\. Kim Petras\) \- Tiësto Remix](https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drums \(Feat\. Kim Petras\) \[Tiesto Remix\]](https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2) | 2:52 |
 
-Snapshot ID: `MCw3ZGI3YzhiZWFiOTVlNzNmNjQ5M2EyNGNlYTJhZTRiZWNhMDZjMjc0`
+Snapshot ID: `MCw2ODQ4NmJmY2Y3Yzk0ODlkYzUxODExNDc4NzUxMGZhZTFlYjkzZWVh`

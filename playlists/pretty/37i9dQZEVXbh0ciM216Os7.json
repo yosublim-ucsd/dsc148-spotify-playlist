@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MTcyNjAsMDAwMDAwMDAzMTZjOGE3MmE3YWVjNzUxNzhkNzE4MjhhOGQyNzk0OQ==",
+  "snapshot_id": "Mjg0MTcyNjAsMDAwMDAwMDBjODFjNjhhMDlmNTY2MGIzMjZhNTU3Mjk4M2I1MzA0OQ==",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -47,26 +47,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Verbal Swords",
         "url": "https://open.spotify.com/album/6vjdLJ4Z2P6aCJMg4iQJua"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 175604,
       "name": "Verbal Swords",
       "url": "https://open.spotify.com/track/3izcPGbMdTZwhvv1l3Zwla"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -143,22 +143,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "INSANO",
-        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
+        "name": "Split A Meal (Slowed)",
+        "url": "https://open.spotify.com/album/7fPGC2tFue61gjqVCHPYf2"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "DJ TUT",
+          "url": "https://open.spotify.com/artist/4keIw4JHdNnty0vGWpGyg1"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 151933,
-      "name": "SEVEN (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/0pMqb24GW0NLPVkVw8NMVT"
+      "duration_ms": 131631,
+      "name": "Split A Meal (Slowed)",
+      "url": "https://open.spotify.com/track/7MeOf0lL0uW1qhO3VDohd3"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "2024 (Freestyle)",
         "url": "https://open.spotify.com/album/7c9ZMe54iv35c2cEX1dP13"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 211858,
       "name": "2024 (Freestyle)",
       "url": "https://open.spotify.com/track/4PIucCm13InnDwukJEVUL3"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -379,26 +379,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Decapitation Chamber",
-        "url": "https://open.spotify.com/album/4599NgmjSfdjeNgq1iarXi"
+        "name": "Caspa Clark- Ninja Warrior",
+        "url": "https://open.spotify.com/album/50hfWF7oWKIoM63p6XXeFY"
       },
       "artists": [
         {
-          "name": "Lazarus",
-          "url": "https://open.spotify.com/artist/5KZfRaQHfjizCZsoRV9vqA"
+          "name": "Caspa Clark",
+          "url": "https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "DJ Symphony",
-          "url": "https://open.spotify.com/artist/75nXQyLeB5YjzE7LV8l5gx"
         }
       ],
-      "duration_ms": 216082,
-      "name": "Decapitation Chamber",
-      "url": "https://open.spotify.com/track/7hkx7WJoBglksDJXL0ujoD"
+      "duration_ms": 209665,
+      "name": "We sell weed",
+      "url": "https://open.spotify.com/track/62c82cEDfgwjXUSGsJ8qjj"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -427,30 +423,150 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Shade of Blue",
-        "url": "https://open.spotify.com/album/7jPYGQ3pZ1Qq1qazTqOzP9"
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
       "artists": [
         {
-          "name": "T\u00f3mas R. Einarsson",
-          "url": "https://open.spotify.com/artist/1biHrpUQMF2IIsnvipp9Cv"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Kristj\u00e1n Magn\u00fasson",
-          "url": "https://open.spotify.com/artist/5xhra5T3Yva7Q0Y4d1L6d9"
-        },
-        {
-          "name": "Sveinn \u00d3li J\u00f3nsson",
-          "url": "https://open.spotify.com/artist/6fQMnY3UqEJTWsGzSpV2OB"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 417606,
-      "name": "Don\u2018t Blame Me",
-      "url": "https://open.spotify.com/track/5EK2DWMUXgbGdYclO6Z1yh"
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Rompe La Dompe",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 165634,
+      "name": "Rompe La Dompe",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Million Cash",
+        "url": "https://open.spotify.com/album/6lk6QEktC7WigyXE2aTaVr"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 144059,
+      "name": "Million Cash",
+      "url": "https://open.spotify.com/track/6Cds0aUGW0olm8E5kxSZ5J"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "PERCEPTION CHECK",
+        "url": "https://open.spotify.com/album/1oDeKWqb4qnYVUcIcFLkIk"
+      },
+      "artists": [
+        {
+          "name": "Tom Cardy",
+          "url": "https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw"
+        }
+      ],
+      "duration_ms": 109634,
+      "name": "PERCEPTION CHECK",
+      "url": "https://open.spotify.com/track/6o2nroFoqAxj7kSWLo6AGb"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Trailer Park Alien",
+        "url": "https://open.spotify.com/album/2jng3eNKEqvmCr05qndItO"
+      },
+      "artists": [
+        {
+          "name": "Brandon Jamar Scott",
+          "url": "https://open.spotify.com/artist/7sg0lv2LycL7ZWGXYfTYTk"
+        }
+      ],
+      "duration_ms": 89538,
+      "name": "Trailer Park Alien",
+      "url": "https://open.spotify.com/track/2cUNR9pD2yt5360rMafy9d"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Five Seven",
+        "url": "https://open.spotify.com/album/4HGaIaGzCa4Kb8S4EiWTAa"
+      },
+      "artists": [
+        {
+          "name": "Brian Jordan Alvarez",
+          "url": "https://open.spotify.com/artist/0C9MZIb6cOOnUgDtyzYg1B"
+        },
+        {
+          "name": "TJ Mack",
+          "url": "https://open.spotify.com/artist/4yTepqBG8SwTqK7DFnklwn"
+        }
+      ],
+      "duration_ms": 184957,
+      "name": "Five Seven",
+      "url": "https://open.spotify.com/track/2sUBfSrXHRe4Gbb3DUYtCO"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "ILLEGALS IN MY YARD",
+        "url": "https://open.spotify.com/album/6UpSlVyxlhCWg62GEtI2B9"
+      },
+      "artists": [
+        {
+          "name": "Matt Rogers",
+          "url": "https://open.spotify.com/artist/02Qld134hJvkRWYP5KaXPX"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "ILLEGALS IN MY YARD",
+      "url": "https://open.spotify.com/track/6s490uEVJ3t0OwCkKIVBze"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -479,154 +595,6 @@
       "duration_ms": 125225,
       "name": "Set In Stone",
       "url": "https://open.spotify.com/track/3i7xst5okV5Jowh4RAJNxe"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Lean Wit Me",
-        "url": "https://open.spotify.com/album/5Atb2nslVAPtuYQsHFTvxK"
-      },
-      "artists": [
-        {
-          "name": "Bandz Danero",
-          "url": "https://open.spotify.com/artist/6Ds1niarMgpaQKqZVnCdU5"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 209377,
-      "name": "Vices (feat. Wax)",
-      "url": "https://open.spotify.com/track/1vyyN86TAPy26pgX4Iv5yZ"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Super-Villain Team-Up",
-        "url": "https://open.spotify.com/album/2ASNVNKUTPvi1oKvkOFOaj"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Substance Abuse",
-          "url": "https://open.spotify.com/artist/2jjC2Y84TJgH7iBJ3qKD6O"
-        },
-        {
-          "name": "KutMasta Kurt",
-          "url": "https://open.spotify.com/artist/2T3TY0bgKbi5lH3TfD0m7O"
-        }
-      ],
-      "duration_ms": 268846,
-      "name": "Profitless Thoughts KutMasta Kurt REMIX",
-      "url": "https://open.spotify.com/track/3ri4PCDfOXN8KCKYKpZkCk"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Des\u00e7o e Subo",
-        "url": "https://open.spotify.com/album/5CBODdqgWdTRjCsXt6DSmW"
-      },
-      "artists": [
-        {
-          "name": "Os Libertino",
-          "url": "https://open.spotify.com/artist/1p3LNNkWiyocLuj90e1MhK"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 156864,
-      "name": "Des\u00e7o e Subo",
-      "url": "https://open.spotify.com/track/2ZNAxSjnYtDjZp2cCjklS1"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
-        "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
-      },
-      "artists": [
-        {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Mr. McAdams",
-        "url": "https://open.spotify.com/album/3tH2swD8wrxdLNNdCZXPuV"
-      },
-      "artists": [
-        {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
-        }
-      ],
-      "duration_ms": 156101,
-      "name": "Mr. McAdams",
-      "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Hackney Diamonds (Live Edition)",
-        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 334204,
-      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
-      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "What We're Up Against",
-        "url": "https://open.spotify.com/album/3LxpLZIrctTM8oLFrSD3VG"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Elize Ryd",
-          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
-        },
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "What We're Up Against feat. Elize Ryd of Amaranthe",
-      "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

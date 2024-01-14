@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Delilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,535 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,475 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [+Linda](https://open.spotify.com/track/72VZQD3XRqAUzi1EoOOTf6) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [+Linda](https://open.spotify.com/album/7nVscG0aRHuE4rcEkwtMes) | 3:15 |
 | 60 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
 
-Snapshot ID: `MCwwMTRhODBjYThmYmE0NGVkZWUyN2JmMTZkMTM0M2Q2OGExM2Q3MmMz`
+Snapshot ID: `MCw2ODkxNjZkYTc2ZjdlNDg1ZGQ3OTRlNTNmNDE3YTU5Yzg2MDlkMDAw`

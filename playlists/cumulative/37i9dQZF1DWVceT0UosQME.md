@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productivness\. u got this!
 
-500 songs - 19 hr 8 min
+501 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Apollo XV](https://open.spotify.com/track/6iGlxYtZu8uHltb63GWwX8) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Lil' Magic](https://open.spotify.com/album/3vYB22AkKq49RIfu0WCeUH) | 2:49 | 2024-01-05 |  |
 | [apple dumplins](https://open.spotify.com/track/02Mxkf8nzMQd9DiBLhfhA1) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [apple dumplins](https://open.spotify.com/album/4o2DvfLdEfzl0tmnoZhflh) | 2:33 | 2024-01-05 |  |
 | [are you still awake?](https://open.spotify.com/track/0yhPGQumNYiw9VI2MRzrxK) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [are you still awake?](https://open.spotify.com/album/3zM77eNvVTifUQdcsxf6Bc) | 2:01 | 2024-01-05 |  |
-| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2024-01-05 |  |
+| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2024-01-05 | 2024-01-14 |
 | [Artificial](https://open.spotify.com/track/5a5TO5nHnrrCRtEGNpO8jV) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Artificial](https://open.spotify.com/album/3v5ThC3GpRXSwxqjeBHlrQ) | 2:07 | 2024-01-05 |  |
 | [At the Coffe Shop](https://open.spotify.com/track/4qvFr1wmMtFVKNWQf3luUI) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [At the Coffee Shop](https://open.spotify.com/album/01t6ljHGKGIwtCxngi8dqO) | 1:15 | 2024-01-05 |  |
 | [Atlantic Ocean](https://open.spotify.com/track/79ueipIReBsOjdT1nusFnC) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Atlantic Ocean](https://open.spotify.com/album/6JcBrBWZTSLr6xVb7Pb7Hw) | 2:00 | 2024-01-05 |  |
@@ -485,6 +485,7 @@
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2024-01-05 |  |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2024-01-05 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2024-01-05 |  |
+| [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 | 2024-01-05 |  |
 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 | 2024-01-05 |  |
 | [waves](https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [waves](https://open.spotify.com/album/1N5uO19ere7Y3cbG41LHCk) | 3:02 | 2024-01-05 |  |
 | [We Are Love](https://open.spotify.com/track/5wZetUDyN1GQypcfUyxPqo) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 1:57 | 2024-01-05 |  |

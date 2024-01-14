@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 439118,
+  "2024-01-14": 439345,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -481,6 +481,28 @@
       "duration_ms": 412068,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1"
+    },
+    {
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Mar+Mer",
+          "url": "https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334284,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
     },
     {
       "album": {
@@ -3422,6 +3444,28 @@
     },
     {
       "album": {
+        "name": "Exito",
+        "url": "https://open.spotify.com/album/3jhWi7kPjPhEcw8hUUIQrO"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Sil Romero",
+          "url": "https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196807,
+      "name": "Exito",
+      "url": "https://open.spotify.com/track/2nqh8IbTzBbuf8aCwhElzX"
+    },
+    {
+      "album": {
         "name": "Extassy / In A Distorted Galaxy",
         "url": "https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0"
       },
@@ -4181,7 +4225,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 183934,
       "name": "Haze",
       "url": "https://open.spotify.com/track/1OJnrgbXv3YxEwgw9cDawF"
@@ -4531,7 +4575,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 556908,
       "name": "I Feel Love - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
@@ -6079,6 +6123,24 @@
       "duration_ms": 256000,
       "name": "Magical Signs",
       "url": "https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG"
+    },
+    {
+      "album": {
+        "name": "Maiye EP",
+        "url": "https://open.spotify.com/album/5EN0keN9Vj7axJHl8LgDWa"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382646,
+      "name": "Maiye",
+      "url": "https://open.spotify.com/track/2WI1B6gkTvsfwUgL1VbUGX"
     },
     {
       "album": {
@@ -7683,7 +7745,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 352986,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS"
@@ -9843,7 +9905,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 308934,
       "name": "Take Care - Maz Remix",
       "url": "https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0"
@@ -10345,6 +10407,28 @@
       "duration_ms": 348020,
       "name": "The Stars",
       "url": "https://open.spotify.com/track/6XZrEFdwo0cnbwy24llaLI"
+    },
+    {
+      "album": {
+        "name": "The Veil",
+        "url": "https://open.spotify.com/album/3q0jrW1dv7O5qSjrIr9mMS"
+      },
+      "artists": [
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251671,
+      "name": "The Veil",
+      "url": "https://open.spotify.com/track/4sXNEwBs1f7scjkmwy5J0u"
     },
     {
       "album": {

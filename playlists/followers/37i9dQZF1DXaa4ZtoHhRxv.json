@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 6911,
+  "2024-01-14": 6935,
   "date_first_scraped": "2022-01-02",
   "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter\n",
   "name": "Country Club",
@@ -2231,6 +2231,28 @@
       "duration_ms": 182000,
       "name": "Miss Me More - Cutmore & Wilson Remix",
       "url": "https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ"
+    },
+    {
+      "album": {
+        "name": "Missing You (feat. Nate Smith)",
+        "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187258,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Lil Nas X, Beyoncé, Harry Styles &amp; more! Cover: Lil Nas X
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,406 likes - 36 songs - 1 hr 55 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,376 likes - 36 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

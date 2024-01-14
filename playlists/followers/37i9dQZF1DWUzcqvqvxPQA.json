@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 25848,
+  "2024-01-14": 25844,
   "date_first_scraped": "2022-06-02",
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
   "name": "Rejoice for Summer",
@@ -335,7 +335,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 238573,
       "name": "City Lights (feat. Mitch Wong)",
       "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 184613,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa"

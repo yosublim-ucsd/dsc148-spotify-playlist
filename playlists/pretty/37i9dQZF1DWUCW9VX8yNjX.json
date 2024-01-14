@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 77217,
+  "num_followers": 77212,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmFkMjYyMGZmNTU0MjliNGYwMjJhZjVhNTFiZDhjOTcxZTA3YTJm",
+  "snapshot_id": "MCw3YmIzMTRmYzJkNzhkNzlhNjhmMDAwZjQwOTc5ZjcxMDMyOTNiNjMx",
   "tracks": [
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "A Qu\u00e9 Sabe El Olvido",
+      "url": "https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/3YOMXqqIaBYk3W4WecVqCg"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 175013,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/116BKjZNni7q1859acbI8M"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "A Qu\u00e9 Sabe El Olvido",
-      "url": "https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
+        "name": "La Historia De Un Idolo",
+        "url": "https://open.spotify.com/album/7HgnENwYD1XHwIMdZLIkhU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Las Llaves de Mi Alma",
+      "url": "https://open.spotify.com/track/4MJsKXrA6U3NDR81Icvqzn"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
         "name": "Para Sacarte De Mi Vida",
         "url": "https://open.spotify.com/album/5Z19fEDWinrVN1AtzXjx45"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 167000,
       "name": "Que Seas Muy Feliz",
       "url": "https://open.spotify.com/track/0Zyy54PmcZ2wUUhtDLaKkJ"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
-        "name": "La Historia De Un Idolo",
-        "url": "https://open.spotify.com/album/7HgnENwYD1XHwIMdZLIkhU"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Las Llaves de Mi Alma",
-      "url": "https://open.spotify.com/track/4MJsKXrA6U3NDR81Icvqzn"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Mis Canciones, Mis Amigos",
-        "url": "https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 186773,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Mis Canciones, Mis Amigos",
+        "url": "https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
+        "name": "Sigue la Dinast\u00eda",
+        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Puras Mentiras",
+      "url": "https://open.spotify.com/track/529nofAnYNOdE4EYazFT3x"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
         "name": "Mis Duetos",
         "url": "https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 212720,
       "name": "Aunque Mal Paguen Ellas (with Roberto Carlos) - Remasterizado 2005",
       "url": "https://open.spotify.com/track/0k5Dw1ZT0rS8qw9e4laIlY"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
-        "name": "Sigue la Dinast\u00eda",
-        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Puras Mentiras",
-      "url": "https://open.spotify.com/track/529nofAnYNOdE4EYazFT3x"
     },
     {
       "added_at": "2023-10-13 15:16:21",

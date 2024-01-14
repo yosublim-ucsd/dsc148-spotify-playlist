@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Suki Waterhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,413 likes - 175 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,231 likes - 175 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 28 | [we don't move](https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [we don't move](https://open.spotify.com/album/0XDaAj0BLRxre1JAmIu1Vn) | 2:40 |
 | 29 | [Wake to flowers](https://open.spotify.com/track/5rA5NU8FxazgSkXNmMN3KT) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Wake to flowers](https://open.spotify.com/album/76z55NJfoHhOLNSr2kpF8M) | 2:58 |
 | 30 | [Someday, Someday](https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Someday, Someday](https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m) | 3:00 |
-| 31 | [I Fall in love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 |
+| 31 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 |
 | 32 | [Please Be Careful](https://open.spotify.com/track/1QCRcAOltXgDMpMIzg6o78) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Please Be Careful](https://open.spotify.com/album/7ryr4h1oUwQiJfvKSFT4Cl) | 2:23 |
 | 33 | [Automatic](https://open.spotify.com/track/5MAPJoO23bsUgaxRsqOBSw) | [Schoolgirl Byebye](https://open.spotify.com/artist/6kfcndVsu8F9Y5gL5xc717), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Automatic](https://open.spotify.com/album/0CRnkJVVYdquqE2m4J5BH4) | 3:41 |
 | 34 | [Webcrawler](https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp) | 3:31 |
@@ -162,7 +162,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 152 | [Theme from Gabby's World](https://open.spotify.com/track/5tdtQmzah9HlPAyWH2QSrh) | [Gabby's World](https://open.spotify.com/artist/37px0xIkqWfzGRK5QbTIRu) | [GABBY SWORD](https://open.spotify.com/album/2m7lyh8fQtHzujta85xFbA) | 2:41 |
 | 153 | [Completely Half](https://open.spotify.com/track/2DaLtBGbyi8CSUXcKUxPTs) | [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Completely Half](https://open.spotify.com/album/6zgKarQVBUHxPoSzmMSk6B) | 4:20 |
 | 154 | [Woolgathering](https://open.spotify.com/track/7Ft23DcwyyiTeuiNvXyrSf) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Woolgathering](https://open.spotify.com/album/23MLPEeA9PvusSP1iCdsEQ) | 3:07 |
-| 155 | [FAST LOVE](https://open.spotify.com/track/21mtm9jy3qJrrajtWXvQel) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/4QUB4pWidBTtksxXVhDO19) | 3:26 |
+| 155 | [FAST LOVE](https://open.spotify.com/track/49RXDNZ5DB9v3YhB6fFM2C) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/2C1ihKLZTjo8wYGG0TGtDQ) | 3:26 |
 | 156 | [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 |
 | 157 | [Isn't Life Beautiful](https://open.spotify.com/track/5AfHuGfNS8FCPw4VcpZJus) | [Florence Rose](https://open.spotify.com/artist/63ZyqesWEYQfpkL12NFwre) | [Isn't Life Beautiful](https://open.spotify.com/album/3gojVCSniljvsSLBkkFY9Q) | 4:40 |
 | 158 | [Going For Oysters](https://open.spotify.com/track/2qJZU5QeYYYiPtlSd58qBH) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Going For Oysters](https://open.spotify.com/album/6JhI0FY95G2Q8Of2J0T9Ln) | 4:36 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [This Is Gonna Hurt](https://open.spotify.com/track/46HVIOMbE5dabV45fjJewz) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Surrenderland](https://open.spotify.com/album/1RWzchBYUY3RLNsbDOvIy4) | 3:31 |
 | 175 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 
-Snapshot ID: `MCwxMjczNGNmMzkxNmU0ZjVhYWIxMzUxMTAyZGY0YjYxMjQ3YTZhNWUw`
+Snapshot ID: `MCxmOTcwYmNlM2MzZjRmNzE4YjFhMmZiZTVkYWRhMDNlNDc0OGQ1ZjI2`

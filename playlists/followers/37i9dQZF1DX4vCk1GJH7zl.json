@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 135978,
+  "2024-01-14": 135977,
   "date_first_scraped": "2023-07-23",
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo\n",
   "name": "Rock Leve",
@@ -129,6 +129,24 @@
       "duration_ms": 249717,
       "name": "Adormecendo",
       "url": "https://open.spotify.com/track/44bcg7n1OAR75lSsN8beqZ"
+    },
+    {
+      "album": {
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
+      },
+      "artists": [
+        {
+          "name": "Dnaipes",
+          "url": "https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226624,
+      "name": "Alquimia",
+      "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
     },
     {
       "album": {
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 205786,
       "name": "Por Que Voc\u00ea Me Trata Assim?",
       "url": "https://open.spotify.com/track/29oGHO3PXrpHEjosASg9yr"

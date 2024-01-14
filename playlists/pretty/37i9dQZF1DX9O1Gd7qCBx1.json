@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 217020,
+  "num_followers": 216869,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjAyYTM5YzQ4NTk3MWY4NWVkOTkzYTU2MTRkZWFjM2MyNGIwZjk3",
+  "snapshot_id": "MCw1YTM2ZGNlZDA3MTQzNGNhMGQyMzg4NGRmMDI0NGVjZGYwYWQ5ODhi",
   "tracks": [
     {
       "added_at": "2023-11-08 15:57:38",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Cuatro Cirios",
-      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "El Ritmo De Chico Che Y La Crisis",
         "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 172643,
       "name": "Uy que miedo",
       "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Cuatro Cirios",
+      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "El Tren de la Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "El Fantasma Enamorado",
-      "url": "https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Mexicano Hasta los Huesos",
         "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 175896,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/4CpP8xMTH6vrlMkfCryXvM"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "El Tren de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "El Fantasma Enamorado",
+      "url": "https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Canci\u00f3n de las Brujas - Remasterizado",
-      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Mexicano Hasta los Huesos",
         "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 380023,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/6zbHGeoaJjwQXXZLEiOJGG"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Canci\u00f3n de las Brujas - Remasterizado",
+      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
-        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Trist\u00edsimo Pante\u00f3n",
-      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Quema Quema Quema",
         "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 232386,
       "name": "Si Te Mueres Ma\u00f1ana",
       "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
+        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Trist\u00edsimo Pante\u00f3n",
+      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 232037,
-      "name": "Pan de Muertos",
-      "url": "https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 138541,
       "name": "La Catr\u00edna Pobre",
       "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 232037,
+      "name": "Pan de Muertos",
+      "url": "https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Rosa Mexicano",
-        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
-      },
-      "artists": [
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Monton de Tierra",
-      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "La Danza de la Muerte (D\u00eda de Muertos)",
         "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 194092,
       "name": "La Danza de la Muerte - D\u00eda de Muertos",
       "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Rosa Mexicano",
+        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
+      },
+      "artists": [
+        {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Monton de Tierra",
+      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
-        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Para Cuando Muera",
-      "url": "https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Caracoles",
         "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 145484,
       "name": "El Funeral",
       "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
+        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Para Cuando Muera",
+      "url": "https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1"
     },
     {
       "added_at": "2023-11-08 15:57:38",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ?si=z4\_euryvR\_mfJ0N81OzznA">Abdullah Ibrahim</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,798 likes - 61 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,823 likes - 61 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleve Guyton Jr.](https://open.spotify.com/artist/1y2Ch662bdySaXcG4lu77g) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
+| 1 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
 | 2 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
 | 3 | [Hymn For Hani](https://open.spotify.com/track/1dyINry7aQw296piLxPzUB) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Hymn For Hani](https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg) | 11:56 |
 | 4 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 13 | [Kunzima Madoda](https://open.spotify.com/track/0hLqS3gWMiVvANb5HvndhP) | [Linda Tshabalala](https://open.spotify.com/artist/2owcGskTifdgn9Tw7sK9p7) | [Convergence Bekezela Siyeza](https://open.spotify.com/album/3tmmJjesjQuWYgA2qvafpe) | 6:02 |
 | 14 | [Rainbow Revisited](https://open.spotify.com/track/3yATpiGQJGOrYidye4ebc9) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 7:13 |
 | 15 | [Piece of Ground](https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [What Is Wrong With Groovin'](https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs) | 4:25 |
-| 16 | [Mindif \- Single Edit](https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleve Guyton Jr.](https://open.spotify.com/artist/1y2Ch662bdySaXcG4lu77g) | [Mindif](https://open.spotify.com/album/0fGJTOhEGxKMIEFtsemF19) | 4:16 |
+| 16 | [Mindif \- Single Edit](https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Mindif](https://open.spotify.com/album/0fGJTOhEGxKMIEFtsemF19) | 4:16 |
 | 17 | [The Only Way](https://open.spotify.com/track/3GMXYzMmRHOi6Al01r68Pz) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Baddies of Isandlwana](https://open.spotify.com/album/2Qb0wKVzovx3uKAn0ktgOc) | 4:16 |
 | 18 | [Majampa Jampa](https://open.spotify.com/track/2BbZxaStk8il8epewh9Dbp) | [Kgethi Nkotsi](https://open.spotify.com/artist/4wzL116zQJRoKFm99b6zFx) | [Maswitsi](https://open.spotify.com/album/42wwNyvnXH1ic9WXoDMPih) | 4:14 |
 | 19 | [The Meeting Place](https://open.spotify.com/track/70ECtruJHPrf2eoEMLdDqU) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Siparia Deltones](https://open.spotify.com/artist/72CBLZTw8aO90bXlS8vMUz), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Siparia To Soweto](https://open.spotify.com/album/4xCOJRqTHEqgNVKZIYBL5u) | 6:15 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 60 | [Intlokomo](https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Intlokomo](https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG) | 6:58 |
 | 61 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 |
 
-Snapshot ID: `MCxhNzlkMGZmYjBlMzg4M2JhZGU2OGY3NGRlNWMzOTg4MzgzODhhZTBj`
+Snapshot ID: `MCxiZmI4M2E3NDEwOTg4N2NmMzU3YjZiYjEzMzQ3NDBmNmYyMDQ2NzJi`

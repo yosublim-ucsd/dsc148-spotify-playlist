@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 152773,
+  "num_followers": 152791,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGUwMGExZGM0NzVjZjI3MDlhMTUzZWU1NmY1ZTEyZWI1YzhjNjIy",
+  "snapshot_id": "MCw4ZGRlMzQwOThjNWI4OGEzYTdjNTg1NTMyMWZiYzgwMjg1MmNiMmU3",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Desert Rose Band",
-        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
-      },
-      "artists": [
-        {
-          "name": "The Desert Rose Band",
-          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Love Reunited",
-      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Austinology - Alleys of Austin",
@@ -735,6 +719,38 @@
       "duration_ms": 256106,
       "name": "Cosmic Cowboy",
       "url": "https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Desert Rose Band",
+        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
+      },
+      "artists": [
+        {
+          "name": "The Desert Rose Band",
+          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Love Reunited",
+      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "Plain Dirt Fashion",
+        "url": "https://open.spotify.com/album/41ckoI2wpAGGSBvPlvOd0e"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "duration_ms": 222773,
+      "name": "Cadillac Ranch",
+      "url": "https://open.spotify.com/track/0wS4sl5pEkqINDgFJ39qcH"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -783,22 +799,6 @@
       "duration_ms": 195693,
       "name": "Step on Out",
       "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "Plain Dirt Fashion",
-        "url": "https://open.spotify.com/album/41ckoI2wpAGGSBvPlvOd0e"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "Cadillac Ranch",
-      "url": "https://open.spotify.com/track/0wS4sl5pEkqINDgFJ39qcH"
     },
     {
       "added_at": "2020-08-05 15:52:11",

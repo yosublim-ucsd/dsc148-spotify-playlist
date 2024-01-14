@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 162400,
+  "num_followers": 162533,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTIzM2VkMDJjZGQ4M2NlNjQ1Mzc3ZTljZjRlNzYzZDY3MGEzZTli",
+  "snapshot_id": "MCw5MjY3MzZkYTk3MmU0MGE3NDNhYTk2NWVhYjYyN2QzZjdhYTBhYzk3",
   "tracks": [
     {
       "added_at": "2023-11-09 16:46:30",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
+        "name": "Medium Bastard",
+        "url": "https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY"
+      },
+      "artists": [
+        {
+          "name": "You Slut!",
+          "url": "https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Fiftzeen",
+      "url": "https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
         "name": "X'ed Out",
         "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 225334,
       "name": "minet",
       "url": "https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
-        "name": "Medium Bastard",
-        "url": "https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY"
-      },
-      "artists": [
-        {
-          "name": "You Slut!",
-          "url": "https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Fiftzeen",
-      "url": "https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Psych!",
-        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
-      },
-      "artists": [
-        {
-          "name": "Shaolin",
-          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
-        }
-      ],
-      "duration_ms": 276551,
-      "name": "Aquabus",
-      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "P\u00e1ramo",
         "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
       },
@@ -1447,34 +1431,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
+        "name": "Psych!",
+        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
       },
       "artists": [
         {
-          "name": "FRDZ",
-          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
+          "name": "Shaolin",
+          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
         }
       ],
-      "duration_ms": 245290,
-      "name": "Habanero",
-      "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
-        "name": "Propulsor",
-        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
-      },
-      "artists": [
-        {
-          "name": "Helices",
-          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
-        }
-      ],
-      "duration_ms": 381360,
-      "name": "Una Historia para Acabar Con Todas las Historias",
-      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
+      "duration_ms": 276551,
+      "name": "Aquabus",
+      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1495,6 +1463,22 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
+        "name": "Propulsor",
+        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
+      },
+      "artists": [
+        {
+          "name": "Helices",
+          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
+        }
+      ],
+      "duration_ms": 381360,
+      "name": "Una Historia para Acabar Con Todas las Historias",
+      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
         "name": "I left work on my way home december 1st 1955",
         "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 228440,
       "name": "Hornet Vision",
       "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
+      },
+      "artists": [
+        {
+          "name": "FRDZ",
+          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Habanero",
+      "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Abajo la Tarea",
-        "url": "https://open.spotify.com/album/74s1lnDnhjzuDdK3LovTXs"
+        "name": "003: Haiyah!",
+        "url": "https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE"
       },
       "artists": [
         {
-          "name": "Corriendo",
-          "url": "https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w"
+          "name": "DJ Perro",
+          "url": "https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE"
         }
       ],
-      "duration_ms": 141776,
-      "name": "El Sol Es un Holgaz\u00e1n",
-      "url": "https://open.spotify.com/track/5m3QSbDsffb9ROpMlYZsGR"
+      "duration_ms": 234451,
+      "name": "003: Haiyah!",
+      "url": "https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "003: Haiyah!",
-        "url": "https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE"
+        "name": "Abajo la Tarea",
+        "url": "https://open.spotify.com/album/74s1lnDnhjzuDdK3LovTXs"
       },
       "artists": [
         {
-          "name": "DJ Perro",
-          "url": "https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE"
+          "name": "Corriendo",
+          "url": "https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w"
         }
       ],
-      "duration_ms": 234451,
-      "name": "003: Haiyah!",
-      "url": "https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3"
+      "duration_ms": 141776,
+      "name": "El Sol Es un Holgaz\u00e1n",
+      "url": "https://open.spotify.com/track/5m3QSbDsffb9ROpMlYZsGR"
     }
   ],
   "unique_name": "Math Rock",

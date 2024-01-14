@@ -4,7 +4,7 @@
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>別假裝 在絕望的盡頭就是希望。
 
-152 songs - 11 hr 27 min
+153 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,12 +88,13 @@
 | [我們盡力了](https://open.spotify.com/track/7o1TK2v9JvUHo47LIYjWTd) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [我們盡力了](https://open.spotify.com/album/0pcqjPwBloZXi7PW8KC8Uq) | 5:11 | 2022-06-01 | 2022-07-22 |
 | [我恨我愛你](https://open.spotify.com/track/1aQdSw1B6uOBErzNN6jsXx) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [真實 \(Remastered\)](https://open.spotify.com/album/6IgxzPmPjyRen4tUstQ1Ov) | 4:31 | 2022-06-01 | 2022-07-29 |
 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 | 2022-06-01 |  |
-| [我愛的人](https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [抱一抱](https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg) | 4:26 | 2023-02-06 |  |
+| [我愛的人](https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [抱一抱](https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg) | 4:26 | 2023-02-06 | 2024-01-14 |
 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 | 2022-06-01 |  |
 | [我真的受傷了](https://open.spotify.com/track/5cN75zXR3M4si2toC2eF5C) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [學友．熱](https://open.spotify.com/album/16vik0cfPFsAZ6XJeQMyoR) | 3:28 | 2022-06-01 |  |
 | [我真的受傷了](https://open.spotify.com/track/0gbSZhHZDVAoxtFzqxL4LD) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [Black & White](https://open.spotify.com/album/1D9U7rOcWFzMp8gOpOC4sC) | 3:31 | 2022-06-01 | 2022-07-29 |
 | [拿走了什麼](https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [罪惡感](https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv) | 4:56 | 2022-06-01 | 2022-07-29 |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-06-01 | 2024-01-10 |
+| [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2023-12-06 |  |
 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 | 2022-06-01 | 2022-07-29 |
 | [放不下的活著 \- 電視劇《復仇女王》插曲](https://open.spotify.com/track/3YW82LtENbvme3mOkgsPxI) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [放不下的活著 \(電視劇《復仇女王》插曲\)](https://open.spotify.com/album/7G6S5mVc4lNvotJRKCWooq) | 4:50 | 2022-06-01 | 2022-07-18 |
 | [无人签收的幸福](https://open.spotify.com/track/1TH0bmdPHvfgDZdpyXFSpm) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [无人签收的幸福](https://open.spotify.com/album/3xxObyRQS4B8eE963HZlAj) | 3:57 | 2022-06-01 | 2022-06-16 |

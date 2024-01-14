@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 110707,
+  "num_followers": 110771,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjhlNjA3NWQ0NTEyYTUxMTQ2Nzk1ZGM1ZGJkOTZjNWY1YzgwZDgy",
+  "snapshot_id": "MCxlNjkwNjA2YzEwNDVmY2E5YmY4YWEyZTVmNGE1MzY2NTM4NmIzODY3",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 139095,
-      "name": "Anata",
-      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "It's Ok",
         "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 139095,
+      "name": "Anata",
+      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0bil6MWGHYccY9YHiwiJgK"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Coco - Instrumental",
-      "url": "https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "west",
         "url": "https://open.spotify.com/album/2KRk8B1FmtNsMJQAVPsauR"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 177882,
       "name": "west",
       "url": "https://open.spotify.com/track/53euCZa2GQ6kN18ZxU1dbf"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0bil6MWGHYccY9YHiwiJgK"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Coco - Instrumental",
+      "url": "https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Eshkol",
-        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Eshkol",
-      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Retrospective",
         "url": "https://open.spotify.com/album/4922ftLUafUKJBk7pB1MNQ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 131000,
       "name": "The Red",
       "url": "https://open.spotify.com/track/2w67xp8vRX5ucbjac7fslS"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Eshkol",
+        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Eshkol",
+      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
-      },
-      "artists": [
-        {
-          "name": "Jewlz",
-          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Birdie_",
         "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 149333,
       "name": "Birdie_ - Instrumental",
       "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
+      },
+      "artists": [
+        {
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "tv-guides . (mini-tape)",
-        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 79911,
-      "name": "yoyogi park",
-      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Farmingdale",
         "url": "https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 180427,
       "name": "Farmingdale",
       "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "tv-guides . (mini-tape)",
+        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 79911,
+      "name": "yoyogi park",
+      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0627\u0644\u0628\u0627\u0631\u062f",
-        "url": "https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C"
-      },
-      "artists": [
-        {
-          "name": "Deeb",
-          "url": "https://open.spotify.com/artist/7pjuu5qyxT0hyCdUbhmyDt"
-        }
-      ],
-      "duration_ms": 86360,
-      "name": "\u0633\u0645\u0631\u0627\u0621",
-      "url": "https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "If You Show Me Love",
         "url": "https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 90044,
       "name": "If You Show Me Love",
       "url": "https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0627\u0644\u0628\u0627\u0631\u062f",
+        "url": "https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C"
+      },
+      "artists": [
+        {
+          "name": "Deeb",
+          "url": "https://open.spotify.com/artist/7pjuu5qyxT0hyCdUbhmyDt"
+        }
+      ],
+      "duration_ms": 86360,
+      "name": "\u0633\u0645\u0631\u0627\u0621",
+      "url": "https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Dini Maak",
-        "url": "https://open.spotify.com/album/3wwQ2C251PhaWMg4HOJKNg"
-      },
-      "artists": [
-        {
-          "name": "El 3ou",
-          "url": "https://open.spotify.com/artist/38h3VqFpjD1n62bnLXq6B9"
-        }
-      ],
-      "duration_ms": 112706,
-      "name": "Dini Maak",
-      "url": "https://open.spotify.com/track/5q8EKTjlWkcMjoMWCdHeHb"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Daydream in Green",
         "url": "https://open.spotify.com/album/3nkRVQuQNbFm3sid5OPCOR"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 220722,
       "name": "Daydream in Green",
       "url": "https://open.spotify.com/track/3ig0oMG2de0KiuMlHIyfgB"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Dini Maak",
+        "url": "https://open.spotify.com/album/3wwQ2C251PhaWMg4HOJKNg"
+      },
+      "artists": [
+        {
+          "name": "El 3ou",
+          "url": "https://open.spotify.com/artist/38h3VqFpjD1n62bnLXq6B9"
+        }
+      ],
+      "duration_ms": 112706,
+      "name": "Dini Maak",
+      "url": "https://open.spotify.com/track/5q8EKTjlWkcMjoMWCdHeHb"
     },
     {
       "added_at": "2022-03-22 11:23:16",

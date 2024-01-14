@@ -4,7 +4,7 @@
 
 > New music from Waxahatchee x MJ Lenderman, Faye Webster x Lil Yachty, Youth Lagoon and more..\.  Cover: Faye Webster
 
-1,951 songs - 4 day 21 hr 18 min
+1,952 songs - 4 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,8 @@
 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 | 2023-07-21 | 2023-08-26 |
 | [Far Away From Home](https://open.spotify.com/track/1S8p8ckDT2D6imAfsppGRl) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 4:25 | 2019-08-09 | 2019-12-07 |
 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 | 2021-07-19 | 2022-04-09 |
-| [FAST LOVE](https://open.spotify.com/track/21mtm9jy3qJrrajtWXvQel) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/4QUB4pWidBTtksxXVhDO19) | 3:26 | 2023-12-08 |  |
+| [FAST LOVE](https://open.spotify.com/track/21mtm9jy3qJrrajtWXvQel) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/4QUB4pWidBTtksxXVhDO19) | 3:26 | 2023-12-08 | 2024-01-14 |
+| [FAST LOVE](https://open.spotify.com/track/49RXDNZ5DB9v3YhB6fFM2C) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/2C1ihKLZTjo8wYGG0TGtDQ) | 3:26 | 2023-12-08 |  |
 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-17 | 2023-05-27 |
 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 | 2022-06-30 | 2022-07-22 |
 | [Feeling Like I Do \- Spotify Singles](https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Spotify Singles](https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN) | 3:56 | 2022-07-08 | 2022-07-15 |

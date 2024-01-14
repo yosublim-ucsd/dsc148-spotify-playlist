@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Mari Fernandez, Ariana Grande, Alok e Bebe Rexha e muito mais!",
-  "num_followers": 1918757,
+  "num_followers": 1915812,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2QzYmNkYWVkZWVhZGNjNTk5Mzk0N2UwNjgxY2QyZTkwYWM4NjRl",
+  "snapshot_id": "MCxhODRmYmUyYjY4YzQ5ZGNkM2U3YjgyNWI3ZThmYWQ1YjExZWRiYWQ5",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -668,12 +668,12 @@
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
           "name": "J\u00fanior Almeida",
           "url": "https://open.spotify.com/artist/0OytAL6sRfvj2KcTGxQDS7"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
       "duration_ms": 174270,
@@ -867,7 +867,7 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Quebrado (Ao Vivo)",
+        "name": "Cora\u00e7\u00e3o Quebrado",
         "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
       },
       "artists": [
@@ -877,7 +877,7 @@
         }
       ],
       "duration_ms": 193222,
-      "name": "Cora\u00e7\u00e3o Quebrado - Ao Vivo",
+      "name": "Cora\u00e7\u00e3o Quebrado",
       "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
     },
     {
@@ -1681,7 +1681,7 @@
         },
         {
           "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/5tDA2ASPifm5dQeMvsczNa"
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         },
         {
           "name": "DJ Dudah",

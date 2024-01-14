@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 172593,
+  "2024-01-14": 172610,
   "date_first_scraped": "2022-01-02",
   "description": "Music City must-hears. Cover: Brittney Spencer",
   "name": "Next From Nashville",
@@ -1991,6 +1991,24 @@
       "duration_ms": 203239,
       "name": "At The End Of The Dirt Road",
       "url": "https://open.spotify.com/track/2IR8eI1sWfJlTaYGcIsOxv"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH"
     },
     {
       "album": {
@@ -4490,6 +4508,24 @@
     },
     {
       "album": {
+        "name": "Can't Pass The Bar",
+        "url": "https://open.spotify.com/album/0Y70X8MDQbVtz0XtdflzAV"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161133,
+      "name": "Can't Pass The Bar",
+      "url": "https://open.spotify.com/track/7fhs0anz1GueX9JnprYITm"
+    },
+    {
+      "album": {
         "name": "Can't Teach That",
         "url": "https://open.spotify.com/album/2QR4P6gtF4XA4W0MVClG16"
       },
@@ -6461,7 +6497,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 187346,
       "name": "Deathbed",
       "url": "https://open.spotify.com/track/6i0PAqQSb5R5bc5y1Lt3ZK"
@@ -9017,7 +9053,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 228610,
       "name": "Fly On The Wall",
       "url": "https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze"
@@ -13361,7 +13397,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 249625,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3A0AYh7WkYsatq8JU3IdJt"
@@ -13419,6 +13455,24 @@
       "duration_ms": 204489,
       "name": "I Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/0AQ3u9Uzk3IG5r7sjYH0Cu"
+    },
+    {
+      "album": {
+        "name": "I Am Who I Am",
+        "url": "https://open.spotify.com/album/45vIi38tqGnbnvzNq1RQUj"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192265,
+      "name": "I Am Who I Am",
+      "url": "https://open.spotify.com/track/0EUqDGSdQp9sFKmwnLQtt1"
     },
     {
       "album": {
@@ -13985,6 +14039,24 @@
       "duration_ms": 226288,
       "name": "I Know It",
       "url": "https://open.spotify.com/track/2FjfREsrdyQlxusXBsiLlj"
+    },
+    {
+      "album": {
+        "name": "I Know It\u2019ll Never End",
+        "url": "https://open.spotify.com/album/6FZBJXoiTOMGScOWc0uepS"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "I Know It\u2019ll Never End",
+      "url": "https://open.spotify.com/track/7mJF8GrNWZl5TRrGzqf6je"
     },
     {
       "album": {
@@ -16591,7 +16663,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 197264,
       "name": "Life's Too Short",
       "url": "https://open.spotify.com/track/3xISh7wbRG20bjyI2pF9tZ"
@@ -20173,7 +20245,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 178800,
       "name": "New Money",
       "url": "https://open.spotify.com/track/1vPW161G6LojRJXdk6bw8y"
@@ -20692,6 +20764,24 @@
     },
     {
       "album": {
+        "name": "Not Yet",
+        "url": "https://open.spotify.com/album/64X6Dn40pMX4gBBkfr91b1"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/6Vecr80tnNQJmyoIMWkiCq"
+    },
+    {
+      "album": {
         "name": "Note to Self",
         "url": "https://open.spotify.com/album/4rjH55hv2qMcmmAsh3fdgN"
       },
@@ -20999,7 +21089,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 204715,
       "name": "OK Cowboy",
       "url": "https://open.spotify.com/track/01lARb2d5zmKIVUaHjSfZM"
@@ -21869,6 +21959,24 @@
       "duration_ms": 208491,
       "name": "Over You",
       "url": "https://open.spotify.com/track/3vHjXYGFc6CbDOTvfYWGqS"
+    },
+    {
+      "album": {
+        "name": "Over You By Now",
+        "url": "https://open.spotify.com/album/5Hcdlov17KDmJWYxrU35Hn"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189838,
+      "name": "Over You By Now",
+      "url": "https://open.spotify.com/track/0CgxDsdIwgMDuSmmLnKqpT"
     },
     {
       "album": {
@@ -23135,7 +23243,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 178998,
       "name": "Red Dirt Church (feat. NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a"
@@ -23463,6 +23571,24 @@
       "duration_ms": 159218,
       "name": "Right Round Here",
       "url": "https://open.spotify.com/track/77F3Qyv91XIFIi7oRfifEW"
+    },
+    {
+      "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/5XfGPoHtk22IuKP3Rjz5cF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Carey",
+          "url": "https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123088,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/7lgga6Zfj8gWhrkHlScRJr"
     },
     {
       "album": {
@@ -25970,6 +26096,24 @@
     },
     {
       "album": {
+        "name": "Sound Of Missing You",
+        "url": "https://open.spotify.com/album/2fzSL2prvp7ZxmoKaapK6E"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229337,
+      "name": "Sound Of Missing You",
+      "url": "https://open.spotify.com/track/4CDTIEtvz4DOEQyvTUN1E7"
+    },
+    {
+      "album": {
         "name": "Sound of You Gone",
         "url": "https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf"
       },
@@ -26021,6 +26165,24 @@
       "duration_ms": 191986,
       "name": "Sounds Like Something I\u2019d Do",
       "url": "https://open.spotify.com/track/04mqH7zFXvSxPWmAoR9Dkl"
+    },
+    {
+      "album": {
+        "name": "Sounds Like The Radio",
+        "url": "https://open.spotify.com/album/3Ca8JBhNiiE2bsPDwsxOdV"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218867,
+      "name": "Sounds Like the Radio",
+      "url": "https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO"
     },
     {
       "album": {
@@ -27675,7 +27837,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 163154,
       "name": "texas hold 'em.",
       "url": "https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve"
@@ -27791,6 +27953,24 @@
       "duration_ms": 172314,
       "name": "That Drink (feat. Neal McCoy)",
       "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
+    },
+    {
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/3BD4KMwRYV4g2TEMxKYM67"
     },
     {
       "album": {
@@ -27993,7 +28173,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 198844,
       "name": "The Day That I'm Over You",
       "url": "https://open.spotify.com/track/6ZnV68nwB7llr1I22kQjmQ"
@@ -29527,7 +29707,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 180453,
       "name": "Too Much And Not Enough",
       "url": "https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8"

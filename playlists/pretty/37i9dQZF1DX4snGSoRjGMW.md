@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,019 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,053 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 32 | [Thru Chasin' You](https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [I'll Sing the Blues for You](https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4) | 4:55 |
 | 33 | [One Monkey Don't Stop No Show](https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [Blues Keep Knockin'](https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz) | 3:14 |
 | 34 | [Standing In The Wings](https://open.spotify.com/track/0GPkIcpZbx8c79jUA72UfG) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Sweet Dreams](https://open.spotify.com/album/3W8UBKrVDYpY9sXhDB7cDi) | 4:50 |
-| 35 | [Betcha Didn't Know](https://open.spotify.com/track/2sXl847DWvw9guoTrHpdSL) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/3m8b3Hgnjzn9r19PmXenfI) | 4:17 |
+| 35 | [Betcha Didn't Know](https://open.spotify.com/track/0lQ5vJJhJWjxpvoilbq137) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/0GahKnjx2DsUw3ZN2mdinA) | 4:17 |
 | 36 | [Engines And Wings](https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:16 |
 | 37 | [What Can A Man Do?](https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Make It Rain](https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF) | 5:16 |
 | 38 | [I Can't Hold It](https://open.spotify.com/track/1qXR67RYl9k6A4C3eUQU9P) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/43hMohTDeOQaAp6tML5G68) | 4:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 79 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |
 | 80 | [Say What You Mean](https://open.spotify.com/track/7moJNXUN9kWKhUYgE55pKG) | [Robert Ward](https://open.spotify.com/artist/2EhEsO2w9hIRm84aiy6sla) | [Rhythm Of The People](https://open.spotify.com/album/63srEUyuzfcMeuSBQn5fvB) | 4:21 |
 
-Snapshot ID: `MCxhYmFjZWE4NWZhODZmOWVmMTE4MWNhNzRmZGU5NDAwZDEwMjNjYWEy`
+Snapshot ID: `MCw0YWUzMWExNmFkYzI4MTk0MGE1ZjZjYmQyYWZiMGI3N2RmYWEyYjEw`

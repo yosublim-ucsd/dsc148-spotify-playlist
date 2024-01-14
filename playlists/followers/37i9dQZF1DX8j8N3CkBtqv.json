@@ -1,7 +1,7 @@
 {
-  "2024-01-13": 68565,
+  "2024-01-14": 68576,
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- AUR",
+  "description": "Naye Indie gaano ka khazana! Cover- Prateeksha Srivastava, A$AD",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 179318,
       "name": "Bawariya",
       "url": "https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 177324,
       "name": "Beqabu",
       "url": "https://open.spotify.com/track/1gsg1dpxEylMO7Iiz7DAV6"
@@ -1844,6 +1844,28 @@
     },
     {
       "album": {
+        "name": "Dil Na Laage",
+        "url": "https://open.spotify.com/album/707iJF1SzEcGPytosRmLJD"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        },
+        {
+          "name": "Ravneet Singh",
+          "url": "https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Dil Na Laage",
+      "url": "https://open.spotify.com/track/1iQ06QdWjaaPKmwQrJCx49"
+    },
+    {
+      "album": {
         "name": "Dil Teri Raah",
         "url": "https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ"
       },
@@ -2053,6 +2075,42 @@
       "duration_ms": 228437,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/1y03W4HsIWvZlXY7IBXIyk"
+    },
+    {
+      "album": {
+        "name": "Farishtey",
+        "url": "https://open.spotify.com/album/14fQu5HUVoOZJfd0ApAAuo"
+      },
+      "artists": [
+        {
+          "name": "Siddhant Goenka",
+          "url": "https://open.spotify.com/artist/4kgBKXp1xa4tHOwH0MEGdP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201882,
+      "name": "Farishtey",
+      "url": "https://open.spotify.com/track/1k3i030OvSLAjHf4wv4pf2"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2PLq0SQ3zJzt6N7y301pAG"
+      },
+      "artists": [
+        {
+          "name": "BAWA",
+          "url": "https://open.spotify.com/artist/397KJT6AbxxE3UgpLktTvR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147258,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/0GP7XgKRqaGsUf0ILvTaDt"
     },
     {
       "album": {
@@ -2271,6 +2329,24 @@
       "duration_ms": 164116,
       "name": "Gir Ke Uth Padenge Hum",
       "url": "https://open.spotify.com/track/3HHjwIdGW6eMVfv6x5sOLy"
+    },
+    {
+      "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197095,
+      "name": "Girls Night",
+      "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
     },
     {
       "album": {
@@ -2583,7 +2659,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 187096,
       "name": "Hua Asar Tera",
       "url": "https://open.spotify.com/track/2pfxlloUY1qL5zPCgI6r5N"
@@ -2814,6 +2890,28 @@
     },
     {
       "album": {
+        "name": "Jaane Kyu Diya",
+        "url": "https://open.spotify.com/album/7bFjkNxfriKVb0WUZRPx3P"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "A$AD",
+          "url": "https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Jaane Kyu Diya",
+      "url": "https://open.spotify.com/track/1bP6nyNtpIx4VuEEiAPQJM"
+    },
+    {
+      "album": {
         "name": "Jaane Kyun",
         "url": "https://open.spotify.com/album/35tiVpTGRw9i7dBL9wUZ6J"
       },
@@ -2997,6 +3095,28 @@
       "duration_ms": 164848,
       "name": "jhalle aa",
       "url": "https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd"
+    },
+    {
+      "album": {
+        "name": "Jiya Jaise",
+        "url": "https://open.spotify.com/album/7cOkHnDXeP1bZYiscIIMcj"
+      },
+      "artists": [
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Jiya Jaise",
+      "url": "https://open.spotify.com/track/0HN9mR6ajzVOnJcD4L0R8Z"
     },
     {
       "album": {
@@ -3399,7 +3519,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 223650,
       "name": "Khabar",
       "url": "https://open.spotify.com/track/4yRpchPXbL6Le1vgNSDDzo"
@@ -3809,7 +3929,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 217864,
       "name": "Kill Me Now",
       "url": "https://open.spotify.com/track/173057f6S2oeU3E3fOn4Fs"
@@ -4001,7 +4121,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 123000,
       "name": "Kya Fayeda",
       "url": "https://open.spotify.com/track/4RbLpueIJyEkiq312bSyCh"
@@ -4733,7 +4853,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 188000,
       "name": "Muskan - Acoustic",
       "url": "https://open.spotify.com/track/3ZEmgsL1KUBrgjawKL4OTY"
@@ -5121,6 +5241,28 @@
       "duration_ms": 199024,
       "name": "Parinda",
       "url": "https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT"
+    },
+    {
+      "album": {
+        "name": "Parwaaz",
+        "url": "https://open.spotify.com/album/3Hs3LgTNTl5zZyvbhsdPSm"
+      },
+      "artists": [
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210125,
+      "name": "Parwaaz",
+      "url": "https://open.spotify.com/track/30yLu7ZxVdCC78PeljUek0"
     },
     {
       "album": {
@@ -5629,6 +5771,32 @@
       "duration_ms": 206769,
       "name": "Rut",
       "url": "https://open.spotify.com/track/5uh7keTPmUsignN5Ic4xz3"
+    },
+    {
+      "album": {
+        "name": "Saahiba",
+        "url": "https://open.spotify.com/album/7mlb1stM6vE1g4vtHn0GBG"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Saahiba",
+      "url": "https://open.spotify.com/track/76z2uAcGGoOhIxSdOwxlQJ"
     },
     {
       "album": {
@@ -6455,7 +6623,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 178714,
       "name": "Tera Ho Gaya",
       "url": "https://open.spotify.com/track/59FM7MmPIP1MsQE5cMlAAn"
@@ -7160,6 +7328,24 @@
     },
     {
       "album": {
+        "name": "Tujhe Pukara",
+        "url": "https://open.spotify.com/album/04aiEaFZxFv4dcSA57w9vB"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Srinivasan",
+          "url": "https://open.spotify.com/artist/0b7kHhI5N93ZxMuMiBy7Tl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209702,
+      "name": "Tujhe Pukara",
+      "url": "https://open.spotify.com/track/5qUOx33fdEP9DWAUbTW9rf"
+    },
+    {
+      "album": {
         "name": "Tujhsa Koi",
         "url": "https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p"
       },
@@ -7301,7 +7487,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 178000,
       "name": "Udta Parinda",
       "url": "https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb"

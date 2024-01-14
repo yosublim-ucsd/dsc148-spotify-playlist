@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 182117,
       "name": "AFFETMEM",
       "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 202424,
       "name": "Alt\u00fcst Olmu\u015fum",
       "url": "https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 162354,
       "name": "An\u0131lar\u0131 Yak",
       "url": "https://open.spotify.com/track/46f5m73YzI227nseI9LquF"
@@ -1162,6 +1162,24 @@
       "duration_ms": 180226,
       "name": "Ara",
       "url": "https://open.spotify.com/track/1iEMuRRbD04w92WzHYkJrF"
+    },
+    {
+      "album": {
+        "name": "ARABA",
+        "url": "https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "ARABA",
+      "url": "https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM"
     },
     {
       "album": {
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 155748,
       "name": "Ayr\u0131 Gitme",
       "url": "https://open.spotify.com/track/6dqkb11C20YDLZNhNAzWxz"
@@ -3153,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "bu gece karakolluk olabilirim",
+        "url": "https://open.spotify.com/album/6v4lQt7VW06iHKrjuW071m"
+      },
+      "artists": [
+        {
+          "name": "Mert Ali Aslan",
+          "url": "https://open.spotify.com/artist/5vaqBLjNLseAiCCU12ZoHO"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175509,
+      "name": "bu gece karakolluk olabilirim",
+      "url": "https://open.spotify.com/track/2CNqJNwrybE70v6eBjpBOV"
+    },
+    {
+      "album": {
         "name": "24 Ayar",
         "url": "https://open.spotify.com/album/5Ii0po9FpJQPqCwlY8xGze"
       },
@@ -3562,7 +3598,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 170943,
       "name": "Cehennemin Dibi",
       "url": "https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y"
@@ -4109,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "Dilerim Ki",
+        "url": "https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno"
+      },
+      "artists": [
+        {
+          "name": "Dolu Kadehi Ters Tut",
+          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Dilerim Ki",
+      "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
+    },
+    {
+      "album": {
         "name": "Akustik Travma",
         "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
       },
@@ -4319,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
+        "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133755,
+      "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
+      "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
+    },
+    {
+      "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
       },
@@ -4462,6 +4534,24 @@
       "duration_ms": 265800,
       "name": "D\u00fcld\u00fcl",
       "url": "https://open.spotify.com/track/6kbIemHzAcnM60eHdrUI4u"
+    },
+    {
+      "album": {
+        "name": "D\u00fcnya",
+        "url": "https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "D\u00fcnya",
+      "url": "https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r"
     },
     {
       "album": {
@@ -5888,7 +5978,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -11597,6 +11687,28 @@
     },
     {
       "album": {
+        "name": "Pembe Yalanlar",
+        "url": "https://open.spotify.com/album/1ZH4K6KCduXb7nNmO8WwQk"
+      },
+      "artists": [
+        {
+          "name": "13 Killoki",
+          "url": "https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Pembe Yalanlar",
+      "url": "https://open.spotify.com/track/5aHLIBealPSywmnIpebRGI"
+    },
+    {
+      "album": {
         "name": "Pen\u00e7e",
         "url": "https://open.spotify.com/album/3vaQY7xSf4KjNSL0Ku0vdg"
       },
@@ -14056,7 +14168,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 168542,
       "name": "Telefon",
       "url": "https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM"
@@ -16100,6 +16212,24 @@
       "duration_ms": 111520,
       "name": "\u015eahane",
       "url": "https://open.spotify.com/track/4DbNopoUiA7WRz36e1hRS1"
+    },
+    {
+      "album": {
+        "name": "\u015ealteri Kapatt\u0131m",
+        "url": "https://open.spotify.com/album/37TgJm4FBxXemuA2A44Ztg"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106610,
+      "name": "\u015ealteri Kapatt\u0131m",
+      "url": "https://open.spotify.com/track/1PqVXQrffEeYMgcnrAs4Gb"
     },
     {
       "album": {

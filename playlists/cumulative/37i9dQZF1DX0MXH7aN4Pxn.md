@@ -4,7 +4,7 @@
 
 > 
 
-403 songs - 21 hr 7 min
+404 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Call on Me](https://open.spotify.com/track/1pAZU3UZ8MoGbpuiNyD2Et) | [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [Covenants](https://open.spotify.com/artist/13QkZsAUXqAXVMGhMDEluJ) | [Call on Me](https://open.spotify.com/album/6isGo2QqA0vMAtCerAbd9x) | 2:32 | 2022-04-15 | 2022-07-08 |
 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2022-04-15 | 2023-11-10 |
 | [Calling](https://open.spotify.com/track/7IxrpgNvMEtRt5SO4UA4Bv) | [Chaya](https://open.spotify.com/artist/5t7FfMHr6IwUH5k2sLZ4n1) | [Calling](https://open.spotify.com/album/5v9JGhI8lAV05lTYjPQUaZ) | 3:40 | 2022-04-15 | 2022-07-29 |
-| [Can't You See \- Radio Edit](https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Can't You See](https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy) | 3:22 | 2022-04-15 |  |
+| [Can't You See \- Radio Edit](https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Can't You See](https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy) | 3:22 | 2022-04-15 | 2024-01-14 |
 | [Celebration](https://open.spotify.com/track/0sIWHEb9PH9J5n2ZZEMuGQ) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Celebration](https://open.spotify.com/album/0Ih9DQmjJCq6H6WtgvNsI0) | 3:22 | 2022-04-15 | 2022-07-06 |
 | [Cheat On Me](https://open.spotify.com/track/5cyhSoTAR7L0g6z6WcPL0T) | [Brunelle](https://open.spotify.com/artist/4g5oZpDOgN4hVwCS93BcXh) | [Cheat On Me](https://open.spotify.com/album/3KNn6Mx3WBIOayWEul8u1o) | 3:01 | 2022-06-20 | 2022-07-22 |
 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 | 2022-04-15 | 2022-07-24 |
@@ -377,6 +377,7 @@
 | [Visions](https://open.spotify.com/track/2u1yvW3lL5tflC0isyIFKF) | [Pablo Bravas](https://open.spotify.com/artist/792OYnsrG3nrC4HDDSEwpq) | [Visions](https://open.spotify.com/album/5wS7R350UnBLfgxYkmlPH6) | 3:06 | 2022-04-15 | 2022-07-28 |
 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 | 2023-11-10 |  |
 | [Waiting \(feat\. Pablo Bravas\)](https://open.spotify.com/track/6R0y6rfttQZqKmbKI9A2VG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Pablo Bravas](https://open.spotify.com/artist/792OYnsrG3nrC4HDDSEwpq) | [Waiting \(feat\. Pablo Bravas\)](https://open.spotify.com/album/1b6HpGj2vIApDK5jnQFg3o) | 2:24 | 2022-04-15 | 2022-06-30 |
+| [Waking Up](https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Waking Up](https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H) | 2:34 | 2024-01-12 |  |
 | [Walk On Water](https://open.spotify.com/track/26OcKTbjJBj5Je0ohI61zu) | [Kokiri](https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv) | [Walk On Water](https://open.spotify.com/album/4OAcdI5bbBBUTN3KomHRzM) | 2:56 | 2022-04-15 | 2022-07-29 |
 | [Wanna Be](https://open.spotify.com/track/7LaY0WEnbY6rTqzSfoU5jj) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Wanna Be](https://open.spotify.com/album/3xUpADnjRH0Wsuky9k0ktp) | 3:30 | 2022-04-15 | 2024-01-05 |
 | [Was a Time](https://open.spotify.com/track/4L3oBxjWLPgQkf2FXIWgx8) | [Kinetic Minds](https://open.spotify.com/artist/5SuFUtMmTZFoBmRZrOcdpG) | [Was a Time](https://open.spotify.com/album/5TA3haAJzyzFsdovYNZwNI) | 2:39 | 2022-04-15 | 2022-05-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,750 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,819 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [O Dia](https://open.spotify.com/track/7dOshwpifuDUfbHDSFVKld) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [O Dia](https://open.spotify.com/album/3FNVfaYAcIaxYlcbrbzCxL) | 6:08 |
 | 75 | [Te Louvarei](https://open.spotify.com/track/6dKHmRsN74LZ7BiMdC0znb) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Te Louvarei](https://open.spotify.com/album/2VurG8NqUWqYArLdPA4pik) | 4:36 |
 
-Snapshot ID: `MCw4N2U0ZTc4ZmI2MGVkOWE5MDg1Yzk2NDU2YTQzNzI2YmU0MTliNTgy`
+Snapshot ID: `MCwzZjRlNmU1MTczMTU1YjkzNDQ0MjFkNTJlMGYwZDZiMjVlMWZiZGVk`

@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-464 songs - 1 day 3 hr 41 min
+465 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Burn It Away](https://open.spotify.com/track/32LZoWfLpIfffpKI0BkqUZ) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Burn It Away](https://open.spotify.com/album/2qSJxSUyGFDAvRHmr3MxCR) | 2:42 | 2023-07-21 | 2023-07-29 |
 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 | 2023-01-20 | 2023-07-14 |
 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 | 2022-04-01 | 2022-04-18 |
-| [By Your Stripes](https://open.spotify.com/track/4wSv15ySAkejSbUmpWI8Nt) | [MARV](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [By Your Stripes](https://open.spotify.com/album/7B9oQRNfp82bgUsINsaNpL) | 4:26 | 2023-01-20 |  |
+| [By Your Stripes](https://open.spotify.com/track/4wSv15ySAkejSbUmpWI8Nt) | [MARV](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [By Your Stripes](https://open.spotify.com/album/7B9oQRNfp82bgUsINsaNpL) | 4:26 | 2023-01-20 | 2024-01-14 |
 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 | 2022-04-08 | 2023-11-01 |
 | [Can You Feel It \(feat\. Tamela Mann\) \- Kirk Franklin Remix](https://open.spotify.com/track/1aTvsZ24hGnqavThyNo7nY) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Triumph \(Expanded Version\)](https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7) | 5:48 | 2022-04-01 | 2022-06-05 |
 | [CAN'T](https://open.spotify.com/track/0FCzQqeK1Kqpmvjr4rrZ8H) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [CAN'T](https://open.spotify.com/album/4A6vxUHZmpN3qq4ysEC90z) | 3:40 | 2022-02-19 | 2022-06-26 |
@@ -345,6 +345,7 @@
 | [Rescued](https://open.spotify.com/track/0JbnRJjLOuM5fCO1lK6Gc5) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Rescued](https://open.spotify.com/album/6HRJBgzN5liP0zXwpSiVx7) | 2:45 | 2023-10-31 | 2024-01-13 |
 | [residue](https://open.spotify.com/track/02Ci7VPwsy35XBGhktQoVo) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC), [Elie SuYang](https://open.spotify.com/artist/6fuCBEz40ltAQ8ktzJ7NHI) | [no collabs](https://open.spotify.com/album/4QjfPwegbK8zoQTlybqPGl) | 2:53 | 2022-04-01 | 2022-04-16 |
 | [Ride](https://open.spotify.com/track/0pyOoYHx2hFK7GaTP4fviU) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/7kgZwZuFDoKs01rwOwXMig) | 2:41 | 2023-01-20 | 2023-02-07 |
+| [Ride](https://open.spotify.com/track/7fn9wyVJvDOVkOI1UpU20x) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/4YXNOs51XA1tTdcMoJg7kk) | 2:41 | 2024-01-12 |  |
 | [Right One](https://open.spotify.com/track/3xATcbXDNhUyp9sokuLChl) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Right One](https://open.spotify.com/album/6zg3IitJ0RvBXxjXOujjag) | 3:25 | 2022-02-19 | 2022-06-26 |
 | [Rollin'](https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:18 | 2023-01-20 | 2023-07-22 |
 | [Run On](https://open.spotify.com/track/2dFwwb7q8lfR4cJR4K2weJ) | [JoJo Martin](https://open.spotify.com/artist/7gyT3c9PhZWtGgJ43adxKU) | [Temporary Tears](https://open.spotify.com/album/3kZxVbCo3dEXwWyifG4Vhh) | 4:27 | 2022-07-17 | 2023-07-17 |

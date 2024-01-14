@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Sarz, Asake, Gunna
 
-393 songs - 20 hr 13 min
+394 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Outside](https://open.spotify.com/track/2FnIELwahdkPX2GGR1t8rf) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Mozek](https://open.spotify.com/artist/2fuTSJvQrVSvCXiiMHRLEF), [KAMPBELL](https://open.spotify.com/artist/0iGbumcE6J2nlMu0nHNSw0) | [Outside](https://open.spotify.com/album/15faiVF18L4Vk7SnCxqKgJ) | 3:18 | 2023-03-16 | 2023-08-18 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-07 |  |
 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 | 2023-05-25 | 2023-11-11 |
-| [Own Enemy](https://open.spotify.com/track/4PsRUx4pV6s1oWhma7NxJn) | [Kolé](https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd) | [Own Enemy](https://open.spotify.com/album/0BrrYjfByRlrpAThxu76vb) | 2:56 | 2023-11-02 |  |
+| [Own Enemy](https://open.spotify.com/track/26x9fsg3fqsgtvlntsGv7P) | [Kolé](https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd) | [Own Enemy](https://open.spotify.com/album/6KVmsGCG5q0XNdFl3TQXdh) | 2:56 | 2024-01-11 |  |
+| [Own Enemy](https://open.spotify.com/track/4PsRUx4pV6s1oWhma7NxJn) | [Kolé](https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd) | [Own Enemy](https://open.spotify.com/album/0BrrYjfByRlrpAThxu76vb) | 2:56 | 2023-11-02 | 2024-01-14 |
 | [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 | 2022-07-18 | 2022-12-02 |
 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 | 2023-11-02 |  |
 | [PARTY & BS](https://open.spotify.com/track/6AvILUPVLwuDcSbqxICA4r) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [PARTY & BS](https://open.spotify.com/album/4DBFog4Noo1bZjrWGUYgAv) | 2:49 | 2023-11-16 | 2023-12-15 |

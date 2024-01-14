@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 126430,
+  "2024-01-14": 126429,
   "date_first_scraped": "2022-09-18",
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
   "name": "This Is Chuck Berry",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 141960,
       "name": "Almost Grown",
       "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 162400,
       "name": "Around And Around",
       "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 151400,
       "name": "Berry Picking",
       "url": "https://open.spotify.com/track/6F4aIzp1hASqm61oknBrBQ"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 203400,
       "name": "Blues For Hawaiians",
       "url": "https://open.spotify.com/track/0FvO7DbDxOr5LKyKhMAwe9"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 122533,
       "name": "Bye Bye Johnny - Single Version",
       "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 168600,
       "name": "Carol",
       "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 138693,
       "name": "Deep Feeling",
       "url": "https://open.spotify.com/track/5WzcyZ29VEeMimQpAiDc8q"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 130506,
       "name": "Down The Road Apiece",
       "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 139520,
       "name": "Guitar Boogie",
       "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 147866,
       "name": "House Of Blue Lights",
       "url": "https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 132973,
       "name": "I Got To Find My Baby - Single Version",
       "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 140466,
       "name": "I Want To Be Your Driver - Stereo Remix",
       "url": "https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 108653,
       "name": "Jaguar And Thunderbird - Single Version",
       "url": "https://open.spotify.com/track/15GFTL6NH2ZbT4EsX0gYKS"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 175560,
       "name": "Lady B. Goode",
       "url": "https://open.spotify.com/track/3mtry5ywMoh9yz388egZb9"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 102800,
       "name": "Let It Rock - Single Version",
       "url": "https://open.spotify.com/track/2OCoH12t6olzx9bT1PEC8F"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 131800,
       "name": "Memphis, Tennessee",
       "url": "https://open.spotify.com/track/3UYtylPa55RqHS1YDGZoLs"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 143306,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 151773,
       "name": "Rock And Roll Music",
       "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 160693,
       "name": "School Day (Ring Ring Goes The Bell)",
       "url": "https://open.spotify.com/track/3RYwxAkUbHCzCmX8M0C0Zd"
@@ -1959,7 +1959,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 129840,
       "name": "You Two",
       "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"

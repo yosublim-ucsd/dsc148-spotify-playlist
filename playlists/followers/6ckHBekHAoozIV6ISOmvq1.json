@@ -1,7 +1,7 @@
 {
-  "2024-01-13": 546,
+  "2024-01-14": 547,
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:1KZMCWImik3vA17zVLJ3c3\">Orthodox Chant</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:1KZMCWImik3vA17zVLJ3c3\">Orthodox Chant</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 577333,
       "name": "Anc no mori per amor ni per al",
       "url": "https://open.spotify.com/track/5Pk2BmxSIFzPrt1P2pfhsT"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2019-11-02",
+      "date_removed": null,
       "duration_ms": 237514,
       "name": "Ave Maris Stella",
       "url": "https://open.spotify.com/track/2WdQ4xybalIJmVkqBygNeB"
@@ -3145,7 +3145,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 484626,
       "name": "Can vei la lauzeta",
       "url": "https://open.spotify.com/track/79h6bCt3IETWeiBVZfqbDC"
@@ -3215,7 +3215,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 411280,
       "name": "Can Vei La Lauzeta Mover",
       "url": "https://open.spotify.com/track/7hcAAAhhCOua4a8Y4TQxEW"
@@ -3919,7 +3919,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 190533,
       "name": "Carmina Burana: Clauso Cronos",
       "url": "https://open.spotify.com/track/6V8tODEW4YyPhWzkpTauYn"
@@ -5553,7 +5553,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 340453,
       "name": "Da Pacem Domine",
       "url": "https://open.spotify.com/track/6iDlSzDMjsMkJp15IUGtRj"
@@ -5793,7 +5793,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 538266,
       "name": "Danses",
       "url": "https://open.spotify.com/track/3Q2OQg40yRnjf5WyiPg4d3"
@@ -5865,6 +5865,28 @@
       "duration_ms": 266773,
       "name": "Dan\u00e7a Vint",
       "url": "https://open.spotify.com/track/5oYAlTAHpOnyNa5COCVn6F"
+    },
+    {
+      "album": {
+        "name": "Mein traut gesell: Secular Songs of the Late Minnesang",
+        "url": "https://open.spotify.com/album/0smGmREsGQYPJrf0ByUmZY"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6nch von Salzburg",
+          "url": "https://open.spotify.com/artist/18Hv2uBoaUkaciEeogtbp3"
+        },
+        {
+          "name": "Ensemble F\u00fcr Fruhe Musik Augsburg",
+          "url": "https://open.spotify.com/artist/20MBM0nqGVrsUjWEcUnQgi"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311986,
+      "name": "Das nachthorn",
+      "url": "https://open.spotify.com/track/51kl04J72ncbROeuCfj9MD"
     },
     {
       "album": {
@@ -7047,7 +7069,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 965173,
       "name": "El Cant de la Sibilla",
       "url": "https://open.spotify.com/track/0fshMdI7GanqBBYM29tWqU"
@@ -8463,7 +8485,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 181066,
       "name": "Gloria in canon (reconstructed M. Bent)",
       "url": "https://open.spotify.com/track/10Oe1yAsd3yky1MLJCCL0O"
@@ -9707,7 +9729,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 490426,
       "name": "Intemerata Dei mater",
       "url": "https://open.spotify.com/track/13dTXGC6c4t9XPMaAzumtU"
@@ -9841,7 +9863,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 194746,
       "name": "Ir alten weib un Frewt ew",
       "url": "https://open.spotify.com/track/130oPMih4HG97UUVKjuzqD"
@@ -10085,7 +10107,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 237760,
       "name": "Istampitta Ghaetta",
       "url": "https://open.spotify.com/track/08thulheLTQnauL99duiIX"
@@ -10709,7 +10731,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 497746,
       "name": "Keuschlich geboren",
       "url": "https://open.spotify.com/track/0y3aU4Jnm5yZoqxJID3aEj"
@@ -11229,7 +11251,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 350933,
       "name": "La Mort de Moli\u00e8re (After Purcell's King Arthur) [Arr. by Ren\u00e9 Clemencic]",
       "url": "https://open.spotify.com/track/0QWBoRJBqOOHyE2QNOvc4J"
@@ -12723,7 +12745,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 366628,
       "name": "Magnificat",
       "url": "https://open.spotify.com/track/5dt4WIHaVlfJiWb06LyzI4"
@@ -12797,7 +12819,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 477373,
       "name": "Matteo da Perugia: H\u00e9las avril",
       "url": "https://open.spotify.com/track/3zKQ8PUZ4vve0O3Bc5yjsI"
@@ -12819,7 +12841,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 225640,
       "name": "Mayenzeit one Neidt",
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
@@ -13333,7 +13355,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 356440,
       "name": "Missa cantilena: Credo II (From Modena, Biblioteca estense MS M.5.24)",
       "url": "https://open.spotify.com/track/23SE386AcVZRnRjdr8C9o3"
@@ -13923,7 +13945,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 330973,
       "name": "Musique profane: I. Una panthera in compagnia di marte",
       "url": "https://open.spotify.com/track/6WG5bLKCHkQQv8LjHDJYO3"
@@ -15477,7 +15499,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t!",
       "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
@@ -15789,7 +15811,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 287240,
       "name": "Pavane, Gaillarde & Branle de Champagne",
       "url": "https://open.spotify.com/track/72MyMeH7PPBwjqQljbblN3"
@@ -16363,7 +16385,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 263666,
       "name": "Pois tornaz sui en Proensa",
       "url": "https://open.spotify.com/track/3xIiR7uGtHlNIwJbyArlVO"
@@ -16911,7 +16933,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 194533,
       "name": "Quand je voy yver...",
       "url": "https://open.spotify.com/track/1dtFpdFr4hsboiZHCxWeHr"
@@ -18586,6 +18608,32 @@
     },
     {
       "album": {
+        "name": "Part: Passio",
+        "url": "https://open.spotify.com/album/1yaWpQThsWzykG5il5M9dw"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Tonus Peregrinus",
+          "url": "https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8"
+        },
+        {
+          "name": "Antony Pitts",
+          "url": "https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577693,
+      "name": "St. John Passion: Passio Domini Nostri Jesu Christi secundum Joannem",
+      "url": "https://open.spotify.com/track/3DvGGa1i24t0Yt4C1sKSMH"
+    },
+    {
+      "album": {
         "name": "Tesserae",
         "url": "https://open.spotify.com/album/7qV54d9E1NcVkaURKtewvi"
       },
@@ -19093,7 +19141,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 361306,
       "name": "Tempus est iocundum",
       "url": "https://open.spotify.com/track/0dp0KYAuc7upA68ugumXdR"
@@ -19561,7 +19609,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 183973,
       "name": "Two Saltarelli",
       "url": "https://open.spotify.com/track/1wLhznM19DXaPZBmYN0y3P"
@@ -19912,6 +19960,32 @@
     },
     {
       "album": {
+        "name": "Venecie mundi splendor: Marvels of Medieval Venice (Music for the Doges, 1330-1430)",
+        "url": "https://open.spotify.com/album/1VwNj1y7SeUPurC1PVCExN"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ciconia",
+          "url": "https://open.spotify.com/artist/6Yux5045CWzC4UqxDX74sQ"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        },
+        {
+          "name": "Claudia Caffagni",
+          "url": "https://open.spotify.com/artist/3DKozmT2a2semeshgeOmUD"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Venecie mundi splendor / Michael qui Stena domus",
+      "url": "https://open.spotify.com/track/07vSZ8HZGKJzZAaPk7bfxZ"
+    },
+    {
+      "album": {
         "name": "Dunstable: Quam Pulchra Es / Veni Sancte Spiritus / Mass Movements",
         "url": "https://open.spotify.com/album/42dF8lsWScG35n44SXsOdR"
       },
@@ -20247,7 +20321,7 @@
       ],
       "date_added": "2020-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 261986,
       "name": "Volez oir la muse Muset?",
       "url": "https://open.spotify.com/track/6Mrdas6Pv8lKjqkeTemjM7"
@@ -20373,7 +20447,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 191760,
       "name": "Wacht auff ir werden Christen",
       "url": "https://open.spotify.com/track/79sQJ42D8DcycH8uW3RxZP"

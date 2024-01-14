@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande \(pictured\), D\-Block Europe, The Vaccines and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,350 likes - 119 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,100 likes - 119 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 61 | [Miss A Moment](https://open.spotify.com/track/7p2oHNSy9qMmxlB2vftYYG) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Miss A Moment](https://open.spotify.com/album/7GgilcQdvDY08B11ZPLkoO) | 2:53 |
 | 62 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
 | 63 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 |
-| 64 | [luvsick \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [luvsick \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
+| 64 | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
 | 65 | [Running Man](https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Running Man](https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf) | 3:11 |
 | 66 | [Alarm Bells](https://open.spotify.com/track/7uaNVAg5qZubsXQeNZtSL9) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [Alarm Bells](https://open.spotify.com/album/2T78Snl8tp2eiHntPCOtZb) | 2:43 |
 | 67 | [Easy](https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:08 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 118 | [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 |
 | 119 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
 
-Snapshot ID: `MCw2NzQ1ZTNlZTU0YWIxZTNlNDdiYWY4MWQ2MDcwYjYwNTU4MGY0NWE4`
+Snapshot ID: `MCw1Y2Y0MDc1MmRmYjRiZWIxOTMxMTFiYjYzYzAxMjQwYWM4YWZhNDRl`

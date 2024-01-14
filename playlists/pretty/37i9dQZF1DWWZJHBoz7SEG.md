@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Escucha las canciones mas 'fetch' de la semana! \(Mensaje aprobado por Regina George\) 💅💋👠 Kali Uchis y Peso Pluma en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,654 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,256 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
 | 50 | [Boys Choir](https://open.spotify.com/track/4juwtI8VB83lvY4Qh4MTmD) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Boys Choir](https://open.spotify.com/album/5HEUho0Em2bvo50H4ONsZA) | 4:08 |
 
-Snapshot ID: `MCw3Nzk3ZDlmYWJhMWNiM2MwMDlkNDQ5ZjlhYTQ4YTI1Y2I4MDQ5NjEw`
+Snapshot ID: `MCxlMmU2NThkOTBjMDZjNjA1ZWEzNmY2MzQwOTYyMjRmYTdmYTA3Mzdj`

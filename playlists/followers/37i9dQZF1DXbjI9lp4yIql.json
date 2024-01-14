@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 13459,
+  "2024-01-14": 13492,
   "date_first_scraped": "2023-04-07",
   "description": "Descubre la historia del rock en Am\u00e9rica Latina con el soundtrack de \"Rompan Todo\", una serie documental original de Netflix.",
   "name": "Rompan Todo",
@@ -919,7 +919,7 @@
     {
       "album": {
         "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
       },
       "artists": [
         {
@@ -930,6 +930,24 @@
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 334600,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ"
+    },
+    {
+      "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"

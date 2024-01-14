@@ -1,7 +1,7 @@
 {
-  "2024-01-13": 32185,
+  "2024-01-14": 32245,
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Koffi Olomide",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Zola",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1020,6 +1020,28 @@
     },
     {
       "album": {
+        "name": "HEARTBREAK LIFE II",
+        "url": "https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o"
+      },
+      "artists": [
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149133,
+      "name": "CALMANT",
+      "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
+    },
+    {
+      "album": {
         "name": "Caresse",
         "url": "https://open.spotify.com/album/3aZ3XICAdX8kD7lVOuxaYU"
       },
@@ -1257,6 +1279,24 @@
       "duration_ms": 277398,
       "name": "Coeur moderne",
       "url": "https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd"
+    },
+    {
+      "album": {
+        "name": "Crispy",
+        "url": "https://open.spotify.com/album/7cq2diUwOOrYVtOzgaWYuM"
+      },
+      "artists": [
+        {
+          "name": "Pesa Bazz",
+          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189999,
+      "name": "Crispy",
+      "url": "https://open.spotify.com/track/5u16FMHLDsG50xV6ENA7U8"
     },
     {
       "album": {
@@ -2763,7 +2803,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 215652,
       "name": "Kaka Boye",
       "url": "https://open.spotify.com/track/18qDtqnKrFshHeuMsGnGL0"
@@ -2965,7 +3005,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 235662,
       "name": "Laisse Les Parler",
       "url": "https://open.spotify.com/track/0VtJ5iOQMj3of0RINj3fL7"
@@ -4441,7 +4481,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 196270,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/59P7LifAtqA1rgmeztU6cU"
@@ -5757,6 +5797,32 @@
       "duration_ms": 738133,
       "name": "Techno malewa m\u00e9canique",
       "url": "https://open.spotify.com/track/5O34o7gWa08iA4giYbY6mS"
+    },
+    {
+      "album": {
+        "name": "Temps en temps (feat. Kore)",
+        "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        },
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153649,
+      "name": "Temps en temps (feat. Kore)",
+      "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {
       "album": {

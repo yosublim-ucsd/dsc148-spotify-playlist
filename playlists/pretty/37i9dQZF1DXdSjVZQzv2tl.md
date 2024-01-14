@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Ana Castela, Gustavo Mioto
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,689,637 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,681,955 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 23 | [Quase Algo \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP1\)](https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N) | 2:58 |
 | 24 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 |
 | 25 | [Eu Não Previ \- Ao Vivo em Goiânia](https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Traia Véia \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg) | 2:14 |
-| 26 | [MOLETOM](https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [MOLETOM](https://open.spotify.com/album/4As9gJpoGbUD1ZYQx9qyqK) | 3:27 |
+| 26 | [MOLETOM](https://open.spotify.com/track/5XHlXhyvkzl9rEJxKZKQlH) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [MOLETOM](https://open.spotify.com/album/3bxsBr2riFEyX57301H2eu) | 3:27 |
 | 27 | [AMBIENTE ERRADO \- Ao Vivo](https://open.spotify.com/track/7blC5LzebSn2A64Kn4XXMP) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:24 |
 | 28 | [MULHER SEGURA \- Ao Vivo](https://open.spotify.com/track/6S44vghJxOzBM2dwG10KBR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 3:10 |
 | 29 | [Voltou Com Quem Não Voltava \- Ao Vivo](https://open.spotify.com/track/0Q1oLvAI9QaD3DIlvluTqx) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/1LIa0K4VQnzCreRogfMP68) | 2:27 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 41 | [Quem tá Pegando](https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Quem tá Pegando](https://open.spotify.com/album/5khAraskzd7fw9TQbR39PR) | 2:42 |
 | 42 | [Beijo Equivocado](https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Beijo Equivocado](https://open.spotify.com/album/5omEOoTV8w9GpCeCOmvSpT) | 2:36 |
 | 43 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 |
-| 44 | [CHEIRO NA CAMISETA](https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/1eJ0snHdRSAo3OgpwultI6) | 2:36 |
+| 44 | [CHEIRO NA CAMISETA](https://open.spotify.com/track/6qYTjIEgne0leltNnvpSIM) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/4KtTqtXRtTk6tfozdYmgNv) | 2:35 |
 | 45 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 |
 | 46 | [Anestesiado \- Ao Vivo](https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Anestesiado \(Ao Vivo\)](https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0) | 2:52 |
 | 47 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo\)](https://open.spotify.com/album/14GC6d6HNAE3AZEItOG0kc) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 | 50 | [Metade De Mim \- Ao Vivo](https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Metade De Mim \(Ao Vivo\)](https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd) | 2:40 |
 
-Snapshot ID: `MCxkMDhiMzQ4N2MxYTM0ZDRmMjk0ZGQwZTE5ZjU2ZTU2ZjhiZWVhZmNi`
+Snapshot ID: `MCwxYmYxMjZkNTkzYTNlNWY0NzhjODIwMTZlYjVhNGU2NjRhMDgxYjc3`

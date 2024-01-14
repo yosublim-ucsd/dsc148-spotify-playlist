@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 92187,
+  "2024-01-14": 92416,
   "date_first_scraped": "2022-03-22",
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta.",
   "name": "Electro Corridos",
@@ -4855,6 +4855,28 @@
       "duration_ms": 180000,
       "name": "No Es Culpa M\u00eda",
       "url": "https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un"
+    },
+    {
+      "album": {
+        "name": "No Hay Falla Puro Fire",
+        "url": "https://open.spotify.com/album/6IoOtCSEgOIINK8TWumspy"
+      },
+      "artists": [
+        {
+          "name": "Misael Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS"
+        },
+        {
+          "name": "Charly Barraza",
+          "url": "https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185687,
+      "name": "No Hay Falla Puro Fire",
+      "url": "https://open.spotify.com/track/6w4IGeKLBWTMeTsODLWkfh"
     },
     {
       "album": {

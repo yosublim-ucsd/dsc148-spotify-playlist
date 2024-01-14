@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Zamdane
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,311 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,156 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mélancolie criminelle \- A COLORS SHOW](https://open.spotify.com/track/6MF5rZ57E3tDYY5KR36QMd) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Mélancolie criminelle \- A COLORS SHOW](https://open.spotify.com/album/4tJVAb99fGJ7NmwnJBhB1H) | 2:49 |
 | 2 | [Perte de temps](https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:09 |
 | 3 | [Geneva](https://open.spotify.com/track/0qfXETr4UazAeIbOzhsZJm) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Geneva](https://open.spotify.com/album/4u84K5dAcGP8ew41zNnqKu) | 2:48 |
-| 4 | [J'connais](https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 |
+| 4 | [J'connais](https://open.spotify.com/track/30XqjaNJxeglrqz79AQWwo) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u) | 2:27 |
 | 5 | [AVANT TOI](https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:51 |
 | 6 | [Cicatrices](https://open.spotify.com/track/6EkySKKzlCoJrcNXE8sfhG) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [Cicatrices](https://open.spotify.com/album/6iou1JJdcUlbvNnUdmXuDR) | 2:41 |
 | 7 | [Émotion](https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [MIEL](https://open.spotify.com/album/4dWovRp9R5G9mXcO5ooSi7) | 2:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [crescendo](https://open.spotify.com/track/0vzg1Trj75I00yTBRch0rr) | [yuo](https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [crescendo](https://open.spotify.com/album/1B7y1c3M9d5eg0mytTC8Wd) | 2:53 |
 | 40 | [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 |
 
-Snapshot ID: `MCw0NTQzMTA2YmQxMTQwM2MyNDkyNTI5YjJkMzM5NDJiYjI4ODdkMjQz`
+Snapshot ID: `MCxjOTE5ZjhjMjAxMGM4M2Q5MTg4NGRjMGY2ZjJmM2ZlZjJiNTJiOWFl`

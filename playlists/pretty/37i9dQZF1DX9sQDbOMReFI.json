@@ -1,12 +1,12 @@
 {
   "description": "The best side! Cover: Ice Cube",
-  "num_followers": 807318,
+  "num_followers": 807850,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzdhMjYxODJmOTU0YTNlMzZlZWE1ZjU0ZTJjNDAxMzZkMGE4NzRh",
+  "snapshot_id": "MCwzZTRmMDYzMDUwZjI4NGY0YTJiOGNkNTliZjMxOWZmMjc2Mzc5YmY2",
   "tracks": [
     {
       "added_at": "2023-12-06 23:09:34",
@@ -703,18 +703,34 @@
     {
       "added_at": "2023-12-06 23:09:34",
       "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+        "name": "Tha Last Meal",
+        "url": "https://open.spotify.com/album/71VPCdeQQs1dmyVbflhPjX"
       },
       "artists": [
         {
           "name": "Snoop Dogg",
           "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Butch Cassidy",
+          "url": "https://open.spotify.com/artist/3uISNNuONokIh21KiNharS"
+        },
+        {
+          "name": "Tha Eastsidaz",
+          "url": "https://open.spotify.com/artist/51FyBBOW464toW099BsW8z"
         }
       ],
-      "duration_ms": 218186,
-      "name": "Murder Was The Case",
-      "url": "https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu"
+      "duration_ms": 223000,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0YHI5hydPPth6J5UOzdLDX"
     },
     {
       "added_at": "2023-12-06 23:09:34",

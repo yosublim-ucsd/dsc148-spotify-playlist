@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,165 likes - 111 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,189 likes - 111 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 68 | [Siete canciones populares españolas: No\. 5 Nana](https://open.spotify.com/track/61GAxGT5YJyTPvYxtMN5Q7) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty) | [In Circles](https://open.spotify.com/album/1aLtpH1mDZ3vmzRgCo5B3q) | 2:37 |
 | 69 | [Pequena Suíte, W064: V\. Melodia](https://open.spotify.com/track/0QoWnZHtYtAJRUAgtrqgU3) | [Heitor Villa\-Lobos](https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p), [Yūko Miyagawa](https://open.spotify.com/artist/1DwD2gIPxKdiad9udxMFbl), [Aki Kuroda](https://open.spotify.com/artist/5TMEiphJbIEqBMRWunPqv6) | [Black Swan](https://open.spotify.com/album/1sGGSlQ4Rsmh0fk3MVgiqF) | 2:37 |
 | 70 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
-| 71 | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/track/5SjC85F2Wm3AN9bS6gI7QM) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Judith Falk](https://open.spotify.com/artist/5OWH5sEyBxf1B6vWipG70Z) | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/album/4fEu8NRbzg2C2ZUE8SehFw) | 3:03 |
+| 71 | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/track/5SjC85F2Wm3AN9bS6gI7QM) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/album/4fEu8NRbzg2C2ZUE8SehFw) | 3:03 |
 | 72 | [Douze préludes, Op\. 36: No\. 10, Sur une tombe](https://open.spotify.com/track/4HgG9qvhKPOTsAjxvkhH9h) | [Louis Vierne](https://open.spotify.com/artist/5s5DbmkHjHiMe5rlFdUMGL), [Laurent Wagschal](https://open.spotify.com/artist/1KH9u201pXo6g9cXxNZo12) | [Douze préludes, Op\. 36: No\. 10, Sur une tombe](https://open.spotify.com/album/4iYPvpZZnNbCuCgajYIThI) | 2:36 |
 | 73 | [Chants du Rhin, WD 52: Les rêves](https://open.spotify.com/track/0Kubohno5e03J30wNFg4B2) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Nathanaël Gouin](https://open.spotify.com/artist/6ycB2zc7NqE59KlP0WQCBl) | [Bizet sans Paroles](https://open.spotify.com/album/0UbRmtk4reK9XEzz1yk2P4) | 3:44 |
 | 74 | [Clarinet Concerto in A Major, K\. 622: II\. Adagio](https://open.spotify.com/track/41ptJaY4N2oxHfh4LJvFMa) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Emil Jonason](https://open.spotify.com/artist/25FmHBljT69Gva5matNADN), [Stefan Solyom](https://open.spotify.com/artist/2VDbJWofYewiV8YlzoWj64), [Helsingborg Symphony Orchestra](https://open.spotify.com/artist/0K2m2TlgHkcp32NAZV6Omw) | [Emil Jonason plays Lindström & Mozart](https://open.spotify.com/album/0PglLWxV06fhAhjGdI6gIp) | 9:24 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 110 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 111 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 
-Snapshot ID: `MCwxZjM0NTI2ZjEyZDMzYzM4MmE5Y2JjYWIxYjE5YzQ5YmYwYmM1NmZl`
+Snapshot ID: `MCwzNTMwMGI2MDIxNTQzMzQ5NzQ1YjZjMWM0MjRjZGJmMGE0OTdlZjNi`

@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 46202,
+  "2024-01-14": 46210,
   "date_first_scraped": "2022-08-06",
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
   "name": "This Is Bonnie Raitt",
@@ -177,7 +177,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 187533,
       "name": "Can't Find My Way Home",
       "url": "https://open.spotify.com/track/2tguJA2ZWhkhhNf4QS0csZ"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 224200,
       "name": "Cry On My Shoulder",
       "url": "https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb"

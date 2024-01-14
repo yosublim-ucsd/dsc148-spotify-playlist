@@ -1,9 +1,27 @@
 {
-  "2024-01-13": 55518,
+  "2024-01-14": 55487,
   "date_first_scraped": "2022-01-01",
   "description": "Your daily update of the most viral tracks right now - Canada.",
   "name": "Viral 50 - Canada",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
+    },
     {
       "album": {
         "name": "Big boys",
@@ -21,6 +39,24 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2Xwyq4AyKumjXIVV7uk1Z9"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
     },
     {
       "album": {
@@ -13033,7 +13069,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
@@ -14693,24 +14729,6 @@
     {
       "album": {
         "name": "H00DBYAIR",
-        "url": "https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW"
-      },
-      "artists": [
-        {
-          "name": "nitro!",
-          "url": "https://open.spotify.com/artist/5otCfrzno8ga0qg868oibs"
-        }
-      ],
-      "date_added": "2024-01-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212742,
-      "name": "H00DBYAIR",
-      "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
-    },
-    {
-      "album": {
-        "name": "H00DBYAIR",
         "url": "https://open.spotify.com/album/1OMnOFAcLBsdk9TcAunnIm"
       },
       "artists": [
@@ -15707,7 +15725,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
@@ -40071,24 +40089,6 @@
       "duration_ms": 167000,
       "name": "UR THE MOON",
       "url": "https://open.spotify.com/track/4ylzPQ0re4NRE5EWnNUxCw"
-    },
-    {
-      "album": {
-        "name": "Ur The Moon",
-        "url": "https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW"
-      },
-      "artists": [
-        {
-          "name": "Maori Beats",
-          "url": "https://open.spotify.com/artist/6T1ZK4NhuRAE64bCniMrGk"
-        }
-      ],
-      "date_added": "2024-01-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168125,
-      "name": "Ur The Moon",
-      "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
     },
     {
       "album": {

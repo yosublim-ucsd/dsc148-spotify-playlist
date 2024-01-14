@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Eliza Marie Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,899 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,854 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 6 | [Hello](https://open.spotify.com/track/5ps7q5sYaKwDalFTcIIidZ) | [totâ](https://open.spotify.com/artist/7lR4az0FXjQsoLUf6UiBq3) | [Hello](https://open.spotify.com/album/6kmNRy2NOGDHrXxLRspvCY) | 5:10 |
 | 7 | [Jaded](https://open.spotify.com/track/5VN6A4YNvh9wG2d9gNGXLk) | [The Nomads](https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt) | [Preamble](https://open.spotify.com/album/5WxaWboX4Rr9j91A280FEK) | 4:12 |
 | 8 | [no adlib freestyle](https://open.spotify.com/track/6FZrdFJCQDXLWJne1EGBrS) | [Xaje](https://open.spotify.com/artist/1FMDR9a058wt2TtbQH9NNN) | [no adlib freestyle](https://open.spotify.com/album/5TIMNflHBrVC0S0Nm0peFp) | 2:04 |
-| 9 | [Pano](https://open.spotify.com/track/2DNLGXRtT1LBU5EVMMez1i) | [K\-Leb](https://open.spotify.com/artist/4U3clCN7761fpD0czDpytx), [Sheed](https://open.spotify.com/artist/2B9rGFZRmNvj5xAidKoCAZ), [Deco](https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc) | [Pano](https://open.spotify.com/album/0LWiagFJk295Cix4ounBEc) | 4:30 |
+| 9 | [Pano](https://open.spotify.com/track/2DNLGXRtT1LBU5EVMMez1i) | [K\-Leb](https://open.spotify.com/artist/4U3clCN7761fpD0czDpytx), [Sheed](https://open.spotify.com/artist/2B9rGFZRmNvj5xAidKoCAZ), [Deco](https://open.spotify.com/artist/1Ulw44poIkw1l3dmBe5N1I) | [Pano](https://open.spotify.com/album/0LWiagFJk295Cix4ounBEc) | 4:30 |
 | 10 | [GENG GENG](https://open.spotify.com/track/3W40SGeO61UrJnQe8GZa44) | [Boss Toyo](https://open.spotify.com/artist/6yFPknOGs7put18465dKo6) | [GENG GENG](https://open.spotify.com/album/6aOgoj1hBEH6tgwrc1x3Fb) | 2:53 |
 | 11 | [malicious](https://open.spotify.com/track/5zEI7kiinMOoRsTrR4ah3o) | [echi](https://open.spotify.com/artist/0l6KoMnX9bILCknzRTPll5) | [malicious](https://open.spotify.com/album/4EojGO0rpjsRK1qMGkNvzw) | 2:04 |
 | 12 | [Breathe](https://open.spotify.com/track/3RrC9GbkeOKeFvJsyuVfRY) | [AIRAH](https://open.spotify.com/artist/6fAR6kwdc8l4vtMyod6IpX), [Liyenne](https://open.spotify.com/artist/7K3ivY5lwcIm5veeQocSkD) | [Breathe](https://open.spotify.com/album/5Uwjvltumi1tyGg3aitoP9) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Down](https://open.spotify.com/track/6hZMKAVfEpzyu4DV9P1N1s) | [Ty Raquin](https://open.spotify.com/artist/0TPGrHros3vvU1eR2dgDQp) | [Rendezvous](https://open.spotify.com/album/3E8ctYqz5kNmvYeTvIAtKZ) | 2:57 |
 | 100 | [baka sa ibang mundo](https://open.spotify.com/track/1EBqfp0nL4AImLfpZkY8oZ) | [esa](https://open.spotify.com/artist/32gKPyvVOMrhSCrjDm657c) | [baka sa ibang mundo](https://open.spotify.com/album/5hHfV0nNYAlY4suVznKLGW) | 3:07 |
 
-Snapshot ID: `MCwxYTJiMDZjYTM3MjdiZTcxYTU0MWJkMmVlMGIzYmQ0Mzc5YTRkZWZi`
+Snapshot ID: `MCwxOTViMmM0ZWQyMzI3NjRhZDgxNTljNDYyNTg3MjBmMTM2MmUxODM3`

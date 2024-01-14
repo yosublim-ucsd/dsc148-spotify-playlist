@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: NÂN
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,357 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,363 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 33 | [Vũ Trụ Sắp Đặt](https://open.spotify.com/track/6WAoGDBehAGK48l9hHSEdj) | [Sin](https://open.spotify.com/artist/2kgXWIQTFCLAnyuhBVH72e), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Vũ Trụ Sắp Đặt](https://open.spotify.com/album/4DUs7OYoWQnm6FS5RN0RGu) | 3:02 |
 | 34 | [Anh Đã Từ Bỏ Rồi Đấy](https://open.spotify.com/track/1YW6r5WNuGOBiofHQZkyCM) | [Nguyenn](https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou), [Aric](https://open.spotify.com/artist/2M3RlbYLy67kjYrrCCZcm2) | [Anh Đã Từ Bỏ Rồi Đấy](https://open.spotify.com/album/1VmIxDRDv2dowkEF4CIFF0) | 5:04 |
 | 35 | [Biết Không Thể](https://open.spotify.com/track/254yUNWFpT5VTSoKHFuXCX) | [GreenD](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Biết Không Thể](https://open.spotify.com/album/7o5XspoYitM2gxu5It5obF) | 4:30 |
-| 36 | [Anh không muốn](https://open.spotify.com/track/4E1bh29teqcFMhpP070HEG) | [Phongkhin](https://open.spotify.com/artist/7qHgn5ADOzPBlcWcXfM6iA), [Cashmel](https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh), [RPT Spidey](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [Anh không muốn](https://open.spotify.com/album/0908fde4bEiPW0OouVDB7Q) | 3:48 |
+| 36 | [Anh không muốn](https://open.spotify.com/track/4E1bh29teqcFMhpP070HEG) | [Phongkhin](https://open.spotify.com/artist/7qHgn5ADOzPBlcWcXfM6iA), [Cashmel](https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [Anh không muốn](https://open.spotify.com/album/0908fde4bEiPW0OouVDB7Q) | 3:48 |
 | 37 | [Có khóc cũng thế thôi](https://open.spotify.com/track/0n26s8WYudluDmczIfSg7O) | [Hào](https://open.spotify.com/artist/41o2x1AJ6KzUiz6JxYtCtJ) | [be happy](https://open.spotify.com/album/1TeSuR9jFf1f4IqGP2al7l) | 4:15 |
 | 38 | [An Toàn](https://open.spotify.com/track/4HVYdhMsuFGYM85euE2Hw7) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [An Toàn](https://open.spotify.com/album/58JJrXXA83sPGLQszLqQKn) | 3:51 |
 | 39 | [Cảm Giác](https://open.spotify.com/track/6rwZG0j0Kj3E9ZRjkNggrj) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Cảm Giác](https://open.spotify.com/album/3VNqaZJGEHrbcB7Q0aZkyS) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
 | 100 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
 
-Snapshot ID: `MCw1NjNhZmZmMGIxYjI4NzY1ODRlZDkyOTk5NzEwZDNkMWM4MGRlNDFl`
+Snapshot ID: `MCxmZDA1ZDgzM2QxYTBiMTI3MjAzMjNmMTk2NzBkZTAzODAwOGQ0NTBl`

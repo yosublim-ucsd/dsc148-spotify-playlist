@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 4626,
+  "2024-01-14": 4624,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
+    },
+    {
+      "album": {
         "name": "Polozhenie (Night Lovell)",
         "url": "https://open.spotify.com/album/1yvE4BZmnSe4DQYOBizzJ7"
       },
@@ -39,6 +57,24 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1QiuOoj2J7JzPqRID19mVQ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
     },
     {
       "album": {
@@ -11383,24 +11419,6 @@
     {
       "album": {
         "name": "H00DBYAIR",
-        "url": "https://open.spotify.com/album/4FibzIy6uDUUbdb7PCURiW"
-      },
-      "artists": [
-        {
-          "name": "nitro!",
-          "url": "https://open.spotify.com/artist/5otCfrzno8ga0qg868oibs"
-        }
-      ],
-      "date_added": "2024-01-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212742,
-      "name": "H00DBYAIR",
-      "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
-    },
-    {
-      "album": {
-        "name": "H00DBYAIR",
         "url": "https://open.spotify.com/album/1OMnOFAcLBsdk9TcAunnIm"
       },
       "artists": [
@@ -13743,7 +13761,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
@@ -17423,7 +17441,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 100465,
       "name": "MANDA BALA",
       "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
@@ -31351,24 +31369,6 @@
       "duration_ms": 167000,
       "name": "UR THE MOON",
       "url": "https://open.spotify.com/track/4ylzPQ0re4NRE5EWnNUxCw"
-    },
-    {
-      "album": {
-        "name": "Ur The Moon",
-        "url": "https://open.spotify.com/album/4SaqNMhpsTsiB4LlXZhjnW"
-      },
-      "artists": [
-        {
-          "name": "Maori Beats",
-          "url": "https://open.spotify.com/artist/6T1ZK4NhuRAE64bCniMrGk"
-        }
-      ],
-      "date_added": "2024-01-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168125,
-      "name": "Ur The Moon",
-      "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
     },
     {
       "album": {

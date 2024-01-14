@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-576 songs - 2 day 1 hr 8 min
+578 songs - 2 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Ancient Stones Secrets](https://open.spotify.com/track/6oiWwpxDMJMzjrKI1zITYQ) | [Eminentia Tenebris](https://open.spotify.com/artist/2u7e66l7BhXHw1RUpuBrPA) | [Rise of a New Kingdom](https://open.spotify.com/album/5QTmivzbo2R7ZjRAKLF8to) | 5:28 | 2023-09-26 | 2023-11-23 |
 | [Angels Hung from the Arches of Heaven](https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Angels Hung from the Arches of Heaven](https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt) | 4:54 | 2022-10-07 |  |
 | [Anguish](https://open.spotify.com/track/63GKWmCfC9dIOOxP16AwZn) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Anguish](https://open.spotify.com/album/1X9jlZ1B56LU3RpTQOSiaJ) | 3:07 | 2022-05-13 | 2022-07-28 |
-| [Anima](https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Anima](https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm) | 4:29 | 2023-03-17 |  |
+| [Anima](https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Anima](https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm) | 4:29 | 2023-03-17 | 2024-01-14 |
 | [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 |  |
@@ -127,6 +127,7 @@
 | [De tes yeux bleus perlés](https://open.spotify.com/track/1QcLDalgSZ6weWyHyzKnM8) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [De tes yeux bleus perlés](https://open.spotify.com/album/2LJw28WXsdnDv6XkpJYiXJ) | 5:23 | 2021-12-17 | 2022-01-15 |
 | [Dead Mother Moon](https://open.spotify.com/track/0Vwwp5jPByylqQ4AKYEnxR) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [Dead Mother Moon](https://open.spotify.com/album/75tXcVejhOh6QgSauSn2a9) | 3:58 | 2023-11-17 |  |
 | [Dead To You](https://open.spotify.com/track/3FE9t4BzzOGYduUXVdfSxJ) | [Marthe](https://open.spotify.com/artist/6EssjchKEP6YbQS2vHBAcN) | [Further In Evil](https://open.spotify.com/album/2xwvEcOiW03Q0FcByEbBdg) | 6:09 | 2024-01-02 |  |
+| [Death Cult](https://open.spotify.com/track/1CN2mzJBqxVgPVRlzcxrhZ) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR), [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Death Cult](https://open.spotify.com/album/62D0IksCdSnviilNJpWtws) | 3:40 | 2024-01-11 |  |
 | [Death from Above](https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Death from Above](https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO) | 3:32 | 2022-09-01 | 2022-11-17 |
 | [Death Is But A Door](https://open.spotify.com/track/6wl1XfdSd1VMlI3sBm0UAZ) | [Alluvial](https://open.spotify.com/artist/7z2P2nNjtnAVnUavHIXZWQ) | [Death Is But A Door](https://open.spotify.com/album/3QiSF99jB2PtK4dcSNF6ti) | 4:52 | 2023-12-07 |  |
 | [Death March](https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS) | [Enemies Everywhere](https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz) | [Death March](https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs) | 4:41 | 2023-09-01 |  |
@@ -367,7 +368,7 @@
 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 | 2022-07-13 | 2023-10-10 |
 | [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 |  |
 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 | 2023-11-17 |  |
-| [Out of the Light](https://open.spotify.com/track/4qZ0AWdxYwtQj8rSLBbDjY) | [Schizogen](https://open.spotify.com/artist/30ekpFFVz6ZaSPhjBQ64OA) | [Out of the Light](https://open.spotify.com/album/7qw4gtdh0pEHfEFDHIXvHM) | 5:33 | 2023-12-15 |  |
+| [Out of the Light](https://open.spotify.com/track/4qZ0AWdxYwtQj8rSLBbDjY) | [Schizogen](https://open.spotify.com/artist/30ekpFFVz6ZaSPhjBQ64OA) | [Out of the Light](https://open.spotify.com/album/7qw4gtdh0pEHfEFDHIXvHM) | 5:33 | 2023-12-15 | 2024-01-14 |
 | [Ov Fire And The Void](https://open.spotify.com/track/2Q73wKbwLLcGS404gkTfjH) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/6ZizJ3rk1Eok7JOKL6UMwv) | 4:27 | 2022-07-13 |  |
 | [Ov Fire and the Void](https://open.spotify.com/track/7fire0gDtWtq39qQLJVfev) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/3NO3ef0kGIOJMw6y6nZEH0) | 4:27 | 2022-07-13 | 2022-07-29 |
 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 | 2023-03-20 |
@@ -428,6 +429,7 @@
 | [Seance](https://open.spotify.com/track/71lFE7VKJwpeV7YhqgbATO) | [Black Royal](https://open.spotify.com/artist/33lkAv8r2X0dsr8AWzZ6MY) | [Seance](https://open.spotify.com/album/1aXSQVKyOk4gYUZPnC3eqN) | 4:46 | 2021-12-17 | 2022-03-11 |
 | [Seed Of Death](https://open.spotify.com/track/11VpcYTYemjf7Rpn4Gjjxa) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Seed Of Death](https://open.spotify.com/album/6O07o1ALpQp1pIh3rBa9MU) | 4:27 | 2023-08-04 | 2023-12-17 |
 | [Seeds Of The Ancient Gods](https://open.spotify.com/track/1r9HG7xOQ2D51jYXuLWfwN) | [Old Man's Child](https://open.spotify.com/artist/4LT73i2bqTazQQkmODMaYf) | [Devil's Path / In The Shades Of Life](https://open.spotify.com/album/6kajasqy9oJmS8kacjAvJe) | 6:37 | 2022-07-13 | 2022-07-27 |
+| [Seeking To Pierce](https://open.spotify.com/track/33LU20qyNQHxAEs9zkhimp) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Seeking To Pierce](https://open.spotify.com/album/7sG0xaqhk1fjO7ZWbOJWYE) | 4:13 | 2024-01-11 |  |
 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 | 2022-03-10 | 2022-04-02 |
 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 |  |
 | [Serpents](https://open.spotify.com/track/0wox07C2h9VVLmYoGwaFgZ) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Decade of Silence](https://open.spotify.com/album/0zImQSij3CAhYMlkGiCW78) | 5:50 | 2022-05-06 | 2022-07-21 |

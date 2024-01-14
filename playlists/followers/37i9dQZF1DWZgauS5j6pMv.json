@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 314575,
+  "2024-01-14": 314514,
   "date_first_scraped": "2021-12-21",
   "description": "The best of today's funk. Cover: Kossisko",
   "name": "Nu-Funk",
@@ -3910,6 +3910,28 @@
     },
     {
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/1MKC1CSocKPwh4nf1WbWIo"
+      },
+      "artists": [
+        {
+          "name": "Tommy Love",
+          "url": "https://open.spotify.com/artist/1OJevp7blr19zF2ka2rEVT"
+        },
+        {
+          "name": "Manny Laurenko",
+          "url": "https://open.spotify.com/artist/6gpLXhxeNFNiz38dyNqJ1C"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145859,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/2BO6E4fhgNbS2VdrYJdAkq"
+    },
+    {
+      "album": {
         "name": "The Black Chapter, Vol. 1",
         "url": "https://open.spotify.com/album/1JcVhExuDUNVFrvPJr2bRU"
       },
@@ -4710,6 +4732,32 @@
     },
     {
       "album": {
+        "name": "Morning Light (K, Le Maestro Remix)",
+        "url": "https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
+        },
+        {
+          "name": "K, Le Maestro",
+          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Morning Light - K, Le Maestro Remix",
+      "url": "https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1"
+    },
+    {
+      "album": {
         "name": "Movin' Nowhere",
         "url": "https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk"
       },
@@ -4931,7 +4979,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 197098,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL"
@@ -5785,7 +5833,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 172636,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/6gD4AWNqv0ek0YV6CZRmDk"
@@ -6977,6 +7025,28 @@
       "duration_ms": 215454,
       "name": "Wagmi Express",
       "url": "https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P"
+    },
+    {
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9"
+      },
+      "artists": [
+        {
+          "name": "The Past",
+          "url": "https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "WAIT",
+      "url": "https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2"
     },
     {
       "album": {

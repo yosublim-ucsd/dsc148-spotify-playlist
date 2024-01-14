@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Emilia &amp; Nathy Peluso &quot;JET\_Set.mp3&quot;,  Polimá Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La\_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Emilia &amp; Nathy Peluso
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 55,235 likes - 130 songs - 6 hr 54 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 55,154 likes - 130 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

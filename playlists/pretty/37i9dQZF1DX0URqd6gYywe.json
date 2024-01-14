@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 110774,
+  "num_followers": 110980,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNkNWM4OTdmMjI3MzQ5MTk1ZWE0OGNiNGUxN2I3ZGYxYmUzZWI1",
+  "snapshot_id": "MCw5ZTJjZWM2ODFjZWJhZWU3MDBkNzFiYzJiMmUwMzIyNTQ5ZGU2OWYw",
   "tracks": [
     {
       "added_at": "2024-01-12 15:20:21",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-01-12 15:20:21",
       "album": {
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Esa Estrella Era Mi Lujo",
+      "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
+    },
+    {
+      "added_at": "2024-01-12 15:20:21",
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 208586,
       "name": "El trato",
       "url": "https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8"
-    },
-    {
-      "added_at": "2024-01-12 15:20:21",
-      "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Esa Estrella Era Mi Lujo",
-      "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
     },
     {
       "added_at": "2024-01-12 15:20:21",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-01-12 15:20:21",
       "album": {
+        "name": "Cordero Atado",
+        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Etiqueta Negra",
+      "url": "https://open.spotify.com/track/5CgpbO9nbKKDQaeI7x5BDl"
+    },
+    {
+      "added_at": "2024-01-12 15:20:21",
+      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 219773,
       "name": "Cielo Todo Gris",
       "url": "https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u"
-    },
-    {
-      "added_at": "2024-01-12 15:20:21",
-      "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 336546,
-      "name": "Etiqueta Negra",
-      "url": "https://open.spotify.com/track/5CgpbO9nbKKDQaeI7x5BDl"
     },
     {
       "added_at": "2024-01-12 15:20:21",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-01-12 15:20:21",
       "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Motor Psico",
+      "url": "https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0"
+    },
+    {
+      "added_at": "2024-01-12 15:20:21",
+      "album": {
         "name": "Garc\u00eda, el M\u00e1s Grande",
         "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-01-12 15:20:21",
       "album": {
-        "name": "La Culebra",
-        "url": "https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 297934,
-      "name": "La Culebra",
-      "url": "https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP"
-    },
-    {
-      "added_at": "2024-01-12 15:20:21",
-      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/6e45aH8gfnLjPqd9jX25HX"
       },
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-01-12 15:20:21",
       "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
+        "name": "La Culebra",
+        "url": "https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 296133,
-      "name": "Motor Psico",
-      "url": "https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0"
+      "duration_ms": 297934,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP"
     },
     {
       "added_at": "2024-01-12 15:20:21",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-01-12 15:20:21",
       "album": {
-        "name": "El Regalo",
-        "url": "https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8"
-      },
-      "artists": [
-        {
-          "name": "Javier Calamaro",
-          "url": "https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5"
-        }
-      ],
-      "duration_ms": 243391,
-      "name": "El Regalo",
-      "url": "https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX"
-    },
-    {
-      "added_at": "2024-01-12 15:20:21",
-      "album": {
         "name": "Arariyo",
         "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 270007,
       "name": "Arariyo",
       "url": "https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN"
+    },
+    {
+      "added_at": "2024-01-12 15:20:21",
+      "album": {
+        "name": "El Regalo",
+        "url": "https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8"
+      },
+      "artists": [
+        {
+          "name": "Javier Calamaro",
+          "url": "https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5"
+        }
+      ],
+      "duration_ms": 243391,
+      "name": "El Regalo",
+      "url": "https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX"
     },
     {
       "added_at": "2024-01-12 15:20:21",

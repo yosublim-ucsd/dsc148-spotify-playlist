@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,079 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,952 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 10 | [World Burn](https://open.spotify.com/track/2vJ87WiYmOXYd1EE7hysVb) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/0WSPg07gRVxFdY1esBAIOc) | 3:35 |
 | 11 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
 | 12 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 |
-| 13 | [cryin over nothin \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 |
+| 13 | [crying over nothing \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 |
 | 14 | [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 |
 | 15 | [愛了愛了](https://open.spotify.com/track/2fHaxqOunbdzZTjfJ0t7EW) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [彈殼Danko](https://open.spotify.com/artist/2fhxXztliRlYnRYxQebQqh) | [愛了愛了](https://open.spotify.com/album/6DZVY9hEinIX9D7UsQeE3u) | 2:57 |
 | 16 | [已读不回](https://open.spotify.com/track/60Xz32l5rkZIM6r2TMyw81) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [已读不回](https://open.spotify.com/album/7KK1SQDVOTcELhlLKOwxFD) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 79 | [Sea](https://open.spotify.com/track/2mvlTkWNYuY1ADkYhu9swW) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [Sea](https://open.spotify.com/album/1eMTHBNaOPa3KWhJSWaL75) | 3:47 |
 | 80 | [poison ivy!](https://open.spotify.com/track/0YqCIpNWeKlQQ1XUvllmWr) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [poison ivy!](https://open.spotify.com/album/4UrbrGPvXxIfHXOA0P4Gjb) | 2:44 |
 
-Snapshot ID: `MCxlYzdjZjU2MmI3YzUyMTY0ZDI1ZDcwNzY5YzVlNDQ3OGFhNGM3MWM1`
+Snapshot ID: `MCxiNTg1ODY0NzIzNGU5Yjc0NTY0M2JlN2U1YzJlNTkxZTU3OTI0MDMx`

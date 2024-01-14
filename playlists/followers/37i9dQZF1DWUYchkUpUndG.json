@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 16472,
+  "2024-01-14": 16506,
   "date_first_scraped": "2023-05-27",
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=algxq46hSAygY7_pgXJS1w>kingdmusic</a> ",
   "name": "Fresh Gospel Africa",
@@ -2672,6 +2672,28 @@
     },
     {
       "album": {
+        "name": "Be Like",
+        "url": "https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU"
+      },
+      "artists": [
+        {
+          "name": "Eriko NWA",
+          "url": "https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1"
+        },
+        {
+          "name": "GIDYON",
+          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161020,
+      "name": "Be Like",
+      "url": "https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX"
+    },
+    {
+      "album": {
         "name": "Be Like You",
         "url": "https://open.spotify.com/album/2qn22xpLK7MxGRIp0f2E0P"
       },
@@ -3741,6 +3763,24 @@
       "duration_ms": 318129,
       "name": "Break Forth (Live)",
       "url": "https://open.spotify.com/track/61agjjU8OxXj6kzsCA5F5S"
+    },
+    {
+      "album": {
+        "name": "Break Off",
+        "url": "https://open.spotify.com/album/3OiOgWMib0R9GP6PBTqnlY"
+      },
+      "artists": [
+        {
+          "name": "Megan Tossi",
+          "url": "https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Break Off",
+      "url": "https://open.spotify.com/track/7euPJmXaFV2hrTUeyLggAc"
     },
     {
       "album": {
@@ -23077,6 +23117,24 @@
       "duration_ms": 254999,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5GUUtAGAPjKn2QtANfnFYq"
+    },
+    {
+      "album": {
+        "name": "Everything Big Starts Little",
+        "url": "https://open.spotify.com/album/7LgNB433X5PQOMDdeAWcTD"
+      },
+      "artists": [
+        {
+          "name": "Kelly Emuegba",
+          "url": "https://open.spotify.com/artist/68KarBTCFcWJfNY3G91p6v"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295361,
+      "name": "Only You Lord",
+      "url": "https://open.spotify.com/track/0ypbG4wJdjm7HHwtymp0rs"
     },
     {
       "album": {

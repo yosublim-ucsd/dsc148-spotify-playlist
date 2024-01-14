@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla",
-  "num_followers": 366497,
+  "num_followers": 366060,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWVhMjAxNzdhOWY3MGVhNTJjMTQ1ZTBiODBlMDkyYmQ2Y2U5YjVi",
+  "snapshot_id": "MCxhMGU2ZjA2M2I1MGVlYzM4ODhhZDJmNDRmMjE3OGZmOTA0ZWRkYmZi",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -543,6 +543,30 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "REVERSA [in]ato",
+        "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "real valor",
+      "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "BANDIDONA",
         "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 136615,
       "name": "BANDIDONA",
       "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "REVERSA [in]ato",
-        "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "real valor",
-      "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
-        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 142765,
       "name": "ne-yo",
       "url": "https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
+        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "ESTRANHO",
+        "url": "https://open.spotify.com/album/50O67wfhrrVoqbQr8p9WW7"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "ESTRANHO",
+      "url": "https://open.spotify.com/track/35bXQjFxZwp40I1pwb7Jke"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "JOVEM (DELUXE)",
         "url": "https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 207500,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "ESTRANHO",
-        "url": "https://open.spotify.com/album/50O67wfhrrVoqbQr8p9WW7"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 166315,
-      "name": "ESTRANHO",
-      "url": "https://open.spotify.com/track/35bXQjFxZwp40I1pwb7Jke"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "La\u00e7o",
+        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
+      },
+      "artists": [
+        {
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+        }
+      ],
+      "duration_ms": 149349,
+      "name": "La\u00e7o",
+      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "flores de outono",
         "url": "https://open.spotify.com/album/7nJAnAjYEtAnygSbPLrK2o"
       },
@@ -1551,6 +1571,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Pesco\u00e7o Salgado",
+        "url": "https://open.spotify.com/album/7F2Ym3Aze5awn7uWOYhO2x"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Blayblayde",
+      "url": "https://open.spotify.com/track/5LWf6aSIrK4Bj7exlmnDRB"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Som Da Minha Casa",
         "url": "https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc"
       },
@@ -1607,22 +1643,6 @@
       "duration_ms": 133636,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Pesco\u00e7o Salgado",
-        "url": "https://open.spotify.com/album/7F2Ym3Aze5awn7uWOYhO2x"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Blayblayde",
-      "url": "https://open.spotify.com/track/5LWf6aSIrK4Bj7exlmnDRB"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1743,26 +1763,6 @@
       "duration_ms": 138378,
       "name": "Por Uma Noite S\u00f3",
       "url": "https://open.spotify.com/track/7fzCFGhCDzvn15HZWMDW3F"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "La\u00e7o",
-        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
-      },
-      "artists": [
-        {
-          "name": "Reddy Allor",
-          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
-        },
-        {
-          "name": "Diego Martins",
-          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
-        }
-      ],
-      "duration_ms": 149349,
-      "name": "La\u00e7o",
-      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
     },
     {
       "added_at": "2024-01-12 03:00:00",

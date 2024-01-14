@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Rosy Barbie\(로지바비\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,206 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,230 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Someone Who Only Looks at Me](https://open.spotify.com/track/2Jgmlko3UxydEyRfXRhLmK) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo) | [Someone Who Only Looks at Me](https://open.spotify.com/album/1dYtVMk6Fewjcgqay1Tkht) | 3:42 |
 | 100 | [nowhere](https://open.spotify.com/track/0rInzo0AeGSKjLcP7RWvWp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [I Heal You, Another Healing](https://open.spotify.com/album/1k8cDbdQux8yOjQAiFu9f6) | 4:34 |
 
-Snapshot ID: `MCwxNWMxYmU2NDUzODZiZjc4ZGY4MjE5MTRmYjhiYTBmYjExNTA3YWRl`
+Snapshot ID: `MCwxNjMyODRiNTZhZjE0YTg5NzA4OGVjYmFmMGYwNzQ2YjQ4MDU1MTcz`

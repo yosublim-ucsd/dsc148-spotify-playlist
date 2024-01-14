@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Hannah Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,820 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,264 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/track/7ccQIxIpqbY4PHtPZVeTgT) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/album/7J42i27HBSFw2ne3Upoj1T) | 3:02 |
 | 100 | [Pill](https://open.spotify.com/track/0xUNUBJAxEj3irTEMdXgGh) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Pill](https://open.spotify.com/album/50aQUH3IU37mxCgTAi9yHO) | 4:41 |
 
-Snapshot ID: `MCxjY2IwYzExZmFlMGY2M2NkNDI3ZTljZjRmMjdkYWQwNGQ5NGUzNzhj`
+Snapshot ID: `MCxmOGJiNzJlMTc4YzIzNmI3NjQxYmIzYTRmMzNiODQwYzRlZmY5OTVl`

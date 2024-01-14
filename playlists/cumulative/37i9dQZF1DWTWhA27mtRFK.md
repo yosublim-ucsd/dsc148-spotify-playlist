@@ -4,7 +4,7 @@
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-77 songs - 15 hr 39 min
+80 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,10 @@
 | [Morning Splendor](https://open.spotify.com/track/6b6eJ6TUApdRxmOUMwqYCm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 6:02 | 2021-08-20 | 2022-07-29 |
 | [Music for Gymnastics](https://open.spotify.com/track/4hTCTBxBoTTbO6Ao3fKQxk) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/20sKBptJV69qrBXUEQVlzp) | 24:17 | 2021-08-20 | 2022-07-29 |
 | [Music for Gymnastics](https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:17 | 2022-06-22 |  |
-| [Novus Pt\. 1: Ascent](https://open.spotify.com/track/4yhY9LhY4SLqzdOELAEgDP) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 5:12 | 2021-08-20 |  |
-| [Novus Pt\. 1: Tears of Terra](https://open.spotify.com/track/2mrZhu6HeLOB4x0jGFDQCV) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 4:26 | 2021-08-20 |  |
+| [Novus Pt\. 1: Ascent](https://open.spotify.com/track/0A9KM1lMfgem28ehiq8UGG) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/2MZbpYRRu5BhPIEPA2Gd8L) | 5:12 | 2023-12-04 |  |
+| [Novus Pt\. 1: Ascent](https://open.spotify.com/track/4yhY9LhY4SLqzdOELAEgDP) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 5:12 | 2021-08-20 | 2024-01-14 |
+| [Novus Pt\. 1: Tears of Terra](https://open.spotify.com/track/2mrZhu6HeLOB4x0jGFDQCV) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 4:26 | 2021-08-20 | 2024-01-14 |
+| [Novus Pt\. 1: Tears of Terra](https://open.spotify.com/track/6aZJH8zQOO5BKCeOeqwzQa) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/2MZbpYRRu5BhPIEPA2Gd8L) | 4:26 | 2023-12-04 |  |
 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 | 2021-08-20 |  |
 | [Reflecting Light](https://open.spotify.com/track/5soViX7uPUyYaPT6EJJD5e) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:47 | 2021-08-20 |  |
 | [Rising](https://open.spotify.com/track/2NaCaczaxowz52EreEMlQT) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 8:36 | 2021-08-20 |  |
@@ -77,7 +79,8 @@
 | [Temple of Aesthetic Action](https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:55 | 2022-06-22 |  |
 | [Temple of Silence](https://open.spotify.com/track/5RVcMhbIaIfekTjo7zL8ij) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 9:16 | 2021-08-20 |  |
 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 | 2021-08-20 |  |
-| [The Hills of Home](https://open.spotify.com/track/0rXJ5RDh7wwdLgDutWaDFy) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D), [Tim Clark](https://open.spotify.com/artist/5B9WJKf7G8DJMmYnOlmqyO) | [Rain](https://open.spotify.com/album/4MmMeNye5l6EGKeFi8xCIA) | 7:18 | 2021-08-20 |  |
+| [The Hills of Home](https://open.spotify.com/track/0lNRbszd01OAg61o2zFhMu) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D), [Tim Clark](https://open.spotify.com/artist/40OJq58FfNTxJsJsC0fgXM) | [Rain](https://open.spotify.com/album/5pkIek5HIa6m0u6WpnmsXb) | 7:18 | 2023-12-04 |  |
+| [The Hills of Home](https://open.spotify.com/track/0rXJ5RDh7wwdLgDutWaDFy) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D), [Tim Clark](https://open.spotify.com/artist/5B9WJKf7G8DJMmYnOlmqyO) | [Rain](https://open.spotify.com/album/4MmMeNye5l6EGKeFi8xCIA) | 7:18 | 2021-08-20 | 2024-01-14 |
 | [The Space Between](https://open.spotify.com/track/7FNpgKsAUFgt5ONasflWtc) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 21:53 | 2021-08-20 | 2022-07-29 |
 | [The Space Between](https://open.spotify.com/track/7pes8uQmsmsHtFiG1eFsJM) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/4nsIXN8ladhBrdhXHeye51) | 21:53 | 2022-06-22 |  |
 | [The Way Home](https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/2QDMuThy1sVnQzLm7qffIM) | 24:53 | 2021-08-20 |  |

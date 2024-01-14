@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 78754,
+  "num_followers": 78803,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDAzOTc5YTFkZGM1ZTA5MDZmODI5NmFkN2VkODI1MzBlMWVmM2Y4",
+  "snapshot_id": "MCxiNTg2NDcxYTI1OWQyNmMwMDlmMzZhNzJkMDBkNTgyMDFlMTAwMzFi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         }
       ],
-      "duration_ms": 191733,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N"
+      "duration_ms": 138213,
+      "name": "En El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
+        "name": "La Familia Aguilar En Vivo (Live At The Plaza De Toro / Mexico City, MX / July 1998)",
+        "url": "https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Por Mujeres Como T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
         "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
         "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 181613,
       "name": "Porqu\u00e9 No Le Calas - Live",
       "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "Con Ustedes... Car10s Rivera en Vivo",
-        "url": "https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 293693,
-      "name": "La Malague\u00f1a - En Vivo",
-      "url": "https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "La Familia Aguilar En Vivo (Live At The Plaza De Toro / Mexico City, MX / July 1998)",
-        "url": "https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh"
+        "name": "Con Ustedes... Car10s Rivera en Vivo",
+        "url": "https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 248200,
-      "name": "Por Mujeres Como T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr"
+      "duration_ms": 293693,
+      "name": "La Malague\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         }
       ],
-      "duration_ms": 138213,
-      "name": "En El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G"
+      "duration_ms": 191733,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 230190,
-      "name": "La Gran Se\u00f1ora - En Vivo",
-      "url": "https://open.spotify.com/track/0jMxJQ41Gbq4YYkXaljtJA"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 163120,
       "name": "El Rey - En Vivo",
       "url": "https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 230190,
+      "name": "La Gran Se\u00f1ora - En Vivo",
+      "url": "https://open.spotify.com/track/0jMxJQ41Gbq4YYkXaljtJA"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "Viva M\u00e9xico / Guadalajara (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Lucero En Vivo Auditorio Nacional",
         "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 441442,
       "name": "Medley Kumbia - En Vivo Auditorio Nacional",
       "url": "https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "Viva M\u00e9xico / Guadalajara (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8"
     }
   ],
   "unique_name": "Mariachi en Vivo",

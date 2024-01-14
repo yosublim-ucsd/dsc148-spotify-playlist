@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 12581,
+  "2024-01-14": 12583,
   "date_first_scraped": "2023-06-15",
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Los Bendecidos en portada. ",
   "name": "Rimas Frescas ",
@@ -703,6 +703,24 @@
       "duration_ms": 197142,
       "name": "Auto Chivateo",
       "url": "https://open.spotify.com/track/55GNgo4gNaQhRWUZ9rVZwR"
+    },
+    {
+      "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Avi\u00f3n",
+      "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
     },
     {
       "album": {
@@ -1853,6 +1871,24 @@
       "duration_ms": 177332,
       "name": "Cuando salga en Netflix.",
       "url": "https://open.spotify.com/track/4x39I8c3ekzMKLTfuFcZdO"
+    },
+    {
+      "album": {
+        "name": "\u00c1rtico",
+        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
+      },
+      "artists": [
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202162,
+      "name": "Cuando te miro",
+      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
     },
     {
       "album": {
@@ -3240,6 +3276,28 @@
     },
     {
       "album": {
+        "name": "Finomeno",
+        "url": "https://open.spotify.com/album/23QhipR0Q0pm1tPW9zMJgD"
+      },
+      "artists": [
+        {
+          "name": "Rolando Fino",
+          "url": "https://open.spotify.com/artist/0nWQFQ4H6oSqPvxWubRaIQ"
+        },
+        {
+          "name": "Felipe Ilabaca",
+          "url": "https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152231,
+      "name": "Finomeno #33 A.K.A Inimaini",
+      "url": "https://open.spotify.com/track/0rqjXJjiL7oAGYx2Py5pLM"
+    },
+    {
+      "album": {
         "name": "Flavor",
         "url": "https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR"
       },
@@ -3289,6 +3347,28 @@
       "duration_ms": 130503,
       "name": "Flight 0010",
       "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
+    },
+    {
+      "album": {
+        "name": "Flow Con Chile",
+        "url": "https://open.spotify.com/album/5fP7HDv4ruXjQUD7iHFaya"
+      },
+      "artists": [
+        {
+          "name": "K-efe",
+          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
+        },
+        {
+          "name": "LPC",
+          "url": "https://open.spotify.com/artist/26ZyZfHEwAKy6zgzUeL88m"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202142,
+      "name": "Flow Con Chile",
+      "url": "https://open.spotify.com/track/33loMBQRY4NoftPVpi5tXP"
     },
     {
       "album": {
@@ -3543,7 +3623,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 177951,
       "name": "Hermano",
       "url": "https://open.spotify.com/track/0cMsTMfVDkcsHnsQrsYeUC"
@@ -4158,6 +4238,28 @@
     },
     {
       "album": {
+        "name": "La Gangsta",
+        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312703,
+      "name": "La Gangsta",
+      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
+    },
+    {
+      "album": {
         "name": "La Gracia De Dios",
         "url": "https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv"
       },
@@ -4417,7 +4519,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 256459,
       "name": "La Vecindad del Vago",
       "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
@@ -5301,7 +5403,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 109307,
       "name": "Me Puedes Invocar",
       "url": "https://open.spotify.com/track/3kAiSWYkXgDwPh9ta9KMUQ"
@@ -6793,7 +6895,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 217894,
       "name": "Palabra de Honor",
       "url": "https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5"
@@ -7911,7 +8013,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 219000,
       "name": "Sastre a la Medida",
       "url": "https://open.spotify.com/track/7xWneAamMR4l3BpBFU7Dev"

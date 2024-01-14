@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 65294,
+  "num_followers": 65305,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDE4OWM5NTQ2NTg5NjgwZTA2ZThiNzMxOGUwODE1NGNkMzA2MmUx",
+  "snapshot_id": "MCwwOGM0MjMyZjhkMjdhOTY5YzdkYzVhNGI5Nzg0ZmVmOGU1ZjRiMGEw",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -83,22 +83,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "More Than A Woman (SG's Paradise Edit)",
-        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         }
       ],
-      "duration_ms": 357936,
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+      "duration_ms": 257984,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -119,22 +119,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         },
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 257984,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Ciudades de Noche",
         "url": "https://open.spotify.com/album/2XTsyhYLGwtCAfqqkfEUrd"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 194558,
       "name": "Young",
       "url": "https://open.spotify.com/track/45FLsvojU63HpbTKXSwTao"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 187348,
-      "name": "FIXXI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 176120,
       "name": "Temporal",
       "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 187348,
+      "name": "FIXXI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/226kedQbsIsYmkylaxPzcV"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Viento",
         "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 168613,
       "name": "Viento",
       "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Ca\u00edda Libre",
-        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 231050,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Realidades No Ordinarias, Vol. 2",
-        "url": "https://open.spotify.com/album/6RhTZGJrzknEtNjWQqTkaI"
+        "name": "Ca\u00edda Libre",
+        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
       },
       "artists": [
         {
-          "name": "Bardo Jos\u00e9",
-          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
-        },
-        {
-          "name": "Boris Vian",
-          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 289335,
-      "name": "Realidades No Ordinarias",
-      "url": "https://open.spotify.com/track/58VAdJ19ENSELUjofs5Ocn"
+      "duration_ms": 231050,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1039,22 +1035,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+        "name": "Realidades No Ordinarias, Vol. 2",
+        "url": "https://open.spotify.com/album/6RhTZGJrzknEtNjWQqTkaI"
       },
       "artists": [
         {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+          "name": "Bardo Jos\u00e9",
+          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
         },
         {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+          "name": "Boris Vian",
+          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
         }
       ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
+      "duration_ms": 289335,
+      "name": "Realidades No Ordinarias",
+      "url": "https://open.spotify.com/track/58VAdJ19ENSELUjofs5Ocn"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/226kedQbsIsYmkylaxPzcV"
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",

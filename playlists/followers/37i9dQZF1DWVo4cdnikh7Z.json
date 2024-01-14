@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 657133,
+  "2024-01-14": 657174,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Captain Miller",
   "name": "Latest Tamil",
@@ -525,6 +525,28 @@
       "duration_ms": 230485,
       "name": "Abbaca Daaru - From \"My Dear Bootham\"",
       "url": "https://open.spotify.com/track/3M6IyLXF2kdx79zzRaerUx"
+    },
+    {
+      "album": {
+        "name": "Achamae Achamae (From \"Mission\")",
+        "url": "https://open.spotify.com/album/0xUAea2BrA6jHkxEoyBEVD"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Achamae Achamae (From \"Mission\")",
+      "url": "https://open.spotify.com/track/2L0dSou3ypcdxBtLipw0li"
     },
     {
       "album": {
@@ -18555,6 +18577,28 @@
       "duration_ms": 76363,
       "name": "Rhythm of Rain (From \"Jessy\")",
       "url": "https://open.spotify.com/track/2ZSzQoniQycF4kt6uF2d1e"
+    },
+    {
+      "album": {
+        "name": "Rise of Miller (From \"Captain Miller\") (Tamil)",
+        "url": "https://open.spotify.com/album/7vchSoylLXUFo8yNPvhipc"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Rise of Miller (From \"Captain Miller\") (Tamil)",
+      "url": "https://open.spotify.com/track/2TO1HlIw1DVqkqoH3rejNF"
     },
     {
       "album": {

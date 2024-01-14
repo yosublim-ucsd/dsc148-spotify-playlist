@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 556433,
+  "2024-01-14": 556382,
   "date_first_scraped": "2023-12-14",
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
   "name": "This Is Fall Out Boy",
@@ -609,7 +609,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 244720,
       "name": "Just One Yesterday",
       "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 204506,
       "name": "Young Volcanoes",
       "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"

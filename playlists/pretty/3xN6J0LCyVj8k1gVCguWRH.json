@@ -1,12 +1,12 @@
 {
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
-  "num_followers": 107989,
+  "num_followers": 108006,
   "original_name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "Njk5OCxmYTZlNDdlMDM3MTA3YzZlMWMxMGE2MDc5ZjQzMjlhMjRkYzgwNTVh",
+  "snapshot_id": "NzAxMSwwODFlODhhYjE4NTJkMDc1MGRjNzUzOTM5YjU2ZWQ2NjFkYzU2YmY2",
   "tracks": [
     {
       "added_at": "2023-12-29 15:33:48",
@@ -345,6 +345,26 @@
       "url": "https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX"
     },
     {
+      "added_at": "2024-01-13 17:32:44",
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/7N2qm6qjMssXBSb2N9HoXB"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Asiani",
+          "url": "https://open.spotify.com/artist/5SCxd7VRtijXnsGC4Llmbd"
+        },
+        {
+          "name": "Claudio Fontana",
+          "url": "https://open.spotify.com/artist/3ouGmCwbPpbM2YsNzMDmHL"
+        }
+      ],
+      "duration_ms": 257415,
+      "name": "Lazy Afternoon In NY",
+      "url": "https://open.spotify.com/track/3VsrwH71KmP73pqrDx7CuU"
+    },
+    {
       "added_at": "2023-12-29 15:46:28",
       "album": {
         "name": "WY@",
@@ -537,20 +557,20 @@
       "url": "https://open.spotify.com/track/1f7ww7TfsQI9E5pfPtGIvs"
     },
     {
-      "added_at": "2024-01-12 14:24:57",
+      "added_at": "2024-01-13 14:25:32",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/3yuSnytQB4z7MnFEILvvQC"
+        "name": "A Likely Story",
+        "url": "https://open.spotify.com/album/2KTbuqUsKqqqMDQ4sp8fOe"
       },
       "artists": [
         {
-          "name": "New Sex Machine",
-          "url": "https://open.spotify.com/artist/0csIrndJ6nijz5bSRcAhQv"
+          "name": "Jason Wade",
+          "url": "https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE"
         }
       ],
-      "duration_ms": 218720,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/5MkDOoJYGxrw3zoezAVUQK"
+      "duration_ms": 231593,
+      "name": "A Likely Story",
+      "url": "https://open.spotify.com/track/4PSnMDe4sw13Xnrz5I7BNu"
     },
     {
       "added_at": "2024-01-12 13:45:08",
@@ -599,6 +619,58 @@
       "duration_ms": 150000,
       "name": "Trapalquimia",
       "url": "https://open.spotify.com/track/2FeJ6kbJqpkt8s6nvYwyYU"
+    },
+    {
+      "added_at": "2024-01-13 16:38:55",
+      "album": {
+        "name": "Past the Point",
+        "url": "https://open.spotify.com/album/46EBJaFpgHWMInjg2G9pku"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Past the Point",
+      "url": "https://open.spotify.com/track/6cq29s4Uewt7mJBzRbco64"
+    },
+    {
+      "added_at": "2024-01-13 16:33:10",
+      "album": {
+        "name": "El Sol (2023)",
+        "url": "https://open.spotify.com/album/4HkAc02xRdkGKzrIp4KhvA"
+      },
+      "artists": [
+        {
+          "name": "Words Four Two",
+          "url": "https://open.spotify.com/artist/0CHEpj8dNLqZhqIjblJAm4"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "El Sol (2023) - Radio",
+      "url": "https://open.spotify.com/track/3k9FBJbqq8IIjqIhJxBgWZ"
+    },
+    {
+      "added_at": "2024-01-12 14:24:57",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/3yuSnytQB4z7MnFEILvvQC"
+      },
+      "artists": [
+        {
+          "name": "New Sex Machine",
+          "url": "https://open.spotify.com/artist/0csIrndJ6nijz5bSRcAhQv"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/5MkDOoJYGxrw3zoezAVUQK"
     },
     {
       "added_at": "2023-07-20 21:11:20",
@@ -1335,22 +1407,6 @@
       "duration_ms": 170600,
       "name": "Wax Poetic",
       "url": "https://open.spotify.com/track/6iWmvLjxADxbgdTNR95Yba"
-    },
-    {
-      "added_at": "2023-12-25 15:40:03",
-      "album": {
-        "name": "Kill For You",
-        "url": "https://open.spotify.com/album/5qAJkzutqWCoFPfJv5dr1r"
-      },
-      "artists": [
-        {
-          "name": "NEA EINI",
-          "url": "https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Kill For You",
-      "url": "https://open.spotify.com/track/5RjqGGgHBZXycoyFrVGHQI"
     },
     {
       "added_at": "2023-12-29 15:14:27",
@@ -2689,36 +2745,20 @@
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
     },
     {
-      "added_at": "2023-12-30 17:32:28",
+      "added_at": "2024-01-13 02:52:09",
       "album": {
-        "name": "Need you",
-        "url": "https://open.spotify.com/album/7JjsPAEfNcRIZTZPiFWFmy"
+        "name": "Time Stands Still",
+        "url": "https://open.spotify.com/album/6OoCA81mhDqhkCiJP4Dszd"
       },
       "artists": [
         {
-          "name": "Niko",
-          "url": "https://open.spotify.com/artist/6vaQXzPNOBeu4Dr2Zj4MqQ"
+          "name": "Kenny Shore",
+          "url": "https://open.spotify.com/artist/08dujj4K7x6yPr9zt86Qqt"
         }
       ],
-      "duration_ms": 167905,
-      "name": "Need you",
-      "url": "https://open.spotify.com/track/4vgIgJGEN850goz9Elr0Vh"
-    },
-    {
-      "added_at": "2023-12-30 17:31:20",
-      "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/0LPmS8rYxwOvmbRRohfAlt"
-      },
-      "artists": [
-        {
-          "name": "Synthetic",
-          "url": "https://open.spotify.com/artist/6LhZALSLn2s9JwATZLTSxJ"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/7A3QVbVq3Vv4Znbez1xpzN"
+      "duration_ms": 192386,
+      "name": "Almost Like Heaven",
+      "url": "https://open.spotify.com/track/23WYhrB8EKtMeVCpsHch8N"
     },
     {
       "added_at": "2023-12-29 18:00:50",
@@ -3327,22 +3367,6 @@
       "duration_ms": 156850,
       "name": "Ven Pa Ca",
       "url": "https://open.spotify.com/track/19felDAYliRHZSwBwdAO6O"
-    },
-    {
-      "added_at": "2024-01-06 10:24:20",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/4BhA4V1j8QZ2GwklIbm8qo"
-      },
-      "artists": [
-        {
-          "name": "Marlon Morato",
-          "url": "https://open.spotify.com/artist/0nqFO43aXcg9YIs2a46TX6"
-        }
-      ],
-      "duration_ms": 164720,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/0KnUoB4KNVYek1mfFEwwzN"
     },
     {
       "added_at": "2023-12-29 00:04:24",

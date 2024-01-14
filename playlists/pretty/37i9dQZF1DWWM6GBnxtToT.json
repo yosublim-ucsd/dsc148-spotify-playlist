@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 581516,
+  "num_followers": 581373,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjAxNmRmZWNlN2VjZTgzZDJjZGY2OGE5YzliMjI5NTM4OTY0YjEz",
+  "snapshot_id": "MCwxNzc1N2JkYWNhNTc1NzdlZmI2OTZhZGQzNDNjZGM0MzU1NjA1ZDk5",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -223,18 +223,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+        "name": "Unknown Song",
+        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
       },
       "artists": [
         {
           "name": "Milky Chance",
           "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Paulina Eisenberg",
+          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
         }
       ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+      "duration_ms": 250521,
+      "name": "Unknown Song",
+      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -359,22 +363,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Unknown Song",
-        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
       "artists": [
         {
           "name": "Milky Chance",
           "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Paulina Eisenberg",
-          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
         }
       ],
-      "duration_ms": 250521,
-      "name": "Unknown Song",
-      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Proportions",
-        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
-      },
-      "artists": [
-        {
-          "name": "Seed to Tree",
-          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "beautiful day",
         "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 183836,
       "name": "beautiful day",
       "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Proportions",
+        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
+      },
+      "artists": [
+        {
+          "name": "Seed to Tree",
+          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Passion (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 221135,
-      "name": "Passion (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1163,22 +1143,6 @@
       "duration_ms": 162755,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Go Out",
-        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 154452,
-      "name": "Go Out",
-      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1199,6 +1163,22 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Go Out",
+        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 154452,
+      "name": "Go Out",
+      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1319,6 +1299,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "More Than Happiness",
+        "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
+      },
+      "artists": [
+        {
+          "name": "Matija",
+          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "More Than Happiness",
+      "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Twister",
         "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
       },
@@ -1335,18 +1331,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "More Than Happiness",
-        "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
+        "name": "I Swear It's True",
+        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
       },
       "artists": [
         {
-          "name": "Matija",
-          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
+          "name": "Mani Orrason",
+          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
         }
       ],
-      "duration_ms": 238186,
-      "name": "More Than Happiness",
-      "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
+      "duration_ms": 235784,
+      "name": "I Swear It's True",
+      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1383,22 +1379,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "I Swear It's True",
-        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
-      },
-      "artists": [
-        {
-          "name": "Mani Orrason",
-          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
-        }
-      ],
-      "duration_ms": 235784,
-      "name": "I Swear It's True",
-      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Majored In Broken Hearts",
         "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
       },
@@ -1431,22 +1411,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Live Vol. 1",
-        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
-      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
       },
@@ -1459,6 +1423,22 @@
       "duration_ms": 266614,
       "name": "2001",
       "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Live Vol. 1",
+        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
+      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1595,22 +1575,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "hunger",
-        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 191297,
-      "name": "hunger",
-      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Get Up!",
         "url": "https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao"
       },
@@ -1623,6 +1587,22 @@
       "duration_ms": 195653,
       "name": "Get Up!",
       "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "hunger",
+        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 191297,
+      "name": "hunger",
+      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1687,6 +1667,22 @@
       "duration_ms": 213418,
       "name": "Red & Blue",
       "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
+      },
+      "artists": [
+        {
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
     }
   ],
   "unique_name": "Feelgood Indie",

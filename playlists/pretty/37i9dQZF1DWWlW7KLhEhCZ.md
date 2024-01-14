@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,392 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,363 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 61 | [Drogas e Roupas](https://open.spotify.com/track/1pAs5lYoGJ8UWt3k4Irxwq) | [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV) | [UNIK](https://open.spotify.com/album/77JE2iIITjvdSYcE7lB19z) | 2:25 |
 | 62 | [Passo de Piet](https://open.spotify.com/track/1hk75DQiC1mRc2pdu8yAmM) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [lucashenriqeee](https://open.spotify.com/artist/3PlfbUseluH6JMWkrM5EIP), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Passo de Piet](https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY) | 3:14 |
 | 63 | [Strike](https://open.spotify.com/track/0wrQ9w2VDfPc9JFA85imjj) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV) | [BIG CA$H](https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m) | 2:30 |
-| 64 | [Dlpvc Intro!](https://open.spotify.com/track/6nVZXiuBae0HMMPB6LRj3x) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [prod by baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V), [Isaac](https://open.spotify.com/artist/0CsHXTwppha2FCaxOve4bR) | [2 L3Trinha](https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN) | 1:40 |
+| 64 | [Dlpvc Intro!](https://open.spotify.com/track/6nVZXiuBae0HMMPB6LRj3x) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V), [Isaac](https://open.spotify.com/artist/0CsHXTwppha2FCaxOve4bR) | [2 L3Trinha](https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN) | 1:40 |
 | 65 | [Meia Noite](https://open.spotify.com/track/0pSSwdKwt2MflODfSDuikd) | [JG Real](https://open.spotify.com/artist/6IqdPoGiCMjjsGOkxEdADa), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Meia Noite](https://open.spotify.com/album/3hAzPC7hru33puyZSBeQ2W) | 2:43 |
 | 66 | [Me Envolvo](https://open.spotify.com/track/0JbqPaiEZWUwwOhfOZvyu3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Metamorf](https://open.spotify.com/album/4cuTasGsG88sF9V0jiXHlK) | 2:33 |
 | 67 | [Reis do Plug](https://open.spotify.com/track/1cPZTxiufwa0WL2QkZXMb0) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE), [IAMTGPEDRO](https://open.spotify.com/artist/3jdoZsU6H82AbGZPWXDgB4) | [Reis do Plug](https://open.spotify.com/album/4MFY6aPxnxt7QsHiemxyF2) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 | 75 | [Tudo Vai Passar](https://open.spotify.com/track/6zM1Wxa5WJe1gd2Uuf7QJF) | [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Tudo Vai Passar](https://open.spotify.com/album/2zX2o48wMSqtibPGQUtPfI) | 2:33 |
 
-Snapshot ID: `MCxkMWYzMjljYjdhNDllMWIyNDYyN2UxYTM5ZDE5NmJhNjZmMDJlNDA0`
+Snapshot ID: `MCxiMDU4ODA5ZjQzYWM1OTM0ZDk1YTMxOGY1NWU2N2QzNWU4ZDYyODYw`

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 173190,
+  "num_followers": 173265,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTliZTVmYWE4ZjE2MzEzNGE4YTRmNWY1ZmFiNGVhOGM4OWUwYzg1",
+  "snapshot_id": "MCwyYWNiMmZlOTExYjNiMzhhYjYzZDhiYjk3NjIwNjA0Y2EwYWQ3YjRh",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 323302,
+      "name": "Selbst",
+      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "I Saw Good",
         "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
       },
@@ -995,18 +1011,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
+        "name": "Unity Pt. 2",
+        "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
       },
       "artists": [
         {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+          "name": "Tale Of Us",
+          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
         }
       ],
-      "duration_ms": 323302,
-      "name": "Selbst",
-      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
+      "duration_ms": 372906,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1063,26 +1083,6 @@
       "duration_ms": 231830,
       "name": "Shizumu",
       "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Unity Pt. 2",
-        "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
-      },
-      "artists": [
-        {
-          "name": "Tale Of Us",
-          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 372906,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
     },
     {
       "added_at": "2022-11-25 16:56:36",

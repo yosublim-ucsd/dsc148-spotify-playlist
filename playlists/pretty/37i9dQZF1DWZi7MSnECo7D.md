@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,162 likes - 72 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,158 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 10 | [Animais Noturnos](https://open.spotify.com/track/7iQ9dQMQuMulnmzg82FD46) | [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o), [André Becker](https://open.spotify.com/artist/6E6QjOaoo9EpybXI1T95FS), [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf) | [Garatujas](https://open.spotify.com/album/4UheE8tmMXmfTdusFy3orQ) | 3:01 |
 | 11 | [Deixa Minguar](https://open.spotify.com/track/3ttFDhTdRMAXxjKoKk88Q3) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg), [Natália Nó](https://open.spotify.com/artist/2pVpWMrwJ3sNXZJSO2lRRh) | [Deixa Minguar](https://open.spotify.com/album/1Z8ujVGb9jbZ06VldOFk4k) | 3:59 |
 | 12 | [Rua da Lua Cheia](https://open.spotify.com/track/0URryycDasqNVVqiX1aV01) | [Exclusive Os Cabides](https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF) | [Rua da Lua Cheia](https://open.spotify.com/album/60vjflVrXOLjbjmfuKEIti) | 3:37 |
-| 13 | [Todos os Santos Permitidos](https://open.spotify.com/track/5DNVjqXcg5P4S6dfNweHgm) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [Fransia](https://open.spotify.com/artist/6Z2FQDRs8J0Y6aY0D5wugG) | [Todos os Santos Permitidos](https://open.spotify.com/album/2kaSJHJhyXtpbaEDfakU1S) | 2:39 |
+| 13 | [Todos os Santos Permitidos](https://open.spotify.com/track/5DNVjqXcg5P4S6dfNweHgm) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Todos os Santos Permitidos](https://open.spotify.com/album/2kaSJHJhyXtpbaEDfakU1S) | 2:39 |
 | 14 | [Um Novo Dia](https://open.spotify.com/track/6GzCZcnOADP6g4Su0bRYzb) | [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX), [deb](https://open.spotify.com/artist/6oGsmB1VtaXtDfBlMxMZq0) | [Um Novo Dia](https://open.spotify.com/album/0aNsPO4Uons10wG029Xr8n) | 3:10 |
 | 15 | [Tão Singular](https://open.spotify.com/track/4GTTE1eklDV99bbPkmhdec) | [Jova](https://open.spotify.com/artist/5DETkZU3Alp5yzyLmB5rnw) | [Tão Singular](https://open.spotify.com/album/6VaflDZ1eRVQcDEoXE5QZM) | 3:05 |
 | 16 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 71 | [Boate Invisível](https://open.spotify.com/track/7igOvMhssuw867QCX4KHeK) | [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U), [Júnior Boca](https://open.spotify.com/artist/0Zz8j8DnVD61ZuoQWeNLzP), [Bruno Buarque](https://open.spotify.com/artist/4lVG6VJNeTirBzikv3xtXE), [Dustan Gallas](https://open.spotify.com/artist/4TzqdfKQdxF1xi9DP1Upfw) | [Boate Invisível](https://open.spotify.com/album/2NCrddtpeRnPyeGMcPaP9N) | 3:46 |
 | 72 | [Tô Bem Sozin](https://open.spotify.com/track/4e5wyWT8OKRkZfrXvoluDd) | [Fxbricio](https://open.spotify.com/artist/7G28rKG3ECA7Pt6HFs54ZB), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Tô Bem Sozin](https://open.spotify.com/album/69TH1pWebxqDKWcjCqKSWO) | 3:48 |
 
-Snapshot ID: `MCxkM2RhYzY5NWUyZThmOGRiZDRlZTljOTE3N2MxZWE5YWIzMTZkY2Nl`
+Snapshot ID: `MCxlNmRkM2Y2NjhmYjUzZTNjYWIxMjNjZjczZGYzY2VhN2YwNDMwZDZl`

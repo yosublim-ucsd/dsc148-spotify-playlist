@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,681 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,813 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 15 | [Baby Don't Hurt Me \- Hardstyle](https://open.spotify.com/track/218oKGgUWwtDe5ZA1sv20S) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [NoCheats](https://open.spotify.com/artist/6SkC0MpuTbiTmj8y2Gd4Xt), [HARDSTYLE MAGE](https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV) | [Baby Don't Hurt Me \(Hardstyle\)](https://open.spotify.com/album/4RADAuJkqBRoIEzUGDAAkp) | 3:18 |
 | 16 | [Firework](https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Firework](https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w) | 2:08 |
 | 17 | [Sweater Weather](https://open.spotify.com/track/77y3caTFtC3n4tGgyPUF87) | [Jomarijan](https://open.spotify.com/artist/5iHZxQtcP3E5hjuzPeocgW) | [Sweater Weather](https://open.spotify.com/album/49oEQTuxnqqiOw66AfI5zc) | 3:22 |
-| 18 | [All The Things She Said 2020 \- Sub Sonik Remix](https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Scarlet](https://open.spotify.com/artist/59APLaxReprkLuj2JBO0YD), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [All the Things She Said 2020 \(Sub Sonik Remix\)](https://open.spotify.com/album/3jq4Nwfz3kIAK1N2bfbRnz) | 3:29 |
-| 19 | [Weekend!](https://open.spotify.com/track/1lV8sXL01UVaw6g0fawtsC) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Weekend!](https://open.spotify.com/album/5Gqc1Uoo4Zfmwhmx3ZnNYu) | 3:06 |
+| 18 | [Weekend!](https://open.spotify.com/track/1lV8sXL01UVaw6g0fawtsC) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Weekend!](https://open.spotify.com/album/5Gqc1Uoo4Zfmwhmx3ZnNYu) | 3:06 |
+| 19 | [All The Things She Said 2020 \- Sub Sonik Remix](https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Scarlet](https://open.spotify.com/artist/59APLaxReprkLuj2JBO0YD), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [All the Things She Said 2020 \(Sub Sonik Remix\)](https://open.spotify.com/album/3jq4Nwfz3kIAK1N2bfbRnz) | 3:29 |
 | 20 | [Take on Me](https://open.spotify.com/track/5hz8yVQdGXAFiNuJ8NIG71) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Hallasen](https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C), [Bryant Powell](https://open.spotify.com/artist/7a1kQopYaNCKayQsvMQiNs) | [Take on Me](https://open.spotify.com/album/5ZZWF6SDhW8vWIuLAcT6JC) | 2:24 |
 | 21 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 |
 | 22 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
 | 70 | [Instagram \- Mandy Remix](https://open.spotify.com/track/3p69LocgURIn0HniU4SbQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Instagram \(The Remixes\)](https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1) | 4:29 |
 
-Snapshot ID: `MCxhNzc2MjMzZTk5NzQwZTc2M2YwNzc3N2MzZTZiYjJhZmU0MzU4NzVh`
+Snapshot ID: `MCwwMzNlMGNmMjFiMGVlZDVjZmYwMjAwMmY3NGMzNjc4OTc4MWMwODdm`

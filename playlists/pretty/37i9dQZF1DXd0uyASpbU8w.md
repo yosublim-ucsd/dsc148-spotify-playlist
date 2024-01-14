@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft?si=59R9VNQtRgW8wPrFitxKJQ">21 Savage</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,472 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,481 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 25 | [EGM](https://open.spotify.com/track/2xxlQN3Po6V8EOu0IY7bGH) | [Griffit Vigo](https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom) | [EGM](https://open.spotify.com/album/2B45Vlv5hmsKXsVUWjF0E6) | 7:44 |
 | 26 | [Hocus Pocus](https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 3:22 |
 | 27 | [Jah Jah](https://open.spotify.com/track/5H71XqmX2yjtRbLY6gwE9y) | [Nutty O](https://open.spotify.com/artist/5jlSoSAE0CJ8YdsA1SrUaB) | [Jah Jah](https://open.spotify.com/album/1eTaxLYDAZAhWgTACek4Wc) | 4:20 |
-| 28 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleve Guyton Jr.](https://open.spotify.com/artist/1y2Ch662bdySaXcG4lu77g) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
+| 28 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
 | 29 | [BroCode](https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [BroCode](https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B) | 4:59 |
 | 30 | [YES Y?A](https://open.spotify.com/track/0kZ2RFoKyPCjFlTTlOpwX1) | [Shaney Jay](https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [YES Y?A](https://open.spotify.com/album/27xUbl25cjawFlgPVeTA2t) | 3:56 |
 | 31 | [Down With Me](https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx) | 2:00 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [Roboto](https://open.spotify.com/track/6kGuzD6SGSCjMzpgNHX6Eu) | [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Ntatao](https://open.spotify.com/artist/65AL7DNBWa4m5Y94PPATUE) | [Roboto](https://open.spotify.com/album/2fHwBnIZJdNHrAEYrZBZ3W) | 5:18 |
 | 49 | [Bounce](https://open.spotify.com/track/38UjoTvHAPl0faBoO5ZoVX) | [S'BO Gyre](https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM), [LTO](https://open.spotify.com/artist/3qYBtbmNfQZGjqtty0WvZ1) | [Bounce](https://open.spotify.com/album/4bMp5br56NS35NoHLhohOV) | 3:05 |
 
-Snapshot ID: `MCw4ZGRlYjM0NDkyM2ZmN2EzYTYwMTljYjIzZWQwZWU5YTk0NWU4Y2I1`
+Snapshot ID: `MCwwOWVjZjdkZWIxMDBhOTBiMzM2NDQ4NDQ2OGVhYzgyZTIzY2NjYzg1`

@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 118953,
+  "num_followers": 119011,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWY2MjUzNjk5NGM0MzZmNjA5MmNiNzhlZTNkN2Y2NjlmNjllNTc2",
+  "snapshot_id": "MCw3NWFlZDNmNzg5MGUwYmI2NzEzOGQ1NjZkMmI0Y2Y4ZmI0YTJhNzZl",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -835,6 +835,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "New Forms (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM"
+      },
+      "artists": [
+        {
+          "name": "Roni Size",
+          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        },
+        {
+          "name": "Reprazent",
+          "url": "https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8"
+        }
+      ],
+      "duration_ms": 543546,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/3ZQs8RHO3lPZoUwpavPENL"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Republica",
         "url": "https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 416933,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "New Forms (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM"
-      },
-      "artists": [
-        {
-          "name": "Roni Size",
-          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
-        },
-        {
-          "name": "Reprazent",
-          "url": "https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8"
-        }
-      ],
-      "duration_ms": 543546,
-      "name": "Brown Paper Bag",
-      "url": "https://open.spotify.com/track/3ZQs8RHO3lPZoUwpavPENL"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 242533,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Inner City Life",
         "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 231973,
       "name": "Inner City Life - Radio Edit",
       "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1067,6 +1067,30 @@
       "duration_ms": 359586,
       "name": "The Box - Part 2",
       "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "The Journey Man",
+        "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        },
+        {
+          "name": "Ulterior Motive",
+          "url": "https://open.spotify.com/artist/711RACYACplatReI4JGaoa"
+        },
+        {
+          "name": "Natalie Williams",
+          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
+        }
+      ],
+      "duration_ms": 366387,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1151,30 +1175,6 @@
       "duration_ms": 233906,
       "name": "Pacific 707",
       "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "The Journey Man",
-        "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
-      },
-      "artists": [
-        {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        },
-        {
-          "name": "Ulterior Motive",
-          "url": "https://open.spotify.com/artist/711RACYACplatReI4JGaoa"
-        },
-        {
-          "name": "Natalie Williams",
-          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
-        }
-      ],
-      "duration_ms": 366387,
-      "name": "I Adore You",
-      "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
     },
     {
       "added_at": "2021-07-14 17:36:34",

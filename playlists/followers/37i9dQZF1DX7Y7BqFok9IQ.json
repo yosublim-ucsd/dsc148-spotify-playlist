@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 192569,
+  "2024-01-14": 192639,
   "date_first_scraped": "2022-05-26",
   "description": "The best of modern blues rock. Cover: Rival Sons",
   "name": "Modern Blues Rock",
@@ -237,6 +237,24 @@
       "duration_ms": 253666,
       "name": "Back to the Good",
       "url": "https://open.spotify.com/track/5lJeApjTsFOmSb0Q3iCmQs"
+    },
+    {
+      "album": {
+        "name": "Backstabber",
+        "url": "https://open.spotify.com/album/4F7MDZ9vZyu91UNsp5HxgZ"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234478,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/6fvRlIuF0E1C05vILdR9oC"
     },
     {
       "album": {
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 256733,
       "name": "Gone to Stay",
       "url": "https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 209908,
       "name": "Oh! That Bitches Brew",
       "url": "https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK"
@@ -4431,6 +4449,24 @@
       "duration_ms": 215906,
       "name": "Waiting For Your Man",
       "url": "https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK"
+    },
+    {
+      "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
     },
     {
       "album": {

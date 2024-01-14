@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 62058,
+  "2024-01-14": 62098,
   "date_first_scraped": "2021-12-28",
   "description": "The powerful, expressive sound of Ballroom and Vogue culture - pioneered by the black LGBTQIA+ community. Cover: Cakes da Killa",
   "name": "The Ballroom (Vogue)",
@@ -315,6 +315,24 @@
       "duration_ms": 189517,
       "name": "Children - MikeQ and 2LIVE Remix",
       "url": "https://open.spotify.com/track/4vRFbT8QjtQ9Sit1lW4CZh"
+    },
+    {
+      "album": {
+        "name": "Meet The Lilithz",
+        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
+      },
+      "artists": [
+        {
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126481,
+      "name": "CLEARED - Remix",
+      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
     },
     {
       "album": {
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 406560,
       "name": "Witch Doktor",
       "url": "https://open.spotify.com/track/1z8cY06EB1MQmKMny2zTSf"

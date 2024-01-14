@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 149588,
+  "2024-01-14": 149632,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Finland.",
   "name": "Top 50 - Finland",
@@ -4463,6 +4463,24 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
+      "album": {
+        "name": "Dancing With Demons",
+        "url": "https://open.spotify.com/album/5LY45yYqqjdFL1LwbLOLKl"
+      },
+      "artists": [
+        {
+          "name": "Cyan Kicks",
+          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165014,
+      "name": "Dancing With Demons",
+      "url": "https://open.spotify.com/track/4pcRT5s4d3TzzhBQKXgAjY"
     },
     {
       "album": {
@@ -18993,7 +19011,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 166706,
       "name": "mielipide",
       "url": "https://open.spotify.com/track/1Fmv8okUsdGaQvdV0N6jrf"
@@ -33141,7 +33159,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 209302,
       "name": "Viimeisi\u00e4 sanoja",
       "url": "https://open.spotify.com/track/2qLzkSZ3nstuozJLipRIrS"
@@ -33547,7 +33565,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 142126,
       "name": "V\u00e4\u00e4rin",
       "url": "https://open.spotify.com/track/5pqIcxnD9MOsOGivjbkhwy"

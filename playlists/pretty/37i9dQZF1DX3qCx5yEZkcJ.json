@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1488077,
+  "num_followers": 1487379,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDE3ODdlZjIzODVhMGMzMmQ1ODhkYzA5ZTk3MzBlNzViYjk3M2I5",
+  "snapshot_id": "MCwwMTVkNjBhNTc3ZWEzNDYzZmE3NWY2M2JiOTZjMjhhMGViOWNjNmI0",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Raincoat",
-        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Raincoat",
-      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Zoning Out Vol. 2",
         "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 125474,
       "name": "Please Chill",
       "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Raincoat",
+        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "A Tribute to First Love",
-        "url": "https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "A Tribute To First Love",
-      "url": "https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Whitecaps",
         "url": "https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 127760,
       "name": "Undercurrent",
       "url": "https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "A Tribute to First Love",
+        "url": "https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "A Tribute To First Love",
+      "url": "https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Main Source (Instrumentals)",
-        "url": "https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Sewin' Love - Instrumental",
-      "url": "https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Dimensions",
         "url": "https://open.spotify.com/album/4WNsnmIpj9HjeBGxzo3PfR"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 135357,
       "name": "waves",
       "url": "https://open.spotify.com/track/3DGO1gNzHPGZQM4HDSwYyL"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Main Source (Instrumentals)",
+        "url": "https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Sewin' Love - Instrumental",
+      "url": "https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 123658,
       "name": "Rock",
       "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Restless Minds",
+        "url": "https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP"
+      },
+      "artists": [
+        {
+          "name": "Yomoti",
+          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
+        }
+      ],
+      "duration_ms": 129334,
+      "name": "Restless Minds",
+      "url": "https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -1019,18 +1035,34 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Restless Minds",
-        "url": "https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP"
+        "name": "Examples",
+        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
       "artists": [
         {
-          "name": "Yomoti",
-          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
+          "name": "Eric Lau",
+          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
         }
       ],
-      "duration_ms": 129334,
-      "name": "Restless Minds",
-      "url": "https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV"
+      "duration_ms": 128496,
+      "name": "Its Rainy",
+      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Evening Drive",
+        "url": "https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR"
+      },
+      "artists": [
+        {
+          "name": "Milo Who",
+          "url": "https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Evening Drive",
+      "url": "https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1051,18 +1083,34 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Examples",
-        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+        "name": "Soul Searching",
+        "url": "https://open.spotify.com/album/6efynV2ZemtiA8m8VIhfNX"
       },
       "artists": [
         {
-          "name": "Eric Lau",
-          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+          "name": "Axian",
+          "url": "https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6"
+        },
+        {
+          "name": "Alberto Droguett",
+          "url": "https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC"
+        },
+        {
+          "name": "Alcynoos",
+          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
+        },
+        {
+          "name": "Aywee Tha Seed",
+          "url": "https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62"
+        },
+        {
+          "name": "Kydual",
+          "url": "https://open.spotify.com/artist/08HyLTxC7A2TTg8u52KNBK"
         }
       ],
-      "duration_ms": 128496,
-      "name": "Its Rainy",
-      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+      "duration_ms": 169090,
+      "name": "Ocean Waves",
+      "url": "https://open.spotify.com/track/0bUUIbkmZZARHVRbukkdUJ"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1119,54 +1167,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Evening Drive",
-        "url": "https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR"
-      },
-      "artists": [
-        {
-          "name": "Milo Who",
-          "url": "https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Evening Drive",
-      "url": "https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Soul Searching",
-        "url": "https://open.spotify.com/album/6efynV2ZemtiA8m8VIhfNX"
-      },
-      "artists": [
-        {
-          "name": "Axian",
-          "url": "https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6"
-        },
-        {
-          "name": "Alberto Droguett",
-          "url": "https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC"
-        },
-        {
-          "name": "Alcynoos",
-          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
-        },
-        {
-          "name": "Aywee Tha Seed",
-          "url": "https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62"
-        },
-        {
-          "name": "Kydual",
-          "url": "https://open.spotify.com/artist/08HyLTxC7A2TTg8u52KNBK"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Ocean Waves",
-      "url": "https://open.spotify.com/track/0bUUIbkmZZARHVRbukkdUJ"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "night sky",
         "url": "https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Beats For You Vol.2",
-        "url": "https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG"
-      },
-      "artists": [
-        {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "Domestic",
-      "url": "https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Busy Bird",
         "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 130964,
       "name": "Busy Bird",
       "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Beats For You Vol.2",
+        "url": "https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "Domestic",
+      "url": "https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Legend (Instrumental)",
+        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
+      },
+      "artists": [
+        {
+          "name": "A.O.",
+          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Legend - Instrumental",
+      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Bopatron",
         "url": "https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg"
       },
@@ -1283,18 +1299,46 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Legend (Instrumental)",
-        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
+        "name": "Clout Chaser",
+        "url": "https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI"
       },
       "artists": [
         {
-          "name": "A.O.",
-          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fets",
+          "url": "https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u"
+        },
+        {
+          "name": "Tempura",
+          "url": "https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB"
         }
       ],
-      "duration_ms": 218526,
-      "name": "Legend - Instrumental",
-      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
+      "duration_ms": 112065,
+      "name": "Clout Chaser",
+      "url": "https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
+      },
+      "artists": [
+        {
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1331,26 +1375,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
-      },
-      "artists": [
-        {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "The Art of Chilling, Vol. 2",
         "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
       },
@@ -1379,30 +1403,6 @@
       "duration_ms": 207291,
       "name": "Elevator - Remastered",
       "url": "https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Clout Chaser",
-        "url": "https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI"
-      },
-      "artists": [
-        {
-          "name": "Lofi Fruits Music",
-          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
-        },
-        {
-          "name": "Fets",
-          "url": "https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u"
-        },
-        {
-          "name": "Tempura",
-          "url": "https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB"
-        }
-      ],
-      "duration_ms": 112065,
-      "name": "Clout Chaser",
-      "url": "https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5"
     },
     {
       "added_at": "2024-01-11 15:00:00",

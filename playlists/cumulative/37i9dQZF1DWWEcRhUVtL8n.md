@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Etta Marcus
 
-1,736 songs - 3 day 19 hr 29 min
+1,737 songs - 3 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-30 |  |
 | [2000 Miles](https://open.spotify.com/track/1nWCNJX79ARq0EtXyKyiIS) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/6n0YcmOzCJniZH9M4mYrt7) | 2:59 | 2022-03-18 | 2022-07-29 |
 | [2000 Miles](https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T) | 2:59 | 2022-09-30 | 2023-02-25 |
-| [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 |  |
+| [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 | 2024-01-14 |
 | [202Ø](https://open.spotify.com/track/0GvkYGfvARyRBLK0dQV2JR) | [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL) | [202Ø](https://open.spotify.com/album/2V6NsSiH2Gl307v8YhKFqZ) | 3:18 | 2020-11-13 | 2021-03-22 |
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2020-10-20 | 2022-07-29 |
 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 | 2022-06-17 | 2023-01-24 |
@@ -1212,6 +1212,7 @@
 | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/track/1RqtpxOWoK6EewdDHOxUMT) | [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/album/3sb6tWwcrolPMPusXdVOAI) | 3:16 | 2021-05-04 | 2021-05-27 |
 | [Pink Champagne](https://open.spotify.com/track/5UTqjzpLvxlzxAUZBoe6mq) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3pHFu7NJGjcBxg9rkCYcLI) | 2:48 | 2022-11-04 | 2022-11-12 |
 | [Pink Pony Club](https://open.spotify.com/track/4xeGlEItAGRsWFykY7ixjW) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/2gUphuvuwo8JFCNxqOHKRa) | 4:18 | 2021-01-15 | 2022-04-13 |
+| [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-12 |  |
 | [Pins and Needles](https://open.spotify.com/track/28HdRSoNb5kscXfiHA1kyQ) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Pins and Needles](https://open.spotify.com/album/0VSrJPxNnkdu2XytJ04Jmr) | 2:54 | 2024-01-12 |  |
 | [Place Like This](https://open.spotify.com/track/2tTY9mdhOnqW46iRV0Rq8J) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Place Like This](https://open.spotify.com/album/6Tf6xhGbdj49bCGptdMzu0) | 3:39 | 2021-02-25 | 2021-05-27 |
 | [plans](https://open.spotify.com/track/0Je4hbQlNwdelh5ZcCLZGK) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn) | [plans](https://open.spotify.com/album/2ruGW2pGs6dKRySyVSC5Rs) | 3:00 | 2021-02-24 | 2021-05-27 |

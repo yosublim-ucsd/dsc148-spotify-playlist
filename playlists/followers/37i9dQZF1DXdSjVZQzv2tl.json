@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 7689637,
+  "2024-01-14": 7681955,
   "date_first_scraped": "2022-01-02",
   "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Ana Castela, Gustavo Mioto",
   "name": "Esquenta Sertanejo",
@@ -475,6 +475,28 @@
       "duration_ms": 171007,
       "name": "Beijo de Glicose - Ao Vivo",
       "url": "https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP"
+    },
+    {
+      "album": {
+        "name": "Beijo Equivocado",
+        "url": "https://open.spotify.com/album/5omEOoTV8w9GpCeCOmvSpT"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156377,
+      "name": "Beijo Equivocado",
+      "url": "https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6"
     },
     {
       "album": {

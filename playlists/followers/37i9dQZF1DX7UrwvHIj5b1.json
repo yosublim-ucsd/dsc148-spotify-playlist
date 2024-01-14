@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 32167,
+  "2024-01-14": 32248,
   "date_first_scraped": "2023-02-08",
   "description": "Meditative dubstep rhythms for focus and contemplation. ",
   "name": "Deep Rhythm Focus",
@@ -1673,6 +1673,24 @@
       "duration_ms": 282880,
       "name": "Xylophobia",
       "url": "https://open.spotify.com/track/3c12d3L27Jzw8g7nfuN7IK"
+    },
+    {
+      "album": {
+        "name": "Your Eyes EP",
+        "url": "https://open.spotify.com/album/0K2CjkR3MwD1DBVs8oqNKf"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/5tGHJC8P1yydPdtYx1tgQ2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303428,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/2Uhs37b5URBorIokxI5QQB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7UrwvHIj5b1"

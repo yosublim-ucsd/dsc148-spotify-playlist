@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Brittney Spencer
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,593 likes - 200 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,610 likes - 200 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,7 +169,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 159 | [Countin Em Up](https://open.spotify.com/track/5jtMOAP2VSQJ2jtqlH9JRj) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Countin Em Up](https://open.spotify.com/album/00ydoOn1lwmkwOtBBUnpaZ) | 2:48 |
 | 160 | [Fake Tan](https://open.spotify.com/track/0pTakKInEhohtQPoE5Y8IJ) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [Fake Tan](https://open.spotify.com/album/0dRGBrnv5vGVUOY25YdlvC) | 3:25 |
 | 161 | [Missouri On My Mind](https://open.spotify.com/track/4pMAGxsFM14xb09oNVxLiB) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Missouri On My Mind](https://open.spotify.com/album/7A3UNLBL4Fk4iJEfVhTt0w) | 2:46 |
-| 162 | [Like My Whiskey \(with Gretchen Wilson\)](https://open.spotify.com/track/4UEED41GV1zYDvR9Mzw2jk) | [Jessie G](https://open.spotify.com/artist/1gwUQtBkIL11BmSrr9VFBb), [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Like My Whiskey \(with Gretchen Wilson\)](https://open.spotify.com/album/4SLylCJK4K8lDILR3C1igN) | 3:01 |
+| 162 | [Like My Whiskey](https://open.spotify.com/track/4UEED41GV1zYDvR9Mzw2jk) | [Jessie G](https://open.spotify.com/artist/1gwUQtBkIL11BmSrr9VFBb), [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Like My Whiskey](https://open.spotify.com/album/4SLylCJK4K8lDILR3C1igN) | 3:01 |
 | 163 | [Flipside of Free](https://open.spotify.com/track/4WNMurMeK04ek0WxaSJKfy) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Flipside of Free](https://open.spotify.com/album/3MgIEFYJWLLNeWHbSVDJ5h) | 2:56 |
 | 164 | [This Side of the Dirt](https://open.spotify.com/track/22LVem8Gdqh4bsTVFzViOY) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [This Side of the Dirt](https://open.spotify.com/album/6r4KN48PptEHXRdfcMlsJr) | 3:14 |
 | 165 | [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Church Pew](https://open.spotify.com/track/52yPTyhnmH0q07DNDoUkja) | [Caleb Mills](https://open.spotify.com/artist/2hoDSV1Gib8tGTS7q1yKWP) | [Church Pew](https://open.spotify.com/album/3qTqeH0QaHmBC3XnonZ0OZ) | 3:49 |
 | 200 | [DiCaprio](https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [DiCaprio](https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM) | 3:06 |
 
-Snapshot ID: `MCxjNTk4MzA0ZjMxNTBjOGQ5ZTlmZjExNjQzY2RjZTMwYjUwNGZhODE5`
+Snapshot ID: `MCwwY2NkZGUyN2ZkOGFjMDQ4N2JkYjdkYmVhNzllNTgxYTA5M2Y4Y2Ni`

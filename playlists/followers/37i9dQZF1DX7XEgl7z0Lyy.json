@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 280686,
+  "2024-01-14": 282034,
   "date_first_scraped": "2023-07-23",
   "description": "music from the underworld",
   "name": "hexxed",
@@ -655,7 +655,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 140487,
       "name": "cutecore",
       "url": "https://open.spotify.com/track/0EoPVPK0vg4UHPyccKP6PH"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 165184,
       "name": "garden +jersey+",
       "url": "https://open.spotify.com/track/6C1zDj14LtTSbkhLOas9ha"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 117768,
       "name": "Johnny Cage",
       "url": "https://open.spotify.com/track/0iDWwH0Li2ivrcmF3oKs7s"
@@ -1749,6 +1749,28 @@
       "duration_ms": 102860,
       "name": "let's get paid!",
       "url": "https://open.spotify.com/track/3uMDzjC36gRF3zWbxAc705"
+    },
+    {
+      "album": {
+        "name": "Level Up! (w/ Odetari)",
+        "url": "https://open.spotify.com/album/6bNTJdQMxMqLo6NA7CVxXq"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131477,
+      "name": "Level Up! (w/ Odetari)",
+      "url": "https://open.spotify.com/track/3K9zbczgk5tMsM6NNmkcB9"
     },
     {
       "album": {
@@ -2037,6 +2059,24 @@
       "duration_ms": 187009,
       "name": "Melody and bars - Remix",
       "url": "https://open.spotify.com/track/0RcIgGcoomCgXRK7nvGZLn"
+    },
+    {
+      "album": {
+        "name": "memories.",
+        "url": "https://open.spotify.com/album/5tqWAd2UWly7pAGcTP26EA"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155980,
+      "name": "memories.",
+      "url": "https://open.spotify.com/track/5bnY14kyYlFBuSQ9mcHUnK"
     },
     {
       "album": {
@@ -2537,6 +2577,24 @@
       "duration_ms": 141176,
       "name": "Saffron Forest",
       "url": "https://open.spotify.com/track/2Dw26esVMltthp13n4YfNx"
+    },
+    {
+      "album": {
+        "name": "suicidal thoughts 2",
+        "url": "https://open.spotify.com/album/2IXOs7FeYJYyva6YzajUDm"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140740,
+      "name": "sakura rokujo",
+      "url": "https://open.spotify.com/track/7ARs2Nw0Qt2zlBU07ie7Ep"
     },
     {
       "album": {

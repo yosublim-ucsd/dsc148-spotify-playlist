@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 10623,
+  "2024-01-14": 10622,
   "date_first_scraped": "2023-12-14",
   "description": "Tunes from your favourite coffee shop.",
   "name": "But First Coffee",
@@ -21,6 +21,24 @@
       "duration_ms": 160819,
       "name": "6 - acoustic",
       "url": "https://open.spotify.com/track/303Cqs37BnJDIkbbL0WGcA"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     },
     {
       "album": {
@@ -237,7 +255,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 304033,
       "name": "Drown in My Own Tears - The Circle Session, 2023",
       "url": "https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 159589,
       "name": "New Favorite",
       "url": "https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj"
@@ -723,6 +741,24 @@
       "duration_ms": 234531,
       "name": "Noah (Stand Still)",
       "url": "https://open.spotify.com/track/2lXpWg3gOIeH22d1UMhoiL"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Sessions, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "album": {
@@ -915,6 +951,24 @@
       "duration_ms": 253467,
       "name": "stuck - revisited",
       "url": "https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN"
+    },
+    {
+      "album": {
+        "name": "Sun and Time",
+        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250747,
+      "name": "Sun and Time",
+      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Archit Tak, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,091 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,109 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 98 | [Rehgayi](https://open.spotify.com/track/4D5NjvtKg8doqJO8Rllfui) | [Amy Mamtura](https://open.spotify.com/artist/76eG5F9jgoEsAnDkgMZl8K) | [Rehgayi](https://open.spotify.com/album/7DI8naLd05x0iCVbGmmShJ) | 2:33 |
 | 99 | [Ishaare](https://open.spotify.com/track/1VFIOx2iSJfQqWJPV4tzFv) | [Shirish](https://open.spotify.com/artist/1gCoDNvciyx11iMi6aASNV) | [Ishaare](https://open.spotify.com/album/4ZnaQqu6NwYdTeE5uRltsE) | 2:55 |
 
-Snapshot ID: `MCxiZWZlYWMyMDk0Mjc2ZjUyMzI2Mzc5MGM3ZjA1NTZlMWJkMTA4ZjZh`
+Snapshot ID: `MCxjMzY3ZTYzMmM0MjI2NWI4NjlkNmM5M2IyYTRmOTUzZDM1ZDI4YmIy`

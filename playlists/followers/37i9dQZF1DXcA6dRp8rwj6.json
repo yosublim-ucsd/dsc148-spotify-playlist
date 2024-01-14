@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 439460,
+  "2024-01-14": 439258,
   "date_first_scraped": "2022-01-24",
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Lil Nas X)",
   "name": "Beats & Rhymes",
@@ -21535,6 +21535,28 @@
       "duration_ms": 115200,
       "name": "M\u00e1u L\u00ean N\u00e0o",
       "url": "https://open.spotify.com/track/0yMMhsqNQaJYVSYXENmACb"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
     },
     {
       "album": {

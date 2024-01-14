@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:4rwolwLHj97rPwbhyNSeU9">Marizu</a>
 
-219 songs - 11 hr 28 min
+220 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Confidence](https://open.spotify.com/track/1ZCgUvDTcHTRsl0SqZyWSw) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Confidence](https://open.spotify.com/album/2RDDk8NMdeCBnKNYXdMI27) | 3:25 | 2023-08-25 | 2023-09-05 |
 | [CONFIDENCE \(Part 1\)](https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [CONFIDENCE \(Part 1\)](https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj) | 2:28 | 2023-10-24 |  |
 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 | 2022-07-30 | 2023-05-20 |
-| [Corner](https://open.spotify.com/track/1spriRONnTopsV5RMzoLH0) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Corner](https://open.spotify.com/album/24swiq8LPAY6wJiOHYj4OO) | 2:57 | 2024-01-12 |  |
+| [Corner](https://open.spotify.com/track/1spriRONnTopsV5RMzoLH0) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Corner](https://open.spotify.com/album/24swiq8LPAY6wJiOHYj4OO) | 2:57 | 2024-01-12 | 2024-01-14 |
 | [Count Your Blessings](https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Count Your Blessings](https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil) | 2:12 | 2022-07-30 | 2022-12-17 |
 | [Covered](https://open.spotify.com/track/55BLK36N4ebg6am14GvZ1I) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Covered](https://open.spotify.com/album/6GajkGd1VC4cqCIspEJrT5) | 2:41 | 2022-09-11 | 2022-09-19 |
 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 | 2023-08-25 | 2023-09-14 |
@@ -104,6 +104,7 @@
 | [Jo](https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [24ldz](https://open.spotify.com/artist/25otQtaZjbQieePYfYNLrg), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Jo](https://open.spotify.com/album/1SOZ93jmZqYyS9GNu0COEr) | 2:30 | 2022-07-30 | 2023-07-13 |
 | [Johnny](https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Johnny](https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY) | 1:56 | 2023-08-25 |  |
 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 | 2023-05-19 | 2023-08-26 |
+| [Keep it To Myself](https://open.spotify.com/track/1igORpjnhIfzd8w9XX0Zxt) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Keep it To Myself](https://open.spotify.com/album/1wcravxON0Ag9e3lset1gQ) | 2:58 | 2024-01-12 |  |
 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 | 2022-07-30 | 2023-10-25 |
 | [King](https://open.spotify.com/track/3taZaAT7ZjTKqmZv4ahX5B) | [Martin Toe](https://open.spotify.com/artist/3qQlOGleEEh9SPVX0Jx5JK) | [King](https://open.spotify.com/album/1mlJct71ayzMOAS7oTiaqW) | 2:25 | 2022-12-16 | 2023-08-28 |
 | [Kingdom Business](https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [ST\-Saint](https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Kingdom Business](https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr) | 3:30 | 2023-12-01 |  |

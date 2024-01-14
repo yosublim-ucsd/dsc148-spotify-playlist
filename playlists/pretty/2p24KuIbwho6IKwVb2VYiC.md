@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: James Hype
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,273 likes - 81 songs - 4 hr 15 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,262 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

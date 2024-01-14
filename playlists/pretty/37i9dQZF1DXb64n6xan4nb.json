@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 28476,
+  "num_followers": 28478,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjFlMTlmNjJjMGYxOTI2ZjBmMDg0Y2U0MDZkMTcwMGE4NWI3OTEy",
+  "snapshot_id": "MCw1MmVjM2JlZjVmMGU0YTE4MjlhZmY2YzU4MGY3M2M1N2ZiMGY1OTM2",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\uc778\uc5f0",
-        "url": "https://open.spotify.com/album/5sJ2QVPMkWrSFvBurmwjkV"
-      },
-      "artists": [
-        {
-          "name": "YUMI",
-          "url": "https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5"
-        }
-      ],
-      "duration_ms": 301898,
-      "name": "\ubcc4 (\uc601\ud654 \u2018\ubbf8\ub140\ub294 \uad34\ub85c\uc6cc\u2019 \u4e2d\uc5d0\uc11c)",
-      "url": "https://open.spotify.com/track/4lnrONMEGKkwh0IBxYRq7P"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "AsuRaBalBalTa",
         "url": "https://open.spotify.com/album/4of6ei5UMWYCB3bD5bNDXS"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 215986,
       "name": "I turned off the TV... (feat. Yoonmirae & Kwon Jung-yeol)",
       "url": "https://open.spotify.com/track/1oBUbM6xZOPQoHkMJNrRTp"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\uc778\uc5f0",
+        "url": "https://open.spotify.com/album/5sJ2QVPMkWrSFvBurmwjkV"
+      },
+      "artists": [
+        {
+          "name": "YUMI",
+          "url": "https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5"
+        }
+      ],
+      "duration_ms": 301898,
+      "name": "\ubcc4 (\uc601\ud654 \u2018\ubbf8\ub140\ub294 \uad34\ub85c\uc6cc\u2019 \u4e2d\uc5d0\uc11c)",
+      "url": "https://open.spotify.com/track/4lnrONMEGKkwh0IBxYRq7P"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Third Eye",
         "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
       },
@@ -1047,18 +1031,34 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
         }
       ],
-      "duration_ms": 258062,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
+      "duration_ms": 232960,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
       },
       "artists": [
         {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 246613,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
+      "duration_ms": 258062,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Vivid Summer Edition 1st Amaranth Repackage Album",
-        "url": "https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 259372,
-      "name": "\uc0ac\ub791\uacfc \uc804\uc7c1 - \ud558\ud558 Narration Version",
-      "url": "https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Made In Korea?",
         "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 230240,
       "name": "sweet little kitty",
       "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Vivid Summer Edition 1st Amaranth Repackage Album",
+        "url": "https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 259372,
+      "name": "\uc0ac\ub791\uacfc \uc804\uc7c1 - \ud558\ud558 Narration Version",
+      "url": "https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Sung Si kyung Remake Album",
-        "url": "https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 236002,
-      "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
-      "url": "https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Exhibition 2",
         "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 320055,
       "name": "Druken Truth",
       "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Sung Si kyung Remake Album",
+        "url": "https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 236002,
+      "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
+      "url": "https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Like The Bible",
-        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "\ud130\ubcf4 HISTORY",
         "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 275200,
       "name": "\ud68c\uc0c1",
       "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
     },
     {
       "added_at": "2022-06-13 13:22:46",

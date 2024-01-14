@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 1346636,
+  "2024-01-14": 1346618,
   "date_first_scraped": "2020-05-22",
   "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Unknown T",
   "name": "Rap UK",
@@ -13990,6 +13990,28 @@
     },
     {
       "album": {
+        "name": "Blood Diamond",
+        "url": "https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5"
+    },
+    {
+      "album": {
         "name": "Hocus Pocus (Feat. Loyle Carner)",
         "url": "https://open.spotify.com/album/1OQlENDsvmiRYDM3WTBXhy"
       },
@@ -14005,7 +14027,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 202886,
       "name": "Hocus Pocus (Feat. Loyle Carner)",
       "url": "https://open.spotify.com/track/3pFYuXwv3UwhwAe0IsuyqD"

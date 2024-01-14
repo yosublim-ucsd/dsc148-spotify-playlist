@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Emilia & NATHY PELUSO",
-  "num_followers": 285006,
+  "num_followers": 284642,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjI4MWU3ZjIzMWQzOWEwZDRmOTI5M2VmZTliYzc5OGViYTQ0ZjU1",
+  "snapshot_id": "MCxmMTEzMzE4NjllNTM4MzFmODQxYmUyOGMzNjc0NTRlNTBhZGNlZWMy",
   "tracks": [
     {
       "added_at": "2024-01-12 16:37:44",
@@ -419,6 +419,42 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
+        "name": "Ahora Que No Te Tengo",
+        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 155843,
+      "name": "Ahora Que No Te Tengo",
+      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "Te Juro No Te Miento",
+        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Te Juro No Te Miento",
+      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
         "name": "de mi pa ti",
         "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
       },
@@ -467,6 +503,26 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
         "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
         "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
       },
@@ -499,26 +555,6 @@
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -639,22 +675,18 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "Ahora Que No Te Tengo",
-        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
       },
       "artists": [
         {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
         }
       ],
-      "duration_ms": 155843,
-      "name": "Ahora Que No Te Tengo",
-      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -691,22 +723,6 @@
       "duration_ms": 186209,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 157375,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -763,6 +779,26 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
+        "name": "ESO VA",
+        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "ESO VA",
+      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
         "name": "La Terminal",
         "url": "https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o"
       },
@@ -795,26 +831,6 @@
       "duration_ms": 167888,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "ESO VA",
-        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "ESO VA",
-      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "bubble gum",
-        "url": "https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 210707,
-      "name": "bubble gum",
-      "url": "https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
         "name": "Fase de Pat\u00e1n",
         "url": "https://open.spotify.com/album/1sD67oWrgWt8HTZFDObkbW"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
+        "name": "bubble gum",
+        "url": "https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 210707,
+      "name": "bubble gum",
+      "url": "https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
         "name": "remolino",
         "url": "https://open.spotify.com/album/5IjZiLDCW81IgyMelsIvEJ"
       },
@@ -999,6 +1015,38 @@
       "duration_ms": 129104,
       "name": "remolino",
       "url": "https://open.spotify.com/track/62rB5prwqc1oA6NAMzofWW"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "MAGIA NEGRA",
+        "url": "https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 214349,
+      "name": "MAGIA NEGRA",
+      "url": "https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "Argumentos",
+        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "Argumentos",
+      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -1023,18 +1071,26 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "MAGIA NEGRA",
-        "url": "https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc"
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/1PYSxOUcVNmB2mBRLLFEhH"
       },
       "artists": [
         {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        },
+        {
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
         }
       ],
-      "duration_ms": 214349,
-      "name": "MAGIA NEGRA",
-      "url": "https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L"
+      "duration_ms": 158974,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -1071,30 +1127,6 @@
       "duration_ms": 155017,
       "name": "luna de miel",
       "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "TBT",
-        "url": "https://open.spotify.com/album/1PYSxOUcVNmB2mBRLLFEhH"
-      },
-      "artists": [
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        },
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        },
-        {
-          "name": "marcos g",
-          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
-        }
-      ],
-      "duration_ms": 158974,
-      "name": "TBT",
-      "url": "https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -1179,6 +1211,22 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -1243,22 +1291,6 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "Mancora",
-        "url": "https://open.spotify.com/album/13MCrijZ1paCPm9wrFPvil"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        }
-      ],
-      "duration_ms": 126013,
-      "name": "Mancora",
-      "url": "https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
         "name": "DESASTRE",
         "url": "https://open.spotify.com/album/3O0R0OFOqeC5yG7B0OVHWB"
       },
@@ -1275,50 +1307,18 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "Cielo de Colores",
-        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
+        "name": "Mancora",
+        "url": "https://open.spotify.com/album/13MCrijZ1paCPm9wrFPvil"
       },
       "artists": [
         {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Cielo de Colores",
-      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "A primeras",
-        "url": "https://open.spotify.com/album/3DI0A9gm6PA1l6O9d6QDZA"
-      },
-      "artists": [
-        {
-          "name": "Marc Nale",
-          "url": "https://open.spotify.com/artist/3kpqfnU8hkq8cMhqTSJ3br"
-        }
-      ],
-      "duration_ms": 170860,
-      "name": "A primeras",
-      "url": "https://open.spotify.com/track/4TwvT1c8RlRMODNjxHTQ4L"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh"
-      },
-      "artists": [
-        {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX"
+      "duration_ms": 126013,
+      "name": "Mancora",
+      "url": "https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv"
     }
   ],
   "unique_name": "el nuevo pop",

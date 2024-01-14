@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 26650,
+  "2024-01-14": 26675,
   "date_first_scraped": "2022-03-24",
   "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: ogoin, Linguini",
   "name": "Rima Avan\u00e7ada",
@@ -367,6 +367,24 @@
       "duration_ms": 231026,
       "name": "Ah Todo Vapor",
       "url": "https://open.spotify.com/track/6TcpVI5qLqnEStAa266ZRc"
+    },
+    {
+      "album": {
+        "name": "AIR MAX ERA",
+        "url": "https://open.spotify.com/album/31s3srrXf0eUoTvrF06Jow"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181263,
+      "name": "AIR MAX ERA",
+      "url": "https://open.spotify.com/track/5ye6PWvElf1WVIq86uogKM"
     },
     {
       "album": {
@@ -3263,7 +3281,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 123883,
       "name": "JIMI",
       "url": "https://open.spotify.com/track/40CFWGAWb2FauDxBObEyMK"
@@ -4547,7 +4565,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 187000,
       "name": "Pente Estendido",
       "url": "https://open.spotify.com/track/07GFy6pbIMQVMAdsZRwDa4"
@@ -4769,6 +4787,24 @@
       "duration_ms": 164101,
       "name": "Qbd",
       "url": "https://open.spotify.com/track/46K2YTnkjpdtdYtIxjj6gR"
+    },
+    {
+      "album": {
+        "name": "Proibido Estacionar, Vol. 2 - Live Set",
+        "url": "https://open.spotify.com/album/3dNyEVY0LHKpG6voegof2I"
+      },
+      "artists": [
+        {
+          "name": "ruadois",
+          "url": "https://open.spotify.com/artist/1T5hg3seEG39VKTHICTft5"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "Quebra",
+      "url": "https://open.spotify.com/track/6vUdkL5RJnozINC7JBl8M3"
     },
     {
       "album": {
@@ -5975,7 +6011,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 181626,
       "name": "T\u00f4 Tranquila",
       "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
@@ -6199,6 +6235,24 @@
       "duration_ms": 174168,
       "name": "Yo Mami",
       "url": "https://open.spotify.com/track/1f5zESheEAJvU2hYZxMGRX"
+    },
+    {
+      "album": {
+        "name": "Zidane",
+        "url": "https://open.spotify.com/album/7FdZZcSFSgIOB26v2WOARb"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Zidane",
+      "url": "https://open.spotify.com/track/4OLhUBpqcNtNeHKknQrJ5t"
     },
     {
       "album": {

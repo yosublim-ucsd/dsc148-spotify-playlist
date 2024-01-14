@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 439256,
+  "2024-01-14": 439239,
   "date_first_scraped": "2021-12-21",
   "description": "Real nasty house. Cover: FETISH",
   "name": "Nasty Bits",
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 236129,
       "name": "All Eyez On Me",
       "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
@@ -1523,6 +1523,32 @@
       "duration_ms": 220000,
       "name": "Blow",
       "url": "https://open.spotify.com/track/05oGtv3kNxsX8zTejIrO1u"
+    },
+    {
+      "album": {
+        "name": "Body Moving (Skream Remix)",
+        "url": "https://open.spotify.com/album/19ra0E2DFURkLtvp5oDGTQ"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289654,
+      "name": "Body Moving - Skream Remix",
+      "url": "https://open.spotify.com/track/4Si92Ccti5JgtMIhYVaEEt"
     },
     {
       "album": {
@@ -6513,7 +6539,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 168800,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5meiso1p6eyqmcwVI9b9wR"
@@ -7642,6 +7668,28 @@
     },
     {
       "album": {
+        "name": "My Bubble",
+        "url": "https://open.spotify.com/album/0LzrBMYBbB9OxNjeTHh411"
+      },
+      "artists": [
+        {
+          "name": "Loadjaxx",
+          "url": "https://open.spotify.com/artist/3YE19U8tfVU4D0TI4IeilQ"
+        },
+        {
+          "name": "SpicyBoi",
+          "url": "https://open.spotify.com/artist/0gC8cOEQD1QH8ghWFbnbho"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "My Bubble",
+      "url": "https://open.spotify.com/track/0EyfdZULpzp0lUgB9l9uBW"
+    },
+    {
+      "album": {
         "name": "My City Never Sleeps",
         "url": "https://open.spotify.com/album/7utrFfSLgUchtDqtbld3sy"
       },
@@ -7903,7 +7951,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 155396,
       "name": "No Balance",
       "url": "https://open.spotify.com/track/6uzXzIP0vlNWk4j9rX72Xm"
@@ -10082,6 +10130,24 @@
     },
     {
       "album": {
+        "name": "SELF-DESTRUCT",
+        "url": "https://open.spotify.com/album/3PIvmQU0COJbKvP8dqyGtq"
+      },
+      "artists": [
+        {
+          "name": "Siimi",
+          "url": "https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155459,
+      "name": "SELF-DESTRUCT",
+      "url": "https://open.spotify.com/track/0YvhDo4kUUbBIXarmlxHAk"
+    },
+    {
+      "album": {
         "name": "Sequence 999",
         "url": "https://open.spotify.com/album/7EMZiKTAUDQ69EsbeoX4uQ"
       },
@@ -10499,7 +10565,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 191250,
       "name": "SOOTHSAYER (Jon Casey Remix)",
       "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
@@ -10579,7 +10645,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 256614,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb"
@@ -12021,7 +12087,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 201962,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/14Coqo39urqkpfVjtifROo"
@@ -12895,6 +12961,32 @@
       "duration_ms": 157500,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4A9kMqwijHsdsnkoluwkoJ"
+    },
+    {
+      "album": {
+        "name": "Yours (Cat Dealers Remix)",
+        "url": "https://open.spotify.com/album/3zgHKTRZ7b55WBeSgQegl9"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Yours - Cat Dealers Remix",
+      "url": "https://open.spotify.com/track/1nN1b5eEbqxKG2Uw5shq2s"
     },
     {
       "album": {

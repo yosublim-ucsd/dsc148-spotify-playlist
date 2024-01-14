@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,558 likes - 89 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,135 likes - 89 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 83 | [Hopeless](https://open.spotify.com/track/5fXo4rlRxbgw8lE0TogTPf) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [Hopeless](https://open.spotify.com/album/6RehbNgSMLkcf6k2ifnU9c) | 3:00 |
 | 84 | [bones.](https://open.spotify.com/track/7vufcZ8MnCb95Smmg8CR8f) | [Kyju](https://open.spotify.com/artist/75Xl3gSfwXJIxqdvIPhHd4), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [bones.](https://open.spotify.com/album/14j1udxcdRtyaPdpNoHFap) | 2:06 |
 | 85 | [Must Be Nice](https://open.spotify.com/track/7napoy64U99Dttc8YXQUv6) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Must Be Nice](https://open.spotify.com/album/0UFs6Suo1e8EVPDT6Uesbg) | 3:26 |
-| 86 | [cryin over nothin \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 |
+| 86 | [crying over nothing \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 |
 | 87 | [Tired](https://open.spotify.com/track/2SzqIB76prOWeCztmlu9hi) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Tired](https://open.spotify.com/album/28j8ncaZLKane8IMKDRsFX) | 3:04 |
 | 88 | [Sea](https://open.spotify.com/track/2mvlTkWNYuY1ADkYhu9swW) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [Sea](https://open.spotify.com/album/1eMTHBNaOPa3KWhJSWaL75) | 3:47 |
 | 89 | [poison ivy!](https://open.spotify.com/track/0YqCIpNWeKlQQ1XUvllmWr) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [poison ivy!](https://open.spotify.com/album/4UrbrGPvXxIfHXOA0P4Gjb) | 2:44 |
 
-Snapshot ID: `MCxmYTM3ZjU3ZmZhZmFjMDc0NGFmZjkxODU0MWE2NDJlZTE1MWNhOTg1`
+Snapshot ID: `MCw1NTU1YjljNGNlNzNhNjMxMzhhMWNkOGZlMmEyZGQwMjkwN2M2OGRk`

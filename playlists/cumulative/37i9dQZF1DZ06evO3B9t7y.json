@@ -1919,6 +1919,32 @@
     },
     {
       "album": {
+        "name": "Si Me Llevas Contigo (Banda Sonora Original de la serie \"Zorro\")",
+        "url": "https://open.spotify.com/album/4etSne3jdILGk59Hi3ywKf"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120720,
+      "name": "Si Me Llevas Contigo - Banda Sonora Original de la serie \"Zorro\"",
+      "url": "https://open.spotify.com/track/7nc4CkRX4yGZwv2Vg5GqWb"
+    },
+    {
+      "album": {
         "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 320785,
+  "2024-01-14": 321084,
   "date_first_scraped": "2022-05-26",
   "description": "Instrumental beats for a restful night's sleep.",
   "name": "lofi sleep",
@@ -6231,10 +6231,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 126857,
       "name": "low spirits",
       "url": "https://open.spotify.com/track/4DQGBbczwjoW0gqEhVC7WT"
+    },
+    {
+      "album": {
+        "name": "low spirits",
+        "url": "https://open.spotify.com/album/2NXoPsYF6q8oNROXkhW8SO"
+      },
+      "artists": [
+        {
+          "name": "Ybyrayy",
+          "url": "https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "low spirits",
+      "url": "https://open.spotify.com/track/4JEmKIfm4kATo3W58dpmHq"
     },
     {
       "album": {

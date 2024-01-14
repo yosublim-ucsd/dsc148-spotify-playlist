@@ -1,7 +1,7 @@
 {
-  "2024-01-13": 307623,
+  "2024-01-14": 307450,
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Marshmello & Tyla",
+  "description": "The best of today's dance hits. Cover: Frank Walker",
   "name": "mint Canada",
   "tracks": [
     {
@@ -2174,6 +2174,28 @@
     },
     {
       "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260001,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
+    },
+    {
+      "album": {
         "name": "Black Mascara.",
         "url": "https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb"
       },
@@ -2225,7 +2247,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 505277,
       "name": "Blue Lights - Major League DJz Remix",
       "url": "https://open.spotify.com/track/7sLsdhg4lYmftExXvRv4C2"
@@ -2531,6 +2553,24 @@
       "duration_ms": 203255,
       "name": "Bright Lights (feat. AR/CO)",
       "url": "https://open.spotify.com/track/7hz4FnANJOY7tR8eutPxIP"
+    },
+    {
+      "album": {
+        "name": "Brighter",
+        "url": "https://open.spotify.com/album/4HWqkhmqLAfLJCuy2mS1tz"
+      },
+      "artists": [
+        {
+          "name": "Domeno",
+          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180915,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/2FmQv4uDrTBw9Hor1dCdBb"
     },
     {
       "album": {
@@ -5386,6 +5426,24 @@
     },
     {
       "album": {
+        "name": "En",
+        "url": "https://open.spotify.com/album/5p7qEJfdanragsgSMfhx2B"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287661,
+      "name": "En",
+      "url": "https://open.spotify.com/track/2iSwJrdrvWCup9BQQTJwTf"
+    },
+    {
+      "album": {
         "name": "Ending With 1000",
         "url": "https://open.spotify.com/album/5XrsHHpw2kBb9OYG08NlsH"
       },
@@ -5423,6 +5481,28 @@
       "duration_ms": 187040,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+    },
+    {
+      "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "dabl",
+          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196645,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig"
     },
     {
       "album": {
@@ -7073,7 +7153,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 170029,
       "name": "Get Dirty",
       "url": "https://open.spotify.com/track/1MFX2gQcebWefL6a9piY2A"
@@ -7970,6 +8050,24 @@
     },
     {
       "album": {
+        "name": "Heaven In Your Eyes",
+        "url": "https://open.spotify.com/album/5Rdyi1MOYSurQwCUIMxjni"
+      },
+      "artists": [
+        {
+          "name": "Jack Trades",
+          "url": "https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Heaven In Your Eyes",
+      "url": "https://open.spotify.com/track/08AmnbRYmqKagi0oBMttEx"
+    },
+    {
+      "album": {
         "name": "Heaven on Loan",
         "url": "https://open.spotify.com/album/0nLY19y9S32PPJF6oZbH0w"
       },
@@ -8249,6 +8347,28 @@
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
+    },
+    {
+      "album": {
+        "name": "HIGH STAKES",
+        "url": "https://open.spotify.com/album/4oZLpR2QVDQNPJyZvn2Plb"
+      },
+      "artists": [
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        },
+        {
+          "name": "Madalen Duke",
+          "url": "https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "HIGH STAKES",
+      "url": "https://open.spotify.com/track/6sMuiuVIpCf9xiHRQ9l5zm"
     },
     {
       "album": {
@@ -11773,7 +11893,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 145000,
       "name": "Lose You Tonight",
       "url": "https://open.spotify.com/track/6PILotmKgyucOyFV5iJJZ2"
@@ -11927,7 +12047,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 186857,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC"
@@ -12996,6 +13116,24 @@
     },
     {
       "album": {
+        "name": "Miamimita",
+        "url": "https://open.spotify.com/album/2PiIksjuaw8gj9IcFkWMnA"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Miamimita - Edit",
+      "url": "https://open.spotify.com/track/7C3BGwd7XLYt5u2E45Lbkr"
+    },
+    {
+      "album": {
         "name": "Microdosing",
         "url": "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
       },
@@ -13120,6 +13258,32 @@
     },
     {
       "album": {
+        "name": "Miroir Miroir (Romain Garcia & Qrion Mixes)",
+        "url": "https://open.spotify.com/album/4ITkRnfS31YuP5s6zixkNs"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        },
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "Miroir Miroir - Romain Garcia Remix",
+      "url": "https://open.spotify.com/track/27Bi7tiQKHPxPkStLn2fHW"
+    },
+    {
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB"
       },
@@ -13183,6 +13347,28 @@
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "album": {
+        "name": "Missing You (feat. Nate Smith)",
+        "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187258,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
     },
     {
       "album": {
@@ -16002,6 +16188,28 @@
     },
     {
       "album": {
+        "name": "Potential (Lolo Zoua\u00ef Remix)",
+        "url": "https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123134,
+      "name": "Potential - Lolo Zoua\u00ef Remix",
+      "url": "https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4"
+    },
+    {
+      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -17236,6 +17444,28 @@
     },
     {
       "album": {
+        "name": "Run and Hide",
+        "url": "https://open.spotify.com/album/6PRuQH3sUxOdejQ16wlVLt"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Taye",
+          "url": "https://open.spotify.com/artist/5KglBmg3ivkpxNMwDVTvXa"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171624,
+      "name": "Run and Hide",
+      "url": "https://open.spotify.com/track/3kVo06kA91kPxlgEG4txN6"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx"
       },
@@ -18421,7 +18651,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 244904,
       "name": "Sikoyo (feat. Branko & F\u00e9d\u00e9ration Internationale du Bruit)",
       "url": "https://open.spotify.com/track/6nqe6iXrpAntPHHHNsK7nR"
@@ -19391,7 +19621,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 210731,
       "name": "Subterranean",
       "url": "https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd"
@@ -20665,7 +20895,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 335409,
       "name": "The Little Mushroom That Got Away",
       "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
@@ -20911,6 +21141,24 @@
       "duration_ms": 190476,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa"
+    },
+    {
+      "album": {
+        "name": "The Things I Do For Love",
+        "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "The Things I Do For Love",
+      "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
     },
     {
       "album": {

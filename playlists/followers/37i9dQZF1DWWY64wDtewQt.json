@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 7365152,
+  "2024-01-14": 7371933,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -437,7 +437,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 101494,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0rLQlq8mICVfHGBPSKgeon"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
@@ -4466,6 +4466,24 @@
     },
     {
       "album": {
+        "name": "FREETATO",
+        "url": "https://open.spotify.com/album/1Q27gGAujyIvzDLxpuecsV"
+      },
+      "artists": [
+        {
+          "name": "apillsinjuice",
+          "url": "https://open.spotify.com/artist/2rhyPC4RI2bJ3XDFvdBVeo"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109767,
+      "name": "FREETATO",
+      "url": "https://open.spotify.com/track/3nTrjR697Wt8FVLEIZqwiO"
+    },
+    {
+      "album": {
         "name": "FRESH",
         "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
       },
@@ -7705,7 +7723,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 102165,
       "name": "Montagem Dilatrica\u00e7\u00e3o Monumental 2",
       "url": "https://open.spotify.com/track/712pRh5OOQbFqUHjULMuKf"
@@ -7859,7 +7877,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 136062,
       "name": "MTG - PISTA TOMA",
       "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
@@ -10613,6 +10631,24 @@
       "duration_ms": 120187,
       "name": "showdown",
       "url": "https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn"
+    },
+    {
+      "album": {
+        "name": "Silent In Loss",
+        "url": "https://open.spotify.com/album/2F2c4vpHnQRzh7WKbOLiIK"
+      },
+      "artists": [
+        {
+          "name": "akkiemi",
+          "url": "https://open.spotify.com/artist/5QsmdS9RBPIphb0DcpKf6E"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111445,
+      "name": "Silent In Loss",
+      "url": "https://open.spotify.com/track/5u57He0TBFnoVrlYw7CDnW"
     },
     {
       "album": {

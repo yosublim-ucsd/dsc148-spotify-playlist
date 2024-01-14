@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Faye Webster
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,571 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,529 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 58 | [Kicking Up Daisies](https://open.spotify.com/track/5P9RhF4lbiKHvOGWXU5YQj) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Kicking Up Daisies](https://open.spotify.com/album/6IX5m6KY4GI0UOV7gdguzk) | 2:47 |
 | 59 | [Pression](https://open.spotify.com/track/0cdBQBYEY5lsIwaPGwdddS) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Pression](https://open.spotify.com/album/7IFOtfIzgmjHesMapo2AwP) | 3:22 |
 | 60 | [Song For Franz](https://open.spotify.com/track/5K9nvLz7Y3mgxLNPJuWcjR) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Song For Franz](https://open.spotify.com/album/1xKascFBIt5fwizJDm2Rh7) | 3:12 |
-| 61 | [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 |
+| 61 | [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 |
 | 62 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
 | 63 | [While You Wait](https://open.spotify.com/track/6VNsdDlsgWEhGfpeoc1UZW) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [While You Wait](https://open.spotify.com/album/6KyO7Mb9QnUSwm9hxVXWph) | 4:58 |
 | 64 | [Water Underground](https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Water Underground](https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m) | 3:42 |
 | 100 | [Jump The Fences](https://open.spotify.com/track/6ijYdp16OS5L6SIQ7D9hmO) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Jump The Fences](https://open.spotify.com/album/36Fr7LONw4pmUoalQen5Ua) | 3:29 |
 
-Snapshot ID: `MCw0NDcyODk1ZDI1YTkzYzA3YTQzZTU5Nzk0ZTBhN2ZkZDkwNDM0NDE0`
+Snapshot ID: `MCw2NTA3NjA5ZWFmZjhkMTllNDc1MmJjOTQ0NGE0YjgwZjRjN2JhNWZl`

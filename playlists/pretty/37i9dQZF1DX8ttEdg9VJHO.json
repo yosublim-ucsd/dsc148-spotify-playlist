@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 349493,
+  "num_followers": 349436,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTlkNTUyMjJlZWMzYmY4Zjk3NGU0ZTk0MjMzMjUzMTI5MTAxN2Q5",
+  "snapshot_id": "MCwyNTA4ZjJjNzAwZTg2MDdlNDRhYjI5MmRlY2VjN2Q2MTdjMzFiMzJj",
   "tracks": [
     {
       "added_at": "2023-11-17 17:02:42",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Leap Of Faith",
-        "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 217713,
-      "name": "Leap Of Faith",
-      "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 148345,
       "name": "Faded Love",
       "url": "https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Leap Of Faith",
+        "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 217713,
+      "name": "Leap Of Faith",
+      "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
     },
     {
       "added_at": "2023-11-17 17:02:42",

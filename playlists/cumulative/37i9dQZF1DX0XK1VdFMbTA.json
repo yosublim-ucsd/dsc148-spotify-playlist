@@ -2634,10 +2634,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 190093,
       "name": "Cool For Cats",
       "url": "https://open.spotify.com/track/7zWE4XT8ATao3xxdHtKly4"
+    },
+    {
+      "album": {
+        "name": "Spot the Difference (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1A5Ln7s3EoFa960XOpOKlJ"
+      },
+      "artists": [
+        {
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Cool For Cats - Live at The Fillmore",
+      "url": "https://open.spotify.com/track/0Y3CLkHHygWXwhndtkTHin"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 1508610,
+  "2024-01-14": 1506469,
   "date_first_scraped": "2022-03-22",
   "description": "The best of Latin Trap. Cover: YOVNGCHIMI",
   "name": "Trap Land",
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 201741,
       "name": "Conexiones",
       "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
@@ -3312,6 +3312,32 @@
     },
     {
       "album": {
+        "name": "Hptismo",
+        "url": "https://open.spotify.com/album/43V3YFdu1wK59byU3U3nOO"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250256,
+      "name": "Hptismo",
+      "url": "https://open.spotify.com/track/2ws8zwC1Ax65Z53PvtXgpG"
+    },
+    {
+      "album": {
         "name": "Hundreds",
         "url": "https://open.spotify.com/album/0kzlrShR9RPPRoUR84bdHg"
       },
@@ -4694,6 +4720,32 @@
     },
     {
       "album": {
+        "name": "Nadie Como Yo",
+        "url": "https://open.spotify.com/album/33zu97LlU0JOsqLIlo7FhI"
+      },
+      "artists": [
+        {
+          "name": "Mequi",
+          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
+        },
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Nadie Como Yo",
+      "url": "https://open.spotify.com/track/6h0rEgIXXwAhnAMu6GbWox"
+    },
+    {
+      "album": {
         "name": "Nadie Sabe",
         "url": "https://open.spotify.com/album/2uhNRyShqgZ0ztcX2eVsUs"
       },
@@ -5927,7 +5979,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 225671,
       "name": "Salsero",
       "url": "https://open.spotify.com/track/2oAlelTgCCe6wIgUHOWM6E"

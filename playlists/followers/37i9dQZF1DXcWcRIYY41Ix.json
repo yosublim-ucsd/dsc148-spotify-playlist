@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 120311,
+  "2024-01-14": 120320,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
   "name": "Cancionistas",
@@ -329,7 +329,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 233813,
       "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
       "url": "https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL"
@@ -1985,7 +1985,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 264160,
       "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
       "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
@@ -3570,6 +3570,24 @@
     },
     {
       "album": {
+        "name": "fr\u00edo al verte",
+        "url": "https://open.spotify.com/album/5hAepKuo5WYkn0ut6z2Jky"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174234,
+      "name": "fr\u00edo al verte",
+      "url": "https://open.spotify.com/track/0a9eIP2YPBqL7vNaoy9RQx"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/2FJbtOAdbdLSimMwyY5DKn"
       },
@@ -3783,7 +3801,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
@@ -4223,7 +4241,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 355062,
       "name": "La balada de G. Clark",
       "url": "https://open.spotify.com/track/1Apug92E2TzlucGYwC04yq"
@@ -5033,6 +5051,24 @@
       "duration_ms": 191647,
       "name": "lo que siento",
       "url": "https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu"
+    },
+    {
+      "album": {
+        "name": "lo_divino",
+        "url": "https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201919,
+      "name": "lo_divino",
+      "url": "https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX"
     },
     {
       "album": {
@@ -6611,7 +6647,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 233983,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/0NkMsSLnIF4UowF4rLhMHg"
@@ -6995,7 +7031,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 223047,
       "name": "Propuestas Imposibles",
       "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
@@ -7373,10 +7409,36 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 191008,
       "name": "Qu\u00e9 va a ser de m\u00ed?",
       "url": "https://open.spotify.com/track/6Gl97AIqSelC0zoD0FRr1m"
+    },
+    {
+      "album": {
+        "name": "RamaRa",
+        "url": "https://open.spotify.com/album/30QF5M3lnBZcSPcRJiIaTw"
+      },
+      "artists": [
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372285,
+      "name": "RamaRa",
+      "url": "https://open.spotify.com/track/0l2q5ed19U4EJnUhHg37sA"
     },
     {
       "album": {
@@ -8004,6 +8066,24 @@
     },
     {
       "album": {
+        "name": "Si te vas",
+        "url": "https://open.spotify.com/album/6208RozH4lBLu94n6ih083"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183845,
+      "name": "Si te vas",
+      "url": "https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E"
+    },
+    {
+      "album": {
         "name": "Siembro",
         "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
@@ -8159,6 +8239,24 @@
       "duration_ms": 287517,
       "name": "Sombra y Animal",
       "url": "https://open.spotify.com/track/72sE2B7RTlaaK5KNLxyszg"
+    },
+    {
+      "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Sonrisa Valiente - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd"
     },
     {
       "album": {

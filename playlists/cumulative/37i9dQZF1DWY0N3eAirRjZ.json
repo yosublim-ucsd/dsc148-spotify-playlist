@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Songs of Aloha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K"
+      },
+      "artists": [
+        {
+          "name": "Cyril Pahinui",
+          "url": "https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310106,
+      "name": "Ipo Lei Manu",
+      "url": "https://open.spotify.com/track/4cXRygylIkwc1EgOJltbIw"
+    },
+    {
+      "album": {
         "name": "6 & 12 String Slack Key Guitar",
         "url": "https://open.spotify.com/album/5zuoYfUizX3LXBgKPSyXEk"
       },
@@ -536,7 +554,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 310973,
       "name": "Ipo Lei Manu",
       "url": "https://open.spotify.com/track/3jFOru56OBjrH30UUBkGpT"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 279640,
       "name": "Lei 'Awapuhi - Yellow Ginger Lei",
       "url": "https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ"
@@ -838,6 +856,24 @@
       "duration_ms": 329040,
       "name": "Lei Pikake",
       "url": "https://open.spotify.com/track/7xZZlNe5OhKQmrPvj5E6E6"
+    },
+    {
+      "album": {
+        "name": "Summer Solstice 2: A Windham Hill Collection",
+        "url": "https://open.spotify.com/album/0XMNoJSpGPHMjGFMYiExkG"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279626,
+      "name": "Lei' Awapuhi (Yellow Ginger Lei)",
+      "url": "https://open.spotify.com/track/2jTdjUR4ZjPDawvtwWzGhE"
     },
     {
       "album": {
@@ -1444,10 +1480,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 269613,
       "name": "Wahine 'Ilikea",
       "url": "https://open.spotify.com/track/5W8F4fS064ny8IxyXvgUtp"
+    },
+    {
+      "album": {
+        "name": "Pua'ena \"Glow Brightly\"",
+        "url": "https://open.spotify.com/album/14qTaMf1Vf32iELPpl8RZp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269613,
+      "name": "Wahine 'Ilikea",
+      "url": "https://open.spotify.com/track/7ctTIxYYyYYQ58pzkRrYiR"
     },
     {
       "album": {
@@ -1530,6 +1584,24 @@
     {
       "album": {
         "name": "Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6BpspuHJBMZxI7Cc3Y9Tjr"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151920,
+      "name": "Whee Ha Swing",
+      "url": "https://open.spotify.com/track/2yfmFza2MM6TV3QBvC138Z"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",
         "url": "https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56"
       },
       "artists": [
@@ -1540,7 +1612,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 151920,
       "name": "Whee Ha Swing",
       "url": "https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi"

@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 199168,
+  "2024-01-14": 199176,
   "date_first_scraped": "2022-09-18",
   "description": "This is The Who. The essential tracks, all in one playlist.",
   "name": "This Is The Who",
@@ -813,7 +813,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 280899,
       "name": "I Don't Even Know Myself - Re-Make / Take 16",
       "url": "https://open.spotify.com/track/51A3P16XI08faBpppfkrb0"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 187733,
       "name": "The Kids Are Alright",
       "url": "https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj"

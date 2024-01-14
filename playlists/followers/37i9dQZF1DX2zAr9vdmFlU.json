@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 397420,
+  "2024-01-14": 396990,
   "date_first_scraped": "2021-12-28",
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
   "name": "Latin Dinner",
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 225080,
       "name": "El Amor Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
@@ -3315,7 +3315,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 229609,
       "name": "Por Si las Dudas",
       "url": "https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M"

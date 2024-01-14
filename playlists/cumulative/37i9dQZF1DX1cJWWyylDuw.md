@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-519 songs - 1 day 9 hr 41 min
+520 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 | 2022-05-27 | 2023-02-20 |
 | [Demon Teeth](https://open.spotify.com/track/0QdbAYQjcONRUWTyghP8P3) | [lil sleepy](https://open.spotify.com/artist/33pxNrBzoYvOQYcXlCJ1GG), [No Face No Case](https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ) | [Demon Teeth](https://open.spotify.com/album/6PCrTxBz2IhgwR47YbFmWo) | 3:18 | 2022-04-22 | 2022-06-23 |
 | [Desensitised](https://open.spotify.com/track/2NyaVGt3OWO3PbBiiYIznZ) | [Carbine](https://open.spotify.com/artist/2cuY8G1GO57896caxClTIj) | [Desensitised](https://open.spotify.com/album/3SWIjXdp9UvrQvzlrlh1eL) | 3:21 | 2021-12-17 | 2022-07-27 |
-| [Desolate Specter](https://open.spotify.com/track/6UYTzsBQfVCLa5F1WdCJfX) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo) | [Desolate Specter](https://open.spotify.com/album/73vvbakKYjHpokxsROMeKf) | 3:12 | 2021-12-17 |  |
+| [Desolate Specter](https://open.spotify.com/track/6UYTzsBQfVCLa5F1WdCJfX) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo) | [Desolate Specter](https://open.spotify.com/album/73vvbakKYjHpokxsROMeKf) | 3:12 | 2021-12-17 | 2024-01-14 |
 | [Destructo](https://open.spotify.com/track/72dlRtRULviBnoxATyLBjW) | [Hunt the Dinosaur](https://open.spotify.com/artist/0Soz973Ih3ocID7FOktNpv) | [Dankosaurus](https://open.spotify.com/album/0KrXmQksBQFMy68bbi67Je) | 3:21 | 2021-12-17 |  |
 | [Dethroned](https://open.spotify.com/track/6MlZKFmiN5JJy4ZX29z6ag) | [My Own Will](https://open.spotify.com/artist/3WOSLWmOvviDX3fiuHLTK6) | [Dethroned](https://open.spotify.com/album/1EBLYvAUe0ICIzXGtO9Lpw) | 2:59 | 2022-01-21 | 2022-07-24 |
 | [Devil In Me](https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc) | 3:33 | 2021-12-17 | 2023-08-03 |
@@ -369,6 +369,7 @@
 | [Pray For Peace](https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Pray For Peace](https://open.spotify.com/album/0fVihLbx9TE3SSxppwoIyH) | 4:54 | 2021-12-17 | 2022-07-29 |
 | [Prey](https://open.spotify.com/track/3NwPtgv69DAYpb1uEaXjzQ) | [For I Am King](https://open.spotify.com/artist/2etNWORcmPZZBKxcyt6dF4) | [Prey](https://open.spotify.com/album/1KlOaLbLYC4t3qSwfx5uEP) | 3:46 | 2021-12-31 | 2022-04-09 |
 | [Prismatic Tomb](https://open.spotify.com/track/1J29uFlkIBR6IbydTvz4Pv) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Prismatic Tomb](https://open.spotify.com/album/3KobQQOwPNR4YHpWMnhypq) | 4:05 | 2023-06-30 | 2023-08-22 |
+| [Psalm of Agony](https://open.spotify.com/track/2D5RPLnxUlTPMPHWYQl1RD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Psalm of Agony](https://open.spotify.com/album/43JuQ1NBCuGI8dviLEQaly) | 6:52 | 2023-12-13 |  |
 | [Psalm of Agony](https://open.spotify.com/track/5uQadwUb80JnombUNJ3aJ1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Psalm of Agony](https://open.spotify.com/album/4T9StwfDCVyX6C9B0XYQqe) | 6:52 | 2022-06-17 | 2024-01-07 |
 | [Purgatory](https://open.spotify.com/track/3cRlTtMjLWXxr0wNyNH7Ga) | [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Purgatory](https://open.spotify.com/album/3o7JtNaOLJcxl5qsF9OUSI) | 3:47 | 2021-12-17 | 2022-07-29 |
 | [Purging](https://open.spotify.com/track/3b49EY0evOgXTaAzCsjpcE) | [Élan Vital](https://open.spotify.com/artist/4BEkW5kZCeC6an4CEzMqsT) | [Purging](https://open.spotify.com/album/2cXFL1Tn2GsQZ7OBORiy4Q) | 4:00 | 2021-12-17 | 2022-02-08 |

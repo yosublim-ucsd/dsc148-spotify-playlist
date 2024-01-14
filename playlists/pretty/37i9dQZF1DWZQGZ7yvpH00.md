@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,173 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,034 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Tú Goza](https://open.spotify.com/track/2CQk0GyIQzfcvdrthOKmu0) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8), [Lily Baez](https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs) | [RefleXión](https://open.spotify.com/album/1yYqbbaHWQZsUeji3C3YGS) | 3:42 |
 | 50 | [Copa Tras Copas](https://open.spotify.com/track/1gLNj6ANVeSYSvBGLODeQ5) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ), [ERRE](https://open.spotify.com/artist/3qAdZSijJdaym3wQfMCktd), [Brian Mendoza](https://open.spotify.com/artist/1PkMdAG1vujZStQVTjF3I9) | [Copa Tras Copas](https://open.spotify.com/album/6U1aNoigyf6SvWEC82PpKG) | 2:47 |
 
-Snapshot ID: `MCwwOTg3NjkyNTc1ODYzYjM0NDUwMWMyZTNmODc5ZjBiYTU5MTA3MmIz`
+Snapshot ID: `MCw3MWQwOGQ3MjRkMjYwOWYwNmNiMjMyZDU2MWIwYmFlYmRjMTlmNTBm`

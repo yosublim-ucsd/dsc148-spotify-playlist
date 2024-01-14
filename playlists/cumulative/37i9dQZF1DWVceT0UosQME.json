@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 169301,
       "name": "arrival",
       "url": "https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF"
@@ -8632,6 +8632,24 @@
       "duration_ms": 128000,
       "name": "Walk in the Park",
       "url": "https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG"
+    },
+    {
+      "album": {
+        "name": "All the Thoughts",
+        "url": "https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl"
+      },
+      "artists": [
+        {
+          "name": "Zumak",
+          "url": "https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113339,
+      "name": "Walk Through the Sky",
+      "url": "https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-668 songs - 2 day 9 hr 37 min
+669 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Reclaim](https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Reclaim](https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0) | 3:16 | 2022-07-13 | 2023-12-07 |
 | [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 |  |
 | [Reflection](https://open.spotify.com/track/6suhC134iU9dsegUGIngx6) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Different Kinds of Losses](https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni) | 6:04 | 2022-12-09 | 2023-12-07 |
+| [Reimagined \- Set 1 \- Live From Atlanta](https://open.spotify.com/track/1AozJrg5k08jsn54Watygb) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Retrospective: Live From Atlanta \(Box Set\)](https://open.spotify.com/album/6nSjuxftoDh07XO5uNNpMg) | 4:30 | 2023-12-06 |  |
 | [Reimagined \- Set 1 \- Live From Atlanta](https://open.spotify.com/track/46m4ysq3XUa8qf9nZO2kmS) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Retrospective: Live From Atlanta \(Box Set\)](https://open.spotify.com/album/3uzkgSIJnLReaw1R3zLXSC) | 4:30 | 2023-12-06 | 2023-12-24 |
 | [Remanence](https://open.spotify.com/track/71OQ9gOH6NUMLSBq2i1mfx) | [Dukkha](https://open.spotify.com/artist/7nyn1GFcq9woxZSQIYkNLi) | [Remanence](https://open.spotify.com/album/7mxcGyauyqgMX4YHzFP8nn) | 4:12 | 2021-12-17 | 2022-07-25 |
 | [Reprogram \- Single Version](https://open.spotify.com/track/5R8IEz7wqrbgTW2u8c52gU) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Reprogram](https://open.spotify.com/album/6VNdkapfDgOF42ZkB3kcRQ) | 4:26 | 2022-07-13 |  |
@@ -552,7 +553,7 @@
 | [The Inevitable End](https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Inevitable End](https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0) | 4:01 | 2021-12-17 | 2022-01-24 |
 | [The Killing Womb](https://open.spotify.com/track/5gb2BesEN6FrtuApkKPPW2) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/1J1Alzur5kRYahOsgqCqCh) | 2:32 | 2022-01-07 | 2022-07-24 |
 | [The Killing Womb](https://open.spotify.com/track/7m33lSfrWtRfQDG6QmKP0L) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 2:32 | 2022-07-08 |  |
-| [The Lie](https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [The Lie](https://open.spotify.com/album/1qKCuTTwzdCZnKKwo5hqP7) | 3:17 | 2022-02-11 |  |
+| [The Lie](https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [The Lie](https://open.spotify.com/album/1qKCuTTwzdCZnKKwo5hqP7) | 3:17 | 2022-02-11 | 2024-01-14 |
 | [The Light](https://open.spotify.com/track/5gPgYuWtSFOu1tyazRrKKK) | [Seventh Wonder](https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0) | [The Light](https://open.spotify.com/album/4hjXaFtOphEj4cPQHQNkvN) | 6:19 | 2022-05-13 |  |
 | [The Lonely Psychogon](https://open.spotify.com/track/6Z4g6f4wS6pFDo6vGVMv0V) | [Vanden Plas](https://open.spotify.com/artist/1ke5Q2ijh6Tm31kH2HELEe) | [The Ghost Xperiment \- Illumination](https://open.spotify.com/album/1qIx301ov6M96NQvydShHu) | 8:22 | 2021-12-17 | 2022-07-26 |
 | [The Looming](https://open.spotify.com/track/0ujWGhtUtzJ9CBCZF4DWQr) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [The Looming](https://open.spotify.com/album/6uwrXs1mJ4C9I8RYj9UQlJ) | 6:39 | 2023-08-18 | 2023-11-20 |

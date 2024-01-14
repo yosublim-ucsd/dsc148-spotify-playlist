@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,810 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,863 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [All The Love That I Ever Needed](https://open.spotify.com/track/3iRzKwxzeAiyCnSjrjVCGx) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Who We Used To Be \(Deluxe\)](https://open.spotify.com/album/2aURKhuptoXbOAzoDth1BK) | 3:17 |
 | 50 | [The Ballet Girl](https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:21 |
 
-Snapshot ID: `MCw5MDRhNTI2MWM3ODIzMmJhNTAzYTBkMGI5MmZhMjRkYWRkMjA1NmJi`
+Snapshot ID: `MCwxZGNmNzZlNmM0YzdiY2E0ODMwZDc1OTlhMmY4MTZkOTBhOGIyMDNl`

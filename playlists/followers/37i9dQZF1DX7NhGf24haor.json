@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 154772,
+  "2024-01-14": 154929,
   "date_first_scraped": "2022-12-10",
   "description": "Updated weekly | Hardstyle | Cover: Warface",
   "name": "Hardstyle Adrenaline! 2024",
@@ -341,10 +341,32 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 164014,
       "name": "All over Again",
       "url": "https://open.spotify.com/track/0LufEDayNb84PT2Vn2E7Gl"
+    },
+    {
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/16bK5p33etOPrPTg31uRIV"
+      },
+      "artists": [
+        {
+          "name": "Summa Jae",
+          "url": "https://open.spotify.com/artist/1fftC0CPDPyJOjJQRLRNnM"
+        },
+        {
+          "name": "Axel Oliver",
+          "url": "https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164014,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/20G9QEycg5HZOsJEbB35JW"
     },
     {
       "album": {

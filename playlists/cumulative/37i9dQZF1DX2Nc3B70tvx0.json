@@ -9992,10 +9992,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 206447,
       "name": "FAST LOVE",
       "url": "https://open.spotify.com/track/21mtm9jy3qJrrajtWXvQel"
+    },
+    {
+      "album": {
+        "name": "FAST LOVE",
+        "url": "https://open.spotify.com/album/2C1ihKLZTjo8wYGG0TGtDQ"
+      },
+      "artists": [
+        {
+          "name": "Black Hibiscus",
+          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206447,
+      "name": "FAST LOVE",
+      "url": "https://open.spotify.com/track/49RXDNZ5DB9v3YhB6fFM2C"
     },
     {
       "album": {

@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 180645,
       "name": "AGAPI - Remix",
       "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
@@ -2867,6 +2867,32 @@
     },
     {
       "album": {
+        "name": "Best Duo",
+        "url": "https://open.spotify.com/album/6aEMD4Nlts1HIYad1fMXyM"
+      },
+      "artists": [
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167179,
+      "name": "Balkan Disco",
+      "url": "https://open.spotify.com/track/04ALITuonvdzyRx626yYpu"
+    },
+    {
+      "album": {
         "name": "BAM",
         "url": "https://open.spotify.com/album/0vasy6rPfFvhisUyh0iIjJ"
       },
@@ -3808,7 +3834,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 102222,
       "name": "Blue Iguana",
       "url": "https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw"
@@ -3834,6 +3860,32 @@
       "duration_ms": 175992,
       "name": "BLUE NOTE",
       "url": "https://open.spotify.com/track/79M61YYANlU2TES9uz4dj0"
+    },
+    {
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/0zJYHOlumvu4VrSmXN6bl3"
+      },
+      "artists": [
+        {
+          "name": "Feisty",
+          "url": "https://open.spotify.com/artist/7wasuXDWKXAOq7jQvxEK3E"
+        },
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0iUX3yYDN4WvIu0hkT9cMq"
     },
     {
       "album": {
@@ -5120,6 +5172,28 @@
       "duration_ms": 258842,
       "name": "CIRCUS MAXIMUS",
       "url": "https://open.spotify.com/track/4GL9GMX9t7Qkprvf1YighZ"
+    },
+    {
+      "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167791,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/2EGhWibslAqHYryIQUXVPj"
     },
     {
       "album": {
@@ -7419,6 +7493,32 @@
     },
     {
       "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207461,
+      "name": "Ekato",
+      "url": "https://open.spotify.com/track/4s6W225nD6Auj9Qfayujgu"
+    },
+    {
+      "album": {
         "name": "Street Business",
         "url": "https://open.spotify.com/album/51zVTRP9si2TiCxjQXomIL"
       },
@@ -7932,10 +8032,36 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 161160,
       "name": "Ena Tsigaro",
       "url": "https://open.spotify.com/track/64LhZ3gUis8EdONchbypRn"
+    },
+    {
+      "album": {
+        "name": "Best Duo",
+        "url": "https://open.spotify.com/album/6aEMD4Nlts1HIYad1fMXyM"
+      },
+      "artists": [
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
+        },
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Ena Tsigaro",
+      "url": "https://open.spotify.com/track/6CTeNQupdFg6IAcBrUUB5I"
     },
     {
       "album": {
@@ -8492,7 +8618,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 194526,
       "name": "Exw Trelathi",
       "url": "https://open.spotify.com/track/69gv1djsBgvXIWnZ3IVtM0"
@@ -8654,6 +8780,28 @@
       "duration_ms": 137475,
       "name": "Familia",
       "url": "https://open.spotify.com/track/671yz4uRUjHxERLd2F7vAu"
+    },
+    {
+      "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/3GjB6lr07lnOWVXnRLlRrZ"
     },
     {
       "album": {
@@ -8880,7 +9028,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 169569,
       "name": "Ferma",
       "url": "https://open.spotify.com/track/46EdocEk7a205VzqQAjH84"
@@ -9030,7 +9178,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 180326,
       "name": "Floga",
       "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
@@ -9732,7 +9880,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 231986,
       "name": "Fyge - Reworks",
       "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
@@ -10683,6 +10831,28 @@
     },
     {
       "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Quicksilver Beats",
+          "url": "https://open.spotify.com/artist/3fSlSCEGehEFG1ahkOLeyU"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "Golgothas",
+      "url": "https://open.spotify.com/track/6W1fW1z2WX4apdhLRpA1He"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -11590,7 +11760,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 211998,
       "name": "I Gineka Tis Zois Sou",
       "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
@@ -11800,7 +11970,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 139353,
       "name": "IBRA",
       "url": "https://open.spotify.com/track/0loJREraQLLtQxO6oq1R5X"
@@ -12223,6 +12393,28 @@
     },
     {
       "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234828,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3JXjKmLra1Fi4BVZUgOrxd"
+    },
+    {
+      "album": {
         "name": "Mektoub 2",
         "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
       },
@@ -12334,6 +12526,28 @@
       "duration_ms": 275169,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/5kIlH2nwJgHYgAWAQOnlzN"
+    },
+    {
+      "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "Ioudas",
+      "url": "https://open.spotify.com/track/29Fhhq6w6wlA4AAfMWEs0Y"
     },
     {
       "album": {
@@ -12702,6 +12916,28 @@
       "duration_ms": 202816,
       "name": "JET II",
       "url": "https://open.spotify.com/track/457R4xC0mHC4pkYqaGOY2D"
+    },
+    {
+      "album": {
+        "name": "JETX",
+        "url": "https://open.spotify.com/album/0bDwFwg4Sj675jGLP6Uq7G"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "JETX",
+      "url": "https://open.spotify.com/track/31MTvDIimki0q8OfEClV0z"
     },
     {
       "album": {
@@ -13818,7 +14054,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 126750,
       "name": "Koita Me",
       "url": "https://open.spotify.com/track/0ZXqymmpvFMwb2FmR48C6F"
@@ -13986,7 +14222,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 141639,
       "name": "Kolpa",
       "url": "https://open.spotify.com/track/2XFfFjfXBNns7lqliJGwm1"
@@ -14008,7 +14244,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 153600,
       "name": "Kommatia",
       "url": "https://open.spotify.com/track/0q2se8fpWUpJVSo55JsinP"
@@ -15841,6 +16077,28 @@
     },
     {
       "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Made In Greece",
+      "url": "https://open.spotify.com/track/30mm2jkFvunUKgBkJ07K64"
+    },
+    {
+      "album": {
         "name": "LOCKDOWN",
         "url": "https://open.spotify.com/album/31xTDDooz03CHm6iLru68J"
       },
@@ -17278,7 +17536,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 112211,
       "name": "MI TESORO",
       "url": "https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ"
@@ -18421,6 +18679,32 @@
     },
     {
       "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Muerte",
+      "url": "https://open.spotify.com/track/45vnE2kLl80VCvxqos6pwu"
+    },
+    {
+      "album": {
         "name": "Kentrodytika",
         "url": "https://open.spotify.com/album/5Bu0bh5LUjTmJjJXffLEMS"
       },
@@ -19174,6 +19458,28 @@
       "duration_ms": 141686,
       "name": "Nisi",
       "url": "https://open.spotify.com/track/2xdG3MPGdmb2u57RKwQF34"
+    },
+    {
+      "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Quicksilver Beats",
+          "url": "https://open.spotify.com/artist/3fSlSCEGehEFG1ahkOLeyU"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Nitro",
+      "url": "https://open.spotify.com/track/3bJhjKSjrHwufGXOLuLJZk"
     },
     {
       "album": {
@@ -20616,7 +20922,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 155714,
       "name": "PAPAGOU",
       "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
@@ -21172,7 +21478,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 182400,
       "name": "Pes",
       "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
@@ -24181,6 +24487,36 @@
     },
     {
       "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Tsaki",
+          "url": "https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "Skg Mecca",
+      "url": "https://open.spotify.com/track/7ATsnLPMXYHU1dK9WSuNP6"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -24870,7 +25206,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 192000,
       "name": "STAR THS GEITONIAS",
       "url": "https://open.spotify.com/track/3wpspGmdx96y319VEc99LG"
@@ -26603,6 +26939,28 @@
     },
     {
       "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173812,
+      "name": "Titan",
+      "url": "https://open.spotify.com/track/6wT0Y1mdjw4daSp4jvQgrz"
+    },
+    {
+      "album": {
         "name": "Tn",
         "url": "https://open.spotify.com/album/4WNZOYgf1RiVPPiGTK4eln"
       },
@@ -26948,6 +27306,32 @@
       "duration_ms": 236951,
       "name": "Top 5 Freestyle",
       "url": "https://open.spotify.com/track/7dBSskkcNU3PDVW7I0PY5q"
+    },
+    {
+      "album": {
+        "name": "Golgothas",
+        "url": "https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246374,
+      "name": "Top Boys",
+      "url": "https://open.spotify.com/track/1rh6X4yxCHHNog07LJaFfA"
     },
     {
       "album": {
@@ -29409,6 +29793,24 @@
     },
     {
       "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
       },
@@ -29600,7 +30002,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 151794,
       "name": "ZIM ZIMMA",
       "url": "https://open.spotify.com/track/2DzButYxP3txbMm0IJIFxX"

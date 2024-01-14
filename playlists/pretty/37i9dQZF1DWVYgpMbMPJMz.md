@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:6CK4CBL0n07VdVZmfh40nm">Benjamin William Hastings</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,720 likes - 90 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,606 likes - 90 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [Fighting For My Heart \- Live](https://open.spotify.com/track/2anWmr2A4jZQTDlypymJgv) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY) | [Pull Me Through \(Live at King’s House\)](https://open.spotify.com/album/38dj7aDFY0P50sYYmfMGhr) | 7:28 |
 | 90 | [The Plan](https://open.spotify.com/track/5psIjB6ZTTyYzMqaIzDoOE) | [Souvenirs Worship](https://open.spotify.com/artist/5vybBaHZdTIRTYiLF5kAlr) | [The Plan](https://open.spotify.com/album/1COJxxwnImFbThGvDCHfn3) | 9:42 |
 
-Snapshot ID: `MCw3NzU5MDAwYWEyY2UzMjA5YmIyNWY3N2UwZDgxZGFhZjhmNDNhMGQ2`
+Snapshot ID: `MCxhOGFjY2IwOGU2ZWE0Njc3YmQ5Y2M1MjJlZTJkYzhlYzllODAyYzA3`

@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 7474,
+  "2024-01-14": 7489,
   "date_first_scraped": "2022-09-21",
   "description": "Freshest of Pakistani discoveries. Cover - Zeeshan Ali\n",
   "name": "Fresh Finds Pakistan",
@@ -1181,6 +1181,24 @@
     {
       "album": {
         "name": "Badnaam",
+        "url": "https://open.spotify.com/album/2BB2jIlDuHihVPPIuqPUVC"
+      },
+      "artists": [
+        {
+          "name": "Eilaan",
+          "url": "https://open.spotify.com/artist/7AqR65yvxeJg4BR9d0Jfgq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Badnaam",
+      "url": "https://open.spotify.com/track/7dj64bvH7Ijzl0NpGED39I"
+    },
+    {
+      "album": {
+        "name": "Badnaam",
         "url": "https://open.spotify.com/album/2ZH9RKj7afDAQxfjiCUEpj"
       },
       "artists": [
@@ -1768,6 +1786,28 @@
     },
     {
       "album": {
+        "name": "Bindiya",
+        "url": "https://open.spotify.com/album/6Cpn0R0rBad5JwXnr2AFFi"
+      },
+      "artists": [
+        {
+          "name": "Ali Pirzada",
+          "url": "https://open.spotify.com/artist/3hbVRwKqgrKHjWQNMex0vG"
+        },
+        {
+          "name": "Rakae Jamil",
+          "url": "https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Bindiya",
+      "url": "https://open.spotify.com/track/5xXOeKjYM1bXMkxtZRimAc"
+    },
+    {
+      "album": {
         "name": "BIRTHDAY FREESTYLE",
         "url": "https://open.spotify.com/album/7671dWAt900SOmcq9zekvy"
       },
@@ -2277,6 +2317,24 @@
       "duration_ms": 285937,
       "name": "Charkha (From \"Carma\")",
       "url": "https://open.spotify.com/track/4UWdomJAqEdEOuf60jFKQH"
+    },
+    {
+      "album": {
+        "name": "Cheti Aa",
+        "url": "https://open.spotify.com/album/7qdNVFqKv6sYOJwiJ9fQQf"
+      },
+      "artists": [
+        {
+          "name": "Haadi Uppal",
+          "url": "https://open.spotify.com/artist/4VyjDb19fx3IhUB7rEYbM9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184029,
+      "name": "Cheti Aa",
+      "url": "https://open.spotify.com/track/1TmGLXjFEtX9WSzqRilgT6"
     },
     {
       "album": {
@@ -5180,6 +5238,32 @@
     },
     {
       "album": {
+        "name": "Iraaday (From \"Nayab\")",
+        "url": "https://open.spotify.com/album/3N1adFFJS9DYiHKutxXtOV"
+      },
+      "artists": [
+        {
+          "name": "danish roomi",
+          "url": "https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP"
+        },
+        {
+          "name": "Kenneyz Productions",
+          "url": "https://open.spotify.com/artist/6UuEdAL1tuy9CEXSO60WYc"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131368,
+      "name": "Iraaday (From \"Nayab\")",
+      "url": "https://open.spotify.com/track/5lUvxaZYaWIZieFN1gDAoA"
+    },
+    {
+      "album": {
         "name": "Iraday",
         "url": "https://open.spotify.com/album/0MkDaRb3dwHAbh4pJeq7IO"
       },
@@ -5275,6 +5359,24 @@
       "duration_ms": 205507,
       "name": "Ishq Hai Tum Se",
       "url": "https://open.spotify.com/track/6BCJp7GSb306Xnl52UXyfP"
+    },
+    {
+      "album": {
+        "name": "Ishq Ibaadat",
+        "url": "https://open.spotify.com/album/04hYdVboRgH9BmmS7gvqnC"
+      },
+      "artists": [
+        {
+          "name": "Ali Tariq",
+          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161773,
+      "name": "Ishq Ibaadat",
+      "url": "https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp"
     },
     {
       "album": {
@@ -6928,6 +7030,24 @@
     },
     {
       "album": {
+        "name": "Lost You",
+        "url": "https://open.spotify.com/album/4SrfMwMCySC8uHLO3tOraB"
+      },
+      "artists": [
+        {
+          "name": "Awais Amjad",
+          "url": "https://open.spotify.com/artist/0E88xbJhwY36tkrrBGXN3p"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "Lost You",
+      "url": "https://open.spotify.com/track/4C3LZHWjxWkIzKEZ08pf6O"
+    },
+    {
+      "album": {
         "name": "Love Ride",
         "url": "https://open.spotify.com/album/2wW9LzQItVPoC1QyXmh1Gn"
       },
@@ -7859,6 +7979,32 @@
       "duration_ms": 205000,
       "name": "More Saiyaan",
       "url": "https://open.spotify.com/track/2Duts6S27U1rQardvkcI7K"
+    },
+    {
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/7cQjgBtmSEz0FL1rpXuZx1"
+      },
+      "artists": [
+        {
+          "name": "Ali Allahditta",
+          "url": "https://open.spotify.com/artist/26ESxp0K50aZZForRTctle"
+        },
+        {
+          "name": "Dino Ali",
+          "url": "https://open.spotify.com/artist/5mYtnqNtxBAiDu6RFdAOsL"
+        },
+        {
+          "name": "Zoha Zuberi",
+          "url": "https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/62MJzfvDLVx1dBvkssgxKf"
     },
     {
       "album": {
@@ -10134,6 +10280,28 @@
     },
     {
       "album": {
+        "name": "SAANJH",
+        "url": "https://open.spotify.com/album/0vzS6S7tJyZxZfNkPRwsuj"
+      },
+      "artists": [
+        {
+          "name": "XLR8",
+          "url": "https://open.spotify.com/artist/18COFflz52DNyC1f2JAumS"
+        },
+        {
+          "name": "DRG Musics",
+          "url": "https://open.spotify.com/artist/0bMnT7mTcQQZa1cLr7kPlW"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164015,
+      "name": "SAANJH",
+      "url": "https://open.spotify.com/track/35uQHzRMUVP19vO7QknzsZ"
+    },
+    {
+      "album": {
         "name": "Saath",
         "url": "https://open.spotify.com/album/1LkL5KvVibn6h95466oSMs"
       },
@@ -10397,6 +10565,28 @@
       "duration_ms": 208807,
       "name": "same day, same place",
       "url": "https://open.spotify.com/track/7AQ59NZNxED7Ee8ZuBNQ8a"
+    },
+    {
+      "album": {
+        "name": "Sanam",
+        "url": "https://open.spotify.com/album/5kLSV84wUvUIPit6pSUdyR"
+      },
+      "artists": [
+        {
+          "name": "Adeel",
+          "url": "https://open.spotify.com/artist/5UrNmh6stqn6GkzDfjxeVp"
+        },
+        {
+          "name": "Rohail Sheikh",
+          "url": "https://open.spotify.com/artist/5CPE6ijTqHEwNrtKKiTgaU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213986,
+      "name": "Sanam",
+      "url": "https://open.spotify.com/track/35cfMqUdnbl3FNkQWegbLd"
     },
     {
       "album": {
@@ -11802,6 +11992,24 @@
     },
     {
       "album": {
+        "name": "Tera Hi Raha",
+        "url": "https://open.spotify.com/album/0ibt8zVVWgADHG30SU71MM"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Sohail",
+          "url": "https://open.spotify.com/artist/7J8OrVC7fcmcjPnsZEh1pP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139124,
+      "name": "Tera Hi Raha",
+      "url": "https://open.spotify.com/track/2bChdWXs8dpQNFUucQgN5Q"
+    },
+    {
+      "album": {
         "name": "Tera Naah",
         "url": "https://open.spotify.com/album/0zqJ5vzUhgd61rSs7cug9O"
       },
@@ -12313,6 +12521,28 @@
       "duration_ms": 244246,
       "name": "To the moon",
       "url": "https://open.spotify.com/track/6dw8KTHocLFbSzzjap5Q8m"
+    },
+    {
+      "album": {
+        "name": "Tod Fod",
+        "url": "https://open.spotify.com/album/7CLOUmnidQCky7Qj6Tmpab"
+      },
+      "artists": [
+        {
+          "name": "Bandzo3rd",
+          "url": "https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Tod Fod",
+      "url": "https://open.spotify.com/track/7HsQUh2sPmL6XdEwTD7wm3"
     },
     {
       "album": {
@@ -13113,6 +13343,28 @@
       "duration_ms": 244862,
       "name": "Yaadein Teri",
       "url": "https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri"
+    },
+    {
+      "album": {
+        "name": "Yaaden",
+        "url": "https://open.spotify.com/album/7G26cHP8uiJb7Dy9B6llJA"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Hussain Ajani",
+          "url": "https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Yaaden",
+      "url": "https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI"
     },
     {
       "album": {

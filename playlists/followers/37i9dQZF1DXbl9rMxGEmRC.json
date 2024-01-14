@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 467839,
+  "2024-01-14": 467487,
   "date_first_scraped": "2021-12-21",
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
   "name": "Extreme Metal",
@@ -3622,6 +3622,24 @@
     },
     {
       "album": {
+        "name": "Gangandi",
+        "url": "https://open.spotify.com/album/45VQnapn0ZwF6JV2HvAiZ9"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430853,
+      "name": "Gangandi",
+      "url": "https://open.spotify.com/track/4AnR4EB1BIn481mcPalt44"
+    },
+    {
+      "album": {
         "name": "Gehenna",
         "url": "https://open.spotify.com/album/6BFtNQI9JIkLEmcrlWLRdi"
       },
@@ -4379,7 +4397,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 419300,
       "name": "Hybrid Stigmata - The Apostasy - Remixed & Remastered",
       "url": "https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv"

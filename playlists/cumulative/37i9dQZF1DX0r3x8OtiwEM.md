@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-625 songs - 2 day 14 hr 6 min
+626 songs - 2 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [The Lights](https://open.spotify.com/track/2tJhsBdtaaD8SJF6m6xBvX) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Lights](https://open.spotify.com/album/1LhlKOpYfhEicL7eG35IvX) | 6:39 | 2019-08-06\* | 2019-09-13 |
 | [The Mesmerizing Circle](https://open.spotify.com/track/5CQVy5xnf7gb4J093YQkDg) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Dreamer](https://open.spotify.com/album/2O1yshzp8iyZFq1lhThaUg) | 6:57 | 2020-04-30 | 2022-01-12 |
 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 | 2022-04-04 | 2024-01-06 |
+| [The Mirage](https://open.spotify.com/track/4YwiPW0Blppb278a96Spt5) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/6hPX9nAuWK16Venmzr6dNV) | 6:11 | 2023-11-27 |  |
 | [The Morning After](https://open.spotify.com/track/3H0ZT9YkGlYH9rNIcB4ysg) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [The Morning After](https://open.spotify.com/album/1IcAlYuwJfpdbcZz0Loris) | 6:48 | 2019-08-06\* | 2021-05-28 |
 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 | 2021-12-17 | 2022-07-12 |
 | [The Otherside \(feat\. Robinson\)](https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [This Is SHÈN](https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU) | 3:28 | 2023-01-13 | 2023-04-18 |
@@ -573,7 +574,7 @@
 | [Trauma](https://open.spotify.com/track/4iGmeE1BwOerlAdennrkC2) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Raindrops](https://open.spotify.com/album/564ZPjEGjn6cSQzDYpZT0w) | 2:53 | 2020-01-02 | 2021-05-07 |
 | [Trivia](https://open.spotify.com/track/3WMztTAtiAdKW2RFmRcjjC) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [Trivia \| Ultraschall](https://open.spotify.com/album/3RmQ7w7EEPWiDDJYCBnt4i) | 7:08 | 2019-12-07 | 2020-01-15 |
 | [trolltekno](https://open.spotify.com/track/1F27K7w0KJx3HtKx338Ert) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [trolltekno](https://open.spotify.com/album/0wivQgXg1hCTSJlbm9MFwv) | 6:43 | 2022-04-04 | 2022-04-16 |
-| [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-26 |  |
+| [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-26 | 2024-01-14 |
 | [Trust](https://open.spotify.com/track/3Y8TTbfO0gPryMBic26B7q) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Trust / Midnight](https://open.spotify.com/album/3SVMH8Rob9wkDi8JykvTMB) | 6:56 | 2019-08-06\* | 2020-03-14 |
 | [Tunnel Run](https://open.spotify.com/track/6ctFMN8mLVqE8VOm8uNwj4) | [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Stoic](https://open.spotify.com/album/4Jw8y2myKin7NdJzcmcYgI) | 5:49 | 2019-08-06\* | 2020-02-27 |
 | [Twisted Reality \- Edit](https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Twisted Reality \(Edit\)](https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg) | 3:27 | 2021-10-09 | 2023-01-14 |

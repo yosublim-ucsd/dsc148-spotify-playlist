@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Leony, Felix Jaehn
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,787 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,046 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 63 | [Better Without You](https://open.spotify.com/track/1c9F5RlagP8Jdn9vpFc31H) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Better Without You](https://open.spotify.com/album/39NGoL27fy5kDdE9JxNyEk) | 2:20 |
 | 64 | [How Deep Is Your Love](https://open.spotify.com/track/5wsIpYhJpVN8fA2fB8tM4X) | [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [How Deep Is Your Love](https://open.spotify.com/album/40Y65JvhUhEn71b8ebGcyD) | 2:17 |
 | 65 | [Another You](https://open.spotify.com/track/27uRJ7kERlmQUDnvsVXNva) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9) | [Another You](https://open.spotify.com/album/3yFHjRZVdqjhSxJhgLqb0A) | 2:48 |
-| 66 | [Cha\-La Head Cha\-La](https://open.spotify.com/track/4FOq3cDLjaqskP4R8be5ni) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Kontrollverlust](https://open.spotify.com/artist/4xPelDZ8JrhLr5ji8YrhHT) | [Cha\-La Head Cha\-La](https://open.spotify.com/album/35GpTYop7KVVWY9ycSnsYI) | 2:05 |
+| 66 | [Cha\-La Head Cha\-La \- Dragonball Z](https://open.spotify.com/track/4FOq3cDLjaqskP4R8be5ni) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Kontrollverlust](https://open.spotify.com/artist/4xPelDZ8JrhLr5ji8YrhHT) | [Cha\-La Head Cha\-La \(Dragonball Z\)](https://open.spotify.com/album/35GpTYop7KVVWY9ycSnsYI) | 2:05 |
 | 67 | [Through Glass](https://open.spotify.com/track/3v60ytSWrozCqpiAZbkI1O) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Through Glass](https://open.spotify.com/album/3Anq47xQ6ubEdxmP6g4Agb) | 3:06 |
 | 68 | [Jolene](https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [ILSE](https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707) | [Jolene](https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F) | 2:01 |
 | 69 | [Surga](https://open.spotify.com/track/0265ZKjpIidKZsuXXlId44) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR) | [Surga](https://open.spotify.com/album/4xZOU9KWrz4lwDcwhEKrWl) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Someone Else's Love](https://open.spotify.com/track/0Fa7WvZrpURz8LhCKI4DX9) | [David Burster](https://open.spotify.com/artist/2LXs8PJ2e70UHUlBEZ6IxH) | [Someone Else's Love](https://open.spotify.com/album/0V16cIoilAeFLomSlzvJQF) | 2:29 |
 | 75 | [Get Back](https://open.spotify.com/track/1Az8Mbj2rv2un031Qxltx8) | [Stupid Goldfish](https://open.spotify.com/artist/0JqP06xsTN1rmZVgV7cEm8) | [Get Back](https://open.spotify.com/album/2BoBboQrZL896ksxoal2aT) | 2:07 |
 
-Snapshot ID: `MCw5MDhjM2EyMGJkNmRlZTVlOGRmNDc3NmM5ODBmZDk1MmUwMTZhZTI2`
+Snapshot ID: `MCw1NTcwMmNkOTY1OWNmZDkyZGU3MTg3MzI0MWQ5MjZjMGNiM2Q2NDU0`

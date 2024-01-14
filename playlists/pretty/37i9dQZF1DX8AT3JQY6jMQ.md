@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 
 > Great songs by Australian music legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,340 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,377 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 | 99 | [Girls Like That \(Don't Go for Guys Like Us\)](https://open.spotify.com/track/6jrQpctf9Fg3btO1I7qX7X) | [Custard](https://open.spotify.com/artist/09NEIWHdaWneBWsjYdDnwz) | [Loverama](https://open.spotify.com/album/6d56WimrCEkbHu2x0WM196) | 3:10 |
 | 100 | [A Pub With No Beer \- 1979 Version; 1992 Remaster](https://open.spotify.com/track/32oNBkKF3t6fUx03xBfJXe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 3:00 |
 
-Snapshot ID: `MCwwOGI4N2JjNTIxMmRlYjQ5NDU0NDQ3MWIyNDBiY2RhMjVmNGM4OGMx`
+Snapshot ID: `MCwyN2QxNzAwOGE5YTFkNGM4MWQ1ZjFjNTQ5ZGQ4ZmJlYzA0ZGY4MmFi`

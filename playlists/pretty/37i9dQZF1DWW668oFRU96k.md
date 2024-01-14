@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren x Goodboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,038 likes - 68 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,911 likes - 68 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 67 | [Voyage Voyage](https://open.spotify.com/track/5vKKfaYOmxAC3973l5y2sU) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Voyage Voyage](https://open.spotify.com/album/5uy4i6ebA5lKrsWvQ6J2Oy) | 3:14 |
 | 68 | [Daddy](https://open.spotify.com/track/4bahlJIInsjIUKXrod6RqO) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Daddy](https://open.spotify.com/album/7lL7z2Kbqj7gCjRlAKENmb) | 2:12 |
 
-Snapshot ID: `MCwyODE1MjJlMTU3ZGIzNzhkMmRjMzgwZGVjZWVlMDBmYzUzYTdlNDFi`
+Snapshot ID: `MCw5NTgwYTJkOTU2N2EyNzE0MWU0ZTAwMWFmMjZjZTJlZGEyMGRiNjQz`

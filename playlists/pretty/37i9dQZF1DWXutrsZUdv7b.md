@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,208 likes - 106 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,272 likes - 106 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 | 84 | [The 81](https://open.spotify.com/track/30nTKl0xDGt9EQVrAEGJKY) | [Candy & The Kisses](https://open.spotify.com/artist/161nobp85d4YNxDv0QnmJW) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:34 |
 | 85 | [I Can't Stop Dancing](https://open.spotify.com/track/3evKZi4dI9Nw7Hit26XFN9) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [I Can't Stop Dancing](https://open.spotify.com/album/6EOG2HlsfnM8YDoimOiCyS) | 2:21 |
 | 86 | [Only The Strong Survive \- Single Version](https://open.spotify.com/track/4rVqbRfKB3tY1Z8nu2i0ny) | [Jerry Butler](https://open.spotify.com/artist/0U2mUJuJkthantMGmsJygP) | [The Philadelphia Sessions](https://open.spotify.com/album/0r03ECQw61ESw5YY7Hah1T) | 2:38 |
-| 87 | [Silly Silly Fool \- Remastered Version](https://open.spotify.com/track/72JpCXt7QiZxC9sW7XNXmP) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [A Brand New Me](https://open.spotify.com/album/0pm72PHGq5z0yK60jXr36t) | 2:33 |
+| 87 | [Silly, Silly Fool \- Remastered Version](https://open.spotify.com/track/72JpCXt7QiZxC9sW7XNXmP) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [A Brand New Me](https://open.spotify.com/album/0pm72PHGq5z0yK60jXr36t) | 2:33 |
 | 88 | [Get Me Back on Time, Engine Number 9 \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/2U5dKDtmXiZUUJAtZcHk8B) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 6:27 |
 | 89 | [Slow Motion \(Part 1\)](https://open.spotify.com/track/6EdVvkxAYAgT3DXW8Op4ZH) | [Johnny Williams](https://open.spotify.com/artist/2u6sTEhZMp9PgpEPYn4Sry) | [From Philly With Love](https://open.spotify.com/album/37iNGYqlN7m1FNLNmapKAy) | 2:57 |
 | 90 | [You Don't Know What You Got Till You Lose It/kenny Gamble](https://open.spotify.com/track/5DKuYK6aVrkf3luQl3kC2W) | [Kenny Gamble](https://open.spotify.com/artist/0TEdanYTgQdUgNBPjK2vXI) | [Yo Philadelphia!!!! Look What I Found](https://open.spotify.com/album/0dxutrP75tVtqUS8cimSVX) | 3:05 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 | 105 | [I Met Him On A Sunday](https://open.spotify.com/track/1BbuB46ewGPlZYSLtcdANi) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV), [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Gonna Take A Miracle](https://open.spotify.com/album/6867EFvLm4xENyg1pdcRdh) | 1:49 |
 | 106 | [Someday You'll Be My Love](https://open.spotify.com/track/5z07SkVTBDO44PMBRwTpHs) | [Kenny Gamble](https://open.spotify.com/artist/0TEdanYTgQdUgNBPjK2vXI), [Tommy Bell](https://open.spotify.com/artist/3lyFG7yieZVPFKpHIzaosB) | [Ain't Nothin But A House Party](https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw) | 2:25 |
 
-Snapshot ID: `MCw4ZDE2NGVmY2E1YzhhN2YxODc4MGY0NmMyNTkzNjE3ODI4MjEyZjkw`
+Snapshot ID: `MCwwZTY0NzJmOGFlNmM0OWYyYWUzMTQ3MWRhYzAyOGRkNTc2Nzc0MWEx`

@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: HotKid",
-  "num_followers": 41140,
+  "num_followers": 41286,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWUzY2RiMzBkODZkNjQ3N2E4YmUxMGIzMDNmMzU1Zjg2YzhhZDkz",
+  "snapshot_id": "MCxhMmI4NTRmOTU0Njc4NzNhZDI4M2UwZDFlZjg0MmJjYzY0ZGVkMWY4",
   "tracks": [
     {
       "added_at": "2024-01-12 05:32:36",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-01-12 05:32:36",
       "album": {
-        "name": "Egopiano",
-        "url": "https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Egopiano",
-      "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
-    },
-    {
-      "added_at": "2024-01-12 05:32:36",
-      "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2024-01-12 05:32:36",
+      "album": {
+        "name": "Egopiano",
+        "url": "https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Egopiano",
+      "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
     },
     {
       "added_at": "2024-01-12 05:32:36",

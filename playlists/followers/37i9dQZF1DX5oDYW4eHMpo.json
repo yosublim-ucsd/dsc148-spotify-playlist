@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 6335,
+  "2024-01-14": 6380,
   "date_first_scraped": "2023-10-24",
   "description": "OPN takes us on a magical journey with the release of his new album \"Again\". ",
   "name": "Mixtape #6 Oneohtrix Point Never \"ooze from again\"",
@@ -233,10 +233,28 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 296270,
       "name": "Die Dinge des Lebens",
       "url": "https://open.spotify.com/track/031TQHn8ICGcAKkOwWvMNG"
+    },
+    {
+      "album": {
+        "name": "The Amateur View",
+        "url": "https://open.spotify.com/album/7cxuhgQC5uExNMyeT1k56y"
+      },
+      "artists": [
+        {
+          "name": "To Rococo Rot",
+          "url": "https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296270,
+      "name": "Die Dinge des Lebens",
+      "url": "https://open.spotify.com/track/0mZpVZRhcTWJXa6TQQPjNV"
     },
     {
       "album": {

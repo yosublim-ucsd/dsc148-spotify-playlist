@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 26387,
+  "2024-01-14": 26433,
   "date_first_scraped": "2022-07-19",
   "description": "Your go to Afrobeats workout playlist ",
   "name": "Keep Fit Club ",
@@ -315,6 +315,24 @@
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
+    },
+    {
+      "album": {
+        "name": "Hassani Workout",
+        "url": "https://open.spotify.com/album/3bBp5q26jEDLBueY371ps6"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313891,
+      "name": "Amapiano Body",
+      "url": "https://open.spotify.com/track/6wk9QPgrtHe18c47n8uGFb"
     },
     {
       "album": {
@@ -5505,7 +5523,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
@@ -7017,7 +7035,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 150985,
       "name": "Up Forever",
       "url": "https://open.spotify.com/track/1KlbfHhbjOYMBQCCwjTYAi"
@@ -7623,6 +7641,24 @@
       "duration_ms": 146598,
       "name": "Yawa No Dey End",
       "url": "https://open.spotify.com/track/4TzkFUNRNSE99Glbq1hBoe"
+    },
+    {
+      "album": {
+        "name": "Hassani Workout",
+        "url": "https://open.spotify.com/album/3bBp5q26jEDLBueY371ps6"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313891,
+      "name": "Yenco!",
+      "url": "https://open.spotify.com/track/25Cs1b7GV45uDa9XX82JFB"
     },
     {
       "album": {

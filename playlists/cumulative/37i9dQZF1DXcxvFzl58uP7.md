@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-920 songs - 1 day 23 hr 46 min
+921 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,6 +762,7 @@
 | [Sundown](https://open.spotify.com/track/0lTQrcDZtbH0GbsUN3Nvl0) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q) | 3:36 | 2021-05-01 | 2022-06-26 |
 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 | 2022-05-11 | 2023-08-26 |
 | [Sunnnn](https://open.spotify.com/track/68bLFIx0Gw6P3DMBIGdUyz) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Pacific II](https://open.spotify.com/album/3XVHKlsCkHBAgezLyyArGT) | 4:20 | 2019-08-02 | 2021-08-26 |
+| [Sunny](https://open.spotify.com/track/0IyJM7sF8ARYeAwOakrUyB) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Sunny](https://open.spotify.com/album/1DPO1OmvqKroBuMW0Trxhh) | 1:44 | 2024-01-12 |  |
 | [Sunset Wife](https://open.spotify.com/track/1xWJ3RJrJ3Ep7KevWVRpl5) | [Emmett Mulrooney](https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh), [Sean Gerty](https://open.spotify.com/artist/0ieeWRQwg8hZbCZEyTN7qZ) | [Sunset Wife](https://open.spotify.com/album/69mX83f6tXEgE5hKzsjZFT) | 2:59 | 2020-12-22 | 2021-08-28 |
 | [Superlove](https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Superlove](https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE) | 3:48 | 2022-03-04 | 2022-04-21 |
 | [Superpower](https://open.spotify.com/track/7BEm1s1Xt3kfym5ivfNQ8V) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Superpower](https://open.spotify.com/album/64WUH9HmC02cVAHJqYywP3) | 4:09 | 2021-05-07 | 2021-05-28 |
@@ -866,7 +867,7 @@
 | [Waltzing Back](https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq) | 3:12 | 2021-07-19 | 2023-04-30 |
 | [wannabe](https://open.spotify.com/track/7whNjHW4GYKsVoKA8bhqcI) | [Sam Woods](https://open.spotify.com/artist/0mJP3OOM9MbqWmuEjgabcV) | [wannabe](https://open.spotify.com/album/3cHbsTCeASD7hjX9cYvEtK) | 2:48 | 2019-07-30\* | 2021-05-28 |
 | [Want Me](https://open.spotify.com/track/65N9abRNej5yT3nuE2jEcE) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Want Me](https://open.spotify.com/album/0QD3X9cmipQlZEtmaqB2vH) | 4:26 | 2019-07-30\* | 2021-05-19 |
-| [Warmer](https://open.spotify.com/track/27n8scut9e5uU4uD5qFzDQ) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Warmer](https://open.spotify.com/album/2opDURU1h6QFzIGYDFGOyA) | 2:34 | 2023-04-21 |  |
+| [Warmer](https://open.spotify.com/track/27n8scut9e5uU4uD5qFzDQ) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Warmer](https://open.spotify.com/album/2opDURU1h6QFzIGYDFGOyA) | 2:34 | 2023-04-21 | 2024-01-14 |
 | [Warned You](https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/5CsiKKVYjYSu7yQqqxW5Wi) | 2:13 | 2019-07-30\* | 2022-07-19 |
 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 | 2021-02-27 |  |
 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 | 2021-02-27 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 46923,
+  "2024-01-14": 46901,
   "date_first_scraped": "2023-03-19",
   "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30d2\u30c3\u30c8\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: The Black Keys",
   "name": "Rock The World",
@@ -2153,6 +2153,28 @@
       "duration_ms": 217022,
       "name": "Blame",
       "url": "https://open.spotify.com/track/7fEEIa4xFz9bhv55ZcxG6m"
+    },
+    {
+      "album": {
+        "name": "The Maine (deluxe)",
+        "url": "https://open.spotify.com/album/2U5AQJj6WHdMYMuLWDun6q"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190392,
+      "name": "blame (feat. Valley)",
+      "url": "https://open.spotify.com/track/3oaUVz98IlIICzuxLyUvyG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,556 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,616 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 51 | [Mo\-Fr](https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Mo\-Fr](https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt) | 2:53 |
 | 52 | [nie wieder \(mundsburg\)](https://open.spotify.com/track/1y7KRS1FcDLVC8Y3uqLxJI) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [U3](https://open.spotify.com/album/1uWOEbea8gCuMPCGNN64mt) | 2:51 |
 | 53 | [so k.o.](https://open.spotify.com/track/0B4gBXd4XLXGvaBl7pI2vL) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [so k.o.](https://open.spotify.com/album/4lEsfnmMIQKOn21J4PMwmc) | 3:34 |
-| 54 | [1000 Liter Teer](https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt) | [therror](https://open.spotify.com/artist/19umoxJexdhKLQBrkUngZq) | [1000 Liter Teer](https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT) | 3:08 |
+| 54 | [1000 Liter Teer](https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [1000 Liter Teer](https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT) | 3:08 |
 | 55 | [blue](https://open.spotify.com/track/1WL5aNWaoWjtbqOKOphCSv) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [blue](https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl) | 2:58 |
 | 56 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 |
 | 57 | [Egal \(was passiert\)](https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Egal \(was passiert\)](https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Offline](https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4) | [MOA](https://open.spotify.com/artist/1E7MNGR2FctfNRyFwWLcCY), [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Offline](https://open.spotify.com/album/2tZZnHcwcJsJ7NbSLKLaAd) | 3:30 |
 | 75 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
 
-Snapshot ID: `MCw3YjRiYTQ5NjkxYTFjYzcwNWFkZTE2MzBjMmU1ZDM5ZGNkNDRhNmY2`
+Snapshot ID: `MCw5NTY5MDIyMjY2NmZjYjA5NGI3ZjRlM2M1ZGMzNTA2ZWJmNTFlZmY1`

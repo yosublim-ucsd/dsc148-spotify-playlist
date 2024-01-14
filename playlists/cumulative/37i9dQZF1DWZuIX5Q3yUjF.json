@@ -1512,6 +1512,28 @@
     {
       "album": {
         "name": "Aurora Boreale",
+        "url": "https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Come si fa (feat. Mecna)",
+      "url": "https://open.spotify.com/track/1OlyejULTOwZKKrw4J3FAc"
+    },
+    {
+      "album": {
+        "name": "Aurora Boreale",
         "url": "https://open.spotify.com/album/0RWG0hwJKw9uBOA8wFIF1u"
       },
       "artists": [
@@ -1526,7 +1548,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 193488,
       "name": "Come si fa (feat. Mecna)",
       "url": "https://open.spotify.com/track/1acYpHsbkn5OnzWn6xwhvM"
@@ -1944,6 +1966,28 @@
     {
       "album": {
         "name": "Aurora Boreale",
+        "url": "https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "Trusty",
+          "url": "https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233064,
+      "name": "Diamanti solitari",
+      "url": "https://open.spotify.com/track/0xLdR8e8CZNxsaKdUBjjkG"
+    },
+    {
+      "album": {
+        "name": "Aurora Boreale",
         "url": "https://open.spotify.com/album/5afOl4r5DZq2slkIrfN14I"
       },
       "artists": [
@@ -1958,7 +2002,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 233064,
       "name": "Diamanti solitari",
       "url": "https://open.spotify.com/track/4XSJfPyaH9VytRjn8EUwc1"
@@ -5360,10 +5404,32 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 242658,
       "name": "Non vuoi perdere mai",
       "url": "https://open.spotify.com/track/1ltRsqo1JQV4qcVLPYkgXL"
+    },
+    {
+      "album": {
+        "name": "Aurora Boreale",
+        "url": "https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "Geeno",
+          "url": "https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242658,
+      "name": "Non vuoi perdere mai",
+      "url": "https://open.spotify.com/track/2HVP0TxbpkLkLHVTom1X9h"
     },
     {
       "album": {

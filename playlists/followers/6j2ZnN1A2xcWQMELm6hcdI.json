@@ -1,5 +1,5 @@
 {
-  "2024-01-13": 341752,
+  "2024-01-14": 340917,
   "date_first_scraped": "2022-06-10",
   "description": "On Fleek: Adj. 1) a state of completeness and flawlessness [see: <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>]. Cover: Tyla",
   "name": "On Fleek",
@@ -775,6 +775,24 @@
       "duration_ms": 131224,
       "name": "BESITO (feat. G Herbo)",
       "url": "https://open.spotify.com/track/108CRSzSnhShMbNgNHWrjU"
+    },
+    {
+      "album": {
+        "name": "best thing for me",
+        "url": "https://open.spotify.com/album/5u2VPya6pROsJYlXa3v0pm"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146763,
+      "name": "best thing for me",
+      "url": "https://open.spotify.com/track/7cPYni8RIhjePdNSNxkVOZ"
     },
     {
       "album": {
@@ -4454,6 +4472,24 @@
     },
     {
       "album": {
+        "name": "Naughty + Wanna Love You",
+        "url": "https://open.spotify.com/album/6I4UTLON8myJP43oyluaMu"
+      },
+      "artists": [
+        {
+          "name": "H3rizon",
+          "url": "https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159979,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/16riImh0ERdUi9qQz4jimg"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -6987,6 +7023,28 @@
       "duration_ms": 133429,
       "name": "VIBE KILLER",
       "url": "https://open.spotify.com/track/71QKtMJRvUFDTaNixWzUe7"
+    },
+    {
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/5qc3gDYnlSrZJv4niYR8Kd"
+      },
+      "artists": [
+        {
+          "name": "Akini Jing",
+          "url": "https://open.spotify.com/artist/2VtVHEiaBjDGzysvaO5tDH"
+        },
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207899,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/3ltI92dAwN1ogoZpko8FYY"
     },
     {
       "album": {

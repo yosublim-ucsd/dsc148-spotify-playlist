@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=BY8nudGvTBO_3oRCpaU5LA>Mercy Chinwo</a> ",
-  "num_followers": 19503,
+  "num_followers": 19610,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWI0YjA2NWEzMGUyMzRkYThmZjNkMDU4NjBiMmMwZTlmMTVlYjZh",
+  "snapshot_id": "MCxkN2VlZjIxNTlhMTQ3NDVlOTdhYzNmYTYxYTQ3MzY5ZTExODNmMzMw",
   "tracks": [
     {
       "added_at": "2023-12-29 00:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "I Am Yours",
-        "url": "https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD"
-      },
-      "artists": [
-        {
-          "name": "Tobass Adolphus",
-          "url": "https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf"
-        }
-      ],
-      "duration_ms": 237631,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
         "url": "https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf"
       },
@@ -625,6 +609,26 @@
       "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "pure",
+        "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "duration_ms": 356962,
+      "name": "pure",
+      "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "No Longer Bound (I'm Free)",
@@ -647,26 +651,6 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "pure",
-        "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
-      },
-      "artists": [
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        }
-      ],
-      "duration_ms": 356962,
-      "name": "pure",
-      "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -829,22 +813,6 @@
       "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Grave Robber",
@@ -859,6 +827,22 @@
       "duration_ms": 170854,
       "name": "Grave Robber",
       "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 511207,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -891,6 +875,22 @@
       "duration_ms": 219514,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Don't Fight Alone",
+        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 240097,
+      "name": "Don't Fight Alone",
+      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
       "added_at": "2023-12-15 00:01:00",

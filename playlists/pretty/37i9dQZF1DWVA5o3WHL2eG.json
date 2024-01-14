@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32998,
+  "num_followers": 33006,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
+  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Tochter meiner Mutter",
-        "url": "https://open.spotify.com/album/4WgxOMvuJWVLNvYdzTzOXo"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "Tochter meiner Mutter",
-      "url": "https://open.spotify.com/track/2XHxp4USQsAVkW1jujOmQa"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "God Invented The Radio",
         "url": "https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 137827,
       "name": "God Invented The Radio",
       "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Tochter meiner Mutter",
+        "url": "https://open.spotify.com/album/4WgxOMvuJWVLNvYdzTzOXo"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "Tochter meiner Mutter",
+      "url": "https://open.spotify.com/track/2XHxp4USQsAVkW1jujOmQa"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "TROUBLESHOOTER",
-        "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
-      },
-      "artists": [
-        {
-          "name": "KUOKO",
-          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
-        }
-      ],
-      "duration_ms": 140029,
-      "name": "CRISIS QUEEN",
-      "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "See U Whenever",
         "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 220764,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "TROUBLESHOOTER",
+        "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "duration_ms": 140029,
+      "name": "CRISIS QUEEN",
+      "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Paralysed",
+        "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "duration_ms": 161954,
+      "name": "Paralysed",
+      "url": "https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "Just Us Going",
         "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
       },
@@ -679,6 +695,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/512flr0suH3At9PKk2ztGN"
+      },
+      "artists": [
+        {
+          "name": "NNOA",
+          "url": "https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft"
+        }
+      ],
+      "duration_ms": 159378,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4ABQB35Gb0lI21hjOLTD8f"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "Rifle Club",
         "url": "https://open.spotify.com/album/5WOonPCMK2Bjs2GpJmUv41"
       },
@@ -707,22 +739,6 @@
       "duration_ms": 151763,
       "name": "Dieser Tag",
       "url": "https://open.spotify.com/track/00uJPX7SlWa1zOcPSlMy2a"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/512flr0suH3At9PKk2ztGN"
-      },
-      "artists": [
-        {
-          "name": "NNOA",
-          "url": "https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft"
-        }
-      ],
-      "duration_ms": 159378,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4ABQB35Gb0lI21hjOLTD8f"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 183529,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/3HGMq458kM7EqMATTj3hHC"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Paralysed",
-        "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
-      },
-      "artists": [
-        {
-          "name": "Sofia Portanet",
-          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
-        }
-      ],
-      "duration_ms": 161954,
-      "name": "Paralysed",
-      "url": "https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1"
     }
   ],
   "unique_name": "EQUAL GSA",

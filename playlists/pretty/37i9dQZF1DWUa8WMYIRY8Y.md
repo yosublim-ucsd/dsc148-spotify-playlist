@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,677 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,491 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Faraway](https://open.spotify.com/track/0pgUhVXiLkbnmyRPBrk3A3) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [Faraway](https://open.spotify.com/album/4X90ucwF3x1z3eTinhK4w4) | 5:08 |
 | 50 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 |
 
-Snapshot ID: `MCw3OTQ4ODU0M2ExNGE0NjNmMDJlYWNmYzcxMGJiNWM0NDg1YjRhN2Yx`
+Snapshot ID: `MCw2ZGVjY2VjMTNjMGU4OGNhMmJmN2M4MDc1Mjg0OTdjMTVjYzljMTMz`

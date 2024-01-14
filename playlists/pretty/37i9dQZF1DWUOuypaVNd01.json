@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 35715,
+  "num_followers": 35743,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWVhZjI3OTdjM2E2YTkzYzIxZjE2Y2JjMWRjODkzZjliMWQyOTZm",
+  "snapshot_id": "MCxlZDdmOGU2NGIzOTBiOTAzMjYzNzVjYTVlODAwNjVmODY0NzMwODg2",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Paco de 100",
-        "url": "https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Thai Flow",
-          "url": "https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s"
-        }
-      ],
-      "duration_ms": 173877,
-      "name": "Paco de 100",
-      "url": "https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 134893,
       "name": "Versos Fortes",
       "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Paco de 100",
+        "url": "https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Thai Flow",
+          "url": "https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s"
+        }
+      ],
+      "duration_ms": 173877,
+      "name": "Paco de 100",
+      "url": "https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo"
     },
     {
       "added_at": "2024-01-05 03:01:00",

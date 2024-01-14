@@ -1,12 +1,12 @@
 {
   "description": "Latinoam\u00e9rica baila al ritmo de Kali Uchis.",
-  "num_followers": 513056,
+  "num_followers": 512664,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzM0YjI1YmRjNTdmZGVmYjJiMWE5NWY0YmQ0ZWU2ODliOTQzZTI3",
+  "snapshot_id": "MCw3Y2MyMDc4M2Q0OWMzNjc2ZDE4YWFjMTE5MzVhOWEzNjQwZmI1MmQz",
   "tracks": [
     {
       "added_at": "2024-01-12 04:59:00",
@@ -258,6 +258,10 @@
         {
           "name": "Esteban Rojas",
           "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Zor Beats",
+          "url": "https://open.spotify.com/artist/4kjj38CgjaEEPqYyZI9kdT"
         }
       ],
       "duration_ms": 192750,

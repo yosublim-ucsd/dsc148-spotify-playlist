@@ -730,6 +730,28 @@
     {
       "album": {
         "name": "CHEIRO NA CAMISETA",
+        "url": "https://open.spotify.com/album/4KtTqtXRtTk6tfozdYmgNv"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "CHEIRO NA CAMISETA",
+      "url": "https://open.spotify.com/track/6qYTjIEgne0leltNnvpSIM"
+    },
+    {
+      "album": {
+        "name": "CHEIRO NA CAMISETA",
         "url": "https://open.spotify.com/album/1eJ0snHdRSAo3OgpwultI6"
       },
       "artists": [
@@ -744,7 +766,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 156431,
       "name": "CHEIRO NA CAMISETA",
       "url": "https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv"
@@ -2182,10 +2204,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 207343,
       "name": "MOLETOM",
       "url": "https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ"
+    },
+    {
+      "album": {
+        "name": "MOLETOM",
+        "url": "https://open.spotify.com/album/3bxsBr2riFEyX57301H2eu"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207343,
+      "name": "MOLETOM",
+      "url": "https://open.spotify.com/track/5XHlXhyvkzl9rEJxKZKQlH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,219 likes - 47 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,226 likes - 47 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 20 | [Ich will Schnee](https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61) | [Deniz & Ove](https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X), [WIM](https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:11 |
 | 21 | [Die Schlittenfahrt](https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS) | [Pettersson und Findus](https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i) | [Winterzauberlieder](https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw) | 3:29 |
 | 22 | [Lametta](https://open.spotify.com/track/2h40veh7G3sIpaRJgWMcFD) | [Pauken und Planeten](https://open.spotify.com/artist/60mnI2b1MwVTA6q5EZ2iMT) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:55 |
-| 23 | [Winter ist wie Sommer nur in kalt](https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7) | [Die Liga der gewöhnlichen Gentlemen](https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:27 |
-| 24 | [Kleiner Eisbär, wohin fährst du?](https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8) | [Kleiner Eisbär](https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6) | [Kleiner Eisbär: Rettet die Rentiere](https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L) | 3:57 |
-| 25 | [Leise rieselt der Schnee](https://open.spotify.com/track/4rlto54mESOE4qS5qzlfDe) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:25 |
+| 23 | [Kleiner Eisbär, wohin fährst du?](https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8) | [Kleiner Eisbär](https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6) | [Kleiner Eisbär: Rettet die Rentiere](https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L) | 3:57 |
+| 24 | [Leise rieselt der Schnee](https://open.spotify.com/track/4rlto54mESOE4qS5qzlfDe) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:25 |
+| 25 | [Winter ist wie Sommer nur in kalt](https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7) | [Die Liga der gewöhnlichen Gentlemen](https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:27 |
 | 26 | [Winter Wunderland](https://open.spotify.com/track/1WWWWMY9W4nWnEInjUXKkv) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 2:48 |
 | 27 | [Schneeballschlacht](https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:21 |
 | 28 | [Unterm Mistelzweig \(feat\. Benjamin Weygand\)](https://open.spotify.com/track/4sXOfEpZb3oMt40KQ8KfNq) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Benjamin Weygand](https://open.spotify.com/artist/41xc05UxOoE4gWJOQ40KPA) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 2:40 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 46 | [Der Baum ist schief](https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:03 |
 | 47 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/61wnGRwPJYTj3e9kvcCZiv) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:20 |
 
-Snapshot ID: `MCw1MDM5Y2NiOGM5NGVjMDMxMDJkMDA5MWZmZDU1ZThiMTFkOGE2YjAx`
+Snapshot ID: `MCwzNGMwZjVkMzI3MDE0YWE1ZjliMmU1YjgwMDQyMjNhOTBhZmJiNDRj`

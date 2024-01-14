@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,687 likes - 105 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,598 likes - 105 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 88 | [都是浪漫害的](https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [都是浪漫害的](https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np) | 4:08 |
 | 89 | [與愛無關 \(劇集《七時吉祥》自愛勇氣曲\)](https://open.spotify.com/track/0SVP6Ws01w946iBsHepY4Y) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [與愛無關](https://open.spotify.com/album/3jq3wU32NdZDqjvYqijI2V) | 3:46 |
 | 90 | [重新來過](https://open.spotify.com/track/3BVCqwioZiWEoCQz8IkY0I) | [阿夫Suhf](https://open.spotify.com/artist/1lIHC3tPoXBlSYQwSMoIYY) | [阿夫音樂故事](https://open.spotify.com/album/3BoyAw97aANDF10dkbBh65) | 3:29 |
-| 91 | [幸福还好 \- Chinese](https://open.spotify.com/track/5c3dkrfYLdmTIY3ZQxVYbO) | [Soo Wincci](https://open.spotify.com/artist/4e4wVXnFUIJ5EbcW9GtL2n) | [幸福还好 \(Chinese\)](https://open.spotify.com/album/2IlyPTydzgAZa5YEfGA7EX) | 4:38 |
+| 91 | [幸福还好 \- 电视剧《诈骗女皇》插曲](https://open.spotify.com/track/5c3dkrfYLdmTIY3ZQxVYbO) | [Soo Wincci](https://open.spotify.com/artist/4e4wVXnFUIJ5EbcW9GtL2n) | [幸福还好 \(电视剧《诈骗女皇》插曲\)](https://open.spotify.com/album/2IlyPTydzgAZa5YEfGA7EX) | 4:38 |
 | 92 | [4%vol的河](https://open.spotify.com/track/6bnBltP1LY61QZOVizkOne) | [易烊千璽](https://open.spotify.com/artist/41Dq2MorhwRNEOQfhK0jtd) | [4%vol的河](https://open.spotify.com/album/19zz5uz5JpmmFTGYCLf9pk) | 3:10 |
 | 93 | [剩下的烟火](https://open.spotify.com/track/0MV6HnT2gk6yYVsHYQ88FN) | [孫文琦](https://open.spotify.com/artist/5w8ia7ibggqMHx3EFvAnJo) | [剩下的烟火](https://open.spotify.com/album/1wiOcrwaK9JMh79Ukt3cP8) | 4:01 |
 | 94 | [落日与你](https://open.spotify.com/track/5s6n8L6pQyFp5ieoeoqn1X) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [落日与你](https://open.spotify.com/album/5qBw8Zq6NDqaLZTUBVTsau) | 2:14 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [NYNM](https://open.spotify.com/track/4CO3fJ2VNNLcaGteallbV3) | [Wilke](https://open.spotify.com/artist/6IQTljXmg9iliuQo3g0WFQ), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ), [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau) | [NYNM](https://open.spotify.com/album/6c6b29r1CJbl537u7sDEEk) | 3:38 |
 | 105 | [I Hate Myself Sometimes](https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes](https://open.spotify.com/album/3hUr7wEoUWVlFeEV843iGT) | 2:54 |
 
-Snapshot ID: `MCxhY2ZhN2E4ZGE3ZTQ4ODc1MzkyNjJmZjA5YzI4ZjlhOTA1N2Y2OTBl`
+Snapshot ID: `MCwzMGEyNTZmZmI3ODUxMzE2MDQwNTQxNTVjODcyZWYzMGM1ZDVlNGJl`

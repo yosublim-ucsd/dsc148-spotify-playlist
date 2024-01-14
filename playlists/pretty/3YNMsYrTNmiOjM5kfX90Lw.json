@@ -1,6 +1,6 @@
 {
   "description": "Hip-hop favorites. Songs distributed by DistroKid, playlist curated by the public. To vote, head to: distrokid.com/spotlight",
-  "num_followers": 395728,
+  "num_followers": 395875,
   "original_name": "DistroKid Rap Scallion",
   "owner": {
     "name": "DistroKid",
@@ -8,6 +8,358 @@
   },
   "snapshot_id": "OTE1LGUwZThiY2QyNmJmODg3NGIxMDg5OTNlZDVhZGI3ODU2NzMyMDM1MmM=",
   "tracks": [
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/1fLkCtWy7nq7pfs69aUkRZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Villa",
+          "url": "https://open.spotify.com/artist/0TL5quT3xyCmg6BGPiCsiw"
+        },
+        {
+          "name": "Thomas Austin",
+          "url": "https://open.spotify.com/artist/68isQhzDhDaERWs5O28Y8W"
+        }
+      ],
+      "duration_ms": 186749,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/2cyoeQBJJqztuLyytos0n8"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "birgit",
+        "url": "https://open.spotify.com/album/15lSFDHNelqw2XSPcGBit7"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6dsankan",
+          "url": "https://open.spotify.com/artist/0dribWcDOaXtgmDnJymoiC"
+        }
+      ],
+      "duration_ms": 121802,
+      "name": "birgit",
+      "url": "https://open.spotify.com/track/6asJNaaw1PscokrNAazU97"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Daddy's Song feat. Angelica Idalia",
+        "url": "https://open.spotify.com/album/3MIMgYHky5eHVi5c0N3pC8"
+      },
+      "artists": [
+        {
+          "name": "Dash D.U.B.",
+          "url": "https://open.spotify.com/artist/3IjymlI7EtFdNh6wsG9fyh"
+        }
+      ],
+      "duration_ms": 233812,
+      "name": "Daddy's Song feat. Angelica Idalia",
+      "url": "https://open.spotify.com/track/03Yit4l0bZgwgejTQIjeIR"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/4pGRSYZWnZ4QHU376cYhLL"
+      },
+      "artists": [
+        {
+          "name": "DJ ACE NYC & HIGH SEASON",
+          "url": "https://open.spotify.com/artist/7tjbJgm5t0urNLxAcSadHj"
+        }
+      ],
+      "duration_ms": 208457,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5oLdNMbesH73Wmr2S2aKXD"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Monatomic",
+        "url": "https://open.spotify.com/album/2fB7dnbusd7kL18SRjofbc"
+      },
+      "artists": [
+        {
+          "name": "Bar$",
+          "url": "https://open.spotify.com/artist/3JcrKP3rr9FHGJfyBZ8Jmu"
+        }
+      ],
+      "duration_ms": 226348,
+      "name": "Backwards (Visions)",
+      "url": "https://open.spotify.com/track/3l8grkUIBHJ6VhxkukVdg7"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Fireball",
+        "url": "https://open.spotify.com/album/7jgOIPLelmKNmklipW30Cn"
+      },
+      "artists": [
+        {
+          "name": "Dip Base",
+          "url": "https://open.spotify.com/artist/2CsUW7p9N63TuUOCEZVddU"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/1mGx14Bm7uqdzZYPXYXEsC"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5kFmPQCmhmcVJLxmJTy7nv"
+      },
+      "artists": [
+        {
+          "name": "A-N-T",
+          "url": "https://open.spotify.com/artist/0BWB2uol1EjINjm0xsrxz9"
+        },
+        {
+          "name": "Grizz",
+          "url": "https://open.spotify.com/artist/1mAsIigiouDXONIfsQd6py"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Whadafunk Is My Team",
+      "url": "https://open.spotify.com/track/1w85ECzSyFyN8eIqBNW97S"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/5U0cbPMpJiPC6i2D00l7oO"
+      },
+      "artists": [
+        {
+          "name": "6spd",
+          "url": "https://open.spotify.com/artist/0z4Xd95tgkcfZqwkeryKMj"
+        }
+      ],
+      "duration_ms": 201795,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4QbJxfMo9UGjjPbrDgIzdy"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Hip Hop Is What Made Me (feat. DJ ACE NYC & Larissa Lambert)",
+        "url": "https://open.spotify.com/album/0rF7WiRHOcPDhzFZpeeHFR"
+      },
+      "artists": [
+        {
+          "name": "Def Manic",
+          "url": "https://open.spotify.com/artist/5plJ0ZhN706lDAG4o8w56S"
+        }
+      ],
+      "duration_ms": 231392,
+      "name": "Hip Hop Is What Made Me (feat. DJ ACE NYC & Larissa Lambert)",
+      "url": "https://open.spotify.com/track/7iSwN7wyIDX4QpnhyxjYGv"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "The Sessions 2",
+        "url": "https://open.spotify.com/album/4De2xn1mtPCoS9EsvIGrhL"
+      },
+      "artists": [
+        {
+          "name": "D. Horton",
+          "url": "https://open.spotify.com/artist/7odZ53xYf4DUUhJ0Prwckd"
+        },
+        {
+          "name": "King Los",
+          "url": "https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC"
+        },
+        {
+          "name": "KtGotBeats",
+          "url": "https://open.spotify.com/artist/5mHX51YaPkhRv0OTpgAh25"
+        }
+      ],
+      "duration_ms": 218148,
+      "name": "Third Base",
+      "url": "https://open.spotify.com/track/2TD0v4GilM4ZB15GtU2AoC"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Welcome To Rio",
+        "url": "https://open.spotify.com/album/0qiiEIvOKEf8NTKzIllMXs"
+      },
+      "artists": [
+        {
+          "name": "Idreezy",
+          "url": "https://open.spotify.com/artist/46G11ZqrRMUgO4iV29uCGk"
+        }
+      ],
+      "duration_ms": 226728,
+      "name": "Welcome To Rio",
+      "url": "https://open.spotify.com/track/4uUEDz52bVyYeWQSwP5ZfS"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Storm of the Century",
+        "url": "https://open.spotify.com/album/1JsZ2vJyjFmd9f2S7MlmRn"
+      },
+      "artists": [
+        {
+          "name": "Iron Wind",
+          "url": "https://open.spotify.com/artist/2CS3korDKFn5Hx6qmNApeb"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/5SKESMQw9n7vvRWRlwyylL"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Artful Thesis",
+        "url": "https://open.spotify.com/album/2PpMQNwq42ynykXh3QgUvH"
+      },
+      "artists": [
+        {
+          "name": "Lost Contact",
+          "url": "https://open.spotify.com/artist/19HMZIaaucDNyTOpgdsGC6"
+        }
+      ],
+      "duration_ms": 218238,
+      "name": "I.A.T.B",
+      "url": "https://open.spotify.com/track/7mRhxxvVfL2GsRbimnpFG1"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/2WjZVbohNsFyDYwsbiyVEF"
+      },
+      "artists": [
+        {
+          "name": "Gene Ladell",
+          "url": "https://open.spotify.com/artist/57rl6AqLrWtMoxDKRwVgAm"
+        }
+      ],
+      "duration_ms": 158753,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/7EjC0UUlObhAlwIK4M6BfI"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Jesus Christ Bearer Superstar",
+        "url": "https://open.spotify.com/album/7KUV3WFVIlapxtV09KBYOp"
+      },
+      "artists": [
+        {
+          "name": "Christbearer",
+          "url": "https://open.spotify.com/artist/7uCj3mRZZhaYDgYmcQtvok"
+        }
+      ],
+      "duration_ms": 165537,
+      "name": "AKs",
+      "url": "https://open.spotify.com/track/5epDzCepHFrKp6q8jhSEf5"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "\"I'll-Advised\"",
+        "url": "https://open.spotify.com/album/7ianJrCEbqnXn2k1L9Urm4"
+      },
+      "artists": [
+        {
+          "name": "Ill By Instinct",
+          "url": "https://open.spotify.com/artist/3iyWL6RBiBqIPZ9adB9Djy"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "On the Sauce Again",
+      "url": "https://open.spotify.com/track/69RsxUAlkGynFNEO7iRPau"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Messi, Ronaldo",
+        "url": "https://open.spotify.com/album/2DWWFyEjzV8Wz8Q5Eqxjwq"
+      },
+      "artists": [
+        {
+          "name": "Alessandr\u00f3",
+          "url": "https://open.spotify.com/artist/25kGIc5jvxFHodm2jgLazg"
+        }
+      ],
+      "duration_ms": 190751,
+      "name": "Messi, Ronaldo",
+      "url": "https://open.spotify.com/track/0Ct6I99vRk4jzyFridsYlB"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "How We Roll",
+        "url": "https://open.spotify.com/album/5NlrZfaUlktI8DPXL1U07E"
+      },
+      "artists": [
+        {
+          "name": "B.o-Jay",
+          "url": "https://open.spotify.com/artist/0zybfDSPOFKDF53Z6GhDkH"
+        },
+        {
+          "name": "Kayne",
+          "url": "https://open.spotify.com/artist/6OFysn48qBOIID3CWcxzfJ"
+        }
+      ],
+      "duration_ms": 201456,
+      "name": "How We Roll",
+      "url": "https://open.spotify.com/track/4QM5ZclHAsZcFfRdmdS4FT"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Limits",
+        "url": "https://open.spotify.com/album/4t1TZcOUD5nznPMZloKDdE"
+      },
+      "artists": [
+        {
+          "name": "Viktus",
+          "url": "https://open.spotify.com/artist/6sX9UAPKfhykDDOdm3qQH9"
+        }
+      ],
+      "duration_ms": 153966,
+      "name": "Limits",
+      "url": "https://open.spotify.com/track/0SWzQtexTs1lxQmTD89KJ8"
+    },
+    {
+      "added_at": "2023-12-08 08:28:27",
+      "album": {
+        "name": "Point Guard of the Streets",
+        "url": "https://open.spotify.com/album/22v0gwzfSCqY7eq1a6OBWK"
+      },
+      "artists": [
+        {
+          "name": "Lil Bam",
+          "url": "https://open.spotify.com/artist/154KrFjuShUXLxqQRLbZtJ"
+        },
+        {
+          "name": "Co-T",
+          "url": "https://open.spotify.com/artist/3tCD4nBv2JfV0GCtV6aeio"
+        },
+        {
+          "name": "Big Bam",
+          "url": "https://open.spotify.com/artist/3QlmLg6sC339zP6hiitZQs"
+        },
+        {
+          "name": "Calaura",
+          "url": "https://open.spotify.com/artist/3LRKRc5HbvnFy7Bouyc4Dj"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Long Beach Blvd",
+      "url": "https://open.spotify.com/track/5Zd61I2CJKKNTl2Kavsl94"
+    },
     {
       "added_at": "2023-12-08 08:28:27",
       "album": {

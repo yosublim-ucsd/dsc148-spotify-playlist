@@ -2,7 +2,7 @@
 
 ### [Romcom](https://open.spotify.com/playlist/37i9dQZF1DX4cizS4wQeF2)
 
-> It's Meg Ryan season 🍂\. Cover: When Harry Met Sally
+> Listening to my serenity songs\. Cover: Anyone But You
 
 81 songs - 4 hr 57 min
 

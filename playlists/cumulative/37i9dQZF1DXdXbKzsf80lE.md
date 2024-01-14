@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-100 songs - 4 hr 50 min
+101 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amarok](https://open.spotify.com/track/7bmzcwns5ucY3M5plcnqOn) | [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Amarok](https://open.spotify.com/album/1bYtrMSU6wEv1lvEOcCXXu) | 2:15 | 2023-10-23 |  |
 | [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 | 2023-10-23 |  |
 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 | 2023-10-23 |  |
+| [Arrombado](https://open.spotify.com/track/1rPUvbv6OU3b50uiwKCKLr) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Arrombado](https://open.spotify.com/album/2RdtAGp6rEomxV09t3JNGf) | 2:10 | 2023-10-23 |  |
 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 | 2023-10-23 |  |
 | [Basta Você Me Ligar \- Ao Vivo](https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Conquistas \- EP 1 \(Ao Vivo\)](https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu) | 3:02 | 2023-10-23 |  |
 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 | 2023-10-23 |  |
@@ -66,7 +67,7 @@
 | [Meu Bem](https://open.spotify.com/track/0vfRBCO9DSAWscf03UxYnV) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Bem](https://open.spotify.com/album/75Eavqf0il2XWzkxxYFAki) | 2:20 | 2023-10-23 |  |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/2Hc8dFekejzrTxsF7R9wxT) | 2:37 | 2023-10-23 |  |
 | [Monta Logo Vai](https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Monta Logo Vai](https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT) | 2:21 | 2023-10-23 |  |
-| [My Baby](https://open.spotify.com/track/6TVLKukS66i3irRvWlt4j5) | [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/5f5uvAfSQqV5AVlIizNv5k) | 2:24 | 2023-10-23 |  |
+| [My Baby](https://open.spotify.com/track/6TVLKukS66i3irRvWlt4j5) | [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/5f5uvAfSQqV5AVlIizNv5k) | 2:24 | 2023-10-23 | 2024-01-14 |
 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 | 2023-10-23 |  |
 | [Nega Chegando](https://open.spotify.com/track/3TfTAYr1AJvl7rAHaJ6QB4) | [O Boy da Seresta](https://open.spotify.com/artist/4TShXxXZjnjd1nnEw9R5Hs), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Nega Chegando](https://open.spotify.com/album/7DIu7GIcbR1eungYkB1ZBW) | 2:18 | 2023-10-23 |  |
 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 | 2023-10-23 |  |

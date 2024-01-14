@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-268 songs - 10 hr 50 min
+269 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 |  |
 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 | 2020-11-12 | 2024-01-12 |
 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 | 2023-10-27 |  |
-| [calathea](https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [calathea](https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd) | 1:46 | 2024-01-12 | 2024-01-13 |
+| [calathea](https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [calathea](https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd) | 1:46 | 2024-01-12 |  |
 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 | 2023-10-27 |  |
 | [calm the mind](https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [calm the mind](https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S) | 2:22 | 2023-10-27 |  |
 | [cat's meow](https://open.spotify.com/track/21SuoiM0AgOCdQmt2umHuP) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6tSQljcscqaCqsCBetZbHP) | 1:33 | 2020-11-12 | 2022-07-29 |
@@ -75,6 +75,7 @@
 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 | 2023-10-27 |  |
 | [Distune](https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Distune](https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc) | 1:58 | 2020-11-12 |  |
 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 | 2022-06-24 | 2023-09-19 |
+| [Dream Train](https://open.spotify.com/track/37HHr2vkEH7DTCDf6C8GPL) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Dream Train](https://open.spotify.com/album/5qHCl97YrFtVlwDNoIYfwC) | 2:14 | 2024-01-12 |  |
 | [dreamers](https://open.spotify.com/track/4bPJW9pNtuvMujHnbxEN1g) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [dreamers](https://open.spotify.com/album/3CD8VYak1Ubhkreu3mnYWO) | 2:33 | 2023-10-27 |  |
 | [Dreaming](https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc) | [Neotic](https://open.spotify.com/artist/55SjXjCJHjUeSpgY0Wepfd) | [Siberia](https://open.spotify.com/album/6AsQWm786mT8dAS1UO4Jnl) | 1:46 | 2020-11-12 |  |
 | [Dreams](https://open.spotify.com/track/7lRsXfGnY0PBSxVMIxuHME) | [Joakim Karud](https://open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF) | [Dreams](https://open.spotify.com/album/38TJ5X61VQmV0jPkiE786Q) | 3:10 | 2020-11-12 | 2023-11-24 |
@@ -137,7 +138,7 @@
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2023-10-27 |  |
 | [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 | 2020-11-12 |  |
 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2023-10-27 |  |
-| [Level 2](https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Level 2](https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr) | 3:11 | 2024-01-12 |  |
+| [Level 2](https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Level 2](https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr) | 3:11 | 2024-01-12 | 2024-01-14 |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-10-27 |  |
 | [lightweight](https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [lightweight](https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD) | 2:00 | 2023-10-27 |  |
 | [Lofi Jazz Beat](https://open.spotify.com/track/5eIHjYXJqCYHgTWqd5boz1) | [Dan Dinero](https://open.spotify.com/artist/0KM3ubPiglpZ7jsJsvywps), [letmechill](https://open.spotify.com/artist/3MruTrdkzhB7TlstDmRhF6), [Lofi Radio](https://open.spotify.com/artist/0MQ5Kh5Tg64RUWtucOB965) | [Lofi Jazz Beat](https://open.spotify.com/album/6tD9gk6nNl9GOJW3YLtJjZ) | 1:40 | 2022-05-27 | 2022-12-08 |
@@ -149,7 +150,7 @@
 | [makeuseofthetime](https://open.spotify.com/track/3yLAolnkqUWXwblOYoI1N9) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:18 | 2020-11-12 | 2022-07-29 |
 | [makeuseofthetime](https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:18 | 2020-11-12 | 2023-10-14 |
 | [melatones](https://open.spotify.com/track/4uwvtcINcCtyQTDvBIUDzk) | [Meliona](https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle) | [melatones](https://open.spotify.com/album/0QsPZmEl9Gcrupo5kwMjKp) | 2:24 | 2023-10-27 |  |
-| [memories](https://open.spotify.com/track/2g0Tf1lNH2EDt2Evci01Xj) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [memories](https://open.spotify.com/album/7mqeSfjOtjCkMPBZo6WE94) | 2:14 | 2024-01-12 |  |
+| [memories](https://open.spotify.com/track/2g0Tf1lNH2EDt2Evci01Xj) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [memories](https://open.spotify.com/album/7mqeSfjOtjCkMPBZo6WE94) | 2:14 | 2024-01-12 | 2024-01-14 |
 | [Memories](https://open.spotify.com/track/4yAeHq13tReDL6rM6dbTc3) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Memories](https://open.spotify.com/album/5ai7eCCSVhagmLwUAWCObs) | 2:33 | 2022-08-05 | 2022-11-20 |
 | [Memories](https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:33 | 2022-08-05 |  |
 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 | 2023-10-27 |  |
