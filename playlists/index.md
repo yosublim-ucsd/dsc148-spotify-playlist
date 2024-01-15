@@ -1,4 +1,4 @@
-## Playlists \(7398\)
+## Playlists \(7399\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -146,6 +146,7 @@
 - [2023 Weverse Con Festival](/playlists/pretty/37i9dQZF1DX7L8tfJz5HGb.md)
 - [2024 Top Party Hits](/playlists/pretty/1QBiXlEscYkB1YauNmOcUS.md)
 - [2024 グラミー賞 ノミネート作品](/playlists/pretty/37i9dQZF1DX67CQamTl3jY.md)
+- [20QheuAYbSRnj6SaIbjPWA](/playlists/pretty/20QheuAYbSRnj6SaIbjPWA.md)
 - [21st Century Jazz](/playlists/pretty/37i9dQZF1DWTR6lD3pmkqP.md)
 - [24K Magic Radio](/playlists/pretty/37i9dQZF1E8LxY0mOH4jEX.md)
 - [254 Flow](/playlists/pretty/37i9dQZF1DWZdKbfDnTWVN.md)
