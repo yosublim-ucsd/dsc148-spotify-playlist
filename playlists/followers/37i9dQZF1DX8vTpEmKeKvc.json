@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 282382,
+  "2024-01-15": 282512,
   "date_first_scraped": "2022-01-09",
   "description": "Dale duro con los \u00e9xitos perreadores virales del momento.",
   "name": "Perreo Viral",
@@ -379,6 +379,28 @@
     {
       "album": {
         "name": "Chivirika",
+        "url": "https://open.spotify.com/album/4en63LsV1rqze6270c9wBn"
+      },
+      "artists": [
+        {
+          "name": "El Villanord",
+          "url": "https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210893,
+      "name": "Chivirika",
+      "url": "https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ"
+    },
+    {
+      "album": {
+        "name": "Chivirika",
         "url": "https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts"
       },
       "artists": [
@@ -393,7 +415,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 212312,
       "name": "Chivirika",
       "url": "https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz"

@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7667,
+  "num_followers": 7671,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGYxNTAxNDZhOTEyMWZiYWFjNmU2ZWRkNTczNzA2ZjJhMjBjNjEw",
+  "snapshot_id": "MCxjOTdiODcyODY5MDVmY2ZjMjBlMzYzMmQwYWIwNjlkNTIxN2QwYWIy",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Essential Sidney Bechet",
-        "url": "https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet and his New Orleans Feetwarmers",
-          "url": "https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "Maple Leaf Rag",
-      "url": "https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Pete Fountain 1955-1957",
         "url": "https://open.spotify.com/album/6m9Lji8e2hMEMVnhH2P3Lv"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 241026,
       "name": "Sensation Rag",
       "url": "https://open.spotify.com/track/63XsvMKaZGmcWMwlQUYpBC"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Essential Sidney Bechet",
+        "url": "https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet and his New Orleans Feetwarmers",
+          "url": "https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Maple Leaf Rag",
+      "url": "https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Triple Best Of",
-        "url": "https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet's Blue Note Jazzmen",
-          "url": "https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Weary Blues",
-      "url": "https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 199550,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Triple Best Of",
+        "url": "https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet's Blue Note Jazzmen",
+          "url": "https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Weary Blues",
+      "url": "https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ"
     },
     {
       "added_at": "2020-08-19 17:19:14",

@@ -4,7 +4,7 @@
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-81 songs - 4 hr 34 min
+82 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Everything is all lies](https://open.spotify.com/track/69IdF6DRfdfVzHcfTKSKGV) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/5YIvr0nyy19d0iNOsAzoPX) | 3:45 | 2023-10-19 | 2023-10-21 |
 | [Everything is all lies](https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/7r9qMbnNkHSOOl3BgpE937) | 3:45 | 2023-10-19 |  |
 | [EXiSTENCE](https://open.spotify.com/track/4NOO855YQh16AF5FhhO41L) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THE BEAUTiFUL PEOPLE](https://open.spotify.com/album/5GZMmsnK1viNAVvxIBB98A) | 4:04 | 2023-09-07 |  |
-| [Gekokujo](https://open.spotify.com/track/4P5FLFEXubO1ubrCsd6xWW) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [Gekokujo](https://open.spotify.com/album/6FPIlc5s7W17qNjFWobkcP) | 4:47 | 2024-01-11 |  |
+| [Gekokujo](https://open.spotify.com/track/12SHQE0LutzIe4ltA8s7WP) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [RYUJIN](https://open.spotify.com/album/5wXQup3iFUfm69IUXeeZtC) | 4:47 | 2024-01-11 |  |
+| [Gekokujo](https://open.spotify.com/track/4P5FLFEXubO1ubrCsd6xWW) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [Gekokujo](https://open.spotify.com/album/6FPIlc5s7W17qNjFWobkcP) | 4:47 | 2024-01-11 | 2024-01-15 |
 | [GIANT KILLING](https://open.spotify.com/track/33vKlMcJhRU005TOkOJENe) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [GIANT KILLING](https://open.spotify.com/album/47tD9GEsmupZendBdQChlz) | 3:28 | 2023-09-07 | 2023-09-15 |
 | [GIANT KILLING](https://open.spotify.com/track/5B2dUopTUbPBD9Q0Zgfysf) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [HUMAN](https://open.spotify.com/album/4qSxXHpKqiVSlrpXY5Vj1l) | 3:28 | 2023-09-07 | 2023-10-18 |
 | [GODBLAST](https://open.spotify.com/track/7DQ5JwO0oEwm9IjYfaQGfB) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [GODBLAST](https://open.spotify.com/album/1neW5Xgp9wEk3xZHDFq13s) | 3:06 | 2023-09-07 | 2024-01-12 |

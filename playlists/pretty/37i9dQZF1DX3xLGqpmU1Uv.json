@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 153842,
+  "num_followers": 153809,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDIxZjU2NzliYzYzYWEzMTM3MjdmMWQ4ODI2OGRmMDk3ZWRiMTVk",
+  "snapshot_id": "MCwxYzQ4MTMzN2NiZDM2MGNkNDk4ZDg0ZDI3NWJkMjQyNjBiMDI3OGIz",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Los Exitos De: Los Juniors y Su Cantante Arturo",
-        "url": "https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors",
-          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "No Te Pongas Pantalones",
         "url": "https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 152311,
       "name": "Cenicienta",
       "url": "https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Los Exitos De: Los Juniors y Su Cantante Arturo",
+        "url": "https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm"
     },
     {
       "added_at": "2023-03-25 17:44:53",
@@ -807,18 +807,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU"
+        "name": "Legado de Mujeres Latinas",
+        "url": "https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5"
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Queta Garay",
+          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
         }
       ],
-      "duration_ms": 138866,
-      "name": "El Amor Es Triste - Love Is Blue",
-      "url": "https://open.spotify.com/track/6biuMgdkzR1JmA05CAtOEY"
+      "duration_ms": 133253,
+      "name": "Chica ye y\u00e9",
+      "url": "https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf"
     }
   ],
   "unique_name": "Los 60 M\u00e9xico",

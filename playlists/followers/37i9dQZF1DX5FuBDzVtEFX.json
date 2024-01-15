@@ -1,9 +1,27 @@
 {
-  "2024-01-14": 434815,
+  "2024-01-15": 434713,
   "date_first_scraped": "2021-12-21",
   "description": "Kick back to the soothing sounds of the Ukulele...",
   "name": "Hawaiian Dreams",
   "tracks": [
+    {
+      "album": {
+        "name": "The Descendants",
+        "url": "https://open.spotify.com/album/6VodWMKGJ6HgcaHqftYngq"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "'Imi Au I\u00e1 'Oe",
+      "url": "https://open.spotify.com/track/6uw0nXT1AXL6GoiJUosOtU"
+    },
     {
       "album": {
         "name": "The Descendants",
@@ -53,7 +71,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 190333,
       "name": "'Imi Au I\u0101 \u02bbOe",
       "url": "https://open.spotify.com/track/1wS8U8fR1jlx9h7CAUAPY9"
@@ -465,7 +483,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 262253,
       "name": "Kalena Kai",
       "url": "https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo"
@@ -509,6 +527,28 @@
       "duration_ms": 261186,
       "name": "Kalena Kai",
       "url": "https://open.spotify.com/track/60kmRexBGemg7K5vrBJHFR"
+    },
+    {
+      "album": {
+        "name": "Wooden Boat",
+        "url": "https://open.spotify.com/album/5gnxIrVFaTYMUYdM1BdrRx"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        },
+        {
+          "name": "George Winston",
+          "url": "https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262253,
+      "name": "Kalena Kai (feat. George Winston)",
+      "url": "https://open.spotify.com/track/07iYujb1T4DLuv7Qi1EoNs"
     },
     {
       "album": {
@@ -795,7 +835,7 @@
     {
       "album": {
         "name": "Soliloquy: Ka Leo O Loko",
-        "url": "https://open.spotify.com/album/5UQKxlzDDjcvHx9S003mgF"
+        "url": "https://open.spotify.com/album/0ZzGZp6cerAABuNHL3qRWO"
       },
       "artists": [
         {
@@ -806,6 +846,24 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Pua L\u012bl\u012blehua",
+      "url": "https://open.spotify.com/track/4NlVNFMdM67IVhiYl9SDua"
+    },
+    {
+      "album": {
+        "name": "Soliloquy: Ka Leo O Loko",
+        "url": "https://open.spotify.com/album/5UQKxlzDDjcvHx9S003mgF"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
       "duration_ms": 177306,
       "name": "Pua L\u012bl\u012blehua",
       "url": "https://open.spotify.com/track/5GkzttQpAANDySsUsbcjnk"

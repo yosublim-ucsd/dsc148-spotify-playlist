@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,654 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,627 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Find My Way To You](https://open.spotify.com/track/1uTWuhwyZVLHxrBwn732FN) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9), [Darragh Jessome](https://open.spotify.com/artist/7LigDCKoNF0Kj04CEjy7MR) | [Find My Way To You](https://open.spotify.com/album/3zy6kw77C553MbA4EUO6JA) | 2:58 |
 | 100 | [Suitcases By The Door](https://open.spotify.com/track/4pY5T1a0Py3JJjZLHtkD9Q) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [If I Was, I Am](https://open.spotify.com/album/648zHL2TdKCfvMmTPFlEGl) | 3:09 |
 
-Snapshot ID: `MCw5MTAyYmVkMTkyZTRjNjEzZWM1OWViM2Q2MmU0MThjNWVjYTE5NTQ2`
+Snapshot ID: `MCw0NzZiODg4ZThmYzQ0ZDU1ODgyZGI3MTA0MmFmMTk5YjMxNGEwOTUy`

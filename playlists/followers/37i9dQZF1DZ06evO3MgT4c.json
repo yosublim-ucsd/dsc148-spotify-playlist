@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 429199,
+  "2024-01-15": 429148,
   "date_first_scraped": "2023-06-08",
   "description": "This is Migos. The essential tracks, all in one playlist.",
   "name": "This Is Migos",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 343150,
       "name": "Bad and Boujee (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
@@ -303,6 +303,24 @@
       "duration_ms": 216247,
       "name": "Fight Night",
       "url": "https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5"
+    },
+    {
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198077,
+      "name": "First 48",
+      "url": "https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK"
     },
     {
       "album": {
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 248506,
       "name": "What the Price",
       "url": "https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0"

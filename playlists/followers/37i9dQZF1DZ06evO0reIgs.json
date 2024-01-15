@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 81349,
+  "2024-01-15": 81336,
   "date_first_scraped": "2023-12-31",
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
   "name": "This Is Cynthia Luz",
@@ -733,6 +733,32 @@
       "duration_ms": 322000,
       "name": "Me Negaram Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/5jIA3vKNB2oVYk2BO4QRQD"
+    },
+    {
+      "album": {
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188548,
+      "name": "Meus Olhos",
+      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
     },
     {
       "album": {

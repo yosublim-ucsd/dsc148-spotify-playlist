@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-2,258 songs - 5 day 0 hr 36 min
+2,259 songs - 5 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [Femmes](https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Femmes](https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u) | 2:11 | 2023-07-14 | 2023-09-23 |
 | [Fermer les yeux](https://open.spotify.com/track/0xs9ReaxZUWqp7rO4Ys4cx) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Fermer les yeux](https://open.spotify.com/album/3jNarx37j97nl8l2vOxEg5) | 3:02 | 2022-09-16 | 2022-09-24 |
 | [Fermer les yeux \(jamais plus\)](https://open.spotify.com/track/0hASKi517BdacJN3wMePzY) | [Eric Goulet](https://open.spotify.com/artist/6BjnB0sYfF3CW2kufrvPK8) | [Fermer les yeux \(jamais plus\)](https://open.spotify.com/album/6mrOG4dEnAzskIBLtAQDS2) | 3:14 | 2022-10-07 | 2022-10-15 |
+| [Ferrero \(feat\. Gambi\)](https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:21 | 2024-01-12 |  |
 | [Feu](https://open.spotify.com/track/5Od9GgFwJUgowAfsyMcOgA) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Feu](https://open.spotify.com/album/2fGR2DEe5Ms1GwsXV0YZpg) | 2:53 | 2022-03-11 | 2022-03-26 |
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 | 2022-06-04 |
 | [Feux follets](https://open.spotify.com/track/7fSPvXfHmeLdFZXCMuLLnP) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Feux follets](https://open.spotify.com/album/3akneBnhOBkOhH4NdLVsqk) | 3:40 | 2023-02-24 | 2023-03-11 |
@@ -996,7 +997,7 @@
 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 | 2023-11-18 |
 | [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 | 2023-06-09 | 2023-07-13 |
 | [Kawasaki](https://open.spotify.com/track/0bhUpKSeZKGKbZocH21wHX) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Kawasaki](https://open.spotify.com/album/1bStyqkV25EHm5QHf8Jk2w) | 2:44 | 2022-03-18 | 2022-03-26 |
-| [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 | 2023-12-15 |  |
+| [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 | 2023-12-15 | 2024-01-15 |
 | [Keep it Simple \(feat\. Mika\)](https://open.spotify.com/track/1D5609drY3JVyf48LhBDoh) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Keep it Simple \(feat\. Mika\)](https://open.spotify.com/album/1YlQ7XZ6tLxjQ8LVVcVp46) | 2:55 | 2023-01-20 | 2023-02-04 |
 | [KENZO NIGO \- Sur moi](https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [LA VIE RAPIDE EARLY ACCESS](https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq) | 3:25 | 2023-06-30 | 2023-07-08 |
 | [Kicks](https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Kicks](https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl) | 3:31 | 2022-03-11 | 2022-03-26 |

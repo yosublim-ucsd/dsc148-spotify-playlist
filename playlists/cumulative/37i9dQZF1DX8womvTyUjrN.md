@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Emilia & NATHY PELUSO
 
-545 songs - 1 day 3 hr 22 min
+546 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Luz Azul](https://open.spotify.com/track/6vvS5fgoOS3kjrH8Pyc8d5) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Luz Azul](https://open.spotify.com/album/3jC2pH39SzVORAsE3xYnnd) | 2:50 | 2023-04-14 | 2023-04-22 |
 | [Madrid](https://open.spotify.com/track/0IexmD3A6JSdhVTFGbu1NZ) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Madrid](https://open.spotify.com/album/5rEutOpWVW9KdiVkPJL5QH) | 2:38 | 2022-03-21 | 2022-07-09 |
 | [MAGIA NEGRA](https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [MAGIA NEGRA](https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc) | 3:34 | 2024-01-12 |  |
-| [Mancora](https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Mancora](https://open.spotify.com/album/13MCrijZ1paCPm9wrFPvil) | 2:06 | 2024-01-12 |  |
+| [Mancora](https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Mancora](https://open.spotify.com/album/13MCrijZ1paCPm9wrFPvil) | 2:06 | 2024-01-12 | 2024-01-15 |
 | [Marpesia](https://open.spotify.com/track/5M4MFwCKS2UFQICLrsxXki) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Marpesia](https://open.spotify.com/album/3auDoC18VaVtqTii6YHcN1) | 2:54 | 2022-03-21 | 2022-06-13 |
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-10-07 | 2023-02-04 |
 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 | 2023-07-21 | 2023-07-30 |
@@ -448,6 +448,7 @@
 | [Se Acabó](https://open.spotify.com/track/4NzHAfuFyQ0DrHKQMP0kgl) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Se Acabó](https://open.spotify.com/album/5UAJwaEEEChsYH3NeUQLar) | 3:12 | 2022-04-01 | 2022-05-21 |
 | [Se Fue la Luz](https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Se Fue la Luz](https://open.spotify.com/album/2PyA5iAknP3uOjZEgQjcgt) | 2:39 | 2022-04-01 | 2022-04-16 |
 | [Secuela](https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Secuela](https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP) | 2:42 | 2023-08-18 | 2023-09-02 |
+| [Segunda Parte](https://open.spotify.com/track/116yQ8HR9Azrlf5ZxMXgNU) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Segunda Parte](https://open.spotify.com/album/2HnRMOIJIokubg4BJHVdLQ) | 2:56 | 2024-01-12 |  |
 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 | 2023-08-18 | 2023-10-21 |
 | [Sensualidad](https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Sensualidad](https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U) | 2:36 | 2022-05-06 | 2022-07-02 |
 | [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 | 2022-03-21 | 2022-06-13 |

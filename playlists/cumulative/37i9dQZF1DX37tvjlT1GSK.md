@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Hijos de Barrón en portada.
 
-348 songs - 18 hr 36 min
+349 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Antes De Llamarme](https://open.spotify.com/track/4ZPyBJfE4ICPFMxDKvLIAx) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Antes De Llamarte](https://open.spotify.com/album/7a5RxaCPugv9C25CytE9e8) | 2:38 | 2023-01-13 | 2023-02-14 |
 | [Aplaca Tus Berrinches](https://open.spotify.com/track/7pNp2nI4VFoEGxWQqSDL8e) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aplaca Tus Berrinches](https://open.spotify.com/album/66FijRk3dAcaEUv9gdFrjr) | 3:12 | 2022-09-23 | 2022-12-03 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-03 |  |
-| [Arturo El Rey](https://open.spotify.com/track/3qEkjV56h6zI7aV0VEFSB0) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Julian Mercado Desde la Hacienda Escondida Vol\. 2](https://open.spotify.com/album/4a14DDe9xZNhfCsRE3XXPx) | 2:57 | 2023-12-01 |  |
+| [Arturo El Rey](https://open.spotify.com/track/3qEkjV56h6zI7aV0VEFSB0) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Julian Mercado Desde la Hacienda Escondida Vol\. 2](https://open.spotify.com/album/4a14DDe9xZNhfCsRE3XXPx) | 2:57 | 2023-12-01 | 2024-01-15 |
 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 | 2021-12-27 |  |
 | [Así Soy Yo](https://open.spotify.com/track/1Nm7M7ZUO0HW63oF7HfTQv) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Así Soy Yo](https://open.spotify.com/album/179OE8qVRwDBrc5WZheE2W) | 2:54 | 2022-09-23 | 2022-11-14 |
 | [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 | 2023-07-14 |  |
@@ -271,6 +271,7 @@
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2023-12-01 |  |
 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 | 2023-06-30 |  |
 | [Saliste De Mi Mente](https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:50 | 2022-06-24 | 2023-01-16 |
+| [Saludones a Mi Apá](https://open.spotify.com/track/6XLZ0Z3FpfDgJQpiscs6Au) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Saludones a Mi Apá](https://open.spotify.com/album/0RgOoUb2PLAmL2cnJhDR7o) | 2:32 | 2024-01-12 |  |
 | [Salí Perdiendo \- En Vivo](https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 4:01 | 2023-01-20 |  |
 | [Sanaré](https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Sanaré](https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri) | 2:21 | 2023-12-04 |  |
 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 | 2021-12-27 | 2023-10-28 |

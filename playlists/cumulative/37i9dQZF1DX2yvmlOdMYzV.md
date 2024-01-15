@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-591 songs - 1 day 8 hr 27 min
+592 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Can We Do This? \- Original Demo](https://open.spotify.com/track/2eMnWLn7VUZaTOfNkFAz4r) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Further Out Than The Edge \(Deluxe\)](https://open.spotify.com/album/770XvZzNgIz4wGT4gUTrOW) | 1:31 | 2023-11-10 |  |
 | [Can We Pretend](https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | ['Justments](https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt) | 3:49 | 2021-12-15 | 2023-03-25 |
 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 | 2023-06-30 |  |
-| [Can't Hide It](https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Dancing in My Room / Can't Hide It](https://open.spotify.com/album/5r0df366M7ZgFHiAj2RhN1) | 2:56 | 2023-08-18 |  |
+| [Can't Hide It](https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Dancing in My Room / Can't Hide It](https://open.spotify.com/album/5r0df366M7ZgFHiAj2RhN1) | 2:56 | 2023-08-18 | 2024-01-15 |
 | [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-27 |  |
 | [Charismatic](https://open.spotify.com/track/4JhKLjRioxSZ9AkrL8pPcM) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/2Sh1TDbKzFr7UxZdbnnX17) | 3:04 | 2023-05-12 |  |
 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-12 | 2023-12-17 |
@@ -353,8 +353,9 @@
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-09-08 |  |
 | [MHS](https://open.spotify.com/track/7w1cWV6RG3EqHD33qR2ARj) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [MHS](https://open.spotify.com/album/70bf7jpi0uG2p3fZYWa5SC) | 2:50 | 2021-12-15 | 2022-07-28 |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-12-15 | 2022-08-08 |
-| [Misty in Matakana](https://open.spotify.com/track/4FtQayeU7UN8tsUHGUfPqi) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Misty in Matakana](https://open.spotify.com/album/2CeQ9LUeYO38eVaw9gKpyR) | 2:50 | 2023-06-02 | 2024-01-14 |
+| [Misty in Matakana](https://open.spotify.com/track/4FtQayeU7UN8tsUHGUfPqi) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Misty in Matakana](https://open.spotify.com/album/2CeQ9LUeYO38eVaw9gKpyR) | 2:50 | 2023-06-02 |  |
 | [Monolith](https://open.spotify.com/track/5lPr3yqIjtsQY316VjNXQO) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Stop it God.](https://open.spotify.com/album/4dPxQ0cyyeDt1S9gdFHa9k) | 2:35 | 2021-12-15 | 2022-07-29 |
+| [Moonlight](https://open.spotify.com/track/3pp63SNvp4x3qSPv3TqYAM) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Moonlight](https://open.spotify.com/album/6MBbyh68wDw1FL72MP4vvt) | 3:21 | 2023-09-29 |  |
 | [Moonlight](https://open.spotify.com/track/3hIpTc5IwchQUWJkzLXDfK) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [Moonlight](https://open.spotify.com/album/33Eg1v4Pw6xVs7IaZz9qWZ) | 3:06 | 2023-08-11 | 2023-09-23 |
 | [More Than Friends](https://open.spotify.com/track/01pmPw3Tfm08YF1rRdTcv6) | [RealLiveAnimals](https://open.spotify.com/artist/2ctGMLYVzbPMC44eK8ECuO) | [More Than Friends](https://open.spotify.com/album/3UAq4YKkB58QvZzG5lKrVU) | 2:44 | 2021-12-15 | 2022-04-20 |
 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 | 2022-06-30 | 2023-04-29 |
@@ -593,7 +594,7 @@
 | [You](https://open.spotify.com/track/75ZoDBdTAO9e896PtMsbnG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced Mcgee](https://open.spotify.com/album/03HsVVsJiYkq3pbGJYOAPr) | 5:10 | 2021-12-15 | 2022-07-29 |
 | [You](https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Alone](https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d) | 2:09 | 2022-06-30 | 2023-01-28 |
 | [You](https://open.spotify.com/track/68Q8gyJ6Jy9yGJ0h99hfuM) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Alone](https://open.spotify.com/album/439j1V3GK4ef3Ou2dzp9Xa) | 2:09 | 2021-12-15 | 2022-07-17 |
-| [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 | 2023-10-06 |  |
+| [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 | 2023-10-06 | 2024-01-15 |
 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 | 2022-03-29 | 2023-06-17 |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2021-12-15 | 2023-01-28 |
 | [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 | 2023-10-27 |  |

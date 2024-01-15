@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 
 > Un derroche de sensualidad\. Chayanne en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,857 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,893 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 74 | [Elige](https://open.spotify.com/track/0mL1glycqAWzyMiImp4xSb) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT), [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Elige](https://open.spotify.com/album/4W4rR2hS483NStGyeEhpvY) | 3:46 |
 | 75 | [Melodía De Amor](https://open.spotify.com/track/6pl3ec1Y8SnNIKDqxPr1I3) | [Carlos y Alejandra](https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA) | [Super Bachata \(14 Bachata Hits Originales\)](https://open.spotify.com/album/1gnrSGcBMi7OFyf7iHwPyB) | 3:25 |
 
-Snapshot ID: `MCxjZDVjZjkxYTc0MTQ0NTE1YzliNTdiYmM2Njk5YWE0YWU1ZGVmYjFj`
+Snapshot ID: `MCw1ZjI3YjY1NjFkMGFjNmJhNTM3MTQyMTU1NGYyOTMzZDVkODFhM2Yx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Pablo Alborán
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,326 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,454 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [No Romperé Tu Corazón](https://open.spotify.com/track/6giH7DBAnEv09xWYadfYAp) | [Hans Braukmann](https://open.spotify.com/artist/5cdzXDYpthGozpsruNbQL5) | [No Romperé Tu Corazón](https://open.spotify.com/album/1xEVJ5JGnBcvMDHoq75PjK) | 2:43 |
 | 100 | [Malo](https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malo](https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz) | 3:01 |
 
-Snapshot ID: `MCwxNDhhMGRkZGNhMDYxN2ZlMTI3ODc0YzAzM2YwOGNjNTYzYmUwZmY4`
+Snapshot ID: `MCxkYTg1YWMzZTg4YTcwMmYzNmQwNWJhNTU0YzlhYjgzZDc0NzM3MmJj`

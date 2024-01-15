@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=\_7dt1SNIR5WmWQxNj\-173w"> نوال </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,539 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,632 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [Wara Kol Nagah](https://open.spotify.com/track/3mRHFu05SyAc4Y7cQPorON) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Wara Kol Nagah](https://open.spotify.com/album/3IZoThcaZ81nAYTuxLXfXU) | 2:45 |
 | 75 | [Da Kan Naseeb](https://open.spotify.com/track/26WuTSrvHJ31ucIbRLJAkj) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Fat Sam](https://open.spotify.com/artist/2nhUtgfFgXCQjEXXVmdxxU) | [Red Bull Sika](https://open.spotify.com/album/6DQhRP3LacBWt8T53Bbg3l) | 3:17 |
 
-Snapshot ID: `MCwzMDM1MzYxZTJmYzAzMzZiZDViOTU3ZWIwNTU0NDYwN2EwMDBiNWQy`
+Snapshot ID: `MCw4NTIxZjNlNTdlMWM4ODU1N2NmNTBhOGI4NTc0MmNkODI5ODNlNWJl`

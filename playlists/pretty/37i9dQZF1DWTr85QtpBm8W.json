@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 19223,
+  "num_followers": 19296,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjI1NWU4NTRkOGI5NGQ3YjE0NGM1MjM1YjhhOTk4Y2YxOGZkOGE1",
+  "snapshot_id": "MCxjNWI0MmVhNDNjZDgwMWEzYzVjODgzODVlOGFiY2JmNWI3ZmM3Mjgx",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -335,18 +335,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+        "name": "Cendre",
+        "url": "https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe"
       },
       "artists": [
         {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 656026,
-      "name": "Piano Aquieu",
-      "url": "https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im"
+      "duration_ms": 229933,
+      "name": "Oto",
+      "url": "https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -367,22 +371,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Cendre",
-        "url": "https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe"
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        },
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
         }
       ],
-      "duration_ms": 229933,
-      "name": "Oto",
-      "url": "https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ"
+      "duration_ms": 656026,
+      "name": "Piano Aquieu",
+      "url": "https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -467,38 +467,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 457146,
-      "name": "Requiem for Dying Mothers, Pt. 2",
-      "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Corsair",
-      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Vir\u00f0ulegu forsetar",
         "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
@@ -539,6 +507,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Corsair",
+      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Opalescent",
         "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 137826,
       "name": "Sin Nanna",
       "url": "https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 457146,
+      "name": "Requiem for Dying Mothers, Pt. 2",
+      "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 169439,
-      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
-      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 397813,
       "name": "Requiem for Dying Mothers, Pt. 1",
       "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 169439,
+      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
+      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Disintegration Loops (Remastered)",
-        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 650213,
-      "name": "dlp 2.1",
-      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 344560,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 650213,
+      "name": "dlp 2.1",
+      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -743,6 +743,22 @@
       "duration_ms": 234333,
       "name": "Cold Out There",
       "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Austin Texas Mental Hospital, Pt. 3",
+      "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -799,34 +815,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC"
       },
       "artists": [
         {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Austin Texas Mental Hospital, Pt. 3",
-      "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
+          "name": "Boris",
+          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+        },
         {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
         }
       ],
-      "duration_ms": 273186,
-      "name": "Piano Abg",
-      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+      "duration_ms": 229933,
+      "name": "N.L.T.",
+      "url": "https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -847,22 +851,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC"
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
       "artists": [
         {
-          "name": "Boris",
-          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
-        },
-        {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 229933,
-      "name": "N.L.T.",
-      "url": "https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2"
+      "duration_ms": 273186,
+      "name": "Piano Abg",
+      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "An Imaginary Country",
-        "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 286626,
-      "name": "Borderlands",
-      "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 210706,
       "name": "And Then I Turned Away",
       "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "An Imaginary Country",
+        "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 286626,
+      "name": "Borderlands",
+      "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
     },
     {
       "added_at": "2023-08-04 12:53:28",

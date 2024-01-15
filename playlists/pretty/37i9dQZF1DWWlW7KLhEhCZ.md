@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,363 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,346 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 | 75 | [Tudo Vai Passar](https://open.spotify.com/track/6zM1Wxa5WJe1gd2Uuf7QJF) | [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Tudo Vai Passar](https://open.spotify.com/album/2zX2o48wMSqtibPGQUtPfI) | 2:33 |
 
-Snapshot ID: `MCxiMDU4ODA5ZjQzYWM1OTM0ZDk1YTMxOGY1NWU2N2QzNWU4ZDYyODYw`
+Snapshot ID: `MCxkMWYzMjljYjdhNDllMWIyNDYyN2UxYTM5ZDE5NmJhNjZmMDJlNDA0`

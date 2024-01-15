@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 126429,
+  "2024-01-15": 126426,
   "date_first_scraped": "2022-09-18",
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
   "name": "This Is Chuck Berry",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 141960,
       "name": "Almost Grown",
       "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Around And Around",
       "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 146893,
       "name": "Back In The U.S.A.",
       "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 122533,
       "name": "Bye Bye Johnny - Single Version",
       "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 138693,
       "name": "Deep Feeling",
       "url": "https://open.spotify.com/track/5WzcyZ29VEeMimQpAiDc8q"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 169173,
       "name": "Downbound Train",
       "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 151706,
       "name": "Go Go Go",
       "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 139520,
       "name": "Guitar Boogie",
       "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 127880,
       "name": "Gun - Instrumental - Fast",
       "url": "https://open.spotify.com/track/2VfqSzJTiokxWLhTQE2icH"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 147866,
       "name": "House Of Blue Lights",
       "url": "https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 132973,
       "name": "I Got To Find My Baby - Single Version",
       "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 108320,
       "name": "I'm Talking About You",
       "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 143240,
       "name": "Maybellene",
       "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 247226,
       "name": "Mean Old World (Live from Blueberry Hill)",
       "url": "https://open.spotify.com/track/3aE0i39IoZfDFINyQJ4SpC"
@@ -1318,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "Night Beat",
+      "url": "https://open.spotify.com/track/71wEZwBWvq7M2VpC5otqwp"
+    },
+    {
+      "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 163000,
       "name": "No Particular Place To Go",
       "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 143306,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 144600,
       "name": "Roll Over Beethoven",
       "url": "https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 142760,
       "name": "Sweet Little Rock 'N' Roller",
       "url": "https://open.spotify.com/track/5a38im3bvcPzWWIuMegbTe"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 180746,
       "name": "Sweet Little Sixteen",
       "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 142586,
       "name": "Thirty Days - Single Version",
       "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"

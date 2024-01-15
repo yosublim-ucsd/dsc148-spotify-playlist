@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 765089,
+  "num_followers": 764981,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGE3MTM3MWNmOTA2Yzk1MGY0ODk0Yjc0MzIyZTQzZGIyNGNjYjJj",
+  "snapshot_id": "MCxiN2E5NjJhNzg2YWQ3NDc5ZDEyYTVhYmE3MGIzYzRmMzRkOWRjMjFk",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "In The Rain",
-        "url": "https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 239441,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 279653,
       "name": "LULLABY",
       "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "In The Rain",
+        "url": "https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 239441,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Missing You (feat. A Little Sound)",
+        "url": "https://open.spotify.com/album/11U06IwgwsIdP3g8fAOhN1"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "duration_ms": 181732,
+      "name": "Missing You (feat. A Little Sound)",
+      "url": "https://open.spotify.com/track/3im7OnZDP2UqX9UDQUiOTy"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Missing You (feat. A Little Sound)",
-        "url": "https://open.spotify.com/album/11U06IwgwsIdP3g8fAOhN1"
-      },
-      "artists": [
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        }
-      ],
-      "duration_ms": 181732,
-      "name": "Missing You (feat. A Little Sound)",
-      "url": "https://open.spotify.com/track/3im7OnZDP2UqX9UDQUiOTy"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Silent Assassin",
-        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 127880,
-      "name": "Silent Assassin",
-      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 231803,
       "name": "I Can't Tell (feat. LAUREL)",
       "url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
+        "name": "see u",
+        "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         }
       ],
-      "duration_ms": 202394,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
+      "duration_ms": 130615,
+      "name": "see u",
+      "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1515,22 +1511,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "see u",
-        "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "see u",
-      "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "pullmecloser",
         "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 150909,
       "name": "pullmecloser",
       "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 202394,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "ORANGES",
-        "url": "https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV"
-      },
-      "artists": [
-        {
-          "name": "Jaron",
-          "url": "https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq"
-        }
-      ],
-      "duration_ms": 123272,
-      "name": "ORANGES",
-      "url": "https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "UNDER THE ILLUSION",
         "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 214745,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/48WQwHpOBN2718VEfvvKBC"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "ORANGES",
+        "url": "https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV"
+      },
+      "artists": [
+        {
+          "name": "Jaron",
+          "url": "https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq"
+        }
+      ],
+      "duration_ms": 123272,
+      "name": "ORANGES",
+      "url": "https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW"
     },
     {
       "added_at": "2024-01-12 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53395,
+  "num_followers": 53389,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQ1NzgyYjEwYWRjMmFkYzcxNjVjOTFmZTY0MGY1YzlkMWEwMzU2",
+  "snapshot_id": "MCxjN2VmMDQ2MDU0Nzc5NTMzYTU5ZTc3NGI5ZjMyZWMyNzFhYTM1MzMx",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Already Won - Live",
-      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Rock Of Ages (Live)",
         "url": "https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S"
       },
@@ -791,6 +775,38 @@
       "duration_ms": 113013,
       "name": "The Blood Will Never Lose Its Power - Live",
       "url": "https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/76Wc47fN7iPYNzqVMDzxzf"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 401266,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/7d5yg6FiMty4TCk1gixRRh"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -827,22 +843,6 @@
       "duration_ms": 318666,
       "name": "Just For Me",
       "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/76Wc47fN7iPYNzqVMDzxzf"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 401266,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/7d5yg6FiMty4TCk1gixRRh"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Hold Up The Light",
+        "url": "https://open.spotify.com/album/422q0thJKuktUkTCGo0vUw"
+      },
+      "artists": [
+        {
+          "name": "New Jersey Mass Choir",
+          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "O the Blood",
+      "url": "https://open.spotify.com/track/74jFfq7rBPT6OZgr8taxVH"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
       },
@@ -927,18 +943,30 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Hold Up The Light",
-        "url": "https://open.spotify.com/album/422q0thJKuktUkTCGo0vUw"
+        "name": "Always Coko",
+        "url": "https://open.spotify.com/album/4zd8fMlQdGwGKsIhRQxmf8"
       },
       "artists": [
         {
-          "name": "New Jersey Mass Choir",
-          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
+          "name": "Coko",
+          "url": "https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "Lil' Mo",
+          "url": "https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92"
+        },
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/34v40muZVGZG8g0t05ioRf"
         }
       ],
-      "duration_ms": 286040,
-      "name": "O the Blood",
-      "url": "https://open.spotify.com/track/74jFfq7rBPT6OZgr8taxVH"
+      "duration_ms": 416213,
+      "name": "Endow Me",
+      "url": "https://open.spotify.com/track/3Oi3SOuwWzlnKMuju3nnaJ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -975,34 +1003,6 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Always Coko",
-        "url": "https://open.spotify.com/album/4zd8fMlQdGwGKsIhRQxmf8"
-      },
-      "artists": [
-        {
-          "name": "Coko",
-          "url": "https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        },
-        {
-          "name": "Lil' Mo",
-          "url": "https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92"
-        },
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/34v40muZVGZG8g0t05ioRf"
-        }
-      ],
-      "duration_ms": 416213,
-      "name": "Endow Me",
-      "url": "https://open.spotify.com/track/3Oi3SOuwWzlnKMuju3nnaJ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Unproduced",
         "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 290432,
       "name": "Heaven's Here - Live",
       "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "TIME (Truth Is My Energy)",
-        "url": "https://open.spotify.com/album/5NnwvpZHr79oiMZ2oEGhd8"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 230659,
-      "name": "He Carried The Cross For Me",
-      "url": "https://open.spotify.com/track/2XRDEjQCQeJsQMURLmcHRE"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Common Hymnal (Live)",
         "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 471217,
       "name": "The Cross Made the Change - Live",
       "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "TIME (Truth Is My Energy)",
+        "url": "https://open.spotify.com/album/5NnwvpZHr79oiMZ2oEGhd8"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 230659,
+      "name": "He Carried The Cross For Me",
+      "url": "https://open.spotify.com/track/2XRDEjQCQeJsQMURLmcHRE"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 297040,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Trip Down Memory Lane",
+        "url": "https://open.spotify.com/album/1spELczvtbmaJoFpIiiyLU"
+      },
+      "artists": [
+        {
+          "name": "James Hall Worship & Praise",
+          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
+        }
+      ],
+      "duration_ms": 443466,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/3YQrsqFqJa1EtH7PeO76Dw"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Live At Azusa 3",
         "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 436960,
       "name": "He Lives - Live",
       "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Trip Down Memory Lane",
-        "url": "https://open.spotify.com/album/1spELczvtbmaJoFpIiiyLU"
-      },
-      "artists": [
-        {
-          "name": "James Hall Worship & Praise",
-          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
-        }
-      ],
-      "duration_ms": 443466,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/3YQrsqFqJa1EtH7PeO76Dw"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
-      },
-      "artists": [
-        {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
-        }
-      ],
-      "duration_ms": 496133,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Family & Friends Choir III",
         "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 325666,
       "name": "He Proved His Love",
       "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+      },
+      "artists": [
+        {
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+        }
+      ],
+      "duration_ms": 496133,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
     },
     {
       "added_at": "2023-04-09 08:49:39",

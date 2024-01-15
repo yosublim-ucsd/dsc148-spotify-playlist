@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 17680,
+  "num_followers": 17688,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjVhZTc1ZDc4M2U4ZmZhNzU0MzEwMTQwMzAyYTMyNzJkMGIzMGQ0",
+  "snapshot_id": "MCwxZWJmZjYwMTMyOWU1ZjYzZDVjNWU2ZDNmYzUyMGNmYTM5MzE4NjM5",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 448133,
-      "name": "Water Memory 1",
-      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Forest Trails",
         "url": "https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 346364,
       "name": "Forest Trails",
       "url": "https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 448133,
+      "name": "Water Memory 1",
+      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Children of the Sun",
-        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
-      },
-      "artists": [
-        {
-          "name": "S A D",
-          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
-        }
-      ],
-      "duration_ms": 285338,
-      "name": "Desert Wax",
-      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Habitat",
         "url": "https://open.spotify.com/album/6c3fg9k7oV8ShswoX0OifT"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 295544,
       "name": "Air Flows",
       "url": "https://open.spotify.com/track/22khCiN7gT1CQvN3ZoRU5c"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Children of the Sun",
+        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
+      },
+      "artists": [
+        {
+          "name": "S A D",
+          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
+        }
+      ],
+      "duration_ms": 285338,
+      "name": "Desert Wax",
+      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
-      "added_at": "2022-03-16 01:06:51",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 316285,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
-    },
-    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Fourth World Vol 1 Possible Musics",
@@ -947,6 +931,22 @@
       "duration_ms": 377066,
       "name": "Ba-benz\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
+    },
+    {
+      "added_at": "2022-03-16 01:06:51",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 316285,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/1QWahKnQpMZpnOX5igsFVe"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 482146,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892"
-    },
-    {
       "added_at": "2022-02-12 01:31:39",
       "album": {
         "name": "Sequences",
@@ -1043,6 +1027,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 482146,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D"
     },
     {
+      "added_at": "2022-01-11 00:30:53",
+      "album": {
+        "name": "The Loss of Wilderness",
+        "url": "https://open.spotify.com/album/4k2tdCSF0SRtUPZySYmKhB"
+      },
+      "artists": [
+        {
+          "name": "ILUITEQ",
+          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
+        }
+      ],
+      "duration_ms": 357509,
+      "name": "The Loss of Wilderness",
+      "url": "https://open.spotify.com/track/3l6Ls8YScCSAwjZMDha2Mo"
+    },
+    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Pink Noir",
@@ -1099,22 +1115,6 @@
       "duration_ms": 563026,
       "name": "Slow Loris Versus Poison Snail",
       "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
-    },
-    {
-      "added_at": "2022-01-11 00:30:53",
-      "album": {
-        "name": "The Loss of Wilderness",
-        "url": "https://open.spotify.com/album/4k2tdCSF0SRtUPZySYmKhB"
-      },
-      "artists": [
-        {
-          "name": "ILUITEQ",
-          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
-        }
-      ],
-      "duration_ms": 357509,
-      "name": "The Loss of Wilderness",
-      "url": "https://open.spotify.com/track/3l6Ls8YScCSAwjZMDha2Mo"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+        "name": "Temple Of The New Sun",
+        "url": "https://open.spotify.com/album/00wrOJOHlmNR63kIKK6x7R"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+          "name": "Xochimoki",
+          "url": "https://open.spotify.com/artist/2r9Sm0NknfL0xMMaRYQiiG"
         }
       ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+      "duration_ms": 247066,
+      "name": "Malinalli Koatl",
+      "url": "https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6"
     }
   ],
   "unique_name": "Planetary Soul",

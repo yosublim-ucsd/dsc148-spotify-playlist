@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 54382,
+  "num_followers": 54400,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U4MjJiNGE5NzcxZDk1NjBiYTIxYTQyY2RlNDQ5ZTM3ZDRmMTU4",
+  "snapshot_id": "MCw5N2E3NTcxYzczZjQ0YTU2Y2ZmOGZkMzFjY2U2M2ZjNjhjODVlYjlm",
   "tracks": [
     {
       "added_at": "2023-12-14 23:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Recital Flamenco. 12 de Sus Toques Originales",
-        "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
-      },
-      "artists": [
-        {
-          "name": "Manolo Sanlucar",
-          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "El Ca\u00f1averal - Guajira",
-      "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 134578,
       "name": "Tiempos Pasados",
       "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Recital Flamenco. 12 de Sus Toques Originales",
+        "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
+      },
+      "artists": [
+        {
+          "name": "Manolo Sanlucar",
+          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "El Ca\u00f1averal - Guajira",
+      "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Classical Guitar Latin Style",
-        "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
+        "name": "Alma Llanera",
+        "url": "https://open.spotify.com/album/0ziCxc44HXR3qfEqyeSzUC"
       },
       "artists": [
         {
-          "name": "William Wilson",
-          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
+          "name": "Jes\u00fas \u00c1ngel",
+          "url": "https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD"
         }
       ],
-      "duration_ms": 246040,
-      "name": "Libertango",
-      "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
+      "duration_ms": 175833,
+      "name": "Alma Llanera",
+      "url": "https://open.spotify.com/track/4LvHoaXNwmS9kbjYqirUZ3"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Alma Llanera",
-        "url": "https://open.spotify.com/album/0ziCxc44HXR3qfEqyeSzUC"
+        "name": "Classical Guitar Latin Style",
+        "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
       },
       "artists": [
         {
-          "name": "Jes\u00fas \u00c1ngel",
-          "url": "https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD"
+          "name": "William Wilson",
+          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
         }
       ],
-      "duration_ms": 175833,
-      "name": "Alma Llanera",
-      "url": "https://open.spotify.com/track/4LvHoaXNwmS9kbjYqirUZ3"
+      "duration_ms": 246040,
+      "name": "Libertango",
+      "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
     },
     {
       "added_at": "2023-12-14 23:01:00",

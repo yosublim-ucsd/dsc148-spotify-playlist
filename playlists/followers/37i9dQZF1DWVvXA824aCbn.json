@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 578610,
+  "2024-01-15": 578741,
   "date_first_scraped": "2020-10-20",
   "description": "A relaxing atmosphere of Jazz piano sounds.",
   "name": "The Piano Bar",
@@ -3621,7 +3621,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/5qaAnqAeGIGJeAl4mEl2CF"
@@ -8213,7 +8213,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 316000,
       "name": "Theme For Ernie",
       "url": "https://open.spotify.com/track/2vzWSK7e2pDTDSiRgjqvy7"

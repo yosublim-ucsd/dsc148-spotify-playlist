@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 223040,
+  "2024-01-15": 223080,
   "date_first_scraped": "2021-12-21",
   "description": "Bird sounds in the background",
   "name": "Birds in the Forest",
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 101000,
       "name": "Birds In The Woods",
       "url": "https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd"
@@ -1573,7 +1573,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 122250,
       "name": "Morning In The Forest",
       "url": "https://open.spotify.com/track/2P6dfQcVKTJvWxnGKGYmS8"

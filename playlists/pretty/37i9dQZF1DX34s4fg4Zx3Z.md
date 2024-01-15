@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: NÂN
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,363 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,371 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 2 | [Honey 2](https://open.spotify.com/track/5nIJDz4SH9I6ooBqZuJbiq) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw), [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Honey 2](https://open.spotify.com/album/3UCQvGE0oYoz2BhmJpTBZB) | 2:50 |
 | 3 | [vết thương](https://open.spotify.com/track/4lVSQKOrx0KLeKJEPCKkJh) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r) | [vết thương](https://open.spotify.com/album/3bsr3IV4aD34ADHC1qSrEF) | 4:21 |
 | 4 | [Có Hay Từ Bao Giờ?](https://open.spotify.com/track/0oxd6z00u7t1gouhoEXeIY) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e), [KEI](https://open.spotify.com/artist/3TLujYTRHGq5M1Hh11vLYv) | [Có Hay Từ Bao Giờ?](https://open.spotify.com/album/730heV46hHb6G2u0iLrk1V) | 4:09 |
-| 5 | [CƠ THỂ PHẢN BỘI](https://open.spotify.com/track/2KMrUiJcPq7tHdsjqhe8CN) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Maiki](https://open.spotify.com/artist/57WeoKhfgxj1pX9tH93w4N) | [XT\-TX](https://open.spotify.com/album/5BFT5j8R4db316nYCG8KGo) | 4:01 |
+| 5 | [CƠ THỂ PHẢN BỘI](https://open.spotify.com/track/2KMrUiJcPq7tHdsjqhe8CN) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Maiki](https://open.spotify.com/artist/57WeoKhfgxj1pX9tH93w4N), [Hallowed](https://open.spotify.com/artist/5OIp4Z7mYh8kQ8FziTV5Sl) | [XT\-TX](https://open.spotify.com/album/5BFT5j8R4db316nYCG8KGo) | 4:01 |
 | 6 | [Vòng Xoay](https://open.spotify.com/track/0yRLlOcwxCJn86661YeaOJ) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Vòng Xoay](https://open.spotify.com/album/4pmqRQmc3kcgJJz1reF2RO) | 2:56 |
 | 7 | [Forget Me Now](https://open.spotify.com/track/12DNdwLD9oZOPADqM10oyE) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r), [Trí Dũng](https://open.spotify.com/artist/3vrLtReLclPLq5VvCAxCik) | [Forget Me Now](https://open.spotify.com/album/4v4Gusg7qH9mjehEXjbdlk) | 3:17 |
 | 8 | [Nếu Anh Muốn Đổi Vai \- Rap Version](https://open.spotify.com/track/6h1nJ0J9eIDUDcVeaPgqBC) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj), [Lil Tian](https://open.spotify.com/artist/5PycWaugD9Q5dyWytEihtR), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Nếu Anh Muốn Đổi Vai \(Rap Version\)](https://open.spotify.com/album/6csgB8aCEP5wl5bEoz2fR3) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
 | 100 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
 
-Snapshot ID: `MCxmZDA1ZDgzM2QxYTBiMTI3MjAzMjNmMTk2NzBkZTAzODAwOGQ0NTBl`
+Snapshot ID: `MCw1NjNhZmZmMGIxYjI4NzY1ODRlZDkyOTk5NzEwZDNkMWM4MGRlNDFl`

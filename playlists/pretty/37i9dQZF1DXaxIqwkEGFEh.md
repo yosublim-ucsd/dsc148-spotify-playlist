@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Mudbaby Ru
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,981 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,560 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 |
 | 100 | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/track/6McVbBFuyOF532MX7Mc1zm) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/album/5OMKyOOGz3VVJKIzLs1XFP) | 2:27 |
 
-Snapshot ID: `MCw3MjNkZDFhNjM4ODg0NTllZTVjNjNkZTVjNzdjM2ZiNDlhNTdjNTY5`
+Snapshot ID: `MCxhMTJkZmY5MGM1NTJjMzlkNWQ4ODY4NThlNzMzNGJmZGI4NWEzN2Mw`

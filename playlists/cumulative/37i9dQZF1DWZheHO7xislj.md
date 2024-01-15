@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-363 songs - 23 hr 28 min
+364 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Play Something Pretty](https://open.spotify.com/track/7E6jQdJaZAWUOgpxa0DZpr) | [George Jackson](https://open.spotify.com/artist/5PmB2ZWfKuqLb60qZdi4ys) | [All Because of Your Love](https://open.spotify.com/album/1blD6Kx3gBIpMcH0WrCE2D) | 3:23 | 2023-01-09 | 2023-06-28 |
 | [Please Love Me](https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me](https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx) | 2:57 | 2023-06-27 |  |
 | [Pledging My Love](https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT) | [Johnny Ace](https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah), [Johnny Otis & His Orchestra](https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1) | [Memorial Album](https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ) | 2:28 | 2023-01-09 | 2023-06-28 |
+| [Popsicle Toes](https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [The Best Of Michael Franks: A Backward Glance](https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg) | 4:35 | 2023-08-15 |  |
 | [Private Number](https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR), [Judy Clay](https://open.spotify.com/artist/6Bez6xFXAhRw4XTYVhUekp) | [The Best Of William Bell](https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb) | 2:40 | 2023-06-27 |  |
 | [Pure Love \(Single Version\)](https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [70s Classic Love Songs](https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg) | 2:35 | 2023-01-09 | 2023-06-28 |
 | [Rainy Night in Georgia](https://open.spotify.com/track/1o2qoDCK0vaEL1udkuMc8a) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Atlantic 60th: Rainy Day Refrain](https://open.spotify.com/album/5T7kRP6K0WBIe5DM4bW6i0) | 3:48 | 2023-01-09 | 2023-06-28 |
@@ -281,7 +282,7 @@
 | [Some Type of Love](https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Some Type of Love](https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O) | 3:05 | 2023-01-09 | 2023-06-28 |
 | [Something](https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Family Dinner \- Vol\. 1](https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO) | 7:35 | 2023-06-27 |  |
 | [Something He Can Feel](https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 6:21 | 2023-01-09 | 2023-06-28 |
-| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 |  |
+| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 | 2024-01-15 |
 | [Spanish Harlem](https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 3:33 | 2023-01-09 |  |
 | [Spirit in the Dark](https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 4:03 | 2023-06-27 |  |
 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-06-27 |  |

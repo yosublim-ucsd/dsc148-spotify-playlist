@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: THE BAWDIES
 
-913 songs - 2 day 12 hr 39 min
+914 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 | 2024-01-09 |  |
 | [Particle Dreams](https://open.spotify.com/track/7lFa5iule0QXNxlue91AD4) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [Particle Dreams](https://open.spotify.com/album/0eDkWBzLn5vQ4NbLDiDBw9) | 3:46 | 2023-06-13 | 2023-07-12 |
 | [Personal Communication](https://open.spotify.com/track/6hrLZjcUC2Ruxn5nNWuKmk) | [Plasticzooms](https://open.spotify.com/artist/45pcIklchW1WFozLF8E1Y0) | [Personal Communication](https://open.spotify.com/album/4KcSHytIzcWH1EzOyTr4nx) | 3:44 | 2023-09-19 | 2023-09-27 |
+| [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2024-01-14 |  |
 | [Please Mister Postman](https://open.spotify.com/track/3X9pFZDlaRNrvwF7hnffVt) | [Shogo Hamada & The J.S\. Inspirations](https://open.spotify.com/artist/6DVVHOGgFF87Lsr8PQmxHp) | [The Moonlight Cats Radio Show Vol\. 3](https://open.spotify.com/album/6XkWJHJ0UniLKgzeW4R7ec) | 2:58 | 2023-09-05 | 2023-09-13 |
 | [POP](https://open.spotify.com/track/29KLMsYb7Bv4b6L4rBDbxL) | [Chage](https://open.spotify.com/artist/0bZz2doDk7VmeP4XL6szHe) | [POP](https://open.spotify.com/album/7L6AfaXxN6UnKyUnrPV9co) | 4:26 | 2022-09-06 | 2022-09-15 |
 | [pray](https://open.spotify.com/track/3oreXQb2kmZj1EJD98NjCq) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 4:12 | 2023-07-11 | 2023-07-13 |
@@ -699,7 +700,7 @@
 | [ハイパーイメージ](https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [ハイパーイメージ](https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8) | 2:30 | 2023-03-14 | 2023-05-10 |
 | [ハイファイ浪漫](https://open.spotify.com/track/39rZNXJgXj6VssiJ1X65pe) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [ハイファイ浪漫](https://open.spotify.com/album/5FElR81kIAr80LWcqgeATr) | 3:05 | 2023-08-15 | 2023-09-13 |
 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 | 2023-03-30 | 2024-01-09 |
-| [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 | 2023-09-12 |  |
+| [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 | 2023-09-12 | 2024-01-15 |
 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2022-12-20 |  |
 | [バカサバイバー V](https://open.spotify.com/track/4BjsxmjxBTSRb6U35osAKB) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [フル盤](https://open.spotify.com/album/1SpfLV0prn6F8ee2LniWi5) | 4:13 | 2022-05-12 | 2022-06-08 |
 | [バニラ](https://open.spotify.com/track/5vLpv8cGMdqRACES2z33gG) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [バニラ](https://open.spotify.com/album/1t4hfGiNU92vuBhu625JVp) | 3:15 | 2023-01-17 | 2023-01-19 |
@@ -868,10 +869,10 @@
 | [眠れない](https://open.spotify.com/track/3wGXqwM5r5b3UY2upNZ0RZ) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [眠れない](https://open.spotify.com/album/0P6SfXlvQdEfCS0s9jdLi7) | 4:14 | 2022-05-17 | 2022-07-28 |
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-05-10 | 2023-01-25 |
 | [知らない道](https://open.spotify.com/track/0MapT4uZ7ZQFUxVw8x7L4F) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [知らない道](https://open.spotify.com/album/5CfbxKycxzQX1SZmRW8RiV) | 4:35 | 2023-04-11 | 2023-05-10 |
-| [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 | 2023-05-23 |  |
+| [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 | 2023-05-23 | 2024-01-15 |
 | [秘密 \- band arrange](https://open.spotify.com/track/4doFF3dxn4Xrw3pSOQpD2i) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [秘密 \(band arrange\) / boys & girls \(band arrange\)](https://open.spotify.com/album/2AhF44xKGvyMj7ap14lDfF) | 4:52 | 2022-10-29 | 2022-11-02 |
 | [空へ向かう木のように](https://open.spotify.com/track/6Gv6FWMPMipoJPgMbSdQWT) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [Version 5.0](https://open.spotify.com/album/5E257eQJYcjeqPapr7JSHr) | 3:37 | 2023-08-29 | 2023-09-13 |
-| [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 | 2023-09-05 | 2024-01-10 |
+| [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 | 2023-09-05 |  |
 | [窓の中から](https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [窓の中から](https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd) | 6:39 | 2023-04-04 | 2023-12-13 |
 | [竜巻いて鮮脳](https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [竜巻いて鮮脳](https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH) | 3:44 | 2022-05-10 | 2022-12-21 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-12-01 |  |

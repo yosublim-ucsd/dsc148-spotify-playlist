@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Charles Lloyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,135 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,022 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [STOP CALLING ME](https://open.spotify.com/track/314r69preySjrl67vpaEI8) | [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [Stop Calling Me](https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B) | 5:27 |
 | 100 | [Pressure on the Pulse](https://open.spotify.com/track/40MBOllKyanYQZ8vuexEXI) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd) | 3:26 |
 
-Snapshot ID: `MCxiNWI1MThiOWNjNGU4YjhhNDIxZDgyOWRhZDUwMjI2NzllOGFlZGQz`
+Snapshot ID: `MCwwYmNiYWMwZWJmYjA5ZGIzNTk4MWE5M2M0MmI4ZTgzMTE2Nzc4OTk1`

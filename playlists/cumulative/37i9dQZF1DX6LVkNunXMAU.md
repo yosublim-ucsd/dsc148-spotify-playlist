@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-283 songs - 15 hr 28 min
+284 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 | 2022-07-15 |  |
 | [Los Límites del Sueño](https://open.spotify.com/track/7g9iuJfq7wmdB7jVmdoQun) | [Sofía y Sus Paracaídas](https://open.spotify.com/artist/0vLW3E3sxu3dBfvbD2hVQR) | [Los Límites del Sueño](https://open.spotify.com/album/0MPqONH7eK5YV2QphsEYCY) | 4:04 | 2022-05-20 | 2022-11-12 |
 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 | 2022-11-11 | 2023-08-19 |
-| [Marcas](https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Marcas](https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r) | 3:42 | 2023-10-26 |  |
+| [Marcas](https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Marcas](https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r) | 3:42 | 2023-10-26 | 2024-01-15 |
 | [Marinero](https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [CARREÑO](https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw) | [Marinero](https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd) | 3:24 | 2022-05-20 | 2023-04-15 |
 | [Me Fui](https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Me Fui](https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w) | 4:45 | 2022-05-20 | 2023-07-15 |
 | [Me Gustas Tanto \- Remix](https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Polska](https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk) | [Me Gustas Tanto \(Remix\)](https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4) | 3:28 | 2023-06-23 |  |
@@ -286,6 +286,7 @@
 | [Y Tú No](https://open.spotify.com/track/31T6w8SRDYJI3LI4sZc8ct) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Y Tú No](https://open.spotify.com/album/4Qa0acukEJ8Shi0UfPDwFl) | 2:45 | 2022-05-20 | 2022-07-29 |
 | [Y Tú No](https://open.spotify.com/track/56FAtkjYkS2DqyuyKAo4d1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Ciencia Ficción](https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi) | 2:45 | 2022-07-15 | 2023-05-20 |
 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 | 2023-08-18 |  |
+| [Ya Lo Sé, Pero Igual](https://open.spotify.com/track/6XQfcsz1rjEYWhFKN6JXBR) | [Luciano Altair](https://open.spotify.com/artist/5zYGj1hsIxc6gjoLLTs9IQ) | [Ya Lo Sé, Pero Igual](https://open.spotify.com/album/5yYSt3CC3iidgCucpNRbe0) | 4:23 | 2023-12-15 |  |
 | [Ya No Era Felíz](https://open.spotify.com/track/7mTfMbGpBMZQE3pE9cyndg) | [María Colores](https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Ya No Era Felíz Contigo](https://open.spotify.com/album/2MMrxUtCssjTgQr1NHigS5) | 3:08 | 2023-06-23 |  |
 | [Ya no hay dudas](https://open.spotify.com/track/3LMk3abz8KRRRXnJHatyEw) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Ya no hay dudas](https://open.spotify.com/album/7vfWKcTC2qF1wnPKxVKnz9) | 3:15 | 2023-04-07 | 2023-06-20 |
 | [Ya Se Fue](https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43) | [Gonzalo Brancciari](https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x) | [Ya Se Fue](https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX) | 2:50 | 2023-10-26 |  |

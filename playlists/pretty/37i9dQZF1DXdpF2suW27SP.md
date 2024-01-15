@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,947 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,884 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [DEMONS](https://open.spotify.com/track/0kDQEVHvQHCRabH817iOCg) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [DEMONS](https://open.spotify.com/album/6X04ooHMiN96MSveBdWffK) | 4:24 |
 | 75 | [Gelo no Copo](https://open.spotify.com/track/51oQ1UUf7mTzlvZtGHfQnu) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8), [Young2835](https://open.spotify.com/artist/5hWELoESeAtem9pQBRFWs9), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Gelo no Copo](https://open.spotify.com/album/3boisqjMi9fKRCZsymugVI) | 4:07 |
 
-Snapshot ID: `MCwyYWNlOWJlMzIwOTM0Yjg5MTA1MTA0NzJlNDg2ZDFhNTI0MDI3YzA4`
+Snapshot ID: `MCw2NGQ0YTZlMzdhYmJlYTllZTdjODE3OGNlMTFlNzU3ZTA2M2UyZGQ3`

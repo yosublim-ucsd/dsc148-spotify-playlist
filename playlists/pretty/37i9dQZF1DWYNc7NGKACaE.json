@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 75984,
+  "num_followers": 76013,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWIzMjhkMzZhMmVhODk1ZGNiNjczMDJjZmFkMTNhYjgyMDZhY2Fk",
+  "snapshot_id": "MCw3ZTcwMzk0MTBjZmMwMWRlOGE2OTZkZDgzN2NiNmZlZmVjMDM0MDIw",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "At\u00e9 o Amanhecer (Speed)",
-        "url": "https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w"
-      },
-      "artists": [
-        {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        }
-      ],
-      "duration_ms": 170202,
-      "name": "At\u00e9 o Amanhecer - Speed",
-      "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Ultimamente Speed",
         "url": "https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 130254,
       "name": "Ultimamente Speed",
       "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "At\u00e9 o Amanhecer (Speed)",
+        "url": "https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        }
+      ],
+      "duration_ms": 170202,
+      "name": "At\u00e9 o Amanhecer - Speed",
+      "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Conto do Pescador (Speed Version)",
-        "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
-      },
-      "artists": [
-        {
-          "name": "MC Menor da VG",
-          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
-        },
-        {
-          "name": "Jorgin Dejhaay",
-          "url": "https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV"
-        }
-      ],
-      "duration_ms": 174701,
-      "name": "Conto do Pescador (Speed Version)",
-      "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Palha\u00e7ada Speed",
         "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 149170,
       "name": "Palha\u00e7ada Speed",
       "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Conto do Pescador (Speed Version)",
+        "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
+      },
+      "artists": [
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        },
+        {
+          "name": "Jorgin Dejhaay",
+          "url": "https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV"
+        }
+      ],
+      "duration_ms": 174701,
+      "name": "Conto do Pescador (Speed Version)",
+      "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
     },
     {
       "added_at": "2023-12-27 14:18:14",

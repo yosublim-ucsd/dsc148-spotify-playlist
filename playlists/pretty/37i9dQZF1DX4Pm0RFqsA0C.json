@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5459,
+  "num_followers": 5447,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzE5Y2Y4MGY3Mjc0MDZjMDhiZDZhYzQzZjk4ZTk3OGFjYzQ4ZTFi",
+  "snapshot_id": "MCw1ZjhhM2Y5YTIxODVhM2U1MTExNTdhOWU4YmYxZWM4YWM0ZjYyNzUz",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "\ubc8c\uc368 \uc77c\ub144",
-      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Coming of age ceremony",
         "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 210079,
       "name": "Coming of age ceremony",
       "url": "https://open.spotify.com/track/2adWXRegCboef5ZOjW3ffe"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "\ubc8c\uc368 \uc77c\ub144",
+      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uae40\ud604\ucca0 1\uc9d1 \uc624\ub79c\ub9cc\uc5d0/\ub3d9\ub124",
-        "url": "https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
-        }
-      ],
-      "duration_ms": 272848,
-      "name": "\ub3d9\ub124",
-      "url": "https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Enter The Dragon",
         "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "\uae40\ud604\ucca0 1\uc9d1 \uc624\ub79c\ub9cc\uc5d0/\ub3d9\ub124",
+        "url": "https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "duration_ms": 272848,
+      "name": "\ub3d9\ub124",
+      "url": "https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "2nd",
         "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 249106,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Second Birth",
+        "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
+      },
+      "artists": [
+        {
+          "name": "UP",
+          "url": "https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN"
+        }
+      ],
+      "duration_ms": 240430,
+      "name": "\ubfcc\uc694\ubfcc\uc694",
+      "url": "https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1215,22 +1231,6 @@
       "duration_ms": 208440,
       "name": "Hey, Come On!",
       "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Second Birth",
-        "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
-      },
-      "artists": [
-        {
-          "name": "UP",
-          "url": "https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN"
-        }
-      ],
-      "duration_ms": 240430,
-      "name": "\ubfcc\uc694\ubfcc\uc694",
-      "url": "https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Coming of age ceremony",
-        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
-      },
-      "artists": [
-        {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "duration_ms": 245423,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\uc2e0\ud574\ucca0",
         "url": "https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Suprise Party Collection",
-        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
+        "name": "Coming of age ceremony",
+        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
       },
       "artists": [
         {
-          "name": "Click-B",
-          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
         }
       ],
-      "duration_ms": 265377,
-      "name": "Baekjeonmupae",
-      "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
+      "duration_ms": 245423,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1527,6 +1511,22 @@
       "duration_ms": 253426,
       "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
       "url": "https://open.spotify.com/track/04SDFqyKorGmxyZ8lopA53"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Suprise Party Collection",
+        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
+      },
+      "artists": [
+        {
+          "name": "Click-B",
+          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Baekjeonmupae",
+      "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "parkjiyoon 20th anniversary photo&live album",
-        "url": "https://open.spotify.com/album/2th6tmq8mLVr3sUlcoOKru"
-      },
-      "artists": [
-        {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "duration_ms": 229862,
-      "name": "\uc18c\uc911\ud55c \uc0ac\ub791 Precious Love - Live",
-      "url": "https://open.spotify.com/track/0KZ00Z3mrfCOVJzvnkNmSO"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Roo`ra Best Album",
         "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 243435,
       "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
       "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "parkjiyoon 20th anniversary photo&live album",
+        "url": "https://open.spotify.com/album/2th6tmq8mLVr3sUlcoOKru"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "duration_ms": 229862,
+      "name": "\uc18c\uc911\ud55c \uc0ac\ub791 Precious Love - Live",
+      "url": "https://open.spotify.com/track/0KZ00Z3mrfCOVJzvnkNmSO"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1955,8 +1955,8 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh"
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
       },
       "artists": [
         {
@@ -1964,9 +1964,9 @@
           "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
         }
       ],
-      "duration_ms": 255840,
-      "name": "\uc5b4\uba38\ub2d8\uaed8 To Mother",
-      "url": "https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP"
+      "duration_ms": 242333,
+      "name": "\uac70\uc9d3\ub9d0 Lie",
+      "url": "https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2051,8 +2051,8 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Chapter 3",
-        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh"
       },
       "artists": [
         {
@@ -2060,9 +2060,9 @@
           "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
         }
       ],
-      "duration_ms": 242333,
-      "name": "\uac70\uc9d3\ub9d0 Lie",
-      "url": "https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc"
+      "duration_ms": 255840,
+      "name": "\uc5b4\uba38\ub2d8\uaed8 To Mother",
+      "url": "https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP"
     },
     {
       "added_at": "2021-02-01 12:18:54",

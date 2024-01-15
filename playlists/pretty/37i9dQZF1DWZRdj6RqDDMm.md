@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,715 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,198 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [Liberty](https://open.spotify.com/track/2Qjl9RwO2qQZaLpXQgJqIZ) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Liberty](https://open.spotify.com/album/6OT3uygECDrzpVjGd2rjy3) | 3:57 |
 | 100 | [Fight for you](https://open.spotify.com/track/3QeNyBGX005E5rFdyqxxUs) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [Fight for you](https://open.spotify.com/album/44IjNnyK7MQ8W42rHG70Vo) | 2:51 |
 
-Snapshot ID: `MCw2NzdkZmUyMTg1MTJjOGZjNDY4NDc2ZjI1YjMwYTQ3MWNlOTFlOWQw`
+Snapshot ID: `MCw2MzIzMGFmMTExNWYyYmMxZWMwNjg2ZDUxNTMxMTIyZDdlZGZhYzU5`

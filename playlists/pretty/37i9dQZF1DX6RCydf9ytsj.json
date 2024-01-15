@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 600292,
+  "num_followers": 600428,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGE0MzU0ZWVhNGE4YTNkMmUzMzA5YmMxYTk4MWZhYTZmMTJhZDU5",
+  "snapshot_id": "MCw1MWI4OThhZTUwMTFlOThjNzg5ZmQ3MGQ4MzY2OGFkMDc4M2VkNmMz",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
-      },
-      "artists": [
-        {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 251560,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+      },
+      "artists": [
+        {
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "All My Rowdy Friends Are Coming Over Tonight",
-      "url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Whoever's In New England",
         "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
       },
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Just Sylvia",
-        "url": "https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV"
+        "name": "Greatest Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv"
       },
       "artists": [
         {
-          "name": "Sylvia",
-          "url": "https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 199200,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967"
+      "duration_ms": 178840,
+      "name": "All My Rowdy Friends Are Coming Over Tonight",
+      "url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1715,6 +1699,22 @@
       "duration_ms": 185573,
       "name": "My Favorite Memory",
       "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Just Sylvia",
+        "url": "https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV"
+      },
+      "artists": [
+        {
+          "name": "Sylvia",
+          "url": "https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
-      },
-      "artists": [
-        {
-          "name": "T. Graham Brown",
-          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "I Tell It Like It Used To Be",
-      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Top 10",
         "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 219946,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
+      },
+      "artists": [
+        {
+          "name": "T. Graham Brown",
+          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "I Tell It Like It Used To Be",
+      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
     },
     {
       "added_at": "2023-08-21 19:29:52",

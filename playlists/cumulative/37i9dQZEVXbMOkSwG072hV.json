@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 174000,
       "name": "AKUMA NO MI",
       "url": "https://open.spotify.com/track/3fITfVbE6LfE8A99TwXIP6"
@@ -25779,6 +25797,24 @@
     },
     {
       "album": {
+        "name": "Ver\u00e3o Doce",
+        "url": "https://open.spotify.com/album/4wSD03fWtinC3FRAZuEOo9"
+      },
+      "artists": [
+        {
+          "name": "O Kannalha",
+          "url": "https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221064,
+      "name": "Nego Doce",
+      "url": "https://open.spotify.com/track/7jp2LRqPh9olzx19U74OaM"
+    },
+    {
+      "album": {
         "name": "Caras E Bocas",
         "url": "https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o"
       },
@@ -27328,7 +27364,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 227114,
       "name": "O Escolhido",
       "url": "https://open.spotify.com/track/338horqJYhaeVjkiFXcVIh"
@@ -29404,7 +29440,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 350266,
       "name": "Pede Caju Que Dou... P\u00e9 de Caju Que D\u00e1!",
       "url": "https://open.spotify.com/track/3DR253BBDZLDrMUOaSunIg"
@@ -40332,7 +40368,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 107076,
       "name": "VAMOS CELEBRAR",
       "url": "https://open.spotify.com/track/1FlvR7xEvg155njZDgLvGq"

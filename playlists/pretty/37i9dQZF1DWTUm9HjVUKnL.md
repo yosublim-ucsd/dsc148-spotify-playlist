@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,799 likes - 918 songs - 2 day 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,761 likes - 918 songs - 2 day 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -847,7 +847,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 837 | [Rennen \- Jim Eno Sessions](https://open.spotify.com/track/5T2dvac8Il9OiQtI9pBkv0) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Spotify Singles](https://open.spotify.com/album/0Scmfn6W4lYHyiRpp4F7lj) | 3:00 |
 | 838 | [Still Crazy After All These Years \- Jim Eno Sessions](https://open.spotify.com/track/3V7M9JRjxE3WyiFGvbKYxU) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Spotify Singles](https://open.spotify.com/album/0Scmfn6W4lYHyiRpp4F7lj) | 2:54 |
 | 839 | [Hot Thoughts \- Jim Eno Sessions](https://open.spotify.com/track/5CdH283hajBcB2V6RHIKul) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Spotify Singles](https://open.spotify.com/album/2woqdm6WgKLkmOpLiNrDV6) | 3:38 |
-| 840 | [I Ain't the One \- Jim Eno Sessions](https://open.spotify.com/track/4MFviNWj6ze0BR503yu2cz) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Spotify Singles](https://open.spotify.com/album/2woqdm6WgKLkmOpLiNrDV6) | 3:35 |
+| 840 | [I Saw the Light \- Jim Eno Sessions](https://open.spotify.com/track/4MFviNWj6ze0BR503yu2cz) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Spotify Singles](https://open.spotify.com/album/2woqdm6WgKLkmOpLiNrDV6) | 3:35 |
 | 841 | [2 Degrees East, 3 Degrees West \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4BLTV5HjYNOssBnJwAgVex) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/5P0zD6LI6QX5gxlcceUUNT) | 8:05 |
 | 842 | [Delaunay's Dilemma \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2T2dZS32UGZCKgZcnkFGb9) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/5P0zD6LI6QX5gxlcceUUNT) | 8:10 |
 | 843 | [Prisoner \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2YJ4lEaDUPrVtzuDRDiC5k) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Spotify Singles](https://open.spotify.com/album/02Dyq6IerdWB30FfDBbV8o) | 3:19 |
@@ -927,4 +927,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 917 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 918 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCwyNDdiODE5ODAxMDkwZTc3OTRhNjYyYTM2ZDNlM2MxYmQwNmYxNWEx`
+Snapshot ID: `MCwxZjZiZWFmYjE5NWRiM2Y1YzYxZTY4Y2QwNWZiYzFmMWQ3Njg1MGQw`

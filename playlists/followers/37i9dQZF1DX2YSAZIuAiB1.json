@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 660770,
+  "2024-01-15": 660348,
   "date_first_scraped": "2023-07-28",
   "description": "Good Vibes only mit Latin, Afrobeats, Hip-Hop und mehr \ud83d\udd25\ud83d\udd25\ud83d\udd25",
   "name": "swag",
@@ -2398,6 +2398,24 @@
     },
     {
       "album": {
+        "name": "NINETYNINE",
+        "url": "https://open.spotify.com/album/6j4H7Z52aDxJMjaog31UDE"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Noch einmal",
+      "url": "https://open.spotify.com/track/26ZTc7aKnYHgNpaAXVueMb"
+    },
+    {
+      "album": {
         "name": "Noch einmal",
         "url": "https://open.spotify.com/album/6aZQMijJZ50b7rxUNINjd6"
       },
@@ -2409,7 +2427,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 146526,
       "name": "Noch einmal",
       "url": "https://open.spotify.com/track/2DynufiRAu0Nyn5TM1Cdpx"

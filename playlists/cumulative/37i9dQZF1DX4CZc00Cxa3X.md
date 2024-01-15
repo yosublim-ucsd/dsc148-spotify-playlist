@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-377 songs - 1 day 7 hr 15 min
+378 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Intorno allo schermo](https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Fermarsi](https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf) | 20:54 | 2022-03-17 | 2023-02-18 |
 | [Iris \- Single Version](https://open.spotify.com/track/0soNRvT5MhKnVGkwyDCqZ8) | [Billow Observatory](https://open.spotify.com/artist/2LylAbvBw2df3S9oO62du5) | [Iris](https://open.spotify.com/album/3UHUdqGQmAZR88r3FqeWRs) | 3:50 | 2022-09-20 |  |
 | [It's All You](https://open.spotify.com/track/1vt2whkHsfAVtoitCPeJcp) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Intentions](https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV) | 7:05 | 2023-05-19 | 2023-06-06 |
+| [june](https://open.spotify.com/track/5mMuvuQLsF4rbC6OmW3Tbc) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [2023](https://open.spotify.com/album/6QQEN5mwHoeypL9soPByPj) | 5:37 | 2023-11-17 |  |
 | [Kalimba \(Glimpse\)](https://open.spotify.com/track/6B7IuCCr59wErn3mVk7cqp) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Kalimba](https://open.spotify.com/album/4ynLLx1nn1Jyd9WT4teDm7) | 4:01 | 2023-05-19 | 2023-06-06 |
 | [Kamikakushi \(神隠し\)](https://open.spotify.com/track/4HdsV5kyQhBMuTofIWGEaM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 5:02 | 2023-06-30 | 2023-07-14 |
 | [Kimblings](https://open.spotify.com/track/47WMfVpvVRFSLWjcUIsNGn) | [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Siblings](https://open.spotify.com/album/32RHKmWjRz1njeEcZSRyCK) | 6:11 | 2023-08-18 | 2023-09-01 |
@@ -321,7 +322,7 @@
 | [Sweet Earth Flying \- Pt\. 1](https://open.spotify.com/track/7mEeRIIpi1xLkj0gYnOmKu) | [Marion Brown](https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS) | [Sweet Earth Flying](https://open.spotify.com/album/280Zp1w8nQhWtXuvaiDnLr) | 3:40 | 2023-09-22 | 2023-10-07 |
 | [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 | 2024-01-05 |
 | [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 |  |
-| [Take it Easy \- Single Version](https://open.spotify.com/track/5oaP0XHFuiaR1f2i9J6Ebq) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Take It Easy](https://open.spotify.com/album/7sOj3wUCWlPlOstZqNK5qL) | 3:46 | 2023-11-17 |  |
+| [Take it Easy \- Single Version](https://open.spotify.com/track/5oaP0XHFuiaR1f2i9J6Ebq) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Take It Easy](https://open.spotify.com/album/7sOj3wUCWlPlOstZqNK5qL) | 3:46 | 2023-11-17 | 2024-01-15 |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-03-18 |
 | [Tape Loop \#7](https://open.spotify.com/track/5xmrerXtEqiIoxp3yOOMHY) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Hum](https://open.spotify.com/album/5tyCImNcNj877Flhbt9HgF) | 4:40 | 2023-06-09 |  |

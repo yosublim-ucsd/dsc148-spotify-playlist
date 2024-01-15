@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 7473,
+  "2024-01-15": 7496,
   "date_first_scraped": "2023-04-03",
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
   "name": "This Is Mercy Chinwo",
@@ -21,6 +21,28 @@
       "duration_ms": 362109,
       "name": "Akamdinelu",
       "url": "https://open.spotify.com/track/6QBCA9NbqdPwTi2IqjGnuY"
+    },
+    {
+      "album": {
+        "name": "Amaram Onyewem (Live)",
+        "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/3DHCxITonYPI1gNzdewEfI"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642124,
+      "name": "Amaram Onyewem - Live",
+      "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
       "album": {

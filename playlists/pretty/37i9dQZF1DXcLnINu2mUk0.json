@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 42427,
+  "num_followers": 42437,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWRhNmU5YzE2NzRkNjE3OWExYWVlZjRjNmRiZmI2NTg5NjhlY2Iz",
+  "snapshot_id": "MCw2MTI1NDU1YzM3NDQxY2E3NGQwNzZmYjVhNTFiODAxMGQxNDczMTc5",
   "tracks": [
     {
       "added_at": "2024-01-12 15:08:50",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-01-12 15:08:50",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 208068,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
+    },
+    {
+      "added_at": "2024-01-12 15:08:50",
+      "album": {
         "name": "ORDEM & PROGRESSO",
         "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 209150,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
-    },
-    {
-      "added_at": "2024-01-12 15:08:50",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 208068,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
     },
     {
       "added_at": "2024-01-12 15:08:50",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-01-12 15:08:50",
       "album": {
+        "name": "Corre",
+        "url": "https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9mio Bo\u00e9mio",
+          "url": "https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx"
+        },
+        {
+          "name": "R7ALNESS",
+          "url": "https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Corre",
+      "url": "https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y"
+    },
+    {
+      "added_at": "2024-01-12 15:08:50",
+      "album": {
         "name": "Sem Ti",
         "url": "https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 161632,
       "name": "Paz",
       "url": "https://open.spotify.com/track/0gPI6cDpys6B8fTc05sE6v"
-    },
-    {
-      "added_at": "2024-01-12 15:08:50",
-      "album": {
-        "name": "Corre",
-        "url": "https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9mio Bo\u00e9mio",
-          "url": "https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx"
-        },
-        {
-          "name": "R7ALNESS",
-          "url": "https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Corre",
-      "url": "https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y"
     },
     {
       "added_at": "2024-01-12 15:08:50",

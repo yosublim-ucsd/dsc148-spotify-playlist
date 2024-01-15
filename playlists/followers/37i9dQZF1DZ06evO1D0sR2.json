@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 2328,
+  "2024-01-15": 2329,
   "date_first_scraped": "2023-04-03",
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
   "name": "This Is JJ Hairston",
@@ -381,6 +381,28 @@
       "duration_ms": 356360,
       "name": "Everything For Me - Live",
       "url": "https://open.spotify.com/track/5XlXz9LNA5ka6EVrqqILCz"
+    },
+    {
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413533,
+      "name": "Everything Is Changed - Live",
+      "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
     },
     {
       "album": {
@@ -855,7 +877,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 647994,
       "name": "He Shall Reign Forevermore - Live",
       "url": "https://open.spotify.com/track/2DHiJ8ETKsHfSm4Pb6WHeH"
@@ -1919,7 +1941,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 643515,
       "name": "The Great I Am - Live",
       "url": "https://open.spotify.com/track/5a0bVnDUKrwU3uf6O617Xx"
@@ -1963,7 +1985,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 502678,
       "name": "The Newborn King - Live",
       "url": "https://open.spotify.com/track/68480PLDDMeu3MYkQiU2FM"
@@ -2117,7 +2139,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 293466,
       "name": "You Are Holy - Live",
       "url": "https://open.spotify.com/track/3x4q0Fp06viknMsJXhoW0p"

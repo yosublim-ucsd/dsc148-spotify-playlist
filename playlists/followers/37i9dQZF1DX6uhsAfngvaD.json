@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 300945,
+  "2024-01-15": 300970,
   "date_first_scraped": "2019-11-19",
   "description": "Blissful indie for dreamers.",
   "name": "Dreampop",
@@ -2379,7 +2379,7 @@
       ],
       "date_added": "2019-11-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 179632,
       "name": "Hang On",
       "url": "https://open.spotify.com/track/2DSxutganHw57vSdvmgjZt"
@@ -3765,7 +3765,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"

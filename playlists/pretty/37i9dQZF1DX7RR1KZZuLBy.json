@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 39417,
+  "num_followers": 39483,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDZkYzZhYWI3ZGM4OWY1MWNlNmU3MDE3MjlmNzgyYzgwZDhjNDBi",
+  "snapshot_id": "MCxkYmJiZDRlNDA5N2M5MjBiNDlhZWYxNjMyMTU0NGViZDA4ZjNmMjEy",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -691,22 +691,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Nothing Else (Live)",
-        "url": "https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP"
+        "name": "Good Plans / Doxology",
+        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
         }
       ],
-      "duration_ms": 526768,
-      "name": "Nothing Else - Live",
-      "url": "https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF"
+      "duration_ms": 495246,
+      "name": "Good Plans / Doxology",
+      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Good Plans / Doxology",
-        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
+        "name": "Nothing Else (Live)",
+        "url": "https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP"
       },
       "artists": [
         {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
         }
       ],
-      "duration_ms": 495246,
-      "name": "Good Plans / Doxology",
-      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
+      "duration_ms": 526768,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF"
     },
     {
       "added_at": "2023-12-01 00:01:00",

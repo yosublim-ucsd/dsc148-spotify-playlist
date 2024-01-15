@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,451 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,456 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 5 | [Backfade](https://open.spotify.com/track/2YhAHYPw2b064A4Bd4Lu7x) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [Paisley Dreams](https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS) | 2:28 |
 | 6 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
 | 7 | [Beep Beep \(feat\. 50 Cent\)](https://open.spotify.com/track/6Hn4RAq9DerZedTzgyCgvC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Beep Beep](https://open.spotify.com/album/5R6AzRUZMA5j38lpgrQ388) | 2:27 |
-| 8 | [Let The Boy Die](https://open.spotify.com/track/12vdBeUeEiJmLvMMDHMDSp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [Merkules](https://open.spotify.com/artist/5ZJoRfn7aeOp89PGBAJFFO) | [Let The Boy Die](https://open.spotify.com/album/3jsJ6zeCyMjknyNLr4k14Y) | 3:36 |
+| 8 | [Let The Boy Die](https://open.spotify.com/track/12vdBeUeEiJmLvMMDHMDSp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Let The Boy Die](https://open.spotify.com/album/3jsJ6zeCyMjknyNLr4k14Y) | 3:36 |
 | 9 | [Potential \- Lolo Zouaï Remix](https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Potential \(Lolo Zouaï Remix\)](https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM) | 2:03 |
 | 10 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 |
 | 11 | [When She Call](https://open.spotify.com/track/5uaZADbCHTW37SckE0cvMj) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [When She Call \(CLEAN\)](https://open.spotify.com/album/0OdHtCJ72HcOiOp7FLVpMf) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [CITÉS DE FRANCE](https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CITÉS DE FRANCE](https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX) | 3:35 |
 | 50 | [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 |
 
-Snapshot ID: `MCw0MzYwYmVlYWNmNzk0MTVjNmRiMWE2ZDIzZmExMjk4YzUyYzRjZmI1`
+Snapshot ID: `MCxlYTNkZTY0M2U4NTk4ZmEyOTFmMTIxMzJkMGZlOWMzMWYyMmZlNjQx`

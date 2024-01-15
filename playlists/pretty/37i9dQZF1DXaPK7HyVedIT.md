@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Bhaskar, Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,844 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,397 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [Turn It On](https://open.spotify.com/track/6Euen4Ocjf0nMlXroL5YYO) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Turn It On](https://open.spotify.com/album/7ncH0Ng2E0oZrAt2T7krmi) | 3:21 |
 | 75 | [When I See It \(feat\. The Vic\)](https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [When I See It \(feat\. The Vic\)](https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1) | 3:15 |
 
-Snapshot ID: `MCw5YWFmZjIxODI3MjkzMjkzNjE4NWE0ZTY4YjlhOWYxM2Y1NGNkZTZm`
+Snapshot ID: `MCw2ODJjNmJkN2Q0ZmEyMmU4ODAyMDA0N2Q5MmIyMzNlMzE0ZTY4ZDQy`

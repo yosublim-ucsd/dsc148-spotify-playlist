@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 9778,
+  "2024-01-15": 9789,
   "date_first_scraped": "2021-12-29",
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
   "name": "This Is Sarkodie",
@@ -3079,6 +3079,32 @@
       "duration_ms": 240000,
       "name": "Unfortunately",
       "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
+    },
+    {
+      "album": {
+        "name": "Vawulence (Remix)",
+        "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Vawulence (Remix)",
+      "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
     },
     {
       "album": {

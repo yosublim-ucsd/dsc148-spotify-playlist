@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 144681,
+  "num_followers": 144733,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDViZGQwMmU4MDc3ZjM1OWY2MzU2MzY0MGNmYzY0NWUyZjI0NDQ5",
+  "snapshot_id": "MCwwOTU2NzkwMTU3NjBmNTNhODM4NjgyYzVkNDU1YjVlY2U2ZWIwYTIx",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Tiempo y la Ciudad",
-        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Todav\u00eda Te Alcanzo a Ver",
-      "url": "https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 277800,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Tiempo y la Ciudad",
+        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Todav\u00eda Te Alcanzo a Ver",
+      "url": "https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD"
     },
     {
       "added_at": "2023-09-01 16:42:45",

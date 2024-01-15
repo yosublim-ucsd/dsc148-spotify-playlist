@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,088 songs - 1 day 0 hr 0 min
+1,089 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Beyond Us](https://open.spotify.com/track/06I30n8FBcNJk3vtsdYFDT) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Promises](https://open.spotify.com/album/2j0DTCwnzCxsmqTlswfICq) | 1:04 | 2022-02-26 |  |
 | [Bittersweet Night](https://open.spotify.com/track/4eZPnO73GWdY8NJuJvmOTG) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Bittersweet Night](https://open.spotify.com/album/3NdDNZs4Sd4DbxLsVC1cjh) | 1:01 | 2023-04-19 |  |
 | [Bittersweet Night Arr\. For Cello And Felt Piano](https://open.spotify.com/track/621loBrjZetVrbBTgD1Fq5) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Evening Cello Preludes](https://open.spotify.com/album/3wgd7Qtc89NsHPujTsMrAH) | 1:02 | 2023-04-19 |  |
+| [Bleak \- Piano Version](https://open.spotify.com/track/6dMAIkbN2j6e105RE5S8sA) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Bleak](https://open.spotify.com/album/4T1yaM0ZEeMlm7ZVpAjXxy) | 1:00 | 2024-01-14 |  |
 | [Bleu](https://open.spotify.com/track/3w2SInXD8TAmopdyNjVFpl) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Bleu](https://open.spotify.com/album/2UAEtwuyhg2gdJD8bK35Ur) | 1:01 | 2023-04-26 |  |
 | [Bleu Arr\. For Strings](https://open.spotify.com/track/58WlzTJMPLzmU1rqinlPaw) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bleu Arr\. For Strings](https://open.spotify.com/album/5W2ifROoiSbnbAcu0L4314) | 1:02 | 2023-04-26 |  |
 | [Bloom](https://open.spotify.com/track/5rCYD3uYThZH956ZKmi1AM) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:44 | 2022-01-20 |  |

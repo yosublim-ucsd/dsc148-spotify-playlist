@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,028 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,018 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 32 | [Around Thirty \(with Bob James\)](https://open.spotify.com/track/7G2j4OOUTIYJiYWevBskAS) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [KIM KWANG SEOK, AGAIN](https://open.spotify.com/album/3QBvfyxgNkrLZdAbrcznb2) | 4:42 |
 | 33 | [There is No one Like you](https://open.spotify.com/track/4IVamb5uivBasUfXsDSmDD) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 3:39 |
 | 34 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 |
-| 35 | [편지할게요](https://open.spotify.com/track/43YpsYj6YW2kDPF06CsGZR) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 \(Part.2\)](https://open.spotify.com/album/1Qjjlnra3hF2xAKGmuJ2zQ) | 4:46 |
+| 35 | [편지할게요](https://open.spotify.com/track/0jHRtgWauzb1mkANquNQ5T) | [Lena Park](https://open.spotify.com/artist/0haibpa9N2huTbnUiziBeF) | [사랑해 Pt 2](https://open.spotify.com/album/5MBUlTj7xtUnmXgNxl0Cp5) | 4:46 |
 | 36 | [Doll's Dream](https://open.spotify.com/track/2M3hBZOOShvYbRG4Fi9kGi) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Dramatic & Cinematic](https://open.spotify.com/album/6CN0xylhSXvdAudTU3ihQo) | 4:40 |
 | 37 | [P.S\. I Love You](https://open.spotify.com/track/3pdjuJyzeaF4Wa7ey20Kp0) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/3xwclNQx4vY9Axr6x3Giib) | 3:56 |
 | 38 | [내사랑 내곁에 \(김현식\)](https://open.spotify.com/track/0CmzoZPuhlCZGPpNDToL3R) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [<나는 가수다> \`호주 특별 공연\`](https://open.spotify.com/album/4rhIkswyzmgVP2lXxB3G85) | 4:38 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw0YzNkYWM4NzYxODU2NDE1MzUxNWRmMDhmN2I4ODExZmQwNzQzMTM0`
+Snapshot ID: `MCw2NjE2YTY4ODk3MmQyMjMzNWZlYjliNWRkZTZlZWQ1Mjg1MTZjNzdm`

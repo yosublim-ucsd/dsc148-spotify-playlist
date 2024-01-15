@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 156277,
+  "num_followers": 156301,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODNjMTk4NmJiZjcxMWFiMmRkNTUxMGZhZjZhNmE1NDI1Mzk1ZDEw",
+  "snapshot_id": "MCw1YzFhYWNmY2NjYmE5ODVmYjhkNTQ1ZDJiYWVjODg2MjA0OTcxYWQy",
   "tracks": [
     {
       "added_at": "2024-01-12 15:52:21",
@@ -451,30 +451,22 @@
     {
       "added_at": "2024-01-12 15:52:21",
       "album": {
-        "name": "Vida Cara (Deluxe)",
-        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 237419,
-      "name": "Meu Passado",
-      "url": "https://open.spotify.com/track/19rYsBUNClYidByVMkY3H1"
+      "duration_ms": 136901,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
     },
     {
       "added_at": "2024-01-12 15:52:21",
@@ -503,22 +495,30 @@
     {
       "added_at": "2024-01-12 15:52:21",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
+        "name": "Vida Cara (Deluxe)",
+        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
       "artists": [
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 136901,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
+      "duration_ms": 237419,
+      "name": "Meu Passado",
+      "url": "https://open.spotify.com/track/19rYsBUNClYidByVMkY3H1"
     },
     {
       "added_at": "2024-01-12 15:52:21",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-01-12 15:52:21",
       "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2024-01-12 15:52:21",
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 139000,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
-    },
-    {
-      "added_at": "2024-01-12 15:52:21",
-      "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2024-01-12 15:52:21",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-01-12 15:52:21",
       "album": {
-        "name": "Puro Suco Stronda",
-        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
-      },
-      "artists": [
-        {
-          "name": "Diego Thug",
-          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
-        },
-        {
-          "name": "YoungAlxn",
-          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "Puro Suco Stronda",
-      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
-    },
-    {
-      "added_at": "2024-01-12 15:52:21",
-      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
+    },
+    {
+      "added_at": "2024-01-12 15:52:21",
+      "album": {
+        "name": "Puro Suco Stronda",
+        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
+      },
+      "artists": [
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
+        },
+        {
+          "name": "YoungAlxn",
+          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "Puro Suco Stronda",
+      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
     },
     {
       "added_at": "2024-01-12 15:52:21",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-01-12 15:52:21",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2024-01-12 15:52:21",
-      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
+    },
+    {
+      "added_at": "2024-01-12 15:52:21",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2024-01-12 15:52:21",

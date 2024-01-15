@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,746 likes - 58 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,776 likes - 58 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 57 | [Luzes Da Cidade](https://open.spotify.com/track/7hnHG26vfADlCueiMTxlYd) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Luzes Da Cidade](https://open.spotify.com/album/1x1tQEpdKVhYv3r4EOcIU5) | 1:40 |
 | 58 | [Sempre Fumando](https://open.spotify.com/track/2C3oUgLzA1pIIMdhoDvPKx) | [SJCGANG](https://open.spotify.com/artist/1QiydI5RXDKHunVl9bA0di), [Viktor Vercetti](https://open.spotify.com/artist/3lFYHzDhY76FQXlTD9q2Wv), [Young Bard](https://open.spotify.com/artist/4TmYqVjCRpQPUj2Iv4Tosx) | [Sempre Fumando](https://open.spotify.com/album/7KuOhwLTELoBXFB59PXvXZ) | 2:21 |
 
-Snapshot ID: `MCxmMDUzMTBhMTkwOTc3MzY1NWQzYjYyZGJhYjk5ZjBmODc3NmJjNDNm`
+Snapshot ID: `MCxiYTNkNTFkMzZjZWQ2NGYyYzY1N2UyNTViODFiNjc5ZDRjODQ2ZWZh`

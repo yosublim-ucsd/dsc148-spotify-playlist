@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 73364,
+  "num_followers": 73386,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDlmM2NkN2QwYTRmOTRlZTU4NTM0ZDcyMGQyYWIxOWFmOWQ2MGEw",
+  "snapshot_id": "MCw5NDNkZDZlMmI1NjJjZDgyMmM5YWQ2YTg2Y2RjY2ViNWNiMTgwNjcw",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Lesser Man EP",
+        "url": "https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 439490,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "PFW (Paris Fashion Week)",
         "url": "https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Lesser Man EP",
-        "url": "https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3"
-      },
-      "artists": [
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 439490,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "One More",
-        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 202537,
-      "name": "One More",
-      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 202537,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Romance Noire",
-        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
-      },
-      "artists": [
-        {
-          "name": "Double Mixte",
-          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
-        }
-      ],
-      "duration_ms": 312466,
-      "name": "Romance Noire",
-      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Incapable",
         "url": "https://open.spotify.com/album/0OZEb4C5dYqk6ZceFEgi5S"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 210526,
       "name": "Incapable (Edit)",
       "url": "https://open.spotify.com/track/6rOEkBFDI1NL7lZHBTnpGk"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Romance Noire",
+        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
+      },
+      "artists": [
+        {
+          "name": "Double Mixte",
+          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
+        }
+      ],
+      "duration_ms": 312466,
+      "name": "Romance Noire",
+      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Sol De Mi Vida",
-        "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
-      },
-      "artists": [
-        {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Sol De Mi Vida",
+        "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
     },
     {
       "added_at": "2024-01-12 05:01:00",

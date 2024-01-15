@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 71674,
+  "2024-01-15": 71693,
   "date_first_scraped": "2022-09-17",
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
   "name": "This Is Elliott Smith",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 157360,
       "name": "Angel In The Snow",
       "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
@@ -1807,6 +1807,24 @@
       "duration_ms": 195893,
       "name": "Sweet Adeline",
       "url": "https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Talking To Mary",
+      "url": "https://open.spotify.com/track/2Z2k9x8eR2cgSTePICcn7P"
     },
     {
       "album": {

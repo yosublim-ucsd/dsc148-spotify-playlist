@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-413 songs - 1 day 0 hr 55 min
+414 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Hrs & Hrs \(feat\. Usher\) \- Remix](https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hrs & Hrs \(Remix\)](https://open.spotify.com/album/29VQRaMV0FqhEsAPWQe95C) | 3:28 | 2023-06-23 | 2023-08-26 |
 | [Hurt A Little](https://open.spotify.com/track/34ICFY39nLDN42fbDCRJ1g) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Hurt A Little](https://open.spotify.com/album/41ycEl7mRF6vZJIbAZRuBz) | 3:57 | 2022-09-23 | 2022-10-04 |
 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 | 2023-06-16 | 2024-01-11 |
-| [I Don't Like People](https://open.spotify.com/track/5IeqOmOd9DJsYS1hLm66iT) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:16 | 2023-10-27 |  |
+| [I Don't Like People](https://open.spotify.com/track/5IeqOmOd9DJsYS1hLm66iT) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:16 | 2023-10-27 | 2024-01-15 |
 | [I Hope](https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [I Hope](https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9) | 2:33 | 2023-04-07 |  |
 | [I Keep Callin' You](https://open.spotify.com/track/0Y9j7ZHf5O6nL145orSXLg) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Gasms](https://open.spotify.com/album/14xK4FTz2jDiWE8vL1rZaK) | 4:03 | 2023-04-28 | 2023-05-13 |
 | [I Like Trouble](https://open.spotify.com/track/2G1PImEpUqv0RjRWPbDW4K) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:10 | 2022-10-03 |  |
@@ -203,6 +203,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 |  |
 | [King](https://open.spotify.com/track/1fExFCGaE1Y5qNhPK7aTUy) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:04 | 2023-05-26 | 2023-09-20 |
 | [Kiss The Sky](https://open.spotify.com/track/5kRwRpU0ah48DmRfxARPHt) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Kiss The Sky](https://open.spotify.com/album/5VHPseQHlNgqVA8L0tjYj1) | 5:48 | 2023-09-29 | 2023-12-25 |
+| [Kiss The Sky](https://open.spotify.com/track/720VE8ztYhPhFVL7RFw6r3) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Kiss The Sky](https://open.spotify.com/album/3LhUzfscRrBlUlOKw7gMSd) | 5:48 | 2023-09-29 |  |
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2022-03-11 | 2023-02-25 |
 | [Landing Soft](https://open.spotify.com/track/3s3xMjzpkacG8DT07L7EdT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Landing Soft](https://open.spotify.com/album/2sloXrWOoeQEYvqyj2YiVo) | 3:38 | 2023-06-02 |  |
 | [Last Request](https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [The Anthology](https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD) | 5:35 | 2021-12-03 | 2022-07-29 |

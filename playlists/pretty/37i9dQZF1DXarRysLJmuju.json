@@ -1,12 +1,12 @@
 {
   "description": "The latest pop hits in one playlist. Cover: Ariana Grande",
-  "num_followers": 504357,
+  "num_followers": 504151,
   "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdmOTBjOWIwOGQ1NGNlNjllZTgzYmFhNWZmN2ZhYjJkMTkwZjE0",
+  "snapshot_id": "MCwwOWFkMzM5MmQ3OTAzZmIzYmVlNDFhNmRiZTJiZmUyMDkwNGY0ZTJl",
   "tracks": [
     {
       "added_at": "2024-01-13 23:00:00",
@@ -251,8 +251,8 @@
     {
       "added_at": "2024-01-13 23:00:00",
       "album": {
-        "name": "Not My Fault (with Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
       "artists": [
         {
@@ -266,7 +266,7 @@
       ],
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
     },
     {
       "added_at": "2024-01-13 23:00:00",
@@ -1267,7 +1267,7 @@
     {
       "added_at": "2024-01-13 23:00:00",
       "album": {
-        "name": "28 (with Dean Lewis)",
+        "name": "28",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
       "artists": [
@@ -1281,7 +1281,7 @@
         }
       ],
       "duration_ms": 208293,
-      "name": "28 - with Dean Lewis",
+      "name": "28",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
     },
     {

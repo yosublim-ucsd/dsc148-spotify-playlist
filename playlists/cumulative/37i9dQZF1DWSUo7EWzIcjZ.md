@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-388 songs - 1 day 4 hr 34 min
+389 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Donde Vayas](https://open.spotify.com/track/2p74Vv7mdDKwtHjpg3E5OV) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5) | 4:27 | 2021-02-02 | 2022-10-15 |
 | [A Donde Vayas](https://open.spotify.com/track/3MYeMhq8WOlIwv2PlFQJeQ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7bsw0uld3wQioChBQcnED8) | 4:27 | 2021-02-02 | 2022-07-29 |
 | [A Donde Vayas](https://open.spotify.com/track/64UoPaVdLy0lOc2bJOMVrt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [El Jardín Prohibido](https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM) | 4:33 | 2021-02-02 | 2022-07-29 |
+| [A Donde Vayas](https://open.spotify.com/track/3JXzauo7MlrtGocUdOTtdw) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3AH0wI0DQ5b1JSd8eTuvdf) | 4:33 | 2021-02-02 |  |
 | [A Mover la Colita](https://open.spotify.com/track/7BIrBjymiQDaR3VfGWj8WX) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Latino! Greatest Hits \- 56 Latin Top Hits \(Original Versions!\)](https://open.spotify.com/album/5YUPCo3qXbGL51X3XJ3TA5) | 3:40 | 2021-02-02 | 2022-07-29 |
 | [A Mover la Colita](https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Baile](https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC) | 3:43 | 2021-02-02 |  |
 | [A Tatico Henriquez](https://open.spotify.com/track/5xASxsxQSjYYwO2arka7m0) | [Los Hijos Del Rey](https://open.spotify.com/artist/5CtQgJ02UuGKfEaR3VTH1A), [Fernandito Villalona](https://open.spotify.com/artist/5kKgKEQafTAeimgduQb6N3) | [Los Hijos del Rey Con Fernandito Villalona](https://open.spotify.com/album/5gbSTRxf1XcETgS2r1QqZe) | 4:03 | 2021-02-02 |  |
@@ -24,7 +25,7 @@
 | [Adolescente](https://open.spotify.com/track/5KqK2s5ZYMLFFNXjJSNgCc) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 4:24 | 2021-02-02 | 2022-07-29 |
 | [Adolescente](https://open.spotify.com/track/1s4eRI1ddd1NXpot7gWASU) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB) | 4:26 | 2021-02-02 | 2022-11-13 |
 | [Adolescente](https://open.spotify.com/track/7sqzTpiF6JbDIYTMW2enlp) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/6xSWCwybltm1cIL74pE5xg) | 4:26 | 2021-02-02 | 2022-10-16 |
-| [Adolescente Tu](https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:54 | 2021-02-02 | 2024-01-14 |
+| [Adolescente Tu](https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:54 | 2021-02-02 |  |
 | [Alegria](https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 5:22 | 2021-02-02 | 2024-01-12 |
 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 | 2021-02-02 | 2022-12-02 |
 | [Alza Tu Copa](https://open.spotify.com/track/5hsgrR7IYwLx2hnIFebvMg) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Escucha Escucha](https://open.spotify.com/album/4ipHsO9OrrWES7Y7H30h54) | 3:41 | 2021-02-02 | 2023-03-07 |
@@ -69,7 +70,7 @@
 | [Cometa Blanca](https://open.spotify.com/track/2oZ1qKVTkE7oGgkWXiYmFy) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc) | 4:11 | 2021-02-02 |  |
 | [Cometa Blanca](https://open.spotify.com/track/6pRGEhJG6X2rn1CDKvMAs3) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3GZNzx7s4rnSySH0QEQsDL) | 4:11 | 2021-02-02 | 2022-07-28 |
 | [Como Duele \- En Vivo](https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:33 | 2021-02-02 |  |
-| [Como Te Extraño Mi Amor](https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:37 | 2021-02-02 |  |
+| [Como Te Extraño Mi Amor](https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:37 | 2021-02-02 | 2024-01-15 |
 | [Como Tu](https://open.spotify.com/track/7c2amBoetVl3MdPuVbnIZO) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:04 | 2021-02-02 |  |
 | [Como una Loba](https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF) | 4:22 | 2021-02-02 | 2022-07-29 |
 | [Con las Manos en la Masa](https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 4:02 | 2021-02-02 |  |
@@ -262,7 +263,7 @@
 | [Noche de Fantasia](https://open.spotify.com/track/7i9CXLMIX9jY4InTyEhYnL) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [El Jardín Prohibido](https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM) | 4:16 | 2021-02-02 | 2022-07-27 |
 | [Noche Eterna](https://open.spotify.com/track/0Qyeb26NIFE2fHrX1uNewL) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Ring...Ring](https://open.spotify.com/album/3H00vhCcHbxZBk2QzGagQP) | 4:36 | 2021-02-02 | 2022-07-26 |
 | [Noches de Fantasía](https://open.spotify.com/track/2f2k0KjxqB9p1e6scnkRh9) | [Merengue Latin Band](https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo) | [Merengue Passion](https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67) | 4:30 | 2021-02-02 |  |
-| [Nuestro Amor](https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5) | 3:40 | 2021-02-02 |  |
+| [Nuestro Amor](https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5) | 3:40 | 2021-02-02 | 2024-01-15 |
 | [Nuestro Amor](https://open.spotify.com/track/7lmKSua5syiFalXCYLFhlW) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [30 Merengues Clasicos Pal' Pueblo](https://open.spotify.com/album/6NPXa6NKhHQRw4bMbBaqwQ) | 3:40 | 2021-02-02 | 2022-10-20 |
 | [Oleila](https://open.spotify.com/track/3eu1JElgPCJsbTnqJtCekj) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Los Duenos del Swing](https://open.spotify.com/album/5nZhu1g5Cr0ZLcOVsDUxMM) | 4:07 | 2021-02-02 | 2022-07-27 |
 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 | 2021-02-02 |  |

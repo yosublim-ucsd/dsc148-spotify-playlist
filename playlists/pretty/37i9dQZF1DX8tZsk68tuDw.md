@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Disco Lines, Anabel Englund & J\. Worra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,996,741 likes - 77 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,994,498 likes - 77 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 76 | [Tigh Pop](https://open.spotify.com/track/54oQyfr7as59L7u4yvHS3H) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Tigh Pop](https://open.spotify.com/album/3yQOXiQZJVFSyovlXUhulQ) | 4:13 |
 | 77 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 |
 
-Snapshot ID: `MCxiODFhYTZiZjY3ZDA3ZGE1MDkxYWY2MWRmZjA5MDhiZmE5N2I4ZDhj`
+Snapshot ID: `MCw4YTlmNGJiNTc4ODdiZjQ0NmZiNzgxNThmOGM4ZDMyOGEyMmFiYjZi`

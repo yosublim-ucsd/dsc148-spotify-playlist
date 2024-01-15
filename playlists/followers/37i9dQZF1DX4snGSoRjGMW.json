@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 26053,
+  "2024-01-15": 26107,
   "date_first_scraped": "2022-05-26",
   "description": "Soul meets blues. Cover: Joe Louis Walker",
   "name": "Soul Blues",
@@ -101,7 +101,7 @@
     {
       "album": {
         "name": "Betcha Didn't Know",
-        "url": "https://open.spotify.com/album/3m8b3Hgnjzn9r19PmXenfI"
+        "url": "https://open.spotify.com/album/0GahKnjx2DsUw3ZN2mdinA"
       },
       "artists": [
         {
@@ -112,6 +112,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257372,
+      "name": "Betcha Didn't Know",
+      "url": "https://open.spotify.com/track/0lQ5vJJhJWjxpvoilbq137"
+    },
+    {
+      "album": {
+        "name": "Betcha Didn't Know",
+        "url": "https://open.spotify.com/album/3m8b3Hgnjzn9r19PmXenfI"
+      },
+      "artists": [
+        {
+          "name": "Mighty Sam McClain",
+          "url": "https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
       "duration_ms": 257372,
       "name": "Betcha Didn't Know",
       "url": "https://open.spotify.com/track/2sXl847DWvw9guoTrHpdSL"

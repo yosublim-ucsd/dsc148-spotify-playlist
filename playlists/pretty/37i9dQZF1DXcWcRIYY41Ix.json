@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 120320,
+  "num_followers": 120336,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDJhMTA1YTUwNzg1Mjg2Y2JlZmNhMTMxMjBmODFlMDZkOTk4ZDc1",
+  "snapshot_id": "MCw0YzljMWQ2ZTRiY2E1M2NjZTcyNmJlOGRiODdhODA5NTBiMTY3MmM2",
   "tracks": [
     {
       "added_at": "2024-01-12 10:54:53",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
+        "name": "El Perro Feroz",
+        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Diente de Le\u00f3n",
+      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
+    },
+    {
+      "added_at": "2024-01-12 10:54:53",
+      "album": {
         "name": "Todo Lo Que No Est\u00e1",
         "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
       },
@@ -739,34 +755,18 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "El Perro Feroz",
-        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
+        "name": "Que Entren En Mi Cabeza",
+        "url": "https://open.spotify.com/album/6GDCV6UWVgWDyiaw8QVQPz"
       },
       "artists": [
         {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
         }
       ],
-      "duration_ms": 140928,
-      "name": "Diente de Le\u00f3n",
-      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
-    },
-    {
-      "added_at": "2024-01-12 10:54:53",
-      "album": {
-        "name": "Vals de la Luna",
-        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Vals de la Luna",
-      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
+      "duration_ms": 157730,
+      "name": "10 km",
+      "url": "https://open.spotify.com/track/1yZrJPsWRXg5fqeEozTI6L"
     },
     {
       "added_at": "2024-01-12 10:54:53",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
+        "name": "Vals de la Luna",
+        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 190416,
+      "name": "Vals de la Luna",
+      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
+    },
+    {
+      "added_at": "2024-01-12 10:54:53",
+      "album": {
         "name": "Las Bestias Que Me Acompa\u00f1an",
         "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 222428,
       "name": "Las Bestias Que Me Acompa\u00f1an",
       "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
-    },
-    {
-      "added_at": "2024-01-12 10:54:53",
-      "album": {
-        "name": "Que Entren En Mi Cabeza",
-        "url": "https://open.spotify.com/album/6GDCV6UWVgWDyiaw8QVQPz"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
-        }
-      ],
-      "duration_ms": 157730,
-      "name": "10 km",
-      "url": "https://open.spotify.com/track/1yZrJPsWRXg5fqeEozTI6L"
     },
     {
       "added_at": "2024-01-12 10:54:53",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
+        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
+        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "El don de la ternura",
+      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+    },
+    {
+      "added_at": "2024-01-12 10:54:53",
+      "album": {
         "name": "RamaRa",
         "url": "https://open.spotify.com/album/30QF5M3lnBZcSPcRJiIaTw"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
-        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
-      },
-      "artists": [
-        {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
-        }
-      ],
-      "duration_ms": 297773,
-      "name": "El don de la ternura",
-      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
-    },
-    {
-      "added_at": "2024-01-12 10:54:53",
-      "album": {
         "name": "Si llega el fin",
         "url": "https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 138074,
       "name": "Si llega el fin",
       "url": "https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u"
+    },
+    {
+      "added_at": "2024-01-12 10:54:53",
+      "album": {
+        "name": "fr\u00edo al verte",
+        "url": "https://open.spotify.com/album/5hAepKuo5WYkn0ut6z2Jky"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 174234,
+      "name": "fr\u00edo al verte",
+      "url": "https://open.spotify.com/track/0a9eIP2YPBqL7vNaoy9RQx"
     },
     {
       "added_at": "2024-01-12 10:54:53",
@@ -1039,26 +1055,6 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
-    },
-    {
-      "added_at": "2024-01-12 10:54:53",
-      "album": {
         "name": "Los versos s\u00e1ficos",
         "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
       },
@@ -1079,34 +1075,38 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "tu recuerdo (verde oto\u00f1o)",
-        "url": "https://open.spotify.com/album/1Xd6GKEZU54VsBjlM6VrSx"
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
       "artists": [
         {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 155213,
-      "name": "tu recuerdo (verde oto\u00f1o)",
-      "url": "https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4"
+      "duration_ms": 185960,
+      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
     },
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "Si te vas",
-        "url": "https://open.spotify.com/album/6208RozH4lBLu94n6ih083"
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
       "artists": [
         {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
         }
       ],
-      "duration_ms": 183845,
-      "name": "Si te vas",
-      "url": "https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E"
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2024-01-12 10:54:53",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+        "name": "Si te vas",
+        "url": "https://open.spotify.com/album/6208RozH4lBLu94n6ih083"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
         }
       ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+      "duration_ms": 183845,
+      "name": "Si te vas",
+      "url": "https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E"
     },
     {
       "added_at": "2024-01-12 10:54:53",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "fr\u00edo al verte",
-        "url": "https://open.spotify.com/album/5hAepKuo5WYkn0ut6z2Jky"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 174234,
-      "name": "fr\u00edo al verte",
-      "url": "https://open.spotify.com/track/0a9eIP2YPBqL7vNaoy9RQx"
-    },
-    {
-      "added_at": "2024-01-12 10:54:53",
-      "album": {
         "name": "Rumba en Cahuita",
         "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 167752,
       "name": "Rumba en Cahuita",
       "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+    },
+    {
+      "added_at": "2024-01-12 10:54:53",
+      "album": {
+        "name": "tu recuerdo (verde oto\u00f1o)",
+        "url": "https://open.spotify.com/album/1Xd6GKEZU54VsBjlM6VrSx"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "tu recuerdo (verde oto\u00f1o)",
+      "url": "https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4"
     },
     {
       "added_at": "2024-01-12 10:54:53",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2024-01-12 10:54:53",
-      "album": {
         "name": "busco",
         "url": "https://open.spotify.com/album/52gCH61zIwOUaE4XzzXJTp"
       },
@@ -1363,6 +1347,38 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
+      "added_at": "2024-01-12 10:54:53",
+      "album": {
+        "name": "Como el Mar",
+        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 245593,
+      "name": "Fui y Volv\u00ed",
+      "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
+    },
+    {
+      "added_at": "2024-01-12 10:54:53",
+      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
-    },
-    {
-      "added_at": "2024-01-12 10:54:53",
-      "album": {
-        "name": "Como el Mar",
-        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 245593,
-      "name": "Fui y Volv\u00ed",
-      "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
     },
     {
       "added_at": "2024-01-12 10:54:53",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-12 10:54:53",
       "album": {
-        "name": "El Talante de la Noche",
-        "url": "https://open.spotify.com/album/7rX3h3nG1B4fvR0XVnwSCs"
-      },
-      "artists": [
-        {
-          "name": "Gato e' Monte",
-          "url": "https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf"
-        }
-      ],
-      "duration_ms": 148560,
-      "name": "Cumbia Fumanchera",
-      "url": "https://open.spotify.com/track/18u5XojrnJH8CpZC3SQ3ck"
-    },
-    {
-      "added_at": "2024-01-12 10:54:53",
-      "album": {
         "name": "Pilares",
         "url": "https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 195240,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/0i63K6PMAQOw60aJRPV7lm"
+    },
+    {
+      "added_at": "2024-01-12 10:54:53",
+      "album": {
+        "name": "El Talante de la Noche",
+        "url": "https://open.spotify.com/album/7rX3h3nG1B4fvR0XVnwSCs"
+      },
+      "artists": [
+        {
+          "name": "Gato e' Monte",
+          "url": "https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "Cumbia Fumanchera",
+      "url": "https://open.spotify.com/track/18u5XojrnJH8CpZC3SQ3ck"
     },
     {
       "added_at": "2024-01-12 10:54:53",

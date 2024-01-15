@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 70452,
+  "2024-01-15": 70565,
   "date_first_scraped": "2022-05-26",
   "description": "Cool down with these chill beats",
   "name": "lofi cool down",
@@ -795,7 +795,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 106946,
       "name": "calathea",
       "url": "https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H"
@@ -1289,6 +1289,24 @@
       "duration_ms": 165680,
       "name": "Doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK"
+    },
+    {
+      "album": {
+        "name": "Dream Train",
+        "url": "https://open.spotify.com/album/5qHCl97YrFtVlwDNoIYfwC"
+      },
+      "artists": [
+        {
+          "name": "Wine In Dusk",
+          "url": "https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134590,
+      "name": "Dream Train",
+      "url": "https://open.spotify.com/track/37HHr2vkEH7DTCDf6C8GPL"
     },
     {
       "album": {
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 191100,
       "name": "Level 2",
       "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 134545,
       "name": "memories",
       "url": "https://open.spotify.com/track/2g0Tf1lNH2EDt2Evci01Xj"

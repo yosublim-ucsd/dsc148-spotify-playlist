@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODI5MDY3MDgzMmZhZjc2YzBmYzM3ODc5MTZhMjUzNDQ2OTNhODJh",
+  "snapshot_id": "MCw1MTgwNmZhYTQ2OGE0NzU3ZDgzZDczMTBhMTU0NDYzYTNlOWM1YTA2",
   "tracks": [
     {
       "added_at": "2022-12-18 22:40:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Ala Baly",
-        "url": "https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55"
-      },
-      "artists": [
-        {
-          "name": "Aida el Ayoubi",
-          "url": "https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Asfour",
-      "url": "https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
         "name": "Laila Mourad",
         "url": "https://open.spotify.com/album/4kFNwqFKfPw3FGqBNcpbfc"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 383152,
       "name": "Esaal Alaya",
       "url": "https://open.spotify.com/track/3w6LdvrXM4a8C4cJrBa6M9"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "Ala Baly",
+        "url": "https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55"
+      },
+      "artists": [
+        {
+          "name": "Aida el Ayoubi",
+          "url": "https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Asfour",
+      "url": "https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "\u062c\u0627\u0646\u064a \u0627\u0644\u0623\u0633\u0645\u0631",
-        "url": "https://open.spotify.com/album/3WTNvD82pONOGB6bSVAsog"
-      },
-      "artists": [
-        {
-          "name": "\u0639\u062a\u0627\u0628",
-          "url": "https://open.spotify.com/artist/24YfDhja995MaMsPMasEl0"
-        }
-      ],
-      "duration_ms": 396520,
-      "name": "\u062c\u0627\u0646\u064a \u0627\u0644\u0623\u0633\u0645\u0631",
-      "url": "https://open.spotify.com/track/6N9hkmJ5dZAzFoxI8fOvk9"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
         "name": "Soad Hosny Collection",
         "url": "https://open.spotify.com/album/0PA2lsmWyFF5e2bqDt8Bvv"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 425743,
       "name": "Eldonya Rabea",
       "url": "https://open.spotify.com/track/4fP9TNvzYq9I49GDBEezDD"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "\u062c\u0627\u0646\u064a \u0627\u0644\u0623\u0633\u0645\u0631",
+        "url": "https://open.spotify.com/album/3WTNvD82pONOGB6bSVAsog"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u062a\u0627\u0628",
+          "url": "https://open.spotify.com/artist/24YfDhja995MaMsPMasEl0"
+        }
+      ],
+      "duration_ms": 396520,
+      "name": "\u062c\u0627\u0646\u064a \u0627\u0644\u0623\u0633\u0645\u0631",
+      "url": "https://open.spotify.com/track/6N9hkmJ5dZAzFoxI8fOvk9"
     },
     {
       "added_at": "2022-12-18 22:40:11",

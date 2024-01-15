@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Fit For A King
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,236 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,982 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 40 | [Espejo Roto](https://open.spotify.com/track/2wWXAhQG0EecIUHfFIl84j) | [Arde la Sangre](https://open.spotify.com/artist/0ygnmKrobIE3eHiDCQyTpm) | [Espejo Roto](https://open.spotify.com/album/3CRX1d8tLdlYU3EwKQ6El7) | 4:11 |
 | 41 | [Odyssey](https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K) | 4:04 |
 | 42 | [Reaper's Call](https://open.spotify.com/track/6eH4UloRqrnYpwHM5BxovY) | [Lutharo](https://open.spotify.com/artist/38RQwSDbSq8ztizimX2vYp) | [Reaper's Call](https://open.spotify.com/album/26X3u5RTlkGUfZV1bgj5v6) | 4:00 |
-| 43 | [Gekokujo](https://open.spotify.com/track/4P5FLFEXubO1ubrCsd6xWW) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [Gekokujo](https://open.spotify.com/album/6FPIlc5s7W17qNjFWobkcP) | 4:47 |
+| 43 | [Gekokujo](https://open.spotify.com/track/12SHQE0LutzIe4ltA8s7WP) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [RYUJIN](https://open.spotify.com/album/5wXQup3iFUfm69IUXeeZtC) | 4:47 |
 | 44 | [dance baby dance](https://open.spotify.com/track/3OBZmOr9ykJFUQAChoFeFQ) | [hackedface](https://open.spotify.com/artist/4GIyZ8aBc3t04EYYp2zb4v), [Sick Solution](https://open.spotify.com/artist/5I8Ea6B50cE6NR6HL6BHa6), [0%Mercury](https://open.spotify.com/artist/4DxusQrhwkEDAg0iznFfEB) | [dance baby dance](https://open.spotify.com/album/7MX1LRDVjxjJC64gU77paP) | 2:28 |
 | 45 | [Interstellar \(feat\. Marcus Vik\)](https://open.spotify.com/track/6kdnNggjPRuQov2VxpnnU9) | [A Scent Like Wolves](https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji), [Marcus Vik](https://open.spotify.com/artist/0oWYLRgh1a8jKMFM42dXgC) | [Interstellar \(feat\. Marcus Vik\)](https://open.spotify.com/album/7oo4QHCxmBhqkckz5zOlH1) | 4:00 |
 | 46 | [Shame](https://open.spotify.com/track/4RZiyPpuyX021BRglplOCe) | [meth.](https://open.spotify.com/artist/5POpcrqoyFSJtOv355zz3R) | [Shame](https://open.spotify.com/album/1Tj1Q8cAEDP13YcxvHQ9kK) | 6:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Winter Breeze](https://open.spotify.com/track/1WssazA5GLH1X4eIrB5NaN) | [Sujin](https://open.spotify.com/artist/0ndqFUZfL7QpwinschJjke) | [Winter Breeze](https://open.spotify.com/album/78OZzhJrvPK7wXPwvfAJ2E) | 4:36 |
 | 50 | [My Own Private Vendetta](https://open.spotify.com/track/1sQZ1m018EpA0k33Oj6tPV) | [Drop Your Pants](https://open.spotify.com/artist/259cjSmF4i7ed79L1YewpK) | [Nine Tails](https://open.spotify.com/album/4J7V6wujH5lXVF5BIApkqo) | 3:53 |
 
-Snapshot ID: `MCwzNDQ5ZTkxZDdhNDc5YjNhZGU0ODMwMjA3YTg3MjIyMDQwMDU1OTBm`
+Snapshot ID: `MCw2MGQ3OGEyOTcxZmI5MTM3ZDYwMTExZWI5N2Q3NDc1ZTRiMjFmYTMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Gaab, Mc Davi, Mc Don Juan
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,883 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,914 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Bandida](https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:15 |
 | 50 | [Misturas no copo](https://open.spotify.com/track/64snhXUXQyLWrnqReKEMTZ) | [Bubbajay](https://open.spotify.com/artist/7fctsXmbgy715CE6TEafJq), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy) | [Misturas no copo](https://open.spotify.com/album/5nXUkunHwgPc9SBdTIggol) | 2:52 |
 
-Snapshot ID: `MCxmMDZjOTMyNDNkNmU5ZGE2MmVjNDc1MWIxNDg4YThkMDZhNTJkNWRh`
+Snapshot ID: `MCw0MDllYjhmNzgxNWQ1MDRhYTIxYzE3MjViYTczMmIyYjFmOWE3NTg0`

@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 32546,
+  "num_followers": 32585,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmU5ODJjYjM3MTAzZDM1MzgwMDg4M2JjYzU4MjMwN2ZlOTEwZGEx",
+  "snapshot_id": "MCxhODdiOTVjYzZhNzZlOTMxNzI2YTBlYjFlMzUwYThiNGNjMzJiNjQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -251,34 +251,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        },
-        {
-          "name": "Calvin \"fuzz\" Jones",
-          "url": "https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb"
-        },
-        {
-          "name": "Willie \"Big Eyes\" Smith",
-          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Country Girl",
-      "url": "https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -311,6 +283,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Presenting Willie Mabon",
+        "url": "https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim"
+      },
+      "artists": [
+        {
+          "name": "Willie Mabon",
+          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Count Your Blessings",
         "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
       },
@@ -331,22 +319,6 @@
       "duration_ms": 241400,
       "name": "Ain't Times Hard",
       "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Presenting Willie Mabon",
-        "url": "https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim"
-      },
-      "artists": [
-        {
-          "name": "Willie Mabon",
-          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -463,22 +435,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Jumpin' With Joe",
-        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -507,6 +463,22 @@
       "duration_ms": 202400,
       "name": "Key to the Highway",
       "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Jumpin' With Joe",
+        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -655,22 +627,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "I've Got News For You",
         "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
       },
@@ -687,6 +643,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
         "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
       },
@@ -699,22 +671,6 @@
       "duration_ms": 255506,
       "name": "Everytime I Get to Drinking",
       "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 250877,
-      "name": "Wade In The Water",
-      "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -747,6 +703,22 @@
       "duration_ms": 202000,
       "name": "Honky Tonk",
       "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 250877,
+      "name": "Wade In The Water",
+      "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -827,22 +799,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Pinetop",
-      "url": "https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Harlem Blues Operator",
         "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
       },
@@ -855,6 +811,22 @@
       "duration_ms": 150333,
       "name": "I Love My Baby",
       "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Pinetop",
+      "url": "https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -923,22 +895,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Bach of Rock",
-        "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 344440,
-      "name": "Hey Now Baby",
-      "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Honeydripper",
         "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
       },
@@ -967,6 +923,22 @@
       "duration_ms": 272240,
       "name": "Early In The Morning",
       "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Bach of Rock",
+        "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 344440,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -1087,6 +1059,34 @@
       "duration_ms": 146000,
       "name": "I'll Be Right Some Day",
       "url": "https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/7j9tdbLMzhbDlo7qA1ZE7q"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        },
+        {
+          "name": "Calvin \"fuzz\" Jones",
+          "url": "https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb"
+        },
+        {
+          "name": "Willie \"Big Eyes\" Smith",
+          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/7sZIzMl4D1WUEFjNZA6FJL"
     },
     {
       "added_at": "2023-09-15 11:43:10",

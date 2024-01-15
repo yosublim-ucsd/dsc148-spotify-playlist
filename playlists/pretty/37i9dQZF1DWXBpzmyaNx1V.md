@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Un paseo por la ciudad pintada de violeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,943 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,948 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 49 | [Elegy for Love](https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Melodi](https://open.spotify.com/album/2PJa85qCkhtXUn3tmkD7S9) | 3:37 |
 | 50 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
 
-Snapshot ID: `MCxlMDY3NDA1NDZjYTcyZmM4OTZhYTBjZDA3ZTI2YmI5YzM2ZjdkNGE1`
+Snapshot ID: `MCxkZjRmZjE5NTYxYjE4NzQzODEwMjUyZWE1NDg3ZjZkNzYyNmE0MTEz`

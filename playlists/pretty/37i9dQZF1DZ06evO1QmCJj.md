@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,327 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,355 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 50 | [ABC](https://open.spotify.com/track/70xn2qWD5C7A98bGeUVPrE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Toy Story](https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj) | 2:21 |
 | 51 | [La Llorera](https://open.spotify.com/track/0sAnHXFgvyCw6gztFhNdZO) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:34 |
 
-Snapshot ID: `Mjg0MTkxNjUsMDAwMDAwMDAzNWZmMWFjZjkwOTYzNWM4ZGEyZjZkYjc3ZWUyZjkyMA==`
+Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDBmYTBjOWMxZDA1OTc0YWY1MGVkNGRhZmU5MDhlNGViOQ==`

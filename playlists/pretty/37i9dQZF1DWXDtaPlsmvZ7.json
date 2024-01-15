@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 107713,
+  "num_followers": 107700,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmMzYzAwMWVhYWEzNGE5MmYzYTEyMWE3YTQ3ZjlkOWFkMDk4MjUy",
+  "snapshot_id": "MCxlMTI2Yjg4OTg0ODgwN2QyN2IyYzVhYTZjODUwOWZiMzIzYzQ3MmNi",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "2017 (#Veintediecisiete)",
-        "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o"
       },
       "artists": [
         {
-          "name": "Nuevo Klan",
-          "url": "https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u"
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Valzzi",
+          "url": "https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD"
         }
       ],
-      "duration_ms": 278673,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
+      "duration_ms": 182666,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1191,22 +1195,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o"
+        "name": "2017 (#Veintediecisiete)",
+        "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
       },
       "artists": [
         {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        },
-        {
-          "name": "Valzzi",
-          "url": "https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD"
+          "name": "Nuevo Klan",
+          "url": "https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv"
+      "duration_ms": 278673,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
     },
     {
       "added_at": "2022-05-06 18:26:25",

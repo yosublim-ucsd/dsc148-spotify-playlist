@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 250316,
+  "2024-01-15": 250378,
   "date_first_scraped": "2022-01-02",
   "description": "Texas' own Cody Johnson is taking over to celebrate the release of his new album \"Leather\"!",
   "name": "Heart Of Texas",
@@ -2275,10 +2275,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 205333,
       "name": "Must Be The Whiskey",
       "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
+    },
+    {
+      "album": {
+        "name": "Lifers",
+        "url": "https://open.spotify.com/album/0Y28vln6HsP0J2lS2MDTdP"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205337,
+      "name": "Must Be the Whiskey",
+      "url": "https://open.spotify.com/track/324iakwekGIBGV93syJsVe"
     },
     {
       "album": {

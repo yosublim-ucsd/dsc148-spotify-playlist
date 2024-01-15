@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 35327,
+  "2024-01-15": 35355,
   "date_first_scraped": "2023-11-11",
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
   "name": "This Is Lola Indigo",
@@ -416,6 +416,28 @@
     },
     {
       "album": {
+        "name": "EL CONDENAO",
+        "url": "https://open.spotify.com/album/5jXjs9ydpvVfPnX8fmB5ib"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maka",
+          "url": "https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144829,
+      "name": "EL CONDENAO",
+      "url": "https://open.spotify.com/track/2vzj0JE2QKuzZqmevbEpF2"
+    },
+    {
+      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX"
       },
@@ -431,7 +453,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 144829,
       "name": "EL CONDENAO",
       "url": "https://open.spotify.com/track/74fSQUoDZUraMRdrniMcpX"
@@ -449,7 +471,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 166426,
       "name": "El Humo - Canci\u00f3n Original De La Pel\u00edcula \"Lo Dejo Cuando Quiera\"",
       "url": "https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE"

@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259470,
+  "num_followers": 259390,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDA1NDE3NzNjNGUxMTQ0MzFlMWU5YWJlZDc2NzU5Yjc3YTYxM2Zm",
+  "snapshot_id": "MCw3ODdhOTM2NWRhZTExYTlkZDNhMzFlZjc3ZDYyZTNkNTdiMTEwYmEy",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "VALIS",
-        "url": "https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA"
-      },
-      "artists": [
-        {
-          "name": "Reptaliens",
-          "url": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
-        }
-      ],
-      "duration_ms": 198958,
-      "name": "Echo Park",
-      "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "They Came Along",
@@ -895,42 +879,6 @@
       "duration_ms": 357894,
       "name": "They Came Along",
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 259423,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
-      },
-      "artists": [
-        {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
-        }
-      ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -955,6 +903,58 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 259423,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "VALIS",
+        "url": "https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA"
+      },
+      "artists": [
+        {
+          "name": "Reptaliens",
+          "url": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
+        }
+      ],
+      "duration_ms": 198958,
+      "name": "Echo Park",
+      "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+      },
+      "artists": [
+        {
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Wave001",
         "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 182857,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
-    },
-    {
-      "added_at": "2019-03-18 20:29:35",
-      "album": {
-        "name": "Never Meant to Call",
-        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Never Meant To Call",
-      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -999,6 +983,22 @@
       "duration_ms": 218000,
       "name": "Brother",
       "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
+    },
+    {
+      "added_at": "2019-03-18 20:29:35",
+      "album": {
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",

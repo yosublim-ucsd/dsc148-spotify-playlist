@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 476055,
+  "num_followers": 476008,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWIzMmRhNjgwZmI1MzAzODhiZTBmOGI5YTcwYzIxYTI2Yjk5ZTdi",
+  "snapshot_id": "MCwxMGU2YTlmNjIwYWQ1ZDJjYzMyNTNmMmQ4M2FjYjMyNGI3OTBhNzRk",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 214057,
       "name": "Smoke Signals",
       "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "11 Minutes",
-        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "11 Minutes",
-      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 127933,
       "name": "Evil Finds Light",
       "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "11 Minutes",
+        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "11 Minutes",
+      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Nothing is True & Everything is Possible",
         "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 123337,
       "name": "Sick Day",
       "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Were You Nervous?",
-        "url": "https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q"
-      },
-      "artists": [
-        {
-          "name": "Speech Patterns",
-          "url": "https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e"
-        }
-      ],
-      "duration_ms": 208258,
-      "name": "Were You Nervous?",
-      "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "In Our Wake",
         "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 193196,
       "name": "In Our Wake",
       "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Were You Nervous?",
+        "url": "https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q"
+      },
+      "artists": [
+        {
+          "name": "Speech Patterns",
+          "url": "https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e"
+        }
+      ],
+      "duration_ms": 208258,
+      "name": "Were You Nervous?",
+      "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
     },
     {
       "added_at": "2023-06-20 21:21:38",

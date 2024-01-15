@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: KIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,259 likes - 72 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,270 likes - 72 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [cos idk how](https://open.spotify.com/track/1DozwzMwdx5ovfQfRs6dtb) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [cos idk how](https://open.spotify.com/album/4vkYp8TEchsqjKSuCR0oHt) | 3:30 |
 | 72 | [沒資格愛你](https://open.spotify.com/track/7hOCDYAC5nSVu24qqN2xLl) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [JUICE](https://open.spotify.com/album/1T5xlqGjw5ox9NM5DQoyWU) | 3:19 |
 
-Snapshot ID: `MCxiMGQ3NjViODVkNThmYWNjZWU2Y2NkYmZkZTQ2MzA4NmNiZWE5M2Q5`
+Snapshot ID: `MCw4Y2U1ODNkMDQ1YzRhYmY3NDQ3MmUwYWE4OTdlMTY5NTRlMGJjOWVm`

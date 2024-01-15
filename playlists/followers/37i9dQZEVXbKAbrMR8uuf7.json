@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 153635,
+  "2024-01-15": 153527,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -6123,7 +6123,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 166367,
       "name": "DIOS ES LA VUELTA",
       "url": "https://open.spotify.com/track/55anYzcOm2t9iICDhiaHbj"
@@ -14573,7 +14573,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 229276,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/02Rs1gB9idwpTtgcyciiuY"
@@ -16291,6 +16291,28 @@
       "duration_ms": 143789,
       "name": "OKI DOKI",
       "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu"
+    },
+    {
+      "album": {
+        "name": "Lapse",
+        "url": "https://open.spotify.com/album/47vTHeCa65KsOa2IBjpiNM"
+      },
+      "artists": [
+        {
+          "name": "Trust'N",
+          "url": "https://open.spotify.com/artist/0qe3Gt6forPkUH4FeRuVRc"
+        },
+        {
+          "name": "Bkwds",
+          "url": "https://open.spotify.com/artist/1eXZAs4YGDzfrhDNYHrFiE"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213996,
+      "name": "On Game",
+      "url": "https://open.spotify.com/track/1eSqqyYk5vAEYglV3hcyWV"
     },
     {
       "album": {
@@ -18900,6 +18922,32 @@
     },
     {
       "album": {
+        "name": "Quien Te Mando",
+        "url": "https://open.spotify.com/album/7DRHZ3fNlmWJVdYdhtMHGI"
+      },
+      "artists": [
+        {
+          "name": "GDA El Unico",
+          "url": "https://open.spotify.com/artist/2YBpmoSXEwKT2JYNALsm0b"
+        },
+        {
+          "name": "MB1",
+          "url": "https://open.spotify.com/artist/5m4wWZR0rh1MxZCk5Vd0kp"
+        },
+        {
+          "name": "Dany",
+          "url": "https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184364,
+      "name": "Quien Te Mando",
+      "url": "https://open.spotify.com/track/288Kppobr1R4W6GqjMCuYs"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -19057,7 +19105,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 241855,
       "name": "Qu\u00e9 Chimba!",
       "url": "https://open.spotify.com/track/0jhU9qQxWCMTNriBRauELk"
@@ -22653,7 +22701,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 152373,
       "name": "TETEO",
       "url": "https://open.spotify.com/track/21L0hDSgXhFxniIBug6WAO"
@@ -24897,7 +24945,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus"
@@ -25237,6 +25285,24 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "album": {

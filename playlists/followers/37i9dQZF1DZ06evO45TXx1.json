@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 5194,
+  "2024-01-15": 5204,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
   "name": "This Is Mc Luanna",
@@ -434,6 +434,28 @@
     },
     {
       "album": {
+        "name": "Ela diz",
+        "url": "https://open.spotify.com/album/1w3PXAn9xkEhHMd4Xm80gO"
+      },
+      "artists": [
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ela diz",
+      "url": "https://open.spotify.com/track/2o7p1pK5AIQ3uYlpCyeFp1"
+    },
+    {
+      "album": {
         "name": "Fra\u00e7\u00e3o 3/4",
         "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
       },
@@ -817,7 +839,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 190006,
       "name": "Meia Milha",
       "url": "https://open.spotify.com/track/7LSQcoAyMmkLvBWBSnMtIy"

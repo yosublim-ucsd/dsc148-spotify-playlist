@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 932353,
+  "2024-01-15": 932354,
   "date_first_scraped": "2021-12-28",
   "description": "Run to this collection of rock jams.",
   "name": "Born To Run 150 BPM",
@@ -659,6 +659,24 @@
       "duration_ms": 291306,
       "name": "Dr. Feelgood",
       "url": "https://open.spotify.com/track/2cc9k15AifO7RfxxuEExkS"
+    },
+    {
+      "album": {
+        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
+        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289971,
+      "name": "Dr. Feelgood (2021- Remaster)",
+      "url": "https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5"
     },
     {
       "album": {
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 310386,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"

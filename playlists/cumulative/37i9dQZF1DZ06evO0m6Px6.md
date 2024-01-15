@@ -4,7 +4,7 @@
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 10 min
+68 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Atmosphere \(feat\. Daniela Andrade\)](https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 2:55 | 2024-01-06 |  |
 | [Atmosphere \(feat\. Daniela Andrade\)](https://open.spotify.com/track/3lJ3Czd986QfmRxhjTOznY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 2:55 | 2023-12-13 | 2024-01-07 |
 | [Beige](https://open.spotify.com/track/55kxuWtCLOZ9LD7paQylnO) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Beige](https://open.spotify.com/album/7JNh6e48gMbtw75GLOARSA) | 2:51 | 2023-12-13 |  |
-| [Believe In Love \(feat\. Aaron Tiem\)](https://open.spotify.com/track/2gM1dolKfhUzVyXiH4ZJ6A) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Aaron Tiem](https://open.spotify.com/artist/7jDrEieINdt1rQ1UFLnWhD) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 4:21 | 2024-01-07 |  |
+| [Believe In Love \(feat\. Aaron Tiem\)](https://open.spotify.com/track/2gM1dolKfhUzVyXiH4ZJ6A) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Aaron Tiem](https://open.spotify.com/artist/7jDrEieINdt1rQ1UFLnWhD) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 4:21 | 2024-01-07 | 2024-01-15 |
 | [Better \(feat\. Daniela Andrade\)](https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:44 | 2024-01-07 |  |
 | [Better \(feat\. Daniela Andrade\)](https://open.spotify.com/track/4xBKFemiG4Dl7DQuB9xA0q) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 3:44 | 2023-12-13 | 2024-01-08 |
 | [Big Waves](https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 1:43 | 2023-12-13 |  |
@@ -53,6 +53,7 @@
 | [New Harrison](https://open.spotify.com/track/7EV6sb1gDY337fBJNy3obX) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 3:50 | 2023-12-13 |  |
 | [New Harrison Again](https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Tasty Raps, Vol\. 1](https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn) | 2:32 | 2023-12-13 |  |
 | [Next Blue](https://open.spotify.com/track/5mUFrgd163NycUffrvBzeY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 3:08 | 2023-12-13 | 2024-01-08 |
+| [Next Blue](https://open.spotify.com/track/6DmJLgV5oEEPwvWPq7R5XS) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:08 | 2024-01-14 |  |
 | [Once Upon A Time](https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Once Upon A Time](https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX) | 3:39 | 2023-12-13 |  |
 | [Play No Games \(Harrison Remix\)](https://open.spotify.com/track/32fG2SvpIGVJxYQsSzGMzE) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Parallel World \(Deluxe Edition\)](https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50) | 2:25 | 2024-01-07 |  |
 | [Play No Games \(Harrison Remix\)](https://open.spotify.com/track/77pFbX4IYXtmGNgImM6KjI) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Parallel World \(Deluxe Edition\)](https://open.spotify.com/album/0PeRkG0U2RckOC9OOSwiAi) | 2:25 | 2023-12-13 | 2024-01-08 |

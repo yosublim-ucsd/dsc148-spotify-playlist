@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Barbi Recanati",
-  "num_followers": 37676,
+  "num_followers": 37689,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTFjYTAzMTIwMTlhYzM1MDZlMjRkYjU3N2ZiNjVkYzNmNmNjMDlj",
+  "snapshot_id": "MCxkZWZkZTEzMmMzZTZmODdjZjVlYzVjODVkMzJjOWY1ODhjNTY0MWM4",
   "tracks": [
     {
       "added_at": "2024-01-04 23:18:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Rompiente",
-        "url": "https://open.spotify.com/album/3w4O98Q6qpxEBUalrwu9XM"
-      },
-      "artists": [
-        {
-          "name": "Cirse",
-          "url": "https://open.spotify.com/artist/4lXlGJYomLAcfO6rVOchfz"
-        }
-      ],
-      "duration_ms": 224159,
-      "name": "Por Tu Bien",
-      "url": "https://open.spotify.com/track/2ZYlH2nDsECjJPw51fBHlj"
-    },
-    {
-      "added_at": "2024-01-04 23:18:42",
-      "album": {
         "name": "Excursiones",
         "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 254092,
       "name": "Excursiones",
       "url": "https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU"
+    },
+    {
+      "added_at": "2024-01-04 23:18:42",
+      "album": {
+        "name": "Rompiente",
+        "url": "https://open.spotify.com/album/3w4O98Q6qpxEBUalrwu9XM"
+      },
+      "artists": [
+        {
+          "name": "Cirse",
+          "url": "https://open.spotify.com/artist/4lXlGJYomLAcfO6rVOchfz"
+        }
+      ],
+      "duration_ms": 224159,
+      "name": "Por Tu Bien",
+      "url": "https://open.spotify.com/track/2ZYlH2nDsECjJPw51fBHlj"
     },
     {
       "added_at": "2024-01-04 23:18:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Tigre Ulli",
-        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Postales Blancas",
-      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
-    },
-    {
-      "added_at": "2024-01-04 23:18:42",
-      "album": {
         "name": "Cosa M\u00eda",
         "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 169693,
       "name": "Cosa M\u00eda",
       "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
+    },
+    {
+      "added_at": "2024-01-04 23:18:42",
+      "album": {
+        "name": "Tigre Ulli",
+        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Postales Blancas",
+      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
     },
     {
       "added_at": "2024-01-04 23:18:42",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
-    },
-    {
-      "added_at": "2024-01-04 23:18:42",
-      "album": {
         "name": "EL MUNDO PEQUE\u00d1O",
         "url": "https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 265029,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy"
+    },
+    {
+      "added_at": "2024-01-04 23:18:42",
+      "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
     },
     {
       "added_at": "2024-01-04 23:18:42",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV"
+        "name": "Cuando el sol est\u00e1 as\u00ed",
+        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
       },
       "artists": [
         {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
         }
       ],
-      "duration_ms": 146668,
-      "name": "Pulso",
-      "url": "https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U"
+      "duration_ms": 230988,
+      "name": "Cuando el sol est\u00e1 as\u00ed",
+      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
     },
     {
       "added_at": "2024-01-04 23:18:42",
@@ -1387,18 +1387,34 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed",
-        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
         }
       ],
-      "duration_ms": 230988,
-      "name": "Cuando el sol est\u00e1 as\u00ed",
-      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
+      "duration_ms": 146668,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U"
+    },
+    {
+      "added_at": "2024-01-04 23:18:42",
+      "album": {
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
     },
     {
       "added_at": "2024-01-04 23:18:42",
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
-    },
-    {
-      "added_at": "2024-01-04 23:18:42",
-      "album": {
         "name": "Chica Rutera",
         "url": "https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 308116,
       "name": "Chica Rutera",
       "url": "https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3"
+    },
+    {
+      "added_at": "2024-01-04 23:18:42",
+      "album": {
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2024-01-04 23:18:42",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Tiro de Gracia",
-        "url": "https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Tiro de Gracia",
-      "url": "https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc"
-    },
-    {
-      "added_at": "2024-01-04 23:18:42",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 180680,
       "name": "Somos",
       "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
+    },
+    {
+      "added_at": "2024-01-04 23:18:42",
+      "album": {
+        "name": "Tiro de Gracia",
+        "url": "https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Tiro de Gracia",
+      "url": "https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc"
     },
     {
       "added_at": "2024-01-04 23:18:42",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Unfuckable",
-      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
-    },
-    {
-      "added_at": "2024-01-04 23:18:42",
-      "album": {
         "name": "Acorralar a la Bestia",
         "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-01-04 23:18:42",
       "album": {
-        "name": "Dulce Fuerte Grave",
-        "url": "https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
       "artists": [
         {
-          "name": "Flopa",
-          "url": "https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy"
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
         }
       ],
-      "duration_ms": 224119,
-      "name": "Vengas Conmigo",
-      "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"
+      "duration_ms": 232975,
+      "name": "Unfuckable",
+      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
     }
   ],
   "unique_name": "Rockeras",

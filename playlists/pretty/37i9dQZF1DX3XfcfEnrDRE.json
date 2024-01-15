@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 237046,
+  "num_followers": 236955,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODZhOWFmMGYxZDFjYjgwN2RiNmVkMzRhYjY3MzBmZWU3ZjJhNTkw",
+  "snapshot_id": "MCxjZWUyYTRkYjQ4OTI1MGRlZDI5MjMyYjYxYjEzNWJhOTRkZGY5MmE3",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Rooftops",
-        "url": "https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Rooftops",
-      "url": "https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Way, Truth, Life",
         "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 173500,
       "name": "Way, Truth, Life",
       "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "We Won't Bow",
-        "url": "https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew"
-      },
-      "artists": [
-        {
-          "name": "Kamban",
-          "url": "https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP"
-        }
-      ],
-      "duration_ms": 172552,
-      "name": "We Won't Bow",
-      "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4aMuBVHF6EJuaD1SQMhHub"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 141177,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1eI2tJUhgaC1b0cYmvzUaa"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "We Won't Bow",
+        "url": "https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew"
+      },
+      "artists": [
+        {
+          "name": "Kamban",
+          "url": "https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP"
+        }
+      ],
+      "duration_ms": 172552,
+      "name": "We Won't Bow",
+      "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Somebody You Knew",
-        "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
-      },
-      "artists": [
-        {
-          "name": "Trey Pearson",
-          "url": "https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF"
-        },
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 198997,
-      "name": "Hey Jesus",
-      "url": "https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Can't Stop My Heart From Singing",
         "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 234925,
       "name": "Can't Stop My Heart From Singing",
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Somebody You Knew",
+        "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
+      },
+      "artists": [
+        {
+          "name": "Trey Pearson",
+          "url": "https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF"
+        },
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "duration_ms": 198997,
+      "name": "Hey Jesus",
+      "url": "https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts"
     },
     {
       "added_at": "2022-12-16 05:02:00",

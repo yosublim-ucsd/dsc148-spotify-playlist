@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 1123118,
+  "2024-01-15": 1123232,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Japan.",
   "name": "Top 50 - Japan",
@@ -227,6 +227,24 @@
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
       "album": {
@@ -587,7 +605,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 234323,
       "name": "Cinderella Boy",
       "url": "https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV"
@@ -1074,6 +1092,28 @@
     },
     {
       "album": {
+        "name": "High Note",
+        "url": "https://open.spotify.com/album/2GzRfuJoyGNEbIYpbYT4pM"
+      },
+      "artists": [
+        {
+          "name": "KingLee",
+          "url": "https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj"
+        },
+        {
+          "name": "Code G",
+          "url": "https://open.spotify.com/artist/39hzvvkLOg7HDWgWPkdPcD"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241104,
+      "name": "High Note",
+      "url": "https://open.spotify.com/track/3RoP3fJWHDXKhxDJaknv4n"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -1527,6 +1567,28 @@
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD"
+    },
+    {
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4GbcWTiggWeyywhWIAIqNb"
+      },
+      "artists": [
+        {
+          "name": "KingLee",
+          "url": "https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj"
+        },
+        {
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219032,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/4sVC4dgJWVc9PrKKdH6gZe"
     },
     {
       "album": {
@@ -2097,7 +2159,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 226813,
       "name": "New Genesis",
       "url": "https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca"
@@ -2187,7 +2249,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 194106,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/7b4fxkOA4NDr4tDylrb10K"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, Ariana Grande, Alok e Bebe Rexha e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,812 likes - 85 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914,365 likes - 85 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 58 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
 | 59 | [No Time](https://open.spotify.com/track/4wy168h1bXfsW7uyyZ0Ec0) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz) | [No Time](https://open.spotify.com/album/4UI2GqFjYLN58HfySIrXI3) | 4:11 |
 | 60 | [Diamonds](https://open.spotify.com/track/2VVMJ93plp6NMhFBk8ltxc) | [mgZr](https://open.spotify.com/artist/4BGr6A79JSGK9BTVHe7OI3), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Diamonds](https://open.spotify.com/album/5zQ45bZjFvyhd8ATnQ2GXb) | 2:30 |
-| 61 | [Naomi](https://open.spotify.com/track/5g0hNvnFR6GkUkNMjiOHGv) | [Ge Nunes](https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4) | [Naomi](https://open.spotify.com/album/29zFQX6ShcZNsaLXcpP8Cs) | 3:00 |
+| 61 | [Naomi](https://open.spotify.com/track/5g0hNvnFR6GkUkNMjiOHGv) | [Ge Nunes](https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4) | [Naomi](https://open.spotify.com/album/29zFQX6ShcZNsaLXcpP8Cs) | 3:00 |
 | 62 | [O X1 Vai Começar](https://open.spotify.com/track/7oVmQpONBWo6XBlBJvuUHF) | [Vitor Vaqueiro](https://open.spotify.com/artist/6ViV2gDwjTAGv2eSyocbyC), [MIMIN DO GADO](https://open.spotify.com/artist/1jUqPtGFrM4UblW4vUwK8o) | [O X1 Vai Começar](https://open.spotify.com/album/26BDMJbnJpEEm7YE2vfIbm) | 2:41 |
 | 63 | [Bebendo e Mentindo \- Ao Vivo](https://open.spotify.com/track/6cM6jv3b8AmyS7VHwyoYjl) | [Wesley & Conrado](https://open.spotify.com/artist/4MFzxXAMZaBj3JDAoYMIuQ), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Bebendo e Mentindo \(Ao Vivo\)](https://open.spotify.com/album/62uJOXVDXRudgh3gfDZBeG) | 2:52 |
 | 64 | [MARIAZINHA \- Boyzinho 10 Anos](https://open.spotify.com/track/18mQIvMx7QrCB8vK0DCOaC) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [BOYZINHO 10 ANOS](https://open.spotify.com/album/6BNyHARLCP0RuhM04ZHqJh) | 2:07 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 84 | [24 HORAS](https://open.spotify.com/track/267H67kLMfetyHFNTlwJT3) | [BAILE PHONK](https://open.spotify.com/artist/0DNEd7LWCAZyGniVlHXDz6), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr) | [24 HORAS](https://open.spotify.com/album/6qmZ8KIy49J2hyxye1nJOM) | 1:57 |
 | 85 | [BRAZIL DRIFT](https://open.spotify.com/track/0wvTMEma4oBtSkwRlcPOiw) | [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU), [NICKXXX](https://open.spotify.com/artist/3zfgyWQdkhUoVyqjrISKKO), [DJ VIBER](https://open.spotify.com/artist/2AJGtiRmXalpq8FayihpD8) | [BRAZIL DRIFT](https://open.spotify.com/album/3Tt0CiKF5ORHjA2eod988c) | 1:32 |
 
-Snapshot ID: `MCxhODRmYmUyYjY4YzQ5ZGNkM2U3YjgyNWI3ZThmYWQ1YjExZWRiYWQ5`
+Snapshot ID: `MCwyN2QzYmNkYWVkZWVhZGNjNTk5Mzk0N2UwNjgxY2QyZTkwYWM4NjRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 21 Savage, Lil Nas X, Lil Tjay and more\. Cover: Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,684 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,896 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Blackjack](https://open.spotify.com/track/5PISk9CLxlqXSTqj8KP4Tl) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Kino Beats](https://open.spotify.com/artist/5KNFZTB0wLQVuWHDp4Terx) | [24Hr Casino Pt 2](https://open.spotify.com/album/3C4w4WGG8j3akKYJ9Pp5Cg) | 1:48 |
 | 50 | [40](https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [40](https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt) | 1:04 |
 
-Snapshot ID: `MCw4NGEyZTUwNTM3NWQzNWY0OTkwNGNiYWZhMDM2MmYzODI4NTM4ZGFi`
+Snapshot ID: `MCxkOTI0ODY4NmFiOWI4NDc0ZDBhYTI5MGJhMWU4ZGI2Mzg0MWE3Y2M2`

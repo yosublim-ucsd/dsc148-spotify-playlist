@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 71308,
+  "2024-01-15": 71419,
   "date_first_scraped": "2022-11-25",
   "description": "A hypnotic journey through Melodic Techno.",
   "name": "Tunnel Vision",
@@ -1155,6 +1155,28 @@
       "duration_ms": 213390,
       "name": "Cosmovision",
       "url": "https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc"
+    },
+    {
+      "album": {
+        "name": "Unity Pt. 3",
+        "url": "https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213390,
+      "name": "Cosmovision",
+      "url": "https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN"
     },
     {
       "album": {
@@ -2705,7 +2727,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "Gravity - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/1fAEgL0FxWfNqxVZRHsm20"
@@ -3947,7 +3969,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 233673,
       "name": "Life Moves Fast",
       "url": "https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs"
@@ -5881,7 +5903,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 310819,
       "name": "RIDERS ON THE STORM",
       "url": "https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2"
@@ -6669,7 +6691,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 364332,
       "name": "Stay Awhile - Fideles Remix",
       "url": "https://open.spotify.com/track/60kRT1B2d1Yz1SxCXoBOHH"
@@ -7803,7 +7825,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 371604,
       "name": "Trust The Hours",
       "url": "https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub"

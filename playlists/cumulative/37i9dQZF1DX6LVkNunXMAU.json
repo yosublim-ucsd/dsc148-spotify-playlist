@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 222721,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
@@ -5430,6 +5430,24 @@
       "duration_ms": 153320,
       "name": "Y vos dec\u00eds que me gust\u00e1s",
       "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
+    },
+    {
+      "album": {
+        "name": "Ya Lo S\u00e9, Pero Igual",
+        "url": "https://open.spotify.com/album/5yYSt3CC3iidgCucpNRbe0"
+      },
+      "artists": [
+        {
+          "name": "Luciano Altair",
+          "url": "https://open.spotify.com/artist/5zYGj1hsIxc6gjoLLTs9IQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263865,
+      "name": "Ya Lo S\u00e9, Pero Igual",
+      "url": "https://open.spotify.com/track/6XQfcsz1rjEYWhFKN6JXBR"
     },
     {
       "album": {

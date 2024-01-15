@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 2691578,
+  "2024-01-15": 2691577,
   "date_first_scraped": "2021-12-21",
   "description": "Forget it and disappear with deep & melodic <a href=\"spotify:genre:edm_dance\">house</a>.",
   "name": "Deep House Relax",
@@ -4068,6 +4068,28 @@
     },
     {
       "album": {
+        "name": "Live For The Music (feat. Erire)",
+        "url": "https://open.spotify.com/album/7JGm4r0XiqT1drx3agxFBb"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Erire",
+          "url": "https://open.spotify.com/artist/6WEl7zw5Lt5cLo3OthIoCj"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468060,
+      "name": "Live For The Music (feat. Erire) - Instrumental",
+      "url": "https://open.spotify.com/track/0AYA7mZrC4SvoB8Bq5E7yA"
+    },
+    {
+      "album": {
         "name": "Revisited EP",
         "url": "https://open.spotify.com/album/0ImuV2pJHgEnsHhKAwLmmf"
       },
@@ -4087,24 +4109,6 @@
       "duration_ms": 472195,
       "name": "Live For The Music (feat. Erire) - Instrumental",
       "url": "https://open.spotify.com/track/0ff3N46RJWzrz1nMApRLdx"
-    },
-    {
-      "album": {
-        "name": "Live For The Music (feat. Erire)",
-        "url": "https://open.spotify.com/album/7JGm4r0XiqT1drx3agxFBb"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "date_added": "2022-05-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 468060,
-      "name": "Live For The Music feat. Erire - Instrumental",
-      "url": "https://open.spotify.com/track/0AYA7mZrC4SvoB8Bq5E7yA"
     },
     {
       "album": {

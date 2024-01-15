@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 697536,
+  "num_followers": 697632,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmIyMDdlYTkxZTcyMGE3MTY3Yjk5NjM4YTZhZmU3MTZlYjg5OGJj",
+  "snapshot_id": "MCxjOWJiYzgzZTc2ODBiNWE2NzI4OTY3Yjg2N2QwMDYwMDMxNTFmOWI3",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "if u think i'm pretty",
         "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Evil",
-        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
-      },
-      "artists": [
-        {
-          "name": "Doov",
-          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
-        }
-      ],
-      "duration_ms": 158235,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "CAROLINE",
         "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
+      },
+      "artists": [
+        {
+          "name": "Doov",
+          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
+        }
+      ],
+      "duration_ms": 158235,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "lazy",
-        "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
-      },
-      "artists": [
-        {
-          "name": "kurffew",
-          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
-        }
-      ],
-      "duration_ms": 125090,
-      "name": "lazy (haste)",
-      "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "UGOMDN - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "JASMINE",
-        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
+        "name": "lazy",
+        "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
       },
       "artists": [
         {
-          "name": "Renao",
-          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
         }
       ],
-      "duration_ms": 127058,
-      "name": "JASMINE",
-      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
+      "duration_ms": 125090,
+      "name": "lazy (haste)",
+      "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1015,6 +999,22 @@
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "JASMINE",
+        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
+      },
+      "artists": [
+        {
+          "name": "Renao",
+          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "JASMINE",
+      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
-      },
-      "artists": [
-        {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "stuck.",
-        "url": "https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR"
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
       },
       "artists": [
         {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
         }
       ],
-      "duration_ms": 134272,
-      "name": "stuck.",
-      "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1291,6 +1275,38 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "stuck.",
+        "url": "https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR"
+      },
+      "artists": [
+        {
+          "name": "HARRY WAS HERE",
+          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
+        }
+      ],
+      "duration_ms": 134272,
+      "name": "stuck.",
+      "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "are you sleeping alone again?",
+        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "are you sleeping alone again?",
+      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Cheese (feat. PawPaw Rod & Valerie June)",
         "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 229525,
       "name": "Cheese (feat. PawPaw Rod & Valerie June)",
       "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "are you sleeping alone again?",
-        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "are you sleeping alone again?",
-      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Failed at Math(s) (Billy Lemos Remix)",
-        "url": "https://open.spotify.com/album/0xf3dWUvu8vDrKjPxqRvag"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        },
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Failed at Math(s) - Billy Lemos Remix",
-      "url": "https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Princess Forever",
         "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Failed at Math(s) (Billy Lemos Remix)",
+        "url": "https://open.spotify.com/album/0xf3dWUvu8vDrKjPxqRvag"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Failed at Math(s) - Billy Lemos Remix",
+      "url": "https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "ROMCOM",
-        "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
-      },
-      "artists": [
-        {
-          "name": "Jakey",
-          "url": "https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3"
-        }
-      ],
-      "duration_ms": 185233,
-      "name": "TOMMY HANKS",
-      "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Sylvia (Nanana)",
         "url": "https://open.spotify.com/album/6kRnRq8xlM8Mpe4qu3GbJZ"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 155686,
       "name": "Sylvia (Nanana)",
       "url": "https://open.spotify.com/track/1xwTt7QJn3fCQldUbX0flF"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "ROMCOM",
+        "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
+      },
+      "artists": [
+        {
+          "name": "Jakey",
+          "url": "https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3"
+        }
+      ],
+      "duration_ms": 185233,
+      "name": "TOMMY HANKS",
+      "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "What Should I Do?",
-        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 183080,
-      "name": "What Should I Do?",
-      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
+      "duration_ms": 225280,
+      "name": "Crush - Unfinished",
+      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
     },
     {
       "added_at": "2024-01-09 14:46:15",

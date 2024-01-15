@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-87 songs - 6 hr 35 min
+88 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,13 +23,14 @@
 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 | 2023-08-11 |  |
 | [Ay Que Sera Del Sol \- Original](https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 6:30 | 2023-08-11 |  |
 | [Añoranza en las Yungas](https://open.spotify.com/track/6NpLNDr5HA3tQVmCmVyzMd) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Jallalla](https://open.spotify.com/album/6gFDKmJvvj3Sgs4dkq6KrU) | 5:38 | 2023-08-11 |  |
-| [Baguala de Tucuman](https://open.spotify.com/track/2lRIror5fKrJDFm17gSsMC) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [El Camino de Leda \(Un Tributo a Leda Valladares\)](https://open.spotify.com/album/1Ny7gup5mfKNb0fqwLMZat) | 5:56 | 2023-08-11 |  |
+| [Baguala de Tucuman](https://open.spotify.com/track/2lRIror5fKrJDFm17gSsMC) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [El Camino de Leda \(Un Tributo a Leda Valladares\)](https://open.spotify.com/album/1Ny7gup5mfKNb0fqwLMZat) | 5:56 | 2023-08-11 | 2024-01-15 |
 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 | 2023-08-11 |  |
 | [Barro](https://open.spotify.com/track/3hAS0Wxq0wl0XCgy1B9ozN) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Río Adentro](https://open.spotify.com/album/4CWmh4MRXSPdToaX8mL3LA) | 3:08 | 2023-08-11 |  |
 | [Belleza en el Aire \- Remix](https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Albura Remixed](https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f) | 5:14 | 2023-08-11 |  |
 | [Bienvenidos: Maiche Anawateuo](https://open.spotify.com/track/3OidV2Umts84YFsvronNGW) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Cantos de la Tierra Sin Mal](https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5) | 5:04 | 2023-08-11 |  |
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:48 | 2023-08-11 |  |
 | [Caracol](https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 4:08 | 2023-08-11 |  |
+| [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 | 2024-01-05 |  |
 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [CARNAVALITO DEL DUENDE](https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ) | 2:52 | 2023-08-11 |  |
 | [Chilenitas \(Orozco / Barrientos\) \[Remix\]](https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ) | [Vol\. 1](https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8) | 6:19 | 2023-08-11 |  |
 | [Cometa](https://open.spotify.com/track/57579JMa428PUzNyRHRtsm) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 4:56 | 2023-08-11 |  |

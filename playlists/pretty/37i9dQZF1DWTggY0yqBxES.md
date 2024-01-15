@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,728 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,524 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Blacklight](https://open.spotify.com/track/2MkI9rQR1ZI2N36OgDzCpq) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Blacklight](https://open.spotify.com/album/2QnOSMlVbSkEHPfrZLoNuq) | 5:09 |
 | 100 | [Look](https://open.spotify.com/track/3cKAJr8y25jGqvhekMkiFs) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4) | [Look](https://open.spotify.com/album/31gNdQATBWHXWjEArXydm1) | 2:42 |
 
-Snapshot ID: `MCxjMzIxYmU2NDg4NTQ5YmI4NzM0NDk0Mjk4NDEwNGNiY2UxNWFhMTRh`
+Snapshot ID: `MCxkNzYxNDE1YjA1OTUwNjJkNzFkYjRmM2Q3OTNlNmYxOWEyNTc4YzYy`

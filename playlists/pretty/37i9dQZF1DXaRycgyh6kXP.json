@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 204822,
+  "num_followers": 204987,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjU5MTcyZTg3MTk1ODE1YmJlYTQ4M2YzNTBkZThmMDI5NTY3YTE5",
+  "snapshot_id": "MCw5MDhkNTQyMDgwZGZmYmE1MjQ0MzU0NzI1YzU4NDEzMzEzNDI3OTZk",
   "tracks": [
     {
       "added_at": "2023-11-13 21:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Hi Scores",
-        "url": "https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 419565,
-      "name": "Everything You Do Is A Balloon",
-      "url": "https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Solo Piano",
         "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 202840,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 419565,
+      "name": "Everything You Do Is A Balloon",
+      "url": "https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
-      },
-      "artists": [
-        {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "ANTH01",
         "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 403080,
       "name": "Another Girl",
       "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
     },
     {
-      "added_at": "2023-12-13 21:55:13",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 220355,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
-    },
-    {
       "added_at": "2023-11-13 21:00:00",
       "album": {
         "name": "Bright Serpent",
@@ -1339,6 +1323,22 @@
       "duration_ms": 232960,
       "name": "At Height",
       "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+    },
+    {
+      "added_at": "2023-12-13 21:55:13",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "duration_ms": 220355,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
     },
     {
       "added_at": "2023-11-13 21:00:00",

@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-466 songs - 1 day 9 hr 13 min
+467 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Black To The Future](https://open.spotify.com/track/3RZZ8KnNq63Isfqo67KI4W) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Avengers After Dark](https://open.spotify.com/album/1fnYuEIp9Vk5nbgDKcRfsi) | 4:52 | 2021-10-15 | 2022-05-28 |
 | [Blackout](https://open.spotify.com/track/7s59SzYLvJOM4j23J1dOs3) | [Axel Le Baron](https://open.spotify.com/artist/41uv2mafbkMfpRYMF4H5dO), [Arnaud Diaz](https://open.spotify.com/artist/6DW60YY7dGV5ZH4webX87F) | [Retrowave](https://open.spotify.com/album/3zKj0Uhic2uNL84tPvmIXu) | 4:12 | 2021-10-15 | 2022-04-21 |
 | [Blink of an Eye](https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Blink of an Eye](https://open.spotify.com/album/7lmlsXhQkWpaMvDYRyycZo) | 3:34 | 2021-10-15 | 2024-01-06 |
+| [Blink Of An Eye](https://open.spotify.com/track/3u0e0Q1QuAV8BLSXU6QyJR) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Seulement L'amour](https://open.spotify.com/album/4iazGUmWUolXNizuTWPLOg) | 3:34 | 2023-11-27 |  |
 | [Blitz](https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P) | [Sferro](https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P) | [Ornaments](https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm) | 4:27 | 2022-04-01 | 2023-10-24 |
 | [Blood Magic](https://open.spotify.com/track/37GD7jrPe7DubPim1i5kJI) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Corruptor](https://open.spotify.com/album/3p6hvxfVtP5u9jnp9Izqyh) | 3:34 | 2021-10-15 | 2023-10-24 |
 | [Breakthrough](https://open.spotify.com/track/4tNtBl6Y9TcInf3HNrOfJs) | [Electronic Gems](https://open.spotify.com/artist/311L9difAs5Rrx0R8XdX1v), [Unfound](https://open.spotify.com/artist/7u4YxeFiaq5WBD6izDeTry) | [Flux](https://open.spotify.com/album/72tw9FXt9VsabfFSzAHXLO) | 4:48 | 2023-10-23 |  |
@@ -212,7 +213,7 @@
 | [In Waves](https://open.spotify.com/track/5W6WQdVPFApaKv4Rg37XLh) | [neon cities](https://open.spotify.com/artist/0CI4GExvLu9Dna6VTGcwTw) | [In Waves](https://open.spotify.com/album/3nN8H3aqCNNbGHN1Z5wvP3) | 4:24 | 2022-04-01 | 2023-10-24 |
 | [Infinity](https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY) | [Zane Alexander](https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7) | [Infinity](https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7) | 3:54 | 2022-07-01 |  |
 | [Inglorious Express](https://open.spotify.com/track/5bOheDMvI3JeFeaxk14HnS) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/3lu8ZwjXwWe5ZnPsG3moBr) | 7:10 | 2022-04-01 | 2022-04-21 |
-| [Innercomm](https://open.spotify.com/track/0STa22n9XjOQc29noSf2M0) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3), [Sferro](https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P) | [Wavefinder](https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu) | 2:28 | 2023-10-23 |  |
+| [Innercomm](https://open.spotify.com/track/0STa22n9XjOQc29noSf2M0) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3), [Sferro](https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P) | [Wavefinder](https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu) | 2:28 | 2023-10-23 | 2024-01-15 |
 | [Intelli](https://open.spotify.com/track/5nr4V4qlRTEJvhCjIeZr0K) | [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Unknown Memories](https://open.spotify.com/album/7nFASYumUoZr10jLO1jald) | 5:57 | 2023-06-30 | 2023-12-11 |
 | [Intergalactic Highway](https://open.spotify.com/track/5PauDNMgo5ehM1xQV9T1iv) | [Dynatron](https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6) | [The Legacy Collection, Vol\. I](https://open.spotify.com/album/4VzabqOc5cLuD4G41aJ4c9) | 4:28 | 2022-07-22 | 2023-10-24 |
 | [Intergalactic Highway](https://open.spotify.com/track/5mBoiHZUeaD0fntrnVeAQ0) | [Dynatron](https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6) | [Dynatron \- Throttle Up EP](https://open.spotify.com/album/54f1qEwr8D5EoO1iuBDmBC) | 4:28 | 2022-04-01 | 2022-07-28 |

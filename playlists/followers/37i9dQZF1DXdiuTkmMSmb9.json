@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 27962,
+  "2024-01-15": 27964,
   "date_first_scraped": "2022-07-19",
   "description": "Tropical jams to catch a vibe and whine to. Cover: Sarz, Asake, Gunna",
   "name": "Afro Fusion",
@@ -5327,6 +5327,24 @@
     {
       "album": {
         "name": "Own Enemy",
+        "url": "https://open.spotify.com/album/6KVmsGCG5q0XNdFl3TQXdh"
+      },
+      "artists": [
+        {
+          "name": "Kol\u00e9",
+          "url": "https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Own Enemy",
+      "url": "https://open.spotify.com/track/26x9fsg3fqsgtvlntsGv7P"
+    },
+    {
+      "album": {
+        "name": "Own Enemy",
         "url": "https://open.spotify.com/album/0BrrYjfByRlrpAThxu76vb"
       },
       "artists": [
@@ -5337,7 +5355,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 176842,
       "name": "Own Enemy",
       "url": "https://open.spotify.com/track/4PsRUx4pV6s1oWhma7NxJn"

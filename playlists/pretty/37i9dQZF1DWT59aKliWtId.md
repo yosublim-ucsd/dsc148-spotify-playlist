@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Brittany Howard
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,768 likes - 123 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,779 likes - 123 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 122 | [It’s Fine](https://open.spotify.com/track/5uGJfyXEHstfpzuOnuR6mb) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [Natural Disaster](https://open.spotify.com/album/0ybuiLFQiZM4YFserGDl4h) | 3:46 |
 | 123 | [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 |
 
-Snapshot ID: `MCwwODBmZTYzMjNkZWUxNDQwYmMzODRkN2FlZjdhYTEyNTI2ODQ2NThk`
+Snapshot ID: `MCwzZGRiN2JiNDY0YjM5ZGM1ZDZjZWEzNjM5MTZhYjdhNGJjOGNmZGI0`

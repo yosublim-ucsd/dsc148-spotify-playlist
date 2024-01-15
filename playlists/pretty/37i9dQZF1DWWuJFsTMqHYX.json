@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 291659,
+  "num_followers": 291811,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGI0NTMzZDYzMzU2NzZhMjk5Njk4ZDRjYTllMGYxYjA3OGI1MmU3",
+  "snapshot_id": "MCwxZDdmN2E5NmU0ZDUyMDMyOWRmYjQ2NGI5NmQ2ZGNjOGU1MTI5NGQ5",
   "tracks": [
     {
       "added_at": "2023-08-16 06:37:57",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Rainy Season Blues",
-        "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
-      },
-      "artists": [
-        {
-          "name": "Lobi Traor\u00e9",
-          "url": "https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "A Lam\u00e8n",
-      "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Kel Tamasheq (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 284840,
       "name": "Awa adounia",
       "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "Rainy Season Blues",
+        "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
+      },
+      "artists": [
+        {
+          "name": "Lobi Traor\u00e9",
+          "url": "https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp"
+        }
+      ],
+      "duration_ms": 141360,
+      "name": "A Lam\u00e8n",
+      "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Shouka (Versi\u00f3n Con Bonus Track)",
-        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
-      },
-      "artists": [
-        {
-          "name": "Mariem Hassan",
-          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Haiyu - Bonus Track",
-      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 298969,
       "name": "Chismiten",
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "Shouka (Versi\u00f3n Con Bonus Track)",
+        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
+      },
+      "artists": [
+        {
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Haiyu - Bonus Track",
+      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
     },
     {
       "added_at": "2023-08-16 06:37:57",

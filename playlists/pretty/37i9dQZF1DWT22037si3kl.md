@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do trap\. Foto: Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,013 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,019 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Merch](https://open.spotify.com/track/73IsI0dVaLJ87xh9zsT49W) | [therealsync](https://open.spotify.com/artist/2ushsgDpgTz5qwDBFSQn1l), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [Merch](https://open.spotify.com/album/5Urx7sjE2IZD3EcIKabhlR) | 2:41 |
 | 50 | [Fábrica de Jóia](https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Ocean](https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 2:45 |
 
-Snapshot ID: `MCxhNTEzZDcyYTYxN2UzM2VkNzgwMzhkODJhZGI4MzY1NDkzZWQxYjYy`
+Snapshot ID: `MCxiMmMwOTk4ZmIyMzVmM2I1M2NkZDQ3MzgyNTU0MjRlNzkxOTVkNTMz`

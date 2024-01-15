@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,187 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,196 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Omhoog](https://open.spotify.com/track/2p6m19378bBTJbgI805XbQ) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Wonderland](https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4) | 3:50 |
 | 40 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
 
-Snapshot ID: `MCxlN2MwOTBkYWEyM2NlOGUwNWJjY2UxYTAxNjFlYmQ1NDJiNWZkMjFi`
+Snapshot ID: `MCwyMzUzNDU5NGU0NGMxMGZjZDY0NDc1NTNmMjNiZTE2NDVjN2RmYmE0`

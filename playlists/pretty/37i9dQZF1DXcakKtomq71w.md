@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,169 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,188 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Quiero Vivir](https://open.spotify.com/track/5mTsyPvix4WM8HE4msdiDv) | [Lannka](https://open.spotify.com/artist/4uJmyKMSQLJhB0gN5CAmSG), [ARKADYAN](https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI) | [Quiero Vivir](https://open.spotify.com/album/6n3o1Y4xWjESryxwOJ4sTi) | 7:48 |
 | 50 | [Get Out](https://open.spotify.com/track/37PpNGz0ae4w3veYjIUHBo) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Get Out](https://open.spotify.com/album/2IxCxqU7APNMxUFuJwmC6j) | 3:41 |
 
-Snapshot ID: `MCxmZDU3OGNmOWM4Mzk1ZjA5N2VhYzA5OWVlMTMzZjA3YWIwMDNjNTYz`
+Snapshot ID: `MCwzMmY0ZGE3NjViOGU5ZWVjOGU4M2U4ZTE3OGE1MzNkODVkNjc0MGU1`

@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 35099,
+  "2024-01-15": 35116,
   "date_first_scraped": "2022-03-28",
   "description": "Top English songs from Asia. Cover: Dot.",
   "name": "IndiEnglish",
@@ -3262,6 +3262,24 @@
     },
     {
       "album": {
+        "name": "Nobody Else But You",
+        "url": "https://open.spotify.com/album/1sgoRiWtrycgeZ0iN7rRFa"
+      },
+      "artists": [
+        {
+          "name": "Laica",
+          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Nobody Else But You",
+      "url": "https://open.spotify.com/track/17BN6uaGdmPuc9HhCRTNlB"
+    },
+    {
+      "album": {
         "name": "Nobody Else but You",
         "url": "https://open.spotify.com/album/7xFNdbh7URD0ertecR7WjY"
       },
@@ -4549,7 +4567,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 178594,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi"

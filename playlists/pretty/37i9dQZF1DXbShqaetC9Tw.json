@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 95865,
+  "num_followers": 95878,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjQ1MzhlZjQyN2I2ZmRmNjNmN2I3ODExYTVkYmVmOGJhYTBhNzM0",
+  "snapshot_id": "MCw4MmIzMWE5YWRhNmVmZWY1ZGFjMTY5Y2Y4MjIxZDRmMDE1NTNmMWI2",
   "tracks": [
     {
       "added_at": "2024-01-08 08:23:50",
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 177877,
-      "name": "in the car",
-      "url": "https://open.spotify.com/track/3pYKGgI0CzsiXUtqI97tuR"
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2024-01-08 08:23:50",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-01-08 08:23:50",
       "album": {
+        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 229570,
+      "name": "LA VIE",
+      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
+    },
+    {
+      "added_at": "2024-01-08 08:23:50",
+      "album": {
         "name": "The moment I loved",
         "url": "https://open.spotify.com/album/0kGEApRuPVl76yI8cJbXQn"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 160955,
       "name": "Nightmare (feat. Plo6, Stay.d & O RO)",
       "url": "https://open.spotify.com/track/5gOsBcGDog5XvleJjOFz02"
-    },
-    {
-      "added_at": "2024-01-08 08:23:50",
-      "album": {
-        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 229570,
-      "name": "LA VIE",
-      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-868 songs - 1 day 9 hr 41 min
+869 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Jazzy Vibes](https://open.spotify.com/track/1hsGmd0FaHgH5nQYZzWrX2) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Jazzy Vibes](https://open.spotify.com/album/1SVTiqLbbKzXGbY99HKnqB) | 1:58 | 2022-12-09 | 2023-10-20 |
 | [jeep](https://open.spotify.com/track/74QVwX6fjyS88E3WywI9NA) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [jeep](https://open.spotify.com/album/3SZNhX6P0hkZY48D0nfEVL) | 1:49 | 2023-12-22 |  |
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2022-04-15 | 2022-05-14 |
-| [Joy of the harp](https://open.spotify.com/track/0LG0YbowzKhQpJ8o3cKwus) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Joy of the harp](https://open.spotify.com/album/33OZiiXN5TCAl3pyGexD6P) | 2:10 | 2022-12-09 |  |
+| [Joy of the harp](https://open.spotify.com/track/0LG0YbowzKhQpJ8o3cKwus) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Joy of the harp](https://open.spotify.com/album/33OZiiXN5TCAl3pyGexD6P) | 2:10 | 2022-12-09 | 2024-01-15 |
 | [Juicy](https://open.spotify.com/track/5XotBMNRTExEMs4MalMTu0) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Hot Rain](https://open.spotify.com/album/4RUeIpvBctPsm87nIsftwp) | 3:13 | 2022-04-15 | 2022-09-09 |
 | [Jukebox Dim](https://open.spotify.com/track/7CzwNHiknbQ5p7IinDOYwU) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Jukebox Dim](https://open.spotify.com/album/4Gva1pmVpFx1clyfOUw5Oz) | 2:18 | 2022-04-15 | 2022-09-09 |
 | [Jump and Run](https://open.spotify.com/track/7MFQThHWQWeBLUrynWMxWh) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [KRETEK](https://open.spotify.com/artist/1Xvvf9ExdWJYvtXk2F5rVA) | [Jump and Run](https://open.spotify.com/album/120G1tTg76kYPRDFTVMBAu) | 2:50 | 2023-09-22 | 2023-10-16 |
@@ -613,6 +613,7 @@
 | [Rooftop](https://open.spotify.com/track/4YLtJCjDkmw5dAbVuxpy7v) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Rooftop](https://open.spotify.com/album/5OOYTWekc4Zw1uQWvz9v0l) | 2:26 | 2022-04-15 | 2023-09-22 |
 | [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 |  |
 | [Rose Cruise](https://open.spotify.com/track/48QMprf8rodxvXB6HbgxoJ) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Rose Cruise](https://open.spotify.com/album/0ryWLsNdVLeRdfMYBQsJVp) | 3:00 | 2022-04-15 | 2022-07-22 |
+| [rose quartz](https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [rose quartz](https://open.spotify.com/album/6Vzlg6lBDOAUBXUARsv4ky) | 2:04 | 2024-01-12 |  |
 | [Round on Me](https://open.spotify.com/track/37iYwXkFgvgFcTXBkYkzrz) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Round On Me](https://open.spotify.com/album/2TvkgXoOUKmAfbHQfQNcM8) | 2:21 | 2022-04-15 |  |
 | [Rugged Soul](https://open.spotify.com/track/32j4lUE7CpoTIGUVM2ZN9n) | [Skeleton Panda](https://open.spotify.com/artist/0PuasH1K6rjltXwNAl06wQ) | [Rugged Soul](https://open.spotify.com/album/0JL0uJmED5AQeBfgmqDDwP) | 1:39 | 2022-04-15 |  |
 | [Running Late](https://open.spotify.com/track/4zfeCdGNMdqw2UQYAHEJRG) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Running Late](https://open.spotify.com/album/6CM8eePyLNd5pYXxdu2PWG) | 2:27 | 2024-01-12 |  |

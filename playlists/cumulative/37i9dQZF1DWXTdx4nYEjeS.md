@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-982 songs - 2 day 11 hr 48 min
+983 songs - 2 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,7 @@
 | [Mexico](https://open.spotify.com/track/55bd4KmdD0m1o4cmreo5uJ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mexico](https://open.spotify.com/album/0hpNndgh1slM2ILQtVwb3M) | 2:41 | 2021-12-24 | 2022-04-21 |
 | [Mezcla Con Aire](https://open.spotify.com/track/0hqs081NSY8lXAn4CentKD) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Mezcla Con Aire](https://open.spotify.com/album/16VCyrgFpJngo1Lg6lzSwN) | 4:38 | 2022-04-08 | 2022-04-10 |
 | [Mi Elemento](https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Celesteacústica \(Veinteaniversario\)](https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy) | 4:27 | 2022-03-24 | 2022-04-13 |
-| [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 | 2021-12-24 |  |
+| [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 | 2021-12-24 | 2024-01-15 |
 | [Mi Mundo](https://open.spotify.com/track/5KljApSmb9LlEKJByQggns) | [Perros De Calle](https://open.spotify.com/artist/6S4uA4EOM68fyWMRDuP44p) | [Mi mundo](https://open.spotify.com/album/6kr91W1uEcl8cWhZRLGdXh) | 2:56 | 2022-03-28 | 2022-04-20 |
 | [Mi Poder](https://open.spotify.com/track/5u6vrXSwaWevC7udvjdGnD) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Mi Poder](https://open.spotify.com/album/4liTpNtI16hNlia7Sa841E) | 3:42 | 2022-03-24 | 2022-03-31 |
 | [Mi Semilla](https://open.spotify.com/track/4SkGchp4kZKGsHGFN8NGb7) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [La Vela Puerca](https://open.spotify.com/album/1njdmV3J4ISzRiXiJeKMTP) | 3:25 | 2022-04-08 | 2022-05-28 |
@@ -915,6 +915,7 @@
 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 | 2021-12-24 |  |
 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 | 2021-12-24 |  |
 | [Un Poco +](https://open.spotify.com/track/4X0CwsrRNbI8bpHz2sn4UZ) | [Rusco](https://open.spotify.com/artist/4yZElII2hTNkvAmiv9eUgo), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Un Poco +](https://open.spotify.com/album/0yZzAM8GxvpCPsfKZ7uUk6) | 3:04 | 2022-03-24 | 2022-04-17 |
+| [Un Poco de Amor Francés](https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 3:26 | 2024-01-12 |  |
 | [Un Poco de Amor Francés](https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:26 | 2021-12-24 | 2024-01-05 |
 | [Un Poquito \(feat\. Gusi\) \- Sinfónico](https://open.spotify.com/track/1hh4LtFXuT59oOHfeIr6On) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Diego Torres Sinfónico](https://open.spotify.com/album/49vYU4qT2wQXGJdhY8Bx97) | 4:31 | 2022-04-08 | 2022-05-30 |
 | [Un Poquito de Paz](https://open.spotify.com/track/30e5OYMZu6uJCR1pTdvN0b) | [Ignacio Bevacqua](https://open.spotify.com/artist/3LCscdSjTj9tG5lhm40caW) | [Un Poquito de Paz](https://open.spotify.com/album/1mVJ5rdF62ihaqxUKcztKu) | 3:37 | 2022-03-24 | 2022-04-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 270660,
+  "num_followers": 270620,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzJmYjUxOTJkOTcwNTUwZmY3OWY1MjY2NDEyMmZlYzZlM2U3Y2Rj",
+  "snapshot_id": "MCw5YzZkZWIxNWFjNjg2OGUwOGNmZDFmYWExMzdkZDI1Njg3YjMyZjZh",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "De Ti o de Nadie",
-        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mac\u00edas",
-          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "Usted No Deber\u00eda",
-      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Milagritos",
         "url": "https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 216760,
       "name": "Tu Fantasma",
       "url": "https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "De Ti o de Nadie",
+        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mac\u00edas",
+          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Usted No Deber\u00eda",
+      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Arde Estocolmo",
-        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 193875,
-      "name": "M\u00e1rgenes",
-      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Est\u00e1s Aqu\u00ed (feat. Tania Libertad & Armando Manzanero)",
         "url": "https://open.spotify.com/album/6GhAIUmsWHKihwzCfo1c0U"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 206618,
       "name": "Est\u00e1s Aqu\u00ed (feat. Tania Libertad & Armando Manzanero)",
       "url": "https://open.spotify.com/track/7yFZQU08FsmAQl5iDOkr9i"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Arde Estocolmo",
+        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "M\u00e1rgenes",
+      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
       "added_at": "2022-08-19 02:13:59",

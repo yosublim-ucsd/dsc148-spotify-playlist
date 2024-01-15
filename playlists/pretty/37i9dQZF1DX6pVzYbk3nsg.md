@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,771 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,778 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 47 | [Candela \(Seis Corrido\) \[Live\]](https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 3:12 |
 | 48 | [Sirenas, Sangueo y San Millán](https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 5:50 |
 | 49 | [Bámbula](https://open.spotify.com/track/4BAc85WLOWaIczCy3xT6HP) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 4:56 |
-| 50 | [Bomba para Afincar](https://open.spotify.com/track/3QyIqnidIGIQYUatcIZ7Or) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 3:34 |
+| 50 | [Mi Maria Luisa](https://open.spotify.com/track/1wvm0RlbYsW3FZWtmnHg2c) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 4:49 |
 
-Snapshot ID: `MCxiYTVkNzQyOTFmZDczMmJkMDhmNDM3NThiZGRjZjRkYmYzZjE0NGQ0`
+Snapshot ID: `MCxlNDRiMWU5OWY3ZjgxYTBhODg4ZmEzYmY3YjI4MjFhMTAxZmI1NmFi`

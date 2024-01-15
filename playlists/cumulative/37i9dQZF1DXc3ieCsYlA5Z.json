@@ -905,13 +905,17 @@
     },
     {
       "album": {
-        "name": "Siente El Boom (feat. Randy) - Single",
+        "name": "Siente El Boom (feat. Randy)",
         "url": "https://open.spotify.com/album/3o7NZFLc96xYBShbKQ3EgN"
       },
       "artists": [
         {
           "name": "Tito \"El Bambino\"",
           "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
         }
       ],
       "date_added": "2023-08-02",

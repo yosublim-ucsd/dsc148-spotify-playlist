@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 4624,
+  "2024-01-15": 4622,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0fNkiHpqmGcxD89fDOfArX"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 211858,
       "name": "2024 (Freestyle)",
       "url": "https://open.spotify.com/track/4PIucCm13InnDwukJEVUL3"
@@ -5516,6 +5516,46 @@
     },
     {
       "album": {
+        "name": "Christell",
+        "url": "https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC"
+      },
+      "artists": [
+        {
+          "name": "Christell",
+          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226069,
+      "name": "Chipi Chipi Chapa Cahapa Dubidubidu",
+      "url": "https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA"
+    },
+    {
+      "album": {
+        "name": "Chipi Chipi Chapa Chapa",
+        "url": "https://open.spotify.com/album/4EUKyq1uFSrMT6Jx3y7muG"
+      },
+      "artists": [
+        {
+          "name": "IamBatus",
+          "url": "https://open.spotify.com/artist/4neMx0OLDw5g0W5wtpiGnl"
+        },
+        {
+          "name": "rich disease",
+          "url": "https://open.spotify.com/artist/4jQpFmqd6D0rDJChVwKkM8"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "Chipi Chipi Chapa Chapa",
+      "url": "https://open.spotify.com/track/7DBDPaBqI5wJewJJ2N86eI"
+    },
+    {
+      "album": {
         "name": "Chipi Chipi Chapa Chapa",
         "url": "https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH"
       },
@@ -8109,7 +8149,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 226103,
       "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
       "url": "https://open.spotify.com/track/0O3ow3j5y8q3ykRs2K2n1b"
@@ -12023,6 +12063,28 @@
       "duration_ms": 204444,
       "name": "Heute Nacht",
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "album": {
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/1rDKlcy1wwTcEOJqsrv0bV"
+      },
+      "artists": [
+        {
+          "name": "LEOWI",
+          "url": "https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y"
+        },
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/4nOA58XLjVbRG9bHfbgyms"
     },
     {
       "album": {
@@ -24967,6 +25029,32 @@
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319191,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
       "album": {

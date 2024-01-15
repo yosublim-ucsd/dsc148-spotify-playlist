@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 1275231,
+  "2024-01-15": 1274619,
   "date_first_scraped": "2019-05-26",
   "description": "The best new music every Friday. Cover: Suki Waterhouse\n",
   "name": "All New Indie",
@@ -33485,10 +33485,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 206447,
       "name": "FAST LOVE",
       "url": "https://open.spotify.com/track/21mtm9jy3qJrrajtWXvQel"
+    },
+    {
+      "album": {
+        "name": "FAST LOVE",
+        "url": "https://open.spotify.com/album/2C1ihKLZTjo8wYGG0TGtDQ"
+      },
+      "artists": [
+        {
+          "name": "Black Hibiscus",
+          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206447,
+      "name": "FAST LOVE",
+      "url": "https://open.spotify.com/track/49RXDNZ5DB9v3YhB6fFM2C"
     },
     {
       "album": {
@@ -48887,7 +48905,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220676,
-      "name": "I Fall in love Too Easily",
+      "name": "I Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
     },
     {

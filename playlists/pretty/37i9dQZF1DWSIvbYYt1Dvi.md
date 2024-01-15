@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > leall é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,997 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,746 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Passageiro](https://open.spotify.com/track/3bIwxQiKV8AT6BYUYK241m) | [chamat](https://open.spotify.com/artist/0q1c6x3yJ4bZ8gFs6jmeCG), [akdesacato](https://open.spotify.com/artist/4896myaVw90gVS7eTSrjPV), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1) | [Sal](https://open.spotify.com/album/2tPghXb8DgUE2GBjWugkxe) | 2:23 |
 | 50 | [Investidor de Sonhos](https://open.spotify.com/track/36hjUBVeXE16PDunTGE6X7) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 2:48 |
 
-Snapshot ID: `MCw4MThiZWU2OWMxMDEzZWJhN2U4YWI1NzgyZmRlNWFjNWUxNGYyNGE3`
+Snapshot ID: `MCxiMDM1ODQzMTRiMmY5YjYxNzNlOWY5NTEzYjBkN2FjMDRmMDhlMjUx`

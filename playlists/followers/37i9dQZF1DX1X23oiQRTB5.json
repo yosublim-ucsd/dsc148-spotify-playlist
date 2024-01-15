@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 1476907,
+  "2024-01-15": 1475508,
   "date_first_scraped": "2022-01-10",
   "description": "Kerchak x Ziak au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
@@ -658,6 +658,24 @@
     },
     {
       "album": {
+        "name": "ALPHA (Parties 1&2)",
+        "url": "https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155920,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/4XqIETfiZBZ9lrx4Nn44Et"
+    },
+    {
+      "album": {
         "name": "ALPHA (Parties 1 & 2)",
         "url": "https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS"
       },
@@ -669,7 +687,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 155920,
       "name": "Capitaine",
       "url": "https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV"

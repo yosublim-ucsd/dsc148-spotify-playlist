@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 756336,
+  "num_followers": 755921,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzUxYTAwNjBlYWY4ZGZjODNmMWQ3MDU3ODA0YTI0NzA0NDNiMGYz",
+  "snapshot_id": "MCxjYjgwMWMxYTczNmMwODRkY2FjM2QwMzUwMjBlMmZjMmJhOWY1MTBi",
   "tracks": [
     {
       "added_at": "2024-01-12 16:29:20",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "Me Pongo Loca",
+      "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "Me Pongo Loca",
-      "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
+        "name": "Ron En El Piso",
+        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 335111,
+      "name": "Ron En El Piso",
+      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
         "name": "Dices me Extra\u00f1as",
         "url": "https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 292317,
       "name": "Dices me Extra\u00f1as",
       "url": "https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "Meu Amore",
-        "url": "https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 189801,
-      "name": "Meu Amore",
-      "url": "https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
+        "name": "Meu Amore",
+        "url": "https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 189801,
+      "name": "Meu Amore",
+      "url": "https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
         "name": "Me Quieres Mal",
         "url": "https://open.spotify.com/album/0QDjsCyrCA0Imvb1HziKd9"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 193613,
       "name": "Me Quieres Mal",
       "url": "https://open.spotify.com/track/6FgjyWp67Z4p3VMtR18cod"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "Ron En El Piso",
-        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 335111,
-      "name": "Ron En El Piso",
-      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
+        "name": "escribiendo TKM",
+        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "escribiendo TKM",
+      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
         "name": "seu carinho",
         "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
       },
@@ -895,22 +915,18 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "escribiendo TKM",
-        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
+        "name": "EN EL ESPACIO",
+        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
       },
       "artists": [
         {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
         }
       ],
-      "duration_ms": 145174,
-      "name": "escribiendo TKM",
-      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
+      "duration_ms": 195750,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -991,22 +1007,6 @@
       "duration_ms": 177341,
       "name": "Walk On Everything",
       "url": "https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "EN EL ESPACIO",
-        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
+        "name": "NO ME QUIERO PEGAR",
+        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 142349,
+      "name": "NO ME QUIERO PEGAR",
+      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
         "name": "V\u00e1monos",
         "url": "https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 194545,
       "name": "egodeath",
       "url": "https://open.spotify.com/track/6NL6uKfXQRx4FlY7DCBPJn"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "NO ME QUIERO PEGAR",
-        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 142349,
-      "name": "NO ME QUIERO PEGAR",
-      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
     },
     {
       "added_at": "2024-01-12 16:29:20",

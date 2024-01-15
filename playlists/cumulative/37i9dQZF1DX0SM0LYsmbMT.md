@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,958 songs - 6 day 7 hr 21 min
+3,960 songs - 6 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [All Synths On Me](https://open.spotify.com/track/7zhNodRIQgRArGDImz9mAD) | [Morlockko Plus](https://open.spotify.com/artist/1ccPbWJhngTmRW371FJYmN) | [All Synths On Me](https://open.spotify.com/album/6WZx6kIYXBWbsmkzL4JBiT) | 2:09 | 2021-01-29 | 2021-01-30 |
 | [All The Tired Ways \- Philanthrope Remix](https://open.spotify.com/track/4YpocTXC09U80AeKHyhawK) | [Dotlights](https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [A Journey Home \(Remixes\)](https://open.spotify.com/album/32XrJY3vCXRofvPi5PKFQs) | 2:23 | 2021-09-05 | 2022-02-25 |
 | [allesgut](https://open.spotify.com/track/65n5gvHCq2nyeEHZlcAzKr) | [kolor](https://open.spotify.com/artist/6cpCzY2S9ExtvCQK0HKYHv) | [the island / allesgut](https://open.spotify.com/album/5vqJu4TeeaXMxuzmAHmNcx) | 1:54 | 2019-07-20 | 2019-11-15 |
+| [Alma \(One for J\)](https://open.spotify.com/track/6eFe0AdPmxPDWDPHzjcsGM) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Alma \(One for J\)](https://open.spotify.com/album/1ec3D2YPrCeSph5ru1C39t) | 1:47 | 2024-01-11 |  |
 | [Alocasia](https://open.spotify.com/track/73G8jf96HfDyEhsWAzNWcR) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [Alocasia](https://open.spotify.com/album/3yJVSSWNqFOrKQgd382iXi) | 2:55 | 2021-04-19 | 2021-08-27 |
 | [Alondra Boulevard](https://open.spotify.com/track/3ibgFCUAwy7EvCBUAWMhbY) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Rendevouz / Alondra Boulevard](https://open.spotify.com/album/6V61incaXusKQs5OSVlNNL) | 1:28 | 2020-05-25 | 2020-08-07 |
 | [Alone at Home](https://open.spotify.com/track/51nL19gyOCwrOOlnZvAgGh) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Alone at Home](https://open.spotify.com/album/1jc5uxgq1DHhds0Yiox0AY) | 2:58 | 2021-03-19 | 2021-07-02 |
@@ -1460,6 +1461,7 @@
 | [Home](https://open.spotify.com/track/5REXLZ1ZpxFyNp3LV4bFSt) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Home](https://open.spotify.com/album/2tkqEdvong0f8SDZLTT0TU) | 1:56 | 2021-11-19 | 2022-09-23 |
 | [Home](https://open.spotify.com/track/1rxr6oJ4GZstU9mmt955Ev) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Home](https://open.spotify.com/album/6O1xtJJ1JWMfUVOnnNpD5R) | 1:31 | 2020-05-15 | 2020-07-28 |
 | [Home Office & Coffee](https://open.spotify.com/track/3gwz7DL6hiJ0n85mQN52he) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Home Office & Coffee](https://open.spotify.com/album/1yrUVxQ8a1wd9RSor9QfEr) | 1:57 | 2020-12-04 | 2021-06-04 |
+| [Home Sweet Home](https://open.spotify.com/track/1AsI8jxKdeD8i2PujNGc0X) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Home Sweet Home](https://open.spotify.com/album/3YSKM3SiASpUt0PHPTP6bE) | 3:46 | 2024-01-11 |  |
 | [Homecoming](https://open.spotify.com/track/1zUOLEMjeD1AWRxjSy0HRF) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Homecoming](https://open.spotify.com/album/4kl3f8qxGW2VZhJumGpIvF) | 3:07 | 2021-06-12 | 2021-10-29 |
 | [homecoming](https://open.spotify.com/track/1sYJkAqKSV74NsaY0VBU5C) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [homecoming](https://open.spotify.com/album/7vtj0SYi7zzzQlVA63D8rt) | 2:12 | 2019-11-20 | 2020-03-25 |
 | [Homecooking](https://open.spotify.com/track/3rr4I5VFW8TJebCkbrQK3N) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Homecooking](https://open.spotify.com/album/0SBmOpP4rB6nvKK82sYuXr) | 2:11 | 2023-06-01 | 2023-07-07 |
@@ -2766,7 +2768,7 @@
 | [Reminisce](https://open.spotify.com/track/6SXJNIroh2Phy4mE3eoByf) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Reminisce](https://open.spotify.com/album/5s6DZtGioEgmR6MCjjFSCS) | 2:10 | 2022-11-24 | 2023-10-20 |
 | [Reminisce Over Us](https://open.spotify.com/track/6LuJ3IpHvMANnuzV5NGzrC) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Reminisce Over Us](https://open.spotify.com/album/1ujPvToU9bIt1QVARSbTSP) | 2:36 | 2021-01-08 | 2021-07-30 |
 | [Reminiscence](https://open.spotify.com/track/59UWGnPPEhGs4sdIjRZOuw) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Reminiscence](https://open.spotify.com/album/0cYXbg9A1gcVPLrf4UPMKz) | 1:59 | 2020-09-26 | 2021-03-06 |
-| [Renato](https://open.spotify.com/track/0S7QUkT5qMA3wXAge3xQxX) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Renato](https://open.spotify.com/album/74p8SxoJSY2gtaC6BlpTHa) | 1:58 | 2024-01-11 |  |
+| [Renato](https://open.spotify.com/track/0S7QUkT5qMA3wXAge3xQxX) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Renato](https://open.spotify.com/album/74p8SxoJSY2gtaC6BlpTHa) | 1:58 | 2024-01-11 | 2024-01-15 |
 | [Rendezvous](https://open.spotify.com/track/4xu21JgkSPpMq8mlZz4dVr) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3), [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Rendezvous](https://open.spotify.com/album/1e7SrKrWXit7LeAxmDYn8L) | 1:45 | 2021-10-09 | 2022-04-08 |
 | [repeat](https://open.spotify.com/track/0nBaWCfOOitktygBKunrEi) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Repeat](https://open.spotify.com/album/6GWuxQnRy3pz42gtgTOoTN) | 1:55 | 2019-11-29 | 2020-04-24 |
 | [Repressed Emotions](https://open.spotify.com/track/3mBH7CsevvdO5VJEM8CuNt) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Mirror of Time](https://open.spotify.com/album/3l0sn0A0E5KvCWqvyw1jg9) | 2:21 | 2021-05-08 | 2021-06-11 |
@@ -2982,7 +2984,7 @@
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-04 | 2022-09-23 |
 | [Short Nap](https://open.spotify.com/track/3wpsrPokpTVnWF96tKhiVz) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Short Nap](https://open.spotify.com/album/6vMhkwv9W0OQ3CJidAJ0Ks) | 2:00 | 2023-10-19 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2021-08-14 | 2021-11-26 |
-| [Sidewalk Serenade](https://open.spotify.com/track/3uR0aMn2F74InlapOBKtIi) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Sidewalk Serenade](https://open.spotify.com/album/0zzKLjkFoAbmcycEXRRQPT) | 2:23 | 2024-01-11 |  |
+| [Sidewalk Serenade](https://open.spotify.com/track/3uR0aMn2F74InlapOBKtIi) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Sidewalk Serenade](https://open.spotify.com/album/0zzKLjkFoAbmcycEXRRQPT) | 2:23 | 2024-01-11 | 2024-01-15 |
 | [Siesta](https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Siesta](https://open.spotify.com/album/4quzoBrFK8aKVuoQlMkSeW) | 2:04 | 2022-12-22 | 2023-04-07 |
 | [Signal](https://open.spotify.com/track/5lJ5yLyU2tpN7Y2fvEgN3a) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Signal](https://open.spotify.com/album/6MbqxLIUE4O6SMpRXWX1dw) | 2:36 | 2021-03-27 | 2021-08-27 |
 | [Signals](https://open.spotify.com/track/2IAYcLJNhjzsJu0MZeyk0i) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [Signals](https://open.spotify.com/album/07biVYYbzHvfepB2KXxBLk) | 4:36 | 2019-06-22 | 2019-10-25 |

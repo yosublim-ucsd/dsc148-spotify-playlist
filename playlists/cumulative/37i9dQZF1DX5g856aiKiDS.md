@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-296 songs - 16 hr 40 min
+297 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Between \(Feat\. misonyeon\)](https://open.spotify.com/track/0CUk6oeqz3iz2k2EdalPAd) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [Lilkey](https://open.spotify.com/artist/7p4j1maf48LtHY0NnAKBj4), [misonyeon](https://open.spotify.com/artist/3RBwHbXl5zZ2A1EzavONan) | [Between \(Feat\. misonyeon\)](https://open.spotify.com/album/4ITlR45BD2Q40PrSYaQChm) | 3:24 | 2023-10-29 | 2023-11-05 |
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-05-02 |  |
 | [Blanket](https://open.spotify.com/track/6P2x7vn7m1Ywp3dYKRM45Q) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Blanket](https://open.spotify.com/album/1vaCDKkdu947LkyyqY4Ya2) | 3:45 | 2022-04-12 | 2022-07-27 |
+| [Bus Stop](https://open.spotify.com/track/2X0Jlj1hP9q2xP5Lkd8sy4) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[A\]](https://open.spotify.com/album/7EJPkVvOwB787PxrHCrrAE) | 3:01 | 2024-01-08 |  |
 | [Butterfly Effect \(Feat\. nobody likes you pat, Emily Brophy\)](https://open.spotify.com/track/5pYfDCKYjiWHJcIZIiCcDP) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Emily Brophy](https://open.spotify.com/artist/3wjB0noN1ulMz4RCU4kNG3) | [A Thousand Miles](https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd) | 2:27 | 2022-04-12 | 2022-09-16 |
 | [Butterfly on my mind](https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w) | [HolyBear](https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn) | [Honey jar No.01](https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t) | 3:39 | 2023-01-26 | 2023-02-15 |
 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 | 2022-04-12 |  |
@@ -177,7 +178,7 @@
 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-12-09 | 2023-01-23 |
 | [NO THING](https://open.spotify.com/track/17krGK7sT3GvG3m6DFbq8N) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [sunset blvd.](https://open.spotify.com/album/0n21696TLr3afBcKu4YMmZ) | 3:11 | 2022-04-21 | 2022-07-28 |
 | [NOBODY](https://open.spotify.com/track/0iBh2ZfirDzFDkqrvkvoiW) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/6UKL26DtG6OIrLPgQxhv77) | 3:21 | 2022-04-12 | 2022-07-28 |
-| [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 | 2022-07-22 |  |
+| [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 | 2022-07-22 | 2024-01-15 |
 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-04-12 |  |
 | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl) | 4:13 | 2022-11-25 | 2022-12-14 |
 | [Nothing's gonna be changed](https://open.spotify.com/track/17csHY9O2lt4H5Kp6NZZWT) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Nothing's gonna be changed](https://open.spotify.com/album/2LTlgwSbpnDq09udfqAqbO) | 3:24 | 2022-05-03 | 2022-07-14 |

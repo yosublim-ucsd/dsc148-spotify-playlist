@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,045 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,140 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Bom Bom](https://open.spotify.com/track/6Un2RiAiS25kTOXFJOOOj6) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Bom Bom](https://open.spotify.com/album/4FHCcifPG04NST3LFhYTNe) | 2:38 |
 | 50 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 |
 
-Snapshot ID: `MCxhOTI4NzI2MTcyOWEwZWYxZmE2MmQ1YjM3YmRlZTdjMTU1ODdjYjY0`
+Snapshot ID: `MCw5ZWNkNmMxMWU5NDNmMGE1YjhiYmJjNTlmNzMxMDEzMTViNWMyN2U3`

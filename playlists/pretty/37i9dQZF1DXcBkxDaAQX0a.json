@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 334956,
+  "num_followers": 334961,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTYwMmMxNzYwY2IyN2IxOTExZWI4ZThmZjM1OWNhYmI2OWViZDc3",
+  "snapshot_id": "MCxhZmFlNTJmYTkwMDc3MTg5MzFiY2ZkNGM0Nzg3YTA3OWNjZDczZDVk",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Seattle",
-        "url": "https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT"
-      },
-      "artists": [
-        {
-          "name": "Those Without",
-          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
-        }
-      ],
-      "duration_ms": 206047,
-      "name": "Seattle",
-      "url": "https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Dear Rose, I'm Haunted",
         "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
       },
@@ -975,18 +959,34 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe"
+        "name": "Seattle",
+        "url": "https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT"
       },
       "artists": [
         {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+          "name": "Those Without",
+          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
         }
       ],
-      "duration_ms": 199750,
-      "name": "Dakota (Reimagined)",
-      "url": "https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i"
+      "duration_ms": 206047,
+      "name": "Seattle",
+      "url": "https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 156010,
+      "name": "Smokestack",
+      "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe"
       },
       "artists": [
         {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
         }
       ],
-      "duration_ms": 156010,
-      "name": "Smokestack",
-      "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
+      "duration_ms": 199750,
+      "name": "Dakota (Reimagined)",
+      "url": "https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i"
     },
     {
       "added_at": "2022-04-04 15:03:53",

@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 68051,
+  "2024-01-15": 68212,
   "date_first_scraped": "2022-05-26",
   "description": "The soundtrack to lazing around.",
   "name": "Lazy Afternoon",
@@ -57,6 +57,24 @@
       "duration_ms": 212274,
       "name": "22 Make",
       "url": "https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "24",
+      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
     },
     {
       "album": {
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"

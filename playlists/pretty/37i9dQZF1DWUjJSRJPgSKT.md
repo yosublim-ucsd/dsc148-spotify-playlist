@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics\. Cover: McCoy Tyner
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,504 likes - 65 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,586 likes - 65 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 32 | [Wee \(Allen's Alley\)](https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Ultimate Stan Getz](https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm) | 8:27 |
 | 33 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
 | 34 | [A Night In Tunisia](https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 5:07 |
-| 35 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
-| 36 | [Nutville](https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [The Best Of Horace Silver](https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT) | 7:15 |
+| 35 | [Nutville](https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [The Best Of Horace Silver](https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT) | 7:15 |
+| 36 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
 | 37 | [Donna Lee](https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 6:17 |
-| 38 | [Arietis \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:41 |
-| 39 | [The Bridge \- Remastered](https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:59 |
+| 38 | [The Bridge \- Remastered](https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:59 |
+| 39 | [Arietis \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:41 |
 | 40 | [Toy](https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Know What I Mean?](https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS) | 5:06 |
-| 41 | [Super Jet](https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:53 |
-| 42 | [Hora Decubitus](https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:43 |
-| 43 | [Now's the Time \- Remastered Version](https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Stitt Plays Bird \(Remastered Version\)](https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh) | 3:16 |
+| 41 | [Now's the Time \- Remastered Version](https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Stitt Plays Bird \(Remastered Version\)](https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh) | 3:16 |
+| 42 | [Super Jet](https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:53 |
+| 43 | [Hora Decubitus](https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:43 |
 | 44 | [Easy To Love](https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx) | [Cannonball Adderley Sextet](https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn) | [Nippon Soul](https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn) | 3:46 |
 | 45 | [Humph \- Rudy Van Gelder 24\-Bit Mastering / 1998 Digital Remaster](https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 2:55 |
 | 46 | [The Natives Are Restless Tonight \- Rudy Van Gelder Edition/1999 Digital Remaster](https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 6:10 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [Moose The Mooche](https://open.spotify.com/track/5gZR2gQcVsQYPZpbOBwtmk) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Drums Around The Corner](https://open.spotify.com/album/5kpNDQ4B9GQd3GS4Z5o2GK) | 15:17 |
 | 65 | [The Surrey With The Fringe On Top \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:11 |
 
-Snapshot ID: `MCw2ZjcwZDc2NjFlMGNhZGU5ZjI4NTVhOGI2YTlkMzdlY2NiY2E2ODJh`
+Snapshot ID: `MCw1MjE2ZjUyNDYxOTU1ZmRkMDcxYWNlYzdlYWFkYzUxNTEzNmI1MjEy`

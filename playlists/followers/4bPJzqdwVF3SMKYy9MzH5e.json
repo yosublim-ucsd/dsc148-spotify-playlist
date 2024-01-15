@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 1,
+  "2024-01-15": 1,
   "date_first_scraped": "2023-06-01",
   "description": "",
   "name": "\ud835\ude5b\ud835\ude68\ud835\ude5d \ud835\ude63\ud835\ude59 \ud835\ude58\ud835\ude5d\ud835\ude65 \ud835\ude5f\ud835\ude62\ud835\ude68 ",
@@ -1641,6 +1641,24 @@
       "duration_ms": 239493,
       "name": "All or Nothing at All",
       "url": "https://open.spotify.com/track/290Hwi5fTlIPTAymzadZti"
+    },
+    {
+      "album": {
+        "name": "I No Longer Fear the Razor Guarding My Heel (III)",
+        "url": "https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137900,
+      "name": "All That Glitters Is Not Gold, But It's Still Damn Beautiful",
+      "url": "https://open.spotify.com/track/23A29DEDxMZdwpl0ZRrMOk"
     },
     {
       "album": {
@@ -29055,6 +29073,24 @@
       "duration_ms": 243440,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/3DT2cNy2Rh7O7htQrkuhtE"
+    },
+    {
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "Swerve City",
+      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 947309,
+  "num_followers": 947370,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNjODM4NmZjYTljMTU2MTc5MjEzNTljNWVhZWE2MTk2NWI2OWUz",
+  "snapshot_id": "MCwwY2M2ZWY1NjViOTU3MmNjMDNlYzkyODFiNmFkNGFkYTU2MjA3ZDFi",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Shabooh Shoobah",
-        "url": "https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Don't Change",
-      "url": "https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "A Secret Wish (Analogue Sequence)",
         "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 282386,
       "name": "Duel",
       "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Shabooh Shoobah",
+        "url": "https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 321533,
-      "name": "The Chauffeur - 2009 Remaster",
-      "url": "https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Psychocandy",
         "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 181746,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 321533,
+      "name": "The Chauffeur - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT"
     },
     {
       "added_at": "2022-11-17 20:08:09",

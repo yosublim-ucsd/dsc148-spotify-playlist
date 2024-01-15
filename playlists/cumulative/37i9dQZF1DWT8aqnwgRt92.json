@@ -20513,6 +20513,24 @@
     },
     {
       "album": {
+        "name": "\u7a7a\u306b\u6a19\u7d50\u3046",
+        "url": "https://open.spotify.com/album/2MIgu2gkMEZQZBv2c4qW7e"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u6797\u79c1",
+          "url": "https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "\u7a7a\u306b\u6a19\u7d50\u3046",
+      "url": "https://open.spotify.com/track/0pnvEHLV9KfhlwRkQ9rseQ"
+    },
+    {
+      "album": {
         "name": "\u7a7a\u8272\u30c7\u30a4\u30ba - from CrosSing",
         "url": "https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW"
       },

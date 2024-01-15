@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-301 songs - 16 hr 36 min
+302 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [leave before u do](https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [leave before u do](https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh) | 3:02 | 2022-06-06 | 2022-07-29 |
 | [Leave You Alone](https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:29 | 2022-07-25 |  |
 | [Left Me Here](https://open.spotify.com/track/0GYS6aXliGiTT199fCwDPA) | [Pathetic Son](https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm) | [Left Me Here](https://open.spotify.com/album/5kHkh2rrj6R4LRWrwZ4o8o) | 3:17 | 2022-06-06 | 2022-07-29 |
+| [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-15 |  |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-13 |  |
 | [letsnotcallitlove](https://open.spotify.com/track/0XwKXTgwaoh9Tr41AAm4kh) | [theodora](https://open.spotify.com/artist/0rvCOUI3i3QNNYiAQaWvql), [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa) | [letsnotcallitlove](https://open.spotify.com/album/7oT3DRy4oHUsU9pAn1Yajh) | 2:52 | 2022-06-06 | 2022-07-29 |
 | [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-08-15 | 2023-10-31 |
@@ -225,7 +226,7 @@
 | [Reissues](https://open.spotify.com/track/4sxgweDT1cTr70Sfj5DLfH) | [OJ Law](https://open.spotify.com/artist/6tjfwkm7IWjpqtMBWckfHd) | [Reissues](https://open.spotify.com/album/4S4kXQvqeurWZBrqbD7Ane) | 3:43 | 2022-06-06 | 2022-07-29 |
 | [Relationship Obsession](https://open.spotify.com/track/6w2dAI4lAxYWXwUlXIOn2T) | [Calinn](https://open.spotify.com/artist/6SbqLtBLg1JMLhQWDt5r4E) | [Relationship Obsession](https://open.spotify.com/album/2itcfjdd0vwebx8MlcXmis) | 3:51 | 2022-06-06 | 2022-07-29 |
 | [Release](https://open.spotify.com/track/0P1Z6G1dnunmC5yc8zhkSx) | [Soulful Ghosts](https://open.spotify.com/artist/3CfoYxHDFSqlGAHsXw3isu) | [Release](https://open.spotify.com/album/2oQeJ0UWEt58697cThIqlv) | 4:01 | 2022-06-06 | 2022-07-29 |
-| [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 | 2022-07-25 |  |
+| [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 | 2022-07-25 | 2024-01-15 |
 | [repeat](https://open.spotify.com/track/6P4jmwL4M4LSa4JWdgAPx2) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [repeat](https://open.spotify.com/album/2cCFHDzbTGF2rYjLNKEHV7) | 3:36 | 2023-07-24 | 2023-08-01 |
 | [Revenge Of The Number](https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Numb](https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu) | 3:22 | 2023-10-16 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-06-06 |  |

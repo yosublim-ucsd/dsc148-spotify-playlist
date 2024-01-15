@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 304076,
+  "2024-01-15": 304110,
   "date_first_scraped": "2023-03-11",
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
   "name": "This Is Ana Gabriel",
@@ -833,7 +833,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 202306,
       "name": "Pacto de Amor",
       "url": "https://open.spotify.com/track/1rbcpg93budzDfOKQ2CAOb"
@@ -909,6 +909,24 @@
       "duration_ms": 204600,
       "name": "Propuesta - En Vivo - Remasterizado",
       "url": "https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "Propuesta - En Vivo - Remasterizado",
+      "url": "https://open.spotify.com/track/0aqUzB00ONkLsVdjESxIsQ"
     },
     {
       "album": {

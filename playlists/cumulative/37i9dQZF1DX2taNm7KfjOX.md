@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Marika Hackman
 
-559 songs - 1 day 10 hr 51 min
+560 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Call the Days](https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR) | 3:32 | 2021-10-22 | 2022-06-13 |
 | [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 | 2022-06-24 | 2024-01-06 |
 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 | 2021-10-22 | 2024-01-06 |
-| [Candle](https://open.spotify.com/track/3sTNIZ0hdHC2Lj1dp0IQRm) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 3:43 | 2022-07-29 |  |
+| [Candle](https://open.spotify.com/track/3sTNIZ0hdHC2Lj1dp0IQRm) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 3:43 | 2022-07-29 | 2024-01-15 |
 | [Candle](https://open.spotify.com/track/7G9lFBhpC4KJDAVNYZJ0Yc) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2XPFEnQ9PcyWPIrJJnAkrX) | 3:43 | 2021-10-22 | 2022-07-28 |
 | [Candy & Curry](https://open.spotify.com/track/5wyWZ3rNgzGi5yYdnWes03) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Candy & Curry](https://open.spotify.com/album/2rKPEMpgL7ClgAY6aeHc21) | 3:33 | 2022-02-25 | 2022-07-29 |
 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 | 2021-10-22 |  |
@@ -335,6 +335,7 @@
 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-13 |  |
 | [Moderation](https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:04 | 2022-06-24 | 2023-03-18 |
 | [Moderation](https://open.spotify.com/track/0awSoObGwWsVAI3uTd18FI) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Moderation](https://open.spotify.com/album/4FEWm4iICGDF9rrl0lpfbk) | 4:04 | 2021-11-19 | 2022-07-29 |
+| [Moderation](https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9) | 4:04 | 2024-01-05 |  |
 | [Money \(Hymn\)](https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Honeychurch](https://open.spotify.com/album/0c6eomNguQ6ymqB6ZFowUu) | 4:19 | 2021-10-22 | 2022-07-29 |
 | [Moonbeam](https://open.spotify.com/track/32ySOggMNM9ZYgh5zAXcjG) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Diamonds](https://open.spotify.com/album/06qBCU6345SLVXjh6vk3NY) | 2:14 | 2023-10-13 | 2023-11-18 |
 | [Moss](https://open.spotify.com/track/6ekrWBXDwoAlGeKviqSk1O) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Lucky](https://open.spotify.com/album/2mj7nC55GrXFOfqJHivuq7) | 2:37 | 2023-06-09 |  |

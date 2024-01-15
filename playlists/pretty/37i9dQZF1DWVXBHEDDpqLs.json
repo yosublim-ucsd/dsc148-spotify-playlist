@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30671,
+  "num_followers": 30670,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTc3Yjc3NTVmOGM1YTNhMTNiY2E5YzYyMDAxMWJhODYyYjgyZWNi",
+  "snapshot_id": "MCxmMTRkZTRlNDQxNDc4NjRiODc4MDJmZTE0YzdiNDViMWI5NTc3OTEy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bulldozer",
-        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
-      },
-      "artists": [
-        {
-          "name": "DJ Lag",
-          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
-        },
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
-        }
-      ],
-      "duration_ms": 301950,
-      "name": "Bulldozer",
-      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "nasty",
         "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 175505,
       "name": "nasty",
       "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bulldozer",
+        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "duration_ms": 301950,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
         "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 148833,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
       "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1023,6 +1023,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Give It 2 Em (Remix)",
+        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        },
+        {
+          "name": "DJ TBoogie",
+          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
+        }
+      ],
+      "duration_ms": 120333,
+      "name": "Give It 2 Em - Remix",
+      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Snack Time",
         "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
       },
@@ -1107,34 +1135,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Give It 2 Em (Remix)",
-        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        },
-        {
-          "name": "DJ TBoogie",
-          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "Give It 2 Em - Remix",
-      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nzinga",
         "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
       },
@@ -1151,6 +1151,26 @@
       "duration_ms": 157870,
       "name": "Nzinga",
       "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        }
+      ],
+      "duration_ms": 143399,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1259,26 +1279,6 @@
       "duration_ms": 131391,
       "name": "Bitch We from Baltimore",
       "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 143399,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Tabasco",
-        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
-      },
-      "artists": [
-        {
-          "name": "BASE",
-          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Tabasco",
-      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "HARIK\u0112N",
         "url": "https://open.spotify.com/album/2esoQJyT3OTzWDw6yUXYO3"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 160140,
       "name": "HARIK\u0112N",
       "url": "https://open.spotify.com/track/3yglfaWdEzm0KMS7K7MMTH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Tabasco",
+        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
+      },
+      "artists": [
+        {
+          "name": "BASE",
+          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Tabasco",
+      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "DURO",
-        "url": "https://open.spotify.com/album/3XCTUt1TLaWdOho6dND3Qx"
-      },
-      "artists": [
-        {
-          "name": "INVT",
-          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
-        }
-      ],
-      "duration_ms": 342481,
-      "name": "TEMPRANO",
-      "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Lonely in Tokyo (Remixes Part 1)",
         "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
       },
@@ -1803,22 +1787,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "BADBOI",
-        "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/3XCTUt1TLaWdOho6dND3Qx"
       },
       "artists": [
         {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        },
-        {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+          "name": "INVT",
+          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
         }
       ],
-      "duration_ms": 196535,
-      "name": "BADBOI",
-      "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
+      "duration_ms": 342481,
+      "name": "TEMPRANO",
+      "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1851,6 +1831,26 @@
       "duration_ms": 268057,
       "name": "Bombtrack (Roska Remix)",
       "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "BADBOI",
+        "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        },
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "BADBOI",
+      "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/3e2suSs2luyHB3Dy5FNCDZ"
-      },
-      "artists": [
-        {
-          "name": "Rene Amesz",
-          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
-        },
-        {
-          "name": "Divine",
-          "url": "https://open.spotify.com/artist/11ycSvFZCC0BFloxOAaray"
-        }
-      ],
-      "duration_ms": 192292,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "COME THRU",
         "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 189518,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/3e2suSs2luyHB3Dy5FNCDZ"
+      },
+      "artists": [
+        {
+          "name": "Rene Amesz",
+          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+        },
+        {
+          "name": "Divine",
+          "url": "https://open.spotify.com/artist/11ycSvFZCC0BFloxOAaray"
+        }
+      ],
+      "duration_ms": 192292,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2011,18 +2011,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "DELETE",
-        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+        "name": "Sweaty Clothes",
+        "url": "https://open.spotify.com/album/5AsYAgNA5T7J0zyduUi1K2"
       },
       "artists": [
         {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        },
+        {
+          "name": "Cerrissa Koza",
+          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
         }
       ],
-      "duration_ms": 376888,
-      "name": "DELETE",
-      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
+      "duration_ms": 157058,
+      "name": "Sweaty Clothes",
+      "url": "https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j"
     }
   ],
   "unique_name": "Global Club Music",

@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:4rwolwLHj97rPwbhyNSeU9">Marizu</a>
 
-220 songs - 11 hr 31 min
+221 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Jo](https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [24ldz](https://open.spotify.com/artist/25otQtaZjbQieePYfYNLrg), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Jo](https://open.spotify.com/album/1SOZ93jmZqYyS9GNu0COEr) | 2:30 | 2022-07-30 | 2023-07-13 |
 | [Johnny](https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Johnny](https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY) | 1:56 | 2023-08-25 |  |
 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 | 2023-05-19 | 2023-08-26 |
-| [Keep it To Myself](https://open.spotify.com/track/1igORpjnhIfzd8w9XX0Zxt) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Keep it To Myself](https://open.spotify.com/album/1wcravxON0Ag9e3lset1gQ) | 2:58 | 2024-01-12 |  |
+| [Keep it To Myself](https://open.spotify.com/track/1igORpjnhIfzd8w9XX0Zxt) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Keep it To Myself](https://open.spotify.com/album/1wcravxON0Ag9e3lset1gQ) | 2:58 | 2024-01-12 | 2024-01-15 |
 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 | 2022-07-30 | 2023-10-25 |
 | [King](https://open.spotify.com/track/3taZaAT7ZjTKqmZv4ahX5B) | [Martin Toe](https://open.spotify.com/artist/3qQlOGleEEh9SPVX0Jx5JK) | [King](https://open.spotify.com/album/1mlJct71ayzMOAS7oTiaqW) | 2:25 | 2022-12-16 | 2023-08-28 |
 | [Kingdom Business](https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [ST\-Saint](https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Kingdom Business](https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr) | 3:30 | 2023-12-01 |  |
@@ -190,6 +190,7 @@
 | [Take It](https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take It](https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ) | 2:35 | 2023-05-19 |  |
 | [Take Me Home](https://open.spotify.com/track/2tNFcj500dviGARgafUT6d) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Take Me Home](https://open.spotify.com/album/6vSih1BvJIucern09KQfs1) | 2:42 | 2022-12-16 | 2023-02-19 |
 | [Take Over](https://open.spotify.com/track/1DVctAfDlfLvpLGDpCjUrg) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Take Over](https://open.spotify.com/album/3QAkjdF8B6oFoPJT0izjGT) | 2:25 | 2023-05-19 |  |
+| [Take Over](https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take Over](https://open.spotify.com/album/3n4sFd0Yb6eHm1YVgALvXB) | 2:57 | 2024-01-12 |  |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-10-24 |  |
 | [Tate](https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi) | [Saint Realest](https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Ah Yami](https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy) | 3:13 | 2023-10-24 |  |
 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 | 2022-07-30 | 2023-08-26 |

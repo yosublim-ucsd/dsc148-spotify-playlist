@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 2190755,
+  "2024-01-15": 2190671,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -5853,7 +5853,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 204000,
       "name": "bay bridge",
       "url": "https://open.spotify.com/track/0Y6RcHx3zWT0B7Zeak5Dss"
@@ -64877,6 +64877,24 @@
       "duration_ms": 176426,
       "name": "String Rider",
       "url": "https://open.spotify.com/track/5l5ns1POwdBQAapLru70S0"
+    },
+    {
+      "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/6pSmR7ZyMToEopTCHWfjHc"
+      },
+      "artists": [
+        {
+          "name": "digitalluc",
+          "url": "https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Stroll",
+      "url": "https://open.spotify.com/track/7w7jNbglIedd2HDaQwJqaK"
     },
     {
       "album": {

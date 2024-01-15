@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 33 | [Vuela](https://open.spotify.com/track/5JOM3Q1tbLSx9xFqhrz5tp) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/68SO1BrZ2nPzYo76nnY1Af) | 2:51 |
 | 34 | [Mas De Lo Que Aposte](https://open.spotify.com/track/0ZixDqWw4qS7NcxUc9zhRa) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/36LMY34MvQVWfJbOuAVYQK) | 6:40 |
 
-Snapshot ID: `Mjg0MTk5ODAsMDAwMDAwMDBmZDFkZTk1YzE3ZWM2M2NhYzE5YzE0MTA2NWNmMjFkYQ==`
+Snapshot ID: `Mjg0MjE0MjAsMDAwMDAwMDAxMzdkZmY3NDI1NWJiNTIxNjI4ZTRkMDM4ZGNkYTk1YQ==`

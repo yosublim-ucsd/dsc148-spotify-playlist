@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 66714,
+  "num_followers": 66718,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmY3M2JhYzhkMDQ4MGIyMjc1NzhjYzE3ZDM0NzkyYjUxOWU1NzQ5",
+  "snapshot_id": "MCwxNGNiY2U5NmMzNTQ4NmM5ZDQwNzViMmQwZmM4ZThhNjI5YjM5M2Vk",
   "tracks": [
     {
       "added_at": "2023-10-27 21:57:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
-      },
-      "artists": [
-        {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
-        }
-      ],
-      "duration_ms": 216296,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Volver a Empezar",
         "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
-        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
       },
       "artists": [
         {
-          "name": "Camiches",
-          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
         }
       ],
-      "duration_ms": 214592,
-      "name": "Espero Nadie Ocupe Mi Lugar",
-      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+      "duration_ms": 216296,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -595,6 +579,22 @@
       "duration_ms": 73533,
       "name": "UNODOCE",
       "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
+        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+      },
+      "artists": [
+        {
+          "name": "Camiches",
+          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Espero Nadie Ocupe Mi Lugar",
+      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
     },
     {
       "added_at": "2023-10-27 21:57:42",

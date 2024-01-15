@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 1777386,
+  "2024-01-15": 1776481,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5OnRh4D7OlwcPwcn2Himqp"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 211858,
       "name": "2024 (Freestyle)",
       "url": "https://open.spotify.com/track/4PIucCm13InnDwukJEVUL3"
@@ -7970,6 +7970,24 @@
     },
     {
       "album": {
+        "name": "Christell",
+        "url": "https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC"
+      },
+      "artists": [
+        {
+          "name": "Christell",
+          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226069,
+      "name": "Chipi Chipi Chapa Cahapa Dubidubidu",
+      "url": "https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA"
+    },
+    {
+      "album": {
         "name": "Chipi Chipi Chapa Chapa",
         "url": "https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH"
       },
@@ -11123,7 +11141,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 226103,
       "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
       "url": "https://open.spotify.com/track/0O3ow3j5y8q3ykRs2K2n1b"
@@ -14683,7 +14701,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 153886,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY"
@@ -22983,7 +23001,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"

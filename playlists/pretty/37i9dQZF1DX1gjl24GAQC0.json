@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? (Cover: B1A4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 827429,
+  "num_followers": 826817,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGQ3NDZlZjZhN2QxNTllNjFlZDZlZTJkNTljNjQ5MGQ0MDUzMTU0",
+  "snapshot_id": "MCw5Nzk3OGFmOTZmNjhlNGJhYjBhNjM4NWMzMDQxYzA1Zjg4YjI2ODAw",
   "tracks": [
     {
       "added_at": "2024-01-08 09:07:26",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-08 09:07:26",
       "album": {
-        "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.2 Sixth Sense",
-        "url": "https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "WATCH IT",
-      "url": "https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN"
-    },
-    {
-      "added_at": "2024-01-08 09:07:26",
-      "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 160371,
       "name": "Get A Guitar",
       "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
+    },
+    {
+      "added_at": "2024-01-08 09:07:26",
+      "album": {
+        "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.2 Sixth Sense",
+        "url": "https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "WATCH IT",
+      "url": "https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN"
     },
     {
       "added_at": "2024-01-08 09:07:26",

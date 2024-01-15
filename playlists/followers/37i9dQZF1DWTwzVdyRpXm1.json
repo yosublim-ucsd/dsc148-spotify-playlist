@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 774435,
+  "2024-01-15": 774443,
   "date_first_scraped": "2021-12-21",
   "description": "Best of South Asian Music. Cover: Shubh",
   "name": "Desi Hits",
@@ -2635,6 +2635,28 @@
     {
       "album": {
         "name": "Kamlee",
+        "url": "https://open.spotify.com/album/7vVDDJV4smCfEEerr0wlRC"
+      },
+      "artists": [
+        {
+          "name": "SARRB",
+          "url": "https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Kamlee",
+      "url": "https://open.spotify.com/track/3W81Nm3KNOYUPaDHrwMzWz"
+    },
+    {
+      "album": {
+        "name": "Kamlee",
         "url": "https://open.spotify.com/album/2yTk24mhG0VYWFY7bj9mLJ"
       },
       "artists": [
@@ -2649,7 +2671,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 209032,
       "name": "Kamlee",
       "url": "https://open.spotify.com/track/7xpZ1artTVaHabv93yK77N"

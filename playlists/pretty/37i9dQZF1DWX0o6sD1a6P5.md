@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,797 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,944 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
 | 50 | [Bolingo](https://open.spotify.com/track/0EQalbiaFBkvRitIsgCvUb) | [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Bolingo](https://open.spotify.com/album/2TrmCYnHsPUSzJZdGejXtr) | 2:46 |
 
-Snapshot ID: `MCxkODk1NDI2MGRiZmQzNDBkYzU4OTBmYTA3N2E2MTRhYTY0YWIwOGEw`
+Snapshot ID: `MCwyNTJjNjcyYzVjNTJlZjI1MjJhNTdjYjFhZDQzY2MwMDkyODE2NzQ5`

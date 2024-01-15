@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,156 songs - 3 day 0 hr 54 min
+1,157 songs - 3 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1100,6 +1100,7 @@
 | [秘密♡Melody](https://open.spotify.com/track/3FdxmFAty5QZTihGD7vy9g) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/5jyTwJEmfqqrUM3CtWeXpi) | 4:11 | 2023-04-18 | 2023-05-12 |
 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 | 2022-08-16 | 2022-10-05 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
+| [空に標結う](https://open.spotify.com/track/0pnvEHLV9KfhlwRkQ9rseQ) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [空に標結う](https://open.spotify.com/album/2MIgu2gkMEZQZBv2c4qW7e) | 3:21 | 2024-01-14 |  |
 | [空色デイズ \- from CrosSing](https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc) | [平野綾](https://open.spotify.com/artist/3HsqZmNM3saSQSfiTl8GzD) | [空色デイズ \- from CrosSing](https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW) | 4:13 | 2023-02-28 | 2023-03-02 |
 | [空飛ぶペンギン](https://open.spotify.com/track/5rDH4z9tnXrSSDLUXUPTAt) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [空飛ぶペンギン](https://open.spotify.com/album/0kKe4lYB2uwxmwTZWqDbAe) | 4:13 | 2023-09-26 | 2023-10-11 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 | 2023-04-19 |

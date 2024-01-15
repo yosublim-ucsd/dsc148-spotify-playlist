@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 28878,
+  "2024-01-15": 28908,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Addy Nagar",
   "name": "Hip-Hop Haryanvi",
@@ -1307,6 +1307,24 @@
       "duration_ms": 213343,
       "name": "Ghani Syaani",
       "url": "https://open.spotify.com/track/1Cb0T2tnApa38jg8DOUF0B"
+    },
+    {
+      "album": {
+        "name": "Ghar Jaane De",
+        "url": "https://open.spotify.com/album/0gmGkBBlAHsx1EggphIQ3h"
+      },
+      "artists": [
+        {
+          "name": "Mandys",
+          "url": "https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141621,
+      "name": "Ghar Jaane De",
+      "url": "https://open.spotify.com/track/0AU0jnkTn516bqy2tJSlmp"
     },
     {
       "album": {
@@ -2813,7 +2831,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 199508,
       "name": "Red Face",
       "url": "https://open.spotify.com/track/2vcOf6FPBKpc9RFnVLPd4j"

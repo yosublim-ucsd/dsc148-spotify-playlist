@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58783,
+  "num_followers": 58820,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4",
+  "snapshot_id": "MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Narrow Sea",
-        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 313489,
-      "name": "O Rock Eternal",
-      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Call on Your Name (Piano Version)",
         "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 228385,
       "name": "Call on Your Name - Piano Version",
       "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Narrow Sea",
+        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 313489,
+      "name": "O Rock Eternal",
+      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Morning Sun, Rising Tide",
-        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
-      },
-      "artists": [
-        {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Oh What a Father",
-      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Morning Sun, Rising Tide",
+        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Oh What a Father",
+      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Attention (a Devotional Project)",
-        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 222613,
-      "name": "Rest with Me",
-      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "From the Valley",
         "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 279451,
       "name": "God Who Saves",
       "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Attention (a Devotional Project)",
+        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 222613,
+      "name": "Rest with Me",
+      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Spirit Of God",
-        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Something About The Name - Live",
-      "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Spirit Of God",
+        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Something About The Name - Live",
+      "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Psalm 68",
+        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
+      },
+      "artists": [
+        {
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Psalm 68",
+      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Universal Christ",
         "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 60944,
       "name": "Mother's Love",
       "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Psalm 68",
-        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Psalm 68",
-      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "an ep of some songs u can read ur bible + journal to",
+        "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 241442,
+      "name": "kindling.mp3",
+      "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "an ep of some songs u can read ur bible + journal to",
-        "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
+        "name": "Glorious Ruins",
+        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
       },
       "artists": [
         {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 241442,
-      "name": "kindling.mp3",
-      "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
+      "duration_ms": 245077,
+      "name": "Glorious Ruins",
+      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 210461,
       "name": "Freedom Fighter (Jimmy James Remix)",
       "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Glorious Ruins",
-        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 245077,
-      "name": "Glorious Ruins",
-      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Echoes Of Wonder",
+        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Grunewald Church Session",
         "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 418995,
       "name": "Without Shelter",
       "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Echoes Of Wonder",
-        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rekindle",
-        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
-      },
-      "artists": [
-        {
-          "name": "The Church Vessel",
-          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
-        }
-      ],
-      "duration_ms": 394520,
-      "name": "Beckon",
-      "url": "https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "A Search for Somewhere Else",
         "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 152444,
       "name": "A Dream Familiar",
       "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Rekindle",
+        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
+      },
+      "artists": [
+        {
+          "name": "The Church Vessel",
+          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
+        }
+      ],
+      "duration_ms": 394520,
+      "name": "Beckon",
+      "url": "https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "undone",
-        "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 291242,
-      "name": "dust to dust/lose myself (undone)",
-      "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
         "url": "https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Suddenly - EP",
-        "url": "https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN"
+        "name": "undone",
+        "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
       },
       "artists": [
         {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 289213,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL"
+      "duration_ms": 291242,
+      "name": "dust to dust/lose myself (undone)",
+      "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1603,6 +1587,22 @@
       "duration_ms": 258292,
       "name": "Faith Fall - pensive piano",
       "url": "https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Suddenly - EP",
+        "url": "https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 289213,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Caves (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 219782,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
     }
   ],
   "unique_name": "The Good Cup",

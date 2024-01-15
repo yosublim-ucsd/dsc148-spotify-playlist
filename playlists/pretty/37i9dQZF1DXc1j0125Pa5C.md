@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,410 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,604 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [É Diferente / Preciso Te Amar](https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz) | [Cantor Jon](https://open.spotify.com/artist/3mF0QHt4NBaji3FVAEGjdT) | [É Diferente / Preciso Te Amar](https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q) | 2:53 |
 | 75 | [Fica / Vida Que Segue \- Ao Vivo](https://open.spotify.com/track/0IPmfBhRrdt3KwNw8JT15R) | [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Fica / Vida Que Segue \(Ao Vivo\)](https://open.spotify.com/album/0xq1jQHDLlCCRMJY6wsDKa) | 4:15 |
 
-Snapshot ID: `MCw2MjM2NGRmYTliZTQ2Mjc2NzhkYzJjZDBlOWJkYTE5MjdhZWJmODRk`
+Snapshot ID: `MCwwMDA5ZTQzYTAxZTZlYmU5NTExYzRlN2Q5NGVlZWQ0ZmQ3OGIwZDZi`

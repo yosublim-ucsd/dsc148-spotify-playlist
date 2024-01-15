@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 44415,
+  "num_followers": 44466,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWJiMzRmZTliNWE2ZDEzMzY0OGZmMjlkYWIyMGExMjA5ZjY4Y2Fh",
+  "snapshot_id": "MCxmNGRjMzdhOWNkMTQ2YzQ0ZTYzOTU0ZWQ0YWFlOTA2M2VhZmY2NTMx",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "In The Basement: The Chess Recordings",
-        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pie DeSanto",
-          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
-        }
-      ],
-      "duration_ms": 180946,
-      "name": "I Want To Know",
-      "url": "https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Love You!",
         "url": "https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 133733,
       "name": "Rock The Bop",
       "url": "https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "In The Basement: The Chess Recordings",
+        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pie DeSanto",
+          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
+        }
+      ],
+      "duration_ms": 180946,
+      "name": "I Want To Know",
+      "url": "https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Okeh Sessions 1952-1955",
-        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "I'm Getting 'Long Alright",
-      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "The Victoria Spivey Collection 1926-27",
         "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 196453,
       "name": "Funny Feathers",
       "url": "https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Complete Okeh Sessions 1952-1955",
+        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "I'm Getting 'Long Alright",
+      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
     },
     {
       "added_at": "2023-08-23 10:15:28",

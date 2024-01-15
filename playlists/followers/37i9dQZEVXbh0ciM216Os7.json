@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 0,
+  "2024-01-15": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -4205,7 +4205,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 216082,
       "name": "Decapitation Chamber",
       "url": "https://open.spotify.com/track/7hkx7WJoBglksDJXL0ujoD"
@@ -4497,7 +4497,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 156864,
       "name": "Des\u00e7o e Subo",
       "url": "https://open.spotify.com/track/2ZNAxSjnYtDjZp2cCjklS1"
@@ -5167,7 +5167,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 417606,
       "name": "Don\u2018t Blame Me",
       "url": "https://open.spotify.com/track/5EK2DWMUXgbGdYclO6Z1yh"
@@ -6695,6 +6695,28 @@
       "duration_ms": 174160,
       "name": "Firework in the Falling Snow - Acoustic Version",
       "url": "https://open.spotify.com/track/3x1Oa8gNgiVvvAEXQb7kSl"
+    },
+    {
+      "album": {
+        "name": "Five Seven",
+        "url": "https://open.spotify.com/album/4HGaIaGzCa4Kb8S4EiWTAa"
+      },
+      "artists": [
+        {
+          "name": "Brian Jordan Alvarez",
+          "url": "https://open.spotify.com/artist/0C9MZIb6cOOnUgDtyzYg1B"
+        },
+        {
+          "name": "TJ Mack",
+          "url": "https://open.spotify.com/artist/4yTepqBG8SwTqK7DFnklwn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184957,
+      "name": "Five Seven",
+      "url": "https://open.spotify.com/track/2sUBfSrXHRe4Gbb3DUYtCO"
     },
     {
       "album": {
@@ -8241,7 +8263,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 173888,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
@@ -9200,6 +9222,24 @@
     },
     {
       "album": {
+        "name": "ILLEGALS IN MY YARD",
+        "url": "https://open.spotify.com/album/6UpSlVyxlhCWg62GEtI2B9"
+      },
+      "artists": [
+        {
+          "name": "Matt Rogers",
+          "url": "https://open.spotify.com/artist/02Qld134hJvkRWYP5KaXPX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "ILLEGALS IN MY YARD",
+      "url": "https://open.spotify.com/track/6s490uEVJ3t0OwCkKIVBze"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/2Gt6YZlvw2ygWIeIX7VzCc"
       },
@@ -10017,7 +10057,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 334204,
       "name": "Jumpin' Jack Flash - Live at Racket, NYC",
       "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
@@ -12210,6 +12250,28 @@
     },
     {
       "album": {
+        "name": "Million Cash",
+        "url": "https://open.spotify.com/album/6lk6QEktC7WigyXE2aTaVr"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144059,
+      "name": "Million Cash",
+      "url": "https://open.spotify.com/track/6Cds0aUGW0olm8E5kxSZ5J"
+    },
+    {
+      "album": {
         "name": "Fine Tune",
         "url": "https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ"
       },
@@ -12259,7 +12321,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 213640,
       "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
@@ -12859,7 +12921,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 156101,
       "name": "Mr. McAdams",
       "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
@@ -14397,7 +14459,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 109634,
       "name": "PERCEPTION CHECK",
       "url": "https://open.spotify.com/track/6o2nroFoqAxj7kSWLo6AGb"
@@ -14888,6 +14950,24 @@
     },
     {
       "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "album": {
         "name": "Pretty People (feat. INJI)",
         "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
       },
@@ -14951,7 +15031,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 268846,
       "name": "Profitless Thoughts KutMasta Kurt REMIX",
       "url": "https://open.spotify.com/track/3ri4PCDfOXN8KCKYKpZkCk"
@@ -15747,7 +15827,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 165634,
       "name": "Rompe La Dompe",
       "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
@@ -16285,7 +16365,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 151933,
       "name": "SEVEN (with Lil Wayne)",
       "url": "https://open.spotify.com/track/0pMqb24GW0NLPVkVw8NMVT"
@@ -17249,6 +17329,28 @@
       "duration_ms": 126185,
       "name": "Spirit Quest",
       "url": "https://open.spotify.com/track/2aleGe2cz1wrawOKLrH0pC"
+    },
+    {
+      "album": {
+        "name": "Split A Meal (Slowed)",
+        "url": "https://open.spotify.com/album/7fPGC2tFue61gjqVCHPYf2"
+      },
+      "artists": [
+        {
+          "name": "DJ TUT",
+          "url": "https://open.spotify.com/artist/4keIw4JHdNnty0vGWpGyg1"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131631,
+      "name": "Split A Meal (Slowed)",
+      "url": "https://open.spotify.com/track/7MeOf0lL0uW1qhO3VDohd3"
     },
     {
       "album": {
@@ -19606,6 +19708,24 @@
     },
     {
       "album": {
+        "name": "Trailer Park Alien",
+        "url": "https://open.spotify.com/album/2jng3eNKEqvmCr05qndItO"
+      },
+      "artists": [
+        {
+          "name": "Brandon Jamar Scott",
+          "url": "https://open.spotify.com/artist/7sg0lv2LycL7ZWGXYfTYTk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89538,
+      "name": "Trailer Park Alien",
+      "url": "https://open.spotify.com/track/2cUNR9pD2yt5360rMafy9d"
+    },
+    {
+      "album": {
         "name": "Tree House",
         "url": "https://open.spotify.com/album/191OQbivDSqVZV55R6adU5"
       },
@@ -20255,7 +20375,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 209377,
       "name": "Vices (feat. Wax)",
       "url": "https://open.spotify.com/track/1vyyN86TAPy26pgX4Iv5yZ"
@@ -20780,6 +20900,28 @@
     },
     {
       "album": {
+        "name": "Caspa Clark- Ninja Warrior",
+        "url": "https://open.spotify.com/album/50hfWF7oWKIoM63p6XXeFY"
+      },
+      "artists": [
+        {
+          "name": "Caspa Clark",
+          "url": "https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209665,
+      "name": "We sell weed",
+      "url": "https://open.spotify.com/track/62c82cEDfgwjXUSGsJ8qjj"
+    },
+    {
+      "album": {
         "name": "We Should Get Married",
         "url": "https://open.spotify.com/album/5DqiJn6X0JGXhP3JMM9C3I"
       },
@@ -21021,7 +21163,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 220133,
       "name": "What We're Up Against feat. Elize Ryd of Amaranthe",
       "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"

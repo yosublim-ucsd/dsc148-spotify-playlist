@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,763 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,477 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 | 50 | [956](https://open.spotify.com/track/1wM5VDXeR8o0ueQIvAaJib) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [956](https://open.spotify.com/album/5GfFyWL5lWT3JQ5WsUE0kz) | 2:22 |
 
-Snapshot ID: `MCw2YjQxNTU3NWM5MTBmYmVjNjY4Y2QyNWQ4NmZjOTU5ZGExODc4Nzlk`
+Snapshot ID: `MCwxNDAzOTE5NjhlZjc4ZTk0MTE5ZGM3MDdlMTYyZTk4ZjcyNWFjNzU2`

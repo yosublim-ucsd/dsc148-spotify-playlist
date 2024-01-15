@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-315 songs - 1 day 8 hr 59 min
+316 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All I Can Say \- Live](https://open.spotify.com/track/3eIo7uHEDnOMkHNXWaJawC) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Hope Wigston](https://open.spotify.com/artist/2LEvo8yqJ12B3J8ccfY07o) | [All I Can Say \(Live\)](https://open.spotify.com/album/4PC0nA5lCWUe64TKKdMxYP) | 9:51 | 2022-09-11 | 2023-03-11 |
 | [All I Have](https://open.spotify.com/track/7lWozVBrvBZp8xpARVxmaJ) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [All I Have](https://open.spotify.com/album/38ecdRbRIIPVCRtmA23CKy) | 4:57 | 2022-02-19 | 2022-09-12 |
 | [All I Have is Christ \- Live at WorshipGod](https://open.spotify.com/track/5oA5yi2SX3CmZEYGITvqz5) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [All I Have is Christ \(Live at WorshipGod\)](https://open.spotify.com/album/0MWJBYfY1Vp7G2b96vsCKj) | 4:46 | 2024-01-12 |  |
-| [All In \- Live](https://open.spotify.com/track/3MHZjcYk9GpBrbEgR3MjID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [All In \(Live\)](https://open.spotify.com/album/4y9fpBs2yhCjdeXPLhPXyW) | 7:06 | 2023-08-11 |  |
+| [All In \- Live](https://open.spotify.com/track/3MHZjcYk9GpBrbEgR3MjID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [All In \(Live\)](https://open.spotify.com/album/4y9fpBs2yhCjdeXPLhPXyW) | 7:06 | 2023-08-11 | 2024-01-15 |
 | [Almost Home \- Live](https://open.spotify.com/track/7buJkwwok8lFaTLZtQT0UJ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Almost Home \(Live\)](https://open.spotify.com/album/4OBs9ABQX0TH3Q5UsGsrmA) | 3:44 | 2022-02-19 | 2022-09-12 |
 | [Altogether Good \- Live](https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [The Joy of Being Together \(Live\)](https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE) | 5:09 | 2022-02-19 | 2023-05-20 |
 | [Amen](https://open.spotify.com/track/5pjUDnWXPDckOeIOLoIB36) | [htb worship](https://open.spotify.com/artist/52TpHGpaHSqNEpCFPBihKr) | [Amen](https://open.spotify.com/album/3TfnzLUfr1nIfutsmv3wQx) | 4:36 | 2022-09-11 | 2023-03-11 |
@@ -210,6 +210,7 @@
 | [On The Rise](https://open.spotify.com/track/13t1LQJSZhd2hbKMxRCLMI) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [On The Rise](https://open.spotify.com/album/5RxG9qsktzpP1xGa01l3kG) | 5:02 | 2024-01-12 |  |
 | [One and Only Jesus](https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [One and Only Jesus](https://open.spotify.com/album/50OzYCE4poMoyteNi845mA) | 3:55 | 2022-02-19 | 2024-01-13 |
 | [One Look \- Live](https://open.spotify.com/track/0wxfQw1UiulkiXi1LvvEPK) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [One Look \(Live\)](https://open.spotify.com/album/465d1TwXS2wx7dKQQtbjf5) | 7:26 | 2022-02-19 | 2023-03-11 |
+| [Only God \- Live From Costa Mesa, CA, 2023](https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lucas McCloud](https://open.spotify.com/artist/3O8ssrHqGYnyGdPg7nOGDJ) | [Only God \(Live From Costa Mesa, CA, 2023\)](https://open.spotify.com/album/3FO3dV5JlM5oD4kINskNT4) | 7:16 | 2024-01-12 |  |
 | [Only Jesus](https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Only Jesus](https://open.spotify.com/album/3UnE167OVsZRrpookBftI5) | 10:24 | 2023-04-14 |  |
 | [Only Jesus \- Live](https://open.spotify.com/track/4ArjLl7k5fxD7ojQ0xTKsD) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R) | [Only Jesus \(Live\)](https://open.spotify.com/album/7D613A0Ts9Kd4BpyioCrmd) | 4:49 | 2022-09-11 | 2023-03-11 |
 | [Only You \- Live](https://open.spotify.com/track/4ebt6MOHsjpafxEmjXhAGp) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Only You \(Live\)](https://open.spotify.com/album/6AwaUJBqHUAeU6kNQaBfqI) | 4:24 | 2022-09-11 | 2023-03-11 |

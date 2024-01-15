@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Preme
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,635 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,669 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Only Real](https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 2:35 |
 | 2 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 |
-| 3 | [Let The Boy Die](https://open.spotify.com/track/12vdBeUeEiJmLvMMDHMDSp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [Merkules](https://open.spotify.com/artist/5ZJoRfn7aeOp89PGBAJFFO) | [Let The Boy Die](https://open.spotify.com/album/3jsJ6zeCyMjknyNLr4k14Y) | 3:36 |
+| 3 | [Let The Boy Die](https://open.spotify.com/track/12vdBeUeEiJmLvMMDHMDSp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Let The Boy Die](https://open.spotify.com/album/3jsJ6zeCyMjknyNLr4k14Y) | 3:36 |
 | 4 | [Million Cash](https://open.spotify.com/track/6Cds0aUGW0olm8E5kxSZ5J) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Million Cash](https://open.spotify.com/album/6lk6QEktC7WigyXE2aTaVr) | 2:24 |
 | 5 | [Dementia](https://open.spotify.com/track/045Q1ezYDtcstMapwsgx4q) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Dementia](https://open.spotify.com/album/2KfL4h6fD3FqZBLya3IzEI) | 1:42 |
 | 6 | [BUSINESS CLASS](https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE \(Deluxe\)](https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Beams Don't Lose Balance](https://open.spotify.com/track/4v2tggb0uijJLiRqgSD0RU) | [Zeuce](https://open.spotify.com/artist/1QIW19JeWy2vtQDvH3JXkj) | [Beams Don't Lose Balance](https://open.spotify.com/album/5vK5KcBpEAh6FGX5ZfITbv) | 1:51 |
 | 100 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCw2NDk0NWFkNzE3NGUzZWEzZmY1OTFhNDg2Y2NhZmU3OTU2YTMzMzE5`
+Snapshot ID: `MCxkNWVlZjQ3YmM2YmZjNGE1MWE3NDkyZDczNmMzNjdhMTFhOTA4MjUw`

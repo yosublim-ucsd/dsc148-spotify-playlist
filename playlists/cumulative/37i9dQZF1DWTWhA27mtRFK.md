@@ -4,7 +4,7 @@
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-80 songs - 15 hr 56 min
+82 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Crystallite](https://open.spotify.com/track/6zcBbo9WY4p21vN7TMbrKO) | [Don Campbell](https://open.spotify.com/artist/0Bb6vF6PtIh30Xw5K2dGZq) | [Essence](https://open.spotify.com/album/6fjUjZZJ8E7ggW6ClhZ9y6) | 19:02 | 2021-08-20 | 2022-11-24 |
 | [Crystals](https://open.spotify.com/track/1oHsdvHWOYUz06YLNDWyzp) | [Bob Ose](https://open.spotify.com/artist/2KFktC8T24X7duh0peZZrg), [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Crystals: New Music for Relaxation \# 2](https://open.spotify.com/album/2r8goCcnxJ2CcaeYqd2omy) | 21:18 | 2021-08-20 |  |
 | [El\-Hadra](https://open.spotify.com/track/57Xvgypj0JSo0E5IvnKGgP) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr), [Ted De Jong](https://open.spotify.com/artist/4UEGXaYpVtqbZkhFEt0SAJ) | [Sacred Planet \(From women & man to gods & godnesses\)](https://open.spotify.com/album/5CFRiMivWeZdmlTtrAfk1f) | 3:57 | 2021-08-20 |  |
-| [Encounter](https://open.spotify.com/track/03s6eSh8MFevFV6wmMo31b) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Encounter](https://open.spotify.com/album/0471cdD9HGAzu34WkdsLnC) | 3:29 | 2021-08-20 |  |
+| [Encounter](https://open.spotify.com/track/03s6eSh8MFevFV6wmMo31b) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Encounter](https://open.spotify.com/album/0471cdD9HGAzu34WkdsLnC) | 3:29 | 2021-08-20 | 2024-01-15 |
+| [Encounter](https://open.spotify.com/track/1COW0wZN5HUK06Mu0CLwVw) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Encounter](https://open.spotify.com/album/1VD2FJa1F8uSh5yFe53KIs) | 3:29 | 2023-12-04 |  |
 | [Equinox](https://open.spotify.com/track/4Xfbsq2VWNYln8kR8nQGQ9) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Celestial Reiki](https://open.spotify.com/album/2n3hCih5TcYCYzbwq76bLT) | 23:20 | 2022-06-22 |  |
 | [Equinox](https://open.spotify.com/track/1qffQn2iLImD2RVW7iknSi) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/6f6dlAEjzxDP5QBS6SLEyX) | 23:20 | 2022-10-04 | 2022-11-13 |
 | [Equinox](https://open.spotify.com/track/5hUayouy9mD1UOaGVRNerI) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/3jwoAyigM9VhV1tiw9TKcn) | 23:20 | 2021-08-20 | 2022-07-29 |
@@ -83,7 +84,8 @@
 | [The Hills of Home](https://open.spotify.com/track/0rXJ5RDh7wwdLgDutWaDFy) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D), [Tim Clark](https://open.spotify.com/artist/5B9WJKf7G8DJMmYnOlmqyO) | [Rain](https://open.spotify.com/album/4MmMeNye5l6EGKeFi8xCIA) | 7:18 | 2021-08-20 | 2024-01-14 |
 | [The Space Between](https://open.spotify.com/track/7FNpgKsAUFgt5ONasflWtc) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 21:53 | 2021-08-20 | 2022-07-29 |
 | [The Space Between](https://open.spotify.com/track/7pes8uQmsmsHtFiG1eFsJM) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/4nsIXN8ladhBrdhXHeye51) | 21:53 | 2022-06-22 |  |
-| [The Way Home](https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/2QDMuThy1sVnQzLm7qffIM) | 24:53 | 2021-08-20 |  |
+| [The Way Home](https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/2QDMuThy1sVnQzLm7qffIM) | 24:53 | 2021-08-20 | 2024-01-15 |
+| [The Way Home](https://open.spotify.com/track/73YQtVmeUz8Aridl3owXIr) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/5op9oskp874PemPjx5uJfL) | 24:53 | 2023-12-04 |  |
 | [Tropical Convergence](https://open.spotify.com/track/3Ic62vrDwJtxQ7lPXfug0O) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/40tlrXYp2qd0ioGD92haRj) | 2:41 | 2021-08-20 | 2022-07-29 |
 | [Tropical Convergence](https://open.spotify.com/track/5bKllsJIn1Le6YJkipcuwS) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 2:41 | 2022-06-22 |  |
 | [Valley of the Birds](https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Traces of Time](https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr) | 11:56 | 2021-08-20 |  |

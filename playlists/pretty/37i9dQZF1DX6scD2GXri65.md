@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,816 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,917 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 51 | [Break Free \(Official Decibel Outdoor 2022 Anthem\)](https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Break Free \(Official Decibel Outdoor 2022 Anthem\)](https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq) | 4:48 |
 | 52 | [Hard To Tell](https://open.spotify.com/track/58qwngsMklWQLew2rA9Nbg) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Hard To Tell](https://open.spotify.com/album/2i2ZfgWXTGG5i9LWIgmXWj) | 3:15 |
 | 53 | [I Like Bass](https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [I Like Bass](https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy) | 4:29 |
-| 54 | [Crazy](https://open.spotify.com/track/4yKjG2a8xS68h7J6t9ycGX) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Crazy](https://open.spotify.com/album/6ju4jSGjr31ZaqqFB17IDV) | 2:56 |
-| 55 | [I'm Me](https://open.spotify.com/track/2RAnGGv0jVWMmtFvskh7Fo) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [I'm Me](https://open.spotify.com/album/5s3YB12cqHIU5tS0s1kcT5) | 2:51 |
+| 54 | [I'm Me](https://open.spotify.com/track/2RAnGGv0jVWMmtFvskh7Fo) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [I'm Me](https://open.spotify.com/album/5s3YB12cqHIU5tS0s1kcT5) | 2:51 |
+| 55 | [Crazy](https://open.spotify.com/track/4yKjG2a8xS68h7J6t9ycGX) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Crazy](https://open.spotify.com/album/6ju4jSGjr31ZaqqFB17IDV) | 2:56 |
 | 56 | [Never Be Alone](https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb) | [Never Be Alone](https://open.spotify.com/album/4R4iMy5aLahQicWIoaf1QZ) | 2:45 |
 | 57 | [NRG](https://open.spotify.com/track/014cgPQdDPnwysDT3453Nf) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [HDNA](https://open.spotify.com/album/6qOxQawMkqAyf1j8KD2I2q) | 3:43 |
 | 58 | [Firestone](https://open.spotify.com/track/5rlO2Wr2jifgjiBbPy25Su) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Firestone](https://open.spotify.com/album/2GHFB4DuUJ68WuI5hD2HvX) | 4:01 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 66 | [The Raven Of The Night](https://open.spotify.com/track/4SdCxGUYg3XRezP1VBrKAn) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [The Raven Of The Night](https://open.spotify.com/album/48NY92V1K9NtzgfH3jbOAu) | 4:22 |
 | 67 | [What You Heard](https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI) | [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [What You Heard](https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4) | 2:42 |
 | 68 | [Wasted](https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Wasted](https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3) | 3:31 |
-| 69 | [Rise Of The Tribe](https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Rise Of The Tribe](https://open.spotify.com/album/1wMAE1XxaWWY7U3BgUrxZO) | 4:23 |
-| 70 | [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 |
+| 69 | [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 |
+| 70 | [Rise Of The Tribe](https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Rise Of The Tribe](https://open.spotify.com/album/1wMAE1XxaWWY7U3BgUrxZO) | 4:23 |
 | 71 | [The Kraken](https://open.spotify.com/track/398aJwlA11z0Nep0NQlORu) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [The Kraken](https://open.spotify.com/album/2LmBua3Yh0Y5b5N83kDRKK) | 4:32 |
 | 72 | [Won't Forget](https://open.spotify.com/track/7JXZuqmi5XC8pfiNgeF1yZ) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW) | [Won't Forget](https://open.spotify.com/album/6PnHSLrP5IYAubIo3fT2n7) | 2:32 |
 | 73 | [Stop the Time](https://open.spotify.com/track/2c5R73DJKgNZNACGnhlsQU) | [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Stop the Time](https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L) | 2:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Unleash The Fire](https://open.spotify.com/track/0jb8dBj7ILjgev8qt0pWrT) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Unleash The Fire](https://open.spotify.com/album/6uCzjve3I6bB3MsxI7AROY) | 4:01 |
 | 80 | [In the Shadows 2k22 \- Krowdexx Mix](https://open.spotify.com/track/6pgDjTGp6VgbUG2dYLUMdO) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [A.Spencer](https://open.spotify.com/artist/5mc3fIXZDVqM8g9wkntXyg), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [In the Shadows 2k22 \(Krowdexx Mix\)](https://open.spotify.com/album/5l19N5cOJJv9Mj4KF5dJDk) | 2:39 |
 
-Snapshot ID: `MCw3MTFjODBjZjYwNDhkYTY5MzViY2U2MDhjZjJjMDc2YmJkZDg2YTE1`
+Snapshot ID: `MCxlZWM1NDI1NjQ1ODgxNjRmMzMwZWE1MmE0MTEzNWU1N2VkMjYwZmNj`

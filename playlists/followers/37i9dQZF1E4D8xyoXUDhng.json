@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 203,
+  "2024-01-15": 203,
   "date_first_scraped": "2023-03-18",
   "description": "With Callie Day, Terrell Grice, STOUT and more",
   "name": "Callie Day Radio",
@@ -155,6 +155,24 @@
       "duration_ms": 246038,
       "name": "A House Is Not a Home",
       "url": "https://open.spotify.com/track/7G9KpYL4QgrQwtetBNgAZc"
+    },
+    {
+      "album": {
+        "name": "Help",
+        "url": "https://open.spotify.com/album/37ZDa8nGj9cQRb84EUPzpy"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236602,
+      "name": "A Little More Jesus",
+      "url": "https://open.spotify.com/track/2OfsLQ5KbRiqMTpElkNlRn"
     },
     {
       "album": {
@@ -519,7 +537,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 234933,
       "name": "All I have to Give",
       "url": "https://open.spotify.com/track/1FEE0wRzmiUqGvzYwkzQ7C"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 127703,
       "name": "Balm In Gilead",
       "url": "https://open.spotify.com/track/3LCvxWsmC6UVTWpynIYFWo"
@@ -1604,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "Saints In Praise III",
+        "url": "https://open.spotify.com/album/7HrwpdcCbHQW1RKfKD9gXV"
+      },
+      "artists": [
+        {
+          "name": "West Angeles Cogic Mass Choir And Congregation",
+          "url": "https://open.spotify.com/artist/73uuFguS457tkIlBOgQvpx"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60666,
+      "name": "Bishop's Prayer",
+      "url": "https://open.spotify.com/track/03PzMzw1L0f1rtngLmb7bT"
+    },
+    {
+      "album": {
         "name": "Ballads of Change",
         "url": "https://open.spotify.com/album/3T3rCIBrk1Gy487POG7Uf5"
       },
@@ -1777,7 +1813,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 248623,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/7Cy3ISB2sgmyqO2IqBTEBA"
@@ -1813,7 +1849,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 282826,
       "name": "Blessin Me",
       "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
@@ -3717,7 +3753,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 169793,
       "name": "Favor",
       "url": "https://open.spotify.com/track/0cD3a75G3ttQ069JnhUdIi"
@@ -5101,7 +5137,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 232232,
       "name": "Good & Loved (feat. DOE) - Stellars 2020",
       "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
@@ -5481,7 +5517,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 281959,
       "name": "Have It All",
       "url": "https://open.spotify.com/track/5RX77RjMsNHKd8i6JCkGRt"
@@ -6363,7 +6399,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 300840,
       "name": "His Mercy Endureth Forever",
       "url": "https://open.spotify.com/track/5tqIQbQBUPRpGVFzl5usI7"
@@ -7045,7 +7081,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 203976,
       "name": "I Can't Give Up - Radio Edit",
       "url": "https://open.spotify.com/track/7bQSmcKltzKUMNQBsGtnEu"
@@ -7291,7 +7327,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 388700,
       "name": "I Know Something About God's Grace (feat. Gaye Arbuckle)",
       "url": "https://open.spotify.com/track/7dVessY9Q2jYxmnJxyDV7R"
@@ -7841,7 +7877,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 159733,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5NflJN6nkfUgJmCyndWILV"
@@ -8091,7 +8127,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 225473,
       "name": "I'll Always Be Thankful (feat. the Pace Family)",
       "url": "https://open.spotify.com/track/3QKhnaRMGjvmLsQLeadTQG"
@@ -8171,6 +8207,24 @@
       "duration_ms": 356573,
       "name": "I'll Praise",
       "url": "https://open.spotify.com/track/7wkJJPm4cJnevULnXYJhJm"
+    },
+    {
+      "album": {
+        "name": "I'm At Peace",
+        "url": "https://open.spotify.com/album/45YhRYFSe1iIaL4EoMMzgE"
+      },
+      "artists": [
+        {
+          "name": "Vicki Yohe",
+          "url": "https://open.spotify.com/artist/2ePc8jGwsMZtgQemYDJLY7"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350600,
+      "name": "I'm At Peace",
+      "url": "https://open.spotify.com/track/5amxAD9ohXKWXVFqHQaalx"
     },
     {
       "album": {
@@ -8989,7 +9043,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 359609,
       "name": "It Belongs To Me (feat. Marvin L. Winans)",
       "url": "https://open.spotify.com/track/6uY12z9dd3ySOiaaMrqoQH"
@@ -9079,7 +9133,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 248266,
       "name": "It's My Pleasure",
       "url": "https://open.spotify.com/track/3Y65KNCp1jR4LDzlViBgAH"
@@ -10988,6 +11042,24 @@
     },
     {
       "album": {
+        "name": "Love Me to Death",
+        "url": "https://open.spotify.com/album/2vJv8qf2pB3qyVXCriwkkM"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ware",
+          "url": "https://open.spotify.com/artist/5czwQsY7himQixSYkBvJ8Y"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217704,
+      "name": "Love Me to Death",
+      "url": "https://open.spotify.com/track/2F23ScUfmepIITJDZf3FgL"
+    },
+    {
+      "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/6NYuJu2uULJwFbsctzOONl"
       },
@@ -11633,7 +11705,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 156026,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1vqzSOlthX17HAs2A8kSEP"
@@ -11835,6 +11907,24 @@
       "duration_ms": 330136,
       "name": "More Like Him",
       "url": "https://open.spotify.com/track/0hG291JHJC5su8HRiGhZWa"
+    },
+    {
+      "album": {
+        "name": "Help 2.0",
+        "url": "https://open.spotify.com/album/3uAuno5UPTQSyRUOEYwxS2"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/6xHk0Za1HYGIIO2wHx67U6"
     },
     {
       "album": {
@@ -13701,7 +13791,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 313040,
       "name": "Peace & Love",
       "url": "https://open.spotify.com/track/2TLvj6n7ySpZp2g0aC15sC"
@@ -14305,7 +14395,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 225133,
       "name": "Psalm 150 - Remix",
       "url": "https://open.spotify.com/track/2dvWFRCNM2ckVGcKuPK5lq"
@@ -14497,7 +14587,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 223396,
       "name": "Reach",
       "url": "https://open.spotify.com/track/5YpUWchb0Zs9Rkp3lvgEAY"
@@ -14801,7 +14891,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 208472,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/3aqTs1agcNKsBo6verQzus"
@@ -15381,7 +15471,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 182474,
       "name": "Sing (From \"The Terrell Show: Season 6\")",
       "url": "https://open.spotify.com/track/5Xbt7RoO6N6ymFA4DmzaPK"
@@ -15771,7 +15861,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 238584,
       "name": "Souls Anchored",
       "url": "https://open.spotify.com/track/3RGLwFXRrRAyTQtIxNc3cQ"
@@ -15789,7 +15879,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 315541,
       "name": "Soul\u2019s Anthem (It Is Well)",
       "url": "https://open.spotify.com/track/3p5z6hZE4twttR81jsbwKa"
@@ -15879,7 +15969,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 206533,
       "name": "Spiritual Love",
       "url": "https://open.spotify.com/track/5LbSZ9FyqpxV8Dt3bxn2DL"
@@ -16255,7 +16345,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 97746,
       "name": "Sweet Grace",
       "url": "https://open.spotify.com/track/135gooUtfMruH8HFrRqhvn"
@@ -16877,7 +16967,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 274493,
       "name": "The Call",
       "url": "https://open.spotify.com/track/0wKzs4kUBmtzBmtl2pr1oY"
@@ -16979,6 +17069,24 @@
       "duration_ms": 471217,
       "name": "The Cross Made the Change - Live",
       "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
+    },
+    {
+      "album": {
+        "name": "5 Am",
+        "url": "https://open.spotify.com/album/03zRNG6BMLkro3MAOFmLYR"
+      },
+      "artists": [
+        {
+          "name": "Lisa McClendon",
+          "url": "https://open.spotify.com/artist/3ky0VIWLRaxxAyq3f8KWd1"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "The Girl Song",
+      "url": "https://open.spotify.com/track/1Wt3rOTUsQQoIQIU6Q1chw"
     },
     {
       "album": {
@@ -17473,7 +17581,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 191400,
       "name": "The Truth Is...",
       "url": "https://open.spotify.com/track/6TYNUH3JcWkq46XM4VQeTa"
@@ -18174,6 +18282,24 @@
     },
     {
       "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200531,
+      "name": "Ultralight Beam",
+      "url": "https://open.spotify.com/track/5anPHKl01TNpTe618GzX1m"
+    },
+    {
+      "album": {
         "name": "Uncloudy Day",
         "url": "https://open.spotify.com/album/0aNboFiRPSVQHjUq5JkMHQ"
       },
@@ -18543,7 +18669,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 233866,
       "name": "We Need a Word from the Lord",
       "url": "https://open.spotify.com/track/2i7UCoVQohXplZ18Rb2Zds"
@@ -18695,7 +18821,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 185439,
       "name": "Weak",
       "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
@@ -19035,7 +19161,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 320880,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/3AFgJ9JMBjlaaf7JCCA5mQ"
@@ -19429,7 +19555,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 237960,
       "name": "Yes",
       "url": "https://open.spotify.com/track/0yUncqoqCfm90nrEKZqOnY"
@@ -19559,7 +19685,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 352800,
       "name": "You Are God - Broken Album Version",
       "url": "https://open.spotify.com/track/4aQ6YpmRV2fl8CgeAWBRuI"

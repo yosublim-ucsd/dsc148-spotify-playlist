@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,336 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,392 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [The Love We Had](https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Love We Had](https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj) | 3:06 |
 | 50 | [Plus la peine](https://open.spotify.com/track/11okUANe3u6NzVAL2G33So) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Plus la peine](https://open.spotify.com/album/7exJUBfgVVkKFfrnn5eqMZ) | 3:08 |
 
-Snapshot ID: `MCxkOWFkNDM5Zjg3M2ZlY2RiYjc1ZGJiOGE5MzAzY2E3N2JmNDhmMWRj`
+Snapshot ID: `MCw2YzI5MzQ1ZTNjMzcyMGU2MTY2NTliOGE0MzE5YzMxMGE0YTU0ZDUy`

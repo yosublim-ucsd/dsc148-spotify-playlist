@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Britti\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,179,074 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,179,009 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 84 | [Meri Said](https://open.spotify.com/track/6YqWVeBfmKx5Luf6kYtF6r) | [Quiet Takes](https://open.spotify.com/artist/3qA9q27gKjuMgIq96xvrfS) | [Meri Said](https://open.spotify.com/album/4romUCaZ6IPd6PyvSZA4IX) | 3:13 |
 | 85 | [Dreams](https://open.spotify.com/track/2uXRD5GktE9KnEY3C7m1m4) | [Money Lang](https://open.spotify.com/artist/4sXjXTMEvVLMIEig1WGSXj) | [Dreams](https://open.spotify.com/album/1fGapBzWfHhD2yq4esJ7f0) | 3:09 |
 
-Snapshot ID: `MCwwN2E5NTZmMTZlZjI1ZTViZjcwNDI2Y2I4ZTE5NzAyYWIwNTU3MmVj`
+Snapshot ID: `MCw2ZjY2Yzc4OTVjNmQ0ZWVhYjA0ZDE2NmM0ZjZjNmEyMmU4Y2Q2MmEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Mỹ Tâm
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,980 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,997 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Yêu Đơn Phương](https://open.spotify.com/track/30q9zUr6k8fowUiKwetqP1) | [Kimmese](https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA) | [FTOK](https://open.spotify.com/album/0SPyp6rOaeAbWQQAHJPMTU) | 4:59 |
 | 50 | [So Bad](https://open.spotify.com/track/2gP1CDcPJ8hJTwFGEpnRgw) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [VSTRA](https://open.spotify.com/album/168kYvrugeWAGTfIl7i4Ck) | 3:06 |
 
-Snapshot ID: `MCxlMWI1NDZjYzRlYTg4YzBmYmIxZDgzZDI1MmIwYTUzY2UzYWE4NTdh`
+Snapshot ID: `MCw1NGE5MjM2ZjllZmEwMGUwYTAyOTY4ZWI1ZDJhYjU2NzAyYzBlODk0`

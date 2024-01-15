@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 131574,
+  "num_followers": 131526,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjZmNTVmMzMyMjlmNmYxNWRhNzIxNmUxNGU1NmI0MmJhNTk3M2Uw",
+  "snapshot_id": "MCxmYzY0NWY3YzJkOTNlNDgxODkwYWUwYzNkZDE4MjY5YjRlNmUzZDQ3",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -919,6 +919,34 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Bossatrap",
+        "url": "https://open.spotify.com/album/1mQRelSZ2JllBKN7esf5hR"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/6MxAvGQdLQEsGQ4ZqxKW7Q"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "SEM MALDADE",
         "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
       },
@@ -983,34 +1011,6 @@
       "duration_ms": 143606,
       "name": "Rio de Janeiro",
       "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Bossatrap",
-        "url": "https://open.spotify.com/album/1mQRelSZ2JllBKN7esf5hR"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/6MxAvGQdLQEsGQ4ZqxKW7Q"
     },
     {
       "added_at": "2023-06-23 03:00:00",

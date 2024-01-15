@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 349609,
+  "num_followers": 349940,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGY5OWQzMzU5YjQyNmMxZmFkN2NiNDZmOTIyZTgwNGFhMjk1Mjhh",
+  "snapshot_id": "MCw5MjgzYTg3ZWZkYjljODRjNTg3ZjI5NTcxNGFhZmFjMTRlNThlMmU1",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "On the Water",
-        "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 254037,
       "name": "This Song Is Not About A Girl",
       "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "On the Water",
+        "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1089,20 +1089,20 @@
       "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
+      "added_at": "2023-05-16 12:08:08",
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 221226,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1121,20 +1121,20 @@
       "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
     },
     {
-      "added_at": "2023-05-16 12:08:08",
+      "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 216665,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1389,24 +1389,20 @@
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
-      "added_at": "2023-05-17 13:32:35",
+      "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "I Love My Girl, She's My Boy",
-        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
+        "name": "Church Of Scars",
+        "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
       },
       "artists": [
         {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
         }
       ],
-      "duration_ms": 174708,
-      "name": "Redlight (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/4uTNk3wbViJoxwndrE6wqj"
+      "duration_ms": 194960,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
     },
     {
       "added_at": "2023-02-10 12:43:59",
@@ -1425,20 +1421,24 @@
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
+      "added_at": "2023-05-17 13:32:35",
       "album": {
-        "name": "Church Of Scars",
-        "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
+        "name": "I Love My Girl, She's My Boy",
+        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
       },
       "artists": [
         {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
+      "duration_ms": 174708,
+      "name": "Redlight (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/4uTNk3wbViJoxwndrE6wqj"
     },
     {
       "added_at": "2023-01-20 11:00:00",

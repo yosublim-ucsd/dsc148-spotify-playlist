@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 17091,
+  "num_followers": 17110,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTEzM2ZhNTAxNTJjZmFjYmNjOTA3MTg0MDI4NTIyMThkNmQ3NDM2",
+  "snapshot_id": "MCw2MzZhNTQ1M2YwNTkyYzdkYWNiMTVmNWExMjQ0MTRmMWEwOTJiOGQ1",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Wanna Know Remix (feat. Drake)",
-        "url": "https://open.spotify.com/album/4rL5hr03vh6g69Ce0rwStB"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 199019,
-      "name": "Wanna Know Remix (feat. Drake)",
-      "url": "https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Meet Me At Our Spot (Live)",
         "url": "https://open.spotify.com/album/7x5oZf6cKUstjslCxLsKkT"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 147828,
       "name": "Meet Me At Our Spot - Live",
       "url": "https://open.spotify.com/track/3BrWLBC4WYx393yRUOlTih"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Wanna Know Remix (feat. Drake)",
+        "url": "https://open.spotify.com/album/4rL5hr03vh6g69Ce0rwStB"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 199019,
+      "name": "Wanna Know Remix (feat. Drake)",
+      "url": "https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj"
     },
     {
       "added_at": "2022-10-01 20:09:45",

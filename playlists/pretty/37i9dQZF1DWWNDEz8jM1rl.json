@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 120595,
+  "num_followers": 120576,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjcyZjBhNjYyZGViOTcwYTg5NWVmNTY3YzcyMzg1YjU0ODk2ZWQx",
+  "snapshot_id": "MCw3ZjQyZjdiMjEyMDY1MzM0N2VlNDBjYmQxY2I5YjlkYmI0OWZkNDQ0",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -583,22 +583,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Alegr\u00eda y Gozo 2020",
-        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Banda Alternativa",
-          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+          "name": "Robert Felix",
+          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
         }
       ],
-      "duration_ms": 229272,
-      "name": "Una Se\u00f1al",
-      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
+      "duration_ms": 227520,
+      "name": "Por Un Minuto Tu Presencia",
+      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -619,18 +615,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+        "name": "Alegr\u00eda y Gozo 2020",
+        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
       "artists": [
         {
-          "name": "Robert Felix",
-          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
+          "name": "Banda Alternativa",
+          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Por Un Minuto Tu Presencia",
-      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
+      "duration_ms": 229272,
+      "name": "Una Se\u00f1al",
+      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
     },
     {
       "added_at": "2020-09-18 05:02:00",

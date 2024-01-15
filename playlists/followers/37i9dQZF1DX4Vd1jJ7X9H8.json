@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 302795,
+  "2024-01-15": 302987,
   "date_first_scraped": "2022-02-13",
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
   "name": "Soir\u00e9e",
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
@@ -3007,6 +3007,28 @@
       "duration_ms": 244000,
       "name": "FORCE OF HABIT",
       "url": "https://open.spotify.com/track/41fJZ1doa6iEWbL3CNS7pQ"
+    },
+    {
+      "album": {
+        "name": "Foreign Language (10 Year Anniversary)",
+        "url": "https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244080,
+      "name": "Foreign Language",
+      "url": "https://open.spotify.com/track/5JFDFNp3jzckTyB0QwHuwp"
     },
     {
       "album": {

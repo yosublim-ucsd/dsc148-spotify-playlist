@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,983 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,007 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 13 | [Noche criolla \(Bolero\)](https://open.spotify.com/track/4a3OlRMArXSfJT0Q7VhM3z) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 2:19 |
 | 14 | [Novillero](https://open.spotify.com/track/4Ek3tB6l5v1qnFBJmtlfkm) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:51 |
 | 15 | [La Fugitiva \(with Kevin Johansen\)](https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:14 |
-| 16 | [Piensa en Mí](https://open.spotify.com/track/1KfCdHD9zFCzcjYYhy6dwy) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Piensa en Mí](https://open.spotify.com/album/5R0XXQDPspK5UIQQeOJg6W) | 3:28 |
-| 17 | [Concha nácar / Limosna \- Remastered](https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Vereda tropical \(Remastered\)](https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V) | 2:55 |
+| 16 | [Concha nácar / Limosna \- Remastered](https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Vereda tropical \(Remastered\)](https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V) | 2:55 |
+| 17 | [Piensa en Mí](https://open.spotify.com/track/1KfCdHD9zFCzcjYYhy6dwy) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Piensa en Mí](https://open.spotify.com/album/5R0XXQDPspK5UIQQeOJg6W) | 3:28 |
 | 18 | [Volverás \- Remastered](https://open.spotify.com/track/6ikxAnVinPvjq3ICIz5dU7) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Lo Mejor de La Sonora Matancera \(Remastered\)](https://open.spotify.com/album/5oPiWYPNFLc9z0h6D4l6iJ) | 2:27 |
 | 19 | [Lamento Jarocho](https://open.spotify.com/track/6pymCUKfbAhsqpv0h1VSWu) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 2:37 |
 | 20 | [De Riguroso Schottis](https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU) | [Lilian De Celis](https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:10 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 22 | [Fermin](https://open.spotify.com/track/7vq0vLvz6mS2qHis0l9eF1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:24 |
 | 23 | [María Bonita](https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Canciones de Agustín Lara, Vol\. 1](https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX) | 3:02 |
 | 24 | [Talisman / Mujer \- Instrumental](https://open.spotify.com/track/5HlfgoxX2Xonf8cPZMh6r0) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Música y Piano](https://open.spotify.com/album/5ANYSvLVpHLjUAd9gPcSXV) | 3:30 |
-| 25 | [Arroyito](https://open.spotify.com/track/0HRKAbmPPfj3ajOImUKWBn) | [Las Hermanas Aguila](https://open.spotify.com/artist/1SClsi2cAmt2dNAQHkxfX1) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:20 |
-| 26 | [Te Quiero](https://open.spotify.com/track/5EFW2HziZlnbTJfshcpxo3) | [Sonia Lopez](https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty) | [Lo Esencial de Agustín Lara](https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx) | 3:03 |
+| 25 | [Te Quiero](https://open.spotify.com/track/5EFW2HziZlnbTJfshcpxo3) | [Sonia Lopez](https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty) | [Lo Esencial de Agustín Lara](https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx) | 3:03 |
+| 26 | [Arroyito](https://open.spotify.com/track/0HRKAbmPPfj3ajOImUKWBn) | [Las Hermanas Aguila](https://open.spotify.com/artist/1SClsi2cAmt2dNAQHkxfX1) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:20 |
 | 27 | [Aventurera](https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Agustín Lara a 50 Años](https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx) | 2:48 |
 | 28 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:53 |
 | 29 | [Maria Bonita](https://open.spotify.com/track/6jXlkEZDNhnlpECAtoGLGy) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 3:26 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 60 | [Ultimo Beso](https://open.spotify.com/track/5ZT8iOABS33ALHJlCqKQrA) | [Juan Arvizu](https://open.spotify.com/artist/1jZMKZr3NhGJYonvUXbCPh) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:20 |
 | 61 | [Popurrí de Mujeres Galantes](https://open.spotify.com/track/0hMBb9Wf01bFqr8HF3X1Hz) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Pedazos del Corazón \(Homenaje a Álvaro Carrillo y Agustín Lara\)](https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq) | 6:13 |
 | 62 | [Ya Me Voy](https://open.spotify.com/track/0yA64SEitaUPFmrcRcUaRe) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Lo Esencial de Agustín Lara](https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx) | 3:04 |
-| 63 | [Veracruz](https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 5:09 |
-| 64 | [Nadie](https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH) | [Amparo Montes](https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH) | [Coleccion Original RCA](https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn) | 4:12 |
-| 65 | [Imposible](https://open.spotify.com/track/0iIQwFO3qLjav5vTrDI8ka) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta Con Mariachi Vol\. 4](https://open.spotify.com/album/7KZNk3B8QKNufiD59PNuJq) | 2:42 |
+| 63 | [Nadie](https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH) | [Amparo Montes](https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH) | [Coleccion Original RCA](https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn) | 4:12 |
+| 64 | [Imposible](https://open.spotify.com/track/0iIQwFO3qLjav5vTrDI8ka) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta Con Mariachi Vol\. 4](https://open.spotify.com/album/7KZNk3B8QKNufiD59PNuJq) | 2:42 |
+| 65 | [Veracruz](https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 5:09 |
 | 66 | [Rosa](https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk) | [Alejandro Algara](https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB) | [5 Decadas de Boleros: Boleros de los 20's](https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy) | 4:04 |
 | 67 | [Paloma Torcaza](https://open.spotify.com/track/3QCrq7muaMrj2oWzQPgeNf) | [Matilde Sanchez "La Torcacita"](https://open.spotify.com/artist/2xG92z8NBt06s2M5D696an) | [Tesoros de Colección \- la Torcacita \- la Panchita \- la Consentida](https://open.spotify.com/album/7gJusenmPC00e4GDVN8C3s) | 2:18 |
 | 68 | [Se Me Hizo Fácil](https://open.spotify.com/track/1FTSbw0qc0z2cmtbnL02zc) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 79 | [El Capulin](https://open.spotify.com/track/4XBq7wuQTC05NrwquJ3HWP) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:19 |
 | 80 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9) | [Genaro Salinas](https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD) | [La Coleccion Del Siglo](https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb) | 3:06 |
 
-Snapshot ID: `MCxkOGVlOGQ0ZjUzNTNiNGViOWY2ZDY3NGIzNjAxZDEzNjAxMzNhNmQz`
+Snapshot ID: `MCwxMzY4ZDZkZGM2MmFiYTliZGM2YzdiMTA0MjAxZWZlZWIzNWQ1Y2Q2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mi Amigo Invencible
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,082 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,970 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 89 | [Colorá](https://open.spotify.com/track/3hL7qjD8Mdcrjc5t1BFcHE) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Colorá](https://open.spotify.com/album/19MnZqlVTv2v1ZXKFLGhFQ) | 3:17 |
 | 90 | [TRON](https://open.spotify.com/track/2bUGKZBkgUnhSy3BOgsVSV) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [TRON](https://open.spotify.com/album/5s6bzBHKOA5tsFof560XlJ) | 2:25 |
 
-Snapshot ID: `MCwwYmQ4MjRhMDBhMmYwZGI0ZWJhMDdiNDRiMjM1MDBjZjQ4OWExOTNj`
+Snapshot ID: `MCwxYTQ3OWRhZWZkYjAwZDRkOWU3MzI3MTI0MjA0N2E5ZjgwOWQzNzk3`

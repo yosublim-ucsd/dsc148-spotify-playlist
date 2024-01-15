@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-928 songs - 1 day 13 hr 57 min
+929 songs - 1 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2023-12-18 |  |
 | [ADHD](https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [ADHD](https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL) | 2:30 | 2023-04-12 | 2023-08-05 |
 | [Africa](https://open.spotify.com/track/4JuRS40lZe0yfSewmnR9mT) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Africa](https://open.spotify.com/album/2Mj6dalgFFAwZBBYiJ8Ego) | 1:40 | 2024-01-08 | 2024-01-12 |
-| [Africa](https://open.spotify.com/track/3EJX92YQikjQ67VnPszDVh) | [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze) | [Africa](https://open.spotify.com/album/2ZJpYF6pdZZh98WKRSRUxO) | 1:55 | 2023-12-29 |  |
+| [Africa](https://open.spotify.com/track/6ePxkskGVXrhMNFBKpenGX) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Africa](https://open.spotify.com/album/2xJBXWvEMg9lPN08qmERdu) | 1:54 | 2023-12-29 |  |
+| [Africa](https://open.spotify.com/track/3EJX92YQikjQ67VnPszDVh) | [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze) | [Africa](https://open.spotify.com/album/2ZJpYF6pdZZh98WKRSRUxO) | 1:55 | 2023-12-29 | 2024-01-15 |
 | [agenda](https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [agenda](https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl) | 1:39 | 2022-02-03 | 2022-07-30 |
 | [AINT NOTHING](https://open.spotify.com/track/5754hZ1mD8MUxppIBI1Lze) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [AINT NOTHING](https://open.spotify.com/album/5Xcs66TveRQpEMUoJE0V9d) | 2:34 | 2023-10-20 | 2023-11-18 |
 | [Aint Nothing](https://open.spotify.com/track/6Q2Cec1drXDOqrTUyM1brP) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Aint Nothing](https://open.spotify.com/album/5odMnlD41r5v3vVWxe18kG) | 2:34 | 2023-08-18 | 2023-10-25 |

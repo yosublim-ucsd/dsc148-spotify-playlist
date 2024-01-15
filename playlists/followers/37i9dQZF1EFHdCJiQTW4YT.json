@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 308,
+  "2024-01-15": 308,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB\">Stephen Wrabel</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Stephen Wrabel",
@@ -449,7 +449,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 223097,
       "name": "Better Not",
       "url": "https://open.spotify.com/track/3bL6r8sQ9J0rft22iiv5fY"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 222865,
       "name": "Better Not (with Wafia)",
       "url": "https://open.spotify.com/track/7n1940b6kHcaEewFSZXnXa"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "High Road",
       "url": "https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 207445,
       "name": "High Road",
       "url": "https://open.spotify.com/track/61ajurwxRe5ylmgL15chfw"

@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Fit For A King
 
-5,429 songs - 15 day 7 hr 54 min
+5,430 songs - 15 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1929,7 +1929,8 @@
 | [gates](https://open.spotify.com/track/7A7ZS7xDpgEJvRhQOVExwP) | [iLY Kuro](https://open.spotify.com/artist/7qTjjw8ksTngJJ9U2gyGCK) | [gates](https://open.spotify.com/album/3SivYvKzFQ1HtMddzwLWJ2) | 2:27 | 2022-07-15 | 2022-07-23 |
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-20 | 2023-01-28 |
 | [Gawdzillionaire](https://open.spotify.com/track/6vyTnhlUT1MK2cp7IKh0aI) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [Gawdzillionaire](https://open.spotify.com/album/733abj5od5jYeots00QAlp) | 3:36 | 2023-01-13 | 2023-01-21 |
-| [Gekokujo](https://open.spotify.com/track/4P5FLFEXubO1ubrCsd6xWW) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [Gekokujo](https://open.spotify.com/album/6FPIlc5s7W17qNjFWobkcP) | 4:47 | 2023-12-08 |  |
+| [Gekokujo](https://open.spotify.com/track/12SHQE0LutzIe4ltA8s7WP) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [RYUJIN](https://open.spotify.com/album/5wXQup3iFUfm69IUXeeZtC) | 4:47 | 2024-01-12 |  |
+| [Gekokujo](https://open.spotify.com/track/4P5FLFEXubO1ubrCsd6xWW) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [Gekokujo](https://open.spotify.com/album/6FPIlc5s7W17qNjFWobkcP) | 4:47 | 2023-12-08 | 2024-01-15 |
 | [Gemini](https://open.spotify.com/track/7oaFaeyXMDWkc8QFbP7ZpW) | [Astralborne](https://open.spotify.com/artist/45l3HSYbJXF1odSKY3UbTO) | [Gemini](https://open.spotify.com/album/3P80Y0M7qD2VjqtPagZYXt) | 5:02 | 2023-06-30 | 2023-07-08 |
 | [Generation](https://open.spotify.com/track/5nDwCQ7KpQuUKU6vGOCU04) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Generation](https://open.spotify.com/album/1EXPWyUim2Mgpr9ahemxKx) | 3:31 | 2023-08-18 | 2023-08-26 |
 | [Generation Psycho](https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Generation Psycho](https://open.spotify.com/album/6env54gj95TlpdQEMDXRKk) | 3:49 | 2023-08-04 | 2023-08-12 |

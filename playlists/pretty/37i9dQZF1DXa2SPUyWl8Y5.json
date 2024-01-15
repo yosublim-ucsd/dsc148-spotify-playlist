@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 484437,
+  "num_followers": 484522,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTQwYjZlNzY3OWEzNjUzZmY4MmJmODE5MTA1M2ViMmQ1NWIwZjQ4",
+  "snapshot_id": "MCw2YjA4MGNkOWI3NTI4NWI2MWI1MDdmYmNkMzhmYWM5YTY2MWM5OTA3",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "We're Back Chilling",
-        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
-      },
-      "artists": [
-        {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
-        }
-      ],
-      "duration_ms": 267096,
-      "name": "Finding Atlantis",
-      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Allegri",
         "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 322640,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "We're Back Chilling",
+        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 267096,
+      "name": "Finding Atlantis",
+      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Pure Love EP",
-        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        }
-      ],
-      "duration_ms": 393495,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Pure Love EP",
+        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        }
+      ],
+      "duration_ms": 393495,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Tarcu",
         "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
       },
@@ -555,6 +555,26 @@
       "duration_ms": 238537,
       "name": "Tarcu",
       "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Boavista Remixes",
+        "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
+      },
+      "artists": [
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 408003,
+      "name": "Boavista - Innellea's Arp Attachement",
+      "url": "https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -607,26 +627,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Boavista Remixes",
-        "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
-      },
-      "artists": [
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        },
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 408003,
-      "name": "Boavista - Innellea's Arp Attachement",
-      "url": "https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
-      },
-      "artists": [
-        {
-          "name": "Soul Button",
-          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
-        },
-        {
-          "name": "Rustboy",
-          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
-        }
-      ],
-      "duration_ms": 364918,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "June (Mees Salom\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 448770,
       "name": "June - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Piano & Electronic Ensemble Op. 1",
-        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
-      },
-      "artists": [
-        {
-          "name": "Schlindwein",
-          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
-        }
-      ],
-      "duration_ms": 375483,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 413658,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Piano & Electronic Ensemble Op. 1",
+        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
+      },
+      "artists": [
+        {
+          "name": "Schlindwein",
+          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
+        }
+      ],
+      "duration_ms": 375483,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Meertraum",
-        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
-      },
-      "artists": [
-        {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        }
-      ],
-      "duration_ms": 394418,
-      "name": "Meertraum",
-      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 389092,
       "name": "Aldebaran",
       "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Meertraum",
+        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
+      },
+      "artists": [
+        {
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        }
+      ],
+      "duration_ms": 394418,
+      "name": "Meertraum",
+      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
-      },
-      "artists": [
-        {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Proper Time",
         "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 301935,
       "name": "Proper Time",
       "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+      },
+      "artists": [
+        {
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
       },
       "artists": [
         {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         }
       ],
-      "duration_ms": 377419,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
+      "duration_ms": 192476,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
         }
       ],
-      "duration_ms": 192476,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+      "duration_ms": 377419,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
     },
     {
       "added_at": "2023-11-27 19:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,172 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,118 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 70 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [Boskat](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rude Boy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv), [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 |
 | 71 | [Velvet](https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Velvet](https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin) | 2:11 |
 | 72 | [Boring](https://open.spotify.com/track/2daXRVZTrNy5pjmWxAD0Ko) | [VALS ALARM](https://open.spotify.com/artist/3q1SvFNWA77vrDRqEpgjbS) | [Boring](https://open.spotify.com/album/3pE1KSYCzG2B3rPkoiAaC4) | 1:45 |
-| 73 | [Same but Different](https://open.spotify.com/track/1QwYjfHnEe4zhRJJn1xduM) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV), [HOUNDS](https://open.spotify.com/artist/3wfFKDeVtzn1b3hcpu6kE1), [princess xixi](https://open.spotify.com/artist/7GD6fFALvRYYYtN5CfvArj) | [Same but Different](https://open.spotify.com/album/1jBfAc4UGsB88wX6pDCj7H) | 2:59 |
+| 73 | [Same but Different](https://open.spotify.com/track/1QwYjfHnEe4zhRJJn1xduM) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV), [Hounds](https://open.spotify.com/artist/1n9E3jJxYDpiZzKuZIKrVC), [princess xixi](https://open.spotify.com/artist/7GD6fFALvRYYYtN5CfvArj) | [Same but Different](https://open.spotify.com/album/1jBfAc4UGsB88wX6pDCj7H) | 2:59 |
 | 74 | [Desire](https://open.spotify.com/track/2uUCwUtdTzNda7D4y3W9RW) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [ÆLINN](https://open.spotify.com/artist/6NsKMikdjKAce0fFJ7xvkw) | [Desire](https://open.spotify.com/album/4WX2ORRvgvCCckSwgIliZd) | 2:31 |
 | 75 | [Remedy](https://open.spotify.com/track/4TEpXRn8hHaRLUaACfSLlJ) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [Remedy](https://open.spotify.com/album/1riJyIHM2mOrqDDrE0Pu8A) | 3:00 |
 | 76 | [ELECTROWAVEBABY](https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:25 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 82 | [DALIA](https://open.spotify.com/track/1cvaWa3yUprEFJE7LHSwYs) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/3R2jNXD3phm411Luzlz1DJ) | 3:32 |
 | 83 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
 
-Snapshot ID: `MCw5NzlkM2Q0NjA0YjA4NWE5YjdhYjgyMjFjMzlhNTA2ZTI3ZTI5YjIy`
+Snapshot ID: `MCw1ZWM0M2U3ZTQxNjdiYjc1YjVlOTEzY2Q4ZGI4ZTU5MDFjMzVkNTI1`

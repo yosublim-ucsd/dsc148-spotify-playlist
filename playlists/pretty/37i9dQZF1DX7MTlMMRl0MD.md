@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Sofía Reyes & Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,880,731 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,878,420 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 59 | [Madre](https://open.spotify.com/track/1e89wmECkzDpPCr9op4Pxf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Madre](https://open.spotify.com/album/44TzyeLPqQZT2ipNqJwQ4r) | 3:39 |
 | 60 | [En Peligro de Extinción](https://open.spotify.com/track/2gH9IUIvYNKea0ONXnB3Ex) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [En Peligro de Extinción](https://open.spotify.com/album/25gXpumHXGJW3HGKsNmtuk) | 4:04 |
 
-Snapshot ID: `MCwwZTZiMjAwNTY4YzkxZjIyOWM2YzlmZjE3ZGIxMDg3YmE2ODJlMjA0`
+Snapshot ID: `MCxjNjRhNjIzOWFjN2IzNTU4Mjk0MDM2YjY2NTM5Njc1ZDY4NjRiOWMz`

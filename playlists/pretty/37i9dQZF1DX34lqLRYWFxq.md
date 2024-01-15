@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: Good Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,142 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,127 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Pale As Rain](https://open.spotify.com/track/75OQq4ClNxSlLPLrzRpCnj) | [Le Trouble](https://open.spotify.com/artist/06VIKb27bR2kPbSitSxI9S), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Excess Baggage](https://open.spotify.com/album/5uz4OGwi4GfpTCRK7Wfdtr) | 3:21 |
 | 100 | [get it together !](https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 2:43 |
 
-Snapshot ID: `MCwzYTU5MWE1YzZkNGE5ZGVhNDkyZjc3ZmE2MzlhNjg3NjY0ODlmMmMw`
+Snapshot ID: `MCwzY2Q1NjdiODM5ZGJmMzA0ODk0OTBiYTBmMTZlNmU1YzRmMDk3OGU3`

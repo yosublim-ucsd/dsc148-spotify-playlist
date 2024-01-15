@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,819 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,329 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 54 | [Infame](https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Infame](https://open.spotify.com/album/5ajNNK3Yk53P8040QnuhOT) | 4:10 |
 | 55 | [Blue](https://open.spotify.com/track/6XnN3odDNIC7ALIxEEkjQq) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Blue](https://open.spotify.com/album/3F7Zw02ymEuJu1fLZl4Yf2) | 3:03 |
 | 56 | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3) | 2:57 |
-| 57 | [Dentes Amarelos](https://open.spotify.com/track/4MKFLktfOFYZT8e7GRjavw) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Dentes Amarelos](https://open.spotify.com/album/7MtCGjHayofUeaOKu7TGu4) | 2:36 |
+| 57 | [Dentes Amarelos](https://open.spotify.com/track/25lfkHU2G1tqRpmZtQo8nv) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória](https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5) | 2:35 |
 | 58 | [Piloto Automático \- Ao Vivo no Studio F](https://open.spotify.com/track/2jaF9qxuI3hqvfH3xKlQcu) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Supercombo Ao Vivo no Studio F](https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp) | 3:11 |
 | 59 | [Por que a gente é assim?](https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Barão 40 \(Clássicos\)](https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la) | 3:41 |
 | 60 | [Coração Codificado](https://open.spotify.com/track/7p39pt1zEPGAJqhBL7VHVM) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Coração Codificado](https://open.spotify.com/album/6q4dxXqEwVg2Bf3SFOQmGl) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [O Dia](https://open.spotify.com/track/7dOshwpifuDUfbHDSFVKld) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [O Dia](https://open.spotify.com/album/3FNVfaYAcIaxYlcbrbzCxL) | 6:08 |
 | 75 | [Te Louvarei](https://open.spotify.com/track/6dKHmRsN74LZ7BiMdC0znb) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Te Louvarei](https://open.spotify.com/album/2VurG8NqUWqYArLdPA4pik) | 4:36 |
 
-Snapshot ID: `MCwzZjRlNmU1MTczMTU1YjkzNDQ0MjFkNTJlMGYwZDZiMjVlMWZiZGVk`
+Snapshot ID: `MCw4N2U0ZTc4ZmI2MGVkOWE5MDg1Yzk2NDU2YTQzNzI2YmU0MTliNTgy`

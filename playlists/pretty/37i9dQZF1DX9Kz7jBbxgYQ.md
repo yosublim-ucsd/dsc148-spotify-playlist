@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,511 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,679 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 89 | [Aarish](https://open.spotify.com/track/5gkERI7wlS357vbRIlUjQn) | [Himasri Sarkar](https://open.spotify.com/artist/5GPWLvu5S3lXQNG7vzxu4C) | [Aarish](https://open.spotify.com/album/4EYgwPkFVFA5C7fdir7toq) | 4:21 |
 | 90 | [Laayee Mohabbat](https://open.spotify.com/track/1j0WqABtu73oIgtqzGIiP4) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA), [Qulid](https://open.spotify.com/artist/2CV0KIicosK2RGWjpil0Wp) | [Laayee Mohabbat](https://open.spotify.com/album/334JZbhqXvJUdSDzXph9DN) | 3:07 |
 
-Snapshot ID: `MCwyMTVjZTE3Y2RmYjBhMzNkNmQ5MTBiMjFmNmJlMTM1ZTQzMTQwZjY3`
+Snapshot ID: `MCw1YTU0YWU0MWViOWU3YWNmYTdmNDI2ZDExNGM0OTllZjFiZDJlNDc4`

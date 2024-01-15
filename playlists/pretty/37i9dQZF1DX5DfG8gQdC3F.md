@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ariana Grande, 21 Savage, Josh Ross, Lil Nas X, Preme and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,395 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,306 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 61 | [Am I Still](https://open.spotify.com/track/7GGEcAZd0xBkffdV3te4K7) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Am I Still](https://open.spotify.com/album/2ZE6bfMY4TYQdxivSWMOEp) | 3:02 |
 | 62 | [Lucky](https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lucky](https://open.spotify.com/album/58UHfHzT9zqjvSWbC06Bcn) | 3:24 |
 | 63 | [GANAS](https://open.spotify.com/track/7j8WiRODf8Gqea0MAdJDvr) | [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [GANAS](https://open.spotify.com/album/2GijBknx1Wz6PajM7iUrWK) | 2:39 |
-| 64 | [Let The Boy Die](https://open.spotify.com/track/12vdBeUeEiJmLvMMDHMDSp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [Merkules](https://open.spotify.com/artist/5ZJoRfn7aeOp89PGBAJFFO) | [Let The Boy Die](https://open.spotify.com/album/3jsJ6zeCyMjknyNLr4k14Y) | 3:36 |
+| 64 | [Let The Boy Die](https://open.spotify.com/track/12vdBeUeEiJmLvMMDHMDSp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Let The Boy Die](https://open.spotify.com/album/3jsJ6zeCyMjknyNLr4k14Y) | 3:36 |
 | 65 | [Run and Hide](https://open.spotify.com/track/3kVo06kA91kPxlgEG4txN6) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Taye](https://open.spotify.com/artist/5KglBmg3ivkpxNMwDVTvXa) | [Run and Hide](https://open.spotify.com/album/6PRuQH3sUxOdejQ16wlVLt) | 2:51 |
 | 66 | [Houston](https://open.spotify.com/track/41njRJ9m4HJ3yoP0B0MBgE) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Houston](https://open.spotify.com/album/2k39qRWdU209Mf1gc3zrXu) | 3:02 |
 | 67 | [Let Me In](https://open.spotify.com/track/4VrZBc2Awl4kRcAG0TK5Zw) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Let Me In](https://open.spotify.com/album/0LtiWJtia4RzExzAsQvQLv) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Field Of Ruins](https://open.spotify.com/track/2BXzFWbrIzc7TYfs3z8Igv) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Field Of Ruins](https://open.spotify.com/album/5ic3ni2tPnm9mrK6DfvfJg) | 3:42 |
 | 100 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
 
-Snapshot ID: `MCwyODg0ZjU0MjVkN2VhZGUwMzNmYzUyZTM3YTg4OWM3MjFlODgwOTk4`
+Snapshot ID: `MCw2NTI2M2Y5ZjFiMzVmNTMyYTgxNDI3MTU5ZGM3OGM1NGM2YTA2NDMz`

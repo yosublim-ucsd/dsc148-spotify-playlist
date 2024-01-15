@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 268782,
+  "2024-01-15": 268784,
   "date_first_scraped": "2022-11-05",
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
   "name": "This Is Def Leppard",
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 199520,
       "name": "Fire It Up",
       "url": "https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K"
@@ -803,6 +803,24 @@
       "duration_ms": 212093,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/2haIaCgfAIpfAoqRZsCRZw"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327250,
+      "name": "Paper Sun",
+      "url": "https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc"
     },
     {
       "album": {

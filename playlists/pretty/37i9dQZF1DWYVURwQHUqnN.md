@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Morad x GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,669 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,368 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 |
 | 40 | [Pas les mots](https://open.spotify.com/track/5EvhoSHeimcPmYB9f4DhND) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Pas les mots](https://open.spotify.com/album/5dufV0lmFg19yoQaFIwXxa) | 3:30 |
 
-Snapshot ID: `MCwzMWNmZTUxNmZiMjQwYzRjYzNlMDMxZDk0M2RjMGNjM2VhMGRhNjZj`
+Snapshot ID: `MCw0MjU2NTQwNDI2Yzc2MWMzOWNmNTk3MmQ5MTE2MDQ2NTljZmEzY2U0`

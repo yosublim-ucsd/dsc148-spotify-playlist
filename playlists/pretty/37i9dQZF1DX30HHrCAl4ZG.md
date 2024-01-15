@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Vacations
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,144 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,644 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 |
 | 100 | [I'm Only Me When I'm With You](https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [I'm Only Me When I'm With You](https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M) | 4:07 |
 
-Snapshot ID: `MCwxN2E0MWE0ODk5YzVhZjM3ODMyMWViMDVjZmUyNDNhZmI3NWM3ZWU4`
+Snapshot ID: `MCw2NTJjYzAyNjcwN2ZkZWY1N2RjOWRhZDE4NDg2ZjZhMTU4ZDQyYjIz`

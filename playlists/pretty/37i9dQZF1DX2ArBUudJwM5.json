@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 40058,
+  "num_followers": 40064,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWU2MWE4ZTgxMDkwYTBiZDIyMjc0Zjc2MDFiZjhlMjc0MWFiM2I1",
+  "snapshot_id": "MCxhYTEzOTcxZmQyMWE5ZDRmZWMxZjg5ZTU4MGEwN2IzZGUyOTFkMTVi",
   "tracks": [
     {
       "added_at": "2024-01-10 17:36:14",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Whos That B!Tch?",
         "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 153624,
       "name": "Whos That B!Tch?",
       "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -463,34 +463,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "38",
-        "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Kenzy",
-          "url": "https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4"
-        },
-        {
-          "name": "May Creizy",
-          "url": "https://open.spotify.com/artist/6XyKFAoM3iHJimAHWo7JNQ"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "38",
-      "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "eclips3",
         "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
       },
@@ -515,6 +487,34 @@
       "duration_ms": 132531,
       "name": "BALENCI",
       "url": "https://open.spotify.com/track/3GXoZfQYnWhZ476kAWfI2u"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "38",
+        "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Kenzy",
+          "url": "https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4"
+        },
+        {
+          "name": "May Creizy",
+          "url": "https://open.spotify.com/artist/6XyKFAoM3iHJimAHWo7JNQ"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "38",
+      "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "AREA 69",
-        "url": "https://open.spotify.com/album/0aI5tf7kRiGIfA3X7fC7ez"
-      },
-      "artists": [
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        },
-        {
-          "name": "La Finesse",
-          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
-        }
-      ],
-      "duration_ms": 157628,
-      "name": "AREA 69",
-      "url": "https://open.spotify.com/track/7zwr2S6zTLQqt3IQ4wpht1"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 185432,
       "name": "INFINITO",
       "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "AREA 69",
+        "url": "https://open.spotify.com/album/0aI5tf7kRiGIfA3X7fC7ez"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "La Finesse",
+          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+        }
+      ],
+      "duration_ms": 157628,
+      "name": "AREA 69",
+      "url": "https://open.spotify.com/track/7zwr2S6zTLQqt3IQ4wpht1"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "La Historia Sin Final",
-        "url": "https://open.spotify.com/album/1de1EluzPrCYRh7BlEQPtv"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "La Historia Sin Final",
-      "url": "https://open.spotify.com/track/2vK2Q4Evlb7VYwZ3FCweSb"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Revolea",
         "url": "https://open.spotify.com/album/5i2gn7HRchalnvQHW5WCYI"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "NACE UNA MADRE",
-        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+        "name": "La Historia Sin Final",
+        "url": "https://open.spotify.com/album/1de1EluzPrCYRh7BlEQPtv"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
         }
       ],
-      "duration_ms": 144545,
-      "name": "NACE UNA MADRE",
-      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+      "duration_ms": 172533,
+      "name": "La Historia Sin Final",
+      "url": "https://open.spotify.com/track/2vK2Q4Evlb7VYwZ3FCweSb"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "NACE UNA MADRE",
+        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "NACE UNA MADRE",
+      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Isla Mater",
         "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
       },
@@ -963,34 +963,6 @@
       "duration_ms": 191428,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Nasty Girl (feat. Ingratax)",
-        "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Nasty Girl (feat. Ingratax)",
-      "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1035,6 +1007,34 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Nasty Girl (feat. Ingratax)",
+        "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Nasty Girl (feat. Ingratax)",
+      "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Canciones de tapa blanca y negra",
         "url": "https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Lo Que Dicen De Mi",
-        "url": "https://open.spotify.com/album/5jt8WaEAUQAt2X8LmOZMF6"
-      },
-      "artists": [
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 203100,
-      "name": "Lo Que Dicen De Mi",
-      "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Una Linterna",
         "url": "https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 119160,
       "name": "Una Buena Cosa",
       "url": "https://open.spotify.com/track/2E9SLRpuzbO5xZ5I4NgMCf"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Lo Que Dicen De Mi",
+        "url": "https://open.spotify.com/album/5jt8WaEAUQAt2X8LmOZMF6"
+      },
+      "artists": [
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        }
+      ],
+      "duration_ms": 203100,
+      "name": "Lo Que Dicen De Mi",
+      "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "No Me Gustan los Grises",
-        "url": "https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x"
-      },
-      "artists": [
-        {
-          "name": "Mery Granados",
-          "url": "https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1"
-        }
-      ],
-      "duration_ms": 217761,
-      "name": "No Me Gustan los Grises",
-      "url": "https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Veinte Veinte",
         "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 73557,
       "name": "Farras",
       "url": "https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "No Me Gustan los Grises",
+        "url": "https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x"
+      },
+      "artists": [
+        {
+          "name": "Mery Granados",
+          "url": "https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1"
+        }
+      ],
+      "duration_ms": 217761,
+      "name": "No Me Gustan los Grises",
+      "url": "https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
-      },
-      "artists": [
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Xtasis",
         "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
@@ -1415,18 +1395,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 179250,
-      "name": "360 al Mundo",
-      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+      "duration_ms": 176528,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1463,6 +1447,22 @@
       "duration_ms": 284050,
       "name": "Carajo",
       "url": "https://open.spotify.com/track/77AKXWSJHnHscFfovjvFJI"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "360 al Mundo",
+      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Loter\u00eda",
-        "url": "https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa"
-      },
-      "artists": [
-        {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
-        }
-      ],
-      "duration_ms": 133760,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "UN N\u00daMERO",
         "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 72087,
       "name": "NO EST\u00c1 EN EL SISTEMA",
       "url": "https://open.spotify.com/track/00mNX8ubX0aVFok7B98EpV"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Loter\u00eda",
+        "url": "https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa"
+      },
+      "artists": [
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Tu Vereda",
-        "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        },
-        {
-          "name": "Ivan C. Bakmas",
-          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
-        },
-        {
-          "name": "Fer Moreno",
-          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
-        }
-      ],
-      "duration_ms": 147198,
-      "name": "Tu Vereda",
-      "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Living",
         "url": "https://open.spotify.com/album/2h5t04RdpafPVA15JcYiI0"
       },
@@ -1719,6 +1695,30 @@
       "duration_ms": 178013,
       "name": "Viento Helado",
       "url": "https://open.spotify.com/track/2bWQKPzPvyxKZLvf69gXEK"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Tu Vereda",
+        "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        },
+        {
+          "name": "Ivan C. Bakmas",
+          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
+        },
+        {
+          "name": "Fer Moreno",
+          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
+        }
+      ],
+      "duration_ms": 147198,
+      "name": "Tu Vereda",
+      "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
     },
     {
       "added_at": "2024-01-10 17:36:14",

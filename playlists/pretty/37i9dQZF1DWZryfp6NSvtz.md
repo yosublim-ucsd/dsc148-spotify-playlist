@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: swim school
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,884 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,164 likes - 39 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 28 | [I Don't Like the Quiet](https://open.spotify.com/track/1KR1STvtDIV0CsQOPITisE) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [I Don't Like the Quiet](https://open.spotify.com/album/2EoQAb8Gc6QP6UFSe1WcdL) | 3:02 |
 | 29 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 |
 | 30 | [Levitate](https://open.spotify.com/track/46CbksvfXtaM0LTSr6ETAI) | [Emil Bulls](https://open.spotify.com/artist/1scIUjz7Jbq1mOph50OLQO) | [Love Will Fix It](https://open.spotify.com/album/62ZtuStgYH85xAyUoc5I35) | 3:47 |
-| 31 | [Swallowing Static](https://open.spotify.com/track/0Wvb858fVNgScYigss48Lv) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Swallowing Static](https://open.spotify.com/album/3sB6NgsCONwnFCNsRRlh06) | 3:58 |
-| 32 | [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 |
-| 33 | [CAN'T HURT ME NOW](https://open.spotify.com/track/2fmeJdhxkvbB4XjZQ9dvs9) | [MissYou](https://open.spotify.com/artist/4yOXdm7tRLOGo58R8VxyPn) | [CAN'T HURT ME NOW](https://open.spotify.com/album/64cx5omT19xlJ9BqXPpn6P) | 2:52 |
-| 34 | [I hope I die first.](https://open.spotify.com/track/4z54Kxi1N4hPHrH4V4oeGE) | [Letters Sent Home](https://open.spotify.com/artist/6VS6UnMmEtkcyYumRHZUI1) | [I hope I die first.](https://open.spotify.com/album/1AS4ETCktELUDpZEoeU1ie) | 3:11 |
-| 35 | [After All](https://open.spotify.com/track/0pBzRwF75rcTcxjDtQP2X4) | [Anchors & Hearts](https://open.spotify.com/artist/3ixybKAF1bPXRJpvMrHnLr) | [After All](https://open.spotify.com/album/7ljNRl1LP3jabE87yxLvuh) | 3:30 |
-| 36 | [Moving On](https://open.spotify.com/track/1aXEjtwxeBKGHHc0H1Mbjx) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Moving On](https://open.spotify.com/album/4DmrNmbr4xIFarAQhWeoQ6) | 4:28 |
-| 37 | [Arrival](https://open.spotify.com/track/2JG1DMldGFKmPpWwSvfFf4) | [Snails To Space](https://open.spotify.com/artist/48L473Yd8wCtNAXN3dCikD) | [Arrival](https://open.spotify.com/album/0XTC5GKxhFBQCmNfGaf2hl) | 2:37 |
-| 38 | [On & On & On](https://open.spotify.com/track/5k2sgz1IxhIzLbpP3bM2L3) | [Same Side](https://open.spotify.com/artist/1eBgO30BGbBDGMZWMI0zhk) | [On & On & On](https://open.spotify.com/album/23OyUlLBCfk5VerHSYpN3t) | 3:06 |
-| 39 | [Woah](https://open.spotify.com/track/5TsqxwqSDXSnS8rYHLElQV) | [Yogurt](https://open.spotify.com/artist/41mxrCQY3INlKRtV17QglN) | [Woah](https://open.spotify.com/album/70u58SLiqooCkPAtLLWmis) | 4:20 |
-| 40 | [I Can't Be Yours](https://open.spotify.com/track/2gnq5j1BmHXIMiCYzCDPgh) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [I Can't Be Yours](https://open.spotify.com/album/2GOtx62sD5AQUDUT6JgQ57) | 4:13 |
+| 31 | [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 |
+| 32 | [CAN'T HURT ME NOW](https://open.spotify.com/track/2fmeJdhxkvbB4XjZQ9dvs9) | [MissYou](https://open.spotify.com/artist/4yOXdm7tRLOGo58R8VxyPn) | [CAN'T HURT ME NOW](https://open.spotify.com/album/64cx5omT19xlJ9BqXPpn6P) | 2:52 |
+| 33 | [I hope I die first.](https://open.spotify.com/track/4z54Kxi1N4hPHrH4V4oeGE) | [Letters Sent Home](https://open.spotify.com/artist/6VS6UnMmEtkcyYumRHZUI1) | [I hope I die first.](https://open.spotify.com/album/1AS4ETCktELUDpZEoeU1ie) | 3:11 |
+| 34 | [After All](https://open.spotify.com/track/0pBzRwF75rcTcxjDtQP2X4) | [Anchors & Hearts](https://open.spotify.com/artist/3ixybKAF1bPXRJpvMrHnLr) | [After All](https://open.spotify.com/album/7ljNRl1LP3jabE87yxLvuh) | 3:30 |
+| 35 | [Moving On](https://open.spotify.com/track/1aXEjtwxeBKGHHc0H1Mbjx) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Moving On](https://open.spotify.com/album/4DmrNmbr4xIFarAQhWeoQ6) | 4:28 |
+| 36 | [Arrival](https://open.spotify.com/track/2JG1DMldGFKmPpWwSvfFf4) | [Snails To Space](https://open.spotify.com/artist/48L473Yd8wCtNAXN3dCikD) | [Arrival](https://open.spotify.com/album/0XTC5GKxhFBQCmNfGaf2hl) | 2:37 |
+| 37 | [On & On & On](https://open.spotify.com/track/5k2sgz1IxhIzLbpP3bM2L3) | [Same Side](https://open.spotify.com/artist/1eBgO30BGbBDGMZWMI0zhk) | [On & On & On](https://open.spotify.com/album/23OyUlLBCfk5VerHSYpN3t) | 3:06 |
+| 38 | [Woah](https://open.spotify.com/track/5TsqxwqSDXSnS8rYHLElQV) | [Yogurt](https://open.spotify.com/artist/41mxrCQY3INlKRtV17QglN) | [Woah](https://open.spotify.com/album/70u58SLiqooCkPAtLLWmis) | 4:20 |
+| 39 | [I Can't Be Yours](https://open.spotify.com/track/2gnq5j1BmHXIMiCYzCDPgh) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [I Can't Be Yours](https://open.spotify.com/album/2GOtx62sD5AQUDUT6JgQ57) | 4:13 |
 
-Snapshot ID: `MCwwNGVjY2U2NzMwN2IyMWNhZDM4YWM1OTQ4OWQyZTcwYmViZGQ1ODYw`
+Snapshot ID: `MCwyYTQ3ZTFkMzQ0OTVlNzJkNTZjMjNmMjczMTE3ODA1MTRiYmFiMzU3`

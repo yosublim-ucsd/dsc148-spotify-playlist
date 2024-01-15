@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,958 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,965 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kertoimia Vastaan](https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 3:17 |
 | 60 | [käpy](https://open.spotify.com/track/62ta8BEEecanvSxeS3FldL) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [käpy](https://open.spotify.com/album/4dfL55wygzB20eJrboY838) | 2:57 |
 
-Snapshot ID: `MCxlZDc0M2Q5ODljMmRmMTEzZTc1MzBmMjczOWEzNzNkZjc4MjMwNTdk`
+Snapshot ID: `MCxkZmNiMGViMzQ4NmNhYmVlZjAzNDlhYmE0YTlkYTZkZDZkYjYzOTdk`

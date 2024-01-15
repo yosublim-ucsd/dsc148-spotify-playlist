@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: ヨルシカ
 
-2,091 songs - 5 day 14 hr 53 min
+2,092 songs - 5 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1057,6 +1057,7 @@
 | [The birth of the odyssey \~ Monkey Magic](https://open.spotify.com/track/01sMxK887hTEwMEenV61pg) | [Mickie Yoshino](https://open.spotify.com/artist/6YtshtTc8bUPwvUcT8bkvw), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [The birth of the odyssey \~ Monkey Magic](https://open.spotify.com/album/0BnmyBenolTJYIrp2MetHm) | 4:15 | 2022-05-31 | 2022-07-19 |
 | [The Day](https://open.spotify.com/track/5QwTTEjky32hgvl0k0ZgAC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [The Day / 39 Minutes](https://open.spotify.com/album/3zI7bAopezE3BRCUNwtcTx) | 3:54 | 2023-04-18 | 2023-05-10 |
 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 | 2023-02-23 | 2023-12-30 |
+| [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2024-01-11 |  |
 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 | 2023-11-14 | 2023-11-29 |
 | [The Memory of Persona](https://open.spotify.com/track/79wjyH8GhWosLYAlcBZWca) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:20 | 2022-08-18 | 2022-08-24 |
 | [The Moon × 星なんて言わず](https://open.spotify.com/track/0d7SVjLgnPByAyPNR0NvPf) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC), [藤原さくら](https://open.spotify.com/artist/5ciduzWXdsgIJYfJVkoEEa) | [The Moon × 星なんて言わず](https://open.spotify.com/album/2aMZjasuLppWmJiFE7g8MN) | 5:23 | 2022-09-15 | 2022-09-28 |
@@ -1449,7 +1450,7 @@
 | [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 | 2023-04-13 |
 | [シフクノトキ](https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シフクノトキ](https://open.spotify.com/album/7C0Ik3cBBtji352WqL4sGj) | 3:07 | 2022-05-31 | 2022-11-30 |
 | [シャワールームランデブー](https://open.spotify.com/track/746svnxRSFBJOHEh84XsmE) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シャワールームランデブー](https://open.spotify.com/album/3Phsmc2oKgMslU1URpjoRs) | 3:24 | 2023-05-09 | 2023-05-11 |
-| [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-10-24 |  |
+| [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-10-24 | 2024-01-15 |
 | [シューティングスター](https://open.spotify.com/track/0gir9EEU8LHgtULyClOgY9) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [シューティングスター](https://open.spotify.com/album/6a6dw8M1WBIQ6YxO7eQIAl) | 4:24 | 2023-08-08 | 2023-08-10 |
 | [シルクのカーディガン](https://open.spotify.com/track/0x672Wfq58Hq63RRCZuNrU) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [シルクのカーディガン](https://open.spotify.com/album/0muk59f6rTTaYplWMMhwIn) | 4:46 | 2022-08-30 | 2022-09-07 |
 | [シンクロ](https://open.spotify.com/track/0RSWLB4Y27vATILaBddYkI) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [君に恋したときから](https://open.spotify.com/album/2OrUINaAaH0sC179JThYch) | 3:31 | 2022-08-23 | 2022-08-31 |

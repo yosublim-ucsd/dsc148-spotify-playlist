@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 238907,
+  "2024-01-15": 238863,
   "date_first_scraped": "2021-12-21",
   "description": "A playlist of spooky songs to get you ready for fright night!",
   "name": "Ultimate Halloween",
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2019-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 228866,
       "name": "Killing Game",
       "url": "https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ"
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2019-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 228640,
       "name": "Yes, I'm A Witch",
       "url": "https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP"

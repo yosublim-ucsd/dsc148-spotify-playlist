@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,667 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,671 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 20 | [Frankie & Johnny](https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [That's A Plenty](https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx) | 3:47 |
 | 21 | [Milenberg Joys](https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG) | [Firehouse Five Plus Two](https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg) | [Goes South!](https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc) | 3:40 |
 | 22 | [Ballin' The Jack](https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Fabulous Sidney Bechet](https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS) | 3:52 |
-| 23 | [Maple Leaf Rag](https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf) | [Sidney Bechet and his New Orleans Feetwarmers](https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5) | [The Essential Sidney Bechet](https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA) | 2:53 |
-| 24 | [Sensation Rag](https://open.spotify.com/track/63XsvMKaZGmcWMwlQUYpBC) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd), [Tony Almerico's All\-Stars](https://open.spotify.com/artist/31JQVJnprBoVpgPph2jcs3) | [Pete Fountain 1955\-1957](https://open.spotify.com/album/6m9Lji8e2hMEMVnhH2P3Lv) | 4:01 |
+| 23 | [Sensation Rag](https://open.spotify.com/track/63XsvMKaZGmcWMwlQUYpBC) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd), [Tony Almerico's All\-Stars](https://open.spotify.com/artist/31JQVJnprBoVpgPph2jcs3) | [Pete Fountain 1955\-1957](https://open.spotify.com/album/6m9Lji8e2hMEMVnhH2P3Lv) | 4:01 |
+| 24 | [Maple Leaf Rag](https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf) | [Sidney Bechet and his New Orleans Feetwarmers](https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5) | [The Essential Sidney Bechet](https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA) | 2:53 |
 | 25 | [South Rampart Street Parade](https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE) | [Bob Crosby & His Orchestra](https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4) | [South Rampart Street Parade](https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1) | 3:33 |
 | 26 | [Wolverine Blues](https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [The Best Of The Dukes Of Dixieland \(Formerly Titled : The Dukes Of Disneyland\)](https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg) | 6:29 |
 | 27 | [Stock Yards Strut](https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7) | [Freddie Keppard](https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ) | [The Complete Set \- 1923\-1926](https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR) | 2:33 |
 | 28 | [Second Line](https://open.spotify.com/track/63JfF4YrOCAcIeDTLa1TTa) | [New Orleans Heritage Hall Jazz Band](https://open.spotify.com/artist/1MCkIPVjX5MQHUTjmBhRFF) | [New Orleans Heritage Hall Jazz Band](https://open.spotify.com/album/3KAFDWjwF2VBNBANhnZ7Nd) | 6:02 |
 | 29 | [Original Dixieland One Step](https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 5:35 |
 | 30 | [Clarinete Marmelade](https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh) | [Black Bottom Stompers](https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe) | [30 Jahre Black Bottom Stompers](https://open.spotify.com/album/622kT8j41pEKEflwXna9lF) | 4:02 |
-| 31 | [Weary Blues](https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ) | [Sidney Bechet's Blue Note Jazzmen](https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt) | [Triple Best Of](https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY) | 2:53 |
-| 32 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
+| 31 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
+| 32 | [Weary Blues](https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ) | [Sidney Bechet's Blue Note Jazzmen](https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt) | [Triple Best Of](https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY) | 2:53 |
 | 33 | [Ring On Her Fingers](https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI) | [Dixieland Band](https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E) | [Kings Of Dixieland](https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71) | 2:19 |
 | 34 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
 | 35 | [I'm Gonna Stomp, Mr Henry Lee](https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf) | [Eddie Condon](https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS) | [Presenting Eddie Condon](https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC) | 3:37 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 | 55 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 
-Snapshot ID: `MCwwMGYxNTAxNDZhOTEyMWZiYWFjNmU2ZWRkNTczNzA2ZjJhMjBjNjEw`
+Snapshot ID: `MCxjOTdiODcyODY5MDVmY2ZjMjBlMzYzMmQwYWIwNjlkNTIxN2QwYWIy`

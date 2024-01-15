@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 217036,
+  "num_followers": 216972,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmQ1MzA0NWVjMDZmNTA2MGViODI3YTA3ZDNlYmIwZTY4NTJkYzNh",
+  "snapshot_id": "MCxkZWE4ZDZiNmYyNzhjMmU2ZDc4NzBjMjRiZTgxZjliNTA4ZTlmYjY1",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
     },
     {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "19 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/5LMMjN3k96FiaApsKfDWie"
+      },
+      "artists": [
+        {
+          "name": "Luis Perez Meza",
+          "url": "https://open.spotify.com/artist/7ma3GVmh9WTTRbTIy5JwVu"
+        }
+      ],
+      "duration_ms": 166125,
+      "name": "El Barzon",
+      "url": "https://open.spotify.com/track/7i1XfrUlcECvLngS2TOrXt"
+    },
+    {
       "added_at": "2023-02-22 16:33:54",
       "album": {
         "name": "Navegar",
@@ -735,22 +751,6 @@
       "duration_ms": 216133,
       "name": "Colas",
       "url": "https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "19 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/5LMMjN3k96FiaApsKfDWie"
-      },
-      "artists": [
-        {
-          "name": "Luis Perez Meza",
-          "url": "https://open.spotify.com/artist/7ma3GVmh9WTTRbTIy5JwVu"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "El Barzon",
-      "url": "https://open.spotify.com/track/7i1XfrUlcECvLngS2TOrXt"
     },
     {
       "added_at": "2022-11-19 17:26:23",

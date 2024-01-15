@@ -1,12 +1,12 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos. \u00a1Felices fiestas!",
-  "num_followers": 2066,
+  "num_followers": 2069,
   "original_name": "Fiesta Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODM3ODY1MGY0MDMyZDYyOTEwOTI1NjkzM2Q3YjFlZDI1YjlmMTU5",
+  "snapshot_id": "MCw0YmJkMjdkZDhmNjEyZDNjNGFiOGUxZWUzMWIyM2JhNDUyMGEyN2I5",
   "tracks": [
     {
       "added_at": "2023-12-15 19:49:30",
@@ -403,22 +403,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Aqui Esperandote (2022 Remastered)",
-        "url": "https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW"
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
       },
       "artists": [
         {
-          "name": "Liz",
-          "url": "https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
         }
       ],
-      "duration_ms": 282693,
-      "name": "A Dormir Juntitos - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB"
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -443,18 +439,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+        "name": "Aqui Esperandote (2022 Remastered)",
+        "url": "https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW"
       },
       "artists": [
         {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+          "name": "Liz",
+          "url": "https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+      "duration_ms": 282693,
+      "name": "A Dormir Juntitos - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Los Sabanales 3.0",
-        "url": "https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 188467,
-      "name": "Los Sabanales 3.0",
-      "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 401880,
       "name": "Pl\u00e1stico",
       "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Los Sabanales 3.0",
+        "url": "https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 188467,
+      "name": "Los Sabanales 3.0",
+      "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Billo 74",
-        "url": "https://open.spotify.com/album/0GQb89N563CubetrKf5w7F"
+        "name": "El Poder de la M\u00fasica",
+        "url": "https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
         }
       ],
-      "duration_ms": 192253,
-      "name": "Aguinaldo Con Billo",
-      "url": "https://open.spotify.com/track/6lY38LRQnrma0j02GhP0me"
+      "duration_ms": 302333,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/26T9IOS6Bi9iOUjKkcZsZo"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "El Poder de la M\u00fasica",
-        "url": "https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p"
+        "name": "Billo 74",
+        "url": "https://open.spotify.com/album/0GQb89N563CubetrKf5w7F"
       },
       "artists": [
         {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 302333,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/26T9IOS6Bi9iOUjKkcZsZo"
+      "duration_ms": 192253,
+      "name": "Aguinaldo Con Billo",
+      "url": "https://open.spotify.com/track/6lY38LRQnrma0j02GhP0me"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "La Maquina del Sabor '88",
-        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
-      },
-      "artists": [
-        {
-          "name": "Gran Coquivacoa",
-          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Gaita Onomatop\u00e9yica",
-      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "El Baile",
         "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 275252,
       "name": "El Mono",
       "url": "https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "La Maquina del Sabor '88",
+        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
+      },
+      "artists": [
+        {
+          "name": "Gran Coquivacoa",
+          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Gaita Onomatop\u00e9yica",
+      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Billos Caracas Boys Fin de A\u00f1o",
         "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Mariachi Total",
         "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "La Orquesta de Siempre: Volume 1",
-        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Pasito Tun, Tun",
-      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
+      "duration_ms": 249813,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1223,6 +1223,22 @@
       "duration_ms": 280880,
       "name": "Buscandote",
       "url": "https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "La Orquesta de Siempre: Volume 1",
+        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Pasito Tun, Tun",
+      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1291,22 +1307,6 @@
       "duration_ms": 183367,
       "name": "T\u00fa No Bailas Mas Que Yo",
       "url": "https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 274360,
-      "name": "Quizas Si Quizas No",
-      "url": "https://open.spotify.com/track/6CLf04XX1tCTCatUuy62kg"
     }
   ],
   "unique_name": "Fiesta Decembrina",

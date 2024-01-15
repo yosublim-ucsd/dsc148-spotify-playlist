@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 69366,
+  "num_followers": 69393,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODIwZjljNjFiNTI2OTAzYTMzMTgzZDcxYTkxYmU3MGQ4OGY0Y2M4",
+  "snapshot_id": "MCw0OTRjNmQ5ODQ3ZDAwN2Q5MjA5MDNkZjZjYmQ0OTliZDQ3NDJhM2U0",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -307,26 +307,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "ALLERLAATSTE FEESTJE",
-        "url": "https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3"
+        "name": "Bring It Hardcore",
+        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
       },
       "artists": [
         {
-          "name": "DIKKE BAAP",
-          "url": "https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
         }
       ],
-      "duration_ms": 183017,
-      "name": "ALLERLAATSTE FEESTJE",
-      "url": "https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m"
+      "duration_ms": 284494,
+      "name": "Bring It Hardcore",
+      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -371,18 +363,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Bring It Hardcore",
-        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
+        "name": "ALLERLAATSTE FEESTJE",
+        "url": "https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3"
       },
       "artists": [
         {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+          "name": "DIKKE BAAP",
+          "url": "https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
         }
       ],
-      "duration_ms": 284494,
-      "name": "Bring It Hardcore",
-      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+      "duration_ms": 183017,
+      "name": "ALLERLAATSTE FEESTJE",
+      "url": "https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
+        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
+      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Slaves To The Darkness",
         "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 198315,
       "name": "Slaves To The Darkness",
       "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
-        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
-      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "BE LOUDER",
-        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
       },
       "artists": [
         {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
         }
       ],
-      "duration_ms": 171428,
-      "name": "BE LOUDER",
-      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+        "name": "BE LOUDER",
+        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
       },
       "artists": [
         {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
         }
       ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+      "duration_ms": 171428,
+      "name": "BE LOUDER",
+      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "The Gospel (Geck-o's Gabber Confession Remix)",
-        "url": "https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo"
+        "name": "Demonic Playgrounds",
+        "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
       },
       "artists": [
         {
-          "name": "Audiofreq",
-          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
         },
         {
-          "name": "Geck-O",
-          "url": "https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB"
+          "name": "Disarray",
+          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
         }
       ],
-      "duration_ms": 231500,
-      "name": "The Gospel - Geck-o's Gabber Confession Remix",
-      "url": "https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm"
+      "duration_ms": 188404,
+      "name": "Demonic Playgrounds",
+      "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Demonic Playgrounds",
-        "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
+        "name": "The Gospel (Geck-o's Gabber Confession Remix)",
+        "url": "https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo"
       },
       "artists": [
         {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
         },
         {
-          "name": "Disarray",
-          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
+          "name": "Geck-O",
+          "url": "https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB"
         }
       ],
-      "duration_ms": 188404,
-      "name": "Demonic Playgrounds",
-      "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
+      "duration_ms": 231500,
+      "name": "The Gospel - Geck-o's Gabber Confession Remix",
+      "url": "https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm"
     },
     {
       "added_at": "2023-12-21 23:00:00",

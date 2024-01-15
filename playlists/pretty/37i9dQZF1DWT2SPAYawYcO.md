@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,474 likes - 81 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,411 likes - 81 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 77 | [Nora Creina](https://open.spotify.com/track/1T9LxytVzxttoYMrD33XmJ) | [Tom Snowdon](https://open.spotify.com/artist/1bUUZRE9BSdz7acIrPN6HY) | [Nora Creina](https://open.spotify.com/album/6ovYu0QXvaOqhRzoC042GU) | 3:54 |
 | 78 | [I Am Not in a Hurry \- Acoustic](https://open.spotify.com/track/58E5hIcxkevJo90OmNheNX) | [Georgia Mooney](https://open.spotify.com/artist/3buQrSt7xCVPHZMpd6mSCu) | [I Am Not in a Hurry \(Acoustic\)](https://open.spotify.com/album/6cLq0A4fnqBNPMx5Lk9eJF) | 3:31 |
 | 79 | [Tug of War](https://open.spotify.com/track/4Cphv5VjpzOvmZohBEuHnw) | [Sophia Scott](https://open.spotify.com/artist/0me9a9TytM0tVqz3Jpa8ux) | [Tug of War](https://open.spotify.com/album/4Qg9CzuW4wo0zuxOG9M9Yg) | 3:24 |
-| 80 | [More Love](https://open.spotify.com/track/3Btp2yoOci6l2XocvDkhTj) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5), [EDDY](https://open.spotify.com/artist/33yaxmcUg0IfoYPMyskvZS) | [More Love](https://open.spotify.com/album/1yMyJ2HDO6RiTXvRHqT8eG) | 2:37 |
+| 80 | [More Love](https://open.spotify.com/track/3Btp2yoOci6l2XocvDkhTj) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5), [EDDY](https://open.spotify.com/artist/35EEWhSbFB6RRH5KoZermD) | [More Love](https://open.spotify.com/album/1yMyJ2HDO6RiTXvRHqT8eG) | 2:37 |
 | 81 | [MONSTER](https://open.spotify.com/track/2ZvI7tBb6kRs3MiNx9K2CA) | [HARLOW](https://open.spotify.com/artist/1aLrXcfXIrmgnkh3YmPzOd) | [MONSTER](https://open.spotify.com/album/2fhor5q8wmTFErYNvCrjrW) | 3:23 |
 
-Snapshot ID: `MCxjMTNiN2M2NWFkMWVmYTgzYmQzNjMxMzRjNjYwMDk2OGU5NDE5YzU4`
+Snapshot ID: `MCwxMWZiN2NlYWJmOTA4Y2Y4ZTAxMGZlNTUwODU1NWFiYjg3MTI1OTRi`

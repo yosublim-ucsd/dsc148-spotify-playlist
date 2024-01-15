@@ -1,5 +1,5 @@
 {
-  "2024-01-14": 176553,
+  "2024-01-15": 176687,
   "date_first_scraped": "2022-05-30",
   "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Guyon Waton",
   "name": "Boso Jowo",
@@ -455,6 +455,28 @@
     {
       "album": {
         "name": "Bubrah",
+        "url": "https://open.spotify.com/album/5Nkut8ikqRpSbTAplNoMat"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        },
+        {
+          "name": "Agiff",
+          "url": "https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Bubrah",
+      "url": "https://open.spotify.com/track/25RJ8ELZpDxxqYewIesAXY"
+    },
+    {
+      "album": {
+        "name": "Bubrah",
         "url": "https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0"
       },
       "artists": [
@@ -469,7 +491,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 346000,
       "name": "Bubrah",
       "url": "https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ"
@@ -4656,6 +4678,28 @@
     },
     {
       "album": {
+        "name": "Tresno liyane",
+        "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        },
+        {
+          "name": "Agiff",
+          "url": "https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Tresno liyane",
+      "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
+    },
+    {
+      "album": {
         "name": "Tresno Liyane",
         "url": "https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ"
       },
@@ -4671,7 +4715,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 290000,
       "name": "Tresno Liyane",
       "url": "https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR"

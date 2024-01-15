@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,818 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,774 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 23 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 |
 | 24 | [ARMADALE TRAINO](https://open.spotify.com/track/2dZpEIsVFaJBr3tHjH7o05) | [DON DARKOE](https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql) | [ARMADALE TRAINO](https://open.spotify.com/album/5nZGo0Ts5VEIFrQi6TyECX) | 2:56 |
 | 25 | [Actor \- Hotel Rubio Remix](https://open.spotify.com/track/1VPXqIEtjOjD87nMJGWitM) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Actor \(Hotel Rubio Remix\)](https://open.spotify.com/album/0VtO7uKCzH9fwJWejXMWME) | 2:59 |
-| 26 | [More Love](https://open.spotify.com/track/3Btp2yoOci6l2XocvDkhTj) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5), [EDDY](https://open.spotify.com/artist/33yaxmcUg0IfoYPMyskvZS) | [More Love](https://open.spotify.com/album/1yMyJ2HDO6RiTXvRHqT8eG) | 2:37 |
+| 26 | [More Love](https://open.spotify.com/track/3Btp2yoOci6l2XocvDkhTj) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5), [EDDY](https://open.spotify.com/artist/35EEWhSbFB6RRH5KoZermD) | [More Love](https://open.spotify.com/album/1yMyJ2HDO6RiTXvRHqT8eG) | 2:37 |
 | 27 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 |
 | 28 | [Let Me Love You](https://open.spotify.com/track/0JV02u17TnRXWDFIgriiPk) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Let Me Love You](https://open.spotify.com/album/3ur679GWTurfM15mGVN0AT) | 2:58 |
 | 29 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [A Little Taste](https://open.spotify.com/track/6uMNW5hrhvv64soTwiwS52) | [Sonny Grin](https://open.spotify.com/artist/1Nymwcz4ybOrV0WjkFPsne), [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [A Little Taste](https://open.spotify.com/album/7K5f8QZI56ygmIDuLKkCmv) | 3:57 |
 | 99 | [Silly Banter](https://open.spotify.com/track/3jgEEKaw12kJgI3qrjpA0T) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Silly Banter](https://open.spotify.com/album/4c6iutQGEeNdcMMYtRsa7M) | 3:10 |
 
-Snapshot ID: `MCw3NDcxNGQwZDA3ZWY3ZTViNTNlNWYzYTY0MmY4Mzk2NDQ0Y2YwMzJh`
+Snapshot ID: `MCw1N2UxYmMzYmQ1NWY5ODA5OGQxNTlhMTgzNjViNjIzYzhiNjRkZjk3`

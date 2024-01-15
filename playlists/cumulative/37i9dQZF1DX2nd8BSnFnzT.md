@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-416 songs - 23 hr 20 min
+417 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,9 @@
 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 | 2022-01-14 | 2022-04-02 |
 | [Dançar](https://open.spotify.com/track/2JG7LWyNbkzm7GPRf3iXoC) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Dançar](https://open.spotify.com/album/564oeyEGIGpUB3ooaeb0ee) | 2:33 | 2022-01-14 | 2022-02-26 |
 | [Deixar Viver](https://open.spotify.com/track/62mO6x70dol2LOiTGR8GvK) | [Daniel Siebert](https://open.spotify.com/artist/1FXr5LmmIsKw0CvMP9OgR4), [Marilice Caldart](https://open.spotify.com/artist/1880UjmsktmnsggwPbpC4Y) | [Deixar Viver](https://open.spotify.com/album/38lIRym65wLQtPHIN5Z9lO) | 4:22 | 2022-01-14 | 2022-12-17 |
+| [Dentes Amarelos](https://open.spotify.com/track/25lfkHU2G1tqRpmZtQo8nv) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória](https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5) | 2:35 | 2024-01-12 |  |
 | [Dentes Amarelos](https://open.spotify.com/track/2HZ01B2TGIBQTlff9Vk7th) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Dentes Amarelos](https://open.spotify.com/album/2KwgTGfuvwNwQhTKCzarML) | 2:36 | 2023-11-10 | 2023-11-23 |
-| [Dentes Amarelos](https://open.spotify.com/track/4MKFLktfOFYZT8e7GRjavw) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Dentes Amarelos](https://open.spotify.com/album/7MtCGjHayofUeaOKu7TGu4) | 2:36 | 2023-11-17 |  |
+| [Dentes Amarelos](https://open.spotify.com/track/4MKFLktfOFYZT8e7GRjavw) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Dentes Amarelos](https://open.spotify.com/album/7MtCGjHayofUeaOKu7TGu4) | 2:36 | 2023-11-17 | 2024-01-15 |
 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 | 2023-12-08 |  |
 | [Depois de Ver \- Ao Vivo](https://open.spotify.com/track/23BfTfhdUBjjV8g9uhsRXx) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [BONUS LIVE \(Ao Vivo\)](https://open.spotify.com/album/3OMNvKQ04zUJXEksCqmE71) | 3:58 | 2022-12-30 | 2023-10-21 |
 | [Depois Que a Guerra Terminou](https://open.spotify.com/track/7HusYomLBNS718cT4jpDNG) | [Gustavo Kaly](https://open.spotify.com/artist/2APbW9Syz4fKotQHXryChK), [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Depois Que a Guerra Terminou](https://open.spotify.com/album/5ql0LSgUlMUCRAqxt6yLA7) | 2:04 | 2022-04-01 | 2022-04-09 |

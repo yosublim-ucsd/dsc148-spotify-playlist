@@ -1,12 +1,12 @@
 {
   "description": "Our favorite electronic songs from around the world this year. Cover: Jungle",
-  "num_followers": 58732,
+  "num_followers": 58771,
   "original_name": "Best Electronic Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDNjYWVkYWI2MmIzNTAxYWYyYTVkYzQzYTU4ZThkNTk3YzIzOWNk",
+  "snapshot_id": "MCwxMTNhYjExZGZmZWFlNWZhMDlmM2YzZjM0ZDcyZmFiZWY0ZmM0MTdi",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -703,22 +703,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Rose Rouge",
-        "url": "https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 277786,
-      "name": "Rose Rouge",
-      "url": "https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN"
+      "duration_ms": 205421,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox"
+        "name": "Rose Rouge",
+        "url": "https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
         }
       ],
-      "duration_ms": 205421,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm"
+      "duration_ms": 277786,
+      "name": "Rose Rouge",
+      "url": "https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN"
     },
     {
       "added_at": "2023-11-29 12:16:00",

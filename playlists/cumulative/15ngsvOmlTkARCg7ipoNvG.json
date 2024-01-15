@@ -2501,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Bleak",
+        "url": "https://open.spotify.com/album/4T1yaM0ZEeMlm7ZVpAjXxy"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60413,
+      "name": "Bleak - Piano Version",
+      "url": "https://open.spotify.com/track/6dMAIkbN2j6e105RE5S8sA"
+    },
+    {
+      "album": {
         "name": "Bleu",
         "url": "https://open.spotify.com/album/2UAEtwuyhg2gdJD8bK35Ur"
       },

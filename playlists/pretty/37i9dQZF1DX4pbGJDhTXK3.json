@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 133332,
+  "num_followers": 133335,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjViMjdlNDFkODYwM2E5ZjAyNjBmZGU4NDUyNjM2YTFkZDc2MTg4",
+  "snapshot_id": "MCxiNzZlN2FhODVmMjYyYTQ3OTQ5Yjg5NGY1ZTBhOThhZGIzZmZhNzJj",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "The Point At The End Of Infinity",
+        "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
+      },
+      "artists": [
+        {
+          "name": "Of Norway",
+          "url": "https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "The Point At The End Of Infinity",
+      "url": "https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "Motown",
         "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 388272,
       "name": "Motown",
       "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "The Point At The End Of Infinity",
-        "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
-      },
-      "artists": [
-        {
-          "name": "Of Norway",
-          "url": "https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "The Point At The End Of Infinity",
-      "url": "https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT"
     },
     {
       "added_at": "2023-08-02 08:46:27",

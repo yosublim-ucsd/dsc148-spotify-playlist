@@ -4,7 +4,7 @@
 
 > Barack Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-2,856 songs - 6 day 19 hr 1 min
+2,859 songs - 6 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Eye to Eye](https://open.spotify.com/track/3bSYAnvASjfOQbHjJ5AqU9) | [Megan Britt](https://open.spotify.com/artist/41G7vJN8lnQUx054VywKve) | [Eye to Eye](https://open.spotify.com/album/0Rm8RveRoAMtJcxTQHsFwt) | 3:18 | 2023-05-14 | 2023-06-02 |
 | [Eyes Closed](https://open.spotify.com/track/3E3zkflz6Oe2zCcjHpw7qw) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Eyes Closed](https://open.spotify.com/album/5QgQhahldhB5zQ5PmNd7Dv) | 4:03 | 2022-03-04 | 2022-03-26 |
 | [Faceless Man](https://open.spotify.com/track/6nJUrPRhR3WIP6Qh3ocYZC) | [The Intemperate Sons](https://open.spotify.com/artist/5LwJGC0Cr6YQBAMmvoQqEY), [Amir Derakh](https://open.spotify.com/artist/28S3sWvgX9BbOln45EHc2f) | [Faceless Man](https://open.spotify.com/album/3pZcGKLmPsfTREovO812J6) | 3:38 | 2023-07-24 | 2023-08-20 |
+| [Facing the worst fears](https://open.spotify.com/track/5Uztuj1AiTV8e6UPYvB3iF) | [jerry](https://open.spotify.com/artist/1AZJhKobUOUAawr0AEmGE4) | [lovemesooner](https://open.spotify.com/album/0fxjoSnIWH8Mu5zqLUsp4B) | 3:42 | 2024-01-14 |  |
 | [Fade Away](https://open.spotify.com/track/0nVKBy2n1QYLL7XBIvq7KJ) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Fade Away](https://open.spotify.com/album/1BlBwOb5xAl7VzrHdXmBBt) | 3:14 | 2020-09-28 | 2020-10-12 |
 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 | 2019-09-29\* | 2021-11-19 |
 | [Fairy Tales](https://open.spotify.com/track/347Dn6j31v17f9OSeIEEOu) | [Josiah Hodson](https://open.spotify.com/artist/6WFyVuxvI3WYQ6jam9zMGK) | [Fairy Tales](https://open.spotify.com/album/0c4R8A62DfAD8d6VHboQdn) | 2:32 | 2022-10-14 | 2022-11-05 |
@@ -1604,6 +1605,7 @@
 | [MEDICINE](https://open.spotify.com/track/0eTqMjkxXspn1gyoLVOGSi) | [Soma](https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa) | [MEDICINE](https://open.spotify.com/album/2kEDPvGnlddZvs8dSoMSN0) | 2:05 | 2023-06-02 | 2023-06-23 |
 | [Medusa](https://open.spotify.com/track/40334O22mvniSDekH599Sr) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Medusa](https://open.spotify.com/album/4CeQ61y2vtka97tJAlJs0g) | 3:00 | 2022-05-13 | 2022-06-03 |
 | [Meet the Sea](https://open.spotify.com/track/4rVz2HkTChLR8SUlISYZLO) | [Liat and the Sirens](https://open.spotify.com/artist/301CtMztmbpvayBGmvQxfG) | [Meet the Sea](https://open.spotify.com/album/0mIiWFadODBITKdASlykkD) | 3:30 | 2021-01-08 | 2021-01-26 |
+| [Mejor Actor](https://open.spotify.com/track/0cdsLHNPk97g2aHCerp1eg) | [Gaspar García](https://open.spotify.com/artist/2mjcWLwQtkNXI9yU6i0A32) | [Mejor Actor](https://open.spotify.com/album/42dKbSzudlK5Uyw9uZi11y) | 3:54 | 2024-01-14 |  |
 | [Mejor Que Ayer](https://open.spotify.com/track/5IQHbsxJg0DENGuaMRNDUA) | [Lord Cotto](https://open.spotify.com/artist/4xpJTrrWpQnAvW581hU2CF) | [Cuento Largo Corto](https://open.spotify.com/album/0jRSHCVd23xMx6aynWnIfo) | 2:54 | 2022-09-30 | 2022-10-18 |
 | [Memories](https://open.spotify.com/track/6fmkhRzWaVaUunJSUdVNQC) | [Da$htone](https://open.spotify.com/artist/2uJihDSrPn9o8Nqp8xS0hL), [Morgan Pirtle](https://open.spotify.com/artist/2vedSqzE0gHqb79KVRoQXK) | [Futuristic Remeniscin'](https://open.spotify.com/album/4NmMIU7lxqHXltAEHHE6eR) | 3:46 | 2022-06-30 | 2022-07-19 |
 | [MEMORY LAN](https://open.spotify.com/track/3HhNYVrKsVciWoqfrEJ8LC) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [MEMORY LAN](https://open.spotify.com/album/6lc5Y0CJHPSFUi3IvYJA23) | 3:32 | 2023-07-01 | 2023-07-17 |
@@ -2123,6 +2125,7 @@
 | [Saturday Night](https://open.spotify.com/track/0aQATPD7Jp1D6VyjMc30nS) | [Ethan Russell](https://open.spotify.com/artist/3MoGNeiVaOJvJSUzUsyKtc), [Slick](https://open.spotify.com/artist/3z7MXG63sBOyL3jVRqoX0A) | [It's Been Rough](https://open.spotify.com/album/0UCgT2KUhcpwaYMQe4YVk9) | 2:40 | 2023-05-19 | 2023-06-11 |
 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 | 2020-07-12 | 2023-08-28 |
 | [Save Me](https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:21 | 2022-07-26 |  |
+| [Save Me](https://open.spotify.com/track/6ZMRWQBdNNUVpSlVOE8puD) | [Shane Fallon](https://open.spotify.com/artist/0vHn0xsfcB6aggWW09GXFB) | [Save Me](https://open.spotify.com/album/5D4HyulKHtxWOYoZ1FETH5) | 3:30 | 2024-01-14 |  |
 | [Save Me](https://open.spotify.com/track/7qDJpm2mrNGsM4VubSDxek) | [YFRS](https://open.spotify.com/artist/3OApJV6ZV4UUqpxiVBHmGc) | [Save Me](https://open.spotify.com/album/4ogUfhyvyPASSHVg1zonjI) | 3:22 | 2020-11-06 | 2020-11-21 |
 | [Save Me \- Extended](https://open.spotify.com/track/1ZqlkhFxsZLTRd9W46H1vD) | [Jonny pena](https://open.spotify.com/artist/4R9t0fwVA7M9mBgaue3QRO) | [Save Me](https://open.spotify.com/album/7sAcMFajrQH97RU4BEA0xr) | 5:56 | 2021-05-21 | 2021-06-06 |
 | [Save The World](https://open.spotify.com/track/5sl1hP8lWL6LS2yKCvuZxV) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Save The World](https://open.spotify.com/album/01TQsoC4T05pWOxFgpbE38) | 2:37 | 2022-12-23 | 2023-01-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,068 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,054 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 36 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
 | 37 | [La Banda](https://open.spotify.com/track/0nzgxLkf876dcJIJWLDkUD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:03 |
 | 38 | [Tarjeta de Navidad](https://open.spotify.com/track/72PomDaaCoJnjFN0woEqHq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Mejor De Gilberto En La Navidad](https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB) | 4:30 |
-| 39 | [Navidad Sin Ti](https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 3:50 |
-| 40 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |
+| 39 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |
+| 40 | [Navidad Sin Ti](https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 3:50 |
 | 41 | [Ya Viene la Nochebuena](https://open.spotify.com/track/3CMPwyij6yTOIIL5qK5SR0) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Navidad](https://open.spotify.com/album/27wDLLPOvc1D2uAv4AifKp) | 2:08 |
 | 42 | [El Coqui](https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:18 |
 | 43 | [Arbolito](https://open.spotify.com/track/3jOl0qRSfT1KkMd4pPLmeS) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño, Vol\. II](https://open.spotify.com/album/4zGcM2kO7IlHxqukxgCvgm) | 4:58 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 82 | [Navidad Es Amor](https://open.spotify.com/track/58VzmExhFVXfOuqP24e8Q9) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Lourdes Robles](https://open.spotify.com/artist/1c6mqbZk70GyrR8ltrRBtm), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 4:21 |
 | 83 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
 | 84 | [Las Caleñas](https://open.spotify.com/track/27ff9vLVD8uD44K0YTT1Mr) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 3:19 |
-| 85 | [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 |
-| 86 | [Faltan 5 pa’ las 12](https://open.spotify.com/track/7kFu9DNXibWTUkgU5dSJVr) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Faltan 5 pa’ las 12](https://open.spotify.com/album/3SThMaeZTQJxxJAKhpNMgl) | 3:28 |
+| 85 | [Faltan 5 pa’ las 12](https://open.spotify.com/track/7kFu9DNXibWTUkgU5dSJVr) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Faltan 5 pa’ las 12](https://open.spotify.com/album/3SThMaeZTQJxxJAKhpNMgl) | 3:28 |
+| 86 | [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 |
 | 87 | [Me Huele a Ron](https://open.spotify.com/track/4YhDW1o2isKZJwWgp8OSbs) | [Marcos Caminero](https://open.spotify.com/artist/6Kd2SrUH7oY4KC78UhIiNS) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:38 |
 | 88 | [MI REGALO](https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [MI REGALO](https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO) | 2:13 |
 | 89 | [El Guayabo de la Ye](https://open.spotify.com/track/4ZZYF38rwSmsFR61G07953) | [Lisandro Meza Y Su Conjunto](https://open.spotify.com/artist/330D8XpYEkoAZO7cqAnFOb) | [El Inocente](https://open.spotify.com/album/7LPDVaGHgqr876Av8TUyyD) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 |
 | 100 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 |
 
-Snapshot ID: `MCw5MjljYjYzZTY4NWMyNzc0ZjZmY2JjMGI5YWQ5NjE0MmQ4YjU4OGRk`
+Snapshot ID: `MCw3MTM5YTc3MDliZDIyNzRmZjdjMTZhMzI1ZTU2OGE5YjdhYjg0ODQ1`

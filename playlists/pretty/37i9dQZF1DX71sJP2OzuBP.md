@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,598 likes - 105 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,557 likes - 105 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [NYNM](https://open.spotify.com/track/4CO3fJ2VNNLcaGteallbV3) | [Wilke](https://open.spotify.com/artist/6IQTljXmg9iliuQo3g0WFQ), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ), [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau) | [NYNM](https://open.spotify.com/album/6c6b29r1CJbl537u7sDEEk) | 3:38 |
 | 105 | [I Hate Myself Sometimes](https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes](https://open.spotify.com/album/3hUr7wEoUWVlFeEV843iGT) | 2:54 |
 
-Snapshot ID: `MCwzMGEyNTZmZmI3ODUxMzE2MDQwNTQxNTVjODcyZWYzMGM1ZDVlNGJl`
+Snapshot ID: `MCxhY2ZhN2E4ZGE3ZTQ4ODc1MzkyNjJmZjA5YzI4ZjlhOTA1N2Y2OTBl`
