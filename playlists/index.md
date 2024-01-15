@@ -1,4 +1,4 @@
-## Playlists \(7397\)
+## Playlists \(7398\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -7198,6 +7198,7 @@
 - [v o K a l](/playlists/pretty/37i9dQZF1DX8eqay1FtdMm.md)
 - [vamos pal prom](/playlists/pretty/37i9dQZF1DXd659n2DsKUL.md)
 - [vaporwave](/playlists/pretty/37i9dQZF1DWU4EQPjP9ZpS.md)
+- [very famous white girl songs](/playlists/pretty/3CxdxZiKccbhm28UBGzhC7.md)
 - [viendo llover desde la ventana](/playlists/pretty/37i9dQZF1DXbzlMz4hwU9T.md)
 - [viral lofi](/playlists/pretty/37i9dQZF1DX3SNr5BeQZSd.md)
 - [virales viejitas](/playlists/pretty/37i9dQZF1DXcuJfJUfXtde.md)
